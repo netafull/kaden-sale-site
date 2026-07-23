@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-23T11:14:00.093874+00:00",
+  "fetched_at": "2026-07-23T12:13:39.173020+00:00",
   "min_saving_percent": 12,
   "genres": [
     {
@@ -15,31 +15,34 @@
           "points": 0,
           "points_percent": null,
           "image": "https://m.media-amazon.com/images/I/31Nx5ZNVlwL._SL160_.jpg",
-          "url": "https://www.amazon.co.jp/dp/B0D4F34SB4?tag=natafull-22&linkCode=osi&th=1&psc=1"
+          "url": "https://www.amazon.co.jp/dp/B0D4F34SB4?tag=natafull-22&linkCode=osi&th=1&psc=1",
+          "since": "2026-07-23"
         },
         {
-          "asin": "B0C3GTMX5M",
-          "title": "UGREEN 100W モバイルバッテリー 20000mAh 大容量 3ポート USB-C×2 USB-A×1 65W",
+          "asin": "B0BJQ7F16T",
+          "title": "UGREEN 145W モバイルバッテリー 25000mAh大容量 3ポート USB-C×2 USB-A×1 240W ケーブル付",
           "brand": "UGREEN",
-          "price": 6370,
-          "list_price": 9999,
-          "percent_off": 36,
-          "points": 0,
-          "points_percent": null,
-          "image": "https://m.media-amazon.com/images/I/31xSnjyT5rL._SL160_.jpg",
-          "url": "https://www.amazon.co.jp/dp/B0C3GTMX5M?tag=natafull-22&linkCode=osi&th=1&psc=1"
+          "price": 9644,
+          "list_price": 13980,
+          "percent_off": 31,
+          "points": 386,
+          "points_percent": 4,
+          "image": "https://m.media-amazon.com/images/I/31DNDSYNwEL._SL160_.jpg",
+          "url": "https://www.amazon.co.jp/dp/B0BJQ7F16T?tag=natafull-22&linkCode=osi&th=1&psc=1",
+          "since": "2026-07-23"
         },
         {
-          "asin": "B0F6NFHB31",
-          "title": "UGREEN Air モバイルバッテリー マグネット式ワイヤレス充電 超薄型 MagSafe対応 5000mAh PB580 ダークグレー",
+          "asin": "B0F6NC41DZ",
+          "title": "UGREEN Air モバイルバッテリー マグネット式ワイヤレス充電 薄型 MagSafe対応 10000mAh ケーブル内蔵 PB570 グレー",
           "brand": "UGREEN",
-          "price": 4485,
-          "list_price": 5980,
+          "price": 5985,
+          "list_price": 7980,
           "percent_off": 25,
           "points": 0,
           "points_percent": null,
-          "image": "https://m.media-amazon.com/images/I/21qLhxw919L._SL160_.jpg",
-          "url": "https://www.amazon.co.jp/dp/B0F6NFHB31?tag=natafull-22&linkCode=osi&th=1&psc=1"
+          "image": "https://m.media-amazon.com/images/I/41fFiTMfzXL._SL160_.jpg",
+          "url": "https://www.amazon.co.jp/dp/B0F6NC41DZ?tag=natafull-22&linkCode=osi&th=1&psc=1",
+          "since": "2026-07-23"
         },
         {
           "asin": "B0F37QVBNM",
@@ -51,7 +54,8 @@
           "points": 0,
           "points_percent": null,
           "image": "https://m.media-amazon.com/images/I/21tuDxxBuBL._SL160_.jpg",
-          "url": "https://www.amazon.co.jp/dp/B0F37QVBNM?tag=natafull-22&linkCode=osi&th=1&psc=1"
+          "url": "https://www.amazon.co.jp/dp/B0F37QVBNM?tag=natafull-22&linkCode=osi&th=1&psc=1",
+          "since": "2026-07-23"
         },
         {
           "asin": "B0DZ1TGX6T",
@@ -63,7 +67,21 @@
           "points": 0,
           "points_percent": null,
           "image": "https://m.media-amazon.com/images/I/21yWDfPjQgL._SL160_.jpg",
-          "url": "https://www.amazon.co.jp/dp/B0DZ1TGX6T?tag=natafull-22&linkCode=osi&th=1&psc=1"
+          "url": "https://www.amazon.co.jp/dp/B0DZ1TGX6T?tag=natafull-22&linkCode=osi&th=1&psc=1",
+          "since": "2026-07-23"
+        },
+        {
+          "asin": "B0CT2JNCT5",
+          "title": "UGREEN 【小型・軽量・10000mAh】モバイルバッテリー 大容量 2台同時充電（USB-A×1 USBC×1）PD20W 急速充電 小電流モード バッテリー残量表示 コンパクト PSE技術基準適合 iphone17/Android/iPad 各種 USB-C 機器に対応 ねり色 PB507",
+          "brand": "UGREEN",
+          "price": 1979,
+          "list_price": 2580,
+          "percent_off": 23,
+          "points": 0,
+          "points_percent": null,
+          "image": "https://m.media-amazon.com/images/I/11XtUdYufIL._SL160_.jpg",
+          "url": "https://www.amazon.co.jp/dp/B0CT2JNCT5?tag=natafull-22&linkCode=osi&th=1&psc=1",
+          "since": "2026-07-23"
         },
         {
           "asin": "B0GMX4WKYG",
@@ -75,19 +93,21 @@
           "points": 1382,
           "points_percent": 22,
           "image": "https://m.media-amazon.com/images/I/3193CL+De7L._SL160_.jpg",
-          "url": "https://www.amazon.co.jp/dp/B0GMX4WKYG?tag=natafull-22&linkCode=osi&th=1&psc=1"
+          "url": "https://www.amazon.co.jp/dp/B0GMX4WKYG?tag=natafull-22&linkCode=osi&th=1&psc=1",
+          "since": "2026-07-23"
         },
         {
           "asin": "B099JMBCP1",
           "title": "エレコム モバイルバッテリー 10000mAh 大容量 マグネット ( USB PD対応 ) Type-C×1 / USB-A×1 【 iPhone12 / iPhone13 シリーズ推奨 】 PSE認証 ブラック EC-C02BK",
           "brand": "エレコム(ELECOM)",
-          "price": 1698,
+          "price": 1681,
           "list_price": 1960,
-          "percent_off": 13,
-          "points": 17,
-          "points_percent": 1,
+          "percent_off": 14,
+          "points": 0,
+          "points_percent": null,
           "image": "https://m.media-amazon.com/images/I/31+QMeoVBmL._SL160_.jpg",
-          "url": "https://www.amazon.co.jp/dp/B099JMBCP1?tag=natafull-22&linkCode=osi&th=1&psc=1"
+          "url": "https://www.amazon.co.jp/dp/B099JMBCP1?tag=natafull-22&linkCode=osi&th=1&psc=1",
+          "since": "2026-07-23"
         }
       ]
     },
@@ -104,7 +124,8 @@
           "points": 357,
           "points_percent": 4,
           "image": "https://m.media-amazon.com/images/I/3169gfWTJ3L._SL160_.jpg",
-          "url": "https://www.amazon.co.jp/dp/B0G4CC1S2F?tag=natafull-22&linkCode=osi&th=1&psc=1"
+          "url": "https://www.amazon.co.jp/dp/B0G4CC1S2F?tag=natafull-22&linkCode=osi&th=1&psc=1",
+          "since": "2026-07-23"
         },
         {
           "asin": "B0C3VYP1PG",
@@ -116,19 +137,8 @@
           "points": 90,
           "points_percent": 1,
           "image": "https://m.media-amazon.com/images/I/41kxSjsHijL._SL160_.jpg",
-          "url": "https://www.amazon.co.jp/dp/B0C3VYP1PG?tag=natafull-22&linkCode=osi&th=1&psc=1"
-        },
-        {
-          "asin": "B09HB4B15V",
-          "title": "COSORI コソリ ノンフライヤー 4.7L 大容量 家庭用 電気 エアフライヤー 最高温230℃ 揚げ物 ポテト 惣菜 日本語レシピ付き タイマー 自動電源オフ グレー CAF-L501-KJP",
-          "brand": "Cosori",
-          "price": 13980,
-          "list_price": 16038,
-          "percent_off": 13,
-          "points": 140,
-          "points_percent": 1,
-          "image": "https://m.media-amazon.com/images/I/41zBbKORchL._SL160_.jpg",
-          "url": "https://www.amazon.co.jp/dp/B09HB4B15V?tag=natafull-22&linkCode=osi&th=1&psc=1"
+          "url": "https://www.amazon.co.jp/dp/B0C3VYP1PG?tag=natafull-22&linkCode=osi&th=1&psc=1",
+          "since": "2026-07-23"
         }
       ]
     },
@@ -145,7 +155,8 @@
           "points": 348,
           "points_percent": 1,
           "image": "https://m.media-amazon.com/images/I/31pSUSA3kVL._SL160_.jpg",
-          "url": "https://www.amazon.co.jp/dp/B0GVNN41NZ?tag=natafull-22&linkCode=osi&th=1&psc=1"
+          "url": "https://www.amazon.co.jp/dp/B0GVNN41NZ?tag=natafull-22&linkCode=osi&th=1&psc=1",
+          "since": "2026-07-23"
         },
         {
           "asin": "B0DW8MPL2P",
@@ -157,7 +168,8 @@
           "points": 9507,
           "points_percent": 11,
           "image": "https://m.media-amazon.com/images/I/31+5vypcDCL._SL160_.jpg",
-          "url": "https://www.amazon.co.jp/dp/B0DW8MPL2P?tag=natafull-22&linkCode=osi&th=1&psc=1"
+          "url": "https://www.amazon.co.jp/dp/B0DW8MPL2P?tag=natafull-22&linkCode=osi&th=1&psc=1",
+          "since": "2026-07-23"
         },
         {
           "asin": "B0H44Y871S",
@@ -169,7 +181,8 @@
           "points": 998,
           "points_percent": 1,
           "image": "https://m.media-amazon.com/images/I/31h4DPCn3zL._SL160_.jpg",
-          "url": "https://www.amazon.co.jp/dp/B0H44Y871S?tag=natafull-22&linkCode=osi&th=1&psc=1"
+          "url": "https://www.amazon.co.jp/dp/B0H44Y871S?tag=natafull-22&linkCode=osi&th=1&psc=1",
+          "since": "2026-07-23"
         },
         {
           "asin": "B0GRFN53XB",
@@ -181,7 +194,8 @@
           "points": 698,
           "points_percent": 1,
           "image": "https://m.media-amazon.com/images/I/31Hv0tqVQGL._SL160_.jpg",
-          "url": "https://www.amazon.co.jp/dp/B0GRFN53XB?tag=natafull-22&linkCode=osi&th=1&psc=1"
+          "url": "https://www.amazon.co.jp/dp/B0GRFN53XB?tag=natafull-22&linkCode=osi&th=1&psc=1",
+          "since": "2026-07-23"
         },
         {
           "asin": "B0FMR9YY83",
@@ -193,19 +207,8 @@
           "points": 23730,
           "points_percent": 35,
           "image": "https://m.media-amazon.com/images/I/312T9QFCi4L._SL160_.jpg",
-          "url": "https://www.amazon.co.jp/dp/B0FMR9YY83?tag=natafull-22&linkCode=osi&th=1&psc=1"
-        },
-        {
-          "asin": "B0D8PHF6JX",
-          "title": "dreame (ドリーミー) D9 Max Gen2 ロボット掃除機 6000Pa強力吸引 水拭き対応 570 ml の大型ダストボックス 高精度LDSレーザーセンサー 高精度複数階マッピング機能 昼夜を問わず賢く掃除 静音設計 Google Home Alexa Siri対応",
-          "brand": "dreame",
-          "price": 17799,
-          "list_price": 26800,
-          "percent_off": 34,
-          "points": 178,
-          "points_percent": 1,
-          "image": "https://m.media-amazon.com/images/I/31m6EY+5w1L._SL160_.jpg",
-          "url": "https://www.amazon.co.jp/dp/B0D8PHF6JX?tag=natafull-22&linkCode=osi&th=1&psc=1"
+          "url": "https://www.amazon.co.jp/dp/B0FMR9YY83?tag=natafull-22&linkCode=osi&th=1&psc=1",
+          "since": "2026-07-23"
         },
         {
           "asin": "B0F6NRWF9V",
@@ -217,7 +220,8 @@
           "points": 14994,
           "points_percent": 30,
           "image": "https://m.media-amazon.com/images/I/31qmMRLI1gL._SL160_.jpg",
-          "url": "https://www.amazon.co.jp/dp/B0F6NRWF9V?tag=natafull-22&linkCode=osi&th=1&psc=1"
+          "url": "https://www.amazon.co.jp/dp/B0F6NRWF9V?tag=natafull-22&linkCode=osi&th=1&psc=1",
+          "since": "2026-07-23"
         },
         {
           "asin": "B0B59452FZ",
@@ -229,19 +233,8 @@
           "points": 215,
           "points_percent": 1,
           "image": "https://m.media-amazon.com/images/I/31--73ZZPRL._SL160_.jpg",
-          "url": "https://www.amazon.co.jp/dp/B0B59452FZ?tag=natafull-22&linkCode=osi&th=1&psc=1"
-        },
-        {
-          "asin": "B0F1FCM99S",
-          "title": "ルンバ(Roomba)205 DustCompactor Combo ロボット (ロボット掃除機) アイロボット(iRobot)【水拭き/両用/ゴミ圧縮機能付きダスト容器/日本の住宅向けに開発/LiDARナビゲーション/パワーリフト吸引/スマートスクラブ対応/マッピング 掃除経路確認/アプリ操作/落下防止/Amazon.co.jp購入時12ヶ月保証/L121060】ブラック",
-          "brand": "アイロボット(IRobot)",
-          "price": 42800,
-          "list_price": 59798,
-          "percent_off": 28,
-          "points": 0,
-          "points_percent": null,
-          "image": "https://m.media-amazon.com/images/I/31HIrU1UQiL._SL160_.jpg",
-          "url": "https://www.amazon.co.jp/dp/B0F1FCM99S?tag=natafull-22&linkCode=osi&th=1&psc=1"
+          "url": "https://www.amazon.co.jp/dp/B0B59452FZ?tag=natafull-22&linkCode=osi&th=1&psc=1",
+          "since": "2026-07-23"
         },
         {
           "asin": "B0F9KCJ493",
@@ -253,7 +246,21 @@
           "points": 380,
           "points_percent": 1,
           "image": "https://m.media-amazon.com/images/I/319BCGeg7ZL._SL160_.jpg",
-          "url": "https://www.amazon.co.jp/dp/B0F9KCJ493?tag=natafull-22&linkCode=osi&th=1&psc=1"
+          "url": "https://www.amazon.co.jp/dp/B0F9KCJ493?tag=natafull-22&linkCode=osi&th=1&psc=1",
+          "since": "2026-07-23"
+        },
+        {
+          "asin": "B0FBRJHLH7",
+          "title": "dreame D20 Pro ロボット掃除機 吸引＆水拭き両対応/13,000Pa超強力吸引/HyperStream™絡まり防止デュオブラシ/伸縮式サイドブラシ/3D構造化ライト&Pathfinder™テクノロジー/カーペット＆フローリング対応/スマートマッピング/日本語アプリ対応",
+          "brand": "dreame",
+          "price": 39800,
+          "list_price": 47800,
+          "percent_off": 17,
+          "points": 3980,
+          "points_percent": 10,
+          "image": "https://m.media-amazon.com/images/I/318opQo5r7L._SL160_.jpg",
+          "url": "https://www.amazon.co.jp/dp/B0FBRJHLH7?tag=natafull-22&linkCode=osi&th=1&psc=1",
+          "since": "2026-07-23"
         },
         {
           "asin": "B0F6NGXD99",
@@ -265,7 +272,8 @@
           "points": 19995,
           "points_percent": 25,
           "image": "https://m.media-amazon.com/images/I/41aaQgJQsRL._SL160_.jpg",
-          "url": "https://www.amazon.co.jp/dp/B0F6NGXD99?tag=natafull-22&linkCode=osi&th=1&psc=1"
+          "url": "https://www.amazon.co.jp/dp/B0F6NGXD99?tag=natafull-22&linkCode=osi&th=1&psc=1",
+          "since": "2026-07-23"
         },
         {
           "asin": "B0GXB2RZ9Y",
@@ -277,7 +285,8 @@
           "points": 23980,
           "points_percent": 20,
           "image": "https://m.media-amazon.com/images/I/31DRz0R5QsL._SL160_.jpg",
-          "url": "https://www.amazon.co.jp/dp/B0GXB2RZ9Y?tag=natafull-22&linkCode=osi&th=1&psc=1"
+          "url": "https://www.amazon.co.jp/dp/B0GXB2RZ9Y?tag=natafull-22&linkCode=osi&th=1&psc=1",
+          "since": "2026-07-23"
         },
         {
           "asin": "B0CRV7CJD8",
@@ -289,7 +298,8 @@
           "points": 11160,
           "points_percent": 20,
           "image": "https://m.media-amazon.com/images/I/31q-ApXQlVL._SL160_.jpg",
-          "url": "https://www.amazon.co.jp/dp/B0CRV7CJD8?tag=natafull-22&linkCode=osi&th=1&psc=1"
+          "url": "https://www.amazon.co.jp/dp/B0CRV7CJD8?tag=natafull-22&linkCode=osi&th=1&psc=1",
+          "since": "2026-07-23"
         },
         {
           "asin": "B0H3THZTWT",
@@ -301,7 +311,8 @@
           "points": 0,
           "points_percent": null,
           "image": "https://m.media-amazon.com/images/I/31NQdevZR-L._SL160_.jpg",
-          "url": "https://www.amazon.co.jp/dp/B0H3THZTWT?tag=natafull-22&linkCode=osi&th=1&psc=1"
+          "url": "https://www.amazon.co.jp/dp/B0H3THZTWT?tag=natafull-22&linkCode=osi&th=1&psc=1",
+          "since": "2026-07-23"
         },
         {
           "asin": "B0GXB5HWWD",
@@ -313,7 +324,21 @@
           "points": 13499,
           "points_percent": 15,
           "image": "https://m.media-amazon.com/images/I/3196WRRWVZL._SL160_.jpg",
-          "url": "https://www.amazon.co.jp/dp/B0GXB5HWWD?tag=natafull-22&linkCode=osi&th=1&psc=1"
+          "url": "https://www.amazon.co.jp/dp/B0GXB5HWWD?tag=natafull-22&linkCode=osi&th=1&psc=1",
+          "since": "2026-07-23"
+        },
+        {
+          "asin": "B0F1FB6PT8",
+          "title": "ルンバ(Roomba) 105 Combo ロボット + AutoEmpty 充電ステーション (ロボット掃除機) アイロボット(iRobot)【水拭き/両用/自動ゴミ収集/LiDARナビゲーション/パワーリフト吸引/スマートスクラブ対応/マッピング 掃除経路確認/アプリ操作/Amazon.co.jp購入時12ヶ月保証/Y351060】ブラック",
+          "brand": "アイロボット(IRobot)",
+          "price": 51500,
+          "list_price": 59798,
+          "percent_off": 14,
+          "points": 0,
+          "points_percent": null,
+          "image": "https://m.media-amazon.com/images/I/31CkWuoa9YL._SL160_.jpg",
+          "url": "https://www.amazon.co.jp/dp/B0F1FB6PT8?tag=natafull-22&linkCode=osi&th=1&psc=1",
+          "since": "2026-07-23"
         },
         {
           "asin": "B0DRVC5SL4",
@@ -325,7 +350,8 @@
           "points": 5432,
           "points_percent": 14,
           "image": "https://m.media-amazon.com/images/I/314rA9NYmuL._SL160_.jpg",
-          "url": "https://www.amazon.co.jp/dp/B0DRVC5SL4?tag=natafull-22&linkCode=osi&th=1&psc=1"
+          "url": "https://www.amazon.co.jp/dp/B0DRVC5SL4?tag=natafull-22&linkCode=osi&th=1&psc=1",
+          "since": "2026-07-23"
         },
         {
           "asin": "B0BP21W3XX",
@@ -337,7 +363,8 @@
           "points": 361,
           "points_percent": 14,
           "image": "https://m.media-amazon.com/images/I/21Ku0d1qUyL._SL160_.jpg",
-          "url": "https://www.amazon.co.jp/dp/B0BP21W3XX?tag=natafull-22&linkCode=osi&th=1&psc=1"
+          "url": "https://www.amazon.co.jp/dp/B0BP21W3XX?tag=natafull-22&linkCode=osi&th=1&psc=1",
+          "since": "2026-07-23"
         }
       ]
     },
@@ -354,31 +381,21 @@
           "points": 3353,
           "points_percent": 14,
           "image": "https://m.media-amazon.com/images/I/3143nL6VZVL._SL160_.jpg",
-          "url": "https://www.amazon.co.jp/dp/B0GW7WT5SQ?tag=natafull-22&linkCode=osi&th=1&psc=1"
+          "url": "https://www.amazon.co.jp/dp/B0GW7WT5SQ?tag=natafull-22&linkCode=osi&th=1&psc=1",
+          "since": "2026-07-23"
         },
         {
-          "asin": "B0DDKHF9XY",
-          "title": "ソニー(SONY) 完全ワイヤレスイヤホン WF-C510 / 軽量小型4.6g / 高精度通話品質/外音取り込み対応/マルチポイント対応 / IPX4防滴性能 / ブラック/WF-C510 BC",
-          "brand": "Sony",
-          "price": 8300,
-          "list_price": 9900,
-          "percent_off": 16,
-          "points": 0,
-          "points_percent": null,
-          "image": "https://m.media-amazon.com/images/I/31m13PPEytL._SL160_.jpg",
-          "url": "https://www.amazon.co.jp/dp/B0DDKHF9XY?tag=natafull-22&linkCode=osi&th=1&psc=1"
-        },
-        {
-          "asin": "B0DLGJCTPK",
-          "title": "Anker Soundcore AeroClip（Bluetooth 5.4）【オープンイヤー型ワイヤレスイヤホン/イヤーカフ / IP55 防塵・防水規格 / 最大32時間再生 / マルチポイント接続】ミッドナイトブラック",
-          "brand": "Soundcore",
-          "price": 17990,
-          "list_price": null,
-          "percent_off": null,
-          "points": 2159,
-          "points_percent": 12,
-          "image": "https://m.media-amazon.com/images/I/31Kfstr2TTL._SL160_.jpg",
-          "url": "https://www.amazon.co.jp/dp/B0DLGJCTPK?tag=natafull-22&linkCode=osi&th=1&psc=1"
+          "asin": "B0H1QQQVT1",
+          "title": "JBL TOUR PRO 3 ワイヤレスイヤホン bluetooth/ハイブリッドノイズキャンセリング/ハイレゾワイヤレスLDAC/デュアルドライバー/マルチポイント/防塵・防水/ワイヤレス充電対応/スマートタッチディスプレイ搭載/グリーン / JBLTOURPRO3GRN",
+          "brand": "JBL",
+          "price": 29900,
+          "list_price": 39600,
+          "percent_off": 24,
+          "points": 299,
+          "points_percent": 1,
+          "image": "https://m.media-amazon.com/images/I/41Utdz1PykL._SL160_.jpg",
+          "url": "https://www.amazon.co.jp/dp/B0H1QQQVT1?tag=natafull-22&linkCode=osi&th=1&psc=1",
+          "since": "2026-07-23"
         }
       ]
     }

@@ -9,7 +9,7 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: read
+  contents: write  # item_state.json(商品の初検出日)のコミットに必要
   pages: write
   id-token: write
 
@@ -40,6 +40,21 @@ jobs:
 
       - name: Generate site
         run: python scripts/generate_site.py
+
+      # 商品の初検出日を毎時実行をまたいで永続化する。
+      # pushトリガーは設定していないのでループはしない
+      - name: Persist item state
+        run: |
+          git add data/item_state.json
+          if ! git diff --cached --quiet; then
+            git config user.name "github-actions[bot]"
+            git config user.email "github-actions[bot]@users.noreply.github.com"
+            git commit -m "商品の初検出日を更新 [bot]"
+            # 再生成されたsales.json/docsが未ステージで残っていても
+            # rebaseできるようautostashを使う
+            git pull --rebase --autostash origin main
+            git push
+          fi
 
       - uses: actions/upload-pages-artifact@56afc609e74202658d3ffba0e8f6dda462b719fa # v3.0.1
         with:

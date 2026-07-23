@@ -42,6 +42,10 @@ MARKETPLACE = "www.amazon.co.jp"
 ROOT = Path(__file__).resolve().parent.parent
 CONFIG_PATH = ROOT / "config.json"
 OUTPUT_PATH = ROOT / "data" / "sales.json"
+# 商品(ASIN)ごとの初検出日。このサイトは毎時ゼロから検索し直す仕組みで
+# 過去の掲載履歴を持たないため、「いつから掲載しているか」を自前で記録する。
+# CIがこのファイルをコミットして毎時実行をまたいで永続化する
+STATE_PATH = ROOT / "data" / "item_state.json"
 
 RESOURCES = [
     "itemInfo.title",
@@ -391,6 +395,26 @@ def main() -> int:
         # 空サイトで前回のデプロイを上書きしないよう失敗させる
         print("[error] 全ジャンルとも0件のため中止します", file=sys.stderr)
         return 1
+
+    # 商品(ASIN)ごとの初検出日を状態ファイルで管理し、掲載開始日として表示する
+    try:
+        state = json.loads(STATE_PATH.read_text(encoding="utf-8"))
+    except (FileNotFoundError, json.JSONDecodeError):
+        state = {}
+    today = datetime.datetime.now(
+        datetime.timezone(datetime.timedelta(hours=9))
+    ).strftime("%Y-%m-%d")
+    new_state = {}
+    for g in genres:
+        for item in g["items"]:
+            asin = item["asin"]
+            first_seen = (state.get(asin) or {}).get("first_seen") or today
+            item["since"] = first_seen
+            new_state[asin] = {"first_seen": first_seen, "title": item["title"]}
+    STATE_PATH.parent.mkdir(parents=True, exist_ok=True)
+    STATE_PATH.write_text(
+        json.dumps(new_state, ensure_ascii=False, indent=2), encoding="utf-8"
+    )
 
     OUTPUT_PATH.parent.mkdir(parents=True, exist_ok=True)
     OUTPUT_PATH.write_text(

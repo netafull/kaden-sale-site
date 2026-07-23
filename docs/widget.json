@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-23T11:14:00.093874+00:00",
+  "updated": "2026-07-23T12:13:39.173020+00:00",
   "site_url": "https://kaden.netaful.jp/",
   "site_title": "電家ポチ",
   "genres": [
@@ -17,24 +17,24 @@
           "url": "https://www.amazon.co.jp/dp/B0D4F34SB4?tag=natafull-22&linkCode=osi&th=1&psc=1"
         },
         {
-          "title": "UGREEN 100W モバイルバッテリー 20000mAh 大容量 3ポート USB-C×2 USB-A×1 65W",
-          "price": 6370,
-          "list_price": 9999,
-          "percent_off": 36,
-          "points": 0,
-          "points_percent": null,
-          "image": "https://m.media-amazon.com/images/I/31xSnjyT5rL._SL160_.jpg",
-          "url": "https://www.amazon.co.jp/dp/B0C3GTMX5M?tag=natafull-22&linkCode=osi&th=1&psc=1"
+          "title": "UGREEN 145W モバイルバッテリー 25000mAh大容量 3ポート USB-C×2 USB-A×1 240W ケーブル付",
+          "price": 9644,
+          "list_price": 13980,
+          "percent_off": 31,
+          "points": 386,
+          "points_percent": 4,
+          "image": "https://m.media-amazon.com/images/I/31DNDSYNwEL._SL160_.jpg",
+          "url": "https://www.amazon.co.jp/dp/B0BJQ7F16T?tag=natafull-22&linkCode=osi&th=1&psc=1"
         },
         {
-          "title": "UGREEN Air モバイルバッテリー マグネット式ワイヤレス充電 超薄型 MagSafe対応 5000mAh PB580 ダークグレー",
-          "price": 4485,
-          "list_price": 5980,
+          "title": "UGREEN Air モバイルバッテリー マグネット式ワイヤレス充電 薄型 MagSafe対応 10000mAh ケーブル内蔵 PB570 グレー",
+          "price": 5985,
+          "list_price": 7980,
           "percent_off": 25,
           "points": 0,
           "points_percent": null,
-          "image": "https://m.media-amazon.com/images/I/21qLhxw919L._SL160_.jpg",
-          "url": "https://www.amazon.co.jp/dp/B0F6NFHB31?tag=natafull-22&linkCode=osi&th=1&psc=1"
+          "image": "https://m.media-amazon.com/images/I/41fFiTMfzXL._SL160_.jpg",
+          "url": "https://www.amazon.co.jp/dp/B0F6NC41DZ?tag=natafull-22&linkCode=osi&th=1&psc=1"
         },
         {
           "title": "UGREEN MagFlow Qi2 25W認証 モバイルバッテリー Magsafe対応 マグネット式ワイヤレス急速充電 20000mAh ブラック",
@@ -57,6 +57,16 @@
           "url": "https://www.amazon.co.jp/dp/B0DZ1TGX6T?tag=natafull-22&linkCode=osi&th=1&psc=1"
         },
         {
+          "title": "UGREEN 【小型・軽量・10000mAh】モバイルバッテリー 大容量 2台同時充電（USB-A×1 USBC×1）PD20W 急速充電 小電流モード バッテリー残量表示 コンパクト PSE技術基準適合 iphone17/Android/iPad 各種 USB-C 機器に対応 ねり色 PB507",
+          "price": 1979,
+          "list_price": 2580,
+          "percent_off": 23,
+          "points": 0,
+          "points_percent": null,
+          "image": "https://m.media-amazon.com/images/I/11XtUdYufIL._SL160_.jpg",
+          "url": "https://www.amazon.co.jp/dp/B0CT2JNCT5?tag=natafull-22&linkCode=osi&th=1&psc=1"
+        },
+        {
           "title": "CIO モバイルバッテリー 半固体電池 薄型 軽量 タイプC 35W 急速充電 3ポート 10000mAh iPhone 17 Pixel10 Galaxy S26 iPad MacBook Windows ノートPC対応 パススルー SMARTCOBY Pro SLIM SS (ブラック)",
           "price": 6280,
           "list_price": null,
@@ -68,11 +78,11 @@
         },
         {
           "title": "エレコム モバイルバッテリー 10000mAh 大容量 マグネット ( USB PD対応 ) Type-C×1 / USB-A×1 【 iPhone12 / iPhone13 シリーズ推奨 】 PSE認証 ブラック EC-C02BK",
-          "price": 1698,
+          "price": 1681,
           "list_price": 1960,
-          "percent_off": 13,
-          "points": 17,
-          "points_percent": 1,
+          "percent_off": 14,
+          "points": 0,
+          "points_percent": null,
           "image": "https://m.media-amazon.com/images/I/31+QMeoVBmL._SL160_.jpg",
           "url": "https://www.amazon.co.jp/dp/B099JMBCP1?tag=natafull-22&linkCode=osi&th=1&psc=1"
         }
@@ -100,16 +110,6 @@
           "points_percent": 1,
           "image": "https://m.media-amazon.com/images/I/41kxSjsHijL._SL160_.jpg",
           "url": "https://www.amazon.co.jp/dp/B0C3VYP1PG?tag=natafull-22&linkCode=osi&th=1&psc=1"
-        },
-        {
-          "title": "COSORI コソリ ノンフライヤー 4.7L 大容量 家庭用 電気 エアフライヤー 最高温230℃ 揚げ物 ポテト 惣菜 日本語レシピ付き タイマー 自動電源オフ グレー CAF-L501-KJP",
-          "price": 13980,
-          "list_price": 16038,
-          "percent_off": 13,
-          "points": 140,
-          "points_percent": 1,
-          "image": "https://m.media-amazon.com/images/I/41zBbKORchL._SL160_.jpg",
-          "url": "https://www.amazon.co.jp/dp/B09HB4B15V?tag=natafull-22&linkCode=osi&th=1&psc=1"
         }
       ]
     },
@@ -167,16 +167,6 @@
           "url": "https://www.amazon.co.jp/dp/B0FMR9YY83?tag=natafull-22&linkCode=osi&th=1&psc=1"
         },
         {
-          "title": "dreame (ドリーミー) D9 Max Gen2 ロボット掃除機 6000Pa強力吸引 水拭き対応 570 ml の大型ダストボックス 高精度LDSレーザーセンサー 高精度複数階マッピング機能 昼夜を問わず賢く掃除 静音設計 Google Home Alexa Siri対応",
-          "price": 17799,
-          "list_price": 26800,
-          "percent_off": 34,
-          "points": 178,
-          "points_percent": 1,
-          "image": "https://m.media-amazon.com/images/I/31m6EY+5w1L._SL160_.jpg",
-          "url": "https://www.amazon.co.jp/dp/B0D8PHF6JX?tag=natafull-22&linkCode=osi&th=1&psc=1"
-        },
-        {
           "title": "roborock Q7B+ ブラック ロボロック ロボット掃除機 小型 お掃除ロボット 水拭き 両用 自動ゴミ収集 150分 8,000Pa 強力吸引 マッピング 強力吸引 自動充電 アプリ操作 高精度レーザーセンサー 正規品 Q7BP52-04",
           "price": 49980,
           "list_price": null,
@@ -195,6 +185,16 @@
           "points_percent": 1,
           "image": "https://m.media-amazon.com/images/I/31--73ZZPRL._SL160_.jpg",
           "url": "https://www.amazon.co.jp/dp/B0B59452FZ?tag=natafull-22&linkCode=osi&th=1&psc=1"
+        },
+        {
+          "title": "roborock(ロボロック) Q10V+ ロボット掃除機 水拭き 両用 自動ゴミ収集 障害物回避 お掃除ロボット【Qシリーズ高総合力モデル】",
+          "price": 37999,
+          "list_price": 51999,
+          "percent_off": 27,
+          "points": 380,
+          "points_percent": 1,
+          "image": "https://m.media-amazon.com/images/I/319BCGeg7ZL._SL160_.jpg",
+          "url": "https://www.amazon.co.jp/dp/B0F9KCJ493?tag=natafull-22&linkCode=osi&th=1&psc=1"
         }
       ]
     },
@@ -212,24 +212,14 @@
           "url": "https://www.amazon.co.jp/dp/B0GW7WT5SQ?tag=natafull-22&linkCode=osi&th=1&psc=1"
         },
         {
-          "title": "ソニー(SONY) 完全ワイヤレスイヤホン WF-C510 / 軽量小型4.6g / 高精度通話品質/外音取り込み対応/マルチポイント対応 / IPX4防滴性能 / ブラック/WF-C510 BC",
-          "price": 8300,
-          "list_price": 9900,
-          "percent_off": 16,
-          "points": 0,
-          "points_percent": null,
-          "image": "https://m.media-amazon.com/images/I/31m13PPEytL._SL160_.jpg",
-          "url": "https://www.amazon.co.jp/dp/B0DDKHF9XY?tag=natafull-22&linkCode=osi&th=1&psc=1"
-        },
-        {
-          "title": "Anker Soundcore AeroClip（Bluetooth 5.4）【オープンイヤー型ワイヤレスイヤホン/イヤーカフ / IP55 防塵・防水規格 / 最大32時間再生 / マルチポイント接続】ミッドナイトブラック",
-          "price": 17990,
-          "list_price": null,
-          "percent_off": null,
-          "points": 2159,
-          "points_percent": 12,
-          "image": "https://m.media-amazon.com/images/I/31Kfstr2TTL._SL160_.jpg",
-          "url": "https://www.amazon.co.jp/dp/B0DLGJCTPK?tag=natafull-22&linkCode=osi&th=1&psc=1"
+          "title": "JBL TOUR PRO 3 ワイヤレスイヤホン bluetooth/ハイブリッドノイズキャンセリング/ハイレゾワイヤレスLDAC/デュアルドライバー/マルチポイント/防塵・防水/ワイヤレス充電対応/スマートタッチディスプレイ搭載/グリーン / JBLTOURPRO3GRN",
+          "price": 29900,
+          "list_price": 39600,
+          "percent_off": 24,
+          "points": 299,
+          "points_percent": 1,
+          "image": "https://m.media-amazon.com/images/I/41Utdz1PykL._SL160_.jpg",
+          "url": "https://www.amazon.co.jp/dp/B0H1QQQVT1?tag=natafull-22&linkCode=osi&th=1&psc=1"
         }
       ]
     }

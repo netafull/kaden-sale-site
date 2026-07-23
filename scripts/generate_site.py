@@ -67,6 +67,7 @@ details > .grid, details > .empty { margin-top: 12px; }
 .off.hi { background: var(--badge-hi); }
 .points { font-size: 11px; color: #0a7d3c; font-weight: 600; margin-top: 2px; }
 @media (prefers-color-scheme: dark) { .points { color: #4fd689; } }
+.since { font-size: 11px; color: var(--muted); margin-top: 2px; }
 footer { max-width: 960px; margin: 0 auto; padding: 16px;
   color: var(--muted); font-size: 12px; border-top: 1px solid var(--line); }
 .empty { color: var(--muted); font-size: 14px; padding: 12px 0; }
@@ -100,6 +101,15 @@ def render_book(item: dict) -> str:
         pct = item.get("points_percent")
         pct_txt = f"{pct}%還元" if pct else "還元"
         points_html = f'<div class="points">+{item["points"]}pt ({pct_txt})</div>'
+    since_html = ""
+    if item.get("since"):
+        try:
+            since_date = datetime.date.fromisoformat(item["since"])
+            since_html = (
+                f'<div class="since">{since_date.month}/{since_date.day}から掲載</div>'
+            )
+        except ValueError:
+            pass
     return f"""<a class="book" href="{esc(item["url"])}" target="_blank" rel="noopener sponsored">
   {img_html}
   <div>
@@ -107,6 +117,7 @@ def render_book(item: dict) -> str:
     {brand}
     <div class="price"><span class="now">&yen;{int(item["price"]):,}</span>{was_html}{off_html}</div>
     {points_html}
+    {since_html}
   </div>
 </a>"""
 
