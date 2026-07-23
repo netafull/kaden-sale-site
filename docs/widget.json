@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-23T09:38:26.010009+00:00",
+  "updated": "2026-07-23T09:52:59.530109+00:00",
   "site_url": "https://kaden.netaful.jp/",
   "site_title": "電家ポチ",
   "books": [
@@ -192,6 +192,16 @@
       "points_percent": 20,
       "image": "https://m.media-amazon.com/images/I/31q-ApXQlVL._SL160_.jpg",
       "url": "https://www.amazon.co.jp/dp/B0CRV7CJD8?tag=natafull-22&linkCode=osi&th=1&psc=1"
+    },
+    {
+      "title": "COSORI コソリ ノンフライヤー 2L 一人用 エアフライヤー オイル97％カット 省エネ ミニ 卓上 電気 フライヤー 揚げ物 専用レシピ付き PSE認証済み ブラックCAF-LI211-KJP",
+      "price": 8980,
+      "list_price": 10980,
+      "percent_off": 18,
+      "points": 90,
+      "points_percent": 1,
+      "image": "https://m.media-amazon.com/images/I/41kxSjsHijL._SL160_.jpg",
+      "url": "https://www.amazon.co.jp/dp/B0C3VYP1PG?tag=natafull-22&linkCode=osi&th=1&psc=1"
     }
   ]
 }

@@ -3,7 +3,7 @@
   "site_tagline": "ガジェット・家電セールまとめ",
   "site_description": "Amazonでセール中のガジェット・家電を1時間ごとに自動更新でお届けします",
   "site_url": "https://kaden.netaful.jp/",
-  "min_saving_percent": 20,
+  "min_saving_percent": 15,
   "pages_per_genre": 5,
   "genres": [
     {
@@ -18,7 +18,7 @@
       "keywords": ["エアフライヤー", "ノンフライヤー"],
       "search_index": "HomeAndKitchen",
       "must_include_any": ["フライヤー"],
-      "known_brands": ["Panasonic", "パナソニック", "Philips", "フィリップス", "COSORI", "コソリ", "T-fal", "ティファール", "Cuisinart", "クイジナート", "タイガー", "TIGER", "象印", "Zojirushi", "Vitantonio", "ビタントニオ", "デロンギ", "DeLonghi", "山善", "YAMAZEN", "アイリスオーヤマ", "IRIS OHYAMA"]
+      "known_brands": ["Panasonic", "パナソニック", "Philips", "フィリップス", "COSORI", "コソリ", "T-fal", "ティファール", "Cuisinart", "クイジナート", "タイガー", "TIGER", "象印", "Zojirushi", "Vitantonio", "ビタントニオ", "デロンギ", "DeLonghi", "山善", "YAMAZEN", "アイリスオーヤマ", "IRIS OHYAMA", "BRUNO", "ブルーノ", "ニトリ", "NITORI", "recolte", "レコルト", "siroca", "シロカ", "Bear", "ベア", "Ninja", "ニンジャ", "無印良品", "MUJI", "貝印", "KAI"]
     },
     {
       "name": "ロボット掃除機",
@@ -32,7 +32,7 @@
       "keywords": ["ワイヤレスイヤホン", "Bluetoothイヤホン"],
       "search_index": "Electronics",
       "must_include_any": ["イヤホン", "イヤフォン"],
-      "known_brands": ["Sony", "ソニー", "Anker", "Soundcore", "サウンドコア", "JBL", "Bose", "ボーズ", "Apple", "アップル", "Beats", "ゼンハイザー", "Sennheiser", "Panasonic", "パナソニック", "audio-technica", "オーディオテクニカ", "ELECOM", "エレコム"]
+      "known_brands": ["Sony", "ソニー", "Anker", "Soundcore", "サウンドコア", "JBL", "Bose", "ボーズ", "Apple", "アップル", "Beats", "ゼンハイザー", "Sennheiser", "Panasonic", "パナソニック", "audio-technica", "オーディオテクニカ", "ELECOM", "エレコム", "Huawei", "ファーウェイ", "Google", "グーグル", "Pixel", "Samsung", "サムスン", "Galaxy", "Xiaomi", "シャオミ", "Nothing", "Skullcandy", "スカルキャンディー", "Shure", "シュア", "final", "Technics", "テクニクス", "Victor", "JVC", "Denon", "デノン", "Marshall", "マーシャル"]
     }
   ]
 }
