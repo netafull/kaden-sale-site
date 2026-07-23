@@ -1,0 +1,34 @@
+{
+  "site_title": "電家ポチ",
+  "site_tagline": "ガジェット・家電セールまとめ",
+  "site_description": "Amazonでセール中のガジェット・家電を1時間ごとに自動更新でお届けします",
+  "site_url": "https://kaden.netaful.jp/",
+  "min_saving_percent": 20,
+  "pages_per_genre": 5,
+  "genres": [
+    {
+      "name": "モバイルバッテリー",
+      "keywords": ["MagSafe モバイルバッテリー", "モバイルバッテリー 急速充電"],
+      "search_index": "Electronics",
+      "must_include_any": ["MagSafe", "モバイルバッテリー", "バッテリー"]
+    },
+    {
+      "name": "エアフライヤー",
+      "keywords": ["エアフライヤー", "ノンフライヤー"],
+      "search_index": "HomeAndKitchen",
+      "must_include_any": ["フライヤー"]
+    },
+    {
+      "name": "ロボット掃除機",
+      "keywords": ["ロボット掃除機"],
+      "search_index": "Electronics",
+      "must_include_any": ["ロボット掃除機", "ロボットクリーナー"]
+    },
+    {
+      "name": "ワイヤレスイヤホン",
+      "keywords": ["ワイヤレスイヤホン", "Bluetoothイヤホン"],
+      "search_index": "Electronics",
+      "must_include_any": ["イヤホン", "イヤフォン"]
+    }
+  ]
+}

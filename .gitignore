@@ -1,0 +1,11 @@
+# APIキーなどの認証情報は絶対にコミットしない
+.env
+*.pem
+*.key
+
+# Python
+__pycache__/
+*.pyc
+
+# macOS
+.DS_Store

@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>ウィジェット埋め込みテスト｜電家ポチ</title>
+<style>
+  body {
+    max-width: 700px;
+    margin: 0 auto;
+    padding: 24px 16px 64px;
+    font-family: -apple-system, BlinkMacSystemFont, "Hiragino Sans", "Noto Sans JP", sans-serif;
+    line-height: 1.8;
+    color: #1a1a1a;
+    background: #fafaf7;
+  }
+  @media (prefers-color-scheme: dark) {
+    body { background: #14151a; color: #e8e8e6; }
+  }
+  h1 { font-size: 22px; margin-bottom: 16px; }
+  p { margin-bottom: 16px; }
+</style>
+</head>
+<body>
+<h1>今日のガジェットレビュー(ダミー記事)</h1>
+
+<p>
+このページはブログ記事を模した、外部埋め込みウィジェットの動作確認用テストページです。
+本文はダミーです。実際のブログ記事では、この位置にレビューや感想などが入ります。
+</p>
+
+<p>
+記事の本文がひとしきり続いたあと、末尾に「電家ポチ」の自動更新ウィジェットを
+埋め込むと、以下のように現在セール中のガジェット・家電が自動表示されます。
+</p>
+
+<!-- ここから埋め込みスニペット(相対パスでローカル検証用) -->
+<div id="kaden-widget"><a href="https://kaden.netaful.jp/">ガジェット・家電セール情報「電家ポチ」</a></div>
+<script src="./widget.js" async></script>
+<!-- ここまで -->
+
+<p>
+ウィジェットの上下にはさらに文章が続く想定です。以上、テストページでした。
+</p>
+
+</body>
+</html>
