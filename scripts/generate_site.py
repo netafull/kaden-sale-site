@@ -391,11 +391,23 @@ WIDGET_JS = r"""(function () {
     return copy.slice(0, n);
   }
 
+  function pickOnePerGenre(genres, count) {
+    // ジャンルをcount個ランダムに選び、各ジャンルから1冊ずつ選ぶ。
+    // 同じジャンルの商品ばかり並ぶのを避け、掲載ジャンルの幅を見せる
+    var chosenGenres = sampleRandom(genres || [], count);
+    var books = [];
+    for (var i = 0; i < chosenGenres.length; i++) {
+      var picked = sampleRandom(chosenGenres[i].books || [], 1);
+      if (picked.length) books.push(picked[0]);
+    }
+    return books;
+  }
+
   function render(container, data) {
     var siteUrl = data.site_url || FALLBACK_SITE_URL;
     var count = parseInt(container.getAttribute("data-count"), 10);
     if (!count || count < 1 || count > 5) count = 3;
-    var books = sampleRandom(data.books || [], count);
+    var books = pickOnePerGenre(data.genres || [], count);
     if (books.length === 0) return;
 
     injectStyle();
@@ -456,48 +468,44 @@ WIDGET_JS = r"""(function () {
 
 
 def generate_widget_data(data: dict) -> dict:
+    """ジャンルごとに候補プールを分けて出力する。
+
+    表示のたびにジャンルを1つずつランダム抽出することで、同じジャンルの
+    商品ばかりが並ぶのを避け、掲載ジャンルの幅を毎回見せられるようにする
+    (widget.js側のrender()参照)。
+    """
     site_url = CONFIG.get("site_url", "")
     genres = data.get("genres") or []
-
-    all_items = []
-    for g in genres:
-        all_items.extend(g.get("items") or [])
 
     def savings(item: dict) -> int:
         return (item.get("percent_off") or 0) + (item.get("points_percent") or 0)
 
-    seen: set[str] = set()
-    deduped = []
-    for item in all_items:
-        asin = item.get("asin")
-        if asin in seen:
-            continue
-        seen.add(asin)
-        deduped.append(item)
+    pool_per_genre = CONFIG.get("widget_pool_per_genre", 8)
 
-    deduped.sort(key=savings, reverse=True)
-
-    pool_size = CONFIG.get("widget_pool_size", 20)
-
-    books = [
-        {
-            "title": b.get("title"),
-            "price": b.get("price"),
-            "list_price": b.get("list_price"),
-            "percent_off": b.get("percent_off"),
-            "points": b.get("points"),
-            "points_percent": b.get("points_percent"),
-            "image": b.get("image"),
-            "url": b.get("url"),
-        }
-        for b in deduped[:pool_size]
-    ]
+    genre_pools = []
+    for g in genres:
+        items = sorted(g.get("items") or [], key=savings, reverse=True)
+        books = [
+            {
+                "title": b.get("title"),
+                "price": b.get("price"),
+                "list_price": b.get("list_price"),
+                "percent_off": b.get("percent_off"),
+                "points": b.get("points"),
+                "points_percent": b.get("points_percent"),
+                "image": b.get("image"),
+                "url": b.get("url"),
+            }
+            for b in items[:pool_per_genre]
+        ]
+        if books:
+            genre_pools.append({"name": g["name"], "books": books})
 
     return {
         "updated": data.get("fetched_at"),
         "site_url": site_url,
         "site_title": CONFIG.get("site_title", ""),
-        "books": books,
+        "genres": genre_pools,
     }
 
 

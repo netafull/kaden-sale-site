@@ -118,11 +118,23 @@
     return copy.slice(0, n);
   }
 
+  function pickOnePerGenre(genres, count) {
+    // ジャンルをcount個ランダムに選び、各ジャンルから1冊ずつ選ぶ。
+    // 同じジャンルの商品ばかり並ぶのを避け、掲載ジャンルの幅を見せる
+    var chosenGenres = sampleRandom(genres || [], count);
+    var books = [];
+    for (var i = 0; i < chosenGenres.length; i++) {
+      var picked = sampleRandom(chosenGenres[i].books || [], 1);
+      if (picked.length) books.push(picked[0]);
+    }
+    return books;
+  }
+
   function render(container, data) {
     var siteUrl = data.site_url || FALLBACK_SITE_URL;
     var count = parseInt(container.getAttribute("data-count"), 10);
     if (!count || count < 1 || count > 5) count = 3;
-    var books = sampleRandom(data.books || [], count);
+    var books = pickOnePerGenre(data.genres || [], count);
     if (books.length === 0) return;
 
     injectStyle();

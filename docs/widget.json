@@ -2,206 +2,206 @@
   "updated": "2026-07-23T10:14:04.166789+00:00",
   "site_url": "https://kaden.netaful.jp/",
   "site_title": "電家ポチ",
-  "books": [
+  "genres": [
     {
-      "title": "dreameF20 Plusロボット掃除機 20,000 Pa 強力吸引 自動ゴミ収集ドック 水拭き両用 絡まり防止ブラシ カーペットディープクリーニング スマートナビゲーション搭載 水拭き両用ロボット掃除機",
-      "price": 34800,
-      "list_price": 69800,
-      "percent_off": 50,
-      "points": 348,
-      "points_percent": 1,
-      "image": "https://m.media-amazon.com/images/I/31pSUSA3kVL._SL160_.jpg",
-      "url": "https://www.amazon.co.jp/dp/B0GVNN41NZ?tag=natafull-22&linkCode=osi&th=1&psc=1"
+      "name": "モバイルバッテリー",
+      "books": [
+        {
+          "title": "UGREEN 145W 4-in-1モバイルバッテリー 20000mAh 15Wマグネット式ワイヤレス充電対応 3ポート",
+          "price": 13507,
+          "list_price": 21480,
+          "percent_off": 37,
+          "points": 0,
+          "points_percent": null,
+          "image": "https://m.media-amazon.com/images/I/31Nx5ZNVlwL._SL160_.jpg",
+          "url": "https://www.amazon.co.jp/dp/B0D4F34SB4?tag=natafull-22&linkCode=osi&th=1&psc=1"
+        },
+        {
+          "title": "UGREEN 100W モバイルバッテリー 20000mAh 大容量 3ポート USB-C×2 USB-A×1 65W",
+          "price": 6370,
+          "list_price": 9999,
+          "percent_off": 36,
+          "points": 0,
+          "points_percent": null,
+          "image": "https://m.media-amazon.com/images/I/31xSnjyT5rL._SL160_.jpg",
+          "url": "https://www.amazon.co.jp/dp/B0C3GTMX5M?tag=natafull-22&linkCode=osi&th=1&psc=1"
+        },
+        {
+          "title": "UGREEN Air モバイルバッテリー マグネット式ワイヤレス充電 超薄型 MagSafe対応 5000mAh PB580 ダークグレー",
+          "price": 4485,
+          "list_price": 5980,
+          "percent_off": 25,
+          "points": 0,
+          "points_percent": null,
+          "image": "https://m.media-amazon.com/images/I/21qLhxw919L._SL160_.jpg",
+          "url": "https://www.amazon.co.jp/dp/B0F6NFHB31?tag=natafull-22&linkCode=osi&th=1&psc=1"
+        },
+        {
+          "title": "UGREEN MagFlow Qi2 25W認証 モバイルバッテリー Magsafe対応 マグネット式ワイヤレス急速充電 20000mAh ブラック",
+          "price": 8990,
+          "list_price": 11980,
+          "percent_off": 25,
+          "points": 0,
+          "points_percent": null,
+          "image": "https://m.media-amazon.com/images/I/21tuDxxBuBL._SL160_.jpg",
+          "url": "https://www.amazon.co.jp/dp/B0F37QVBNM?tag=natafull-22&linkCode=osi&th=1&psc=1"
+        },
+        {
+          "title": "UGREEN 【小型・軽量・10000mAh】モバイルバッテリー 大容量 2台同時充電（USB-A×1 USBC×1）PD20W 急速充電 小電流モード バッテリー残量表示 コンパクト PSE技術基準適合 iphone17/Android/iPad 各種 USB-C 機器に対応 灰色 PB507",
+          "price": 1979,
+          "list_price": 2580,
+          "percent_off": 23,
+          "points": 0,
+          "points_percent": null,
+          "image": "https://m.media-amazon.com/images/I/21yWDfPjQgL._SL160_.jpg",
+          "url": "https://www.amazon.co.jp/dp/B0DZ1TGX6T?tag=natafull-22&linkCode=osi&th=1&psc=1"
+        },
+        {
+          "title": "CIO モバイルバッテリー 半固体電池 薄型 軽量 タイプC 35W 急速充電 3ポート 10000mAh iPhone 17 Pixel10 Galaxy S26 iPad MacBook Windows ノートPC対応 パススルー SMARTCOBY Pro SLIM SS (ブラック)",
+          "price": 6280,
+          "list_price": null,
+          "percent_off": null,
+          "points": 1382,
+          "points_percent": 22,
+          "image": "https://m.media-amazon.com/images/I/3193CL+De7L._SL160_.jpg",
+          "url": "https://www.amazon.co.jp/dp/B0GMX4WKYG?tag=natafull-22&linkCode=osi&th=1&psc=1"
+        }
+      ]
     },
     {
-      "title": "Narwal (ナーワル) Freo Z10 ロボット掃除機 吸引・水拭き両用 可動式モップ",
-      "price": 86287,
-      "list_price": 129800,
-      "percent_off": 34,
-      "points": 9507,
-      "points_percent": 11,
-      "image": "https://m.media-amazon.com/images/I/31+5vypcDCL._SL160_.jpg",
-      "url": "https://www.amazon.co.jp/dp/B0DW8MPL2P?tag=natafull-22&linkCode=osi&th=1&psc=1"
+      "name": "エアフライヤー",
+      "books": [
+        {
+          "title": "アイリスオーヤマ フライヤー 過熱水蒸気 ノンオイルフライヤー FV-M30A-C アイボリー",
+          "price": 8709,
+          "list_price": 12800,
+          "percent_off": 32,
+          "points": 357,
+          "points_percent": 4,
+          "image": "https://m.media-amazon.com/images/I/3169gfWTJ3L._SL160_.jpg",
+          "url": "https://www.amazon.co.jp/dp/B0G4CC1S2F?tag=natafull-22&linkCode=osi&th=1&psc=1"
+        },
+        {
+          "title": "COSORI コソリ ノンフライヤー 2L 一人用 エアフライヤー オイル97％カット 省エネ ミニ 卓上 電気 フライヤー 揚げ物 専用レシピ付き PSE認証済み ブラックCAF-LI211-KJP",
+          "price": 8980,
+          "list_price": 10980,
+          "percent_off": 18,
+          "points": 90,
+          "points_percent": 1,
+          "image": "https://m.media-amazon.com/images/I/41kxSjsHijL._SL160_.jpg",
+          "url": "https://www.amazon.co.jp/dp/B0C3VYP1PG?tag=natafull-22&linkCode=osi&th=1&psc=1"
+        }
+      ]
     },
     {
-      "title": "dreame (ドリーミー) Aqua10s Roller AEロボット掃除機 水拭き両用 ローラーモップ 浄水水拭き 35,000Pa強力吸引 100 日間自動ゴミ収集 100°C 熱湯モップ洗浄 温風乾燥 障害物回避 絡まり防止 お掃除ロボット カーペット ペット 掃除機 ドリーミー",
-      "price": 99800,
-      "list_price": 169800,
-      "percent_off": 41,
-      "points": 998,
-      "points_percent": 1,
-      "image": "https://m.media-amazon.com/images/I/31h4DPCn3zL._SL160_.jpg",
-      "url": "https://www.amazon.co.jp/dp/B0H44Y871S?tag=natafull-22&linkCode=osi&th=1&psc=1"
+      "name": "ロボット掃除機",
+      "books": [
+        {
+          "title": "dreameF20 Plusロボット掃除機 20,000 Pa 強力吸引 自動ゴミ収集ドック 水拭き両用 絡まり防止ブラシ カーペットディープクリーニング スマートナビゲーション搭載 水拭き両用ロボット掃除機",
+          "price": 34800,
+          "list_price": 69800,
+          "percent_off": 50,
+          "points": 348,
+          "points_percent": 1,
+          "image": "https://m.media-amazon.com/images/I/31pSUSA3kVL._SL160_.jpg",
+          "url": "https://www.amazon.co.jp/dp/B0GVNN41NZ?tag=natafull-22&linkCode=osi&th=1&psc=1"
+        },
+        {
+          "title": "Narwal (ナーワル) Freo Z10 ロボット掃除機 吸引・水拭き両用 可動式モップ",
+          "price": 86287,
+          "list_price": 129800,
+          "percent_off": 34,
+          "points": 9507,
+          "points_percent": 11,
+          "image": "https://m.media-amazon.com/images/I/31+5vypcDCL._SL160_.jpg",
+          "url": "https://www.amazon.co.jp/dp/B0DW8MPL2P?tag=natafull-22&linkCode=osi&th=1&psc=1"
+        },
+        {
+          "title": "dreame (ドリーミー) Aqua10s Roller AEロボット掃除機 水拭き両用 ローラーモップ 浄水水拭き 35,000Pa強力吸引 100 日間自動ゴミ収集 100°C 熱湯モップ洗浄 温風乾燥 障害物回避 絡まり防止 お掃除ロボット カーペット ペット 掃除機 ドリーミー",
+          "price": 99800,
+          "list_price": 169800,
+          "percent_off": 41,
+          "points": 998,
+          "points_percent": 1,
+          "image": "https://m.media-amazon.com/images/I/31h4DPCn3zL._SL160_.jpg",
+          "url": "https://www.amazon.co.jp/dp/B0H44Y871S?tag=natafull-22&linkCode=osi&th=1&psc=1"
+        },
+        {
+          "title": "dreame (ドリーミー) L10s Ultra Gen3 ロボット掃除機 吸引・水拭き両用 25,000 Pa強力吸引 伸縮式のサイドブラシとモップ 100日分の自動ゴミ収集 AceClean DryBoardとモップの自動洗浄 温風乾燥 自動給水 10.5mmのモップリフトアップ 障害物回避 音声とアプリでコントロール お掃除ロボット",
+          "price": 69800,
+          "list_price": 111800,
+          "percent_off": 38,
+          "points": 698,
+          "points_percent": 1,
+          "image": "https://m.media-amazon.com/images/I/31Hv0tqVQGL._SL160_.jpg",
+          "url": "https://www.amazon.co.jp/dp/B0GRFN53XB?tag=natafull-22&linkCode=osi&th=1&psc=1"
+        },
+        {
+          "title": "ECOVACS (エコバックス) DEEBOT N30 PLUS 吸引力10,000Pa ロボット掃除機 水拭き両用 自動ゴミ収集 大容量バッテリー PureCyclone バッグレス設計 ZeroTangle 2.0搭載 マッピング ゼロタングル 強力吸引 アプリ操作 落下防止システム Alexa対応 清掃予約 お掃除ロボット ブラック",
+          "price": 67800,
+          "list_price": null,
+          "percent_off": null,
+          "points": 23730,
+          "points_percent": 35,
+          "image": "https://m.media-amazon.com/images/I/312T9QFCi4L._SL160_.jpg",
+          "url": "https://www.amazon.co.jp/dp/B0FMR9YY83?tag=natafull-22&linkCode=osi&th=1&psc=1"
+        },
+        {
+          "title": "dreame (ドリーミー) D9 Max Gen2 ロボット掃除機 6000Pa強力吸引 水拭き対応 570 ml の大型ダストボックス 高精度LDSレーザーセンサー 高精度複数階マッピング機能 昼夜を問わず賢く掃除 静音設計 Google Home Alexa Siri対応",
+          "price": 17799,
+          "list_price": 26800,
+          "percent_off": 34,
+          "points": 178,
+          "points_percent": 1,
+          "image": "https://m.media-amazon.com/images/I/31m6EY+5w1L._SL160_.jpg",
+          "url": "https://www.amazon.co.jp/dp/B0D8PHF6JX?tag=natafull-22&linkCode=osi&th=1&psc=1"
+        },
+        {
+          "title": "roborock Q7B+ ブラック ロボロック ロボット掃除機 小型 お掃除ロボット 水拭き 両用 自動ゴミ収集 150分 8,000Pa 強力吸引 マッピング 強力吸引 自動充電 アプリ操作 高精度レーザーセンサー 正規品 Q7BP52-04",
+          "price": 49980,
+          "list_price": null,
+          "percent_off": null,
+          "points": 14994,
+          "points_percent": 30,
+          "image": "https://m.media-amazon.com/images/I/31qmMRLI1gL._SL160_.jpg",
+          "url": "https://www.amazon.co.jp/dp/B0F6NRWF9V?tag=natafull-22&linkCode=osi&th=1&psc=1"
+        },
+        {
+          "title": "dreame D10Plus ロボット掃除機 自動ゴミ収集 水拭き対応 4000Pa強力吸引 高精度LDSレーザーセンサー 高精度複数階マッピング機能 170分間連続稼働 Wi-Fi接続 Alexa対応 APP遠隔操作 自動充電 静音設計 遠隔操作 落下防止 衝突防止",
+          "price": 21501,
+          "list_price": 29800,
+          "percent_off": 28,
+          "points": 215,
+          "points_percent": 1,
+          "image": "https://m.media-amazon.com/images/I/31--73ZZPRL._SL160_.jpg",
+          "url": "https://www.amazon.co.jp/dp/B0B59452FZ?tag=natafull-22&linkCode=osi&th=1&psc=1"
+        }
+      ]
     },
     {
-      "title": "dreame (ドリーミー) L10s Ultra Gen3 ロボット掃除機 吸引・水拭き両用 25,000 Pa強力吸引 伸縮式のサイドブラシとモップ 100日分の自動ゴミ収集 AceClean DryBoardとモップの自動洗浄 温風乾燥 自動給水 10.5mmのモップリフトアップ 障害物回避 音声とアプリでコントロール お掃除ロボット",
-      "price": 69800,
-      "list_price": 111800,
-      "percent_off": 38,
-      "points": 698,
-      "points_percent": 1,
-      "image": "https://m.media-amazon.com/images/I/31Hv0tqVQGL._SL160_.jpg",
-      "url": "https://www.amazon.co.jp/dp/B0GRFN53XB?tag=natafull-22&linkCode=osi&th=1&psc=1"
-    },
-    {
-      "title": "UGREEN 145W 4-in-1モバイルバッテリー 20000mAh 15Wマグネット式ワイヤレス充電対応 3ポート",
-      "price": 13507,
-      "list_price": 21480,
-      "percent_off": 37,
-      "points": 0,
-      "points_percent": null,
-      "image": "https://m.media-amazon.com/images/I/31Nx5ZNVlwL._SL160_.jpg",
-      "url": "https://www.amazon.co.jp/dp/B0D4F34SB4?tag=natafull-22&linkCode=osi&th=1&psc=1"
-    },
-    {
-      "title": "UGREEN 100W モバイルバッテリー 20000mAh 大容量 3ポート USB-C×2 USB-A×1 65W",
-      "price": 6370,
-      "list_price": 9999,
-      "percent_off": 36,
-      "points": 0,
-      "points_percent": null,
-      "image": "https://m.media-amazon.com/images/I/31xSnjyT5rL._SL160_.jpg",
-      "url": "https://www.amazon.co.jp/dp/B0C3GTMX5M?tag=natafull-22&linkCode=osi&th=1&psc=1"
-    },
-    {
-      "title": "アイリスオーヤマ フライヤー 過熱水蒸気 ノンオイルフライヤー FV-M30A-C アイボリー",
-      "price": 8709,
-      "list_price": 12800,
-      "percent_off": 32,
-      "points": 357,
-      "points_percent": 4,
-      "image": "https://m.media-amazon.com/images/I/3169gfWTJ3L._SL160_.jpg",
-      "url": "https://www.amazon.co.jp/dp/B0G4CC1S2F?tag=natafull-22&linkCode=osi&th=1&psc=1"
-    },
-    {
-      "title": "ECOVACS (エコバックス) DEEBOT N30 PLUS 吸引力10,000Pa ロボット掃除機 水拭き両用 自動ゴミ収集 大容量バッテリー PureCyclone バッグレス設計 ZeroTangle 2.0搭載 マッピング ゼロタングル 強力吸引 アプリ操作 落下防止システム Alexa対応 清掃予約 お掃除ロボット ブラック",
-      "price": 67800,
-      "list_price": null,
-      "percent_off": null,
-      "points": 23730,
-      "points_percent": 35,
-      "image": "https://m.media-amazon.com/images/I/312T9QFCi4L._SL160_.jpg",
-      "url": "https://www.amazon.co.jp/dp/B0FMR9YY83?tag=natafull-22&linkCode=osi&th=1&psc=1"
-    },
-    {
-      "title": "dreame (ドリーミー) D9 Max Gen2 ロボット掃除機 6000Pa強力吸引 水拭き対応 570 ml の大型ダストボックス 高精度LDSレーザーセンサー 高精度複数階マッピング機能 昼夜を問わず賢く掃除 静音設計 Google Home Alexa Siri対応",
-      "price": 17799,
-      "list_price": 26800,
-      "percent_off": 34,
-      "points": 178,
-      "points_percent": 1,
-      "image": "https://m.media-amazon.com/images/I/31m6EY+5w1L._SL160_.jpg",
-      "url": "https://www.amazon.co.jp/dp/B0D8PHF6JX?tag=natafull-22&linkCode=osi&th=1&psc=1"
-    },
-    {
-      "title": "ソニー ゲーミングイヤホン INZONE Buds:WF-G700N Fnatic監修/ワイヤレス / 低遅延2.4GHzワイヤレス接続 USBType-Cトランシーバー同梱/LE Audio対応/アクティブノイズキャンセリング/立体音響 / 最大約24時間バッテリー / 急速充電/マイク付き / PS5 スマホ PC Switch グラスパープル",
-      "price": 23900,
-      "list_price": 29700,
-      "percent_off": 20,
-      "points": 3353,
-      "points_percent": 14,
-      "image": "https://m.media-amazon.com/images/I/3143nL6VZVL._SL160_.jpg",
-      "url": "https://www.amazon.co.jp/dp/B0GW7WT5SQ?tag=natafull-22&linkCode=osi&th=1&psc=1"
-    },
-    {
-      "title": "roborock Q7B+ ブラック ロボロック ロボット掃除機 小型 お掃除ロボット 水拭き 両用 自動ゴミ収集 150分 8,000Pa 強力吸引 マッピング 強力吸引 自動充電 アプリ操作 高精度レーザーセンサー 正規品 Q7BP52-04",
-      "price": 49980,
-      "list_price": null,
-      "percent_off": null,
-      "points": 14994,
-      "points_percent": 30,
-      "image": "https://m.media-amazon.com/images/I/31qmMRLI1gL._SL160_.jpg",
-      "url": "https://www.amazon.co.jp/dp/B0F6NRWF9V?tag=natafull-22&linkCode=osi&th=1&psc=1"
-    },
-    {
-      "title": "dreame D10Plus ロボット掃除機 自動ゴミ収集 水拭き対応 4000Pa強力吸引 高精度LDSレーザーセンサー 高精度複数階マッピング機能 170分間連続稼働 Wi-Fi接続 Alexa対応 APP遠隔操作 自動充電 静音設計 遠隔操作 落下防止 衝突防止",
-      "price": 21501,
-      "list_price": 29800,
-      "percent_off": 28,
-      "points": 215,
-      "points_percent": 1,
-      "image": "https://m.media-amazon.com/images/I/31--73ZZPRL._SL160_.jpg",
-      "url": "https://www.amazon.co.jp/dp/B0B59452FZ?tag=natafull-22&linkCode=osi&th=1&psc=1"
-    },
-    {
-      "title": "ルンバ(Roomba)205 DustCompactor Combo ロボット (ロボット掃除機) アイロボット(iRobot)【水拭き/両用/ゴミ圧縮機能付きダスト容器/日本の住宅向けに開発/LiDARナビゲーション/パワーリフト吸引/スマートスクラブ対応/マッピング 掃除経路確認/アプリ操作/落下防止/Amazon.co.jp購入時12ヶ月保証/L121060】ブラック",
-      "price": 42800,
-      "list_price": 59798,
-      "percent_off": 28,
-      "points": 0,
-      "points_percent": null,
-      "image": "https://m.media-amazon.com/images/I/31HIrU1UQiL._SL160_.jpg",
-      "url": "https://www.amazon.co.jp/dp/B0F1FCM99S?tag=natafull-22&linkCode=osi&th=1&psc=1"
-    },
-    {
-      "title": "roborock(ロボロック) Q10V+ ロボット掃除機 水拭き 両用 自動ゴミ収集 障害物回避 お掃除ロボット【Qシリーズ高総合力モデル】",
-      "price": 37999,
-      "list_price": 51999,
-      "percent_off": 27,
-      "points": 380,
-      "points_percent": 1,
-      "image": "https://m.media-amazon.com/images/I/319BCGeg7ZL._SL160_.jpg",
-      "url": "https://www.amazon.co.jp/dp/B0F9KCJ493?tag=natafull-22&linkCode=osi&th=1&psc=1"
-    },
-    {
-      "title": "UGREEN Air モバイルバッテリー マグネット式ワイヤレス充電 超薄型 MagSafe対応 5000mAh PB580 ダークグレー",
-      "price": 4485,
-      "list_price": 5980,
-      "percent_off": 25,
-      "points": 0,
-      "points_percent": null,
-      "image": "https://m.media-amazon.com/images/I/21qLhxw919L._SL160_.jpg",
-      "url": "https://www.amazon.co.jp/dp/B0F6NFHB31?tag=natafull-22&linkCode=osi&th=1&psc=1"
-    },
-    {
-      "title": "UGREEN MagFlow Qi2 25W認証 モバイルバッテリー Magsafe対応 マグネット式ワイヤレス急速充電 20000mAh ブラック",
-      "price": 8990,
-      "list_price": 11980,
-      "percent_off": 25,
-      "points": 0,
-      "points_percent": null,
-      "image": "https://m.media-amazon.com/images/I/21tuDxxBuBL._SL160_.jpg",
-      "url": "https://www.amazon.co.jp/dp/B0F37QVBNM?tag=natafull-22&linkCode=osi&th=1&psc=1"
-    },
-    {
-      "title": "roborock Qrevo L ロボット掃除機 水拭き 両用 自動ゴミ収集 180分 10000Pa 障害物回避 LDSマッピング アプリ操作 自動充電 高精度レーザーセンサー 【2025年6月発売】正規品",
-      "price": 79980,
-      "list_price": null,
-      "percent_off": null,
-      "points": 19995,
-      "points_percent": 25,
-      "image": "https://m.media-amazon.com/images/I/41aaQgJQsRL._SL160_.jpg",
-      "url": "https://www.amazon.co.jp/dp/B0F6NGXD99?tag=natafull-22&linkCode=osi&th=1&psc=1"
-    },
-    {
-      "title": "UGREEN 【小型・軽量・10000mAh】モバイルバッテリー 大容量 2台同時充電（USB-A×1 USBC×1）PD20W 急速充電 小電流モード バッテリー残量表示 コンパクト PSE技術基準適合 iphone17/Android/iPad 各種 USB-C 機器に対応 灰色 PB507",
-      "price": 1979,
-      "list_price": 2580,
-      "percent_off": 23,
-      "points": 0,
-      "points_percent": null,
-      "image": "https://m.media-amazon.com/images/I/21yWDfPjQgL._SL160_.jpg",
-      "url": "https://www.amazon.co.jp/dp/B0DZ1TGX6T?tag=natafull-22&linkCode=osi&th=1&psc=1"
-    },
-    {
-      "title": "CIO モバイルバッテリー 半固体電池 薄型 軽量 タイプC 35W 急速充電 3ポート 10000mAh iPhone 17 Pixel10 Galaxy S26 iPad MacBook Windows ノートPC対応 パススルー SMARTCOBY Pro SLIM SS (ブラック)",
-      "price": 6280,
-      "list_price": null,
-      "percent_off": null,
-      "points": 1382,
-      "points_percent": 22,
-      "image": "https://m.media-amazon.com/images/I/3193CL+De7L._SL160_.jpg",
-      "url": "https://www.amazon.co.jp/dp/B0GMX4WKYG?tag=natafull-22&linkCode=osi&th=1&psc=1"
-    },
-    {
-      "title": "roborock (ロボロック) Qrevo Curv 2 Flow ロボット掃除機 水拭き両用 モップ自動洗浄 【26年革新モップカバー搭載】",
-      "price": 119900,
-      "list_price": null,
-      "percent_off": null,
-      "points": 23980,
-      "points_percent": 20,
-      "image": "https://m.media-amazon.com/images/I/31DRz0R5QsL._SL160_.jpg",
-      "url": "https://www.amazon.co.jp/dp/B0GXB2RZ9Y?tag=natafull-22&linkCode=osi&th=1&psc=1"
+      "name": "ワイヤレスイヤホン",
+      "books": [
+        {
+          "title": "ソニー ゲーミングイヤホン INZONE Buds:WF-G700N Fnatic監修/ワイヤレス / 低遅延2.4GHzワイヤレス接続 USBType-Cトランシーバー同梱/LE Audio対応/アクティブノイズキャンセリング/立体音響 / 最大約24時間バッテリー / 急速充電/マイク付き / PS5 スマホ PC Switch グラスパープル",
+          "price": 23900,
+          "list_price": 29700,
+          "percent_off": 20,
+          "points": 3353,
+          "points_percent": 14,
+          "image": "https://m.media-amazon.com/images/I/3143nL6VZVL._SL160_.jpg",
+          "url": "https://www.amazon.co.jp/dp/B0GW7WT5SQ?tag=natafull-22&linkCode=osi&th=1&psc=1"
+        },
+        {
+          "title": "ソニー(SONY) 完全ワイヤレスイヤホン WF-C510 / 軽量小型4.6g / 高精度通話品質/外音取り込み対応/マルチポイント対応 / IPX4防滴性能 / ブラック/WF-C510 BC",
+          "price": 8300,
+          "list_price": 9900,
+          "percent_off": 16,
+          "points": 0,
+          "points_percent": null,
+          "image": "https://m.media-amazon.com/images/I/31m13PPEytL._SL160_.jpg",
+          "url": "https://www.amazon.co.jp/dp/B0DDKHF9XY?tag=natafull-22&linkCode=osi&th=1&psc=1"
+        }
+      ]
     }
   ]
 }
