@@ -4,7 +4,7 @@
   "site_description": "Amazonでセール中のガジェット・家電を1時間ごとに自動更新でお届けします",
   "site_url": "https://kaden.netaful.jp/",
   "ga_measurement_id": "G-41XNL0P91C",
-  "min_saving_percent": 15,
+  "min_saving_percent": 12,
   "pages_per_genre": 5,
   "genres": [
     {

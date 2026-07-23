@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-07-23T10:14:04.166789+00:00",
-  "min_saving_percent": 15,
+  "fetched_at": "2026-07-23T11:14:00.093874+00:00",
+  "min_saving_percent": 12,
   "genres": [
     {
       "name": "モバイルバッテリー",
@@ -76,6 +76,18 @@
           "points_percent": 22,
           "image": "https://m.media-amazon.com/images/I/3193CL+De7L._SL160_.jpg",
           "url": "https://www.amazon.co.jp/dp/B0GMX4WKYG?tag=natafull-22&linkCode=osi&th=1&psc=1"
+        },
+        {
+          "asin": "B099JMBCP1",
+          "title": "エレコム モバイルバッテリー 10000mAh 大容量 マグネット ( USB PD対応 ) Type-C×1 / USB-A×1 【 iPhone12 / iPhone13 シリーズ推奨 】 PSE認証 ブラック EC-C02BK",
+          "brand": "エレコム(ELECOM)",
+          "price": 1698,
+          "list_price": 1960,
+          "percent_off": 13,
+          "points": 17,
+          "points_percent": 1,
+          "image": "https://m.media-amazon.com/images/I/31+QMeoVBmL._SL160_.jpg",
+          "url": "https://www.amazon.co.jp/dp/B099JMBCP1?tag=natafull-22&linkCode=osi&th=1&psc=1"
         }
       ]
     },
@@ -105,6 +117,18 @@
           "points_percent": 1,
           "image": "https://m.media-amazon.com/images/I/41kxSjsHijL._SL160_.jpg",
           "url": "https://www.amazon.co.jp/dp/B0C3VYP1PG?tag=natafull-22&linkCode=osi&th=1&psc=1"
+        },
+        {
+          "asin": "B09HB4B15V",
+          "title": "COSORI コソリ ノンフライヤー 4.7L 大容量 家庭用 電気 エアフライヤー 最高温230℃ 揚げ物 ポテト 惣菜 日本語レシピ付き タイマー 自動電源オフ グレー CAF-L501-KJP",
+          "brand": "Cosori",
+          "price": 13980,
+          "list_price": 16038,
+          "percent_off": 13,
+          "points": 140,
+          "points_percent": 1,
+          "image": "https://m.media-amazon.com/images/I/41zBbKORchL._SL160_.jpg",
+          "url": "https://www.amazon.co.jp/dp/B09HB4B15V?tag=natafull-22&linkCode=osi&th=1&psc=1"
         }
       ]
     },
@@ -290,6 +314,30 @@
           "points_percent": 15,
           "image": "https://m.media-amazon.com/images/I/3196WRRWVZL._SL160_.jpg",
           "url": "https://www.amazon.co.jp/dp/B0GXB5HWWD?tag=natafull-22&linkCode=osi&th=1&psc=1"
+        },
+        {
+          "asin": "B0DRVC5SL4",
+          "title": "ECOVACS(エコバックス) WINBOT MINI 窓掃除 窓拭きロボット 自動清掃 窓用 省スペース設計 落下防止 ロボット掃除機 ガラスクリーナー スプレー マッピング インテリジェント掃除 強力吸引 水拭き 1年メーカー保証",
+          "brand": "ECOVACS",
+          "price": 38800,
+          "list_price": null,
+          "percent_off": null,
+          "points": 5432,
+          "points_percent": 14,
+          "image": "https://m.media-amazon.com/images/I/314rA9NYmuL._SL160_.jpg",
+          "url": "https://www.amazon.co.jp/dp/B0DRVC5SL4?tag=natafull-22&linkCode=osi&th=1&psc=1"
+        },
+        {
+          "asin": "B0BP21W3XX",
+          "title": "ECOVACS(エコバックス) WINBOT MINI/WINBOT MINI2/W1 PRO/W2/W2 OMNI対応 クリーナー ECOVACS WINBOT ロボット掃除機用 消耗品 専用洗浄剤（1L）",
+          "brand": "ECOVACS",
+          "price": 2580,
+          "list_price": null,
+          "percent_off": null,
+          "points": 361,
+          "points_percent": 14,
+          "image": "https://m.media-amazon.com/images/I/21Ku0d1qUyL._SL160_.jpg",
+          "url": "https://www.amazon.co.jp/dp/B0BP21W3XX?tag=natafull-22&linkCode=osi&th=1&psc=1"
         }
       ]
     },
@@ -319,6 +367,18 @@
           "points_percent": null,
           "image": "https://m.media-amazon.com/images/I/31m13PPEytL._SL160_.jpg",
           "url": "https://www.amazon.co.jp/dp/B0DDKHF9XY?tag=natafull-22&linkCode=osi&th=1&psc=1"
+        },
+        {
+          "asin": "B0DLGJCTPK",
+          "title": "Anker Soundcore AeroClip（Bluetooth 5.4）【オープンイヤー型ワイヤレスイヤホン/イヤーカフ / IP55 防塵・防水規格 / 最大32時間再生 / マルチポイント接続】ミッドナイトブラック",
+          "brand": "Soundcore",
+          "price": 17990,
+          "list_price": null,
+          "percent_off": null,
+          "points": 2159,
+          "points_percent": 12,
+          "image": "https://m.media-amazon.com/images/I/31Kfstr2TTL._SL160_.jpg",
+          "url": "https://www.amazon.co.jp/dp/B0DLGJCTPK?tag=natafull-22&linkCode=osi&th=1&psc=1"
         }
       ]
     }

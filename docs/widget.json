@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-23T10:14:04.166789+00:00",
+  "updated": "2026-07-23T11:14:00.093874+00:00",
   "site_url": "https://kaden.netaful.jp/",
   "site_title": "電家ポチ",
   "genres": [
@@ -65,6 +65,16 @@
           "points_percent": 22,
           "image": "https://m.media-amazon.com/images/I/3193CL+De7L._SL160_.jpg",
           "url": "https://www.amazon.co.jp/dp/B0GMX4WKYG?tag=natafull-22&linkCode=osi&th=1&psc=1"
+        },
+        {
+          "title": "エレコム モバイルバッテリー 10000mAh 大容量 マグネット ( USB PD対応 ) Type-C×1 / USB-A×1 【 iPhone12 / iPhone13 シリーズ推奨 】 PSE認証 ブラック EC-C02BK",
+          "price": 1698,
+          "list_price": 1960,
+          "percent_off": 13,
+          "points": 17,
+          "points_percent": 1,
+          "image": "https://m.media-amazon.com/images/I/31+QMeoVBmL._SL160_.jpg",
+          "url": "https://www.amazon.co.jp/dp/B099JMBCP1?tag=natafull-22&linkCode=osi&th=1&psc=1"
         }
       ]
     },
@@ -90,6 +100,16 @@
           "points_percent": 1,
           "image": "https://m.media-amazon.com/images/I/41kxSjsHijL._SL160_.jpg",
           "url": "https://www.amazon.co.jp/dp/B0C3VYP1PG?tag=natafull-22&linkCode=osi&th=1&psc=1"
+        },
+        {
+          "title": "COSORI コソリ ノンフライヤー 4.7L 大容量 家庭用 電気 エアフライヤー 最高温230℃ 揚げ物 ポテト 惣菜 日本語レシピ付き タイマー 自動電源オフ グレー CAF-L501-KJP",
+          "price": 13980,
+          "list_price": 16038,
+          "percent_off": 13,
+          "points": 140,
+          "points_percent": 1,
+          "image": "https://m.media-amazon.com/images/I/41zBbKORchL._SL160_.jpg",
+          "url": "https://www.amazon.co.jp/dp/B09HB4B15V?tag=natafull-22&linkCode=osi&th=1&psc=1"
         }
       ]
     },
@@ -200,6 +220,16 @@
           "points_percent": null,
           "image": "https://m.media-amazon.com/images/I/31m13PPEytL._SL160_.jpg",
           "url": "https://www.amazon.co.jp/dp/B0DDKHF9XY?tag=natafull-22&linkCode=osi&th=1&psc=1"
+        },
+        {
+          "title": "Anker Soundcore AeroClip（Bluetooth 5.4）【オープンイヤー型ワイヤレスイヤホン/イヤーカフ / IP55 防塵・防水規格 / 最大32時間再生 / マルチポイント接続】ミッドナイトブラック",
+          "price": 17990,
+          "list_price": null,
+          "percent_off": null,
+          "points": 2159,
+          "points_percent": 12,
+          "image": "https://m.media-amazon.com/images/I/31Kfstr2TTL._SL160_.jpg",
+          "url": "https://www.amazon.co.jp/dp/B0DLGJCTPK?tag=natafull-22&linkCode=osi&th=1&psc=1"
         }
       ]
     }
