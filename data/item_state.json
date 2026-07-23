@@ -3,10 +3,6 @@
     "first_seen": "2026-07-23",
     "title": "UGREEN 145W 4-in-1モバイルバッテリー 20000mAh 15Wマグネット式ワイヤレス充電対応 3ポート"
   },
-  "B0BJQ7F16T": {
-    "first_seen": "2026-07-23",
-    "title": "UGREEN 145W モバイルバッテリー 25000mAh大容量 3ポート USB-C×2 USB-A×1 240W ケーブル付"
-  },
   "B0F6NC41DZ": {
     "first_seen": "2026-07-23",
     "title": "UGREEN Air モバイルバッテリー マグネット式ワイヤレス充電 薄型 MagSafe対応 10000mAh ケーブル内蔵 PB570 グレー"
@@ -26,6 +22,10 @@
   "B0GMX4WKYG": {
     "first_seen": "2026-07-23",
     "title": "CIO モバイルバッテリー 半固体電池 薄型 軽量 タイプC 35W 急速充電 3ポート 10000mAh iPhone 17 Pixel10 Galaxy S26 iPad MacBook Windows ノートPC対応 パススルー SMARTCOBY Pro SLIM SS (ブラック)"
+  },
+  "B0DSPVP337": {
+    "first_seen": "2026-07-23",
+    "title": "UGREEN 145W モバイルバッテリー 20000mAh 大容量 【USB-Cケーブル内蔵・持ち手にもなる】2C1A 多ポート 3台同時充電可能 パススルー充電対応 残量表示ディスプレイ搭載 低電流モード PSE技術基準適合 MacBook/Windows PC/iPad/iPhone/Android/ノートPC対応"
   },
   "B099JMBCP1": {
     "first_seen": "2026-07-23",
@@ -75,6 +75,10 @@
     "first_seen": "2026-07-23",
     "title": "dreame D20 Pro ロボット掃除機 吸引＆水拭き両対応/13,000Pa超強力吸引/HyperStream™絡まり防止デュオブラシ/伸縮式サイドブラシ/3D構造化ライト&Pathfinder™テクノロジー/カーペット＆フローリング対応/スマートマッピング/日本語アプリ対応"
   },
+  "B0F1FDVCBK": {
+    "first_seen": "2026-07-23",
+    "title": "ルンバ（Roomba） 105 Combo ロボット (ロボット掃除機) アイロボット（iRobot）【水拭き/両用/LiDARナビゲーション/パワーリフト吸引/スマートスクラブ対応/マッピング 掃除経路確認/アプリ操作/落下防止/Amazon.co.jp購入時12ヶ月保証/Y311260】ホワイト"
+  },
   "B0F6NGXD99": {
     "first_seen": "2026-07-23",
     "title": "roborock Qrevo L ロボット掃除機 水拭き 両用 自動ゴミ収集 180分 10000Pa 障害物回避 LDSマッピング アプリ操作 自動充電 高精度レーザーセンサー 【2025年6月発売】正規品"
@@ -95,10 +99,6 @@
     "first_seen": "2026-07-23",
     "title": "roborock (ロボロック) Qrevo L Pro ロボット掃除機 水拭き両用 モップ温水洗浄 全自動お掃除ロボット【26年モデル・初心者向け】"
   },
-  "B0F1FB6PT8": {
-    "first_seen": "2026-07-23",
-    "title": "ルンバ(Roomba) 105 Combo ロボット + AutoEmpty 充電ステーション (ロボット掃除機) アイロボット(iRobot)【水拭き/両用/自動ゴミ収集/LiDARナビゲーション/パワーリフト吸引/スマートスクラブ対応/マッピング 掃除経路確認/アプリ操作/Amazon.co.jp購入時12ヶ月保証/Y351060】ブラック"
-  },
   "B0DRVC5SL4": {
     "first_seen": "2026-07-23",
     "title": "ECOVACS(エコバックス) WINBOT MINI 窓掃除 窓拭きロボット 自動清掃 窓用 省スペース設計 落下防止 ロボット掃除機 ガラスクリーナー スプレー マッピング インテリジェント掃除 強力吸引 水拭き 1年メーカー保証"
@@ -111,8 +111,8 @@
     "first_seen": "2026-07-23",
     "title": "ソニー ゲーミングイヤホン INZONE Buds:WF-G700N Fnatic監修/ワイヤレス / 低遅延2.4GHzワイヤレス接続 USBType-Cトランシーバー同梱/LE Audio対応/アクティブノイズキャンセリング/立体音響 / 最大約24時間バッテリー / 急速充電/マイク付き / PS5 スマホ PC Switch グラスパープル"
   },
-  "B0H1QQQVT1": {
+  "B0GX5W3DPP": {
     "first_seen": "2026-07-23",
-    "title": "JBL TOUR PRO 3 ワイヤレスイヤホン bluetooth/ハイブリッドノイズキャンセリング/ハイレゾワイヤレスLDAC/デュアルドライバー/マルチポイント/防塵・防水/ワイヤレス充電対応/スマートタッチディスプレイ搭載/グリーン / JBLTOURPRO3GRN"
+    "title": "JBL TOUR PRO 3 ワイヤレスイヤホン bluetooth/ハイブリッドノイズキャンセリング/ハイレゾワイヤレスLDAC/デュアルドライバー/マルチポイント/防塵・防水/ワイヤレス充電対応/スマートタッチディスプレイ搭載/ネイビー / JBLTOURPRO3navy+【Amazon.co.jp限定】The Music × Amazon Music ミュージックキーホルダー"
   }
 }
