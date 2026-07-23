@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-23T09:52:59.530109+00:00",
+  "fetched_at": "2026-07-23T10:14:04.166789+00:00",
   "min_saving_percent": 15,
   "genres": [
     {
@@ -172,6 +172,18 @@
           "url": "https://www.amazon.co.jp/dp/B0FMR9YY83?tag=natafull-22&linkCode=osi&th=1&psc=1"
         },
         {
+          "asin": "B0D8PHF6JX",
+          "title": "dreame (ドリーミー) D9 Max Gen2 ロボット掃除機 6000Pa強力吸引 水拭き対応 570 ml の大型ダストボックス 高精度LDSレーザーセンサー 高精度複数階マッピング機能 昼夜を問わず賢く掃除 静音設計 Google Home Alexa Siri対応",
+          "brand": "dreame",
+          "price": 17799,
+          "list_price": 26800,
+          "percent_off": 34,
+          "points": 178,
+          "points_percent": 1,
+          "image": "https://m.media-amazon.com/images/I/31m6EY+5w1L._SL160_.jpg",
+          "url": "https://www.amazon.co.jp/dp/B0D8PHF6JX?tag=natafull-22&linkCode=osi&th=1&psc=1"
+        },
+        {
           "asin": "B0F6NRWF9V",
           "title": "roborock Q7B+ ブラック ロボロック ロボット掃除機 小型 お掃除ロボット 水拭き 両用 自動ゴミ収集 150分 8,000Pa 強力吸引 マッピング 強力吸引 自動充電 アプリ操作 高精度レーザーセンサー 正規品 Q7BP52-04",
           "brand": "roborock",
@@ -182,6 +194,18 @@
           "points_percent": 30,
           "image": "https://m.media-amazon.com/images/I/31qmMRLI1gL._SL160_.jpg",
           "url": "https://www.amazon.co.jp/dp/B0F6NRWF9V?tag=natafull-22&linkCode=osi&th=1&psc=1"
+        },
+        {
+          "asin": "B0B59452FZ",
+          "title": "dreame D10Plus ロボット掃除機 自動ゴミ収集 水拭き対応 4000Pa強力吸引 高精度LDSレーザーセンサー 高精度複数階マッピング機能 170分間連続稼働 Wi-Fi接続 Alexa対応 APP遠隔操作 自動充電 静音設計 遠隔操作 落下防止 衝突防止",
+          "brand": "dreame",
+          "price": 21501,
+          "list_price": 29800,
+          "percent_off": 28,
+          "points": 215,
+          "points_percent": 1,
+          "image": "https://m.media-amazon.com/images/I/31--73ZZPRL._SL160_.jpg",
+          "url": "https://www.amazon.co.jp/dp/B0B59452FZ?tag=natafull-22&linkCode=osi&th=1&psc=1"
         },
         {
           "asin": "B0F1FCM99S",
@@ -242,6 +266,18 @@
           "points_percent": 20,
           "image": "https://m.media-amazon.com/images/I/31q-ApXQlVL._SL160_.jpg",
           "url": "https://www.amazon.co.jp/dp/B0CRV7CJD8?tag=natafull-22&linkCode=osi&th=1&psc=1"
+        },
+        {
+          "asin": "B0H3THZTWT",
+          "title": "【セット買い】roborock (ロボロック) Qrevo L Pro ロボット掃除機 & 交換品モップクロス(4枚) & サイドブラシ(2個) & ゴミ収集用紙パック (3枚) セット",
+          "brand": "roborock",
+          "price": 79824,
+          "list_price": 97347,
+          "percent_off": 18,
+          "points": 0,
+          "points_percent": null,
+          "image": "https://m.media-amazon.com/images/I/31NQdevZR-L._SL160_.jpg",
+          "url": "https://www.amazon.co.jp/dp/B0H3THZTWT?tag=natafull-22&linkCode=osi&th=1&psc=1"
         },
         {
           "asin": "B0GXB5HWWD",

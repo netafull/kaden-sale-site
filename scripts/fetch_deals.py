@@ -91,7 +91,8 @@ def search_items(
     access_token: str,
     partner_tag: str,
     *,
-    keywords: str,
+    keywords: str | None = None,
+    browse_node_id: str | None = None,
     search_index: str,
     item_page: int,
     sort_by: str,
@@ -106,12 +107,15 @@ def search_items(
         "partnerType": "Associates",
         "marketplace": MARKETPLACE,
         "searchIndex": search_index,
-        "keywords": keywords,
         "itemPage": item_page,
         "itemCount": 10,
         "sortBy": sort_by,
         "resources": RESOURCES,
     }
+    if keywords:
+        body["keywords"] = keywords
+    if browse_node_id:
+        body["browseNodeId"] = browse_node_id
 
     payload = json.dumps(body)
     headers = {
@@ -130,7 +134,8 @@ def search_with_retry(
     auth: dict,
     partner_tag: str,
     *,
-    keywords: str,
+    keywords: str | None = None,
+    browse_node_id: str | None = None,
     search_index: str,
     item_page: int,
     sort_by: str,
@@ -147,6 +152,7 @@ def search_with_retry(
                 auth["token"],
                 partner_tag,
                 keywords=keywords,
+                browse_node_id=browse_node_id,
                 search_index=search_index,
                 item_page=item_page,
                 sort_by=sort_by,
@@ -333,24 +339,31 @@ def main() -> int:
         dropped = 0
         irrelevant_total = 0
         unknown_brand_total = 0
-        keywords_list = genre.get("keywords") or []
         search_index = genre.get("search_index", "All")
         must_include_any = genre.get("must_include_any") or []
         known_brands = genre.get("known_brands") or []
-        for kw, sort_by, page in (
-            (k, s, p)
-            for k in keywords_list
-            for s in SORT_ORDERS
+        # 検索源: キーワード検索に加え、Amazon運営の「〜特集」棚が
+        # 見つかっているジャンルはbrowseNodeIdでの検索も追加する
+        # (キーワード検索より新着・関連性の高い商品に出会いやすい反面、
+        # 完全にクリーンではないためmust_include_any/known_brandsは
+        # 変わらず適用する)
+        sources = [("keywords", kw) for kw in genre.get("keywords") or []]
+        sources += [("node", nid) for nid in genre.get("browse_node_ids") or []]
+        for (src_type, src_value), sort_by, page in (
+            (s, so, p)
+            for s in sources
+            for so in SORT_ORDERS
             for p in range(1, pages + 1)
         ):
             res = search_with_retry(
                 auth,
                 partner_tag,
-                keywords=kw,
+                keywords=src_value if src_type == "keywords" else None,
+                browse_node_id=src_value if src_type == "node" else None,
                 search_index=search_index,
                 item_page=page,
                 sort_by=sort_by,
-                label=f"{genre['name']} ({kw}) page {page}",
+                label=f"{genre['name']} ({src_type}:{src_value}) page {page}",
             )
             parsed_items, no_discount, irrelevant, unknown_brand = parse_items(
                 res, partner_tag, min_saving, must_include_any, known_brands

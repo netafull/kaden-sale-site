@@ -23,9 +23,10 @@
     {
       "name": "ロボット掃除機",
       "keywords": ["ロボット掃除機"],
+      "browse_node_ids": ["7297715051"],
       "search_index": "Electronics",
       "must_include_any": ["ロボット掃除機", "ロボットクリーナー"],
-      "known_brands": ["dreame", "ドリーミー", "Dyson", "ダイソン", "Panasonic", "パナソニック", "Roborock", "ロボロック", "Narwal", "ナーワル", "iRobot", "アイロボット", "Ecovacs", "エコバックス", "Xiaomi", "シャオミ", "SwitchBot", "スイッチボット", "シャープ", "SHARP", "日立", "HITACHI"]
+      "known_brands": ["dreame", "ドリーミー", "Dyson", "ダイソン", "Panasonic", "パナソニック", "Roborock", "ロボロック", "Narwal", "ナーワル", "iRobot", "アイロボット", "Ecovacs", "エコバックス", "Eufy", "ユーフィ", "Xiaomi", "シャオミ", "SwitchBot", "スイッチボット", "シャープ", "SHARP", "日立", "HITACHI"]
     },
     {
       "name": "ワイヤレスイヤホン",
