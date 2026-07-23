@@ -1,78 +1,8 @@
 {
-  "updated": "2026-07-23T09:21:37.841367+00:00",
+  "updated": "2026-07-23T09:38:26.010009+00:00",
   "site_url": "https://kaden.netaful.jp/",
   "site_title": "電家ポチ",
   "books": [
-    {
-      "title": "ノンフライヤー 4.5L 大容量 【PSE 認証済・見える窓付き】エアーフライヤー 1～5 人用 ノンオイル調理 自動メニュー搭載 かんたん操作 時短ヘルシー 電気フライヤー LED ディスプレイ タッチパネル 温度・タイマー調整 省エネ 日本語説明書とレシピ付き",
-      "price": 7590,
-      "list_price": 37950,
-      "percent_off": 80,
-      "points": 76,
-      "points_percent": 1,
-      "image": "https://m.media-amazon.com/images/I/41rE802PXTL._SL160_.jpg",
-      "url": "https://www.amazon.co.jp/dp/B0FKBJXHTK?tag=natafull-22&linkCode=osi&th=1&psc=1"
-    },
-    {
-      "title": "モバイルバッテリー MagSafe対応 16000ｍAh PD22.5W急速充電 3台同時充電可能 大容量 マグネット式 マグセーフ スマホ充電器 LCD電量残量表示 USB-A出力ポート/Type-C出入力ポート ワイヤレス充電器 スタンド付き 軽量 PSE認証済み iPhone 17/16/15/14/13シリーズ 機内持ち込み可 旅行/出張/アウトドア/キャンプ/停電対策/防災",
-      "price": 2999,
-      "list_price": 13999,
-      "percent_off": 79,
-      "points": 0,
-      "points_percent": null,
-      "image": "https://m.media-amazon.com/images/I/41r2HyQO8VL._SL160_.jpg",
-      "url": "https://www.amazon.co.jp/dp/B0GXDDYPW7?tag=natafull-22&linkCode=osi&th=1&psc=1"
-    },
-    {
-      "title": "骨伝導イヤホン Bluetooth こつでんどう イヤホン オープンイヤー ワイヤレスイヤホン ソフトクッション付き ながら聴き 耳を塞がない 軽量設計 10時間連続再生 物理ボタン Type-C急速充電 生活防水 ランニング/スポーツ/テレワーク対応",
-      "price": 2299,
-      "list_price": 10999,
-      "percent_off": 79,
-      "points": 0,
-      "points_percent": null,
-      "image": "https://m.media-amazon.com/images/I/41LFALuevHL._SL160_.jpg",
-      "url": "https://www.amazon.co.jp/dp/B0GMXDH9Q2?tag=natafull-22&linkCode=osi&th=1&psc=1"
-    },
-    {
-      "title": "イヤホン bluetooth【2026新概念モデル・ANC・多彩機能タッチパネル】わいやれすイヤホン タッチディスプレイ搭載 ANCノイズキャンセリング機能 Bluetooth6.0 自動ペアリング 最大48時間再生 片耳3.7g超軽量 10種類のタッチパネル IPX7防水 通勤/通学/運動/飛行機/新幹線（ホワイト）",
-      "price": 2499,
-      "list_price": 11999,
-      "percent_off": 79,
-      "points": 0,
-      "points_percent": null,
-      "image": "https://m.media-amazon.com/images/I/41ALlGWjNcL._SL160_.jpg",
-      "url": "https://www.amazon.co.jp/dp/B0H26DMS4G?tag=natafull-22&linkCode=osi&th=1&psc=1"
-    },
-    {
-      "title": "Ciunedr【4つのケーブル内蔵・56800mAh大容量】モバイルバッテリー 急速充電 5台同時充電 PSE技術基準適合品 LCDディスプレイ残量表示 Type-C入力ポート+2USB-A出力ポート 最大2.4A出力 iPad/iPhone/Android各種機器対応 おまかせ充電 低電流対応 コンパクト＆軽量 マルチ安全回路保護 旅行/出張/停電対策/緊急防災 日本語説明書",
-      "price": 2999,
-      "list_price": 10999,
-      "percent_off": 73,
-      "points": 110,
-      "points_percent": 4,
-      "image": "https://m.media-amazon.com/images/I/41OYpiA0MnL._SL160_.jpg",
-      "url": "https://www.amazon.co.jp/dp/B0GWDLHYS9?tag=natafull-22&linkCode=osi&th=1&psc=1"
-    },
-    {
-      "title": "LISEN 【金属製でも安全】 magsafe モバイル バッテリー 対応 iPhone 17 Air, 5000mAh モバイルバッテリー マグセーフ 軽量 薄型, 2025 新薄型 power bank ワイヤレス充電 対応み iPhone 17 16 15 14 13 12 Pro Max Plus Air シリーズ 機内持ち込み可 旅行 出張 災害用 PSE認証済",
-      "price": 999,
-      "list_price": 3999,
-      "percent_off": 75,
-      "points": 10,
-      "points_percent": 1,
-      "image": "https://m.media-amazon.com/images/I/31FGqmXaB4L._SL160_.jpg",
-      "url": "https://www.amazon.co.jp/dp/B0FC6D2DMZ?tag=natafull-22&linkCode=osi&th=1&psc=1"
-    },
-    {
-      "title": "AQielev ノンフライヤー 4.5L エアフライヤー 【可視窓付き・7種自動メニュー】 電気フライヤー 1～5人家庭用 ノンオイル調理 揚げ物 惣菜温め 冷凍食品対応 LEDタッチパネル タイマー 自動電源オフ PSE認証済み 日本語説明書・レシピ付き",
-      "price": 6899,
-      "list_price": 19000,
-      "percent_off": 64,
-      "points": 345,
-      "points_percent": 5,
-      "image": "https://m.media-amazon.com/images/I/41hu3Ncd70L._SL160_.jpg",
-      "url": "https://www.amazon.co.jp/dp/B0H2LRHXTH?tag=natafull-22&linkCode=osi&th=1&psc=1"
-    },
     {
       "title": "dreameF20 Plusロボット掃除機 20,000 Pa 強力吸引 自動ゴミ収集ドック 水拭き両用 絡まり防止ブラシ カーペットディープクリーニング スマートナビゲーション搭載 水拭き両用ロボット掃除機",
       "price": 34800,
@@ -82,26 +12,6 @@
       "points_percent": 1,
       "image": "https://m.media-amazon.com/images/I/31pSUSA3kVL._SL160_.jpg",
       "url": "https://www.amazon.co.jp/dp/B0GVNN41NZ?tag=natafull-22&linkCode=osi&th=1&psc=1"
-    },
-    {
-      "title": "モバイルバッテリー MagSafe対応【2026新モデル・8mm超薄型】大容量8000mAh 両台同時充電 LED残量表示 携帯充電器 コンパクト マグネット式 22.5W急速充電 PSE認証済み iPhone17/16/15/14/13/12シリーズ対応 旅行/出張/停電対策/災害用 機内持ち込み可",
-      "price": 2399,
-      "list_price": 4749,
-      "percent_off": 49,
-      "points": 24,
-      "points_percent": 1,
-      "image": "https://m.media-amazon.com/images/I/41-YcP+hLzL._SL160_.jpg",
-      "url": "https://www.amazon.co.jp/dp/B0FS289Q97?tag=natafull-22&linkCode=osi&th=1&psc=1"
-    },
-    {
-      "title": "モバイルバッテリー MagSafe対応 10000mAh ワイヤレス充電 22.5W急速充電 USB-C内蔵ケーブル 小型 軽量 薄型 最大3台同時充電 PD対応 LED残量表示 PSE認証済 iPhone 17/16/15/14 Android対応 旅行・通勤・外出用 機内持ち込み可",
-      "price": 1563,
-      "list_price": 2785,
-      "percent_off": 44,
-      "points": 16,
-      "points_percent": 1,
-      "image": "https://m.media-amazon.com/images/I/41uO-mqn8eL._SL160_.jpg",
-      "url": "https://www.amazon.co.jp/dp/B0FYG2NDBR?tag=natafull-22&linkCode=osi&th=1&psc=1"
     },
     {
       "title": "Narwal (ナーワル) Freo Z10 ロボット掃除機 吸引・水拭き両用 可動式モップ",
@@ -114,94 +24,174 @@
       "url": "https://www.amazon.co.jp/dp/B0DW8MPL2P?tag=natafull-22&linkCode=osi&th=1&psc=1"
     },
     {
-      "title": "モバイルバッテリー MagSafe対応 大容量 18000mAh PD22.5W急速充電 3台同時充電 まぐせーふ対応モバイルバッテリー マグセーフ 軽量 小型 ワイヤレス充電器 マグネット式充電器 持ち運び ケーブル内蔵 スタンド付き PSE認証済 LED表示 iPhone12-17/AppleWatch/iPad/Android/多機種対応 旅行/出張/停電対策/緊急用必携",
-      "price": 2752,
-      "list_price": 4799,
-      "percent_off": 43,
-      "points": 28,
+      "title": "dreame (ドリーミー) Aqua10s Roller AEロボット掃除機 水拭き両用 ローラーモップ 浄水水拭き 35,000Pa強力吸引 100 日間自動ゴミ収集 100°C 熱湯モップ洗浄 温風乾燥 障害物回避 絡まり防止 お掃除ロボット カーペット ペット 掃除機 ドリーミー",
+      "price": 99800,
+      "list_price": 169800,
+      "percent_off": 41,
+      "points": 998,
       "points_percent": 1,
-      "image": "https://m.media-amazon.com/images/I/41UaS+eGSTL._SL160_.jpg",
-      "url": "https://www.amazon.co.jp/dp/B0GGMPQDFN?tag=natafull-22&linkCode=osi&th=1&psc=1"
+      "image": "https://m.media-amazon.com/images/I/31h4DPCn3zL._SL160_.jpg",
+      "url": "https://www.amazon.co.jp/dp/B0H44Y871S?tag=natafull-22&linkCode=osi&th=1&psc=1"
     },
     {
-      "title": "Philoent MagSafe対応 超薄型 モバイルバッテリー 8000mAh 軽量 小型 マグネット式ワイヤレス充電器 まぐせーふモバイルバッテリー 2台同時15W急速 充電状態表示付きPSE認証済み iPhone 17/16/15/ 14/ 13/ 12シリーズ 機内持ち込み可 旅行 出張 災害用",
-      "price": 2270,
-      "list_price": 3999,
-      "percent_off": 43,
-      "points": 23,
+      "title": "dreame (ドリーミー) L10s Ultra Gen3 ロボット掃除機 吸引・水拭き両用 25,000 Pa強力吸引 伸縮式のサイドブラシとモップ 100日分の自動ゴミ収集 AceClean DryBoardとモップの自動洗浄 温風乾燥 自動給水 10.5mmのモップリフトアップ 障害物回避 音声とアプリでコントロール お掃除ロボット",
+      "price": 69800,
+      "list_price": 111800,
+      "percent_off": 38,
+      "points": 698,
       "points_percent": 1,
-      "image": "https://m.media-amazon.com/images/I/41-jf7o6HkL._SL160_.jpg",
-      "url": "https://www.amazon.co.jp/dp/B0FJDZ1SK1?tag=natafull-22&linkCode=osi&th=1&psc=1"
+      "image": "https://m.media-amazon.com/images/I/31Hv0tqVQGL._SL160_.jpg",
+      "url": "https://www.amazon.co.jp/dp/B0GRFN53XB?tag=natafull-22&linkCode=osi&th=1&psc=1"
     },
     {
-      "title": "INIU モバイルバッテリー 大容量【軽量 小型 薄型 10000mAh タイプc】 22.5W 急速充電 モバイル・バッテリー [PSE技術認証済 PD 3.0 QC 4.0 LED] USB C モバイル 充電器 バッテリー旅行/出張/通勤/機内持ち込みok/防災/緊急用などの必携品 iPhone 17 16 15 iPad & Android xiaomiその他各種対応【ブラック】",
-      "price": 1399,
-      "list_price": 2399,
-      "percent_off": 42,
-      "points": 24,
-      "points_percent": 2,
-      "image": "https://m.media-amazon.com/images/I/31vZ0ZlDMzL._SL160_.jpg",
-      "url": "https://www.amazon.co.jp/dp/B09WQN87HM?tag=natafull-22&linkCode=osi&th=1&psc=1"
-    },
-    {
-      "title": "モバイルバッテリー 軽量 小型 5000mAh 【改良モデル& MFi認証済み】携帯バッテリー Lightningコネクター & type-c コネクター内蔵 蓄電用ケーブル内蔵 直接充電 スマホ充電器 急速充電 コンパクト隠しスタンド搭載 持ち運び便利 98.5gコードレス旅行/出張PSE認証済み iPhone/Android/iPad/AirPodsなど各種対応 (オフホワイト)",
-      "price": 1510,
-      "list_price": 2698,
-      "percent_off": 44,
+      "title": "UGREEN 145W 4-in-1モバイルバッテリー 20000mAh 15Wマグネット式ワイヤレス充電対応 3ポート",
+      "price": 13507,
+      "list_price": 21480,
+      "percent_off": 37,
       "points": 0,
       "points_percent": null,
-      "image": "https://m.media-amazon.com/images/I/31zh1mUyVhL._SL160_.jpg",
-      "url": "https://www.amazon.co.jp/dp/B0GS4S8292?tag=natafull-22&linkCode=osi&th=1&psc=1"
+      "image": "https://m.media-amazon.com/images/I/31Nx5ZNVlwL._SL160_.jpg",
+      "url": "https://www.amazon.co.jp/dp/B0D4F34SB4?tag=natafull-22&linkCode=osi&th=1&psc=1"
     },
     {
-      "title": "Yibest Qi2対応 モバイルバッテリー 10000mAh MagSafe対応 【超薄型14mm・軽量186g】15W ワイヤレス急速充電 マグネット式 2台同時充電 USB-C PD20W 【PSE認証済・リン酸鉄リチウム電池】iPhone 17～12 / Apple Watch/AirPods対応 防災・出張・旅行 機内持ち込み可（チタングレー）",
-      "price": 5679,
-      "list_price": 9900,
-      "percent_off": 43,
+      "title": "UGREEN 100W モバイルバッテリー 20000mAh 大容量 3ポート USB-C×2 USB-A×1 65W",
+      "price": 6370,
+      "list_price": 9999,
+      "percent_off": 36,
       "points": 0,
       "points_percent": null,
-      "image": "https://m.media-amazon.com/images/I/31SI4GCdlRL._SL160_.jpg",
-      "url": "https://www.amazon.co.jp/dp/B0G4H1S4BD?tag=natafull-22&linkCode=osi&th=1&psc=1"
+      "image": "https://m.media-amazon.com/images/I/31xSnjyT5rL._SL160_.jpg",
+      "url": "https://www.amazon.co.jp/dp/B0C3GTMX5M?tag=natafull-22&linkCode=osi&th=1&psc=1"
     },
     {
-      "title": "【業界初のチタン素材・MagSafe対応】モバイルバッテリー 軽量 小型 マグセーフ対応 5000mAh ワイヤレス マグネット式 18W急速充電 Type-C対応 FCC/PSE認証済み iPhone17/16/15/14/13/12シリーズ対応 機内持ち込み可 MagS-1 ULiXWH (5000mAh(デザートゴールド))",
-      "price": 1733,
-      "list_price": 2999,
-      "percent_off": 42,
-      "points": 17,
+      "title": "アイリスオーヤマ フライヤー 過熱水蒸気 ノンオイルフライヤー FV-M30A-C アイボリー",
+      "price": 8709,
+      "list_price": 12800,
+      "percent_off": 32,
+      "points": 357,
+      "points_percent": 4,
+      "image": "https://m.media-amazon.com/images/I/3169gfWTJ3L._SL160_.jpg",
+      "url": "https://www.amazon.co.jp/dp/B0G4CC1S2F?tag=natafull-22&linkCode=osi&th=1&psc=1"
+    },
+    {
+      "title": "ECOVACS (エコバックス) DEEBOT N30 PLUS 吸引力10,000Pa ロボット掃除機 水拭き両用 自動ゴミ収集 大容量バッテリー PureCyclone バッグレス設計 ZeroTangle 2.0搭載 マッピング ゼロタングル 強力吸引 アプリ操作 落下防止システム Alexa対応 清掃予約 お掃除ロボット ブラック",
+      "price": 67800,
+      "list_price": null,
+      "percent_off": null,
+      "points": 23730,
+      "points_percent": 35,
+      "image": "https://m.media-amazon.com/images/I/312T9QFCi4L._SL160_.jpg",
+      "url": "https://www.amazon.co.jp/dp/B0FMR9YY83?tag=natafull-22&linkCode=osi&th=1&psc=1"
+    },
+    {
+      "title": "ソニー ゲーミングイヤホン INZONE Buds:WF-G700N Fnatic監修/ワイヤレス / 低遅延2.4GHzワイヤレス接続 USBType-Cトランシーバー同梱/LE Audio対応/アクティブノイズキャンセリング/立体音響 / 最大約24時間バッテリー / 急速充電/マイク付き / PS5 スマホ PC Switch グラスパープル",
+      "price": 23900,
+      "list_price": 29700,
+      "percent_off": 20,
+      "points": 3353,
+      "points_percent": 14,
+      "image": "https://m.media-amazon.com/images/I/3143nL6VZVL._SL160_.jpg",
+      "url": "https://www.amazon.co.jp/dp/B0GW7WT5SQ?tag=natafull-22&linkCode=osi&th=1&psc=1"
+    },
+    {
+      "title": "roborock Q7B+ ブラック ロボロック ロボット掃除機 小型 お掃除ロボット 水拭き 両用 自動ゴミ収集 150分 8,000Pa 強力吸引 マッピング 強力吸引 自動充電 アプリ操作 高精度レーザーセンサー 正規品 Q7BP52-04",
+      "price": 49980,
+      "list_price": null,
+      "percent_off": null,
+      "points": 14994,
+      "points_percent": 30,
+      "image": "https://m.media-amazon.com/images/I/31qmMRLI1gL._SL160_.jpg",
+      "url": "https://www.amazon.co.jp/dp/B0F6NRWF9V?tag=natafull-22&linkCode=osi&th=1&psc=1"
+    },
+    {
+      "title": "ルンバ(Roomba)205 DustCompactor Combo ロボット (ロボット掃除機) アイロボット(iRobot)【水拭き/両用/ゴミ圧縮機能付きダスト容器/日本の住宅向けに開発/LiDARナビゲーション/パワーリフト吸引/スマートスクラブ対応/マッピング 掃除経路確認/アプリ操作/落下防止/Amazon.co.jp購入時12ヶ月保証/L121060】ブラック",
+      "price": 42800,
+      "list_price": 59798,
+      "percent_off": 28,
+      "points": 0,
+      "points_percent": null,
+      "image": "https://m.media-amazon.com/images/I/31HIrU1UQiL._SL160_.jpg",
+      "url": "https://www.amazon.co.jp/dp/B0F1FCM99S?tag=natafull-22&linkCode=osi&th=1&psc=1"
+    },
+    {
+      "title": "roborock(ロボロック) Q10V+ ロボット掃除機 水拭き 両用 自動ゴミ収集 障害物回避 お掃除ロボット【Qシリーズ高総合力モデル】",
+      "price": 37999,
+      "list_price": 51999,
+      "percent_off": 27,
+      "points": 380,
       "points_percent": 1,
-      "image": "https://m.media-amazon.com/images/I/41gVQRVPIDL._SL160_.jpg",
-      "url": "https://www.amazon.co.jp/dp/B0FHPXZ1KJ?tag=natafull-22&linkCode=osi&th=1&psc=1"
+      "image": "https://m.media-amazon.com/images/I/319BCGeg7ZL._SL160_.jpg",
+      "url": "https://www.amazon.co.jp/dp/B0F9KCJ493?tag=natafull-22&linkCode=osi&th=1&psc=1"
     },
     {
-      "title": "【Amazon.co.jp限定】 モバイルバッテリー 小型 軽量 23600mAh大容量 22.5W/PD18W 4本ケーブル内蔵 203g 手のひらサイズ 持ち運び便利 急速充電 スマホ充電器 5台同時充電 3WAY蓄電Type-C入出力兼用 低電流対応 LEDランプ搭載 コンパクトで機内持ち込み可 旅行/出張/アウトドア/停電/防災緊急用 全機種対応 (ピンク)",
-      "price": 2541,
-      "list_price": 4460,
-      "percent_off": 43,
+      "title": "UGREEN Air モバイルバッテリー マグネット式ワイヤレス充電 超薄型 MagSafe対応 5000mAh PB580 ダークグレー",
+      "price": 4485,
+      "list_price": 5980,
+      "percent_off": 25,
       "points": 0,
       "points_percent": null,
-      "image": "https://m.media-amazon.com/images/I/41SidEmtyRL._SL160_.jpg",
-      "url": "https://www.amazon.co.jp/dp/B0G3WLHTMQ?tag=natafull-22&linkCode=osi&th=1&psc=1"
+      "image": "https://m.media-amazon.com/images/I/21qLhxw919L._SL160_.jpg",
+      "url": "https://www.amazon.co.jp/dp/B0F6NFHB31?tag=natafull-22&linkCode=osi&th=1&psc=1"
     },
     {
-      "title": "モバイルバッテリー 半固体電池 【燃えにくい・充電回数2000以上・長持ち】 モバイルバッテリー magsafe対応 大容量 軽量 小型 コンパクト 10000mAh 急速充電 LCD残量表示 3台同時充電 タイプC入出力兼用 マグセーフ充電器 ワイヤレス充電器 機内持ち込み可 旅行/出張/災害用 USB-C&USB-Cケーブル付属 Power Bank (ホワイト)",
-      "price": 4160,
-      "list_price": 7180,
-      "percent_off": 42,
+      "title": "UGREEN MagFlow Qi2 25W認証 モバイルバッテリー Magsafe対応 マグネット式ワイヤレス急速充電 20000mAh ブラック",
+      "price": 8990,
+      "list_price": 11980,
+      "percent_off": 25,
       "points": 0,
       "points_percent": null,
-      "image": "https://m.media-amazon.com/images/I/31MDKTQ+GyL._SL160_.jpg",
-      "url": "https://www.amazon.co.jp/dp/B0GWMF3M8N?tag=natafull-22&linkCode=osi&th=1&psc=1"
+      "image": "https://m.media-amazon.com/images/I/21tuDxxBuBL._SL160_.jpg",
+      "url": "https://www.amazon.co.jp/dp/B0F37QVBNM?tag=natafull-22&linkCode=osi&th=1&psc=1"
     },
     {
-      "title": "モバイルバッテリー 軽量 小型 【MagSafe対応・14mm・178g】【無感の薄さ、その先へ】10000mAh モバイルバッテリー マグセーフ ワイヤレス充電器 マグネット式 まぐせーふ 対応 PD22.5W/15W 急速充電 2台同時充電 LCD残量数字表示 スマホ充電器 持ち運び便利 iPhone 17/16/15/ 14/ 13/ 12シリーズ 旅行/出張/災害用 機内持ち込み可",
-      "price": 1899,
-      "list_price": 3299,
-      "percent_off": 42,
+      "title": "roborock Qrevo L ロボット掃除機 水拭き 両用 自動ゴミ収集 180分 10000Pa 障害物回避 LDSマッピング アプリ操作 自動充電 高精度レーザーセンサー 【2025年6月発売】正規品",
+      "price": 79980,
+      "list_price": null,
+      "percent_off": null,
+      "points": 19995,
+      "points_percent": 25,
+      "image": "https://m.media-amazon.com/images/I/41aaQgJQsRL._SL160_.jpg",
+      "url": "https://www.amazon.co.jp/dp/B0F6NGXD99?tag=natafull-22&linkCode=osi&th=1&psc=1"
+    },
+    {
+      "title": "UGREEN 【小型・軽量・10000mAh】モバイルバッテリー 大容量 2台同時充電（USB-A×1 USBC×1）PD20W 急速充電 小電流モード バッテリー残量表示 コンパクト PSE技術基準適合 iphone17/Android/iPad 各種 USB-C 機器に対応 灰色 PB507",
+      "price": 1979,
+      "list_price": 2580,
+      "percent_off": 23,
       "points": 0,
       "points_percent": null,
-      "image": "https://m.media-amazon.com/images/I/41HfGIHZKFL._SL160_.jpg",
-      "url": "https://www.amazon.co.jp/dp/B0GG86F1DQ?tag=natafull-22&linkCode=osi&th=1&psc=1"
+      "image": "https://m.media-amazon.com/images/I/21yWDfPjQgL._SL160_.jpg",
+      "url": "https://www.amazon.co.jp/dp/B0DZ1TGX6T?tag=natafull-22&linkCode=osi&th=1&psc=1"
+    },
+    {
+      "title": "CIO モバイルバッテリー 半固体電池 薄型 軽量 タイプC 35W 急速充電 3ポート 10000mAh iPhone 17 Pixel10 Galaxy S26 iPad MacBook Windows ノートPC対応 パススルー SMARTCOBY Pro SLIM SS (ブラック)",
+      "price": 6280,
+      "list_price": null,
+      "percent_off": null,
+      "points": 1382,
+      "points_percent": 22,
+      "image": "https://m.media-amazon.com/images/I/3193CL+De7L._SL160_.jpg",
+      "url": "https://www.amazon.co.jp/dp/B0GMX4WKYG?tag=natafull-22&linkCode=osi&th=1&psc=1"
+    },
+    {
+      "title": "roborock (ロボロック) Qrevo Curv 2 Flow ロボット掃除機 水拭き両用 モップ自動洗浄 【26年革新モップカバー搭載】",
+      "price": 119900,
+      "list_price": null,
+      "percent_off": null,
+      "points": 23980,
+      "points_percent": 20,
+      "image": "https://m.media-amazon.com/images/I/31DRz0R5QsL._SL160_.jpg",
+      "url": "https://www.amazon.co.jp/dp/B0GXB2RZ9Y?tag=natafull-22&linkCode=osi&th=1&psc=1"
+    },
+    {
+      "title": "ECOVACS(エコバックス)【窓掃除をロボットに任せる】WINBOT W2 窓拭きロボット 窓用 落下防止 ロボット掃除機 ガラスクリーナー スプレー テクノロジー インテリジェント掃除 強力吸引 水拭き 1年メーカー保証",
+      "price": 55800,
+      "list_price": null,
+      "percent_off": null,
+      "points": 11160,
+      "points_percent": 20,
+      "image": "https://m.media-amazon.com/images/I/31q-ApXQlVL._SL160_.jpg",
+      "url": "https://www.amazon.co.jp/dp/B0CRV7CJD8?tag=natafull-22&linkCode=osi&th=1&psc=1"
     }
   ]
 }

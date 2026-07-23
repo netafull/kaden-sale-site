@@ -177,12 +177,18 @@ def search_with_retry(
 
 
 def parse_items(
-    response: dict, partner_tag: str, min_saving: int, must_include_any: list[str]
-) -> tuple[list[dict], int, int]:
-    """(掲載対象のリスト, 割引不足で除外した件数, 関連性フィルタで除外した件数) を返す。"""
+    response: dict,
+    partner_tag: str,
+    min_saving: int,
+    must_include_any: list[str],
+    known_brands: list[str],
+) -> tuple[list[dict], int, int, int]:
+    """(掲載対象のリスト, 割引不足で除外した件数, 関連性フィルタで除外した件数,
+    ブランド不明で除外した件数) を返す。"""
     items = []
     no_discount = 0
     irrelevant = 0
+    unknown_brand = 0
     search_result = pick(response, "searchResult", "SearchResult") or {}
     for item in pick(search_result, "items", "Items") or []:
         asin = pick(item, "asin", "ASIN")
@@ -254,6 +260,14 @@ def parse_items(
         brand_block = pick(byline, "brand", "Brand") or {}
         brand = pick(brand_block, "displayValue", "DisplayValue")
 
+        # 無名ブランドは「定価を吊り上げてから大幅値引きに見せる」手口が
+        # 実データで多数確認されたため、known_brandsに一致しない商品は除外する
+        if known_brands and not (
+            brand and any(b.lower() in brand.lower() for b in known_brands)
+        ):
+            unknown_brand += 1
+            continue
+
         images = pick(item, "images", "Images") or {}
         medium = pick(pick(images, "primary", "Primary") or {}, "medium", "Medium") or {}
         image = pick(medium, "url", "URL")
@@ -276,7 +290,7 @@ def parse_items(
                 "url": url,
             }
         )
-    return items, no_discount, irrelevant
+    return items, no_discount, irrelevant, unknown_brand
 
 
 def main() -> int:
@@ -318,9 +332,11 @@ def main() -> int:
         items = []
         dropped = 0
         irrelevant_total = 0
+        unknown_brand_total = 0
         keywords_list = genre.get("keywords") or []
         search_index = genre.get("search_index", "All")
         must_include_any = genre.get("must_include_any") or []
+        known_brands = genre.get("known_brands") or []
         for kw, sort_by, page in (
             (k, s, p)
             for k in keywords_list
@@ -336,11 +352,12 @@ def main() -> int:
                 sort_by=sort_by,
                 label=f"{genre['name']} ({kw}) page {page}",
             )
-            parsed_items, no_discount, irrelevant = parse_items(
-                res, partner_tag, min_saving, must_include_any
+            parsed_items, no_discount, irrelevant, unknown_brand = parse_items(
+                res, partner_tag, min_saving, must_include_any, known_brands
             )
             dropped += no_discount
             irrelevant_total += irrelevant
+            unknown_brand_total += unknown_brand
             for parsed in parsed_items:
                 if parsed["asin"] not in seen:
                     seen.add(parsed["asin"])
@@ -351,7 +368,8 @@ def main() -> int:
         genres.append({"name": genre["name"], "items": items})
         print(
             f"{genre['name']}スキャン: セール品{len(items)}件 "
-            f"(割引不足で{dropped}件除外, 関連性フィルタで{irrelevant_total}件除外)"
+            f"(割引不足で{dropped}件, 関連性フィルタで{irrelevant_total}件, "
+            f"無名ブランドで{unknown_brand_total}件を除外)"
         )
 
     total = sum(len(g["items"]) for g in genres)
