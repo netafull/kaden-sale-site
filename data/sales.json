@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-24T13:07:48.137296+00:00",
+  "fetched_at": "2026-07-24T13:16:54.617260+00:00",
   "min_saving_percent": 12,
   "genres": [
     {
@@ -138,6 +138,32 @@
           "points_percent": 1,
           "image": "https://m.media-amazon.com/images/I/41Utdz1PykL._SL160_.jpg",
           "url": "https://www.amazon.co.jp/dp/B0H1QQQVT1?tag=natafull-22&linkCode=osi&th=1&psc=1",
+          "since": "2026-07-24"
+        },
+        {
+          "asin": "B0FCSCKGPH",
+          "title": "Bose QuietComfort Ultra Earbuds LE (第2世代) ワイヤレス ノイズキャンセリング Bluetooth イヤホン 最長6時間連続再生 IPX4規格準拠 イマーシブオーディオ 迫力の重低音 ディーププラム",
+          "brand": "BOSE(ボーズ)",
+          "price": 33660,
+          "list_price": 39600,
+          "percent_off": 15,
+          "points": 0,
+          "points_percent": null,
+          "image": "https://m.media-amazon.com/images/I/31a6qaSN5gL._SL160_.jpg",
+          "url": "https://www.amazon.co.jp/dp/B0FCSCKGPH?tag=natafull-22&linkCode=osi&th=1&psc=1",
+          "since": "2026-07-24"
+        },
+        {
+          "asin": "B0DK4FPB82",
+          "title": "JVCケンウッド Victor HA-NP1T-A ワイヤレスイヤホン Bluetooth Ver.5.3 オープンイヤー イヤーカフ アプリ対応 マルチポイント 合計24時間再生 マイク付き 小型 軽量 防水 音アクセ ティールブルー",
+          "brand": "JVCケンウッド",
+          "price": 16800,
+          "list_price": 18000,
+          "percent_off": 7,
+          "points": 843,
+          "points_percent": 5,
+          "image": "https://m.media-amazon.com/images/I/31Pm01yaVYL._SL160_.jpg",
+          "url": "https://www.amazon.co.jp/dp/B0DK4FPB82?tag=natafull-22&linkCode=osi&th=1&psc=1",
           "since": "2026-07-24"
         }
       ]

@@ -16,7 +16,7 @@
     },
     {
       "name": "ワイヤレスイヤホン",
-      "keywords": ["ワイヤレスイヤホン", "Bluetoothイヤホン"],
+      "keywords": ["ワイヤレスイヤホン", "Bluetoothイヤホン", "cheero"],
       "search_index": "Electronics",
       "must_include_any": ["イヤホン", "イヤフォン"],
       "known_brands": ["Sony", "ソニー", "Anker", "Soundcore", "サウンドコア", "JBL", "Bose", "ボーズ", "Apple", "アップル", "Beats", "ゼンハイザー", "Sennheiser", "Panasonic", "パナソニック", "audio-technica", "オーディオテクニカ", "ELECOM", "エレコム", "Huawei", "ファーウェイ", "Google", "グーグル", "Pixel", "Samsung", "サムスン", "Galaxy", "Xiaomi", "シャオミ", "Nothing", "Skullcandy", "スカルキャンディー", "Shure", "シュア", "final", "Technics", "テクニクス", "Victor", "JVC", "Denon", "デノン", "Marshall", "マーシャル", "Belkin", "ベルキン", "cheero", "チーロ"]
