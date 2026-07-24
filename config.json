@@ -9,7 +9,7 @@
   "genres": [
     {
       "name": "モバイルバッテリー",
-      "keywords": ["MagSafe モバイルバッテリー", "モバイルバッテリー 急速充電"],
+      "keywords": ["MagSafe モバイルバッテリー", "モバイルバッテリー 急速充電", "cheero モバイルバッテリー"],
       "search_index": "Electronics",
       "must_include_any": ["MagSafe", "モバイルバッテリー", "バッテリー"],
       "known_brands": ["Anker", "アンカー", "UGREEN", "ユーグリーン", "CIO", "ELECOM", "エレコム", "Panasonic", "パナソニック", "Sony", "ソニー", "RAVPower", "Belkin", "ベルキン", "Apple", "アップル", "cheero", "チーロ"]
