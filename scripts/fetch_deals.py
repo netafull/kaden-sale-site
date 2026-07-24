@@ -397,10 +397,27 @@ def main() -> int:
         return 1
 
     # 商品(ASIN)ごとの初検出日を状態ファイルで管理し、掲載開始日として表示する
+    state = {}
     try:
-        state = json.loads(STATE_PATH.read_text(encoding="utf-8"))
-    except (FileNotFoundError, json.JSONDecodeError):
-        state = {}
+        raw = STATE_PATH.read_text(encoding="utf-8")
+        # gitのコンフリクトマーカーが混入したまま
+        # コミットされた事故が実際に起きたため明示的に検出する
+        if "<<<<<<<" in raw or ">>>>>>>" in raw:
+            print(
+                f"[warn] {STATE_PATH.name} にコンフリクトマーカーが混入しています。"
+                "全商品の初検出日がリセットされます",
+                file=sys.stderr,
+            )
+        else:
+            state = json.loads(raw)
+    except FileNotFoundError:
+        pass  # 初回実行時は状態ファイルが無くて当然
+    except json.JSONDecodeError as e:
+        print(
+            f"[warn] {STATE_PATH.name} が壊れています ({e})。"
+            "全商品の初検出日がリセットされます",
+            file=sys.stderr,
+        )
     today = datetime.datetime.now(
         datetime.timezone(datetime.timedelta(hours=9))
     ).strftime("%Y-%m-%d")
