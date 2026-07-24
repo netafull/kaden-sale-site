@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-23T12:13:39.173020+00:00",
+  "fetched_at": "2026-07-24T13:00:55.470204+00:00",
   "min_saving_percent": 12,
   "genres": [
     {
@@ -19,30 +19,30 @@
           "since": "2026-07-23"
         },
         {
-          "asin": "B0BJQ7F16T",
-          "title": "UGREEN 145W モバイルバッテリー 25000mAh大容量 3ポート USB-C×2 USB-A×1 240W ケーブル付",
+          "asin": "B0C3GTMX5M",
+          "title": "UGREEN 100W モバイルバッテリー 20000mAh 大容量 3ポート USB-C×2 USB-A×1 65W",
           "brand": "UGREEN",
-          "price": 9644,
-          "list_price": 13980,
-          "percent_off": 31,
-          "points": 386,
-          "points_percent": 4,
-          "image": "https://m.media-amazon.com/images/I/31DNDSYNwEL._SL160_.jpg",
-          "url": "https://www.amazon.co.jp/dp/B0BJQ7F16T?tag=natafull-22&linkCode=osi&th=1&psc=1",
+          "price": 6370,
+          "list_price": 9999,
+          "percent_off": 36,
+          "points": 0,
+          "points_percent": null,
+          "image": "https://m.media-amazon.com/images/I/31xSnjyT5rL._SL160_.jpg",
+          "url": "https://www.amazon.co.jp/dp/B0C3GTMX5M?tag=natafull-22&linkCode=osi&th=1&psc=1",
           "since": "2026-07-23"
         },
         {
-          "asin": "B0F6NC41DZ",
-          "title": "UGREEN Air モバイルバッテリー マグネット式ワイヤレス充電 薄型 MagSafe対応 10000mAh ケーブル内蔵 PB570 グレー",
+          "asin": "B0F6NFHB31",
+          "title": "UGREEN Air モバイルバッテリー マグネット式ワイヤレス充電 超薄型 MagSafe対応 5000mAh PB580 ダークグレー",
           "brand": "UGREEN",
-          "price": 5985,
-          "list_price": 7980,
+          "price": 4485,
+          "list_price": 5980,
           "percent_off": 25,
           "points": 0,
           "points_percent": null,
-          "image": "https://m.media-amazon.com/images/I/41fFiTMfzXL._SL160_.jpg",
-          "url": "https://www.amazon.co.jp/dp/B0F6NC41DZ?tag=natafull-22&linkCode=osi&th=1&psc=1",
-          "since": "2026-07-23"
+          "image": "https://m.media-amazon.com/images/I/21qLhxw919L._SL160_.jpg",
+          "url": "https://www.amazon.co.jp/dp/B0F6NFHB31?tag=natafull-22&linkCode=osi&th=1&psc=1",
+          "since": "2026-07-24"
         },
         {
           "asin": "B0F37QVBNM",
@@ -81,11 +81,11 @@
           "points_percent": null,
           "image": "https://m.media-amazon.com/images/I/11XtUdYufIL._SL160_.jpg",
           "url": "https://www.amazon.co.jp/dp/B0CT2JNCT5?tag=natafull-22&linkCode=osi&th=1&psc=1",
-          "since": "2026-07-23"
+          "since": "2026-07-24"
         },
         {
           "asin": "B0GMX4WKYG",
-          "title": "CIO モバイルバッテリー 半固体電池 薄型 軽量 タイプC 35W 急速充電 3ポート 10000mAh iPhone 17 Pixel10 Galaxy S26 iPad MacBook Windows ノートPC対応 パススルー SMARTCOBY Pro SLIM SS (ブラック)",
+          "title": "CIO SMARTCOBY Pro SLIM SS モバイルバッテリー 半固体 35W USB-C×2 USB-A×1 10000mAh (ブラック)",
           "brand": "CIO",
           "price": 6280,
           "list_price": null,
@@ -94,20 +94,51 @@
           "points_percent": 22,
           "image": "https://m.media-amazon.com/images/I/3193CL+De7L._SL160_.jpg",
           "url": "https://www.amazon.co.jp/dp/B0GMX4WKYG?tag=natafull-22&linkCode=osi&th=1&psc=1",
-          "since": "2026-07-23"
+          "since": "2026-07-24"
         },
         {
           "asin": "B099JMBCP1",
           "title": "エレコム モバイルバッテリー 10000mAh 大容量 マグネット ( USB PD対応 ) Type-C×1 / USB-A×1 【 iPhone12 / iPhone13 シリーズ推奨 】 PSE認証 ブラック EC-C02BK",
           "brand": "エレコム(ELECOM)",
-          "price": 1681,
+          "price": 1698,
           "list_price": 1960,
-          "percent_off": 14,
-          "points": 0,
-          "points_percent": null,
+          "percent_off": 13,
+          "points": 17,
+          "points_percent": 1,
           "image": "https://m.media-amazon.com/images/I/31+QMeoVBmL._SL160_.jpg",
           "url": "https://www.amazon.co.jp/dp/B099JMBCP1?tag=natafull-22&linkCode=osi&th=1&psc=1",
           "since": "2026-07-23"
+        }
+      ]
+    },
+    {
+      "name": "ワイヤレスイヤホン",
+      "items": [
+        {
+          "asin": "B0GW7WT5SQ",
+          "title": "ソニー ゲーミングイヤホン INZONE Buds:WF-G700N Fnatic監修/ワイヤレス / 低遅延2.4GHzワイヤレス接続 USBType-Cトランシーバー同梱/LE Audio対応/アクティブノイズキャンセリング/立体音響 / 最大約24時間バッテリー / 急速充電/マイク付き / PS5 スマホ PC Switch グラスパープル",
+          "brand": "Sony",
+          "price": 23900,
+          "list_price": 29700,
+          "percent_off": 20,
+          "points": 3353,
+          "points_percent": 14,
+          "image": "https://m.media-amazon.com/images/I/3143nL6VZVL._SL160_.jpg",
+          "url": "https://www.amazon.co.jp/dp/B0GW7WT5SQ?tag=natafull-22&linkCode=osi&th=1&psc=1",
+          "since": "2026-07-23"
+        },
+        {
+          "asin": "B0H1QQQVT1",
+          "title": "JBL TOUR PRO 3 ワイヤレスイヤホン bluetooth/ハイブリッドノイズキャンセリング/ハイレゾワイヤレスLDAC/デュアルドライバー/マルチポイント/防塵・防水/ワイヤレス充電対応/スマートタッチディスプレイ搭載/グリーン / JBLTOURPRO3GRN",
+          "brand": "JBL",
+          "price": 29900,
+          "list_price": 39600,
+          "percent_off": 24,
+          "points": 299,
+          "points_percent": 1,
+          "image": "https://m.media-amazon.com/images/I/41Utdz1PykL._SL160_.jpg",
+          "url": "https://www.amazon.co.jp/dp/B0H1QQQVT1?tag=natafull-22&linkCode=osi&th=1&psc=1",
+          "since": "2026-07-24"
         }
       ]
     },
@@ -128,17 +159,17 @@
           "since": "2026-07-23"
         },
         {
-          "asin": "B0C3VYP1PG",
-          "title": "COSORI コソリ ノンフライヤー 2L 一人用 エアフライヤー オイル97％カット 省エネ ミニ 卓上 電気 フライヤー 揚げ物 専用レシピ付き PSE認証済み ブラックCAF-LI211-KJP",
+          "asin": "B09HB4B15V",
+          "title": "COSORI コソリ ノンフライヤー 4.7L 大容量 家庭用 電気 エアフライヤー 最高温230℃ 揚げ物 ポテト 惣菜 日本語レシピ付き タイマー 自動電源オフ グレー CAF-L501-KJP",
           "brand": "Cosori",
-          "price": 8980,
-          "list_price": 10980,
-          "percent_off": 18,
-          "points": 90,
+          "price": 13980,
+          "list_price": 16038,
+          "percent_off": 13,
+          "points": 140,
           "points_percent": 1,
-          "image": "https://m.media-amazon.com/images/I/41kxSjsHijL._SL160_.jpg",
-          "url": "https://www.amazon.co.jp/dp/B0C3VYP1PG?tag=natafull-22&linkCode=osi&th=1&psc=1",
-          "since": "2026-07-23"
+          "image": "https://m.media-amazon.com/images/I/41zBbKORchL._SL160_.jpg",
+          "url": "https://www.amazon.co.jp/dp/B09HB4B15V?tag=natafull-22&linkCode=osi&th=1&psc=1",
+          "since": "2026-07-24"
         }
       ]
     },
@@ -169,7 +200,7 @@
           "points_percent": 11,
           "image": "https://m.media-amazon.com/images/I/31+5vypcDCL._SL160_.jpg",
           "url": "https://www.amazon.co.jp/dp/B0DW8MPL2P?tag=natafull-22&linkCode=osi&th=1&psc=1",
-          "since": "2026-07-23"
+          "since": "2026-07-24"
         },
         {
           "asin": "B0H44Y871S",
@@ -185,19 +216,6 @@
           "since": "2026-07-23"
         },
         {
-          "asin": "B0GRFN53XB",
-          "title": "dreame (ドリーミー) L10s Ultra Gen3 ロボット掃除機 吸引・水拭き両用 25,000 Pa強力吸引 伸縮式のサイドブラシとモップ 100日分の自動ゴミ収集 AceClean DryBoardとモップの自動洗浄 温風乾燥 自動給水 10.5mmのモップリフトアップ 障害物回避 音声とアプリでコントロール お掃除ロボット",
-          "brand": "dreame",
-          "price": 69800,
-          "list_price": 111800,
-          "percent_off": 38,
-          "points": 698,
-          "points_percent": 1,
-          "image": "https://m.media-amazon.com/images/I/31Hv0tqVQGL._SL160_.jpg",
-          "url": "https://www.amazon.co.jp/dp/B0GRFN53XB?tag=natafull-22&linkCode=osi&th=1&psc=1",
-          "since": "2026-07-23"
-        },
-        {
           "asin": "B0FMR9YY83",
           "title": "ECOVACS (エコバックス) DEEBOT N30 PLUS 吸引力10,000Pa ロボット掃除機 水拭き両用 自動ゴミ収集 大容量バッテリー PureCyclone バッグレス設計 ZeroTangle 2.0搭載 マッピング ゼロタングル 強力吸引 アプリ操作 落下防止システム Alexa対応 清掃予約 お掃除ロボット ブラック",
           "brand": "ECOVACS",
@@ -208,33 +226,46 @@
           "points_percent": 35,
           "image": "https://m.media-amazon.com/images/I/312T9QFCi4L._SL160_.jpg",
           "url": "https://www.amazon.co.jp/dp/B0FMR9YY83?tag=natafull-22&linkCode=osi&th=1&psc=1",
-          "since": "2026-07-23"
+          "since": "2026-07-24"
         },
         {
-          "asin": "B0F6NRWF9V",
-          "title": "roborock Q7B+ ブラック ロボロック ロボット掃除機 小型 お掃除ロボット 水拭き 両用 自動ゴミ収集 150分 8,000Pa 強力吸引 マッピング 強力吸引 自動充電 アプリ操作 高精度レーザーセンサー 正規品 Q7BP52-04",
-          "brand": "roborock",
-          "price": 49980,
-          "list_price": null,
-          "percent_off": null,
-          "points": 14994,
-          "points_percent": 30,
-          "image": "https://m.media-amazon.com/images/I/31qmMRLI1gL._SL160_.jpg",
-          "url": "https://www.amazon.co.jp/dp/B0F6NRWF9V?tag=natafull-22&linkCode=osi&th=1&psc=1",
-          "since": "2026-07-23"
-        },
-        {
-          "asin": "B0B59452FZ",
-          "title": "dreame D10Plus ロボット掃除機 自動ゴミ収集 水拭き対応 4000Pa強力吸引 高精度LDSレーザーセンサー 高精度複数階マッピング機能 170分間連続稼働 Wi-Fi接続 Alexa対応 APP遠隔操作 自動充電 静音設計 遠隔操作 落下防止 衝突防止",
+          "asin": "B0D8PHF6JX",
+          "title": "dreame (ドリーミー) D9 Max Gen2 ロボット掃除機 6000Pa強力吸引 水拭き対応 570 ml の大型ダストボックス 高精度LDSレーザーセンサー 高精度複数階マッピング機能 昼夜を問わず賢く掃除 静音設計 Google Home Alexa Siri対応",
           "brand": "dreame",
-          "price": 21501,
-          "list_price": 29800,
-          "percent_off": 28,
-          "points": 215,
+          "price": 17799,
+          "list_price": 26800,
+          "percent_off": 34,
+          "points": 178,
           "points_percent": 1,
-          "image": "https://m.media-amazon.com/images/I/31--73ZZPRL._SL160_.jpg",
-          "url": "https://www.amazon.co.jp/dp/B0B59452FZ?tag=natafull-22&linkCode=osi&th=1&psc=1",
+          "image": "https://m.media-amazon.com/images/I/31m6EY+5w1L._SL160_.jpg",
+          "url": "https://www.amazon.co.jp/dp/B0D8PHF6JX?tag=natafull-22&linkCode=osi&th=1&psc=1",
           "since": "2026-07-23"
+        },
+        {
+          "asin": "B0CH268VB9",
+          "title": "dreame (ドリーミー) L20 Ultra Complete ロボット掃除機 【業界初モップエクステンドで掃除の死角なし 】5way全自動ベースステーション モップや自動脱着機能 加圧回転式デュアルモップ 7000Pa強力吸引 AI 3D LEDイメージング障害物回避システム 双方向通話見守りカメラ 銀イオン除菌 汚れ検出技術搭載 3Dマップ 一年間交換安心アクセサリーキット",
+          "brand": "dreame",
+          "price": 49799,
+          "list_price": 74799,
+          "percent_off": 33,
+          "points": 498,
+          "points_percent": 1,
+          "image": "https://m.media-amazon.com/images/I/31RTQ+hfGOL._SL160_.jpg",
+          "url": "https://www.amazon.co.jp/dp/B0CH268VB9?tag=natafull-22&linkCode=osi&th=1&psc=1",
+          "since": "2026-07-24"
+        },
+        {
+          "asin": "B0F1FCM99S",
+          "title": "ルンバ(Roomba)205 DustCompactor Combo ロボット (ロボット掃除機) アイロボット(iRobot)【水拭き/両用/ゴミ圧縮機能付きダスト容器/日本の住宅向けに開発/LiDARナビゲーション/パワーリフト吸引/スマートスクラブ対応/マッピング 掃除経路確認/アプリ操作/落下防止/Amazon.co.jp購入時12ヶ月保証/L121060】ブラック",
+          "brand": "アイロボット(IRobot)",
+          "price": 42700,
+          "list_price": 59798,
+          "percent_off": 29,
+          "points": 0,
+          "points_percent": null,
+          "image": "https://m.media-amazon.com/images/I/31HIrU1UQiL._SL160_.jpg",
+          "url": "https://www.amazon.co.jp/dp/B0F1FCM99S?tag=natafull-22&linkCode=osi&th=1&psc=1",
+          "since": "2026-07-24"
         },
         {
           "asin": "B0F9KCJ493",
@@ -247,19 +278,6 @@
           "points_percent": 1,
           "image": "https://m.media-amazon.com/images/I/319BCGeg7ZL._SL160_.jpg",
           "url": "https://www.amazon.co.jp/dp/B0F9KCJ493?tag=natafull-22&linkCode=osi&th=1&psc=1",
-          "since": "2026-07-23"
-        },
-        {
-          "asin": "B0FBRJHLH7",
-          "title": "dreame D20 Pro ロボット掃除機 吸引＆水拭き両対応/13,000Pa超強力吸引/HyperStream™絡まり防止デュオブラシ/伸縮式サイドブラシ/3D構造化ライト&Pathfinder™テクノロジー/カーペット＆フローリング対応/スマートマッピング/日本語アプリ対応",
-          "brand": "dreame",
-          "price": 39800,
-          "list_price": 47800,
-          "percent_off": 17,
-          "points": 3980,
-          "points_percent": 10,
-          "image": "https://m.media-amazon.com/images/I/318opQo5r7L._SL160_.jpg",
-          "url": "https://www.amazon.co.jp/dp/B0FBRJHLH7?tag=natafull-22&linkCode=osi&th=1&psc=1",
           "since": "2026-07-23"
         },
         {
@@ -299,7 +317,20 @@
           "points_percent": 20,
           "image": "https://m.media-amazon.com/images/I/31q-ApXQlVL._SL160_.jpg",
           "url": "https://www.amazon.co.jp/dp/B0CRV7CJD8?tag=natafull-22&linkCode=osi&th=1&psc=1",
-          "since": "2026-07-23"
+          "since": "2026-07-24"
+        },
+        {
+          "asin": "B0GHP2D9YF",
+          "title": "【セット販売】【超小型】SwitchBot ロボット掃除機 K11+ ホワイト＋サイドブラシ（4個セット）",
+          "brand": "スイッチボット(SwitchBot)",
+          "price": 40633,
+          "list_price": 49831,
+          "percent_off": 18,
+          "points": 406,
+          "points_percent": 1,
+          "image": "https://m.media-amazon.com/images/I/31iIHL0YiVL._SL160_.jpg",
+          "url": "https://www.amazon.co.jp/dp/B0GHP2D9YF?tag=natafull-22&linkCode=osi&th=1&psc=1",
+          "since": "2026-07-24"
         },
         {
           "asin": "B0H3THZTWT",
@@ -328,32 +359,6 @@
           "since": "2026-07-23"
         },
         {
-          "asin": "B0F1FB6PT8",
-          "title": "ルンバ(Roomba) 105 Combo ロボット + AutoEmpty 充電ステーション (ロボット掃除機) アイロボット(iRobot)【水拭き/両用/自動ゴミ収集/LiDARナビゲーション/パワーリフト吸引/スマートスクラブ対応/マッピング 掃除経路確認/アプリ操作/Amazon.co.jp購入時12ヶ月保証/Y351060】ブラック",
-          "brand": "アイロボット(IRobot)",
-          "price": 51500,
-          "list_price": 59798,
-          "percent_off": 14,
-          "points": 0,
-          "points_percent": null,
-          "image": "https://m.media-amazon.com/images/I/31CkWuoa9YL._SL160_.jpg",
-          "url": "https://www.amazon.co.jp/dp/B0F1FB6PT8?tag=natafull-22&linkCode=osi&th=1&psc=1",
-          "since": "2026-07-23"
-        },
-        {
-          "asin": "B0DRVC5SL4",
-          "title": "ECOVACS(エコバックス) WINBOT MINI 窓掃除 窓拭きロボット 自動清掃 窓用 省スペース設計 落下防止 ロボット掃除機 ガラスクリーナー スプレー マッピング インテリジェント掃除 強力吸引 水拭き 1年メーカー保証",
-          "brand": "ECOVACS",
-          "price": 38800,
-          "list_price": null,
-          "percent_off": null,
-          "points": 5432,
-          "points_percent": 14,
-          "image": "https://m.media-amazon.com/images/I/314rA9NYmuL._SL160_.jpg",
-          "url": "https://www.amazon.co.jp/dp/B0DRVC5SL4?tag=natafull-22&linkCode=osi&th=1&psc=1",
-          "since": "2026-07-23"
-        },
-        {
           "asin": "B0BP21W3XX",
           "title": "ECOVACS(エコバックス) WINBOT MINI/WINBOT MINI2/W1 PRO/W2/W2 OMNI対応 クリーナー ECOVACS WINBOT ロボット掃除機用 消耗品 専用洗浄剤（1L）",
           "brand": "ECOVACS",
@@ -364,38 +369,7 @@
           "points_percent": 14,
           "image": "https://m.media-amazon.com/images/I/21Ku0d1qUyL._SL160_.jpg",
           "url": "https://www.amazon.co.jp/dp/B0BP21W3XX?tag=natafull-22&linkCode=osi&th=1&psc=1",
-          "since": "2026-07-23"
-        }
-      ]
-    },
-    {
-      "name": "ワイヤレスイヤホン",
-      "items": [
-        {
-          "asin": "B0GW7WT5SQ",
-          "title": "ソニー ゲーミングイヤホン INZONE Buds:WF-G700N Fnatic監修/ワイヤレス / 低遅延2.4GHzワイヤレス接続 USBType-Cトランシーバー同梱/LE Audio対応/アクティブノイズキャンセリング/立体音響 / 最大約24時間バッテリー / 急速充電/マイク付き / PS5 スマホ PC Switch グラスパープル",
-          "brand": "Sony",
-          "price": 23900,
-          "list_price": 29700,
-          "percent_off": 20,
-          "points": 3353,
-          "points_percent": 14,
-          "image": "https://m.media-amazon.com/images/I/3143nL6VZVL._SL160_.jpg",
-          "url": "https://www.amazon.co.jp/dp/B0GW7WT5SQ?tag=natafull-22&linkCode=osi&th=1&psc=1",
-          "since": "2026-07-23"
-        },
-        {
-          "asin": "B0H1QQQVT1",
-          "title": "JBL TOUR PRO 3 ワイヤレスイヤホン bluetooth/ハイブリッドノイズキャンセリング/ハイレゾワイヤレスLDAC/デュアルドライバー/マルチポイント/防塵・防水/ワイヤレス充電対応/スマートタッチディスプレイ搭載/グリーン / JBLTOURPRO3GRN",
-          "brand": "JBL",
-          "price": 29900,
-          "list_price": 39600,
-          "percent_off": 24,
-          "points": 299,
-          "points_percent": 1,
-          "image": "https://m.media-amazon.com/images/I/41Utdz1PykL._SL160_.jpg",
-          "url": "https://www.amazon.co.jp/dp/B0H1QQQVT1?tag=natafull-22&linkCode=osi&th=1&psc=1",
-          "since": "2026-07-23"
+          "since": "2026-07-24"
         }
       ]
     }
