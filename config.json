@@ -15,6 +15,13 @@
       "known_brands": ["Anker", "アンカー", "UGREEN", "ユーグリーン", "CIO", "ELECOM", "エレコム", "Panasonic", "パナソニック", "Sony", "ソニー", "RAVPower", "Belkin", "ベルキン", "Apple", "アップル"]
     },
     {
+      "name": "ワイヤレスイヤホン",
+      "keywords": ["ワイヤレスイヤホン", "Bluetoothイヤホン"],
+      "search_index": "Electronics",
+      "must_include_any": ["イヤホン", "イヤフォン"],
+      "known_brands": ["Sony", "ソニー", "Anker", "Soundcore", "サウンドコア", "JBL", "Bose", "ボーズ", "Apple", "アップル", "Beats", "ゼンハイザー", "Sennheiser", "Panasonic", "パナソニック", "audio-technica", "オーディオテクニカ", "ELECOM", "エレコム", "Huawei", "ファーウェイ", "Google", "グーグル", "Pixel", "Samsung", "サムスン", "Galaxy", "Xiaomi", "シャオミ", "Nothing", "Skullcandy", "スカルキャンディー", "Shure", "シュア", "final", "Technics", "テクニクス", "Victor", "JVC", "Denon", "デノン", "Marshall", "マーシャル"]
+    },
+    {
       "name": "エアフライヤー",
       "keywords": ["エアフライヤー", "ノンフライヤー"],
       "search_index": "HomeAndKitchen",
@@ -28,13 +35,6 @@
       "search_index": "Electronics",
       "must_include_any": ["ロボット掃除機", "ロボットクリーナー"],
       "known_brands": ["dreame", "ドリーミー", "Dyson", "ダイソン", "Panasonic", "パナソニック", "Roborock", "ロボロック", "Narwal", "ナーワル", "iRobot", "アイロボット", "Ecovacs", "エコバックス", "Eufy", "ユーフィ", "Xiaomi", "シャオミ", "SwitchBot", "スイッチボット", "シャープ", "SHARP", "日立", "HITACHI"]
-    },
-    {
-      "name": "ワイヤレスイヤホン",
-      "keywords": ["ワイヤレスイヤホン", "Bluetoothイヤホン"],
-      "search_index": "Electronics",
-      "must_include_any": ["イヤホン", "イヤフォン"],
-      "known_brands": ["Sony", "ソニー", "Anker", "Soundcore", "サウンドコア", "JBL", "Bose", "ボーズ", "Apple", "アップル", "Beats", "ゼンハイザー", "Sennheiser", "Panasonic", "パナソニック", "audio-technica", "オーディオテクニカ", "ELECOM", "エレコム", "Huawei", "ファーウェイ", "Google", "グーグル", "Pixel", "Samsung", "サムスン", "Galaxy", "Xiaomi", "シャオミ", "Nothing", "Skullcandy", "スカルキャンディー", "Shure", "シュア", "final", "Technics", "テクニクス", "Victor", "JVC", "Denon", "デノン", "Marshall", "マーシャル"]
     }
   ]
 }
