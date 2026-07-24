@@ -46,6 +46,9 @@ OUTPUT_PATH = ROOT / "data" / "sales.json"
 # 過去の掲載履歴を持たないため、「いつから掲載しているか」を自前で記録する。
 # CIがこのファイルをコミットして毎時実行をまたいで永続化する
 STATE_PATH = ROOT / "data" / "item_state.json"
+# 検出されなくなった商品の状態を保持する日数。検索の取りこぼしによる
+# 一時的な消失で初検出日がリセットされるのを防ぐための猶予期間
+STATE_GRACE_DAYS = 14
 
 RESOURCES = [
     "itemInfo.title",
@@ -418,16 +421,42 @@ def main() -> int:
             "全商品の初検出日がリセットされます",
             file=sys.stderr,
         )
-    today = datetime.datetime.now(
+    today_dt = datetime.datetime.now(
         datetime.timezone(datetime.timedelta(hours=9))
-    ).strftime("%Y-%m-%d")
+    ).date()
+    today = today_dt.isoformat()
     new_state = {}
     for g in genres:
         for item in g["items"]:
             asin = item["asin"]
             first_seen = (state.get(asin) or {}).get("first_seen") or today
             item["since"] = first_seen
-            new_state[asin] = {"first_seen": first_seen, "title": item["title"]}
+            new_state[asin] = {
+                "first_seen": first_seen,
+                "last_seen": today,
+                "title": item["title"],
+            }
+
+    # 今回検出されなかった商品も猶予期間内は状態を保持する。
+    # 検索は「キーワードごとに数ページ」という限られた窓しか見ないため、
+    # セール継続中の商品でもランキング変動で一時的に窓の外に出ることが
+    # 頻繁にある。即座に削除すると復活時に初検出日が今日にリセットされ、
+    # 「7/23から掲載」の表示が実態と食い違ってしまう
+    kept = 0
+    for asin, entry in state.items():
+        if asin in new_state:
+            continue
+        last_seen = entry.get("last_seen") or entry.get("first_seen")
+        try:
+            elapsed = (today_dt - datetime.date.fromisoformat(last_seen)).days
+        except (TypeError, ValueError):
+            continue  # 日付が壊れているエントリは破棄する
+        if elapsed <= STATE_GRACE_DAYS:
+            new_state[asin] = entry
+            kept += 1
+    if kept:
+        print(f"(一時的に検出されなかった{kept}件は掲載開始日を保持)")
+
     STATE_PATH.parent.mkdir(parents=True, exist_ok=True)
     STATE_PATH.write_text(
         json.dumps(new_state, ensure_ascii=False, indent=2), encoding="utf-8"
