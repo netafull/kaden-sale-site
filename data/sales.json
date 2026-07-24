@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-24T13:00:55.470204+00:00",
+  "fetched_at": "2026-07-24T13:07:48.137296+00:00",
   "min_saving_percent": 12,
   "genres": [
     {
@@ -16,7 +16,7 @@
           "points_percent": null,
           "image": "https://m.media-amazon.com/images/I/31Nx5ZNVlwL._SL160_.jpg",
           "url": "https://www.amazon.co.jp/dp/B0D4F34SB4?tag=natafull-22&linkCode=osi&th=1&psc=1",
-          "since": "2026-07-23"
+          "since": "2026-07-24"
         },
         {
           "asin": "B0C3GTMX5M",
@@ -29,7 +29,7 @@
           "points_percent": null,
           "image": "https://m.media-amazon.com/images/I/31xSnjyT5rL._SL160_.jpg",
           "url": "https://www.amazon.co.jp/dp/B0C3GTMX5M?tag=natafull-22&linkCode=osi&th=1&psc=1",
-          "since": "2026-07-23"
+          "since": "2026-07-24"
         },
         {
           "asin": "B0F6NFHB31",
@@ -55,7 +55,7 @@
           "points_percent": null,
           "image": "https://m.media-amazon.com/images/I/21tuDxxBuBL._SL160_.jpg",
           "url": "https://www.amazon.co.jp/dp/B0F37QVBNM?tag=natafull-22&linkCode=osi&th=1&psc=1",
-          "since": "2026-07-23"
+          "since": "2026-07-24"
         },
         {
           "asin": "B0DZ1TGX6T",
@@ -68,7 +68,7 @@
           "points_percent": null,
           "image": "https://m.media-amazon.com/images/I/21yWDfPjQgL._SL160_.jpg",
           "url": "https://www.amazon.co.jp/dp/B0DZ1TGX6T?tag=natafull-22&linkCode=osi&th=1&psc=1",
-          "since": "2026-07-23"
+          "since": "2026-07-24"
         },
         {
           "asin": "B0CT2JNCT5",
@@ -107,7 +107,7 @@
           "points_percent": 1,
           "image": "https://m.media-amazon.com/images/I/31+QMeoVBmL._SL160_.jpg",
           "url": "https://www.amazon.co.jp/dp/B099JMBCP1?tag=natafull-22&linkCode=osi&th=1&psc=1",
-          "since": "2026-07-23"
+          "since": "2026-07-24"
         }
       ]
     },
@@ -125,7 +125,7 @@
           "points_percent": 14,
           "image": "https://m.media-amazon.com/images/I/3143nL6VZVL._SL160_.jpg",
           "url": "https://www.amazon.co.jp/dp/B0GW7WT5SQ?tag=natafull-22&linkCode=osi&th=1&psc=1",
-          "since": "2026-07-23"
+          "since": "2026-07-24"
         },
         {
           "asin": "B0H1QQQVT1",
@@ -156,7 +156,7 @@
           "points_percent": 4,
           "image": "https://m.media-amazon.com/images/I/3169gfWTJ3L._SL160_.jpg",
           "url": "https://www.amazon.co.jp/dp/B0G4CC1S2F?tag=natafull-22&linkCode=osi&th=1&psc=1",
-          "since": "2026-07-23"
+          "since": "2026-07-24"
         },
         {
           "asin": "B09HB4B15V",
@@ -187,7 +187,7 @@
           "points_percent": 1,
           "image": "https://m.media-amazon.com/images/I/31pSUSA3kVL._SL160_.jpg",
           "url": "https://www.amazon.co.jp/dp/B0GVNN41NZ?tag=natafull-22&linkCode=osi&th=1&psc=1",
-          "since": "2026-07-23"
+          "since": "2026-07-24"
         },
         {
           "asin": "B0DW8MPL2P",
@@ -213,7 +213,7 @@
           "points_percent": 1,
           "image": "https://m.media-amazon.com/images/I/31h4DPCn3zL._SL160_.jpg",
           "url": "https://www.amazon.co.jp/dp/B0H44Y871S?tag=natafull-22&linkCode=osi&th=1&psc=1",
-          "since": "2026-07-23"
+          "since": "2026-07-24"
         },
         {
           "asin": "B0FMR9YY83",
@@ -239,7 +239,7 @@
           "points_percent": 1,
           "image": "https://m.media-amazon.com/images/I/31m6EY+5w1L._SL160_.jpg",
           "url": "https://www.amazon.co.jp/dp/B0D8PHF6JX?tag=natafull-22&linkCode=osi&th=1&psc=1",
-          "since": "2026-07-23"
+          "since": "2026-07-24"
         },
         {
           "asin": "B0CH268VB9",
@@ -278,7 +278,7 @@
           "points_percent": 1,
           "image": "https://m.media-amazon.com/images/I/319BCGeg7ZL._SL160_.jpg",
           "url": "https://www.amazon.co.jp/dp/B0F9KCJ493?tag=natafull-22&linkCode=osi&th=1&psc=1",
-          "since": "2026-07-23"
+          "since": "2026-07-24"
         },
         {
           "asin": "B0F6NGXD99",
@@ -291,7 +291,7 @@
           "points_percent": 25,
           "image": "https://m.media-amazon.com/images/I/41aaQgJQsRL._SL160_.jpg",
           "url": "https://www.amazon.co.jp/dp/B0F6NGXD99?tag=natafull-22&linkCode=osi&th=1&psc=1",
-          "since": "2026-07-23"
+          "since": "2026-07-24"
         },
         {
           "asin": "B0GXB2RZ9Y",
@@ -304,7 +304,7 @@
           "points_percent": 20,
           "image": "https://m.media-amazon.com/images/I/31DRz0R5QsL._SL160_.jpg",
           "url": "https://www.amazon.co.jp/dp/B0GXB2RZ9Y?tag=natafull-22&linkCode=osi&th=1&psc=1",
-          "since": "2026-07-23"
+          "since": "2026-07-24"
         },
         {
           "asin": "B0CRV7CJD8",
@@ -343,7 +343,7 @@
           "points_percent": null,
           "image": "https://m.media-amazon.com/images/I/31NQdevZR-L._SL160_.jpg",
           "url": "https://www.amazon.co.jp/dp/B0H3THZTWT?tag=natafull-22&linkCode=osi&th=1&psc=1",
-          "since": "2026-07-23"
+          "since": "2026-07-24"
         },
         {
           "asin": "B0GXB5HWWD",
@@ -356,7 +356,7 @@
           "points_percent": 15,
           "image": "https://m.media-amazon.com/images/I/3196WRRWVZL._SL160_.jpg",
           "url": "https://www.amazon.co.jp/dp/B0GXB5HWWD?tag=natafull-22&linkCode=osi&th=1&psc=1",
-          "since": "2026-07-23"
+          "since": "2026-07-24"
         },
         {
           "asin": "B0BP21W3XX",
