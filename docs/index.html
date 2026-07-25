@@ -44,6 +44,14 @@ header { padding: 28px 16px 12px; max-width: 960px; margin: 0 auto; }
 header h1 { font-size: 24px; }
 header h1 a { color: var(--text); text-decoration: none; }
 header p { color: var(--muted); font-size: 13px; margin-top: 4px; }
+.sites { margin-top: 10px; display: flex; gap: 8px; flex-wrap: wrap;
+  align-items: baseline; }
+.sites .lbl { font-size: 12px; color: var(--muted); }
+.sites a { font-size: 12px; padding: 3px 10px; border-radius: 999px;
+  border: 1px solid var(--line); background: var(--card);
+  color: var(--text); text-decoration: none; }
+.sites a:hover { border-color: var(--accent); color: var(--accent); }
+footer .sites { margin-top: 10px; }
 main { max-width: 960px; margin: 0 auto; padding: 8px 16px 48px; }
 h2 { font-size: 18px; margin: 0; padding-left: 10px;
   border-left: 4px solid var(--accent); display: inline; }
@@ -90,6 +98,10 @@ footer { max-width: 960px; margin: 0 auto; padding: 16px;
 <header>
 <h1><a href="./">電家ポチ</a></h1>
 <p>Amazonでセール中のガジェット・家電を1時間ごとに自動更新でお届けします ｜ 割引率とポイント還元率の合計が12%以上の商品を掲載 ｜ 最終更新: 2026年07月25日 08:03</p>
+<div class="sites"><span class="lbl">関連サイト</span>
+<a href="https://book.netaful.jp/">電書ポチ<span class="lbl"> Kindle本セール</span></a>
+<a href="https://netafull.net/">ネタフル<span class="lbl"> 運営ブログ</span></a>
+</div>
 </header>
 <main>
 <details open id="g0">
@@ -488,6 +500,10 @@ footer { max-width: 960px; margin: 0 auto; padding: 16px;
 Amazonのアソシエイトとして、当サイトは適格販売により収入を得ています。
 当サイトはアクセス解析のためGoogle Analyticsを利用しています(データは匿名で収集され、Googleに送信されます)。
 ｜ <a href="rss.xml" style="color:inherit">RSS</a>
+<div class="sites"><span class="lbl">関連サイト</span>
+<a href="https://book.netaful.jp/">電書ポチ<span class="lbl"> Kindle本セール</span></a>
+<a href="https://netafull.net/">ネタフル<span class="lbl"> 運営ブログ</span></a>
+</div>
 </footer>
 </body>
 </html>

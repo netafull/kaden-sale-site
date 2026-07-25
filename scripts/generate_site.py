@@ -34,6 +34,14 @@ header { padding: 28px 16px 12px; max-width: 960px; margin: 0 auto; }
 header h1 { font-size: 24px; }
 header h1 a { color: var(--text); text-decoration: none; }
 header p { color: var(--muted); font-size: 13px; margin-top: 4px; }
+.sites { margin-top: 10px; display: flex; gap: 8px; flex-wrap: wrap;
+  align-items: baseline; }
+.sites .lbl { font-size: 12px; color: var(--muted); }
+.sites a { font-size: 12px; padding: 3px 10px; border-radius: 999px;
+  border: 1px solid var(--line); background: var(--card);
+  color: var(--text); text-decoration: none; }
+.sites a:hover { border-color: var(--accent); color: var(--accent); }
+footer .sites { margin-top: 10px; }
 main { max-width: 960px; margin: 0 auto; padding: 8px 16px 48px; }
 h2 { font-size: 18px; margin: 0; padding-left: 10px;
   border-left: 4px solid var(--accent); display: inline; }
@@ -157,6 +165,19 @@ def generate_html(data: dict) -> str:
     gsv_tag = (
         f'<meta name="google-site-verification" content="{esc(gsv)}">' if gsv else ""
     )
+    # 姉妹サイト・運営ブログへの相互リンク(ヘッダーとフッターの両方に出す)
+    related = CONFIG.get("related_sites") or []
+    related_html = ""
+    if related:
+        links = "\n".join(
+            f'<a href="{esc(s["url"])}">{esc(s["name"])}'
+            + (f'<span class="lbl"> {esc(s["desc"])}</span>' if s.get("desc") else "")
+            + "</a>"
+            for s in related
+        )
+        related_html = (
+            f'<div class="sites"><span class="lbl">関連サイト</span>\n{links}\n</div>'
+        )
     ga_id = CONFIG.get("ga_measurement_id", "")
     ga_tag = (
         f"""<script async src="https://www.googletagmanager.com/gtag/js?id={esc(ga_id)}"></script>
@@ -222,6 +243,7 @@ gtag('config', '{esc(ga_id)}');
 <header>
 <h1><a href="./">{esc(CONFIG["site_title"])}</a></h1>
 <p>{esc(CONFIG["site_description"])} ｜ 割引率とポイント還元率の合計が{data["min_saving_percent"]}%以上の商品を掲載 ｜ 最終更新: {updated}</p>
+{related_html}
 </header>
 <main>
 {chr(10).join(sections)}
@@ -231,6 +253,7 @@ gtag('config', '{esc(ga_id)}');
 Amazonのアソシエイトとして、当サイトは適格販売により収入を得ています。
 当サイトはアクセス解析のためGoogle Analyticsを利用しています(データは匿名で収集され、Googleに送信されます)。
 ｜ <a href="rss.xml" style="color:inherit">RSS</a>
+{related_html}
 </footer>
 </body>
 </html>
