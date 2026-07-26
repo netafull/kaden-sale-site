@@ -205,6 +205,86 @@
         "日立",
         "HITACHI"
       ]
+    },
+    {
+      "name": "電気シェーバー",
+      "keywords": [
+        "電気シェーバー 髭剃り"
+      ],
+      "search_index": "HealthPersonalCare",
+      "must_include_any": [
+        "シェーバー",
+        "髭剃り",
+        "ヒゲ"
+      ],
+      "known_brands": [
+        "Panasonic",
+        "パナソニック",
+        "ラムダッシュ",
+        "Braun",
+        "ブラウン",
+        "Philips",
+        "フィリップス",
+        "日立",
+        "HITACHI",
+        "IZUMI",
+        "イズミ"
+      ]
+    },
+    {
+      "name": "電動歯ブラシ",
+      "keywords": [
+        "電動歯ブラシ"
+      ],
+      "search_index": "HealthPersonalCare",
+      "must_include_any": [
+        "歯ブラシ"
+      ],
+      "known_brands": [
+        "Philips",
+        "フィリップス",
+        "ソニッケアー",
+        "Sonicare",
+        "Braun",
+        "ブラウン",
+        "Oral-B",
+        "オーラルB",
+        "Panasonic",
+        "パナソニック",
+        "ドルツ",
+        "オムロン",
+        "OMRON"
+      ]
+    },
+    {
+      "name": "キーボード・マウス",
+      "keywords": [
+        "ワイヤレスマウス",
+        "ワイヤレスキーボード"
+      ],
+      "search_index": "Electronics",
+      "must_include_any": [
+        "マウス",
+        "キーボード"
+      ],
+      "known_brands": [
+        "ロジクール",
+        "Logicool",
+        "Logitech",
+        "ELECOM",
+        "エレコム",
+        "バッファロー",
+        "Buffalo",
+        "サンワサプライ",
+        "Anker",
+        "Keychron",
+        "HHKB",
+        "REALFORCE",
+        "Razer",
+        "レイザー",
+        "Microsoft",
+        "マイクロソフト"
+      ]
     }
   ]
 }

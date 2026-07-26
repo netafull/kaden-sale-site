@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-24T23:03:48.540590+00:00",
+  "fetched_at": "2026-07-26T04:09:07.626708+00:00",
   "min_saving_percent": 12,
   "genres": [
     {
@@ -9,9 +9,9 @@
           "asin": "B0D4Y52TDX",
           "title": "エレコム モバイルバッテリー 30W 10000mAh 残量表示 USB PD対応 3ポート Type-C×2 USB-A×1 ケーブル別売り ブラック EC-C23LBK",
           "brand": "エレコム(ELECOM)",
-          "price": 2880,
+          "price": 2850,
           "list_price": 4980,
-          "percent_off": 42,
+          "percent_off": 43,
           "points": 0,
           "points_percent": null,
           "image": "https://m.media-amazon.com/images/I/31RoQwW6aTL._SL160_.jpg",
@@ -191,11 +191,11 @@
           "asin": "B099JMBCP1",
           "title": "エレコム モバイルバッテリー 10000mAh 大容量 マグネット ( USB PD対応 ) Type-C×1 / USB-A×1 【 iPhone12 / iPhone13 シリーズ推奨 】 PSE認証 ブラック EC-C02BK",
           "brand": "エレコム(ELECOM)",
-          "price": 1698,
+          "price": 1681,
           "list_price": 1960,
-          "percent_off": 13,
-          "points": 17,
-          "points_percent": 1,
+          "percent_off": 14,
+          "points": 0,
+          "points_percent": null,
           "image": "https://m.media-amazon.com/images/I/31+QMeoVBmL._SL160_.jpg",
           "url": "https://www.amazon.co.jp/dp/B099JMBCP1?tag=natafull-22&linkCode=osi&th=1&psc=1",
           "since": "2026-07-24"
@@ -205,19 +205,6 @@
     {
       "name": "ワイヤレスイヤホン",
       "items": [
-        {
-          "asin": "B0FCSGGHLL",
-          "title": "Bose QuietComfort Ultra Earbuds (第2世代) ワイヤレス ノイズキャンセリング Bluetooth イヤホン 最長6時間連続再生 IPX4規格準拠 イマーシブオーディオ 迫力の重低音 ブラック",
-          "brand": "BOSE(ボーズ)",
-          "price": 30600,
-          "list_price": 39600,
-          "percent_off": 23,
-          "points": 4896,
-          "points_percent": 16,
-          "image": "https://m.media-amazon.com/images/I/31M7uzqFLEL._SL160_.jpg",
-          "url": "https://www.amazon.co.jp/dp/B0FCSGGHLL?tag=natafull-22&linkCode=osi&th=1&psc=1",
-          "since": "2026-07-24"
-        },
         {
           "asin": "B0GW7WT5SQ",
           "title": "ソニー ゲーミングイヤホン INZONE Buds:WF-G700N Fnatic監修/ワイヤレス / 低遅延2.4GHzワイヤレス接続 USBType-Cトランシーバー同梱/LE Audio対応/アクティブノイズキャンセリング/立体音響 / 最大約24時間バッテリー / 急速充電/マイク付き / PS5 スマホ PC Switch グラスパープル",
@@ -229,6 +216,19 @@
           "points_percent": 14,
           "image": "https://m.media-amazon.com/images/I/3143nL6VZVL._SL160_.jpg",
           "url": "https://www.amazon.co.jp/dp/B0GW7WT5SQ?tag=natafull-22&linkCode=osi&th=1&psc=1",
+          "since": "2026-07-24"
+        },
+        {
+          "asin": "B0FCSGGHLL",
+          "title": "Bose QuietComfort Ultra Earbuds (第2世代) ワイヤレス ノイズキャンセリング Bluetooth イヤホン 最長6時間連続再生 IPX4規格準拠 イマーシブオーディオ 迫力の重低音 ブラック",
+          "brand": "BOSE(ボーズ)",
+          "price": 30600,
+          "list_price": 39600,
+          "percent_off": 23,
+          "points": 306,
+          "points_percent": 1,
+          "image": "https://m.media-amazon.com/images/I/31M7uzqFLEL._SL160_.jpg",
+          "url": "https://www.amazon.co.jp/dp/B0FCSGGHLL?tag=natafull-22&linkCode=osi&th=1&psc=1",
           "since": "2026-07-24"
         },
         {
@@ -266,11 +266,11 @@
           "asin": "B0G4CC1S2F",
           "title": "アイリスオーヤマ フライヤー 過熱水蒸気 ノンオイルフライヤー FV-M30A-C アイボリー",
           "brand": "アイリスオーヤマ(IRIS OHYAMA)",
-          "price": 8709,
+          "price": 7850,
           "list_price": 12800,
-          "percent_off": 32,
-          "points": 708,
-          "points_percent": 8,
+          "percent_off": 39,
+          "points": 0,
+          "points_percent": null,
           "image": "https://m.media-amazon.com/images/I/3169gfWTJ3L._SL160_.jpg",
           "url": "https://www.amazon.co.jp/dp/B0G4CC1S2F?tag=natafull-22&linkCode=osi&th=1&psc=1",
           "since": "2026-07-24"
@@ -359,6 +359,19 @@
           "since": "2026-07-24"
         },
         {
+          "asin": "B0F1FCM99S",
+          "title": "ルンバ(Roomba)205 DustCompactor Combo ロボット (ロボット掃除機) アイロボット(iRobot)【水拭き/両用/ゴミ圧縮機能付きダスト容器/日本の住宅向けに開発/LiDARナビゲーション/パワーリフト吸引/スマートスクラブ対応/マッピング 掃除経路確認/アプリ操作/落下防止/Amazon.co.jp購入時12ヶ月保証/L121060】ブラック",
+          "brand": "アイロボット(IRobot)",
+          "price": 41800,
+          "list_price": 59798,
+          "percent_off": 30,
+          "points": 0,
+          "points_percent": null,
+          "image": "https://m.media-amazon.com/images/I/31HIrU1UQiL._SL160_.jpg",
+          "url": "https://www.amazon.co.jp/dp/B0F1FCM99S?tag=natafull-22&linkCode=osi&th=1&psc=1",
+          "since": "2026-07-24"
+        },
+        {
           "asin": "B0F6NRWF9V",
           "title": "roborock Q7B+ ブラック ロボロック ロボット掃除機 小型 お掃除ロボット 水拭き 両用 自動ゴミ収集 150分 8,000Pa 強力吸引 マッピング 強力吸引 自動充電 アプリ操作 高精度レーザーセンサー 正規品 Q7BP52-04",
           "brand": "roborock",
@@ -370,19 +383,6 @@
           "image": "https://m.media-amazon.com/images/I/31qmMRLI1gL._SL160_.jpg",
           "url": "https://www.amazon.co.jp/dp/B0F6NRWF9V?tag=natafull-22&linkCode=osi&th=1&psc=1",
           "since": "2026-07-25"
-        },
-        {
-          "asin": "B0F1FCM99S",
-          "title": "ルンバ(Roomba)205 DustCompactor Combo ロボット (ロボット掃除機) アイロボット(iRobot)【水拭き/両用/ゴミ圧縮機能付きダスト容器/日本の住宅向けに開発/LiDARナビゲーション/パワーリフト吸引/スマートスクラブ対応/マッピング 掃除経路確認/アプリ操作/落下防止/Amazon.co.jp購入時12ヶ月保証/L121060】ブラック",
-          "brand": "アイロボット(IRobot)",
-          "price": 42700,
-          "list_price": 59798,
-          "percent_off": 29,
-          "points": 0,
-          "points_percent": null,
-          "image": "https://m.media-amazon.com/images/I/31HIrU1UQiL._SL160_.jpg",
-          "url": "https://www.amazon.co.jp/dp/B0F1FCM99S?tag=natafull-22&linkCode=osi&th=1&psc=1",
-          "since": "2026-07-24"
         },
         {
           "asin": "B0B59452FZ",
@@ -409,19 +409,6 @@
           "image": "https://m.media-amazon.com/images/I/319BCGeg7ZL._SL160_.jpg",
           "url": "https://www.amazon.co.jp/dp/B0F9KCJ493?tag=natafull-22&linkCode=osi&th=1&psc=1",
           "since": "2026-07-24"
-        },
-        {
-          "asin": "B0GHNXTK95",
-          "title": "【セット販売】【超小型】SwitchBot ロボット掃除機 K11+ ブラック＋サイドブラシ（4個セット）",
-          "brand": "スイッチボット(SwitchBot)",
-          "price": 40633,
-          "list_price": 54202,
-          "percent_off": 25,
-          "points": 406,
-          "points_percent": 1,
-          "image": "https://m.media-amazon.com/images/I/31u+4mQnPuL._SL160_.jpg",
-          "url": "https://www.amazon.co.jp/dp/B0GHNXTK95?tag=natafull-22&linkCode=osi&th=1&psc=1",
-          "since": "2026-07-25"
         },
         {
           "asin": "B0F6NGXD99",
@@ -500,6 +487,359 @@
           "image": "https://m.media-amazon.com/images/I/21Ku0d1qUyL._SL160_.jpg",
           "url": "https://www.amazon.co.jp/dp/B0BP21W3XX?tag=natafull-22&linkCode=osi&th=1&psc=1",
           "since": "2026-07-24"
+        }
+      ]
+    },
+    {
+      "name": "電気シェーバー",
+      "items": [
+        {
+          "asin": "B0CBPDCQLF",
+          "title": "ブラウン 電気シェーバー シリーズ8 洗浄機付き 電動 髭剃り メンズ 【Amazon.co.jp 限定】 8560cc 5 in 1 100％防水設計 4+1 カットシステム 進化したキワぞり刃 夕方ヒゲ、ゼロへ 電動シェーバー 【最新2023年秋モデル】",
+          "brand": "Braun",
+          "price": 42801,
+          "list_price": null,
+          "percent_off": null,
+          "points": 20428,
+          "points_percent": 48,
+          "image": "https://m.media-amazon.com/images/I/41RzlDhRYhL._SL160_.jpg",
+          "url": "https://www.amazon.co.jp/dp/B0CBPDCQLF?tag=natafull-22&linkCode=osi&th=1&psc=1",
+          "since": "2026-07-26"
+        },
+        {
+          "asin": "B093BS81XP",
+          "title": "【正規品】パナソニック 替刃 メンズシェーバー用 5枚刃 外刃 ES9181",
+          "brand": "パナソニック(Panasonic)",
+          "price": 4309,
+          "list_price": 8030,
+          "percent_off": 46,
+          "points": 43,
+          "points_percent": 1,
+          "image": "https://m.media-amazon.com/images/I/41tAaSij9BL._SL160_.jpg",
+          "url": "https://www.amazon.co.jp/dp/B093BS81XP?tag=natafull-22&linkCode=osi&th=1&psc=1",
+          "since": "2026-07-26"
+        },
+        {
+          "asin": "B0CTQ1XFRL",
+          "title": "ブラウン 電気シェーバー シリーズ5 電動 髭剃り メンズ 【Amazon.co.jp限定】 52-M1200s ミント キワゾリトリマー 防水設計 充電式 コードレス ディープキャッチ網刃 トラベルケース",
+          "brand": "Braun",
+          "price": 15800,
+          "list_price": null,
+          "percent_off": null,
+          "points": 6958,
+          "points_percent": 44,
+          "image": "https://m.media-amazon.com/images/I/41TM+anHkGL._SL160_.jpg",
+          "url": "https://www.amazon.co.jp/dp/B0CTQ1XFRL?tag=natafull-22&linkCode=osi&th=1&psc=1",
+          "since": "2026-07-26"
+        },
+        {
+          "asin": "B093BTR4Q4",
+          "title": "【正規品】パナソニック 替刃 メンズシェーバー用 5枚刃 セット刃 ES9040",
+          "brand": "パナソニック(Panasonic)",
+          "price": 6182,
+          "list_price": 10450,
+          "percent_off": 41,
+          "points": 62,
+          "points_percent": 1,
+          "image": "https://m.media-amazon.com/images/I/51bqw+ugoPL._SL160_.jpg",
+          "url": "https://www.amazon.co.jp/dp/B093BTR4Q4?tag=natafull-22&linkCode=osi&th=1&psc=1",
+          "since": "2026-07-26"
+        },
+        {
+          "asin": "B07V9QVGNX",
+          "title": "【正規品】パナソニック 替刃 メンズシェーバー用 セット刃 ES9038",
+          "brand": "パナソニック(Panasonic)",
+          "price": 5679,
+          "list_price": 9350,
+          "percent_off": 39,
+          "points": 57,
+          "points_percent": 1,
+          "image": "https://m.media-amazon.com/images/I/51FcNfMeiKL._SL160_.jpg",
+          "url": "https://www.amazon.co.jp/dp/B07V9QVGNX?tag=natafull-22&linkCode=osi&th=1&psc=1",
+          "since": "2026-07-26"
+        },
+        {
+          "asin": "B0FXW7VK2X",
+          "title": "コイズミ メンズシェーバー",
+          "brand": "コイズミ(Koizumi)",
+          "price": 8950,
+          "list_price": 13750,
+          "percent_off": 35,
+          "points": 0,
+          "points_percent": null,
+          "image": "https://m.media-amazon.com/images/I/31sse8GBkML._SL160_.jpg",
+          "url": "https://www.amazon.co.jp/dp/B0FXW7VK2X?tag=natafull-22&linkCode=osi&th=1&psc=1",
+          "since": "2026-07-26"
+        },
+        {
+          "asin": "B0FXW8RZ4P",
+          "title": "コイズミ メンズシェーバー シームレス",
+          "brand": "コイズミ(Koizumi)",
+          "price": 9078,
+          "list_price": 13750,
+          "percent_off": 34,
+          "points": 0,
+          "points_percent": null,
+          "image": "https://m.media-amazon.com/images/I/31QDNEcIY8L._SL160_.jpg",
+          "url": "https://www.amazon.co.jp/dp/B0FXW8RZ4P?tag=natafull-22&linkCode=osi&th=1&psc=1",
+          "since": "2026-07-26"
+        },
+        {
+          "asin": "B001MBV4W4",
+          "title": "パナソニック メンズシェーバー スーパーレザー ES3832P-S",
+          "brand": "パナソニック(Panasonic)",
+          "price": 2357,
+          "list_price": null,
+          "percent_off": null,
+          "points": 584,
+          "points_percent": 25,
+          "image": "https://m.media-amazon.com/images/I/41sgF9c2b4L._SL160_.jpg",
+          "url": "https://www.amazon.co.jp/dp/B001MBV4W4?tag=natafull-22&linkCode=osi&th=1&psc=1",
+          "since": "2026-07-26"
+        },
+        {
+          "asin": "B0C8SBYXPQ",
+          "title": "パナソニック ラムダッシュ パームインシェーバー メンズシェーバー コンパクト ベーシックタイプ 5枚刃 マットブラック ES-PV3A-K",
+          "brand": "パナソニック(Panasonic)",
+          "price": 28400,
+          "list_price": 37026,
+          "percent_off": 23,
+          "points": 0,
+          "points_percent": null,
+          "image": "https://m.media-amazon.com/images/I/31DUgjKcCaL._SL160_.jpg",
+          "url": "https://www.amazon.co.jp/dp/B0C8SBYXPQ?tag=natafull-22&linkCode=osi&th=1&psc=1",
+          "since": "2026-07-26"
+        },
+        {
+          "asin": "B0FQ3G4HYB",
+          "title": "ブラウン メンズシェーバー シリーズ5 アズールブルー 防水 充電式 52-A1200s",
+          "brand": "Braun",
+          "price": 9999,
+          "list_price": 10920,
+          "percent_off": 8,
+          "points": 500,
+          "points_percent": 5,
+          "image": "https://m.media-amazon.com/images/I/41yCBs1uONL._SL160_.jpg",
+          "url": "https://www.amazon.co.jp/dp/B0FQ3G4HYB?tag=natafull-22&linkCode=osi&th=1&psc=1",
+          "since": "2026-07-26"
+        }
+      ]
+    },
+    {
+      "name": "電動歯ブラシ",
+      "items": [
+        {
+          "asin": "B0DB48CFG7",
+          "title": "ブラウン 電動歯ブラシ オーラルB【電動初心者の決定版】iO2 iOS21D90BK ブラック 防水 歯科医推奨No.1ブランド【Amazon.co.jp 限定】",
+          "brand": "Braun",
+          "price": 8939,
+          "list_price": 11880,
+          "percent_off": 25,
+          "points": 1689,
+          "points_percent": 19,
+          "image": "https://m.media-amazon.com/images/I/419BXCd2EXL._SL160_.jpg",
+          "url": "https://www.amazon.co.jp/dp/B0DB48CFG7?tag=natafull-22&linkCode=osi&th=1&psc=1",
+          "since": "2026-07-26"
+        },
+        {
+          "asin": "B0CX11ZTQT",
+          "title": "ブラウン 電動歯ブラシ オーラルB 【プレミアムモデル】iO7 歯科クリーニングのような磨き上がり トラベルケース+ 替えブラシ3本付き iOM7.3V2.2K BK 防水 歯科医推奨No.1ブランド【Amazon.co.jp 限定】",
+          "brand": "Braun",
+          "price": 29800,
+          "list_price": 49800,
+          "percent_off": 40,
+          "points": 298,
+          "points_percent": 1,
+          "image": "https://m.media-amazon.com/images/I/51ZekbPWrqL._SL160_.jpg",
+          "url": "https://www.amazon.co.jp/dp/B0CX11ZTQT?tag=natafull-22&linkCode=osi&th=1&psc=1",
+          "since": "2026-07-26"
+        },
+        {
+          "asin": "B0DBKF4NV4",
+          "title": "パナソニック 音波振動ハブラシ ドルツ 電動歯ブラシ USB充電 EW-DA18-W 白",
+          "brand": "パナソニック(Panasonic)",
+          "price": 8782,
+          "list_price": 12100,
+          "percent_off": 27,
+          "points": 88,
+          "points_percent": 1,
+          "image": "https://m.media-amazon.com/images/I/11+6kNotvHL._SL160_.jpg",
+          "url": "https://www.amazon.co.jp/dp/B0DBKF4NV4?tag=natafull-22&linkCode=osi&th=1&psc=1",
+          "since": "2026-07-26"
+        },
+        {
+          "asin": "B0DB4GH421",
+          "title": "ブラウン 電動歯ブラシ オーラルB 【電動初心者の決定版】iO2 iOS21C90PK 防水 歯科医推奨No.1ブランド【Amazon.co.jp 限定】",
+          "brand": "Braun",
+          "price": 11800,
+          "list_price": null,
+          "percent_off": null,
+          "points": 1618,
+          "points_percent": 14,
+          "image": "https://m.media-amazon.com/images/I/41Pw3tA0sbL._SL160_.jpg",
+          "url": "https://www.amazon.co.jp/dp/B0DB4GH421?tag=natafull-22&linkCode=osi&th=1&psc=1",
+          "since": "2026-07-26"
+        }
+      ]
+    },
+    {
+      "name": "キーボード・マウス",
+      "items": [
+        {
+          "asin": "B07PJW2X2F",
+          "title": "エレコム ワイヤレスキーボード メンブレン 薄型 フルキーボード テンキー ブラック TK-FDM110TXBK",
+          "brand": "エレコム(ELECOM)",
+          "price": 1899,
+          "list_price": 2680,
+          "percent_off": 29,
+          "points": 19,
+          "points_percent": 1,
+          "image": "https://m.media-amazon.com/images/I/41yJV67+M0L._SL160_.jpg",
+          "url": "https://www.amazon.co.jp/dp/B07PJW2X2F?tag=natafull-22&linkCode=osi&th=1&psc=1",
+          "since": "2026-07-26"
+        },
+        {
+          "asin": "B0B1Q636K7",
+          "title": "ロジクール KX850FT MX MECHANICAL ワイヤレス メカニカル パフォーマンス キーボード 茶軸 タクタイル テンキー 静かな打鍵感 特に静か Logi Bolt bluetooth Unifying非対応 薄型 無線 メカニカルキーボード windows mac chrome Android ワイヤレスキーボード KX850 国内正規品 グラファイト",
+          "brand": "Logitech",
+          "price": 17064,
+          "list_price": 23540,
+          "percent_off": 28,
+          "points": 171,
+          "points_percent": 1,
+          "image": "https://m.media-amazon.com/images/I/41N7F4bj0jL._SL160_.jpg",
+          "url": "https://www.amazon.co.jp/dp/B0B1Q636K7?tag=natafull-22&linkCode=osi&th=1&psc=1",
+          "since": "2026-07-26"
+        },
+        {
+          "asin": "B0FJRCJ1SN",
+          "title": "【リニューアル】 エレコム ワイヤレスマウス 静音 充電式 OSMOD Six Bluetooth 無線2.4GHz両対応 2台まで接続 マルチペアリング 6ボタン ブラック M-MY35MBSABK",
+          "brand": "エレコム(ELECOM)",
+          "price": 2990,
+          "list_price": 3990,
+          "percent_off": 25,
+          "points": 30,
+          "points_percent": 1,
+          "image": "https://m.media-amazon.com/images/I/31Ar0JA+HGL._SL160_.jpg",
+          "url": "https://www.amazon.co.jp/dp/B0FJRCJ1SN?tag=natafull-22&linkCode=osi&th=1&psc=1",
+          "since": "2026-07-26"
+        },
+        {
+          "asin": "B07DVC25R2",
+          "title": "Logicool G ゲーミングマウス G304 LIGHTSPEED ワイヤレス ゲーミング マウス 軽量 99g HERO 12Kセンサー 6個プログラムボタン 250時間連続使用可能 ブラック PC windows mac 国内正規品 【 ファイナルファンタジー XIV 推奨モデル 】",
+          "brand": "Logicool G(ロジクール G)",
+          "price": 4718,
+          "list_price": 5720,
+          "percent_off": 18,
+          "points": 47,
+          "points_percent": 1,
+          "image": "https://m.media-amazon.com/images/I/31ZMHsNFPEL._SL160_.jpg",
+          "url": "https://www.amazon.co.jp/dp/B07DVC25R2?tag=natafull-22&linkCode=osi&th=1&psc=1",
+          "since": "2026-07-26"
+        },
+        {
+          "asin": "B0BKPL1VKW",
+          "title": "Logicool Signature M750MGR ワイヤレスマウス 静音 レギュラー グラファイト ワイヤレス マウス 無線 Bluetooth Logi Bolt Unifying非対応 windows mac iPad Android Chrome OS 高速スクロール ホイール 無線マウス 静音マウス M750 国内正規品",
+          "brand": "Logitech",
+          "price": 4363,
+          "list_price": 5280,
+          "percent_off": 17,
+          "points": 44,
+          "points_percent": 1,
+          "image": "https://m.media-amazon.com/images/I/31lHrIliBPL._SL160_.jpg",
+          "url": "https://www.amazon.co.jp/dp/B0BKPL1VKW?tag=natafull-22&linkCode=osi&th=1&psc=1",
+          "since": "2026-07-26"
+        },
+        {
+          "asin": "B0CJR8Y56J",
+          "title": "ロジクール ワイヤレスキーボード PEBBLE KEYS 2 K380sGR 薄型 軽量 415g 小型 Bluetooth Logi Bolt ワイヤレス 無線 キーボード Easy-Switch 日本語配列 電池寿命36ケ月 Windows Mac iPad iOS Android Chrome K380s グラファイト 国内正規品",
+          "brand": "Logitech",
+          "price": 4381,
+          "list_price": 5280,
+          "percent_off": 17,
+          "points": 44,
+          "points_percent": 1,
+          "image": "https://m.media-amazon.com/images/I/31ejPJFvDUL._SL160_.jpg",
+          "url": "https://www.amazon.co.jp/dp/B0CJR8Y56J?tag=natafull-22&linkCode=osi&th=1&psc=1",
+          "since": "2026-07-26"
+        },
+        {
+          "asin": "B0B2ZT2HRJ",
+          "title": "ロジクール SIGNATURE K855GR 無線 メカニカルキーボード TTC製 赤軸 リニア Bluetooth Logi Bolt Unifying非対応 コンパクト 日本語配列 小型 テンキーレス メカニカル ワイヤレス キーボード グラファイト windows mac Chrome Android K855 国内正規品",
+          "brand": "Logitech",
+          "price": 10980,
+          "list_price": 13200,
+          "percent_off": 17,
+          "points": 0,
+          "points_percent": null,
+          "image": "https://m.media-amazon.com/images/I/41KcgrvMP5L._SL160_.jpg",
+          "url": "https://www.amazon.co.jp/dp/B0B2ZT2HRJ?tag=natafull-22&linkCode=osi&th=1&psc=1",
+          "since": "2026-07-26"
+        },
+        {
+          "asin": "B08K2RGTHY",
+          "title": "ロジクール ワイヤレスマウス キーボード セット MK295GP 静音 耐水 無線 USB接続 Unifying非対応 MK295 グラファイト 国内正規品",
+          "brand": "Logitech",
+          "price": 3545,
+          "list_price": 4180,
+          "percent_off": 15,
+          "points": 35,
+          "points_percent": 1,
+          "image": "https://m.media-amazon.com/images/I/412mHSwLyDL._SL160_.jpg",
+          "url": "https://www.amazon.co.jp/dp/B08K2RGTHY?tag=natafull-22&linkCode=osi&th=1&psc=1",
+          "since": "2026-07-26"
+        },
+        {
+          "asin": "B0CZ8X3DH8",
+          "title": "ロジクール SIGNATURE SLIM ワイヤレス キーボード K950GR 薄型 静かなタイピング Bluetooth Logi Bolt ワイヤレスキーボード テンキー 無線 Easy-Switch 日本語配列 電池寿命36ケ月 Windows Mac Chrome Android K950 グラファイト 国内正規品",
+          "brand": "Logitech",
+          "price": 9282,
+          "list_price": 10890,
+          "percent_off": 15,
+          "points": 93,
+          "points_percent": 1,
+          "image": "https://m.media-amazon.com/images/I/41DOikjsn-L._SL160_.jpg",
+          "url": "https://www.amazon.co.jp/dp/B0CZ8X3DH8?tag=natafull-22&linkCode=osi&th=1&psc=1",
+          "since": "2026-07-26"
+        },
+        {
+          "asin": "B0C65MQZ65",
+          "title": "ロジクール MX ANYWHERE 3S MX1800GR 静音 マウス Bluetooth Logi Bolt Unifying非対応 コンパクト Smart Actions 対応 高速スクロールホイール 充電式 ワイヤレスマウス 無線 Windows Mac Chrome iPad OS Android MX1800 グラファイト 国内正規品",
+          "brand": "Logitech",
+          "price": 11964,
+          "list_price": 13970,
+          "percent_off": 14,
+          "points": 120,
+          "points_percent": 1,
+          "image": "https://m.media-amazon.com/images/I/312jQ3H3eRL._SL160_.jpg",
+          "url": "https://www.amazon.co.jp/dp/B0C65MQZ65?tag=natafull-22&linkCode=osi&th=1&psc=1",
+          "since": "2026-07-26"
+        },
+        {
+          "asin": "B09Q5SHDR3",
+          "title": "ロジクール Signature M650MGR ワイヤレスマウス 静音 Bluetooth レギュラー グラファイト ワイヤレス マウス 無線 Logi Bolt Unifying非対応 windows mac iPad Android Chrome OS スクロールホイール 無線マウス 静音マウス M650 国内正規品",
+          "brand": "Logitech",
+          "price": 4000,
+          "list_price": 4620,
+          "percent_off": 13,
+          "points": 40,
+          "points_percent": 1,
+          "image": "https://m.media-amazon.com/images/I/31vT8Fl9V3L._SL160_.jpg",
+          "url": "https://www.amazon.co.jp/dp/B09Q5SHDR3?tag=natafull-22&linkCode=osi&th=1&psc=1",
+          "since": "2026-07-26"
+        },
+        {
+          "asin": "B0C2YK1CS6",
+          "title": "ロジクール 静音 ワイヤレスマウス M240GR Silent Bluetooth マウス グラファイト 無線 ワイヤレス 小型 左右対称 logi bolt windows mac iPad OS Chrome Android M240 国内正規品",
+          "brand": "Logicool(ロジクール)",
+          "price": 1867,
+          "list_price": 2090,
+          "percent_off": 11,
+          "points": 19,
+          "points_percent": 1,
+          "image": "https://m.media-amazon.com/images/I/31X3ipEzCIL._SL160_.jpg",
+          "url": "https://www.amazon.co.jp/dp/B0C2YK1CS6?tag=natafull-22&linkCode=osi&th=1&psc=1",
+          "since": "2026-07-26"
         }
       ]
     }
