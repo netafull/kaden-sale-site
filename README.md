@@ -82,6 +82,19 @@ Actions タブ →「Update Kaden sale site」→ Run workflow で手動実行�
 - `google_site_verification` / `ga_measurement_id` — 設定するとSearch Console確認タグ・Google Analyticsが出力される。未設定なら何も出力されない
 - **`minSavingPercent`パラメータは使用禁止**: Creators APIのバグで、これを送ると検索結果が壊れます(件数激減・関連性の低い商品の混入・savings情報消失を電書ポチ側で実データ確認済み)。そのため割引率での絞り込みはAPIに頼らず、`scripts/fetch_deals.py`が取得後にクライアント側で行っています(`min_saving_percent`はこのクライアントフィルタの閾値)
 
+## 状態ファイルのマージ設定(クローン後に1回)
+
+`data/item_state.json`(商品の初検出日)はCIと手元の実行の両方が書き換えるため、
+`git pull --rebase`のたびにコンフリクトします。放置するとコンフリクトマーカーが
+混入したままコミットされる事故につながるため、専用のマージドライバを用意しています。
+
+```sh
+sh scripts/setup_merge_driver.sh
+```
+
+一度実行すれば、以降のコンフリクトは「first_seenは古い方、last_seenは新しい方」を
+採る規則で自動解決されます(`scripts/merge_state.py`)。
+
 ## ローカルでのテスト
 
 キーをコマンドに直接打つとシェル履歴に残るため、`.env` ファイル(gitignore済み)を使います。

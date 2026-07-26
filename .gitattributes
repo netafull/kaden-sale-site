@@ -1,0 +1,3 @@
+# 状態ファイルはCIと手元の実行の両方が書き換えるためコンフリクトしやすい。
+# 専用マージドライバで自動解決する(有効化: scripts/setup_merge_driver.sh)
+data/item_state.json merge=statejson
