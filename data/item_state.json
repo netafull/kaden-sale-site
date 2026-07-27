@@ -29,10 +29,20 @@
     "last_seen": "2026-07-27",
     "title": "UGREEN 130W モバイルバッテリー 20000mAh 大容量 USB-C*2 USB-A*1 3ポート"
   },
+  "B0DZ1TGX6T": {
+    "first_seen": "2026-07-24",
+    "last_seen": "2026-07-27",
+    "title": "UGREEN Zapix【小型・軽量／10000mAh／USB－C＆USB－A／PD20W／2台同時充電】モバイルバッテリー 灰色 PB507"
+  },
   "B0DT4RGDSJ": {
     "first_seen": "2026-07-27",
     "last_seen": "2026-07-27",
     "title": "Anker Power Bank (25000mAh, Built-In & 巻取り式USB-Cケーブル) ブラック"
+  },
+  "B0FF9L4ZH2": {
+    "first_seen": "2026-07-25",
+    "last_seen": "2026-07-27",
+    "title": "エレコム モバイルバッテリー Qi2 ワイヤレス 10000mAh 20W USB-C USB-A 【機内持ち込み可/PSE技術基準適合/iPhone 16シリーズ対応】 ブラック EC-C38BK"
   },
   "B0CX4C1TVK": {
     "first_seen": "2026-07-27",
@@ -64,11 +74,6 @@
     "last_seen": "2026-07-27",
     "title": "エレコム モバイルバッテリー 20000mAh 15W リチウムイオン電池 USB-C USB-A 合計3ポート ブラック EC-C39BK"
   },
-  "B0DZ1TGX6T": {
-    "first_seen": "2026-07-24",
-    "last_seen": "2026-07-27",
-    "title": "UGREEN Zapix【小型・軽量／10000mAh／USB－C＆USB－A／PD20W／2台同時充電】モバイルバッテリー 灰色 PB507"
-  },
   "B0CG8Q3LMR": {
     "first_seen": "2026-07-24",
     "last_seen": "2026-07-27",
@@ -93,11 +98,6 @@
     "first_seen": "2026-07-27",
     "last_seen": "2026-07-27",
     "title": "サンワサプライ カーチャージャー(1ポート・2.4A) スマホ・タブレット対応 CAR-CHR73U"
-  },
-  "B0C6DX66TN": {
-    "first_seen": "2026-07-27",
-    "last_seen": "2026-07-27",
-    "title": "UGREEN Uno 65W PD 充電器 ロボット型 USB-C充電器 PSE適合 PD/PPS/QC4+対応"
   },
   "B0F9FHXPDF": {
     "first_seen": "2026-07-27",
@@ -124,10 +124,10 @@
     "last_seen": "2026-07-27",
     "title": "Anker 523 Charger (Nano 3, 47W) ホワイト"
   },
-  "B091BGMKYS": {
+  "B0BZHZ56M9": {
     "first_seen": "2026-07-27",
     "last_seen": "2026-07-27",
-    "title": "UGREEN Nexode急速充電器 65W Type-C 2C1A 3ポート PD/PPS/QC3.0/SCP/FCP対応 折り畳み式"
+    "title": "UGREEN Uno 30W PD 充電器 ロボット型 USB-C充電器 PSE適合 PD/PPS/QC4+対応"
   },
   "B0G64NF1FQ": {
     "first_seen": "2026-07-27",
@@ -142,7 +142,7 @@
   "B0GDCPBYHF": {
     "first_seen": "2026-07-27",
     "last_seen": "2026-07-27",
-    "title": "UGREEN Nexode Air 65W PD 急速充電器 USB-C 超小型 GaNII"
+    "title": "UGREEN Air 65W PD 急速充電器 USB-C 超小型 GaNII"
   },
   "B0FJS3P8NT": {
     "first_seen": "2026-07-27",
@@ -384,6 +384,16 @@
     "last_seen": "2026-07-27",
     "title": "ロジクール 静音 ワイヤレスマウス M240GR Silent Bluetooth マウス グラファイト 無線 ワイヤレス 小型 左右対称 logi bolt windows mac iPad OS Chrome Android M240 国内正規品"
   },
+  "B0C6DX66TN": {
+    "first_seen": "2026-07-27",
+    "last_seen": "2026-07-27",
+    "title": "UGREEN Uno 65W PD 充電器 ロボット型 USB-C充電器 PSE適合 PD/PPS/QC4+対応"
+  },
+  "B091BGMKYS": {
+    "first_seen": "2026-07-27",
+    "last_seen": "2026-07-27",
+    "title": "UGREEN Nexode急速充電器 65W Type-C 2C1A 3ポート PD/PPS/QC3.0/SCP/FCP対応 折り畳み式"
+  },
   "B0C3VYP1PG": {
     "first_seen": "2026-07-25",
     "last_seen": "2026-07-27",
@@ -418,11 +428,6 @@
     "first_seen": "2026-07-26",
     "last_seen": "2026-07-26",
     "title": "ブラウン メンズシェーバー シリーズ5 アズールブルー 防水 充電式 52-A1200s"
-  },
-  "B0FF9L4ZH2": {
-    "first_seen": "2026-07-25",
-    "last_seen": "2026-07-26",
-    "title": "エレコム モバイルバッテリー Qi2 ワイヤレス 10000mAh 20W USB-C USB-A 【機内持ち込み可/PSE技術基準適合/iPhone 16シリーズ対応】 ブラック EC-C38BK"
   },
   "B0GHNVZBR2": {
     "first_seen": "2026-07-25",
