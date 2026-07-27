@@ -228,13 +228,18 @@ gtag('config', '{esc(ga_id)}');
 <link rel="canonical" href="{esc(site_url)}">
 {gsv_tag}
 {ga_tag}
+<link rel="icon" type="image/png" href="assets/favicon.png">
+<link rel="apple-touch-icon" href="assets/apple-touch-icon.png">
 <meta property="og:type" content="website">
 <meta property="og:title" content="{esc(page_title)}">
 <meta property="og:description" content="{esc(CONFIG["site_description"])}">
 <meta property="og:url" content="{esc(site_url)}">
 <meta property="og:site_name" content="{esc(CONFIG["site_title"])}">
 <meta property="og:locale" content="ja_JP">
-<meta name="twitter:card" content="summary">
+<meta property="og:image" content="{esc(site_url)}assets/ogp.jpg">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta name="twitter:card" content="summary_large_image">
 <link rel="alternate" type="application/rss+xml" title="RSS" href="rss.xml">
 <script type="application/ld+json">{json_ld}</script>
 <style>{CSS}</style>
