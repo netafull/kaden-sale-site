@@ -30,7 +30,11 @@
       "must_include_any": [
         "MagSafe",
         "モバイルバッテリー",
-        "バッテリー"
+        "モバイルバッテリ",
+        "バッテリー",
+        "Power Bank",
+        "PowerCore",
+        "パワーバンク"
       ],
       "known_brands": [
         "Anker",
@@ -63,7 +67,11 @@
       "search_index": "Electronics",
       "must_include_any": [
         "イヤホン",
-        "イヤフォン"
+        "イヤフォン",
+        "Earbuds",
+        "Earphone",
+        "ヘッドホン",
+        "ヘッドフォン"
       ],
       "known_brands": [
         "Sony",

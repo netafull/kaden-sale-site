@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-26T04:09:07.626708+00:00",
+  "fetched_at": "2026-07-27T08:09:27.143103+00:00",
   "min_saving_percent": 12,
   "genres": [
     {
@@ -9,14 +9,27 @@
           "asin": "B0D4Y52TDX",
           "title": "エレコム モバイルバッテリー 30W 10000mAh 残量表示 USB PD対応 3ポート Type-C×2 USB-A×1 ケーブル別売り ブラック EC-C23LBK",
           "brand": "エレコム(ELECOM)",
-          "price": 2850,
+          "price": 2460,
           "list_price": 4980,
-          "percent_off": 43,
+          "percent_off": 51,
           "points": 0,
           "points_percent": null,
           "image": "https://m.media-amazon.com/images/I/31RoQwW6aTL._SL160_.jpg",
           "url": "https://www.amazon.co.jp/dp/B0D4Y52TDX?tag=natafull-22&linkCode=osi&th=1&psc=1",
           "since": "2026-07-24"
+        },
+        {
+          "asin": "B0CL8S3WMX",
+          "title": "Anker Power Bank (30W, Fusion, Built-In USB-C ケーブル) ブラック",
+          "brand": "Anker",
+          "price": 5990,
+          "list_price": null,
+          "percent_off": null,
+          "points": 2276,
+          "points_percent": 38,
+          "image": "https://m.media-amazon.com/images/I/21FZAnhgkQL._SL160_.jpg",
+          "url": "https://www.amazon.co.jp/dp/B0CL8S3WMX?tag=natafull-22&linkCode=osi&th=1&psc=1",
+          "since": "2026-07-27"
         },
         {
           "asin": "B0D4F34SB4",
@@ -46,7 +59,7 @@
         },
         {
           "asin": "B0CSSRD4NT",
-          "title": "UGREEN モバイルバッテリー 20000mAh大容量 ３台同時充電 USB-A×2 USBC×1 PD 20W 22.5W 急速充電 パススルー機能/小電流モード搭載 LCDバッテリー残量表示 小型 コンパクト PSE技術基準適合 iphone17/Android/iPad 各種機器に対応 ブラック PB312",
+          "title": "UGREEN Zapix【20000mAh／PD20W／USB-A×2＆USB-C×1／3台同時充電】モバイルバッテリー ブラック PB312",
           "brand": "UGREEN",
           "price": 2820,
           "list_price": 4280,
@@ -69,6 +82,45 @@
           "image": "https://m.media-amazon.com/images/I/31rhCGAdscL._SL160_.jpg",
           "url": "https://www.amazon.co.jp/dp/B0CXHNGDC1?tag=natafull-22&linkCode=osi&th=1&psc=1",
           "since": "2026-07-24"
+        },
+        {
+          "asin": "B0DT4RGDSJ",
+          "title": "Anker Power Bank (25000mAh, Built-In & 巻取り式USB-Cケーブル) ブラック",
+          "brand": "Anker",
+          "price": 14990,
+          "list_price": null,
+          "percent_off": null,
+          "points": 4647,
+          "points_percent": 31,
+          "image": "https://m.media-amazon.com/images/I/31C31kGhOzL._SL160_.jpg",
+          "url": "https://www.amazon.co.jp/dp/B0DT4RGDSJ?tag=natafull-22&linkCode=osi&th=1&psc=1",
+          "since": "2026-07-27"
+        },
+        {
+          "asin": "B0CX4C1TVK",
+          "title": "Anker Power Bank (10000mAh, Fusion, Built-In USB-C ケーブル) ブラック",
+          "brand": "Anker",
+          "price": 7990,
+          "list_price": null,
+          "percent_off": null,
+          "points": 2157,
+          "points_percent": 27,
+          "image": "https://m.media-amazon.com/images/I/21tsSzagwCL._SL160_.jpg",
+          "url": "https://www.amazon.co.jp/dp/B0CX4C1TVK?tag=natafull-22&linkCode=osi&th=1&psc=1",
+          "since": "2026-07-27"
+        },
+        {
+          "asin": "B0CQY7SRTY",
+          "title": "Anker Power Bank (20000mAh, 30W) ブラック",
+          "brand": "Anker",
+          "price": 5990,
+          "list_price": null,
+          "percent_off": null,
+          "points": 1617,
+          "points_percent": 27,
+          "image": "https://m.media-amazon.com/images/I/31MXSbjh1JL._SL160_.jpg",
+          "url": "https://www.amazon.co.jp/dp/B0CQY7SRTY?tag=natafull-22&linkCode=osi&th=1&psc=1",
+          "since": "2026-07-27"
         },
         {
           "asin": "B0DRCBV18M",
@@ -124,7 +176,7 @@
         },
         {
           "asin": "B0DZ1TGX6T",
-          "title": "UGREEN 【小型・軽量・10000mAh】モバイルバッテリー 大容量 2台同時充電（USB-A×1 USBC×1）PD20W 急速充電 小電流モード バッテリー残量表示 コンパクト PSE技術基準適合 iphone17/Android/iPad 各種 USB-C 機器に対応 灰色 PB507",
+          "title": "UGREEN Zapix【小型・軽量／10000mAh／USB－C＆USB－A／PD20W／2台同時充電】モバイルバッテリー 灰色 PB507",
           "brand": "UGREEN",
           "price": 1979,
           "list_price": 2580,
@@ -149,21 +201,8 @@
           "since": "2026-07-24"
         },
         {
-          "asin": "B0GMX4WKYG",
-          "title": "CIO SMARTCOBY Pro SLIM SS モバイルバッテリー 半固体 35W USB-C×2 USB-A×1 10000mAh (ブラック)",
-          "brand": "CIO",
-          "price": 6280,
-          "list_price": null,
-          "percent_off": null,
-          "points": 1382,
-          "points_percent": 22,
-          "image": "https://m.media-amazon.com/images/I/3193CL+De7L._SL160_.jpg",
-          "url": "https://www.amazon.co.jp/dp/B0GMX4WKYG?tag=natafull-22&linkCode=osi&th=1&psc=1",
-          "since": "2026-07-25"
-        },
-        {
           "asin": "B0DSPVDYQ9",
-          "title": "UGREEN モバイルバッテリー 20000mAh 大容量・45W 急速充電) 大容量 USB-Cケーブル内蔵 PD・PPS対応 3台同時充電 LED残量表示 パススルー/低電流モード搭載 PSE技術基準適合 iPhone17/16/15 Android/iPad/MacBook/Switch対応 機内持ち込み可 旅行/出張/アウトドア/停電/防災緊急用 PB536",
+          "title": "UGREEN Nexode【20000mAh／PD45W／USB-A×1＆USB-C×2／充電コード付き】モバイルバッテリー PB536",
           "brand": "UGREEN",
           "price": 3979,
           "list_price": 4980,
@@ -219,30 +258,30 @@
           "since": "2026-07-24"
         },
         {
-          "asin": "B0FCSGGHLL",
-          "title": "Bose QuietComfort Ultra Earbuds (第2世代) ワイヤレス ノイズキャンセリング Bluetooth イヤホン 最長6時間連続再生 IPX4規格準拠 イマーシブオーディオ 迫力の重低音 ブラック",
-          "brand": "BOSE(ボーズ)",
-          "price": 30600,
-          "list_price": 39600,
-          "percent_off": 23,
-          "points": 306,
-          "points_percent": 1,
-          "image": "https://m.media-amazon.com/images/I/31M7uzqFLEL._SL160_.jpg",
-          "url": "https://www.amazon.co.jp/dp/B0FCSGGHLL?tag=natafull-22&linkCode=osi&th=1&psc=1",
-          "since": "2026-07-24"
-        },
-        {
           "asin": "B0DLGJCTPK",
           "title": "Anker Soundcore AeroClip（Bluetooth 5.4）【オープンイヤー型ワイヤレスイヤホン/イヤーカフ / IP55 防塵・防水規格 / 最大32時間再生 / マルチポイント接続】ミッドナイトブラック",
           "brand": "Soundcore",
           "price": 17990,
           "list_price": null,
           "percent_off": null,
-          "points": 2159,
-          "points_percent": 12,
+          "points": 2519,
+          "points_percent": 14,
           "image": "https://m.media-amazon.com/images/I/31Kfstr2TTL._SL160_.jpg",
           "url": "https://www.amazon.co.jp/dp/B0DLGJCTPK?tag=natafull-22&linkCode=osi&th=1&psc=1",
           "since": "2026-07-24"
+        },
+        {
+          "asin": "B09QMCFQJL",
+          "title": "オーディオテクニカ ATH-M20xBT ワイヤレスヘッドホン Bluetooth 有線対応 ヘッドフォン 40mmCCAWボイスコイルドライバー 216gの軽量ボディ マルチポイント 低遅延モード 最大60時間再生 ハンズフリー通話 【国内正規品】 ブラック",
+          "brand": "Audio Technica(オーディオテクニカ)",
+          "price": 10590,
+          "list_price": 12100,
+          "percent_off": 12,
+          "points": 0,
+          "points_percent": null,
+          "image": "https://m.media-amazon.com/images/I/31Cwpj8S2oL._SL160_.jpg",
+          "url": "https://www.amazon.co.jp/dp/B09QMCFQJL?tag=natafull-22&linkCode=osi&th=1&psc=1",
+          "since": "2026-07-27"
         },
         {
           "asin": "B0DK4FPB82",
@@ -266,18 +305,18 @@
           "asin": "B0G4CC1S2F",
           "title": "アイリスオーヤマ フライヤー 過熱水蒸気 ノンオイルフライヤー FV-M30A-C アイボリー",
           "brand": "アイリスオーヤマ(IRIS OHYAMA)",
-          "price": 7850,
+          "price": 8709,
           "list_price": 12800,
-          "percent_off": 39,
-          "points": 0,
-          "points_percent": null,
+          "percent_off": 32,
+          "points": 708,
+          "points_percent": 8,
           "image": "https://m.media-amazon.com/images/I/3169gfWTJ3L._SL160_.jpg",
           "url": "https://www.amazon.co.jp/dp/B0G4CC1S2F?tag=natafull-22&linkCode=osi&th=1&psc=1",
           "since": "2026-07-24"
         },
         {
           "asin": "B0C3VYP1PG",
-          "title": "COSORI コソリ ノンフライヤー 2L 一人用 エアフライヤー オイル97％カット 省エネ ミニ 卓上 電気 フライヤー 揚げ物 専用レシピ付き PSE認証済み ブラックCAF-LI211-KJP",
+          "title": "COSORI コソリ ノンフライヤー 2L 一人用 エアフライヤー オイル97％カット ミニ 卓上 フライヤー ブラック CAF-LI211-KJP",
           "brand": "Cosori",
           "price": 8980,
           "list_price": 10980,
@@ -290,7 +329,7 @@
         },
         {
           "asin": "B09HB4B15V",
-          "title": "COSORI コソリ ノンフライヤー 4.7L 大容量 家庭用 電気 エアフライヤー 最高温230℃ 揚げ物 ポテト 惣菜 日本語レシピ付き タイマー 自動電源オフ グレー CAF-L501-KJP",
+          "title": "COSORI コソリ ノンフライヤー 4.7L 大容量 家庭用 エアフライヤー 最高温230℃ 揚げ物 タイマー グレー CAF-L501-KJP",
           "brand": "Cosori",
           "price": 13980,
           "list_price": 16038,
@@ -318,6 +357,19 @@
           "image": "https://m.media-amazon.com/images/I/31pSUSA3kVL._SL160_.jpg",
           "url": "https://www.amazon.co.jp/dp/B0GVNN41NZ?tag=natafull-22&linkCode=osi&th=1&psc=1",
           "since": "2026-07-24"
+        },
+        {
+          "asin": "B0GRFN53XB",
+          "title": "dreame (ドリーミー) L10s Ultra Gen3 ロボット掃除機 吸引・水拭き両用 25,000 Pa強力吸引 伸縮式のサイドブラシとモップ 100日分の自動ゴミ収集 AceClean DryBoardとモップの自動洗浄 温風乾燥 自動給水 10.5mmのモップリフトアップ 障害物回避 音声とアプリでコントロール お掃除ロボット",
+          "brand": "dreame",
+          "price": 121800,
+          "list_price": null,
+          "percent_off": null,
+          "points": 56028,
+          "points_percent": 46,
+          "image": "https://m.media-amazon.com/images/I/31Hv0tqVQGL._SL160_.jpg",
+          "url": "https://www.amazon.co.jp/dp/B0GRFN53XB?tag=natafull-22&linkCode=osi&th=1&psc=1",
+          "since": "2026-07-27"
         },
         {
           "asin": "B0DW8MPL2P",
@@ -359,12 +411,25 @@
           "since": "2026-07-24"
         },
         {
+          "asin": "B0FMR9YY83",
+          "title": "ECOVACS (エコバックス) DEEBOT N30 PLUS 吸引力10,000Pa ロボット掃除機 水拭き両用 自動ゴミ収集 大容量バッテリー PureCyclone バッグレス設計 ZeroTangle 2.0搭載 マッピング ゼロタングル 強力吸引 アプリ操作 落下防止システム Alexa対応 清掃予約 お掃除ロボット ブラック",
+          "brand": "ECOVACS",
+          "price": 67800,
+          "list_price": null,
+          "percent_off": null,
+          "points": 22374,
+          "points_percent": 33,
+          "image": "https://m.media-amazon.com/images/I/312T9QFCi4L._SL160_.jpg",
+          "url": "https://www.amazon.co.jp/dp/B0FMR9YY83?tag=natafull-22&linkCode=osi&th=1&psc=1",
+          "since": "2026-07-27"
+        },
+        {
           "asin": "B0F1FCM99S",
           "title": "ルンバ(Roomba)205 DustCompactor Combo ロボット (ロボット掃除機) アイロボット(iRobot)【水拭き/両用/ゴミ圧縮機能付きダスト容器/日本の住宅向けに開発/LiDARナビゲーション/パワーリフト吸引/スマートスクラブ対応/マッピング 掃除経路確認/アプリ操作/落下防止/Amazon.co.jp購入時12ヶ月保証/L121060】ブラック",
           "brand": "アイロボット(IRobot)",
-          "price": 41800,
+          "price": 41000,
           "list_price": 59798,
-          "percent_off": 30,
+          "percent_off": 31,
           "points": 0,
           "points_percent": null,
           "image": "https://m.media-amazon.com/images/I/31HIrU1UQiL._SL160_.jpg",
@@ -494,19 +559,6 @@
       "name": "電気シェーバー",
       "items": [
         {
-          "asin": "B0CBPDCQLF",
-          "title": "ブラウン 電気シェーバー シリーズ8 洗浄機付き 電動 髭剃り メンズ 【Amazon.co.jp 限定】 8560cc 5 in 1 100％防水設計 4+1 カットシステム 進化したキワぞり刃 夕方ヒゲ、ゼロへ 電動シェーバー 【最新2023年秋モデル】",
-          "brand": "Braun",
-          "price": 42801,
-          "list_price": null,
-          "percent_off": null,
-          "points": 20428,
-          "points_percent": 48,
-          "image": "https://m.media-amazon.com/images/I/41RzlDhRYhL._SL160_.jpg",
-          "url": "https://www.amazon.co.jp/dp/B0CBPDCQLF?tag=natafull-22&linkCode=osi&th=1&psc=1",
-          "since": "2026-07-26"
-        },
-        {
           "asin": "B093BS81XP",
           "title": "【正規品】パナソニック 替刃 メンズシェーバー用 5枚刃 外刃 ES9181",
           "brand": "パナソニック(Panasonic)",
@@ -517,19 +569,6 @@
           "points_percent": 1,
           "image": "https://m.media-amazon.com/images/I/41tAaSij9BL._SL160_.jpg",
           "url": "https://www.amazon.co.jp/dp/B093BS81XP?tag=natafull-22&linkCode=osi&th=1&psc=1",
-          "since": "2026-07-26"
-        },
-        {
-          "asin": "B0CTQ1XFRL",
-          "title": "ブラウン 電気シェーバー シリーズ5 電動 髭剃り メンズ 【Amazon.co.jp限定】 52-M1200s ミント キワゾリトリマー 防水設計 充電式 コードレス ディープキャッチ網刃 トラベルケース",
-          "brand": "Braun",
-          "price": 15800,
-          "list_price": null,
-          "percent_off": null,
-          "points": 6958,
-          "points_percent": 44,
-          "image": "https://m.media-amazon.com/images/I/41TM+anHkGL._SL160_.jpg",
-          "url": "https://www.amazon.co.jp/dp/B0CTQ1XFRL?tag=natafull-22&linkCode=osi&th=1&psc=1",
           "since": "2026-07-26"
         },
         {
@@ -562,7 +601,7 @@
           "asin": "B0FXW7VK2X",
           "title": "コイズミ メンズシェーバー",
           "brand": "コイズミ(Koizumi)",
-          "price": 8950,
+          "price": 8928,
           "list_price": 13750,
           "percent_off": 35,
           "points": 0,
@@ -601,26 +640,13 @@
           "asin": "B0C8SBYXPQ",
           "title": "パナソニック ラムダッシュ パームインシェーバー メンズシェーバー コンパクト ベーシックタイプ 5枚刃 マットブラック ES-PV3A-K",
           "brand": "パナソニック(Panasonic)",
-          "price": 28400,
+          "price": 28980,
           "list_price": 37026,
-          "percent_off": 23,
-          "points": 0,
-          "points_percent": null,
+          "percent_off": 22,
+          "points": 290,
+          "points_percent": 1,
           "image": "https://m.media-amazon.com/images/I/31DUgjKcCaL._SL160_.jpg",
           "url": "https://www.amazon.co.jp/dp/B0C8SBYXPQ?tag=natafull-22&linkCode=osi&th=1&psc=1",
-          "since": "2026-07-26"
-        },
-        {
-          "asin": "B0FQ3G4HYB",
-          "title": "ブラウン メンズシェーバー シリーズ5 アズールブルー 防水 充電式 52-A1200s",
-          "brand": "Braun",
-          "price": 9999,
-          "list_price": 10920,
-          "percent_off": 8,
-          "points": 500,
-          "points_percent": 5,
-          "image": "https://m.media-amazon.com/images/I/41yCBs1uONL._SL160_.jpg",
-          "url": "https://www.amazon.co.jp/dp/B0FQ3G4HYB?tag=natafull-22&linkCode=osi&th=1&psc=1",
           "since": "2026-07-26"
         }
       ]
@@ -628,19 +654,6 @@
     {
       "name": "電動歯ブラシ",
       "items": [
-        {
-          "asin": "B0DB48CFG7",
-          "title": "ブラウン 電動歯ブラシ オーラルB【電動初心者の決定版】iO2 iOS21D90BK ブラック 防水 歯科医推奨No.1ブランド【Amazon.co.jp 限定】",
-          "brand": "Braun",
-          "price": 8939,
-          "list_price": 11880,
-          "percent_off": 25,
-          "points": 1689,
-          "points_percent": 19,
-          "image": "https://m.media-amazon.com/images/I/419BXCd2EXL._SL160_.jpg",
-          "url": "https://www.amazon.co.jp/dp/B0DB48CFG7?tag=natafull-22&linkCode=osi&th=1&psc=1",
-          "since": "2026-07-26"
-        },
         {
           "asin": "B0CX11ZTQT",
           "title": "ブラウン 電動歯ブラシ オーラルB 【プレミアムモデル】iO7 歯科クリーニングのような磨き上がり トラベルケース+ 替えブラシ3本付き iOM7.3V2.2K BK 防水 歯科医推奨No.1ブランド【Amazon.co.jp 限定】",
@@ -658,13 +671,26 @@
           "asin": "B0DBKF4NV4",
           "title": "パナソニック 音波振動ハブラシ ドルツ 電動歯ブラシ USB充電 EW-DA18-W 白",
           "brand": "パナソニック(Panasonic)",
-          "price": 8782,
+          "price": 8694,
           "list_price": 12100,
-          "percent_off": 27,
-          "points": 88,
-          "points_percent": 1,
+          "percent_off": 28,
+          "points": 0,
+          "points_percent": null,
           "image": "https://m.media-amazon.com/images/I/11+6kNotvHL._SL160_.jpg",
           "url": "https://www.amazon.co.jp/dp/B0DBKF4NV4?tag=natafull-22&linkCode=osi&th=1&psc=1",
+          "since": "2026-07-26"
+        },
+        {
+          "asin": "B0DB48CFG7",
+          "title": "ブラウン 電動歯ブラシ オーラルB【電動初心者の決定版】iO2 iOS21D90BK ブラック 防水 歯科医推奨No.1ブランド【Amazon.co.jp 限定】",
+          "brand": "Braun",
+          "price": 8897,
+          "list_price": 11880,
+          "percent_off": 25,
+          "points": 89,
+          "points_percent": 1,
+          "image": "https://m.media-amazon.com/images/I/419BXCd2EXL._SL160_.jpg",
+          "url": "https://www.amazon.co.jp/dp/B0DB48CFG7?tag=natafull-22&linkCode=osi&th=1&psc=1",
           "since": "2026-07-26"
         },
         {
@@ -739,7 +765,7 @@
         },
         {
           "asin": "B0BKPL1VKW",
-          "title": "Logicool Signature M750MGR ワイヤレスマウス 静音 レギュラー グラファイト ワイヤレス マウス 無線 Bluetooth Logi Bolt Unifying非対応 windows mac iPad Android Chrome OS 高速スクロール ホイール 無線マウス 静音マウス M750 国内正規品",
+          "title": "ロジクール ワイヤレスマウス 静音 無線 高速スクロール Signature M750MGR レギュラー グラファイト M750 国内正規品",
           "brand": "Logitech",
           "price": 4363,
           "list_price": 5280,
@@ -817,7 +843,7 @@
         },
         {
           "asin": "B09Q5SHDR3",
-          "title": "ロジクール Signature M650MGR ワイヤレスマウス 静音 Bluetooth レギュラー グラファイト ワイヤレス マウス 無線 Logi Bolt Unifying非対応 windows mac iPad Android Chrome OS スクロールホイール 無線マウス 静音マウス M650 国内正規品",
+          "title": "ロジクール ワイヤレスマウス 静音 無線 高速スクロール Signature M650MGR レギュラー グラファイト M650 国内正規品",
           "brand": "Logitech",
           "price": 4000,
           "list_price": 4620,
