@@ -195,9 +195,15 @@ def parse_items(
     min_saving: int,
     must_include_any: list[str],
     known_brands: list[str],
+    exclude_any: list[str] | None = None,
 ) -> tuple[list[dict], int, int, int]:
     """(掲載対象のリスト, 割引不足で除外した件数, 関連性フィルタで除外した件数,
-    ブランド不明で除外した件数) を返す。"""
+    ブランド不明で除外した件数) を返す。
+
+    exclude_anyはタイトルに含まれていたら除外する語。「充電器」で検索すると
+    ケーブルやモバイルバッテリーも混ざるといった、must_include_anyだけでは
+    切り分けられないケースに使う。
+    """
     items = []
     no_discount = 0
     irrelevant = 0
@@ -216,6 +222,12 @@ def parse_items(
         # タイトルにmust_include_anyのいずれかを含む商品だけに絞り込む
         # (大文字小文字は区別しない)
         title_lower = title.lower()
+        # 他ジャンルの商品や周辺グッズを取り除く(例: 充電器ジャンルから
+        # ケーブル・モバイルバッテリーを外す)。関連性フィルタの一種として
+        # まとめてirrelevantに計上する
+        if exclude_any and any(kw.lower() in title_lower for kw in exclude_any):
+            irrelevant += 1
+            continue
         if must_include_any and not any(
             kw.lower() in title_lower for kw in must_include_any
         ):
@@ -349,6 +361,7 @@ def main() -> int:
         search_index = genre.get("search_index", "All")
         must_include_any = genre.get("must_include_any") or []
         known_brands = genre.get("known_brands") or []
+        exclude_any = genre.get("exclude_any") or []
         # 検索源: キーワード検索に加え、Amazon運営の「〜特集」棚が
         # 見つかっているジャンルはbrowseNodeIdでの検索も追加する
         # (キーワード検索より新着・関連性の高い商品に出会いやすい反面、
@@ -373,7 +386,8 @@ def main() -> int:
                 label=f"{genre['name']} ({src_type}:{src_value}) page {page}",
             )
             parsed_items, no_discount, irrelevant, unknown_brand = parse_items(
-                res, partner_tag, min_saving, must_include_any, known_brands
+                res, partner_tag, min_saving, must_include_any, known_brands,
+                exclude_any,
             )
             dropped += no_discount
             irrelevant_total += irrelevant
