@@ -168,8 +168,6 @@
         "JBL",
         "Bose",
         "ボーズ",
-        "Apple",
-        "アップル",
         "Beats",
         "ゼンハイザー",
         "Sennheiser",
@@ -356,9 +354,7 @@
         "ワイヤレスマウス",
         "ワイヤレスキーボード",
         "HHKB Professional",
-        "REALFORCE キーボード",
-        "Magic Keyboard Apple",
-        "Magic Mouse Apple"
+        "REALFORCE キーボード"
       ],
       "search_index": "Electronics",
       "must_include_any": [
@@ -383,8 +379,6 @@
         "Microsoft",
         "マイクロソフト",
         "PFU",
-        "Apple",
-        "アップル",
         "東プレ",
         "Topre"
       ],
