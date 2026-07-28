@@ -314,7 +314,11 @@
       "name": "キーボード・マウス",
       "keywords": [
         "ワイヤレスマウス",
-        "ワイヤレスキーボード"
+        "ワイヤレスキーボード",
+        "HHKB Professional",
+        "REALFORCE キーボード",
+        "Magic Keyboard Apple",
+        "Magic Mouse Apple"
       ],
       "search_index": "Electronics",
       "must_include_any": [
@@ -337,7 +341,25 @@
         "Razer",
         "レイザー",
         "Microsoft",
-        "マイクロソフト"
+        "マイクロソフト",
+        "PFU",
+        "Apple",
+        "アップル",
+        "東プレ",
+        "Topre"
+      ],
+      "exclude_any": [
+        "iPad",
+        "iPhone",
+        "Pencil",
+        "ケース",
+        "カバー",
+        "フィルム",
+        "キーキャップ",
+        "パームレスト",
+        "リストレスト",
+        "マウスパッド",
+        "交換用"
       ]
     }
   ]
