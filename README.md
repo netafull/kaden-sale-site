@@ -1,6 +1,6 @@
-# 電家ポチ (ガジェット・家電セール情報サイト)
+# 家電ポチ (ガジェット・家電セール情報サイト)
 
-サイト名にAmazon商標を使うことはアソシエイト規約で禁止されているため、サイト名は「電家ポチ」。説明文中でAmazonに言及するのは問題ない。
+サイト名にAmazon商標を使うことはアソシエイト規約で禁止されているため、サイト名は「家電ポチ」。説明文中でAmazonに言及するのは問題ない。
 
 セール中のガジェット・家電をAmazon Creators API から取得し、静的サイトとして自動公開するツールです。GitHub Actionsで1時間ごとに自動更新されます。
 
@@ -21,8 +21,8 @@ GitHub Actions (毎時実行)
 
 ### kindle-sale-site (電書ポチ) との違い
 
-- 検索方法: Kindleは`browseNodeId`(カテゴリID)で絞り込むが、電家ポチには適切なカテゴリIDが無いため`keywords`(スペース区切りのキーワード文字列)で検索する
-- 関連性フィルタ: Kindleは`productGroup`が`"Ebook"`かで判定するが、電家ポチには使えないため、`config.json`の各ジャンルの`must_include_any`のいずれかがタイトルに含まれるかで判定する
+- 検索方法: Kindleは`browseNodeId`(カテゴリID)で絞り込むが、家電ポチには適切なカテゴリIDが無いため`keywords`(スペース区切りのキーワード文字列)で検索する
+- 関連性フィルタ: Kindleは`productGroup`が`"Ebook"`かで判定するが、家電ポチには使えないため、`config.json`の各ジャンルの`must_include_any`のいずれかがタイトルに含まれるかで判定する
 - シリーズ重複排除(巻数を畳む処理)は書籍固有のロジックのため実装していない。ASINでの重複排除のみ
 - セール企画の自動発見機能(「〇〇フェア」などの特集ページ)はv1では見送り。`data/sales.json`はジャンル別の単純な構造
 - 著者の代わりに`byLineInfo.brand`(ブランド名)を表示する
@@ -112,7 +112,7 @@ open docs/index.html
 外部ブログの記事末尾などに、以下のスニペットを貼り付けると、セール中の商品が自動更新で表示されます(`docs/widget.json` を定期的にfetchするだけなので、記事側の再編集は不要です)。
 
 ```html
-<div id="kaden-widget"><a href="https://kaden.netaful.jp/">ガジェット・家電セール情報「電家ポチ」</a></div>
+<div id="kaden-widget"><a href="https://kaden.netaful.jp/">ガジェット・家電セール情報「家電ポチ」</a></div>
 <script src="https://kaden.netaful.jp/widget.js" async></script>
 ```
 
@@ -121,7 +121,7 @@ open docs/index.html
 
 ```html
 <div id="kaden-widget" data-count="5">
-  <a href="https://kaden.netaful.jp/">ガジェット・家電セール情報「電家ポチ」</a>
+  <a href="https://kaden.netaful.jp/">ガジェット・家電セール情報「家電ポチ」</a>
 </div>
 <script src="https://kaden.netaful.jp/widget.js" async></script>
 ```
