@@ -1,10 +1,50 @@
 {
-  "fetched_at": "2026-07-28T22:18:13.890425+00:00",
+  "fetched_at": "2026-07-28T23:26:30.784954+00:00",
   "min_saving_percent": 12,
   "genres": [
     {
       "name": "Apple製品",
-      "items": []
+      "items": [
+        {
+          "asin": "B0FQGY75PP",
+          "title": "Apple Watch Ultra 3(GPS + Cellularモデル)- 49mmブラックチタニウムケースとブラックチタニウムミラネーゼループ - M",
+          "brand": "Apple(アップル)",
+          "price": 116970,
+          "list_price": 159800,
+          "percent_off": 27,
+          "points": 1170,
+          "points_percent": 1,
+          "image": "https://m.media-amazon.com/images/I/51LjYRKOdOL._SL160_.jpg",
+          "url": "https://www.amazon.co.jp/dp/B0FQGY75PP?tag=natafull-22&linkCode=osi&th=1&psc=1",
+          "since": "2026-07-29"
+        },
+        {
+          "asin": "B0FQFLWSWZ",
+          "title": "Apple iPhone Air 256GB (SIMフリー)：史上最薄のiPhone、最大120HzのProMotionを採用した6.5インチディスプレイ、パワフルなA19 Proチップ、センターフレームフロントカメラ、一日中使えるバッテリー；スペースブラック",
+          "brand": "Apple(アップル)",
+          "price": 139800,
+          "list_price": 177800,
+          "percent_off": 21,
+          "points": 1398,
+          "points_percent": 1,
+          "image": "https://m.media-amazon.com/images/I/31Y8ZfpTmKL._SL160_.jpg",
+          "url": "https://www.amazon.co.jp/dp/B0FQFLWSWZ?tag=natafull-22&linkCode=osi&th=1&psc=1",
+          "since": "2026-07-29"
+        },
+        {
+          "asin": "B0FQFQDN6K",
+          "title": "Apple AirPods Pro 3 ワイヤレスイヤホン、アクティブノイズキャンセリング、ライブ翻訳、心拍センサー、補聴機能、Bluetoothヘッドホン、空間オーディオ サウンド、USB-C充電ケース、防塵性能と耐汗耐水性能、「探す」対応、Qi充電",
+          "brand": "Apple(アップル)",
+          "price": 36800,
+          "list_price": 42800,
+          "percent_off": 14,
+          "points": 368,
+          "points_percent": 1,
+          "image": "https://m.media-amazon.com/images/I/318ibisrl7L._SL160_.jpg",
+          "url": "https://www.amazon.co.jp/dp/B0FQFQDN6K?tag=natafull-22&linkCode=osi&th=1&psc=1",
+          "since": "2026-07-29"
+        }
+      ]
     },
     {
       "name": "モバイルバッテリー",
@@ -309,6 +349,19 @@
           "since": "2026-07-29"
         },
         {
+          "asin": "B0GW8QBDL6",
+          "title": "エレコム モバイルバッテリー 半固体電池 大容量 軽量 10000mAh USB-C PD対応 30W 急速充電 ケーブル一体型 2台同時充電 長寿命 パススルー充電 残量表示 PSE認証 iPhone対応 ミッドナイトブルー EC-C59MN",
+          "brand": "エレコム(ELECOM)",
+          "price": 5290,
+          "list_price": 6290,
+          "percent_off": 16,
+          "points": 53,
+          "points_percent": 1,
+          "image": "https://m.media-amazon.com/images/I/31preKFoPOL._SL160_.jpg",
+          "url": "https://www.amazon.co.jp/dp/B0GW8QBDL6?tag=natafull-22&linkCode=osi&th=1&psc=1",
+          "since": "2026-07-29"
+        },
+        {
           "asin": "B0DZ1TGX6T",
           "title": "UGREEN Zapix【小型・軽量／10000mAh／USB－C＆USB－A／PD20W／2台同時充電】モバイルバッテリー 灰色 PB507",
           "brand": "UGREEN",
@@ -348,16 +401,16 @@
           "since": "2026-07-29"
         },
         {
-          "asin": "B0GMWY26HF",
-          "title": "CIO SMARTCOBY SLIMⅡ Wireless2.2 Pro SS10K 半固体モバイルバッテリー Qi2.2 10000mAh(シルバー)",
+          "asin": "B0GMWY5SFS",
+          "title": "CIO SMARTCOBY SLIMⅡ Wireless2.2 Pro SS10K 半固体モバイルバッテリー Qi2.2 10000mAh(ブラック)",
           "brand": "CIO",
           "price": 7480,
           "list_price": 8580,
           "percent_off": 13,
           "points": 75,
           "points_percent": 1,
-          "image": "https://m.media-amazon.com/images/I/31o4FBnzqNL._SL160_.jpg",
-          "url": "https://www.amazon.co.jp/dp/B0GMWY26HF?tag=natafull-22&linkCode=osi&th=1&psc=1",
+          "image": "https://m.media-amazon.com/images/I/31OjMvNOzHL._SL160_.jpg",
+          "url": "https://www.amazon.co.jp/dp/B0GMWY5SFS?tag=natafull-22&linkCode=osi&th=1&psc=1",
           "since": "2026-07-29"
         },
         {
@@ -377,11 +430,11 @@
           "asin": "B099JMBCP1",
           "title": "エレコム モバイルバッテリー 10000mAh 大容量 マグネット ( USB PD対応 ) Type-C×1 / USB-A×1 【 iPhone12 / iPhone13 シリーズ推奨 】 PSE認証 ブラック EC-C02BK",
           "brand": "エレコム(ELECOM)",
-          "price": 1681,
+          "price": 1698,
           "list_price": 1960,
-          "percent_off": 14,
-          "points": 0,
-          "points_percent": null,
+          "percent_off": 13,
+          "points": 17,
+          "points_percent": 1,
           "image": "https://m.media-amazon.com/images/I/31+QMeoVBmL._SL160_.jpg",
           "url": "https://www.amazon.co.jp/dp/B099JMBCP1?tag=natafull-22&linkCode=osi&th=1&psc=1",
           "since": "2026-07-24"
@@ -398,6 +451,19 @@
           "image": "https://m.media-amazon.com/images/I/3193CL+De7L._SL160_.jpg",
           "url": "https://www.amazon.co.jp/dp/B0GMX4WKYG?tag=natafull-22&linkCode=osi&th=1&psc=1",
           "since": "2026-07-25"
+        },
+        {
+          "asin": "B0GMWY26HF",
+          "title": "CIO SMARTCOBY SLIMⅡ Wireless2.2 Pro SS10K 半固体モバイルバッテリー Qi2.2 10000mAh(シルバー)",
+          "brand": "CIO",
+          "price": 7480,
+          "list_price": 8580,
+          "percent_off": 13,
+          "points": 75,
+          "points_percent": 1,
+          "image": "https://m.media-amazon.com/images/I/31o4FBnzqNL._SL160_.jpg",
+          "url": "https://www.amazon.co.jp/dp/B0GMWY26HF?tag=natafull-22&linkCode=osi&th=1&psc=1",
+          "since": "2026-07-29"
         },
         {
           "asin": "B0FTZ63967",
@@ -496,6 +562,19 @@
           "since": "2026-07-27"
         },
         {
+          "asin": "B0DMFFK5LV",
+          "title": "UGREEN 45W USB-C*2+USB-A*1 急速充電器 Type-C PD GaNⅡ充電器 PSE適合タイプc充電器 PD/PPS/SCP/QC3.0",
+          "brand": "UGREEN",
+          "price": 2600,
+          "list_price": 3880,
+          "percent_off": 33,
+          "points": 26,
+          "points_percent": 1,
+          "image": "https://m.media-amazon.com/images/I/21ROqWneEML._SL160_.jpg",
+          "url": "https://www.amazon.co.jp/dp/B0DMFFK5LV?tag=natafull-22&linkCode=osi&th=1&psc=1",
+          "since": "2026-07-29"
+        },
+        {
           "asin": "B0F9FHXPDF",
           "title": "UGREEN 100W PD 急速充電器 USB-C×4/USB-A×1 タッチモニター搭載 PSE認証済",
           "brand": "UGREEN",
@@ -559,19 +638,6 @@
           "image": "https://m.media-amazon.com/images/I/31-rdar9QYL._SL160_.jpg",
           "url": "https://www.amazon.co.jp/dp/B0D53VKL36?tag=natafull-22&linkCode=osi&th=1&psc=1",
           "since": "2026-07-29"
-        },
-        {
-          "asin": "B0FJS3P8NT",
-          "title": "UGREEN 45W USB-C*4+USB-A*1 急速充電器 Type-C PD GaNⅡ充電器 PSE適合タイプc充電器 PD3.0/PPS/SCP/QC3.0",
-          "brand": "UGREEN",
-          "price": 2985,
-          "list_price": 3980,
-          "percent_off": 25,
-          "points": 30,
-          "points_percent": 1,
-          "image": "https://m.media-amazon.com/images/I/21o07nzjgBL._SL160_.jpg",
-          "url": "https://www.amazon.co.jp/dp/B0FJS3P8NT?tag=natafull-22&linkCode=osi&th=1&psc=1",
-          "since": "2026-07-27"
         },
         {
           "asin": "B0DNT9Z2HS",
@@ -966,17 +1032,17 @@
           "since": "2026-07-29"
         },
         {
-          "asin": "B0GVNN41NZ",
-          "title": "dreameF20 Plusロボット掃除機 20,000 Pa 強力吸引 自動ゴミ収集ドック 水拭き両用 絡まり防止ブラシ カーペットディープクリーニング スマートナビゲーション搭載 水拭き両用ロボット掃除機",
+          "asin": "B0GVNN41P1",
+          "title": "dreame(ドリーミー) F20ロボット掃除機 20,000 Paの吸引力 2-in-1 吸引・水拭き両用 二重構造の絡まり防止機能 カーペットクリーニング機能 壁際から部屋の隅までしっかり掃除 スマートナヒ ゲーション機能 Wi-Fi対応 音声コントロール対応 アプリコントロール お掃除ロボット ホワイト F20",
           "brand": "dreame",
-          "price": 34800,
-          "list_price": 69800,
+          "price": 24800,
+          "list_price": 49800,
           "percent_off": 50,
-          "points": 348,
+          "points": 248,
           "points_percent": 1,
-          "image": "https://m.media-amazon.com/images/I/31pSUSA3kVL._SL160_.jpg",
-          "url": "https://www.amazon.co.jp/dp/B0GVNN41NZ?tag=natafull-22&linkCode=osi&th=1&psc=1",
-          "since": "2026-07-24"
+          "image": "https://m.media-amazon.com/images/I/31g36eoC2nL._SL160_.jpg",
+          "url": "https://www.amazon.co.jp/dp/B0GVNN41P1?tag=natafull-22&linkCode=osi&th=1&psc=1",
+          "since": "2026-07-29"
         },
         {
           "asin": "B0H44Y871S",
@@ -1338,11 +1404,11 @@
           "asin": "B0C8SBYXPQ",
           "title": "パナソニック ラムダッシュ パームインシェーバー メンズシェーバー コンパクト ベーシックタイプ 5枚刃 マットブラック ES-PV3A-K",
           "brand": "パナソニック(Panasonic)",
-          "price": 28710,
+          "price": 29000,
           "list_price": 37026,
           "percent_off": 22,
-          "points": 0,
-          "points_percent": null,
+          "points": 290,
+          "points_percent": 1,
           "image": "https://m.media-amazon.com/images/I/31DUgjKcCaL._SL160_.jpg",
           "url": "https://www.amazon.co.jp/dp/B0C8SBYXPQ?tag=natafull-22&linkCode=osi&th=1&psc=1",
           "since": "2026-07-26"

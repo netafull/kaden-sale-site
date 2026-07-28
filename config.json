@@ -26,7 +26,7 @@
         "iPad Apple",
         "Apple Watch",
         "AirPods Apple",
-        "Mac mini Apple"
+        "iPhone Apple SIMフリー"
       ],
       "search_index": "Electronics",
       "must_include_any": [
@@ -34,6 +34,7 @@
         "iMac",
         "Mac mini",
         "Mac Studio",
+        "Mac Pro",
         "iPad",
         "iPhone",
         "Apple Watch",
@@ -41,23 +42,13 @@
         "AirTag",
         "Apple Pencil",
         "Magic Keyboard",
-        "Magic Mouse"
+        "Magic Mouse",
+        "Magic Trackpad",
+        "Apple TV",
+        "HomePod",
+        "Vision Pro"
       ],
       "exclude_any": [
-        "ケース",
-        "カバー",
-        "フィルム",
-        "保護",
-        "スタンド",
-        "ホルダー",
-        "ストラップ",
-        "バンド",
-        "充電器",
-        "ケーブル",
-        "変換",
-        "対応",
-        "互換",
-        "用 ",
         "整備済み品",
         "整備済",
         "中古",

@@ -1,8 +1,43 @@
 {
-  "updated": "2026-07-28T22:18:13.890425+00:00",
+  "updated": "2026-07-28T23:26:30.784954+00:00",
   "site_url": "https://kaden.netaful.jp/",
   "site_title": "家電ポチ",
   "genres": [
+    {
+      "name": "Apple製品",
+      "books": [
+        {
+          "title": "Apple Watch Ultra 3(GPS + Cellularモデル)- 49mmブラックチタニウムケースとブラックチタニウムミラネーゼループ - M",
+          "price": 116970,
+          "list_price": 159800,
+          "percent_off": 27,
+          "points": 1170,
+          "points_percent": 1,
+          "image": "https://m.media-amazon.com/images/I/51LjYRKOdOL._SL160_.jpg",
+          "url": "https://www.amazon.co.jp/dp/B0FQGY75PP?tag=natafull-22&linkCode=osi&th=1&psc=1"
+        },
+        {
+          "title": "Apple iPhone Air 256GB (SIMフリー)：史上最薄のiPhone、最大120HzのProMotionを採用した6.5インチディスプレイ、パワフルなA19 Proチップ、センターフレームフロントカメラ、一日中使えるバッテリー；スペースブラック",
+          "price": 139800,
+          "list_price": 177800,
+          "percent_off": 21,
+          "points": 1398,
+          "points_percent": 1,
+          "image": "https://m.media-amazon.com/images/I/31Y8ZfpTmKL._SL160_.jpg",
+          "url": "https://www.amazon.co.jp/dp/B0FQFLWSWZ?tag=natafull-22&linkCode=osi&th=1&psc=1"
+        },
+        {
+          "title": "Apple AirPods Pro 3 ワイヤレスイヤホン、アクティブノイズキャンセリング、ライブ翻訳、心拍センサー、補聴機能、Bluetoothヘッドホン、空間オーディオ サウンド、USB-C充電ケース、防塵性能と耐汗耐水性能、「探す」対応、Qi充電",
+          "price": 36800,
+          "list_price": 42800,
+          "percent_off": 14,
+          "points": 368,
+          "points_percent": 1,
+          "image": "https://m.media-amazon.com/images/I/318ibisrl7L._SL160_.jpg",
+          "url": "https://www.amazon.co.jp/dp/B0FQFQDN6K?tag=natafull-22&linkCode=osi&th=1&psc=1"
+        }
+      ]
+    },
     {
       "name": "モバイルバッテリー",
       "books": [
@@ -132,6 +167,16 @@
           "url": "https://www.amazon.co.jp/dp/B0F99FCSX7?tag=natafull-22&linkCode=osi&th=1&psc=1"
         },
         {
+          "title": "UGREEN 45W USB-C*2+USB-A*1 急速充電器 Type-C PD GaNⅡ充電器 PSE適合タイプc充電器 PD/PPS/SCP/QC3.0",
+          "price": 2600,
+          "list_price": 3880,
+          "percent_off": 33,
+          "points": 26,
+          "points_percent": 1,
+          "image": "https://m.media-amazon.com/images/I/21ROqWneEML._SL160_.jpg",
+          "url": "https://www.amazon.co.jp/dp/B0DMFFK5LV?tag=natafull-22&linkCode=osi&th=1&psc=1"
+        },
+        {
           "title": "UGREEN 100W PD 急速充電器 USB-C×4/USB-A×1 タッチモニター搭載 PSE認証済",
           "price": 5980,
           "list_price": 8980,
@@ -160,16 +205,6 @@
           "points_percent": 31,
           "image": "https://m.media-amazon.com/images/I/31huxMX7r9L._SL160_.jpg",
           "url": "https://www.amazon.co.jp/dp/B0BF43HS1G?tag=natafull-22&linkCode=osi&th=1&psc=1"
-        },
-        {
-          "title": "Anker Prime Wall Charger (67W, 3 ports, GaN) (ブラック)",
-          "price": 5990,
-          "list_price": 8490,
-          "percent_off": 29,
-          "points": 60,
-          "points_percent": 1,
-          "image": "https://m.media-amazon.com/images/I/31kympTS7uL._SL160_.jpg",
-          "url": "https://www.amazon.co.jp/dp/B0C5CBV6L3?tag=natafull-22&linkCode=osi&th=1&psc=1"
         }
       ]
     },
@@ -287,14 +322,14 @@
           "url": "https://www.amazon.co.jp/dp/B0DRVB4DVC?tag=natafull-22&linkCode=osi&th=1&psc=1"
         },
         {
-          "title": "dreameF20 Plusロボット掃除機 20,000 Pa 強力吸引 自動ゴミ収集ドック 水拭き両用 絡まり防止ブラシ カーペットディープクリーニング スマートナビゲーション搭載 水拭き両用ロボット掃除機",
-          "price": 34800,
-          "list_price": 69800,
+          "title": "dreame(ドリーミー) F20ロボット掃除機 20,000 Paの吸引力 2-in-1 吸引・水拭き両用 二重構造の絡まり防止機能 カーペットクリーニング機能 壁際から部屋の隅までしっかり掃除 スマートナヒ ゲーション機能 Wi-Fi対応 音声コントロール対応 アプリコントロール お掃除ロボット ホワイト F20",
+          "price": 24800,
+          "list_price": 49800,
           "percent_off": 50,
-          "points": 348,
+          "points": 248,
           "points_percent": 1,
-          "image": "https://m.media-amazon.com/images/I/31pSUSA3kVL._SL160_.jpg",
-          "url": "https://www.amazon.co.jp/dp/B0GVNN41NZ?tag=natafull-22&linkCode=osi&th=1&psc=1"
+          "image": "https://m.media-amazon.com/images/I/31g36eoC2nL._SL160_.jpg",
+          "url": "https://www.amazon.co.jp/dp/B0GVNN41P1?tag=natafull-22&linkCode=osi&th=1&psc=1"
         },
         {
           "title": "dreame (ドリーミー) Aqua10s Roller AEロボット掃除機 水拭き両用 ローラーモップ 浄水水拭き 35,000Pa強力吸引 100 日間自動ゴミ収集 100°C 熱湯モップ洗浄 温風乾燥 障害物回避 絡まり防止 お掃除ロボット カーペット ペット 掃除機 ドリーミー",
