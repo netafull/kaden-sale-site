@@ -142,7 +142,13 @@ def generate_html(data: dict) -> str:
     )
     updated = fetched.strftime("%Y年%m月%d日 %H:%M")
 
-    genres = data.get("genres") or []
+    # 0件のジャンルは末尾に回す(config.jsonの並び順は維持しつつ、
+    # 空のセクションが上位を占めないようにする)。値引きが稀な
+    # Apple製品のようなジャンルでも、セール時には自然に上位へ戻る
+    genres = sorted(
+        data.get("genres") or [],
+        key=lambda g: 0 if (g.get("items") or []) else 1,
+    )
 
     sections = []
     for i, g in enumerate(genres):

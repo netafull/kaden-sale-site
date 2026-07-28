@@ -1,7 +1,11 @@
 {
-  "fetched_at": "2026-07-28T21:32:17.436146+00:00",
+  "fetched_at": "2026-07-28T22:18:13.890425+00:00",
   "min_saving_percent": 12,
   "genres": [
+    {
+      "name": "Apple製品",
+      "items": []
+    },
     {
       "name": "モバイルバッテリー",
       "items": [

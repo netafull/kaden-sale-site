@@ -20,6 +20,55 @@
   "pages_per_genre": 5,
   "genres": [
     {
+      "name": "Apple製品",
+      "keywords": [
+        "MacBook Apple",
+        "iPad Apple",
+        "Apple Watch",
+        "AirPods Apple",
+        "Mac mini Apple"
+      ],
+      "search_index": "Electronics",
+      "must_include_any": [
+        "MacBook",
+        "iMac",
+        "Mac mini",
+        "Mac Studio",
+        "iPad",
+        "iPhone",
+        "Apple Watch",
+        "AirPods",
+        "AirTag",
+        "Apple Pencil",
+        "Magic Keyboard",
+        "Magic Mouse"
+      ],
+      "exclude_any": [
+        "ケース",
+        "カバー",
+        "フィルム",
+        "保護",
+        "スタンド",
+        "ホルダー",
+        "ストラップ",
+        "バンド",
+        "充電器",
+        "ケーブル",
+        "変換",
+        "対応",
+        "互換",
+        "用 ",
+        "整備済み品",
+        "整備済",
+        "中古",
+        "Renewed"
+      ],
+      "known_brands": [
+        "Apple",
+        "アップル"
+      ]
+    },
+    {
       "name": "モバイルバッテリー",
       "keywords": [
         "MagSafe モバイルバッテリー",
