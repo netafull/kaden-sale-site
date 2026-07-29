@@ -354,7 +354,8 @@
         "ワイヤレスマウス",
         "ワイヤレスキーボード",
         "HHKB Professional",
-        "REALFORCE キーボード"
+        "REALFORCE キーボード",
+        "Happy Hacking Keyboard"
       ],
       "search_index": "Electronics",
       "must_include_any": [
@@ -383,9 +384,6 @@
         "Topre"
       ],
       "exclude_any": [
-        "iPad",
-        "iPhone",
-        "Pencil",
         "ケース",
         "カバー",
         "フィルム",
@@ -393,7 +391,11 @@
         "パームレスト",
         "リストレスト",
         "マウスパッド",
-        "交換用"
+        "交換用",
+        "キートップ",
+        "ルーフ",
+        "吸収マット",
+        "キーボードマット"
       ]
     }
   ]

@@ -1,23 +1,10 @@
 {
-  "fetched_at": "2026-07-28T23:57:58.449661+00:00",
+  "fetched_at": "2026-07-29T00:14:03.640492+00:00",
   "min_saving_percent": 12,
   "genres": [
     {
       "name": "Apple製品",
       "items": [
-        {
-          "asin": "B0FQGY75PP",
-          "title": "Apple Watch Ultra 3(GPS + Cellularモデル)- 49mmブラックチタニウムケースとブラックチタニウムミラネーゼループ - M",
-          "brand": "Apple(アップル)",
-          "price": 116970,
-          "list_price": 159800,
-          "percent_off": 27,
-          "points": 1170,
-          "points_percent": 1,
-          "image": "https://m.media-amazon.com/images/I/51LjYRKOdOL._SL160_.jpg",
-          "url": "https://www.amazon.co.jp/dp/B0FQGY75PP?tag=natafull-22&linkCode=osi&th=1&psc=1",
-          "since": "2026-07-29"
-        },
         {
           "asin": "B0FQFLWSWZ",
           "title": "Apple iPhone Air 256GB (SIMフリー)：史上最薄のiPhone、最大120HzのProMotionを採用した6.5インチディスプレイ、パワフルなA19 Proチップ、センターフレームフロントカメラ、一日中使えるバッテリー；スペースブラック",
@@ -42,6 +29,19 @@
           "points_percent": 1,
           "image": "https://m.media-amazon.com/images/I/318ibisrl7L._SL160_.jpg",
           "url": "https://www.amazon.co.jp/dp/B0FQFQDN6K?tag=natafull-22&linkCode=osi&th=1&psc=1",
+          "since": "2026-07-29"
+        },
+        {
+          "asin": "B0FQG2B81Z",
+          "title": "Apple Watch Series 11(GPSモデル)- 46mmジェットブラックアルミニウムケースとブラックスポーツバンド - M/L、睡眠時無呼吸、高血圧パターン、血中酸素、心電図、排卵推定、心拍数、服薬、マインドフルネス、ノイズ、睡眠スコア、転倒検出、IPX6X防塵、泳げる耐水、Suica対応、高速充電対応",
+          "brand": "Apple(アップル)",
+          "price": 67800,
+          "list_price": 76800,
+          "percent_off": 12,
+          "points": 678,
+          "points_percent": 1,
+          "image": "https://m.media-amazon.com/images/I/41mUfdF4HaL._SL160_.jpg",
+          "url": "https://www.amazon.co.jp/dp/B0FQG2B81Z?tag=natafull-22&linkCode=osi&th=1&psc=1",
           "since": "2026-07-29"
         }
       ]
@@ -905,6 +905,19 @@
           "since": "2026-07-27"
         },
         {
+          "asin": "B0FPQN7DBD",
+          "title": "【Amazon.co.jp 限定】JBL TOUR PRO 3 ワイヤレスイヤホン bluetooth/ハイブリッドノイズキャンセリング/ハイレゾワイヤレスLDAC/デュアルドライバー/マルチポイント/防塵・防水/ワイヤレス充電対応/スマートタッチディスプレイ搭載/ネイビー /JBLTOURPRO3BLU",
+          "brand": "JBL",
+          "price": 26980,
+          "list_price": 36000,
+          "percent_off": 25,
+          "points": 270,
+          "points_percent": 1,
+          "image": "https://m.media-amazon.com/images/I/41M29ZC+gfL._SL160_.jpg",
+          "url": "https://www.amazon.co.jp/dp/B0FPQN7DBD?tag=natafull-22&linkCode=osi&th=1&psc=1",
+          "since": "2026-07-29"
+        },
+        {
           "asin": "B0CXPR5412",
           "title": "Nothing (ナッシング) ワイヤレスイヤホン Nothing Ear (a) :【VGP 2025 金賞】/ アクティブノイズキャンセリング/Bluetooth / 最大42.5時間再生 / ハイレゾ対応/外音取り込み/マイク付き/マルチポイント/iPhone & Android対応/完全ワイヤレス/ブラック",
           "brand": "Nothing(ナッシング)",
@@ -1567,6 +1580,19 @@
           "since": "2026-07-26"
         },
         {
+          "asin": "B0FL77NZXM",
+          "title": "エレコム ワイヤレスキーボード Precisionist プレシジョニスト Bluetooth 無線2.4GHz マルチペアリング4台 充電式 薄型パンタグラフ式 ミニサイズ ブラック TK-PN1075MPABK",
+          "brand": "エレコム(ELECOM)",
+          "price": 5840,
+          "list_price": 7990,
+          "percent_off": 27,
+          "points": 58,
+          "points_percent": 1,
+          "image": "https://m.media-amazon.com/images/I/31oKhJN1ZzL._SL160_.jpg",
+          "url": "https://www.amazon.co.jp/dp/B0FL77NZXM?tag=natafull-22&linkCode=osi&th=1&psc=1",
+          "since": "2026-07-29"
+        },
+        {
           "asin": "B0BC135WFD",
           "title": "【Amazon.co.jp限定】 Logicool G PRO ゲーミングキーボード G-PKB-002LNd テンキーレス リニア 赤軸 日本語配列",
           "brand": "Logicool G(ロジクール G)",
@@ -1684,6 +1710,19 @@
           "since": "2026-07-29"
         },
         {
+          "asin": "B0B1Q5T5TQ",
+          "title": "ロジクール KX850CT MX MECHANICAL MINI ミニマリスト ワイヤレス メカニカル パフォーマンス キーボード 茶軸 タクタイル テンキーレス 静かな打鍵感 特に静か Logi Bolt bluetooth Unifying非対応 薄型 無線 メカニカルキーボード windows mac chrome Android ワイヤレスキーボード KX850 国内正規品 グラファイト",
+          "brand": "Logitech",
+          "price": 17064,
+          "list_price": 21120,
+          "percent_off": 19,
+          "points": 171,
+          "points_percent": 1,
+          "image": "https://m.media-amazon.com/images/I/41a+xCkUz5L._SL160_.jpg",
+          "url": "https://www.amazon.co.jp/dp/B0B1Q5T5TQ?tag=natafull-22&linkCode=osi&th=1&psc=1",
+          "since": "2026-07-29"
+        },
+        {
           "asin": "B07DVC25R2",
           "title": "Logicool G ゲーミングマウス G304 LIGHTSPEED ワイヤレス ゲーミング マウス 軽量 99g HERO 12Kセンサー 6個プログラムボタン 250時間連続使用可能 ブラック PC windows mac 国内正規品 【 ファイナルファンタジー XIV 推奨モデル 】",
           "brand": "Logicool G(ロジクール G)",
@@ -1707,6 +1746,19 @@
           "points_percent": 1,
           "image": "https://m.media-amazon.com/images/I/31lHrIliBPL._SL160_.jpg",
           "url": "https://www.amazon.co.jp/dp/B0BKPL1VKW?tag=natafull-22&linkCode=osi&th=1&psc=1",
+          "since": "2026-07-26"
+        },
+        {
+          "asin": "B0CJR8Y56J",
+          "title": "ロジクール ワイヤレスキーボード PEBBLE KEYS 2 K380sGR 薄型 軽量 415g 小型 Bluetooth Logi Bolt ワイヤレス 無線 キーボード Easy-Switch 日本語配列 電池寿命36ケ月 Windows Mac iPad iOS Android Chrome K380s グラファイト 国内正規品",
+          "brand": "Logitech",
+          "price": 4381,
+          "list_price": 5280,
+          "percent_off": 17,
+          "points": 44,
+          "points_percent": 1,
+          "image": "https://m.media-amazon.com/images/I/31ejPJFvDUL._SL160_.jpg",
+          "url": "https://www.amazon.co.jp/dp/B0CJR8Y56J?tag=natafull-22&linkCode=osi&th=1&psc=1",
           "since": "2026-07-26"
         },
         {
@@ -1788,6 +1840,19 @@
           "since": "2026-07-26"
         },
         {
+          "asin": "B08TMK8GSC",
+          "title": "エレコム ワイヤレスキーボード Bluetooth フルキーボード テンキー付 薄型 メンブレン 抗菌 最大3台マルチペアリング対応 iPad/Surface/テンキー付 ブラック TK-FBM120KBK/EC",
+          "brand": "エレコム(ELECOM)",
+          "price": 2030,
+          "list_price": 2399,
+          "percent_off": 15,
+          "points": 20,
+          "points_percent": 1,
+          "image": "https://m.media-amazon.com/images/I/41q5OGuKY0L._SL160_.jpg",
+          "url": "https://www.amazon.co.jp/dp/B08TMK8GSC?tag=natafull-22&linkCode=osi&th=1&psc=1",
+          "since": "2026-07-29"
+        },
+        {
           "asin": "B0CZKNNNXJ",
           "title": "エレコム ワイヤレス トラックボールマウス Bluetooth IST (アイエスティー) シリーズ 5ボタン 親指操作 ベアリング支持 Windows Mac Chromebook ブラック 2 M-IT11BRABK",
           "brand": "エレコム(ELECOM)",
@@ -1827,6 +1892,45 @@
           "since": "2026-07-26"
         },
         {
+          "asin": "B0FDQL8KNL",
+          "title": "【Amazon.co.jp限定】 ロジクール Bluetooth ワイヤレスキーボード 無線 K250GRd 日本語配列 グラファイト 国内正規品",
+          "brand": "Logitech",
+          "price": 2130,
+          "list_price": 2500,
+          "percent_off": 15,
+          "points": 21,
+          "points_percent": 1,
+          "image": "https://m.media-amazon.com/images/I/41NzS62Rf5L._SL160_.jpg",
+          "url": "https://www.amazon.co.jp/dp/B0FDQL8KNL?tag=natafull-22&linkCode=osi&th=1&psc=1",
+          "since": "2026-07-29"
+        },
+        {
+          "asin": "B0FDQKRJJ3",
+          "title": "【Amazon.co.jp限定】 ロジクール Bluetooth ワイヤレスマウス キーボード セット MK250GRd 日本語配列 国内正規品",
+          "brand": "Logitech",
+          "price": 2980,
+          "list_price": 3500,
+          "percent_off": 15,
+          "points": 30,
+          "points_percent": 1,
+          "image": "https://m.media-amazon.com/images/I/41bL3+cHgjL._SL160_.jpg",
+          "url": "https://www.amazon.co.jp/dp/B0FDQKRJJ3?tag=natafull-22&linkCode=osi&th=1&psc=1",
+          "since": "2026-07-29"
+        },
+        {
+          "asin": "B0C65MQZ65",
+          "title": "ロジクール MX ANYWHERE 3S MX1800GR 静音 マウス Bluetooth Logi Bolt Unifying非対応 コンパクト Smart Actions 対応 高速スクロールホイール 充電式 ワイヤレスマウス 無線 Windows Mac Chrome iPad OS Android MX1800 グラファイト 国内正規品",
+          "brand": "Logitech",
+          "price": 11964,
+          "list_price": 13970,
+          "percent_off": 14,
+          "points": 120,
+          "points_percent": 1,
+          "image": "https://m.media-amazon.com/images/I/312jQ3H3eRL._SL160_.jpg",
+          "url": "https://www.amazon.co.jp/dp/B0C65MQZ65?tag=natafull-22&linkCode=osi&th=1&psc=1",
+          "since": "2026-07-26"
+        },
+        {
           "asin": "B0CZ9HWVTC",
           "title": "エレコム ワイヤレスキーボード コンパクト テンキー付 パンタグラフ式 薄型 ブラック TK-FDP099TBK/EC",
           "brand": "エレコム(ELECOM)",
@@ -1853,6 +1957,19 @@
           "since": "2026-07-26"
         },
         {
+          "asin": "B08LMK3L5C",
+          "title": "エレコム ワイヤレスマウス Bluetooth Slint 薄型 静音 4ボタン プレゼンモード機能付 Windows Mac Android iOS iPadOS FireOS対応 ブラック M-TM10BBBK/EC",
+          "brand": "エレコム(ELECOM)",
+          "price": 1390,
+          "list_price": 1599,
+          "percent_off": 13,
+          "points": 14,
+          "points_percent": 1,
+          "image": "https://m.media-amazon.com/images/I/311GO2ukVDL._SL160_.jpg",
+          "url": "https://www.amazon.co.jp/dp/B08LMK3L5C?tag=natafull-22&linkCode=osi&th=1&psc=1",
+          "since": "2026-07-29"
+        },
+        {
           "asin": "B07MC7LLTR",
           "title": "R2TLA-US4G-BK Realforce RGB TKL 有線キーボード 英語配列 87キーレ",
           "brand": "東プレ(Topre Corporation)",
@@ -1864,6 +1981,19 @@
           "image": "https://m.media-amazon.com/images/I/31q0s9pqmaL._SL160_.jpg",
           "url": "https://www.amazon.co.jp/dp/B07MC7LLTR?tag=natafull-22&linkCode=osi&th=1&psc=1",
           "since": "2026-07-29"
+        },
+        {
+          "asin": "B0C2YK1CS6",
+          "title": "ロジクール 静音 ワイヤレスマウス M240GR Silent Bluetooth マウス グラファイト 無線 ワイヤレス 小型 左右対称 logi bolt windows mac iPad OS Chrome Android M240 国内正規品",
+          "brand": "Logicool(ロジクール)",
+          "price": 1867,
+          "list_price": 2090,
+          "percent_off": 11,
+          "points": 19,
+          "points_percent": 1,
+          "image": "https://m.media-amazon.com/images/I/31X3ipEzCIL._SL160_.jpg",
+          "url": "https://www.amazon.co.jp/dp/B0C2YK1CS6?tag=natafull-22&linkCode=osi&th=1&psc=1",
+          "since": "2026-07-26"
         }
       ]
     }

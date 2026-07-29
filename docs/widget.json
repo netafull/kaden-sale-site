@@ -1,21 +1,11 @@
 {
-  "updated": "2026-07-28T23:57:58.449661+00:00",
+  "updated": "2026-07-29T00:14:03.640492+00:00",
   "site_url": "https://kaden.netaful.jp/",
   "site_title": "家電ポチ",
   "genres": [
     {
       "name": "Apple製品",
       "books": [
-        {
-          "title": "Apple Watch Ultra 3(GPS + Cellularモデル)- 49mmブラックチタニウムケースとブラックチタニウムミラネーゼループ - M",
-          "price": 116970,
-          "list_price": 159800,
-          "percent_off": 27,
-          "points": 1170,
-          "points_percent": 1,
-          "image": "https://m.media-amazon.com/images/I/51LjYRKOdOL._SL160_.jpg",
-          "url": "https://www.amazon.co.jp/dp/B0FQGY75PP?tag=natafull-22&linkCode=osi&th=1&psc=1"
-        },
         {
           "title": "Apple iPhone Air 256GB (SIMフリー)：史上最薄のiPhone、最大120HzのProMotionを採用した6.5インチディスプレイ、パワフルなA19 Proチップ、センターフレームフロントカメラ、一日中使えるバッテリー；スペースブラック",
           "price": 139800,
@@ -35,6 +25,16 @@
           "points_percent": 1,
           "image": "https://m.media-amazon.com/images/I/318ibisrl7L._SL160_.jpg",
           "url": "https://www.amazon.co.jp/dp/B0FQFQDN6K?tag=natafull-22&linkCode=osi&th=1&psc=1"
+        },
+        {
+          "title": "Apple Watch Series 11(GPSモデル)- 46mmジェットブラックアルミニウムケースとブラックスポーツバンド - M/L、睡眠時無呼吸、高血圧パターン、血中酸素、心電図、排卵推定、心拍数、服薬、マインドフルネス、ノイズ、睡眠スコア、転倒検出、IPX6X防塵、泳げる耐水、Suica対応、高速充電対応",
+          "price": 67800,
+          "list_price": 76800,
+          "percent_off": 12,
+          "points": 678,
+          "points_percent": 1,
+          "image": "https://m.media-amazon.com/images/I/41mUfdF4HaL._SL160_.jpg",
+          "url": "https://www.amazon.co.jp/dp/B0FQG2B81Z?tag=natafull-22&linkCode=osi&th=1&psc=1"
         }
       ]
     },
@@ -230,6 +230,16 @@
           "points_percent": 1,
           "image": "https://m.media-amazon.com/images/I/31Cwpj8S2oL._SL160_.jpg",
           "url": "https://www.amazon.co.jp/dp/B09QMCFQJL?tag=natafull-22&linkCode=osi&th=1&psc=1"
+        },
+        {
+          "title": "【Amazon.co.jp 限定】JBL TOUR PRO 3 ワイヤレスイヤホン bluetooth/ハイブリッドノイズキャンセリング/ハイレゾワイヤレスLDAC/デュアルドライバー/マルチポイント/防塵・防水/ワイヤレス充電対応/スマートタッチディスプレイ搭載/ネイビー /JBLTOURPRO3BLU",
+          "price": 26980,
+          "list_price": 36000,
+          "percent_off": 25,
+          "points": 270,
+          "points_percent": 1,
+          "image": "https://m.media-amazon.com/images/I/41M29ZC+gfL._SL160_.jpg",
+          "url": "https://www.amazon.co.jp/dp/B0FPQN7DBD?tag=natafull-22&linkCode=osi&th=1&psc=1"
         },
         {
           "title": "Nothing (ナッシング) ワイヤレスイヤホン Nothing Ear (a) :【VGP 2025 金賞】/ アクティブノイズキャンセリング/Bluetooth / 最大42.5時間再生 / ハイレゾ対応/外音取り込み/マイク付き/マルチポイント/iPhone & Android対応/完全ワイヤレス/ブラック",
@@ -577,14 +587,14 @@
           "url": "https://www.amazon.co.jp/dp/B0B1Q636K7?tag=natafull-22&linkCode=osi&th=1&psc=1"
         },
         {
-          "title": "【Amazon.co.jp限定】 Logicool G PRO ゲーミングキーボード G-PKB-002LNd テンキーレス リニア 赤軸 日本語配列",
-          "price": 10480,
-          "list_price": 14121,
-          "percent_off": 26,
-          "points": 105,
+          "title": "エレコム ワイヤレスキーボード Precisionist プレシジョニスト Bluetooth 無線2.4GHz マルチペアリング4台 充電式 薄型パンタグラフ式 ミニサイズ ブラック TK-PN1075MPABK",
+          "price": 5840,
+          "list_price": 7990,
+          "percent_off": 27,
+          "points": 58,
           "points_percent": 1,
-          "image": "https://m.media-amazon.com/images/I/41NeXmPoHmL._SL160_.jpg",
-          "url": "https://www.amazon.co.jp/dp/B0BC135WFD?tag=natafull-22&linkCode=osi&th=1&psc=1"
+          "image": "https://m.media-amazon.com/images/I/31oKhJN1ZzL._SL160_.jpg",
+          "url": "https://www.amazon.co.jp/dp/B0FL77NZXM?tag=natafull-22&linkCode=osi&th=1&psc=1"
         }
       ]
     }
