@@ -1,788 +1,823 @@
 {
+  "B0FQG1QPLW": {
+    "first_seen": "2026-07-30",
+    "last_seen": "2026-07-30",
+    "title": "Apple iPhone Air 256GB (SIMフリー)：史上最薄のiPhone、最大120HzのProMotionを採用した6.5インチディスプレイ、パワフルなA19 Proチップ、センターフレームフロントカメラ、一日中使えるバッテリー；スカイブルー"
+  },
+  "B0FQFQDN6K": {
+    "first_seen": "2026-07-29",
+    "last_seen": "2026-07-30",
+    "title": "Apple AirPods Pro 3 ワイヤレスイヤホン、アクティブノイズキャンセリング、ライブ翻訳、心拍センサー、補聴機能、Bluetoothヘッドホン、空間オーディオ サウンド、USB-C充電ケース、防塵性能と耐汗耐水性能、「探す」対応、Qi充電"
+  },
+  "B0FQG2B81Z": {
+    "first_seen": "2026-07-29",
+    "last_seen": "2026-07-30",
+    "title": "Apple Watch Series 11(GPSモデル)- 46mmジェットブラックアルミニウムケースとブラックスポーツバンド - M/L、睡眠時無呼吸、高血圧パターン、血中酸素、心電図、排卵推定、心拍数、服薬、マインドフルネス、ノイズ、睡眠スコア、転倒検出、IPX6X防塵、泳げる耐水、Suica対応、高速充電対応"
+  },
+  "B0D4Y52TDX": {
+    "first_seen": "2026-07-24",
+    "last_seen": "2026-07-30",
+    "title": "エレコム モバイルバッテリー 30W 10000mAh 残量表示 USB PD対応 3ポート Type-C×2 USB-A×1 ケーブル別売り ブラック EC-C23LBK"
+  },
+  "B0CL8S3WMX": {
+    "first_seen": "2026-07-27",
+    "last_seen": "2026-07-30",
+    "title": "Anker Power Bank (30W, Fusion, Built-In USB-C ケーブル) ブラック"
+  },
+  "B0DRC8DBL8": {
+    "first_seen": "2026-07-29",
+    "last_seen": "2026-07-30",
+    "title": "エレコム モバイルバッテリー 10000mAh 30W USB PD対応 Type-C 2ポート 充電ケーブル別売り ブラック EC-C42LBK"
+  },
+  "B0D53XSFR8": {
+    "first_seen": "2026-07-29",
+    "last_seen": "2026-07-30",
+    "title": "CIO モバイルバッテリー USB-Cケーブル内蔵 軽量 10000mAh SMARTCOBY Pro SLIM CABLE 35W (ブラック)"
+  },
+  "B0FQJ1LWCQ": {
+    "first_seen": "2026-07-29",
+    "last_seen": "2026-07-30",
+    "title": "CIO SMARTCOBY SLIM 5K 薄型 モバイルバッテリー Qi2 ワイヤレス 5000mAh PD20W (シルバー, セーフティモデル)"
+  },
+  "B0BJQ7F16T": {
+    "first_seen": "2026-07-29",
+    "last_seen": "2026-07-30",
+    "title": "UGREEN 145W モバイルバッテリー 25000mAh大容量 3ポート USB-C×2 USB-A×1 240W ケーブル付"
+  },
+  "B0CHVZHLZ1": {
+    "first_seen": "2026-07-29",
+    "last_seen": "2026-07-30",
+    "title": "CIO モバイルバッテリー PD USB-C×2 USB-A×1 10000mAh SMARTCOBY Pro SLIM 35W (ブラック)"
+  },
+  "B0CG8Q3LMR": {
+    "first_seen": "2026-07-24",
+    "last_seen": "2026-07-30",
+    "title": "エレコム モバイルバッテリー 20000mAh 大容量 20W 2ポート Type-C USB-A USB PD対応 【 iPhone 16 15 14 iPad 各種対応】 ブラック EC-C07BK"
+  },
+  "B0DT4RGDSJ": {
+    "first_seen": "2026-07-27",
+    "last_seen": "2026-07-30",
+    "title": "Anker Power Bank (25000mAh, Built-In & 巻取り式USB-Cケーブル) ブラック"
+  },
+  "B0CX4C1TVK": {
+    "first_seen": "2026-07-27",
+    "last_seen": "2026-07-30",
+    "title": "Anker Power Bank (10000mAh, Fusion, Built-In USB-C ケーブル) ブラック"
+  },
+  "B0F6NFHB31": {
+    "first_seen": "2026-07-25",
+    "last_seen": "2026-07-30",
+    "title": "UGREEN Air モバイルバッテリー マグネット式ワイヤレス充電 超薄型 MagSafe対応 5000mAh PB580 ダークグレー"
+  },
+  "B0F37QVBNM": {
+    "first_seen": "2026-07-24",
+    "last_seen": "2026-07-30",
+    "title": "UGREEN MagFlow Qi2 25W認証 モバイルバッテリー Magsafe対応 マグネット式ワイヤレス急速充電 20000mAh ブラック"
+  },
+  "B0FS5XT48F": {
+    "first_seen": "2026-07-29",
+    "last_seen": "2026-07-30",
+    "title": "Anker Zolo Power Bank (20000mAh, 45W, Built-In USB-Cケーブル) ブラック"
+  },
+  "B0C3GTMX5M": {
+    "first_seen": "2026-07-24",
+    "last_seen": "2026-07-30",
+    "title": "UGREEN 100W モバイルバッテリー 20000mAh 大容量 3ポート USB-C×2 USB-A×1 65W"
+  },
+  "B08HC8PL5K": {
+    "first_seen": "2026-07-29",
+    "last_seen": "2026-07-30",
+    "title": "Anker PowerCore Fusion 10000"
+  },
+  "B08HCVG4FB": {
+    "first_seen": "2026-07-29",
+    "last_seen": "2026-07-30",
+    "title": "Anker PowerCore Fusion 10000"
+  },
+  "B0DM1G9TSY": {
+    "first_seen": "2026-07-24",
+    "last_seen": "2026-07-30",
+    "title": "エレコム モバイルバッテリー 20000mAh 15W リチウムイオン電池 USB-C USB-A 合計3ポート ブラック EC-C39BK"
+  },
+  "B0CHVXW6FV": {
+    "first_seen": "2026-07-29",
+    "last_seen": "2026-07-30",
+    "title": "CIO モバイルバッテリー 20W PD急速充電 5000mAh USB-C×2 薄型12mm SMARTCOBY SLIM (ブラック)"
+  },
+  "B0CXHNGDC1": {
+    "first_seen": "2026-07-24",
+    "last_seen": "2026-07-30",
+    "title": "UGREEN 130W モバイルバッテリー 20000mAh 大容量 USB-C*2 USB-A*1 3ポート"
+  },
+  "B0D4F34SB4": {
+    "first_seen": "2026-07-24",
+    "last_seen": "2026-07-30",
+    "title": "UGREEN 145W 4-in-1モバイルバッテリー 20000mAh 15Wマグネット式ワイヤレス充電対応 3ポート"
+  },
+  "B0DB17C63X": {
+    "first_seen": "2026-07-29",
+    "last_seen": "2026-07-30",
+    "title": "Anker MagGo Power Bank (10000mAh, Slim) ブラック"
+  },
+  "B0CCJFY2V4": {
+    "first_seen": "2026-07-29",
+    "last_seen": "2026-07-30",
+    "title": "Anker Nano Power Bank (22.5W, Built-In USB-C Connector) ブラック"
+  },
+  "B0GPDBS299": {
+    "first_seen": "2026-07-29",
+    "last_seen": "2026-07-30",
+    "title": "エレコム 半固体電池 モバイルバッテリー 10000mAh PD35W Type-C USB-A 燃えにくい 安全設計 長寿命 2000回サイクル 3台同時充電 残量表示 軽量220g PSE認証 機内持ち込み可 iPhone対応 ミッドナイト EC-C61MN"
+  },
+  "B0DRFQNPDQ": {
+    "first_seen": "2026-07-29",
+    "last_seen": "2026-07-30",
+    "title": "Anker Zolo Power Bank (20000mAh, 30W, Built-In USB-Cケーブル) ブラック"
+  },
+  "B0GW8FDRJ2": {
+    "first_seen": "2026-07-29",
+    "last_seen": "2026-07-30",
+    "title": "エレコム モバイルバッテリー 半固体電池 小型 軽量 薄型 5000mAh USB-C PD対応 20W 急速充電 ケーブル一体型 2台同時充電 長寿命 パススルー充電 PSE認証 iPhone対応 ミッドナイトブルー EC-C58MN"
+  },
+  "B0GW8QBDL6": {
+    "first_seen": "2026-07-29",
+    "last_seen": "2026-07-30",
+    "title": "エレコム モバイルバッテリー 半固体電池 大容量 軽量 10000mAh USB-C PD対応 30W 急速充電 ケーブル一体型 2台同時充電 長寿命 パススルー充電 残量表示 PSE認証 iPhone対応 ミッドナイトブルー EC-C59MN"
+  },
+  "B0DZ1TGX6T": {
+    "first_seen": "2026-07-24",
+    "last_seen": "2026-07-30",
+    "title": "UGREEN Zapix【小型・軽量／10000mAh／USB－C＆USB－A／PD20W／2台同時充電】モバイルバッテリー 灰色 PB507"
+  },
+  "B0CSSRD4NT": {
+    "first_seen": "2026-07-24",
+    "last_seen": "2026-07-30",
+    "title": "UGREEN Zapix【20000mAh／PD20W／USB-A×2＆USB-C×1／3台同時充電】モバイルバッテリー ブラック PB312"
+  },
+  "B0FTZ46NF8": {
+    "first_seen": "2026-07-29",
+    "last_seen": "2026-07-30",
+    "title": "CIO SMARTCOBY Ex04 Wireless2.2 CABLE SS5K 半固体モバイルバッテリー Qi2.2 5000mAh (ブラック)"
+  },
+  "B0GMWY26HF": {
+    "first_seen": "2026-07-29",
+    "last_seen": "2026-07-30",
+    "title": "CIO SMARTCOBY SLIMⅡ Wireless2.2 Pro SS10K 半固体モバイルバッテリー Qi2.2 10000mAh(シルバー)"
+  },
+  "B0H32FF1Y9": {
+    "first_seen": "2026-07-29",
+    "last_seen": "2026-07-30",
+    "title": "CIO モバイルバッテリー 半固体 ワイヤレス充電 10000mAh SMARTCOBY SLIMⅡ Wireless2.2 SS10K (シルバー)"
+  },
+  "B099JMBCP1": {
+    "first_seen": "2026-07-24",
+    "last_seen": "2026-07-30",
+    "title": "エレコム モバイルバッテリー 10000mAh 大容量 マグネット ( USB PD対応 ) Type-C×1 / USB-A×1 【 iPhone12 / iPhone13 シリーズ推奨 】 PSE認証 ブラック EC-C02BK"
+  },
+  "B0GMX4WKYG": {
+    "first_seen": "2026-07-25",
+    "last_seen": "2026-07-30",
+    "title": "CIO SMARTCOBY Pro SLIM SS モバイルバッテリー 半固体 35W USB-C×2 USB-A×1 10000mAh (ブラック)"
+  },
+  "B0FTZ63967": {
+    "first_seen": "2026-07-29",
+    "last_seen": "2026-07-30",
+    "title": "CIO SMARTCOBY Ex05 Wireless2.2 Pro CABLE SS10K 半固体モバイルバッテリー 10000mAh (ブラック)"
+  },
+  "B0FTZ1X6NC": {
+    "first_seen": "2026-07-29",
+    "last_seen": "2026-07-30",
+    "title": "CIO SMARTCOBY SLIM Ⅱ Wireless 2.0 SS5K 半固体モバイルバッテリー ワイヤレス充電 5000mAh (シルバー)"
+  },
+  "B0B1PW59FS": {
+    "first_seen": "2026-07-29",
+    "last_seen": "2026-07-30",
+    "title": "エレコム モバイルバッテリー 軽量 小型 薄型 5000mAh 12W (2.4A) 2台同時充電 急速充電 出力2ポート(Type-C +USB-A) 入力(Type-C) 【 iPhone SE3 / 13 / 12 / iPad/Android 各種対応】 ブラック EC-C04BK"
+  },
+  "B07SQ1LBYK": {
+    "first_seen": "2026-07-27",
+    "last_seen": "2026-07-30",
+    "title": "サンワサプライ カーチャージャー(1ポート・2.4A) スマホ・タブレット対応 CAR-CHR73U"
+  },
+  "B0D53Z4WX3": {
+    "first_seen": "2026-07-29",
+    "last_seen": "2026-07-30",
+    "title": "CIO NovaPort TRIOⅡ 65W 3C PD急速充電器 USB-C×3 3台同時充電 軽量 世界最小級 (ブラック)"
+  },
+  "B0D53VJJ7F": {
+    "first_seen": "2026-07-28",
+    "last_seen": "2026-07-30",
+    "title": "CIO NovaPort TRIOⅡ 65W 2C1A PD急速充電器 USB-C×2+USB-A×1 3台同時充電 世界最小級（ブラック）"
+  },
+  "B0F99FCSX7": {
+    "first_seen": "2026-07-27",
+    "last_seen": "2026-07-30",
+    "title": "Anker Nano Charger (70W, 3 Ports) ブラック"
+  },
+  "B0F9FHXPDF": {
+    "first_seen": "2026-07-27",
+    "last_seen": "2026-07-30",
+    "title": "UGREEN 100W PD 急速充電器 USB-C×4/USB-A×1 タッチモニター搭載 PSE認証済"
+  },
+  "B0CLGZGXMD": {
+    "first_seen": "2026-07-27",
+    "last_seen": "2026-07-30",
+    "title": "UGREEN Nexode【当社比最小】65W PD充電器 USB-C*2+USB-A*1 急速充電器 PSE適合 PD/PPS/QC4+対応"
+  },
+  "B091BGMKYS": {
+    "first_seen": "2026-07-27",
+    "last_seen": "2026-07-30",
+    "title": "UGREEN Nexode急速充電器 65W Type-C 2C1A 3ポート PD/PPS/QC3.0/SCP/FCP対応 折り畳み式"
+  },
+  "B0BF43HS1G": {
+    "first_seen": "2026-07-27",
+    "last_seen": "2026-07-30",
+    "title": "Anker 523 Charger (Nano 3, 47W) ホワイト"
+  },
+  "B0C5CBV6L3": {
+    "first_seen": "2026-07-29",
+    "last_seen": "2026-07-30",
+    "title": "Anker Prime Wall Charger (67W, 3 ports, GaN) (ブラック)"
+  },
+  "B0D53VKL36": {
+    "first_seen": "2026-07-29",
+    "last_seen": "2026-07-30",
+    "title": "CIO NovaPort DUOⅡ 65W PD急速充電器 USB-C×2 2台同時充電 世界最小級（ブラック）"
+  },
+  "B0DG93MZCR": {
+    "first_seen": "2026-07-27",
+    "last_seen": "2026-07-30",
+    "title": "UGREEN PD充電器 type-c 30W 2*USB-C+1*USB-A GaN PSE適合/PD3.0"
+  },
+  "B0FJS3P8NT": {
+    "first_seen": "2026-07-27",
+    "last_seen": "2026-07-30",
+    "title": "UGREEN 45W USB-C*4+USB-A*1 急速充電器 Type-C PD GaNⅡ充電器 PSE適合タイプc充電器 PD3.0/PPS/SCP/QC3.0"
+  },
+  "B0DNT9Z2HS": {
+    "first_seen": "2026-07-27",
+    "last_seen": "2026-07-30",
+    "title": "UGREEN 100W GaN 卓上急速充電器 (4*USB-C+2*USB-A) コンパクト【PSE技術基準適合/PD3.0/QC4.0/PPS対応】 複数台同時充電 iPhone17/16/15/14/13/Xperia/Pixel Pro/iPad/ノートPC MacBook Pro/Airなどに対応"
+  },
+  "B0FYFDD1WW": {
+    "first_seen": "2026-07-29",
+    "last_seen": "2026-07-30",
+    "title": "UGREEN 160W 5口充電器 カラーディスプレイ搭載 Type-C 4C1A 5ポート PD3.0/PPS/QC4対応 折り畳み式"
+  },
+  "B0D3GG4M9N": {
+    "first_seen": "2026-07-29",
+    "last_seen": "2026-07-30",
+    "title": "Prime Charger (200W, 6 Ports, GaN)"
+  },
+  "B099ZNTRL5": {
+    "first_seen": "2026-07-29",
+    "last_seen": "2026-07-30",
+    "title": "Anker Nano Charger (20W) ホワイト"
+  },
+  "B0BZHZ56M9": {
+    "first_seen": "2026-07-27",
+    "last_seen": "2026-07-30",
+    "title": "UGREEN Uno 30W PD 充電器 ロボット型 USB-C充電器 PSE適合 PD/PPS/QC4+対応"
+  },
+  "B0D8RSX6W2": {
+    "first_seen": "2026-07-29",
+    "last_seen": "2026-07-30",
+    "title": "Anker MagGo Wireless Charger (Stand) ブラック"
+  },
+  "B0FWJK8GV9": {
+    "first_seen": "2026-07-29",
+    "last_seen": "2026-07-30",
+    "title": "Anker Zolo Charger (50W, 4 Ports) ブラック"
+  },
+  "B06ZXXQGZ8": {
+    "first_seen": "2026-07-29",
+    "last_seen": "2026-07-30",
+    "title": "Anker PowerPort 2 Elite (USB充電器 24W 2ポート)"
+  },
+  "B0GF26RSYQ": {
+    "first_seen": "2026-07-27",
+    "last_seen": "2026-07-30",
+    "title": "Anker Nano Charger (45W, Display, スイングプラグ) ブラック"
+  },
+  "B0F43RNTYH": {
+    "first_seen": "2026-07-29",
+    "last_seen": "2026-07-30",
+    "title": "エレコム 充電器 100W 3ポート Type-C USB PD対応 スイング式プラグ採用 ブラック EC-AC113100BK"
+  },
+  "B0F3CJRF4Y": {
+    "first_seen": "2026-07-29",
+    "last_seen": "2026-07-30",
+    "title": "エレコム 充電器 45W 2ポート Type-C USB PD対応 PPS対応 GaN II採用 折りたたみ式プラグ ホワイト EC-AC10945WH"
+  },
+  "B0H329XGNF": {
+    "first_seen": "2026-07-29",
+    "last_seen": "2026-07-30",
+    "title": "CIO NovaPort SLIM DUOⅡ 65W2C PD急速充電器 USB-C×2 180°スイングプラグ 薄型12.5mm（ブラック）"
+  },
+  "B0CZND25TV": {
+    "first_seen": "2026-07-29",
+    "last_seen": "2026-07-30",
+    "title": "エレコム 充電器 Type-C USB-C 20W USB PD対応 1ポート PSE認証品 GaN採用 折りたたみ式プラグ ブラック 【 iPhone16 15 等対応】 EC-AC6820BK"
+  },
+  "B0CZN9XSDM": {
+    "first_seen": "2026-07-29",
+    "last_seen": "2026-07-30",
+    "title": "エレコム 充電器 Type-C USB-C 20W USB PD対応 1ポート PSE認証品 GaN採用 折りたたみ式プラグ ホワイト 【 iPhone16 15 等対応】 EC-AC6820WH"
+  },
+  "B07781CS6H": {
+    "first_seen": "2026-07-29",
+    "last_seen": "2026-07-30",
+    "title": "エレコム カーチャージャー シガーソケット 24W (1ポート最大12W) USB-A ×2 【 iPhone 13 / 12 / SE (第2世代) / Android 対応 】 ブラック EC-DC03BK"
+  },
+  "B0CTJDLWV4": {
+    "first_seen": "2026-07-29",
+    "last_seen": "2026-07-30",
+    "title": "エレコム 充電器 65W USB PD対応 小型 Type-C 1ポート PPS対応 GaN II採用 PSE認証 ブラック 【iPhone 16 15 iPad Macbook 等対応】 EC-AC8565BK"
+  },
+  "B0GW7WT5SQ": {
+    "first_seen": "2026-07-24",
+    "last_seen": "2026-07-30",
+    "title": "ソニー ゲーミングイヤホン INZONE Buds:WF-G700N Fnatic監修/ワイヤレス / 低遅延2.4GHzワイヤレス接続 USBType-Cトランシーバー同梱/LE Audio対応/アクティブノイズキャンセリング/立体音響 / 最大約24時間バッテリー / 急速充電/マイク付き / PS5 スマホ PC Switch グラスパープル"
+  },
+  "B09QMCFQJL": {
+    "first_seen": "2026-07-27",
+    "last_seen": "2026-07-30",
+    "title": "オーディオテクニカ ATH-M20xBT ワイヤレスヘッドホン Bluetooth 有線対応 ヘッドフォン 40mmCCAWボイスコイルドライバー 216gの軽量ボディ マルチポイント 低遅延モード 最大60時間再生 ハンズフリー通話 【国内正規品】 ブラック"
+  },
+  "B0FPQN7DBD": {
+    "first_seen": "2026-07-29",
+    "last_seen": "2026-07-30",
+    "title": "【Amazon.co.jp 限定】JBL TOUR PRO 3 ワイヤレスイヤホン bluetooth/ハイブリッドノイズキャンセリング/ハイレゾワイヤレスLDAC/デュアルドライバー/マルチポイント/防塵・防水/ワイヤレス充電対応/スマートタッチディスプレイ搭載/ネイビー /JBLTOURPRO3BLU"
+  },
+  "B0CXPR5412": {
+    "first_seen": "2026-07-29",
+    "last_seen": "2026-07-30",
+    "title": "Nothing (ナッシング) ワイヤレスイヤホン Nothing Ear (a) :【VGP 2025 金賞】/ アクティブノイズキャンセリング/Bluetooth / 最大42.5時間再生 / ハイレゾ対応/外音取り込み/マイク付き/マルチポイント/iPhone & Android対応/完全ワイヤレス/ブラック"
+  },
+  "B0FRSCXWSV": {
+    "first_seen": "2026-07-29",
+    "last_seen": "2026-07-30",
+    "title": "Xiaomi シャオミ REDMI Buds 8 Lite ワイヤレスイヤホン Bluetooth イヤホン 5.4 ノイズキャンセリング 12.4mmドライバー 最大36時間再生 マルチポイント接続 急速充電 小型軽量 専用アプリ対応 カスタムEQ iPhone/Android対応 ブラック"
+  },
+  "B0FSC49TFV": {
+    "first_seen": "2026-07-30",
+    "last_seen": "2026-07-30",
+    "title": "cheero Wireless Open Earphones Smart イヤーカフ型ワイヤレスイヤホン CHE-645-GO"
+  },
+  "B0DK4FPB82": {
+    "first_seen": "2026-07-24",
+    "last_seen": "2026-07-30",
+    "title": "JVCケンウッド Victor HA-NP1T-A ワイヤレスイヤホン Bluetooth Ver.5.3 オープンイヤー イヤーカフ アプリ対応 マルチポイント 合計24時間再生 マイク付き 小型 軽量 防水 音アクセ ティールブルー"
+  },
+  "B0G4CC1S2F": {
+    "first_seen": "2026-07-24",
+    "last_seen": "2026-07-30",
+    "title": "アイリスオーヤマ フライヤー 過熱水蒸気 ノンオイルフライヤー FV-M30A-C アイボリー"
+  },
+  "B09HB4B15V": {
+    "first_seen": "2026-07-24",
+    "last_seen": "2026-07-30",
+    "title": "COSORI コソリ ノンフライヤー 4.7L 大容量 家庭用 エアフライヤー 最高温230℃ 揚げ物 タイマー グレー CAF-L501-KJP"
+  },
+  "B0FMR9YY83": {
+    "first_seen": "2026-07-27",
+    "last_seen": "2026-07-30",
+    "title": "ECOVACS (エコバックス) DEEBOT N30 PLUS 吸引力10,000Pa ロボット掃除機 水拭き両用 サイクロン式 お掃除ロボット"
+  },
+  "B0DRVB4DVC": {
+    "first_seen": "2026-07-29",
+    "last_seen": "2026-07-30",
+    "title": "ECOVACS(エコバックス) 超薄全能型 DEEBOT T50 OMNI ロボット掃除機 15000Pa強力吸引 電動デュアルモップ 水拭き 両用"
+  },
+  "B0GVNN41P1": {
+    "first_seen": "2026-07-29",
+    "last_seen": "2026-07-30",
+    "title": "dreame(ドリーミー) F20ロボット掃除機 20,000 Paの吸引力 2-in-1 吸引・水拭き両用 二重構造の絡まり防止機能 カーペットクリーニング機能 壁際から部屋の隅までしっかり掃除 スマートナヒ ゲーション機能 Wi-Fi対応 音声コントロール対応 アプリコントロール お掃除ロボット ホワイト F20"
+  },
+  "B0H44Y871S": {
+    "first_seen": "2026-07-24",
+    "last_seen": "2026-07-30",
+    "title": "dreame (ドリーミー) Aqua10s Roller AEロボット掃除機 水拭き両用 ローラーモップ 浄水水拭き 35,000Pa強力吸引 100 日間自動ゴミ収集 100°C 熱湯モップ洗浄 温風乾燥 障害物回避 絡まり防止 お掃除ロボット カーペット ペット 掃除機 ドリーミー"
+  },
+  "B0GHQBSQ3C": {
+    "first_seen": "2026-07-28",
+    "last_seen": "2026-07-30",
+    "title": "ECOVACS(エコバックス) DEEBOT T90 PRO OMNI ローラー式強力モップ ロボット掃除機 30,000Pa強力吸引 水拭き 両用"
+  },
+  "B0DW8MPL2P": {
+    "first_seen": "2026-07-24",
+    "last_seen": "2026-07-30",
+    "title": "Narwal (ナーワル) Freo Z10 ロボット掃除機 吸引・水拭き両用 可動式モップ"
+  },
+  "B0GRFN53XB": {
+    "first_seen": "2026-07-26",
+    "last_seen": "2026-07-30",
+    "title": "dreame (ドリーミー) L10s Ultra Gen3 ロボット掃除機 吸引・水拭き両用 25,000 Pa強力吸引 伸縮式のサイドブラシとモップ 100日分の自動ゴミ収集 AceClean DryBoardとモップの自動洗浄 温風乾燥 自動給水 10.5mmのモップリフトアップ 障害物回避 音声とアプリでコントロール お掃除ロボット"
+  },
+  "B0F1FCM99S": {
+    "first_seen": "2026-07-24",
+    "last_seen": "2026-07-30",
+    "title": "ルンバ(Roomba)205 DustCompactor Combo ロボット (ロボット掃除機) アイロボット(iRobot)【水拭き/両用/ゴミ圧縮機能付きダスト容器/日本の住宅向けに開発/LiDARナビゲーション/パワーリフト吸引/スマートスクラブ対応/マッピング 掃除経路確認/アプリ操作/落下防止/Amazon.co.jp購入時12ヶ月保証/L121060】ブラック"
+  },
+  "B0D8PHF6JX": {
+    "first_seen": "2026-07-24",
+    "last_seen": "2026-07-30",
+    "title": "dreame (ドリーミー) D9 Max Gen2 ロボット掃除機 6000Pa強力吸引 水拭き対応 570 ml の大型ダストボックス 高精度LDSレーザーセンサー 高精度複数階マッピング機能 昼夜を問わず賢く掃除 静音設計 Google Home Alexa Siri対応"
+  },
+  "B0F6NRWF9V": {
+    "first_seen": "2026-07-25",
+    "last_seen": "2026-07-30",
+    "title": "roborock Q7B+ ブラック ロボロック ロボット掃除機 小型 お掃除ロボット 水拭き 両用 自動ゴミ収集 150分 8,000Pa 強力吸引 マッピング 強力吸引 自動充電 アプリ操作 高精度レーザーセンサー 正規品 Q7BP52-04"
+  },
+  "B09XB5LJGJ": {
+    "first_seen": "2026-07-29",
+    "last_seen": "2026-07-30",
+    "title": "ECOVACS(エコバックス) DEEBOT クリーナー ロボット掃除機用 消耗品 専用洗浄剤（1L）T50 OMNI/T80 OMNI/X11"
+  },
+  "B0F9KCJ493": {
+    "first_seen": "2026-07-24",
+    "last_seen": "2026-07-30",
+    "title": "roborock(ロボロック) Q10V+ ロボット掃除機 水拭き 両用 自動ゴミ収集 障害物回避 お掃除ロボット【Qシリーズ高総合力モデル】"
+  },
+  "B0B59452FZ": {
+    "first_seen": "2026-07-25",
+    "last_seen": "2026-07-30",
+    "title": "dreame D10Plus ロボット掃除機 自動ゴミ収集 水拭き対応 4000Pa強力吸引 高精度LDSレーザーセンサー 高精度複数階マッピング機能 170分間連続稼働 Wi-Fi接続 Alexa対応 APP遠隔操作 自動充電 静音設計 遠隔操作 落下防止 衝突防止"
+  },
+  "B0F6NGXD99": {
+    "first_seen": "2026-07-24",
+    "last_seen": "2026-07-30",
+    "title": "roborock Qrevo L ロボット掃除機 水拭き 両用 自動ゴミ収集 180分 10000Pa 障害物回避 LDSマッピング アプリ操作 自動充電 高精度レーザーセンサー 【2025年6月発売】正規品"
+  },
+  "B0F7GGN94D": {
+    "first_seen": "2026-07-28",
+    "last_seen": "2026-07-30",
+    "title": "【2025進化】 SwitchBot ロボット掃除機 K11+ 超小型 - 高精度マッピング 6000pa強力吸引 水拭き 使い捨て掃除シート30枚付き 禁止エリア 静音設計 遠隔操作 自動充電 落下防止 2.4GWi-Fi対応 Alexa Google Home IFTTT Siriに対応"
+  },
+  "B0DRVC5SL4": {
+    "first_seen": "2026-07-27",
+    "last_seen": "2026-07-30",
+    "title": "ECOVACS(エコバックス) WINBOT MINI 窓掃除 窓拭きロボット ロボット掃除機 自動清掃 窓用 ガラスクリーナー 強力吸引 落下防止"
+  },
+  "B0GY85CQ2N": {
+    "first_seen": "2026-07-29",
+    "last_seen": "2026-07-30",
+    "title": "【26年6月モデル】roborock ロボロック Saros20 ロボット掃除機 黒 36000Pa 超薄型 水拭き 両用 自動ゴミ収集 8way全自動ドック"
+  },
+  "B0GXB2RZ9Y": {
+    "first_seen": "2026-07-25",
+    "last_seen": "2026-07-30",
+    "title": "roborock (ロボロック) Qrevo Curv 2 Flow ロボット掃除機 水拭き両用 モップ自動洗浄 【26年革新モップカバー搭載】"
+  },
+  "B0H3THZTWT": {
+    "first_seen": "2026-07-24",
+    "last_seen": "2026-07-30",
+    "title": "【セット買い】roborock (ロボロック) Qrevo L Pro ロボット掃除機 & 交換品モップクロス(4枚) & サイドブラシ(2個) & ゴミ収集用紙パック (3枚) セット"
+  },
+  "B0GXB5HWWD": {
+    "first_seen": "2026-07-24",
+    "last_seen": "2026-07-30",
+    "title": "roborock (ロボロック) Qrevo L Pro ロボット掃除機 水拭き両用 モップ温水洗浄 全自動お掃除ロボット【26年モデル・初心者向け】"
+  },
+  "B0BP21W3XX": {
+    "first_seen": "2026-07-24",
+    "last_seen": "2026-07-30",
+    "title": "ECOVACS(エコバックス) WINBOT ロボット掃除機用 消耗品 専用洗浄剤（1L）WINBOT MINI/WINBOT MINI2"
+  },
+  "B0GRZCF29T": {
+    "first_seen": "2026-07-28",
+    "last_seen": "2026-07-30",
+    "title": "Dyson(ダイソン) Dyson Spot+Scrub Ai (RB05 AM) ロボット掃除機"
+  },
+  "B0DSJB2627": {
+    "first_seen": "2026-07-28",
+    "last_seen": "2026-07-30",
+    "title": "ブラウン 電気シェーバー シリーズ9 SPORT 電動 髭剃り メンズ 9360cc 【Amazon.co.jp 限定】6in1アルコール洗浄システム付 シェーバーケース付 ブラック"
+  },
+  "B0CBPDCQLF": {
+    "first_seen": "2026-07-26",
+    "last_seen": "2026-07-30",
+    "title": "ブラウン 電気シェーバー シリーズ8 洗浄機付き 電動 髭剃り メンズ 【Amazon.co.jp 限定】 8560cc 5 in 1 100％防水設計 4+1 カットシステム 進化したキワぞり刃 夕方ヒゲ、ゼロへ 電動シェーバー 【最新2023年秋モデル】"
+  },
+  "B093BS81XP": {
+    "first_seen": "2026-07-26",
+    "last_seen": "2026-07-30",
+    "title": "【正規品】パナソニック 替刃 メンズシェーバー用 5枚刃 外刃 ES9181"
+  },
+  "B0CTQ1XFRL": {
+    "first_seen": "2026-07-26",
+    "last_seen": "2026-07-30",
+    "title": "ブラウン 電気シェーバー シリーズ5 電動 髭剃り メンズ 【Amazon.co.jp限定】 52-M1200s ミント キワゾリトリマー 防水設計 充電式 コードレス ディープキャッチ網刃 トラベルケース"
+  },
+  "B093BTR4Q4": {
+    "first_seen": "2026-07-26",
+    "last_seen": "2026-07-30",
+    "title": "【正規品】パナソニック 替刃 メンズシェーバー用 5枚刃 セット刃 ES9040"
+  },
+  "B07V9QVGNX": {
+    "first_seen": "2026-07-26",
+    "last_seen": "2026-07-30",
+    "title": "【正規品】パナソニック 替刃 メンズシェーバー用 セット刃 ES9038"
+  },
+  "B0FXW7VK2X": {
+    "first_seen": "2026-07-26",
+    "last_seen": "2026-07-30",
+    "title": "コイズミ メンズシェーバー"
+  },
+  "B0CBPDJQFL": {
+    "first_seen": "2026-07-28",
+    "last_seen": "2026-07-30",
+    "title": "ブラウン 電気シェーバー シリーズ9 PRO+ 電動 髭剃り メンズ 9555cc シェーバー本体 5 in 1 洗浄機付きモデル 【Amazon.co.jp 限定】防水設計 5+1 カットシステム 進化したキワぞり刃 極限0.05mm カット あご下まで夕方ヒゲ、ゼロへ 電動シェーバー 【最新2023年秋モデル】"
+  },
+  "B0FXW8RZ4P": {
+    "first_seen": "2026-07-26",
+    "last_seen": "2026-07-30",
+    "title": "コイズミ メンズシェーバー シームレス"
+  },
+  "B001MBV4W4": {
+    "first_seen": "2026-07-26",
+    "last_seen": "2026-07-30",
+    "title": "パナソニック メンズシェーバー スーパーレザー ES3832P-S"
+  },
+  "B0C8SBYXPQ": {
+    "first_seen": "2026-07-26",
+    "last_seen": "2026-07-30",
+    "title": "パナソニック ラムダッシュ パームインシェーバー メンズシェーバー コンパクト ベーシックタイプ 5枚刃 マットブラック ES-PV3A-K"
+  },
+  "B0FV2NJ2MJ": {
+    "first_seen": "2026-07-30",
+    "last_seen": "2026-07-30",
+    "title": "【なめらかに深剃り】フィリップス 電動シェーバー i9000シリーズ 電動 髭剃り メンズ 収納ケース付属 X9002/05 ダークグレイ"
+  },
+  "B0BSFHF9JQ": {
+    "first_seen": "2026-07-30",
+    "last_seen": "2026-07-30",
+    "title": "【やさしく剃れる】フィリップス 電動シェーバー 5000Xシリーズ 電動 髭剃り メンズ X5007/00 ブラック"
+  },
+  "B0F87SC5R6": {
+    "first_seen": "2026-07-29",
+    "last_seen": "2026-07-30",
+    "title": "【なめらかに深剃り】フィリップス 電動シェーバー i9000 プレステージ 電動 髭剃り メンズ XP9205/05 シルバーメタリック"
+  },
+  "B0FGHXK5T4": {
+    "first_seen": "2026-07-28",
+    "last_seen": "2026-07-30",
+    "title": "パナソニック ラムダッシュPRO 電気シェーバー 5枚刃 【Amazon.co.jp限定】 お風呂剃り可 黒 ES-NLV5X-K"
+  },
+  "B0CY4LX65R": {
+    "first_seen": "2026-07-28",
+    "last_seen": "2026-07-30",
+    "title": "【乾電池式】パナソニック 鼻毛カッター エチケットカッター メンズ 眉毛 ヒゲ 水洗い 父の日 ER-NGNH1-K 【Amazon.co.jp限定】"
+  },
+  "B0DB48CFG7": {
+    "first_seen": "2026-07-26",
+    "last_seen": "2026-07-30",
+    "title": "ブラウン 電動歯ブラシ オーラルB【電動初心者の決定版】iO2 iOS21D90BK ブラック 防水 歯科医推奨No.1ブランド【Amazon.co.jp 限定】"
+  },
+  "B0CX11ZTQT": {
+    "first_seen": "2026-07-26",
+    "last_seen": "2026-07-30",
+    "title": "ブラウン 電動歯ブラシ オーラルB 【プレミアムモデル】iO7 歯科クリーニングのような磨き上がり トラベルケース+ 替えブラシ3本付き iOM7.3V2.2K BK 防水 歯科医推奨No.1ブランド【Amazon.co.jp 限定】"
+  },
+  "B0DBKF4NV4": {
+    "first_seen": "2026-07-26",
+    "last_seen": "2026-07-30",
+    "title": "パナソニック 音波振動ハブラシ ドルツ 電動歯ブラシ USB充電 EW-DA18-W 白"
+  },
+  "B0D28N991R": {
+    "first_seen": "2026-07-30",
+    "last_seen": "2026-07-30",
+    "title": "【ワンランク上の白さへ】フィリップス 電動歯ブラシ ソニッケアー ダイヤモンドクリーン9000 HX9911/71"
+  },
+  "B0FMKL5DQP": {
+    "first_seen": "2026-07-30",
+    "last_seen": "2026-07-30",
+    "title": "【しっかり磨き上げる】フィリップス 電動歯ブラシ ソニッケアー 5300 HX7108/09 ホワイト"
+  },
+  "B0DB4GH421": {
+    "first_seen": "2026-07-26",
+    "last_seen": "2026-07-30",
+    "title": "ブラウン 電動歯ブラシ オーラルB 【電動初心者の決定版】iO2 iOS21C90PK 防水 歯科医推奨No.1ブランド【Amazon.co.jp 限定】"
+  },
+  "B07PJW2X2F": {
+    "first_seen": "2026-07-26",
+    "last_seen": "2026-07-30",
+    "title": "エレコム ワイヤレスキーボード メンブレン 薄型 フルキーボード テンキー ブラック TK-FDM110TXBK"
+  },
+  "B0D9Y1J4NH": {
+    "first_seen": "2026-07-28",
+    "last_seen": "2026-07-30",
+    "title": "【Amazon.co.jp限定】 ロジクール 静音 ワイヤレス トラックボール マウス 無線 M575SPd 国内正規品"
+  },
+  "B0956X785M": {
+    "first_seen": "2026-07-28",
+    "last_seen": "2026-07-30",
+    "title": "【Amazon.co.jp限定】 ロジクール ワイヤレスマウス 無線 マウス M185CG M185 グレー 国内正規品"
+  },
+  "B0D9VVL9DY": {
+    "first_seen": "2026-07-28",
+    "last_seen": "2026-07-30",
+    "title": "【Amazon.co.jp限定】 Logicool G PRO X TKL RAPID ゲーミングキーボード"
+  },
+  "B0B1Q636K7": {
+    "first_seen": "2026-07-26",
+    "last_seen": "2026-07-30",
+    "title": "ロジクール KX850FT MX MECHANICAL ワイヤレス メカニカル パフォーマンス キーボード 茶軸 タクタイル テンキー 静かな打鍵感 特に静か Logi Bolt bluetooth Unifying非対応 薄型 無線 メカニカルキーボード windows mac chrome Android ワイヤレスキーボード KX850 国内正規品 グラファイト"
+  },
+  "B0FL77NZXM": {
+    "first_seen": "2026-07-29",
+    "last_seen": "2026-07-30",
+    "title": "エレコム ワイヤレスキーボード Precisionist プレシジョニスト Bluetooth 無線2.4GHz マルチペアリング4台 充電式 薄型パンタグラフ式 ミニサイズ ブラック TK-PN1075MPABK"
+  },
+  "B0BC135WFD": {
+    "first_seen": "2026-07-28",
+    "last_seen": "2026-07-30",
+    "title": "【Amazon.co.jp限定】 Logicool G PRO ゲーミングキーボード G-PKB-002LNd テンキーレス リニア 赤軸 日本語配列"
+  },
+  "B0DRJK17XF": {
+    "first_seen": "2026-07-29",
+    "last_seen": "2026-07-30",
+    "title": "REALFORCE リアルフォース ラピッドトリガー キーボード GX1 ホワイト 静音 30ｇ TKLサイズ 静電容量無接点方式 最速0.1mm作動 Windows 英語配列 日本製 ゲーミングキーボード 87キー X1UD23"
+  },
+  "B0FJRCJ1SN": {
+    "first_seen": "2026-07-26",
+    "last_seen": "2026-07-30",
+    "title": "【リニューアル】 エレコム ワイヤレスマウス 静音 充電式 OSMOD Six Bluetooth 無線2.4GHz両対応 2台まで接続 マルチペアリング 6ボタン ブラック M-MY35MBSABK"
+  },
+  "B0F1FD99K8": {
+    "first_seen": "2026-07-29",
+    "last_seen": "2026-07-30",
+    "title": "ラピッドトリガー 搭載 Razer レイザー Huntsman V3 Pro Mini JP (White Edition) ラピッドトリガーと調整可能なアクチュエーション搭載のアナログ ゲーミングキーボード アナログオプティカルスイッチ 調整可能なアクチュエーション 押下圧 40G 日本語配列 ハンツマン ブイスリー プロ ミニ ジェイピー ホワイト エディション【日本正規代理店保証品】"
+  },
+  "B0BWDSC5ZB": {
+    "first_seen": "2026-07-28",
+    "last_seen": "2026-07-30",
+    "title": "【Amazon.co.jp限定】 ロジクール ワイヤレスキーボード 無線 MX KEYS mini KX700GRd 日本語配列 国内正規品"
+  },
+  "B0FL6ZD3WL": {
+    "first_seen": "2026-07-29",
+    "last_seen": "2026-07-30",
+    "title": "エレコム ワイヤレスキーボード Precisionist プレシジョニスト Bluetooth 無線2.4GHz マルチペアリング4台 充電式 薄型パンタグラフ式 フルサイズ ブラック TK-PN10FMPABK"
+  },
+  "B08GP2H88M": {
+    "first_seen": "2026-07-28",
+    "last_seen": "2026-07-30",
+    "title": "ロジクール ワイヤレスマウス 無線 高速スクロール 7ボタン マウス Unifying SEB-M705 ブラック 国内正規品"
+  },
+  "B0DCJZH3QH": {
+    "first_seen": "2026-07-29",
+    "last_seen": "2026-07-30",
+    "title": "【国内正規品】Keychron B1 Pro ウルトラスリム ワイヤレスキーボード、ZMKカスタマイズ、シザースイッチ、2.4 GHz/Bluetooth 5.2/有線接続、ロングバッテリーライフ、Mac Windows Linux対応 (スペースグレー, USレイアウト)"
+  },
+  "B0DCJXV7DB": {
+    "first_seen": "2026-07-29",
+    "last_seen": "2026-07-30",
+    "title": "【国内正規品】Keychron B6 Pro ウルトラスリム ワイヤレスキーボード、フルサイズ、テンキー付、ZMKカスタマイズ、シザースイッチ、2.4 GHz/Bluetooth 5.2/有線接続、ロングバッテリーライフ、Mac Windows Linux対応 (スペースグレー, USレイアウト)"
+  },
+  "B0D9Y1SNQT": {
+    "first_seen": "2026-07-28",
+    "last_seen": "2026-07-30",
+    "title": "【Amazon.co.jp限定】 ロジクール 静音 ワイヤレス トラックボール マウス MX ERGO S MXTB2d 無線 グラファイト"
+  },
+  "B088P8QYWN": {
+    "first_seen": "2026-07-29",
+    "last_seen": "2026-07-30",
+    "title": "エレコム マウス ワイヤレス Mサイズ 5ボタン(戻る・進むボタン搭載) BlueLED 握りの極み ガンメタリック M-XGM10DBBK/EC"
+  },
+  "B0B1Q5T5TQ": {
+    "first_seen": "2026-07-29",
+    "last_seen": "2026-07-30",
+    "title": "ロジクール KX850CT MX MECHANICAL MINI ミニマリスト ワイヤレス メカニカル パフォーマンス キーボード 茶軸 タクタイル テンキーレス 静かな打鍵感 特に静か Logi Bolt bluetooth Unifying非対応 薄型 無線 メカニカルキーボード windows mac chrome Android ワイヤレスキーボード KX850 国内正規品 グラファイト"
+  },
+  "B07DVC25R2": {
+    "first_seen": "2026-07-26",
+    "last_seen": "2026-07-30",
+    "title": "Logicool G ゲーミングマウス G304 LIGHTSPEED ワイヤレス ゲーミング マウス 軽量 99g HERO 12Kセンサー 6個プログラムボタン 250時間連続使用可能 ブラック PC windows mac 国内正規品 【 ファイナルファンタジー XIV 推奨モデル 】"
+  },
+  "B0BKPL1VKW": {
+    "first_seen": "2026-07-26",
+    "last_seen": "2026-07-30",
+    "title": "ロジクール ワイヤレスマウス 静音 無線 高速スクロール Signature M750MGR レギュラー グラファイト M750 国内正規品"
+  },
+  "B0CJR8Y56J": {
+    "first_seen": "2026-07-26",
+    "last_seen": "2026-07-30",
+    "title": "ロジクール ワイヤレスキーボード PEBBLE KEYS 2 K380sGR 薄型 軽量 415g 小型 Bluetooth Logi Bolt ワイヤレス 無線 キーボード Easy-Switch 日本語配列 電池寿命36ケ月 Windows Mac iPad iOS Android Chrome K380s グラファイト 国内正規品"
+  },
+  "B0D9VVJ967": {
+    "first_seen": "2026-07-28",
+    "last_seen": "2026-07-30",
+    "title": "【Amazon.co.jp限定】 Logicool G PRO 2 LIGHTSPEED ゲーミングマウス G-PPD-002XWL-BKd"
+  },
+  "B0BKP2XWY5": {
+    "first_seen": "2026-07-28",
+    "last_seen": "2026-07-30",
+    "title": "【Amazon.co.jp限定】 ロジクールワイヤレスマウス 静音 無線 Signature M550MBKs レギュラー ブラック 国内正規品"
+  },
+  "B0D21S5SPG": {
+    "first_seen": "2026-07-28",
+    "last_seen": "2026-07-30",
+    "title": "【Amazon.co.jp限定】 ロジクール 静音 ワイヤレスマウス 無線 Silent Bluetooth M240GRd グラファイト 国内正規品"
+  },
+  "B0B2ZT2HRJ": {
+    "first_seen": "2026-07-26",
+    "last_seen": "2026-07-30",
+    "title": "ロジクール SIGNATURE K855GR 無線 メカニカルキーボード TTC製 赤軸 リニア Bluetooth Logi Bolt Unifying非対応 コンパクト 日本語配列 小型 テンキーレス メカニカル ワイヤレス キーボード グラファイト windows mac Chrome Android K855 国内正規品"
+  },
+  "B0GL26M6Z2": {
+    "first_seen": "2026-07-29",
+    "last_seen": "2026-07-30",
+    "title": "エレコム ワイヤレスキーボード 静音 フルサイズ テンキー付 無線2.4GHz Windows macOS ChromeOS メンブレン式 ブラック TK-QT11FDMABK"
+  },
+  "B0FR8LPP2K": {
+    "first_seen": "2026-07-28",
+    "last_seen": "2026-07-30",
+    "title": "【Amazon.co.jp限定】 ロジクール MX MASTER 4 アドバンスド ワイヤレス マウス 触覚フィードバック 静音 MX2400GRd"
+  },
+  "B08K2RGTHY": {
+    "first_seen": "2026-07-26",
+    "last_seen": "2026-07-30",
+    "title": "ロジクール ワイヤレスマウス キーボード セット MK295GP 静音 耐水 無線 USB接続 Unifying非対応 MK295 グラファイト 国内正規品"
+  },
+  "B08TMK8GSC": {
+    "first_seen": "2026-07-29",
+    "last_seen": "2026-07-30",
+    "title": "エレコム ワイヤレスキーボード Bluetooth フルキーボード テンキー付 薄型 メンブレン 抗菌 最大3台マルチペアリング対応 iPad/Surface/テンキー付 ブラック TK-FBM120KBK/EC"
+  },
+  "B0CZKNNNXJ": {
+    "first_seen": "2026-07-29",
+    "last_seen": "2026-07-30",
+    "title": "エレコム ワイヤレス トラックボールマウス Bluetooth IST (アイエスティー) シリーズ 5ボタン 親指操作 ベアリング支持 Windows Mac Chromebook ブラック 2 M-IT11BRABK"
+  },
+  "B0FGCDSH1J": {
+    "first_seen": "2026-07-28",
+    "last_seen": "2026-07-30",
+    "title": "【Amazon.co.jp限定】Logicool G ラピッドトリガー G515 RAPID ゲーミングキーボード G515-TKL-RTBKd"
+  },
+  "B0CZ8X3DH8": {
+    "first_seen": "2026-07-26",
+    "last_seen": "2026-07-30",
+    "title": "ロジクール SIGNATURE SLIM ワイヤレス キーボード K950GR 薄型 静かなタイピング Bluetooth Logi Bolt ワイヤレスキーボード テンキー 無線 Easy-Switch 日本語配列 電池寿命36ケ月 Windows Mac Chrome Android K950 グラファイト 国内正規品"
+  },
+  "B0FDQL8KNL": {
+    "first_seen": "2026-07-29",
+    "last_seen": "2026-07-30",
+    "title": "【Amazon.co.jp限定】 ロジクール Bluetooth ワイヤレスキーボード 無線 K250GRd 日本語配列 グラファイト 国内正規品"
+  },
+  "B0FDQKRJJ3": {
+    "first_seen": "2026-07-29",
+    "last_seen": "2026-07-30",
+    "title": "【Amazon.co.jp限定】 ロジクール Bluetooth ワイヤレスマウス キーボード セット MK250GRd 日本語配列 国内正規品"
+  },
+  "B0C65MQZ65": {
+    "first_seen": "2026-07-26",
+    "last_seen": "2026-07-30",
+    "title": "ロジクール MX ANYWHERE 3S MX1800GR 静音 マウス Bluetooth Logi Bolt Unifying非対応 コンパクト Smart Actions 対応 高速スクロールホイール 充電式 ワイヤレスマウス 無線 Windows Mac Chrome iPad OS Android MX1800 グラファイト 国内正規品"
+  },
+  "B0CZ9HWVTC": {
+    "first_seen": "2026-07-29",
+    "last_seen": "2026-07-30",
+    "title": "エレコム ワイヤレスキーボード コンパクト テンキー付 パンタグラフ式 薄型 ブラック TK-FDP099TBK/EC"
+  },
+  "B09Q5SHDR3": {
+    "first_seen": "2026-07-26",
+    "last_seen": "2026-07-30",
+    "title": "ロジクール ワイヤレスマウス 静音 無線 高速スクロール Signature M650MGR レギュラー グラファイト M650 国内正規品"
+  },
+  "B08LMK3L5C": {
+    "first_seen": "2026-07-29",
+    "last_seen": "2026-07-30",
+    "title": "エレコム ワイヤレスマウス Bluetooth Slint 薄型 静音 4ボタン プレゼンモード機能付 Windows Mac Android iOS iPadOS FireOS対応 ブラック M-TM10BBBK/EC"
+  },
+  "B07MC7LLTR": {
+    "first_seen": "2026-07-29",
+    "last_seen": "2026-07-30",
+    "title": "R2TLA-US4G-BK Realforce RGB TKL 有線キーボード 英語配列 87キーレ"
+  },
+  "B0GL1G8PQZ": {
+    "first_seen": "2026-07-29",
+    "last_seen": "2026-07-30",
+    "title": "東プレ REALFORCE GX1 Plus νガンダム (ニューガンダム) 日本語配列 ゲーミングキーボード X1PCN1 KB0937"
+  },
+  "B0C2YK1CS6": {
+    "first_seen": "2026-07-26",
+    "last_seen": "2026-07-30",
+    "title": "ロジクール 静音 ワイヤレスマウス M240GR Silent Bluetooth マウス グラファイト 無線 ワイヤレス 小型 左右対称 logi bolt windows mac iPad OS Chrome Android M240 国内正規品"
+  },
+  "B0H58QH3R1": {
+    "first_seen": "2026-07-29",
+    "last_seen": "2026-07-30",
+    "title": "【整備済み品】 REALFORCE R3S キーボード 有線 テンキーレス 45g 日本語配列 ブラック R3SC11"
+  },
   "B0FQFLWSWZ": {
     "first_seen": "2026-07-29",
     "last_seen": "2026-07-29",
     "title": "Apple iPhone Air 256GB (SIMフリー)：史上最薄のiPhone、最大120HzのProMotionを採用した6.5インチディスプレイ、パワフルなA19 Proチップ、センターフレームフロントカメラ、一日中使えるバッテリー；スペースブラック"
   },
-  "B0FQFQDN6K": {
-    "first_seen": "2026-07-29",
-    "last_seen": "2026-07-29",
-    "title": "Apple AirPods Pro 3 ワイヤレスイヤホン、アクティブノイズキャンセリング、ライブ翻訳、心拍センサー、補聴機能、Bluetoothヘッドホン、空間オーディオ サウンド、USB-C充電ケース、防塵性能と耐汗耐水性能、「探す」対応、Qi充電"
-  },
-  "B0FQG2B81Z": {
-    "first_seen": "2026-07-29",
-    "last_seen": "2026-07-29",
-    "title": "Apple Watch Series 11(GPSモデル)- 46mmジェットブラックアルミニウムケースとブラックスポーツバンド - M/L、睡眠時無呼吸、高血圧パターン、血中酸素、心電図、排卵推定、心拍数、服薬、マインドフルネス、ノイズ、睡眠スコア、転倒検出、IPX6X防塵、泳げる耐水、Suica対応、高速充電対応"
-  },
-  "B0D4Y52TDX": {
-    "first_seen": "2026-07-24",
-    "last_seen": "2026-07-29",
-    "title": "エレコム モバイルバッテリー 30W 10000mAh 残量表示 USB PD対応 3ポート Type-C×2 USB-A×1 ケーブル別売り ブラック EC-C23LBK"
-  },
-  "B0CL8S3WMX": {
-    "first_seen": "2026-07-27",
-    "last_seen": "2026-07-29",
-    "title": "Anker Power Bank (30W, Fusion, Built-In USB-C ケーブル) ブラック"
-  },
-  "B0DRC8DBL8": {
-    "first_seen": "2026-07-29",
-    "last_seen": "2026-07-29",
-    "title": "エレコム モバイルバッテリー 10000mAh 30W USB PD対応 Type-C 2ポート 充電ケーブル別売り ブラック EC-C42LBK"
-  },
-  "B0D53XSFR8": {
-    "first_seen": "2026-07-29",
-    "last_seen": "2026-07-29",
-    "title": "CIO モバイルバッテリー USB-Cケーブル内蔵 軽量 10000mAh SMARTCOBY Pro SLIM CABLE 35W (ブラック)"
-  },
-  "B0FQJ1LWCQ": {
-    "first_seen": "2026-07-29",
-    "last_seen": "2026-07-29",
-    "title": "CIO SMARTCOBY SLIM 5K 薄型 モバイルバッテリー Qi2 ワイヤレス 5000mAh PD20W (シルバー, セーフティモデル)"
-  },
-  "B0BJQ7F16T": {
-    "first_seen": "2026-07-29",
-    "last_seen": "2026-07-29",
-    "title": "UGREEN 145W モバイルバッテリー 25000mAh大容量 3ポート USB-C×2 USB-A×1 240W ケーブル付"
-  },
-  "B0CHVZHLZ1": {
-    "first_seen": "2026-07-29",
-    "last_seen": "2026-07-29",
-    "title": "CIO モバイルバッテリー PD USB-C×2 USB-A×1 10000mAh SMARTCOBY Pro SLIM 35W (ブラック)"
-  },
-  "B0CG8Q3LMR": {
-    "first_seen": "2026-07-24",
-    "last_seen": "2026-07-29",
-    "title": "エレコム モバイルバッテリー 20000mAh 大容量 20W 2ポート Type-C USB-A USB PD対応 【 iPhone 16 15 14 iPad 各種対応】 ブラック EC-C07BK"
-  },
-  "B0DT4RGDSJ": {
-    "first_seen": "2026-07-27",
-    "last_seen": "2026-07-29",
-    "title": "Anker Power Bank (25000mAh, Built-In & 巻取り式USB-Cケーブル) ブラック"
-  },
-  "B0CX4C1TVK": {
-    "first_seen": "2026-07-27",
-    "last_seen": "2026-07-29",
-    "title": "Anker Power Bank (10000mAh, Fusion, Built-In USB-C ケーブル) ブラック"
-  },
-  "B0F6NFHB31": {
-    "first_seen": "2026-07-25",
-    "last_seen": "2026-07-29",
-    "title": "UGREEN Air モバイルバッテリー マグネット式ワイヤレス充電 超薄型 MagSafe対応 5000mAh PB580 ダークグレー"
-  },
-  "B0F37QVBNM": {
-    "first_seen": "2026-07-24",
-    "last_seen": "2026-07-29",
-    "title": "UGREEN MagFlow Qi2 25W認証 モバイルバッテリー Magsafe対応 マグネット式ワイヤレス急速充電 20000mAh ブラック"
-  },
-  "B0FS5XT48F": {
-    "first_seen": "2026-07-29",
-    "last_seen": "2026-07-29",
-    "title": "Anker Zolo Power Bank (20000mAh, 45W, Built-In USB-Cケーブル) ブラック"
-  },
-  "B0C3GTMX5M": {
-    "first_seen": "2026-07-24",
-    "last_seen": "2026-07-29",
-    "title": "UGREEN 100W モバイルバッテリー 20000mAh 大容量 3ポート USB-C×2 USB-A×1 65W"
-  },
-  "B08HC8PL5K": {
-    "first_seen": "2026-07-29",
-    "last_seen": "2026-07-29",
-    "title": "Anker PowerCore Fusion 10000"
-  },
-  "B08HCVG4FB": {
-    "first_seen": "2026-07-29",
-    "last_seen": "2026-07-29",
-    "title": "Anker PowerCore Fusion 10000"
-  },
-  "B0DM1G9TSY": {
-    "first_seen": "2026-07-24",
-    "last_seen": "2026-07-29",
-    "title": "エレコム モバイルバッテリー 20000mAh 15W リチウムイオン電池 USB-C USB-A 合計3ポート ブラック EC-C39BK"
-  },
-  "B0CHVXW6FV": {
-    "first_seen": "2026-07-29",
-    "last_seen": "2026-07-29",
-    "title": "CIO モバイルバッテリー 20W PD急速充電 5000mAh USB-C×2 薄型12mm SMARTCOBY SLIM (ブラック)"
-  },
-  "B0CXHNGDC1": {
-    "first_seen": "2026-07-24",
-    "last_seen": "2026-07-29",
-    "title": "UGREEN 130W モバイルバッテリー 20000mAh 大容量 USB-C*2 USB-A*1 3ポート"
-  },
-  "B0D4F34SB4": {
-    "first_seen": "2026-07-24",
-    "last_seen": "2026-07-29",
-    "title": "UGREEN 145W 4-in-1モバイルバッテリー 20000mAh 15Wマグネット式ワイヤレス充電対応 3ポート"
-  },
-  "B0DB17C63X": {
-    "first_seen": "2026-07-29",
-    "last_seen": "2026-07-29",
-    "title": "Anker MagGo Power Bank (10000mAh, Slim) ブラック"
-  },
-  "B0CCJFY2V4": {
-    "first_seen": "2026-07-29",
-    "last_seen": "2026-07-29",
-    "title": "Anker Nano Power Bank (22.5W, Built-In USB-C Connector) ブラック"
-  },
-  "B0GPDBS299": {
-    "first_seen": "2026-07-29",
-    "last_seen": "2026-07-29",
-    "title": "エレコム 半固体電池 モバイルバッテリー 10000mAh PD35W Type-C USB-A 燃えにくい 安全設計 長寿命 2000回サイクル 3台同時充電 残量表示 軽量220g PSE認証 機内持ち込み可 iPhone対応 ミッドナイト EC-C61MN"
-  },
-  "B0DRFQNPDQ": {
-    "first_seen": "2026-07-29",
-    "last_seen": "2026-07-29",
-    "title": "Anker Zolo Power Bank (20000mAh, 30W, Built-In USB-Cケーブル) ブラック"
-  },
-  "B0GW8FDRJ2": {
-    "first_seen": "2026-07-29",
-    "last_seen": "2026-07-29",
-    "title": "エレコム モバイルバッテリー 半固体電池 小型 軽量 薄型 5000mAh USB-C PD対応 20W 急速充電 ケーブル一体型 2台同時充電 長寿命 パススルー充電 PSE認証 iPhone対応 ミッドナイトブルー EC-C58MN"
-  },
-  "B0GW8QBDL6": {
-    "first_seen": "2026-07-29",
-    "last_seen": "2026-07-29",
-    "title": "エレコム モバイルバッテリー 半固体電池 大容量 軽量 10000mAh USB-C PD対応 30W 急速充電 ケーブル一体型 2台同時充電 長寿命 パススルー充電 残量表示 PSE認証 iPhone対応 ミッドナイトブルー EC-C59MN"
-  },
-  "B0DZ1TGX6T": {
-    "first_seen": "2026-07-24",
-    "last_seen": "2026-07-29",
-    "title": "UGREEN Zapix【小型・軽量／10000mAh／USB－C＆USB－A／PD20W／2台同時充電】モバイルバッテリー 灰色 PB507"
-  },
-  "B0CSSRD4NT": {
-    "first_seen": "2026-07-24",
-    "last_seen": "2026-07-29",
-    "title": "UGREEN Zapix【20000mAh／PD20W／USB-A×2＆USB-C×1／3台同時充電】モバイルバッテリー ブラック PB312"
-  },
-  "B0FTZ46NF8": {
-    "first_seen": "2026-07-29",
-    "last_seen": "2026-07-29",
-    "title": "CIO SMARTCOBY Ex04 Wireless2.2 CABLE SS5K 半固体モバイルバッテリー Qi2.2 5000mAh (ブラック)"
-  },
-  "B0GMWY26HF": {
-    "first_seen": "2026-07-29",
-    "last_seen": "2026-07-29",
-    "title": "CIO SMARTCOBY SLIMⅡ Wireless2.2 Pro SS10K 半固体モバイルバッテリー Qi2.2 10000mAh(シルバー)"
-  },
-  "B0H32FF1Y9": {
-    "first_seen": "2026-07-29",
-    "last_seen": "2026-07-29",
-    "title": "CIO モバイルバッテリー 半固体 ワイヤレス充電 10000mAh SMARTCOBY SLIMⅡ Wireless2.2 SS10K (シルバー)"
-  },
-  "B099JMBCP1": {
-    "first_seen": "2026-07-24",
-    "last_seen": "2026-07-29",
-    "title": "エレコム モバイルバッテリー 10000mAh 大容量 マグネット ( USB PD対応 ) Type-C×1 / USB-A×1 【 iPhone12 / iPhone13 シリーズ推奨 】 PSE認証 ブラック EC-C02BK"
-  },
-  "B0GMX4WKYG": {
-    "first_seen": "2026-07-25",
-    "last_seen": "2026-07-29",
-    "title": "CIO SMARTCOBY Pro SLIM SS モバイルバッテリー 半固体 35W USB-C×2 USB-A×1 10000mAh (ブラック)"
-  },
-  "B0FTZ63967": {
-    "first_seen": "2026-07-29",
-    "last_seen": "2026-07-29",
-    "title": "CIO SMARTCOBY Ex05 Wireless2.2 Pro CABLE SS10K 半固体モバイルバッテリー 10000mAh (ブラック)"
-  },
-  "B0FTZ1X6NC": {
-    "first_seen": "2026-07-29",
-    "last_seen": "2026-07-29",
-    "title": "CIO SMARTCOBY SLIM Ⅱ Wireless 2.0 SS5K 半固体モバイルバッテリー ワイヤレス充電 5000mAh (シルバー)"
-  },
-  "B0B1PW59FS": {
-    "first_seen": "2026-07-29",
-    "last_seen": "2026-07-29",
-    "title": "エレコム モバイルバッテリー 軽量 小型 薄型 5000mAh 12W (2.4A) 2台同時充電 急速充電 出力2ポート(Type-C +USB-A) 入力(Type-C) 【 iPhone SE3 / 13 / 12 / iPad/Android 各種対応】 ブラック EC-C04BK"
-  },
-  "B07SQ1LBYK": {
-    "first_seen": "2026-07-27",
-    "last_seen": "2026-07-29",
-    "title": "サンワサプライ カーチャージャー(1ポート・2.4A) スマホ・タブレット対応 CAR-CHR73U"
-  },
-  "B0D53Z4WX3": {
-    "first_seen": "2026-07-29",
-    "last_seen": "2026-07-29",
-    "title": "CIO NovaPort TRIOⅡ 65W 3C PD急速充電器 USB-C×3 3台同時充電 軽量 世界最小級 (ブラック)"
-  },
-  "B0D53VJJ7F": {
-    "first_seen": "2026-07-28",
-    "last_seen": "2026-07-29",
-    "title": "CIO NovaPort TRIOⅡ 65W 2C1A PD急速充電器 USB-C×2+USB-A×1 3台同時充電 世界最小級（ブラック）"
-  },
-  "B0F99FCSX7": {
-    "first_seen": "2026-07-27",
-    "last_seen": "2026-07-29",
-    "title": "Anker Nano Charger (70W, 3 Ports) ブラック"
-  },
-  "B0F9FHXPDF": {
-    "first_seen": "2026-07-27",
-    "last_seen": "2026-07-29",
-    "title": "UGREEN 100W PD 急速充電器 USB-C×4/USB-A×1 タッチモニター搭載 PSE認証済"
-  },
-  "B0CLGZGXMD": {
-    "first_seen": "2026-07-27",
-    "last_seen": "2026-07-29",
-    "title": "UGREEN Nexode【当社比最小】65W PD充電器 USB-C*2+USB-A*1 急速充電器 PSE適合 PD/PPS/QC4+対応"
-  },
-  "B091BGMKYS": {
-    "first_seen": "2026-07-27",
-    "last_seen": "2026-07-29",
-    "title": "UGREEN Nexode急速充電器 65W Type-C 2C1A 3ポート PD/PPS/QC3.0/SCP/FCP対応 折り畳み式"
-  },
-  "B0BF43HS1G": {
-    "first_seen": "2026-07-27",
-    "last_seen": "2026-07-29",
-    "title": "Anker 523 Charger (Nano 3, 47W) ホワイト"
-  },
-  "B0C5CBV6L3": {
-    "first_seen": "2026-07-29",
-    "last_seen": "2026-07-29",
-    "title": "Anker Prime Wall Charger (67W, 3 ports, GaN) (ブラック)"
-  },
-  "B0D53VKL36": {
-    "first_seen": "2026-07-29",
-    "last_seen": "2026-07-29",
-    "title": "CIO NovaPort DUOⅡ 65W PD急速充電器 USB-C×2 2台同時充電 世界最小級（ブラック）"
-  },
-  "B0DG93MZCR": {
-    "first_seen": "2026-07-27",
-    "last_seen": "2026-07-29",
-    "title": "UGREEN PD充電器 type-c 30W 2*USB-C+1*USB-A GaN PSE適合/PD3.0"
-  },
-  "B0FJS3P8NT": {
-    "first_seen": "2026-07-27",
-    "last_seen": "2026-07-29",
-    "title": "UGREEN 45W USB-C*4+USB-A*1 急速充電器 Type-C PD GaNⅡ充電器 PSE適合タイプc充電器 PD3.0/PPS/SCP/QC3.0"
-  },
-  "B0DNT9Z2HS": {
-    "first_seen": "2026-07-27",
-    "last_seen": "2026-07-29",
-    "title": "UGREEN 100W GaN 卓上急速充電器 (4*USB-C+2*USB-A) コンパクト【PSE技術基準適合/PD3.0/QC4.0/PPS対応】 複数台同時充電 iPhone17/16/15/14/13/Xperia/Pixel Pro/iPad/ノートPC MacBook Pro/Airなどに対応"
-  },
-  "B0FYFDD1WW": {
-    "first_seen": "2026-07-29",
-    "last_seen": "2026-07-29",
-    "title": "UGREEN 160W 5口充電器 カラーディスプレイ搭載 Type-C 4C1A 5ポート PD3.0/PPS/QC4対応 折り畳み式"
-  },
-  "B0D3GG4M9N": {
-    "first_seen": "2026-07-29",
-    "last_seen": "2026-07-29",
-    "title": "Prime Charger (200W, 6 Ports, GaN)"
-  },
-  "B099ZNTRL5": {
-    "first_seen": "2026-07-29",
-    "last_seen": "2026-07-29",
-    "title": "Anker Nano Charger (20W) ホワイト"
-  },
-  "B0BZHZ56M9": {
-    "first_seen": "2026-07-27",
-    "last_seen": "2026-07-29",
-    "title": "UGREEN Uno 30W PD 充電器 ロボット型 USB-C充電器 PSE適合 PD/PPS/QC4+対応"
-  },
-  "B0D8RSX6W2": {
-    "first_seen": "2026-07-29",
-    "last_seen": "2026-07-29",
-    "title": "Anker MagGo Wireless Charger (Stand) ブラック"
-  },
-  "B0FWJK8GV9": {
-    "first_seen": "2026-07-29",
-    "last_seen": "2026-07-29",
-    "title": "Anker Zolo Charger (50W, 4 Ports) ブラック"
-  },
-  "B06ZXXQGZ8": {
-    "first_seen": "2026-07-29",
-    "last_seen": "2026-07-29",
-    "title": "Anker PowerPort 2 Elite (USB充電器 24W 2ポート)"
-  },
-  "B0GF26RSYQ": {
-    "first_seen": "2026-07-27",
-    "last_seen": "2026-07-29",
-    "title": "Anker Nano Charger (45W, Display, スイングプラグ) ブラック"
-  },
-  "B0F43RNTYH": {
-    "first_seen": "2026-07-29",
-    "last_seen": "2026-07-29",
-    "title": "エレコム 充電器 100W 3ポート Type-C USB PD対応 スイング式プラグ採用 ブラック EC-AC113100BK"
-  },
-  "B0F3CJRF4Y": {
-    "first_seen": "2026-07-29",
-    "last_seen": "2026-07-29",
-    "title": "エレコム 充電器 45W 2ポート Type-C USB PD対応 PPS対応 GaN II採用 折りたたみ式プラグ ホワイト EC-AC10945WH"
-  },
-  "B0H329XGNF": {
-    "first_seen": "2026-07-29",
-    "last_seen": "2026-07-29",
-    "title": "CIO NovaPort SLIM DUOⅡ 65W2C PD急速充電器 USB-C×2 180°スイングプラグ 薄型12.5mm（ブラック）"
-  },
-  "B0CZND25TV": {
-    "first_seen": "2026-07-29",
-    "last_seen": "2026-07-29",
-    "title": "エレコム 充電器 Type-C USB-C 20W USB PD対応 1ポート PSE認証品 GaN採用 折りたたみ式プラグ ブラック 【 iPhone16 15 等対応】 EC-AC6820BK"
-  },
-  "B0CZN9XSDM": {
-    "first_seen": "2026-07-29",
-    "last_seen": "2026-07-29",
-    "title": "エレコム 充電器 Type-C USB-C 20W USB PD対応 1ポート PSE認証品 GaN採用 折りたたみ式プラグ ホワイト 【 iPhone16 15 等対応】 EC-AC6820WH"
-  },
-  "B07781CS6H": {
-    "first_seen": "2026-07-29",
-    "last_seen": "2026-07-29",
-    "title": "エレコム カーチャージャー シガーソケット 24W (1ポート最大12W) USB-A ×2 【 iPhone 13 / 12 / SE (第2世代) / Android 対応 】 ブラック EC-DC03BK"
-  },
-  "B0CTJDLWV4": {
-    "first_seen": "2026-07-29",
-    "last_seen": "2026-07-29",
-    "title": "エレコム 充電器 65W USB PD対応 小型 Type-C 1ポート PPS対応 GaN II採用 PSE認証 ブラック 【iPhone 16 15 iPad Macbook 等対応】 EC-AC8565BK"
-  },
-  "B0GW7WT5SQ": {
-    "first_seen": "2026-07-24",
-    "last_seen": "2026-07-29",
-    "title": "ソニー ゲーミングイヤホン INZONE Buds:WF-G700N Fnatic監修/ワイヤレス / 低遅延2.4GHzワイヤレス接続 USBType-Cトランシーバー同梱/LE Audio対応/アクティブノイズキャンセリング/立体音響 / 最大約24時間バッテリー / 急速充電/マイク付き / PS5 スマホ PC Switch グラスパープル"
-  },
-  "B09QMCFQJL": {
-    "first_seen": "2026-07-27",
-    "last_seen": "2026-07-29",
-    "title": "オーディオテクニカ ATH-M20xBT ワイヤレスヘッドホン Bluetooth 有線対応 ヘッドフォン 40mmCCAWボイスコイルドライバー 216gの軽量ボディ マルチポイント 低遅延モード 最大60時間再生 ハンズフリー通話 【国内正規品】 ブラック"
-  },
-  "B0FPQN7DBD": {
-    "first_seen": "2026-07-29",
-    "last_seen": "2026-07-29",
-    "title": "【Amazon.co.jp 限定】JBL TOUR PRO 3 ワイヤレスイヤホン bluetooth/ハイブリッドノイズキャンセリング/ハイレゾワイヤレスLDAC/デュアルドライバー/マルチポイント/防塵・防水/ワイヤレス充電対応/スマートタッチディスプレイ搭載/ネイビー /JBLTOURPRO3BLU"
-  },
-  "B0CXPR5412": {
-    "first_seen": "2026-07-29",
-    "last_seen": "2026-07-29",
-    "title": "Nothing (ナッシング) ワイヤレスイヤホン Nothing Ear (a) :【VGP 2025 金賞】/ アクティブノイズキャンセリング/Bluetooth / 最大42.5時間再生 / ハイレゾ対応/外音取り込み/マイク付き/マルチポイント/iPhone & Android対応/完全ワイヤレス/ブラック"
-  },
-  "B0FRSCXWSV": {
-    "first_seen": "2026-07-29",
-    "last_seen": "2026-07-29",
-    "title": "Xiaomi シャオミ REDMI Buds 8 Lite ワイヤレスイヤホン Bluetooth イヤホン 5.4 ノイズキャンセリング 12.4mmドライバー 最大36時間再生 マルチポイント接続 急速充電 小型軽量 専用アプリ対応 カスタムEQ iPhone/Android対応 ブラック"
-  },
-  "B0DK4FPB82": {
-    "first_seen": "2026-07-24",
-    "last_seen": "2026-07-29",
-    "title": "JVCケンウッド Victor HA-NP1T-A ワイヤレスイヤホン Bluetooth Ver.5.3 オープンイヤー イヤーカフ アプリ対応 マルチポイント 合計24時間再生 マイク付き 小型 軽量 防水 音アクセ ティールブルー"
-  },
-  "B0G4CC1S2F": {
-    "first_seen": "2026-07-24",
-    "last_seen": "2026-07-29",
-    "title": "アイリスオーヤマ フライヤー 過熱水蒸気 ノンオイルフライヤー FV-M30A-C アイボリー"
-  },
-  "B09HB4B15V": {
-    "first_seen": "2026-07-24",
-    "last_seen": "2026-07-29",
-    "title": "COSORI コソリ ノンフライヤー 4.7L 大容量 家庭用 エアフライヤー 最高温230℃ 揚げ物 タイマー グレー CAF-L501-KJP"
-  },
-  "B0FMR9YY83": {
-    "first_seen": "2026-07-27",
-    "last_seen": "2026-07-29",
-    "title": "ECOVACS (エコバックス) DEEBOT N30 PLUS 吸引力10,000Pa ロボット掃除機 水拭き両用 サイクロン式 お掃除ロボット"
-  },
-  "B0DRVB4DVC": {
-    "first_seen": "2026-07-29",
-    "last_seen": "2026-07-29",
-    "title": "ECOVACS(エコバックス) 超薄全能型 DEEBOT T50 OMNI ロボット掃除機 15000Pa強力吸引 電動デュアルモップ 水拭き 両用"
-  },
   "B0GVNN41NZ": {
     "first_seen": "2026-07-24",
     "last_seen": "2026-07-29",
     "title": "dreameF20 Plusロボット掃除機 20,000 Pa 強力吸引 自動ゴミ収集ドック 水拭き両用 絡まり防止ブラシ カーペットディープクリーニング スマートナビゲーション搭載 水拭き両用ロボット掃除機"
-  },
-  "B0H44Y871S": {
-    "first_seen": "2026-07-24",
-    "last_seen": "2026-07-29",
-    "title": "dreame (ドリーミー) Aqua10s Roller AEロボット掃除機 水拭き両用 ローラーモップ 浄水水拭き 35,000Pa強力吸引 100 日間自動ゴミ収集 100°C 熱湯モップ洗浄 温風乾燥 障害物回避 絡まり防止 お掃除ロボット カーペット ペット 掃除機 ドリーミー"
-  },
-  "B0GHQBSQ3C": {
-    "first_seen": "2026-07-28",
-    "last_seen": "2026-07-29",
-    "title": "ECOVACS(エコバックス) DEEBOT T90 PRO OMNI ローラー式強力モップ ロボット掃除機 30,000Pa強力吸引 水拭き 両用"
-  },
-  "B0DW8MPL2P": {
-    "first_seen": "2026-07-24",
-    "last_seen": "2026-07-29",
-    "title": "Narwal (ナーワル) Freo Z10 ロボット掃除機 吸引・水拭き両用 可動式モップ"
-  },
-  "B0GRFN53XB": {
-    "first_seen": "2026-07-26",
-    "last_seen": "2026-07-29",
-    "title": "dreame (ドリーミー) L10s Ultra Gen3 ロボット掃除機 吸引・水拭き両用 25,000 Pa強力吸引 伸縮式のサイドブラシとモップ 100日分の自動ゴミ収集 AceClean DryBoardとモップの自動洗浄 温風乾燥 自動給水 10.5mmのモップリフトアップ 障害物回避 音声とアプリでコントロール お掃除ロボット"
-  },
-  "B0F1FCM99S": {
-    "first_seen": "2026-07-24",
-    "last_seen": "2026-07-29",
-    "title": "ルンバ(Roomba)205 DustCompactor Combo ロボット (ロボット掃除機) アイロボット(iRobot)【水拭き/両用/ゴミ圧縮機能付きダスト容器/日本の住宅向けに開発/LiDARナビゲーション/パワーリフト吸引/スマートスクラブ対応/マッピング 掃除経路確認/アプリ操作/落下防止/Amazon.co.jp購入時12ヶ月保証/L121060】ブラック"
-  },
-  "B0D8PHF6JX": {
-    "first_seen": "2026-07-24",
-    "last_seen": "2026-07-29",
-    "title": "dreame (ドリーミー) D9 Max Gen2 ロボット掃除機 6000Pa強力吸引 水拭き対応 570 ml の大型ダストボックス 高精度LDSレーザーセンサー 高精度複数階マッピング機能 昼夜を問わず賢く掃除 静音設計 Google Home Alexa Siri対応"
-  },
-  "B0F6NRWF9V": {
-    "first_seen": "2026-07-25",
-    "last_seen": "2026-07-29",
-    "title": "roborock Q7B+ ブラック ロボロック ロボット掃除機 小型 お掃除ロボット 水拭き 両用 自動ゴミ収集 150分 8,000Pa 強力吸引 マッピング 強力吸引 自動充電 アプリ操作 高精度レーザーセンサー 正規品 Q7BP52-04"
-  },
-  "B09XB5LJGJ": {
-    "first_seen": "2026-07-29",
-    "last_seen": "2026-07-29",
-    "title": "ECOVACS(エコバックス) DEEBOT クリーナー ロボット掃除機用 消耗品 専用洗浄剤（1L）T50 OMNI/T80 OMNI/X11"
-  },
-  "B0F9KCJ493": {
-    "first_seen": "2026-07-24",
-    "last_seen": "2026-07-29",
-    "title": "roborock(ロボロック) Q10V+ ロボット掃除機 水拭き 両用 自動ゴミ収集 障害物回避 お掃除ロボット【Qシリーズ高総合力モデル】"
-  },
-  "B0B59452FZ": {
-    "first_seen": "2026-07-25",
-    "last_seen": "2026-07-29",
-    "title": "dreame D10Plus ロボット掃除機 自動ゴミ収集 水拭き対応 4000Pa強力吸引 高精度LDSレーザーセンサー 高精度複数階マッピング機能 170分間連続稼働 Wi-Fi接続 Alexa対応 APP遠隔操作 自動充電 静音設計 遠隔操作 落下防止 衝突防止"
-  },
-  "B0F6NGXD99": {
-    "first_seen": "2026-07-24",
-    "last_seen": "2026-07-29",
-    "title": "roborock Qrevo L ロボット掃除機 水拭き 両用 自動ゴミ収集 180分 10000Pa 障害物回避 LDSマッピング アプリ操作 自動充電 高精度レーザーセンサー 【2025年6月発売】正規品"
-  },
-  "B0F7GGN94D": {
-    "first_seen": "2026-07-28",
-    "last_seen": "2026-07-29",
-    "title": "【2025進化】 SwitchBot ロボット掃除機 K11+ 超小型 - 高精度マッピング 6000pa強力吸引 水拭き 使い捨て掃除シート30枚付き 禁止エリア 静音設計 遠隔操作 自動充電 落下防止 2.4GWi-Fi対応 Alexa Google Home IFTTT Siriに対応"
-  },
-  "B0DRVC5SL4": {
-    "first_seen": "2026-07-27",
-    "last_seen": "2026-07-29",
-    "title": "ECOVACS(エコバックス) WINBOT MINI 窓掃除 窓拭きロボット ロボット掃除機 自動清掃 窓用 ガラスクリーナー 強力吸引 落下防止"
-  },
-  "B0GY85CQ2N": {
-    "first_seen": "2026-07-29",
-    "last_seen": "2026-07-29",
-    "title": "【26年6月モデル】roborock ロボロック Saros20 ロボット掃除機 黒 36000Pa 超薄型 水拭き 両用 自動ゴミ収集 8way全自動ドック"
-  },
-  "B0GXB2RZ9Y": {
-    "first_seen": "2026-07-25",
-    "last_seen": "2026-07-29",
-    "title": "roborock (ロボロック) Qrevo Curv 2 Flow ロボット掃除機 水拭き両用 モップ自動洗浄 【26年革新モップカバー搭載】"
-  },
-  "B0H3THZTWT": {
-    "first_seen": "2026-07-24",
-    "last_seen": "2026-07-29",
-    "title": "【セット買い】roborock (ロボロック) Qrevo L Pro ロボット掃除機 & 交換品モップクロス(4枚) & サイドブラシ(2個) & ゴミ収集用紙パック (3枚) セット"
-  },
-  "B0GXB5HWWD": {
-    "first_seen": "2026-07-24",
-    "last_seen": "2026-07-29",
-    "title": "roborock (ロボロック) Qrevo L Pro ロボット掃除機 水拭き両用 モップ温水洗浄 全自動お掃除ロボット【26年モデル・初心者向け】"
-  },
-  "B0BP21W3XX": {
-    "first_seen": "2026-07-24",
-    "last_seen": "2026-07-29",
-    "title": "ECOVACS(エコバックス) WINBOT ロボット掃除機用 消耗品 専用洗浄剤（1L）WINBOT MINI/WINBOT MINI2"
-  },
-  "B0GRZCF29T": {
-    "first_seen": "2026-07-28",
-    "last_seen": "2026-07-29",
-    "title": "Dyson(ダイソン) Dyson Spot+Scrub Ai (RB05 AM) ロボット掃除機"
-  },
-  "B0DSJB2627": {
-    "first_seen": "2026-07-28",
-    "last_seen": "2026-07-29",
-    "title": "ブラウン 電気シェーバー シリーズ9 SPORT 電動 髭剃り メンズ 9360cc 【Amazon.co.jp 限定】6in1アルコール洗浄システム付 シェーバーケース付 ブラック"
-  },
-  "B0CBPDCQLF": {
-    "first_seen": "2026-07-26",
-    "last_seen": "2026-07-29",
-    "title": "ブラウン 電気シェーバー シリーズ8 洗浄機付き 電動 髭剃り メンズ 【Amazon.co.jp 限定】 8560cc 5 in 1 100％防水設計 4+1 カットシステム 進化したキワぞり刃 夕方ヒゲ、ゼロへ 電動シェーバー 【最新2023年秋モデル】"
-  },
-  "B093BS81XP": {
-    "first_seen": "2026-07-26",
-    "last_seen": "2026-07-29",
-    "title": "【正規品】パナソニック 替刃 メンズシェーバー用 5枚刃 外刃 ES9181"
-  },
-  "B0CTQ1XFRL": {
-    "first_seen": "2026-07-26",
-    "last_seen": "2026-07-29",
-    "title": "ブラウン 電気シェーバー シリーズ5 電動 髭剃り メンズ 【Amazon.co.jp限定】 52-M1200s ミント キワゾリトリマー 防水設計 充電式 コードレス ディープキャッチ網刃 トラベルケース"
-  },
-  "B093BTR4Q4": {
-    "first_seen": "2026-07-26",
-    "last_seen": "2026-07-29",
-    "title": "【正規品】パナソニック 替刃 メンズシェーバー用 5枚刃 セット刃 ES9040"
-  },
-  "B07V9QVGNX": {
-    "first_seen": "2026-07-26",
-    "last_seen": "2026-07-29",
-    "title": "【正規品】パナソニック 替刃 メンズシェーバー用 セット刃 ES9038"
-  },
-  "B0FXW7VK2X": {
-    "first_seen": "2026-07-26",
-    "last_seen": "2026-07-29",
-    "title": "コイズミ メンズシェーバー"
-  },
-  "B0CBPDJQFL": {
-    "first_seen": "2026-07-28",
-    "last_seen": "2026-07-29",
-    "title": "ブラウン 電気シェーバー シリーズ9 PRO+ 電動 髭剃り メンズ 9555cc シェーバー本体 5 in 1 洗浄機付きモデル 【Amazon.co.jp 限定】防水設計 5+1 カットシステム 進化したキワぞり刃 極限0.05mm カット あご下まで夕方ヒゲ、ゼロへ 電動シェーバー 【最新2023年秋モデル】"
-  },
-  "B0FXW8RZ4P": {
-    "first_seen": "2026-07-26",
-    "last_seen": "2026-07-29",
-    "title": "コイズミ メンズシェーバー シームレス"
-  },
-  "B001MBV4W4": {
-    "first_seen": "2026-07-26",
-    "last_seen": "2026-07-29",
-    "title": "パナソニック メンズシェーバー スーパーレザー ES3832P-S"
-  },
-  "B0C8SBYXPQ": {
-    "first_seen": "2026-07-26",
-    "last_seen": "2026-07-29",
-    "title": "パナソニック ラムダッシュ パームインシェーバー メンズシェーバー コンパクト ベーシックタイプ 5枚刃 マットブラック ES-PV3A-K"
-  },
-  "B0F87SC5R6": {
-    "first_seen": "2026-07-29",
-    "last_seen": "2026-07-29",
-    "title": "【なめらかに深剃り】フィリップス 電動シェーバー i9000 プレステージ 電動 髭剃り メンズ XP9205/05 シルバーメタリック"
-  },
-  "B0FGHXK5T4": {
-    "first_seen": "2026-07-28",
-    "last_seen": "2026-07-29",
-    "title": "パナソニック ラムダッシュPRO 電気シェーバー 5枚刃 【Amazon.co.jp限定】 お風呂剃り可 黒 ES-NLV5X-K"
-  },
-  "B0CY4LX65R": {
-    "first_seen": "2026-07-28",
-    "last_seen": "2026-07-29",
-    "title": "【乾電池式】パナソニック 鼻毛カッター エチケットカッター メンズ 眉毛 ヒゲ 水洗い 父の日 ER-NGNH1-K 【Amazon.co.jp限定】"
-  },
-  "B0DB48CFG7": {
-    "first_seen": "2026-07-26",
-    "last_seen": "2026-07-29",
-    "title": "ブラウン 電動歯ブラシ オーラルB【電動初心者の決定版】iO2 iOS21D90BK ブラック 防水 歯科医推奨No.1ブランド【Amazon.co.jp 限定】"
-  },
-  "B0CX11ZTQT": {
-    "first_seen": "2026-07-26",
-    "last_seen": "2026-07-29",
-    "title": "ブラウン 電動歯ブラシ オーラルB 【プレミアムモデル】iO7 歯科クリーニングのような磨き上がり トラベルケース+ 替えブラシ3本付き iOM7.3V2.2K BK 防水 歯科医推奨No.1ブランド【Amazon.co.jp 限定】"
-  },
-  "B0DBKF4NV4": {
-    "first_seen": "2026-07-26",
-    "last_seen": "2026-07-29",
-    "title": "パナソニック 音波振動ハブラシ ドルツ 電動歯ブラシ USB充電 EW-DA18-W 白"
-  },
-  "B0DB4GH421": {
-    "first_seen": "2026-07-26",
-    "last_seen": "2026-07-29",
-    "title": "ブラウン 電動歯ブラシ オーラルB 【電動初心者の決定版】iO2 iOS21C90PK 防水 歯科医推奨No.1ブランド【Amazon.co.jp 限定】"
-  },
-  "B07PJW2X2F": {
-    "first_seen": "2026-07-26",
-    "last_seen": "2026-07-29",
-    "title": "エレコム ワイヤレスキーボード メンブレン 薄型 フルキーボード テンキー ブラック TK-FDM110TXBK"
-  },
-  "B0D9Y1J4NH": {
-    "first_seen": "2026-07-28",
-    "last_seen": "2026-07-29",
-    "title": "【Amazon.co.jp限定】 ロジクール 静音 ワイヤレス トラックボール マウス 無線 M575SPd 国内正規品"
-  },
-  "B0956X785M": {
-    "first_seen": "2026-07-28",
-    "last_seen": "2026-07-29",
-    "title": "【Amazon.co.jp限定】 ロジクール ワイヤレスマウス 無線 マウス M185CG M185 グレー 国内正規品"
-  },
-  "B0D9VVL9DY": {
-    "first_seen": "2026-07-28",
-    "last_seen": "2026-07-29",
-    "title": "【Amazon.co.jp限定】 Logicool G PRO X TKL RAPID ゲーミングキーボード"
-  },
-  "B0B1Q636K7": {
-    "first_seen": "2026-07-26",
-    "last_seen": "2026-07-29",
-    "title": "ロジクール KX850FT MX MECHANICAL ワイヤレス メカニカル パフォーマンス キーボード 茶軸 タクタイル テンキー 静かな打鍵感 特に静か Logi Bolt bluetooth Unifying非対応 薄型 無線 メカニカルキーボード windows mac chrome Android ワイヤレスキーボード KX850 国内正規品 グラファイト"
-  },
-  "B0FL77NZXM": {
-    "first_seen": "2026-07-29",
-    "last_seen": "2026-07-29",
-    "title": "エレコム ワイヤレスキーボード Precisionist プレシジョニスト Bluetooth 無線2.4GHz マルチペアリング4台 充電式 薄型パンタグラフ式 ミニサイズ ブラック TK-PN1075MPABK"
-  },
-  "B0BC135WFD": {
-    "first_seen": "2026-07-28",
-    "last_seen": "2026-07-29",
-    "title": "【Amazon.co.jp限定】 Logicool G PRO ゲーミングキーボード G-PKB-002LNd テンキーレス リニア 赤軸 日本語配列"
-  },
-  "B0DRJK17XF": {
-    "first_seen": "2026-07-29",
-    "last_seen": "2026-07-29",
-    "title": "REALFORCE リアルフォース ラピッドトリガー キーボード GX1 ホワイト 静音 30ｇ TKLサイズ 静電容量無接点方式 最速0.1mm作動 Windows 英語配列 日本製 ゲーミングキーボード 87キー X1UD23"
-  },
-  "B0FJRCJ1SN": {
-    "first_seen": "2026-07-26",
-    "last_seen": "2026-07-29",
-    "title": "【リニューアル】 エレコム ワイヤレスマウス 静音 充電式 OSMOD Six Bluetooth 無線2.4GHz両対応 2台まで接続 マルチペアリング 6ボタン ブラック M-MY35MBSABK"
-  },
-  "B0F1FD99K8": {
-    "first_seen": "2026-07-29",
-    "last_seen": "2026-07-29",
-    "title": "ラピッドトリガー 搭載 Razer レイザー Huntsman V3 Pro Mini JP (White Edition) ラピッドトリガーと調整可能なアクチュエーション搭載のアナログ ゲーミングキーボード アナログオプティカルスイッチ 調整可能なアクチュエーション 押下圧 40G 日本語配列 ハンツマン ブイスリー プロ ミニ ジェイピー ホワイト エディション【日本正規代理店保証品】"
-  },
-  "B0BWDSC5ZB": {
-    "first_seen": "2026-07-28",
-    "last_seen": "2026-07-29",
-    "title": "【Amazon.co.jp限定】 ロジクール ワイヤレスキーボード 無線 MX KEYS mini KX700GRd 日本語配列 国内正規品"
-  },
-  "B0FL6ZD3WL": {
-    "first_seen": "2026-07-29",
-    "last_seen": "2026-07-29",
-    "title": "エレコム ワイヤレスキーボード Precisionist プレシジョニスト Bluetooth 無線2.4GHz マルチペアリング4台 充電式 薄型パンタグラフ式 フルサイズ ブラック TK-PN10FMPABK"
-  },
-  "B08GP2H88M": {
-    "first_seen": "2026-07-28",
-    "last_seen": "2026-07-29",
-    "title": "ロジクール ワイヤレスマウス 無線 高速スクロール 7ボタン マウス Unifying SEB-M705 ブラック 国内正規品"
-  },
-  "B0DCJZH3QH": {
-    "first_seen": "2026-07-29",
-    "last_seen": "2026-07-29",
-    "title": "【国内正規品】Keychron B1 Pro ウルトラスリム ワイヤレスキーボード、ZMKカスタマイズ、シザースイッチ、2.4 GHz/Bluetooth 5.2/有線接続、ロングバッテリーライフ、Mac Windows Linux対応 (スペースグレー, USレイアウト)"
-  },
-  "B0DCJXV7DB": {
-    "first_seen": "2026-07-29",
-    "last_seen": "2026-07-29",
-    "title": "【国内正規品】Keychron B6 Pro ウルトラスリム ワイヤレスキーボード、フルサイズ、テンキー付、ZMKカスタマイズ、シザースイッチ、2.4 GHz/Bluetooth 5.2/有線接続、ロングバッテリーライフ、Mac Windows Linux対応 (スペースグレー, USレイアウト)"
-  },
-  "B0D9Y1SNQT": {
-    "first_seen": "2026-07-28",
-    "last_seen": "2026-07-29",
-    "title": "【Amazon.co.jp限定】 ロジクール 静音 ワイヤレス トラックボール マウス MX ERGO S MXTB2d 無線 グラファイト"
-  },
-  "B088P8QYWN": {
-    "first_seen": "2026-07-29",
-    "last_seen": "2026-07-29",
-    "title": "エレコム マウス ワイヤレス Mサイズ 5ボタン(戻る・進むボタン搭載) BlueLED 握りの極み ガンメタリック M-XGM10DBBK/EC"
-  },
-  "B0B1Q5T5TQ": {
-    "first_seen": "2026-07-29",
-    "last_seen": "2026-07-29",
-    "title": "ロジクール KX850CT MX MECHANICAL MINI ミニマリスト ワイヤレス メカニカル パフォーマンス キーボード 茶軸 タクタイル テンキーレス 静かな打鍵感 特に静か Logi Bolt bluetooth Unifying非対応 薄型 無線 メカニカルキーボード windows mac chrome Android ワイヤレスキーボード KX850 国内正規品 グラファイト"
-  },
-  "B07DVC25R2": {
-    "first_seen": "2026-07-26",
-    "last_seen": "2026-07-29",
-    "title": "Logicool G ゲーミングマウス G304 LIGHTSPEED ワイヤレス ゲーミング マウス 軽量 99g HERO 12Kセンサー 6個プログラムボタン 250時間連続使用可能 ブラック PC windows mac 国内正規品 【 ファイナルファンタジー XIV 推奨モデル 】"
-  },
-  "B0BKPL1VKW": {
-    "first_seen": "2026-07-26",
-    "last_seen": "2026-07-29",
-    "title": "ロジクール ワイヤレスマウス 静音 無線 高速スクロール Signature M750MGR レギュラー グラファイト M750 国内正規品"
-  },
-  "B0CJR8Y56J": {
-    "first_seen": "2026-07-26",
-    "last_seen": "2026-07-29",
-    "title": "ロジクール ワイヤレスキーボード PEBBLE KEYS 2 K380sGR 薄型 軽量 415g 小型 Bluetooth Logi Bolt ワイヤレス 無線 キーボード Easy-Switch 日本語配列 電池寿命36ケ月 Windows Mac iPad iOS Android Chrome K380s グラファイト 国内正規品"
-  },
-  "B0D9VVJ967": {
-    "first_seen": "2026-07-28",
-    "last_seen": "2026-07-29",
-    "title": "【Amazon.co.jp限定】 Logicool G PRO 2 LIGHTSPEED ゲーミングマウス G-PPD-002XWL-BKd"
-  },
-  "B0BKP2XWY5": {
-    "first_seen": "2026-07-28",
-    "last_seen": "2026-07-29",
-    "title": "【Amazon.co.jp限定】 ロジクールワイヤレスマウス 静音 無線 Signature M550MBKs レギュラー ブラック 国内正規品"
-  },
-  "B0D21S5SPG": {
-    "first_seen": "2026-07-28",
-    "last_seen": "2026-07-29",
-    "title": "【Amazon.co.jp限定】 ロジクール 静音 ワイヤレスマウス 無線 Silent Bluetooth M240GRd グラファイト 国内正規品"
-  },
-  "B0B2ZT2HRJ": {
-    "first_seen": "2026-07-26",
-    "last_seen": "2026-07-29",
-    "title": "ロジクール SIGNATURE K855GR 無線 メカニカルキーボード TTC製 赤軸 リニア Bluetooth Logi Bolt Unifying非対応 コンパクト 日本語配列 小型 テンキーレス メカニカル ワイヤレス キーボード グラファイト windows mac Chrome Android K855 国内正規品"
-  },
-  "B0GL26M6Z2": {
-    "first_seen": "2026-07-29",
-    "last_seen": "2026-07-29",
-    "title": "エレコム ワイヤレスキーボード 静音 フルサイズ テンキー付 無線2.4GHz Windows macOS ChromeOS メンブレン式 ブラック TK-QT11FDMABK"
-  },
-  "B0FR8LPP2K": {
-    "first_seen": "2026-07-28",
-    "last_seen": "2026-07-29",
-    "title": "【Amazon.co.jp限定】 ロジクール MX MASTER 4 アドバンスド ワイヤレス マウス 触覚フィードバック 静音 MX2400GRd"
-  },
-  "B08K2RGTHY": {
-    "first_seen": "2026-07-26",
-    "last_seen": "2026-07-29",
-    "title": "ロジクール ワイヤレスマウス キーボード セット MK295GP 静音 耐水 無線 USB接続 Unifying非対応 MK295 グラファイト 国内正規品"
-  },
-  "B08TMK8GSC": {
-    "first_seen": "2026-07-29",
-    "last_seen": "2026-07-29",
-    "title": "エレコム ワイヤレスキーボード Bluetooth フルキーボード テンキー付 薄型 メンブレン 抗菌 最大3台マルチペアリング対応 iPad/Surface/テンキー付 ブラック TK-FBM120KBK/EC"
-  },
-  "B0CZKNNNXJ": {
-    "first_seen": "2026-07-29",
-    "last_seen": "2026-07-29",
-    "title": "エレコム ワイヤレス トラックボールマウス Bluetooth IST (アイエスティー) シリーズ 5ボタン 親指操作 ベアリング支持 Windows Mac Chromebook ブラック 2 M-IT11BRABK"
-  },
-  "B0FGCDSH1J": {
-    "first_seen": "2026-07-28",
-    "last_seen": "2026-07-29",
-    "title": "【Amazon.co.jp限定】Logicool G ラピッドトリガー G515 RAPID ゲーミングキーボード G515-TKL-RTBKd"
-  },
-  "B0CZ8X3DH8": {
-    "first_seen": "2026-07-26",
-    "last_seen": "2026-07-29",
-    "title": "ロジクール SIGNATURE SLIM ワイヤレス キーボード K950GR 薄型 静かなタイピング Bluetooth Logi Bolt ワイヤレスキーボード テンキー 無線 Easy-Switch 日本語配列 電池寿命36ケ月 Windows Mac Chrome Android K950 グラファイト 国内正規品"
-  },
-  "B0FDQL8KNL": {
-    "first_seen": "2026-07-29",
-    "last_seen": "2026-07-29",
-    "title": "【Amazon.co.jp限定】 ロジクール Bluetooth ワイヤレスキーボード 無線 K250GRd 日本語配列 グラファイト 国内正規品"
-  },
-  "B0FDQKRJJ3": {
-    "first_seen": "2026-07-29",
-    "last_seen": "2026-07-29",
-    "title": "【Amazon.co.jp限定】 ロジクール Bluetooth ワイヤレスマウス キーボード セット MK250GRd 日本語配列 国内正規品"
-  },
-  "B0C65MQZ65": {
-    "first_seen": "2026-07-26",
-    "last_seen": "2026-07-29",
-    "title": "ロジクール MX ANYWHERE 3S MX1800GR 静音 マウス Bluetooth Logi Bolt Unifying非対応 コンパクト Smart Actions 対応 高速スクロールホイール 充電式 ワイヤレスマウス 無線 Windows Mac Chrome iPad OS Android MX1800 グラファイト 国内正規品"
-  },
-  "B0CZ9HWVTC": {
-    "first_seen": "2026-07-29",
-    "last_seen": "2026-07-29",
-    "title": "エレコム ワイヤレスキーボード コンパクト テンキー付 パンタグラフ式 薄型 ブラック TK-FDP099TBK/EC"
-  },
-  "B09Q5SHDR3": {
-    "first_seen": "2026-07-26",
-    "last_seen": "2026-07-29",
-    "title": "ロジクール ワイヤレスマウス 静音 無線 高速スクロール Signature M650MGR レギュラー グラファイト M650 国内正規品"
-  },
-  "B08LMK3L5C": {
-    "first_seen": "2026-07-29",
-    "last_seen": "2026-07-29",
-    "title": "エレコム ワイヤレスマウス Bluetooth Slint 薄型 静音 4ボタン プレゼンモード機能付 Windows Mac Android iOS iPadOS FireOS対応 ブラック M-TM10BBBK/EC"
-  },
-  "B07MC7LLTR": {
-    "first_seen": "2026-07-29",
-    "last_seen": "2026-07-29",
-    "title": "R2TLA-US4G-BK Realforce RGB TKL 有線キーボード 英語配列 87キーレ"
-  },
-  "B0GL1G8PQZ": {
-    "first_seen": "2026-07-29",
-    "last_seen": "2026-07-29",
-    "title": "東プレ REALFORCE GX1 Plus νガンダム (ニューガンダム) 日本語配列 ゲーミングキーボード X1PCN1 KB0937"
-  },
-  "B0C2YK1CS6": {
-    "first_seen": "2026-07-26",
-    "last_seen": "2026-07-29",
-    "title": "ロジクール 静音 ワイヤレスマウス M240GR Silent Bluetooth マウス グラファイト 無線 ワイヤレス 小型 左右対称 logi bolt windows mac iPad OS Chrome Android M240 国内正規品"
-  },
-  "B0H58QH3R1": {
-    "first_seen": "2026-07-29",
-    "last_seen": "2026-07-29",
-    "title": "【整備済み品】 REALFORCE R3S キーボード 有線 テンキーレス 45g 日本語配列 ブラック R3SC11"
   },
   "B0CQY7SRTY": {
     "first_seen": "2026-07-27",
@@ -813,11 +848,6 @@
     "first_seen": "2026-07-29",
     "last_seen": "2026-07-29",
     "title": "UGREEN 45W USB-C*2+USB-A*1 急速充電器 Type-C PD GaNⅡ充電器 PSE適合タイプc充電器 PD/PPS/SCP/QC3.0"
-  },
-  "B0GVNN41P1": {
-    "first_seen": "2026-07-29",
-    "last_seen": "2026-07-29",
-    "title": "dreame(ドリーミー) F20ロボット掃除機 20,000 Paの吸引力 2-in-1 吸引・水拭き両用 二重構造の絡まり防止機能 カーペットクリーニング機能 壁際から部屋の隅までしっかり掃除 スマートナヒ ゲーション機能 Wi-Fi対応 音声コントロール対応 アプリコントロール お掃除ロボット ホワイト F20"
   },
   "B0FQGY75PP": {
     "first_seen": "2026-07-29",
