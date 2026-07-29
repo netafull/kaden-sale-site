@@ -82,6 +82,10 @@ details > .grid, details > .empty { margin-top: 12px; }
 .points { font-size: 11px; color: #0a7d3c; font-weight: 600; margin-top: 2px; }
 @media (prefers-color-scheme: dark) { .points { color: #4fd689; } }
 .since { font-size: 11px; color: var(--muted); margin-top: 2px; }
+/* 「今日のお買い得」でジャンル名を示すラベル */
+.gbadge { display: inline-block; font-size: 10px; font-weight: 600;
+  color: var(--muted); border: 1px solid var(--line); border-radius: 4px;
+  padding: 0 5px; margin-bottom: 3px; }
 footer { max-width: 960px; margin: 0 auto; padding: 16px;
   color: var(--muted); font-size: 12px; border-top: 1px solid var(--line); }
 .empty { color: var(--muted); font-size: 14px; padding: 12px 0; }
@@ -92,7 +96,12 @@ def esc(s):
     return html.escape(s or "", quote=True)
 
 
-def render_book(item: dict) -> str:
+def render_book(item: dict, badge: str | None = None) -> str:
+    """商品カードを組み立てる。
+
+    badgeを渡すと、どのジャンルの商品かを示すラベルをタイトル上に添える
+    (「今日のお買い得」など、ジャンル横断で並べる場所で使う)。
+    """
     off = item.get("percent_off")
     off_html = ""
     if off:
@@ -115,6 +124,9 @@ def render_book(item: dict) -> str:
         pct = item.get("points_percent")
         pct_txt = f"{pct}%還元" if pct else "還元"
         points_html = f'<div class="points">+{item["points"]}pt ({pct_txt})</div>'
+    badge_html = (
+        f'<div class="gbadge">{esc(badge)}</div>' if badge else ""
+    )
     since_html = ""
     if item.get("since"):
         try:
@@ -127,7 +139,7 @@ def render_book(item: dict) -> str:
     return f"""<a class="book" href="{esc(item["url"])}" target="_blank" rel="noopener sponsored">
   {img_html}
   <div>
-    <div class="t">{esc(item["title"])}</div>
+    {badge_html}<div class="t">{esc(item["title"])}</div>
     {brand}
     <div class="price"><span class="now">&yen;{int(item["price"]):,}</span>{was_html}{off_html}</div>
     {points_html}
@@ -151,6 +163,23 @@ def generate_html(data: dict) -> str:
     )
 
     sections = []
+
+    # ジャンル横断のおすすめを最上部に置く。どのジャンルから来た商品か
+    # 分かるようカードにジャンル名のバッジを添える
+    top_deals = data.get("top_deals") or []
+    if top_deals:
+        cards = "\n".join(
+            render_book(b, badge=b.get("genre")) for b in top_deals
+        )
+        sections.append(
+            '<details open id="top">\n'
+            '<summary><h2>⭐ 今日のお買い得</h2></summary>\n'
+            '<p class="cmeta">全ジャンルから割引率とポイント還元率の合計が'
+            '高い商品を選びました</p>\n'
+            f'<div class="grid">\n{cards}\n</div>\n'
+            '</details>'
+        )
+
     for i, g in enumerate(genres):
         items = g.get("items") or []
         if items:

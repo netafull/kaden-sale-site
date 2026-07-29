@@ -1,23 +1,96 @@
 {
-  "fetched_at": "2026-07-29T00:14:03.640492+00:00",
+  "fetched_at": "2026-07-29T23:13:42.278770+00:00",
   "min_saving_percent": 12,
+  "top_deals": [
+    {
+      "asin": "B0FMR9YY83",
+      "title": "ECOVACS (エコバックス) DEEBOT N30 PLUS 吸引力10,000Pa ロボット掃除機 水拭き両用 サイクロン式 お掃除ロボット",
+      "brand": "ECOVACS",
+      "price": 29800,
+      "list_price": 69800,
+      "percent_off": 57,
+      "points": 298,
+      "points_percent": 1,
+      "image": "https://m.media-amazon.com/images/I/312T9QFCi4L._SL160_.jpg",
+      "url": "https://www.amazon.co.jp/dp/B0FMR9YY83?tag=natafull-22&linkCode=osi&th=1&psc=1",
+      "since": "2026-07-27",
+      "genre": "ロボット掃除機"
+    },
+    {
+      "asin": "B0DRVB4DVC",
+      "title": "ECOVACS(エコバックス) 超薄全能型 DEEBOT T50 OMNI ロボット掃除機 15000Pa強力吸引 電動デュアルモップ 水拭き 両用",
+      "brand": "ECOVACS",
+      "price": 49800,
+      "list_price": 99800,
+      "percent_off": 50,
+      "points": 498,
+      "points_percent": 1,
+      "image": "https://m.media-amazon.com/images/I/418DfT8kqdL._SL160_.jpg",
+      "url": "https://www.amazon.co.jp/dp/B0DRVB4DVC?tag=natafull-22&linkCode=osi&th=1&psc=1",
+      "since": "2026-07-29",
+      "genre": "ロボット掃除機"
+    },
+    {
+      "asin": "B0DSJB2627",
+      "title": "ブラウン 電気シェーバー シリーズ9 SPORT 電動 髭剃り メンズ 9360cc 【Amazon.co.jp 限定】6in1アルコール洗浄システム付 シェーバーケース付 ブラック",
+      "brand": "Braun",
+      "price": 29800,
+      "list_price": 56870,
+      "percent_off": 48,
+      "points": 298,
+      "points_percent": 1,
+      "image": "https://m.media-amazon.com/images/I/41ztVslLI1L._SL160_.jpg",
+      "url": "https://www.amazon.co.jp/dp/B0DSJB2627?tag=natafull-22&linkCode=osi&th=1&psc=1",
+      "since": "2026-07-28",
+      "genre": "電気シェーバー"
+    },
+    {
+      "asin": "B0CBPDCQLF",
+      "title": "ブラウン 電気シェーバー シリーズ8 洗浄機付き 電動 髭剃り メンズ 【Amazon.co.jp 限定】 8560cc 5 in 1 100％防水設計 4+1 カットシステム 進化したキワぞり刃 夕方ヒゲ、ゼロへ 電動シェーバー 【最新2023年秋モデル】",
+      "brand": "Braun",
+      "price": 22800,
+      "list_price": 42801,
+      "percent_off": 47,
+      "points": 228,
+      "points_percent": 1,
+      "image": "https://m.media-amazon.com/images/I/41RzlDhRYhL._SL160_.jpg",
+      "url": "https://www.amazon.co.jp/dp/B0CBPDCQLF?tag=natafull-22&linkCode=osi&th=1&psc=1",
+      "since": "2026-07-26",
+      "genre": "電気シェーバー"
+    },
+    {
+      "asin": "B0D4Y52TDX",
+      "title": "エレコム モバイルバッテリー 30W 10000mAh 残量表示 USB PD対応 3ポート Type-C×2 USB-A×1 ケーブル別売り ブラック EC-C23LBK",
+      "brand": "エレコム(ELECOM)",
+      "price": 2690,
+      "list_price": 4980,
+      "percent_off": 46,
+      "points": 0,
+      "points_percent": null,
+      "image": "https://m.media-amazon.com/images/I/31RoQwW6aTL._SL160_.jpg",
+      "url": "https://www.amazon.co.jp/dp/B0D4Y52TDX?tag=natafull-22&linkCode=osi&th=1&psc=1",
+      "since": "2026-07-24",
+      "genre": "モバイルバッテリー"
+    },
+    {
+      "asin": "B0DB48CFG7",
+      "title": "ブラウン 電動歯ブラシ オーラルB【電動初心者の決定版】iO2 iOS21D90BK ブラック 防水 歯科医推奨No.1ブランド【Amazon.co.jp 限定】",
+      "brand": "Braun",
+      "price": 6480,
+      "list_price": 11880,
+      "percent_off": 45,
+      "points": 65,
+      "points_percent": 1,
+      "image": "https://m.media-amazon.com/images/I/419BXCd2EXL._SL160_.jpg",
+      "url": "https://www.amazon.co.jp/dp/B0DB48CFG7?tag=natafull-22&linkCode=osi&th=1&psc=1",
+      "since": "2026-07-26",
+      "genre": "電動歯ブラシ"
+    }
+  ],
   "genres": [
     {
       "name": "Apple製品",
       "items": [
-        {
-          "asin": "B0FQFLWSWZ",
-          "title": "Apple iPhone Air 256GB (SIMフリー)：史上最薄のiPhone、最大120HzのProMotionを採用した6.5インチディスプレイ、パワフルなA19 Proチップ、センターフレームフロントカメラ、一日中使えるバッテリー；スペースブラック",
-          "brand": "Apple(アップル)",
-          "price": 139800,
-          "list_price": 177800,
-          "percent_off": 21,
-          "points": 1398,
-          "points_percent": 1,
-          "image": "https://m.media-amazon.com/images/I/31Y8ZfpTmKL._SL160_.jpg",
-          "url": "https://www.amazon.co.jp/dp/B0FQFLWSWZ?tag=natafull-22&linkCode=osi&th=1&psc=1",
-          "since": "2026-07-29"
-        },
         {
           "asin": "B0FQFQDN6K",
           "title": "Apple AirPods Pro 3 ワイヤレスイヤホン、アクティブノイズキャンセリング、ライブ翻訳、心拍センサー、補聴機能、Bluetoothヘッドホン、空間オーディオ サウンド、USB-C充電ケース、防塵性能と耐汗耐水性能、「探す」対応、Qi充電",
@@ -53,14 +126,27 @@
           "asin": "B0D4Y52TDX",
           "title": "エレコム モバイルバッテリー 30W 10000mAh 残量表示 USB PD対応 3ポート Type-C×2 USB-A×1 ケーブル別売り ブラック EC-C23LBK",
           "brand": "エレコム(ELECOM)",
-          "price": 2450,
+          "price": 2690,
           "list_price": 4980,
-          "percent_off": 51,
+          "percent_off": 46,
           "points": 0,
           "points_percent": null,
           "image": "https://m.media-amazon.com/images/I/31RoQwW6aTL._SL160_.jpg",
           "url": "https://www.amazon.co.jp/dp/B0D4Y52TDX?tag=natafull-22&linkCode=osi&th=1&psc=1",
           "since": "2026-07-24"
+        },
+        {
+          "asin": "B0CL8S3WMX",
+          "title": "Anker Power Bank (30W, Fusion, Built-In USB-C ケーブル) ブラック",
+          "brand": "Anker",
+          "price": 3990,
+          "list_price": 5990,
+          "percent_off": 33,
+          "points": 239,
+          "points_percent": 6,
+          "image": "https://m.media-amazon.com/images/I/21FZAnhgkQL._SL160_.jpg",
+          "url": "https://www.amazon.co.jp/dp/B0CL8S3WMX?tag=natafull-22&linkCode=osi&th=1&psc=1",
+          "since": "2026-07-27"
         },
         {
           "asin": "B0DRC8DBL8",
@@ -102,6 +188,19 @@
           "since": "2026-07-29"
         },
         {
+          "asin": "B0BJQ7F16T",
+          "title": "UGREEN 145W モバイルバッテリー 25000mAh大容量 3ポート USB-C×2 USB-A×1 240W ケーブル付",
+          "brand": "UGREEN",
+          "price": 9980,
+          "list_price": 13980,
+          "percent_off": 29,
+          "points": 399,
+          "points_percent": 4,
+          "image": "https://m.media-amazon.com/images/I/31DNDSYNwEL._SL160_.jpg",
+          "url": "https://www.amazon.co.jp/dp/B0BJQ7F16T?tag=natafull-22&linkCode=osi&th=1&psc=1",
+          "since": "2026-07-30"
+        },
+        {
           "asin": "B0CHVZHLZ1",
           "title": "CIO モバイルバッテリー PD USB-C×2 USB-A×1 10000mAh SMARTCOBY Pro SLIM 35W (ブラック)",
           "brand": "CIO",
@@ -141,16 +240,16 @@
           "since": "2026-07-27"
         },
         {
-          "asin": "B0CQY7SRTY",
-          "title": "Anker Power Bank (20000mAh, 30W) ブラック",
+          "asin": "B0CX4C1TVK",
+          "title": "Anker Power Bank (10000mAh, Fusion, Built-In USB-C ケーブル) ブラック",
           "brand": "Anker",
           "price": 5990,
-          "list_price": null,
-          "percent_off": null,
-          "points": 1617,
-          "points_percent": 27,
-          "image": "https://m.media-amazon.com/images/I/31MXSbjh1JL._SL160_.jpg",
-          "url": "https://www.amazon.co.jp/dp/B0CQY7SRTY?tag=natafull-22&linkCode=osi&th=1&psc=1",
+          "list_price": 7990,
+          "percent_off": 25,
+          "points": 120,
+          "points_percent": 2,
+          "image": "https://m.media-amazon.com/images/I/21tsSzagwCL._SL160_.jpg",
+          "url": "https://www.amazon.co.jp/dp/B0CX4C1TVK?tag=natafull-22&linkCode=osi&th=1&psc=1",
           "since": "2026-07-27"
         },
         {
@@ -430,11 +529,11 @@
           "asin": "B099JMBCP1",
           "title": "エレコム モバイルバッテリー 10000mAh 大容量 マグネット ( USB PD対応 ) Type-C×1 / USB-A×1 【 iPhone12 / iPhone13 シリーズ推奨 】 PSE認証 ブラック EC-C02BK",
           "brand": "エレコム(ELECOM)",
-          "price": 1681,
+          "price": 1698,
           "list_price": 1960,
-          "percent_off": 14,
-          "points": 0,
-          "points_percent": null,
+          "percent_off": 13,
+          "points": 17,
+          "points_percent": 1,
           "image": "https://m.media-amazon.com/images/I/31+QMeoVBmL._SL160_.jpg",
           "url": "https://www.amazon.co.jp/dp/B099JMBCP1?tag=natafull-22&linkCode=osi&th=1&psc=1",
           "since": "2026-07-24"
@@ -549,6 +648,19 @@
           "since": "2026-07-27"
         },
         {
+          "asin": "B0B2QQDKR8",
+          "title": "Anker 511 Charger (Nano 3, 30W) ブラック",
+          "brand": "Anker",
+          "price": 1990,
+          "list_price": 2790,
+          "percent_off": 29,
+          "points": 100,
+          "points_percent": 5,
+          "image": "https://m.media-amazon.com/images/I/3161eFAqZGL._SL160_.jpg",
+          "url": "https://www.amazon.co.jp/dp/B0B2QQDKR8?tag=natafull-22&linkCode=osi&th=1&psc=1",
+          "since": "2026-07-27"
+        },
+        {
           "asin": "B0DMFFK5LV",
           "title": "UGREEN 45W USB-C*2+USB-A*1 急速充電器 Type-C PD GaNⅡ充電器 PSE適合タイプc充電器 PD/PPS/SCP/QC3.0",
           "brand": "UGREEN",
@@ -585,6 +697,19 @@
           "points_percent": 1,
           "image": "https://m.media-amazon.com/images/I/31k2nc5tX2L._SL160_.jpg",
           "url": "https://www.amazon.co.jp/dp/B0CLGZGXMD?tag=natafull-22&linkCode=osi&th=1&psc=1",
+          "since": "2026-07-27"
+        },
+        {
+          "asin": "B091BGMKYS",
+          "title": "UGREEN Nexode急速充電器 65W Type-C 2C1A 3ポート PD/PPS/QC3.0/SCP/FCP対応 折り畳み式",
+          "brand": "UGREEN",
+          "price": 2979,
+          "list_price": 4280,
+          "percent_off": 30,
+          "points": 30,
+          "points_percent": 1,
+          "image": "https://m.media-amazon.com/images/I/21gaL9IWnrL._SL160_.jpg",
+          "url": "https://www.amazon.co.jp/dp/B091BGMKYS?tag=natafull-22&linkCode=osi&th=1&psc=1",
           "since": "2026-07-27"
         },
         {
@@ -625,6 +750,19 @@
           "image": "https://m.media-amazon.com/images/I/31-rdar9QYL._SL160_.jpg",
           "url": "https://www.amazon.co.jp/dp/B0D53VKL36?tag=natafull-22&linkCode=osi&th=1&psc=1",
           "since": "2026-07-29"
+        },
+        {
+          "asin": "B0DG93MZCR",
+          "title": "UGREEN PD充電器 type-c 30W 2*USB-C+1*USB-A GaN PSE適合/PD3.0",
+          "brand": "UGREEN",
+          "price": 1484,
+          "list_price": 1980,
+          "percent_off": 25,
+          "points": 15,
+          "points_percent": 1,
+          "image": "https://m.media-amazon.com/images/I/21PaNbH7wbL._SL160_.jpg",
+          "url": "https://www.amazon.co.jp/dp/B0DG93MZCR?tag=natafull-22&linkCode=osi&th=1&psc=1",
+          "since": "2026-07-27"
         },
         {
           "asin": "B0DNT9Z2HS",
@@ -679,32 +817,6 @@
           "since": "2026-07-29"
         },
         {
-          "asin": "B0DG93MZCR",
-          "title": "UGREEN PD充電器 type-c 30W 2*USB-C+1*USB-A GaN PSE適合/PD3.0",
-          "brand": "UGREEN",
-          "price": 1584,
-          "list_price": 1980,
-          "percent_off": 20,
-          "points": 16,
-          "points_percent": 1,
-          "image": "https://m.media-amazon.com/images/I/21PaNbH7wbL._SL160_.jpg",
-          "url": "https://www.amazon.co.jp/dp/B0DG93MZCR?tag=natafull-22&linkCode=osi&th=1&psc=1",
-          "since": "2026-07-27"
-        },
-        {
-          "asin": "B0GDCPBYHF",
-          "title": "UGREEN Air 65W PD 急速充電器 USB-C 超小型 GaNII",
-          "brand": "UGREEN",
-          "price": 3424,
-          "list_price": 4280,
-          "percent_off": 20,
-          "points": 34,
-          "points_percent": 1,
-          "image": "https://m.media-amazon.com/images/I/3154ULce2pL._SL160_.jpg",
-          "url": "https://www.amazon.co.jp/dp/B0GDCPBYHF?tag=natafull-22&linkCode=osi&th=1&psc=1",
-          "since": "2026-07-27"
-        },
-        {
           "asin": "B0BZHZ56M9",
           "title": "UGREEN Uno 30W PD 充電器 ロボット型 USB-C充電器 PSE適合 PD/PPS/QC4+対応",
           "brand": "UGREEN",
@@ -715,19 +827,6 @@
           "points_percent": 1,
           "image": "https://m.media-amazon.com/images/I/31d7RJsWAmL._SL160_.jpg",
           "url": "https://www.amazon.co.jp/dp/B0BZHZ56M9?tag=natafull-22&linkCode=osi&th=1&psc=1",
-          "since": "2026-07-27"
-        },
-        {
-          "asin": "B091BGMKYS",
-          "title": "UGREEN Nexode急速充電器 65W Type-C 2C1A 3ポート PD/PPS/QC3.0/SCP/FCP対応 折り畳み式",
-          "brand": "UGREEN",
-          "price": 3500,
-          "list_price": 4280,
-          "percent_off": 18,
-          "points": 35,
-          "points_percent": 1,
-          "image": "https://m.media-amazon.com/images/I/21gaL9IWnrL._SL160_.jpg",
-          "url": "https://www.amazon.co.jp/dp/B091BGMKYS?tag=natafull-22&linkCode=osi&th=1&psc=1",
           "since": "2026-07-27"
         },
         {
@@ -809,17 +908,17 @@
           "since": "2026-07-29"
         },
         {
-          "asin": "B0H3281V2P",
-          "title": "CIO NovaPort SLIM DUOⅡ 65W2C PD急速充電器 USB-C×2 180°スイングプラグ 薄型12.5mm （ホワイト）",
+          "asin": "B0H329XGNF",
+          "title": "CIO NovaPort SLIM DUOⅡ 65W2C PD急速充電器 USB-C×2 180°スイングプラグ 薄型12.5mm（ブラック）",
           "brand": "CIO",
           "price": 5280,
           "list_price": 5980,
           "percent_off": 12,
           "points": 53,
           "points_percent": 1,
-          "image": "https://m.media-amazon.com/images/I/21FjbUdJTSL._SL160_.jpg",
-          "url": "https://www.amazon.co.jp/dp/B0H3281V2P?tag=natafull-22&linkCode=osi&th=1&psc=1",
-          "since": "2026-07-29"
+          "image": "https://m.media-amazon.com/images/I/31llOrOvGkL._SL160_.jpg",
+          "url": "https://www.amazon.co.jp/dp/B0H329XGNF?tag=natafull-22&linkCode=osi&th=1&psc=1",
+          "since": "2026-07-30"
         },
         {
           "asin": "B0CZND25TV",
@@ -882,11 +981,11 @@
           "asin": "B0GW7WT5SQ",
           "title": "ソニー ゲーミングイヤホン INZONE Buds:WF-G700N Fnatic監修/ワイヤレス / 低遅延2.4GHzワイヤレス接続 USBType-Cトランシーバー同梱/LE Audio対応/アクティブノイズキャンセリング/立体音響 / 最大約24時間バッテリー / 急速充電/マイク付き / PS5 スマホ PC Switch グラスパープル",
           "brand": "Sony",
-          "price": 23900,
+          "price": 20800,
           "list_price": 29700,
-          "percent_off": 20,
-          "points": 3353,
-          "points_percent": 14,
+          "percent_off": 30,
+          "points": 208,
+          "points_percent": 1,
           "image": "https://m.media-amazon.com/images/I/3143nL6VZVL._SL160_.jpg",
           "url": "https://www.amazon.co.jp/dp/B0GW7WT5SQ?tag=natafull-22&linkCode=osi&th=1&psc=1",
           "since": "2026-07-24"
@@ -950,7 +1049,7 @@
           "price": 16800,
           "list_price": 18000,
           "percent_off": 7,
-          "points": 843,
+          "points": 762,
           "points_percent": 5,
           "image": "https://m.media-amazon.com/images/I/31Pm01yaVYL._SL160_.jpg",
           "url": "https://www.amazon.co.jp/dp/B0DK4FPB82?tag=natafull-22&linkCode=osi&th=1&psc=1",
@@ -1046,7 +1145,7 @@
         },
         {
           "asin": "B0GHQBSQ3C",
-          "title": "ECOVACS (エコバックス) DEEBOT T90 PRO OMNI 2026 吸引力30,000Pa 全自動 ロボット掃除機 水拭き両用 自動ゴミ収集 PowerBoost充電 エッジ清掃 ローラーモップ AI障害物回避 毛絡み防止ブラシ4.0 自動給水 モップ温水洗浄 熱風乾燥 落下防止システム AI音声認識 ホワイト",
+          "title": "ECOVACS(エコバックス) DEEBOT T90 PRO OMNI ローラー式強力モップ ロボット掃除機 30,000Pa強力吸引 水拭き 両用",
           "brand": "ECOVACS",
           "price": 109800,
           "list_price": 159800,
@@ -1097,6 +1196,19 @@
           "since": "2026-07-24"
         },
         {
+          "asin": "B0D8PHF6JX",
+          "title": "dreame (ドリーミー) D9 Max Gen2 ロボット掃除機 6000Pa強力吸引 水拭き対応 570 ml の大型ダストボックス 高精度LDSレーザーセンサー 高精度複数階マッピング機能 昼夜を問わず賢く掃除 静音設計 Google Home Alexa Siri対応",
+          "brand": "dreame",
+          "price": 26800,
+          "list_price": null,
+          "percent_off": null,
+          "points": 8844,
+          "points_percent": 33,
+          "image": "https://m.media-amazon.com/images/I/31m6EY+5w1L._SL160_.jpg",
+          "url": "https://www.amazon.co.jp/dp/B0D8PHF6JX?tag=natafull-22&linkCode=osi&th=1&psc=1",
+          "since": "2026-07-24"
+        },
+        {
           "asin": "B0F6NRWF9V",
           "title": "roborock Q7B+ ブラック ロボロック ロボット掃除機 小型 お掃除ロボット 水拭き 両用 自動ゴミ収集 150分 8,000Pa 強力吸引 マッピング 強力吸引 自動充電 アプリ操作 高精度レーザーセンサー 正規品 Q7BP52-04",
           "brand": "roborock",
@@ -1134,6 +1246,19 @@
           "image": "https://m.media-amazon.com/images/I/319BCGeg7ZL._SL160_.jpg",
           "url": "https://www.amazon.co.jp/dp/B0F9KCJ493?tag=natafull-22&linkCode=osi&th=1&psc=1",
           "since": "2026-07-24"
+        },
+        {
+          "asin": "B0B59452FZ",
+          "title": "dreame D10Plus ロボット掃除機 自動ゴミ収集 水拭き対応 4000Pa強力吸引 高精度LDSレーザーセンサー 高精度複数階マッピング機能 170分間連続稼働 Wi-Fi接続 Alexa対応 APP遠隔操作 自動充電 静音設計 遠隔操作 落下防止 衝突防止",
+          "brand": "dreame",
+          "price": 29800,
+          "list_price": null,
+          "percent_off": null,
+          "points": 8046,
+          "points_percent": 27,
+          "image": "https://m.media-amazon.com/images/I/31--73ZZPRL._SL160_.jpg",
+          "url": "https://www.amazon.co.jp/dp/B0B59452FZ?tag=natafull-22&linkCode=osi&th=1&psc=1",
+          "since": "2026-07-25"
         },
         {
           "asin": "B0F6NGXD99",
@@ -1214,19 +1339,6 @@
           "since": "2026-07-24"
         },
         {
-          "asin": "B0GRZCF29T",
-          "title": "Dyson(ダイソン) Dyson Spot+Scrub Ai (RB05 AM) ロボット掃除機",
-          "brand": "Dyson(ダイソン)",
-          "price": 164480,
-          "list_price": 194800,
-          "percent_off": 16,
-          "points": 0,
-          "points_percent": null,
-          "image": "https://m.media-amazon.com/images/I/41ydKidr5HL._SL160_.jpg",
-          "url": "https://www.amazon.co.jp/dp/B0GRZCF29T?tag=natafull-22&linkCode=osi&th=1&psc=1",
-          "since": "2026-07-28"
-        },
-        {
           "asin": "B0GXB5HWWD",
           "title": "roborock (ロボロック) Qrevo L Pro ロボット掃除機 水拭き両用 モップ温水洗浄 全自動お掃除ロボット【26年モデル・初心者向け】",
           "brand": "roborock",
@@ -1251,6 +1363,19 @@
           "image": "https://m.media-amazon.com/images/I/21Ku0d1qUyL._SL160_.jpg",
           "url": "https://www.amazon.co.jp/dp/B0BP21W3XX?tag=natafull-22&linkCode=osi&th=1&psc=1",
           "since": "2026-07-24"
+        },
+        {
+          "asin": "B0GRZCF29T",
+          "title": "Dyson(ダイソン) Dyson Spot+Scrub Ai (RB05 AM) ロボット掃除機",
+          "brand": "Dyson(ダイソン)",
+          "price": 170000,
+          "list_price": 194800,
+          "percent_off": 13,
+          "points": 0,
+          "points_percent": null,
+          "image": "https://m.media-amazon.com/images/I/41ydKidr5HL._SL160_.jpg",
+          "url": "https://www.amazon.co.jp/dp/B0GRZCF29T?tag=natafull-22&linkCode=osi&th=1&psc=1",
+          "since": "2026-07-28"
         }
       ]
     },
@@ -1388,17 +1513,56 @@
           "since": "2026-07-26"
         },
         {
+          "asin": "B0FV2NJ2MJ",
+          "title": "【なめらかに深剃り】フィリップス 電動シェーバー i9000シリーズ 電動 髭剃り メンズ 収納ケース付属 X9002/05 ダークグレイ",
+          "brand": "PHILIPS",
+          "price": 27200,
+          "list_price": 34980,
+          "percent_off": 22,
+          "points": 272,
+          "points_percent": 1,
+          "image": "https://m.media-amazon.com/images/I/41j+Hw-rZCL._SL160_.jpg",
+          "url": "https://www.amazon.co.jp/dp/B0FV2NJ2MJ?tag=natafull-22&linkCode=osi&th=1&psc=1",
+          "since": "2026-07-30"
+        },
+        {
           "asin": "B0C8SBYXPQ",
           "title": "パナソニック ラムダッシュ パームインシェーバー メンズシェーバー コンパクト ベーシックタイプ 5枚刃 マットブラック ES-PV3A-K",
           "brand": "パナソニック(Panasonic)",
-          "price": 29000,
+          "price": 28700,
           "list_price": 37026,
           "percent_off": 22,
-          "points": 290,
-          "points_percent": 1,
+          "points": 0,
+          "points_percent": null,
           "image": "https://m.media-amazon.com/images/I/31DUgjKcCaL._SL160_.jpg",
           "url": "https://www.amazon.co.jp/dp/B0C8SBYXPQ?tag=natafull-22&linkCode=osi&th=1&psc=1",
           "since": "2026-07-26"
+        },
+        {
+          "asin": "B0BSFHF9JQ",
+          "title": "【やさしく剃れる】フィリップス 電動シェーバー 5000Xシリーズ 電動 髭剃り メンズ X5007/00 ブラック",
+          "brand": "PHILIPS",
+          "price": 12799,
+          "list_price": 15400,
+          "percent_off": 17,
+          "points": 128,
+          "points_percent": 1,
+          "image": "https://m.media-amazon.com/images/I/51ef86F+YiL._SL160_.jpg",
+          "url": "https://www.amazon.co.jp/dp/B0BSFHF9JQ?tag=natafull-22&linkCode=osi&th=1&psc=1",
+          "since": "2026-07-30"
+        },
+        {
+          "asin": "B0F87SC5R6",
+          "title": "【なめらかに深剃り】フィリップス 電動シェーバー i9000 プレステージ 電動 髭剃り メンズ XP9205/05 シルバーメタリック",
+          "brand": "PHILIPS",
+          "price": 41547,
+          "list_price": 49500,
+          "percent_off": 16,
+          "points": 0,
+          "points_percent": null,
+          "image": "https://m.media-amazon.com/images/I/51eAsWEAZ-L._SL160_.jpg",
+          "url": "https://www.amazon.co.jp/dp/B0F87SC5R6?tag=natafull-22&linkCode=osi&th=1&psc=1",
+          "since": "2026-07-30"
         },
         {
           "asin": "B0FGHXK5T4",
@@ -1471,6 +1635,32 @@
           "since": "2026-07-26"
         },
         {
+          "asin": "B0D28N991R",
+          "title": "【ワンランク上の白さへ】フィリップス 電動歯ブラシ ソニッケアー ダイヤモンドクリーン9000 HX9911/71",
+          "brand": "PHILIPS",
+          "price": 28050,
+          "list_price": 33990,
+          "percent_off": 17,
+          "points": 281,
+          "points_percent": 1,
+          "image": "https://m.media-amazon.com/images/I/316647ZW3AL._SL160_.jpg",
+          "url": "https://www.amazon.co.jp/dp/B0D28N991R?tag=natafull-22&linkCode=osi&th=1&psc=1",
+          "since": "2026-07-30"
+        },
+        {
+          "asin": "B0FMKL5DQP",
+          "title": "【しっかり磨き上げる】フィリップス 電動歯ブラシ ソニッケアー 5300 HX7108/09 ホワイト",
+          "brand": "PHILIPS",
+          "price": 13200,
+          "list_price": 15840,
+          "percent_off": 17,
+          "points": 132,
+          "points_percent": 1,
+          "image": "https://m.media-amazon.com/images/I/41FnVHlqzOL._SL160_.jpg",
+          "url": "https://www.amazon.co.jp/dp/B0FMKL5DQP?tag=natafull-22&linkCode=osi&th=1&psc=1",
+          "since": "2026-07-30"
+        },
+        {
           "asin": "B0DB4GH421",
           "title": "ブラウン 電動歯ブラシ オーラルB 【電動初心者の決定版】iO2 iOS21C90PK 防水 歯科医推奨No.1ブランド【Amazon.co.jp 限定】",
           "brand": "Braun",
@@ -1528,34 +1718,8 @@
           "since": "2026-07-28"
         },
         {
-          "asin": "B0DCJZH3QH",
-          "title": "【国内正規品】Keychron B1 Pro ウルトラスリム ワイヤレスキーボード、ZMKカスタマイズ、シザースイッチ、2.4 GHz/Bluetooth 5.2/有線接続、ロングバッテリーライフ、Mac Windows Linux対応 (スペースグレー, USレイアウト)",
-          "brand": "Keychron",
-          "price": 5544,
-          "list_price": 6930,
-          "percent_off": 20,
-          "points": 554,
-          "points_percent": 10,
-          "image": "https://m.media-amazon.com/images/I/41Up-tVOL7L._SL160_.jpg",
-          "url": "https://www.amazon.co.jp/dp/B0DCJZH3QH?tag=natafull-22&linkCode=osi&th=1&psc=1",
-          "since": "2026-07-29"
-        },
-        {
-          "asin": "B0DCJXV7DB",
-          "title": "【国内正規品】Keychron B6 Pro ウルトラスリム ワイヤレスキーボード、フルサイズ、テンキー付、ZMKカスタマイズ、シザースイッチ、2.4 GHz/Bluetooth 5.2/有線接続、ロングバッテリーライフ、Mac Windows Linux対応 (スペースグレー, USレイアウト)",
-          "brand": "Keychron",
-          "price": 6248,
-          "list_price": 7810,
-          "percent_off": 20,
-          "points": 625,
-          "points_percent": 10,
-          "image": "https://m.media-amazon.com/images/I/31fl8gGmVBL._SL160_.jpg",
-          "url": "https://www.amazon.co.jp/dp/B0DCJXV7DB?tag=natafull-22&linkCode=osi&th=1&psc=1",
-          "since": "2026-07-29"
-        },
-        {
           "asin": "B0D9VVL9DY",
-          "title": "【Amazon.co.jp限定】 Logicool G PRO X TKL RAPID ゲーミングキーボード G-PKB-TKL-RTBKd",
+          "title": "【Amazon.co.jp限定】 Logicool G PRO X TKL RAPID ゲーミングキーボード",
           "brand": "Logicool G(ロジクール G)",
           "price": 19990,
           "list_price": 28351,
@@ -1684,6 +1848,32 @@
           "since": "2026-07-28"
         },
         {
+          "asin": "B0DCJZH3QH",
+          "title": "【国内正規品】Keychron B1 Pro ウルトラスリム ワイヤレスキーボード、ZMKカスタマイズ、シザースイッチ、2.4 GHz/Bluetooth 5.2/有線接続、ロングバッテリーライフ、Mac Windows Linux対応 (スペースグレー, USレイアウト)",
+          "brand": "Keychron",
+          "price": 5544,
+          "list_price": 6930,
+          "percent_off": 20,
+          "points": 55,
+          "points_percent": 1,
+          "image": "https://m.media-amazon.com/images/I/41Up-tVOL7L._SL160_.jpg",
+          "url": "https://www.amazon.co.jp/dp/B0DCJZH3QH?tag=natafull-22&linkCode=osi&th=1&psc=1",
+          "since": "2026-07-29"
+        },
+        {
+          "asin": "B0DCJXV7DB",
+          "title": "【国内正規品】Keychron B6 Pro ウルトラスリム ワイヤレスキーボード、フルサイズ、テンキー付、ZMKカスタマイズ、シザースイッチ、2.4 GHz/Bluetooth 5.2/有線接続、ロングバッテリーライフ、Mac Windows Linux対応 (スペースグレー, USレイアウト)",
+          "brand": "Keychron",
+          "price": 6248,
+          "list_price": 7810,
+          "percent_off": 20,
+          "points": 62,
+          "points_percent": 1,
+          "image": "https://m.media-amazon.com/images/I/31fl8gGmVBL._SL160_.jpg",
+          "url": "https://www.amazon.co.jp/dp/B0DCJXV7DB?tag=natafull-22&linkCode=osi&th=1&psc=1",
+          "since": "2026-07-29"
+        },
+        {
           "asin": "B0D9Y1SNQT",
           "title": "【Amazon.co.jp限定】 ロジクール 静音 ワイヤレス トラックボール マウス MX ERGO S MXTB2d 無線 グラファイト",
           "brand": "Logitech",
@@ -1739,7 +1929,7 @@
           "asin": "B0BKPL1VKW",
           "title": "ロジクール ワイヤレスマウス 静音 無線 高速スクロール Signature M750MGR レギュラー グラファイト M750 国内正規品",
           "brand": "Logitech",
-          "price": 4363,
+          "price": 4364,
           "list_price": 5280,
           "percent_off": 17,
           "points": 44,
@@ -1799,6 +1989,19 @@
           "image": "https://m.media-amazon.com/images/I/31X3ipEzCIL._SL160_.jpg",
           "url": "https://www.amazon.co.jp/dp/B0D21S5SPG?tag=natafull-22&linkCode=osi&th=1&psc=1",
           "since": "2026-07-28"
+        },
+        {
+          "asin": "B0B2ZT2HRJ",
+          "title": "ロジクール SIGNATURE K855GR 無線 メカニカルキーボード TTC製 赤軸 リニア Bluetooth Logi Bolt Unifying非対応 コンパクト 日本語配列 小型 テンキーレス メカニカル ワイヤレス キーボード グラファイト windows mac Chrome Android K855 国内正規品",
+          "brand": "Logitech",
+          "price": 10980,
+          "list_price": 13200,
+          "percent_off": 17,
+          "points": 0,
+          "points_percent": null,
+          "image": "https://m.media-amazon.com/images/I/41KcgrvMP5L._SL160_.jpg",
+          "url": "https://www.amazon.co.jp/dp/B0B2ZT2HRJ?tag=natafull-22&linkCode=osi&th=1&psc=1",
+          "since": "2026-07-26"
         },
         {
           "asin": "B0GL26M6Z2",
@@ -1981,6 +2184,19 @@
           "image": "https://m.media-amazon.com/images/I/31q0s9pqmaL._SL160_.jpg",
           "url": "https://www.amazon.co.jp/dp/B07MC7LLTR?tag=natafull-22&linkCode=osi&th=1&psc=1",
           "since": "2026-07-29"
+        },
+        {
+          "asin": "B0GL1G8PQZ",
+          "title": "東プレ REALFORCE GX1 Plus νガンダム (ニューガンダム) 日本語配列 ゲーミングキーボード X1PCN1 KB0937",
+          "brand": "REALFORCE",
+          "price": 50907,
+          "list_price": 55333,
+          "percent_off": 8,
+          "points": 2767,
+          "points_percent": 5,
+          "image": "https://m.media-amazon.com/images/I/31uMnYTnvaL._SL160_.jpg",
+          "url": "https://www.amazon.co.jp/dp/B0GL1G8PQZ?tag=natafull-22&linkCode=osi&th=1&psc=1",
+          "since": "2026-07-30"
         },
         {
           "asin": "B0C2YK1CS6",

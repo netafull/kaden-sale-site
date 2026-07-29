@@ -1,21 +1,11 @@
 {
-  "updated": "2026-07-29T00:14:03.640492+00:00",
+  "updated": "2026-07-29T23:13:42.278770+00:00",
   "site_url": "https://kaden.netaful.jp/",
   "site_title": "家電ポチ",
   "genres": [
     {
       "name": "Apple製品",
       "books": [
-        {
-          "title": "Apple iPhone Air 256GB (SIMフリー)：史上最薄のiPhone、最大120HzのProMotionを採用した6.5インチディスプレイ、パワフルなA19 Proチップ、センターフレームフロントカメラ、一日中使えるバッテリー；スペースブラック",
-          "price": 139800,
-          "list_price": 177800,
-          "percent_off": 21,
-          "points": 1398,
-          "points_percent": 1,
-          "image": "https://m.media-amazon.com/images/I/31Y8ZfpTmKL._SL160_.jpg",
-          "url": "https://www.amazon.co.jp/dp/B0FQFLWSWZ?tag=natafull-22&linkCode=osi&th=1&psc=1"
-        },
         {
           "title": "Apple AirPods Pro 3 ワイヤレスイヤホン、アクティブノイズキャンセリング、ライブ翻訳、心拍センサー、補聴機能、Bluetoothヘッドホン、空間オーディオ サウンド、USB-C充電ケース、防塵性能と耐汗耐水性能、「探す」対応、Qi充電",
           "price": 36800,
@@ -43,13 +33,23 @@
       "books": [
         {
           "title": "エレコム モバイルバッテリー 30W 10000mAh 残量表示 USB PD対応 3ポート Type-C×2 USB-A×1 ケーブル別売り ブラック EC-C23LBK",
-          "price": 2450,
+          "price": 2690,
           "list_price": 4980,
-          "percent_off": 51,
+          "percent_off": 46,
           "points": 0,
           "points_percent": null,
           "image": "https://m.media-amazon.com/images/I/31RoQwW6aTL._SL160_.jpg",
           "url": "https://www.amazon.co.jp/dp/B0D4Y52TDX?tag=natafull-22&linkCode=osi&th=1&psc=1"
+        },
+        {
+          "title": "Anker Power Bank (30W, Fusion, Built-In USB-C ケーブル) ブラック",
+          "price": 3990,
+          "list_price": 5990,
+          "percent_off": 33,
+          "points": 239,
+          "points_percent": 6,
+          "image": "https://m.media-amazon.com/images/I/21FZAnhgkQL._SL160_.jpg",
+          "url": "https://www.amazon.co.jp/dp/B0CL8S3WMX?tag=natafull-22&linkCode=osi&th=1&psc=1"
         },
         {
           "title": "エレコム モバイルバッテリー 10000mAh 30W USB PD対応 Type-C 2ポート 充電ケーブル別売り ブラック EC-C42LBK",
@@ -82,6 +82,16 @@
           "url": "https://www.amazon.co.jp/dp/B0FQJ1LWCQ?tag=natafull-22&linkCode=osi&th=1&psc=1"
         },
         {
+          "title": "UGREEN 145W モバイルバッテリー 25000mAh大容量 3ポート USB-C×2 USB-A×1 240W ケーブル付",
+          "price": 9980,
+          "list_price": 13980,
+          "percent_off": 29,
+          "points": 399,
+          "points_percent": 4,
+          "image": "https://m.media-amazon.com/images/I/31DNDSYNwEL._SL160_.jpg",
+          "url": "https://www.amazon.co.jp/dp/B0BJQ7F16T?tag=natafull-22&linkCode=osi&th=1&psc=1"
+        },
+        {
           "title": "CIO モバイルバッテリー PD USB-C×2 USB-A×1 10000mAh SMARTCOBY Pro SLIM 35W (ブラック)",
           "price": 3280,
           "list_price": 4818,
@@ -100,26 +110,6 @@
           "points_percent": 1,
           "image": "https://m.media-amazon.com/images/I/21za22mfF9L._SL160_.jpg",
           "url": "https://www.amazon.co.jp/dp/B0CG8Q3LMR?tag=natafull-22&linkCode=osi&th=1&psc=1"
-        },
-        {
-          "title": "Anker Power Bank (25000mAh, Built-In & 巻取り式USB-Cケーブル) ブラック",
-          "price": 10490,
-          "list_price": 14990,
-          "percent_off": 30,
-          "points": 105,
-          "points_percent": 1,
-          "image": "https://m.media-amazon.com/images/I/31C31kGhOzL._SL160_.jpg",
-          "url": "https://www.amazon.co.jp/dp/B0DT4RGDSJ?tag=natafull-22&linkCode=osi&th=1&psc=1"
-        },
-        {
-          "title": "Anker Power Bank (20000mAh, 30W) ブラック",
-          "price": 5990,
-          "list_price": null,
-          "percent_off": null,
-          "points": 1617,
-          "points_percent": 27,
-          "image": "https://m.media-amazon.com/images/I/31MXSbjh1JL._SL160_.jpg",
-          "url": "https://www.amazon.co.jp/dp/B0CQY7SRTY?tag=natafull-22&linkCode=osi&th=1&psc=1"
         }
       ]
     },
@@ -167,6 +157,16 @@
           "url": "https://www.amazon.co.jp/dp/B0F99FCSX7?tag=natafull-22&linkCode=osi&th=1&psc=1"
         },
         {
+          "title": "Anker 511 Charger (Nano 3, 30W) ブラック",
+          "price": 1990,
+          "list_price": 2790,
+          "percent_off": 29,
+          "points": 100,
+          "points_percent": 5,
+          "image": "https://m.media-amazon.com/images/I/3161eFAqZGL._SL160_.jpg",
+          "url": "https://www.amazon.co.jp/dp/B0B2QQDKR8?tag=natafull-22&linkCode=osi&th=1&psc=1"
+        },
+        {
           "title": "UGREEN 45W USB-C*2+USB-A*1 急速充電器 Type-C PD GaNⅡ充電器 PSE適合タイプc充電器 PD/PPS/SCP/QC3.0",
           "price": 2600,
           "list_price": 3880,
@@ -195,16 +195,6 @@
           "points_percent": 1,
           "image": "https://m.media-amazon.com/images/I/31k2nc5tX2L._SL160_.jpg",
           "url": "https://www.amazon.co.jp/dp/B0CLGZGXMD?tag=natafull-22&linkCode=osi&th=1&psc=1"
-        },
-        {
-          "title": "Anker 523 Charger (Nano 3, 47W) ホワイト",
-          "price": 3990,
-          "list_price": null,
-          "percent_off": null,
-          "points": 1237,
-          "points_percent": 31,
-          "image": "https://m.media-amazon.com/images/I/31huxMX7r9L._SL160_.jpg",
-          "url": "https://www.amazon.co.jp/dp/B0BF43HS1G?tag=natafull-22&linkCode=osi&th=1&psc=1"
         }
       ]
     },
@@ -213,11 +203,11 @@
       "books": [
         {
           "title": "ソニー ゲーミングイヤホン INZONE Buds:WF-G700N Fnatic監修/ワイヤレス / 低遅延2.4GHzワイヤレス接続 USBType-Cトランシーバー同梱/LE Audio対応/アクティブノイズキャンセリング/立体音響 / 最大約24時間バッテリー / 急速充電/マイク付き / PS5 スマホ PC Switch グラスパープル",
-          "price": 23900,
+          "price": 20800,
           "list_price": 29700,
-          "percent_off": 20,
-          "points": 3353,
-          "points_percent": 14,
+          "percent_off": 30,
+          "points": 208,
+          "points_percent": 1,
           "image": "https://m.media-amazon.com/images/I/3143nL6VZVL._SL160_.jpg",
           "url": "https://www.amazon.co.jp/dp/B0GW7WT5SQ?tag=natafull-22&linkCode=osi&th=1&psc=1"
         },
@@ -266,7 +256,7 @@
           "price": 16800,
           "list_price": 18000,
           "percent_off": 7,
-          "points": 843,
+          "points": 762,
           "points_percent": 5,
           "image": "https://m.media-amazon.com/images/I/31Pm01yaVYL._SL160_.jpg",
           "url": "https://www.amazon.co.jp/dp/B0DK4FPB82?tag=natafull-22&linkCode=osi&th=1&psc=1"
@@ -342,7 +332,7 @@
           "url": "https://www.amazon.co.jp/dp/B0H44Y871S?tag=natafull-22&linkCode=osi&th=1&psc=1"
         },
         {
-          "title": "ECOVACS (エコバックス) DEEBOT T90 PRO OMNI 2026 吸引力30,000Pa 全自動 ロボット掃除機 水拭き両用 自動ゴミ収集 PowerBoost充電 エッジ清掃 ローラーモップ AI障害物回避 毛絡み防止ブラシ4.0 自動給水 モップ温水洗浄 熱風乾燥 落下防止システム AI音声認識 ホワイト",
+          "title": "ECOVACS(エコバックス) DEEBOT T90 PRO OMNI ローラー式強力モップ ロボット掃除機 30,000Pa強力吸引 水拭き 両用",
           "price": 109800,
           "list_price": 159800,
           "percent_off": 31,
@@ -502,6 +492,26 @@
           "url": "https://www.amazon.co.jp/dp/B0DBKF4NV4?tag=natafull-22&linkCode=osi&th=1&psc=1"
         },
         {
+          "title": "【ワンランク上の白さへ】フィリップス 電動歯ブラシ ソニッケアー ダイヤモンドクリーン9000 HX9911/71",
+          "price": 28050,
+          "list_price": 33990,
+          "percent_off": 17,
+          "points": 281,
+          "points_percent": 1,
+          "image": "https://m.media-amazon.com/images/I/316647ZW3AL._SL160_.jpg",
+          "url": "https://www.amazon.co.jp/dp/B0D28N991R?tag=natafull-22&linkCode=osi&th=1&psc=1"
+        },
+        {
+          "title": "【しっかり磨き上げる】フィリップス 電動歯ブラシ ソニッケアー 5300 HX7108/09 ホワイト",
+          "price": 13200,
+          "list_price": 15840,
+          "percent_off": 17,
+          "points": 132,
+          "points_percent": 1,
+          "image": "https://m.media-amazon.com/images/I/41FnVHlqzOL._SL160_.jpg",
+          "url": "https://www.amazon.co.jp/dp/B0FMKL5DQP?tag=natafull-22&linkCode=osi&th=1&psc=1"
+        },
+        {
           "title": "ブラウン 電動歯ブラシ オーラルB 【電動初心者の決定版】iO2 iOS21C90PK 防水 歯科医推奨No.1ブランド【Amazon.co.jp 限定】",
           "price": 11800,
           "list_price": null,
@@ -547,27 +557,7 @@
           "url": "https://www.amazon.co.jp/dp/B0956X785M?tag=natafull-22&linkCode=osi&th=1&psc=1"
         },
         {
-          "title": "【国内正規品】Keychron B1 Pro ウルトラスリム ワイヤレスキーボード、ZMKカスタマイズ、シザースイッチ、2.4 GHz/Bluetooth 5.2/有線接続、ロングバッテリーライフ、Mac Windows Linux対応 (スペースグレー, USレイアウト)",
-          "price": 5544,
-          "list_price": 6930,
-          "percent_off": 20,
-          "points": 554,
-          "points_percent": 10,
-          "image": "https://m.media-amazon.com/images/I/41Up-tVOL7L._SL160_.jpg",
-          "url": "https://www.amazon.co.jp/dp/B0DCJZH3QH?tag=natafull-22&linkCode=osi&th=1&psc=1"
-        },
-        {
-          "title": "【国内正規品】Keychron B6 Pro ウルトラスリム ワイヤレスキーボード、フルサイズ、テンキー付、ZMKカスタマイズ、シザースイッチ、2.4 GHz/Bluetooth 5.2/有線接続、ロングバッテリーライフ、Mac Windows Linux対応 (スペースグレー, USレイアウト)",
-          "price": 6248,
-          "list_price": 7810,
-          "percent_off": 20,
-          "points": 625,
-          "points_percent": 10,
-          "image": "https://m.media-amazon.com/images/I/31fl8gGmVBL._SL160_.jpg",
-          "url": "https://www.amazon.co.jp/dp/B0DCJXV7DB?tag=natafull-22&linkCode=osi&th=1&psc=1"
-        },
-        {
-          "title": "【Amazon.co.jp限定】 Logicool G PRO X TKL RAPID ゲーミングキーボード G-PKB-TKL-RTBKd",
+          "title": "【Amazon.co.jp限定】 Logicool G PRO X TKL RAPID ゲーミングキーボード",
           "price": 19990,
           "list_price": 28351,
           "percent_off": 29,
@@ -595,6 +585,26 @@
           "points_percent": 1,
           "image": "https://m.media-amazon.com/images/I/31oKhJN1ZzL._SL160_.jpg",
           "url": "https://www.amazon.co.jp/dp/B0FL77NZXM?tag=natafull-22&linkCode=osi&th=1&psc=1"
+        },
+        {
+          "title": "【Amazon.co.jp限定】 Logicool G PRO ゲーミングキーボード G-PKB-002LNd テンキーレス リニア 赤軸 日本語配列",
+          "price": 10480,
+          "list_price": 14121,
+          "percent_off": 26,
+          "points": 105,
+          "points_percent": 1,
+          "image": "https://m.media-amazon.com/images/I/41NeXmPoHmL._SL160_.jpg",
+          "url": "https://www.amazon.co.jp/dp/B0BC135WFD?tag=natafull-22&linkCode=osi&th=1&psc=1"
+        },
+        {
+          "title": "REALFORCE リアルフォース ラピッドトリガー キーボード GX1 ホワイト 静音 30ｇ TKLサイズ 静電容量無接点方式 最速0.1mm作動 Windows 英語配列 日本製 ゲーミングキーボード 87キー X1UD23",
+          "price": 24750,
+          "list_price": 33000,
+          "percent_off": 25,
+          "points": 495,
+          "points_percent": 2,
+          "image": "https://m.media-amazon.com/images/I/313G0I5xQNL._SL160_.jpg",
+          "url": "https://www.amazon.co.jp/dp/B0DRJK17XF?tag=natafull-22&linkCode=osi&th=1&psc=1"
         }
       ]
     }

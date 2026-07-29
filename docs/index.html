@@ -97,6 +97,10 @@ details > .grid, details > .empty { margin-top: 12px; }
 .points { font-size: 11px; color: #0a7d3c; font-weight: 600; margin-top: 2px; }
 @media (prefers-color-scheme: dark) { .points { color: #4fd689; } }
 .since { font-size: 11px; color: var(--muted); margin-top: 2px; }
+/* 「今日のお買い得」でジャンル名を示すラベル */
+.gbadge { display: inline-block; font-size: 10px; font-weight: 600;
+  color: var(--muted); border: 1px solid var(--line); border-radius: 4px;
+  padding: 0 5px; margin-bottom: 3px; }
 footer { max-width: 960px; margin: 0 auto; padding: 16px;
   color: var(--muted); font-size: 12px; border-top: 1px solid var(--line); }
 .empty { color: var(--muted); font-size: 14px; padding: 12px 0; }
@@ -105,26 +109,82 @@ footer { max-width: 960px; margin: 0 auto; padding: 16px;
 <body>
 <header>
 <h1><a href="./"><img src="assets/logo.png" alt="" width="32" height="32">家電ポチ</a></h1>
-<p>Amazonでセール中のガジェット・家電を1時間ごとに自動更新でお届けします ｜ 割引率とポイント還元率の合計が12%以上の商品を掲載 ｜ 最終更新: 2026年07月29日 09:14</p>
+<p>Amazonでセール中のガジェット・家電を1時間ごとに自動更新でお届けします ｜ 割引率とポイント還元率の合計が12%以上の商品を掲載 ｜ 最終更新: 2026年07月30日 08:13</p>
 <div class="sites"><span class="lbl">関連サイト</span>
 <a href="https://book.netaful.jp/">電書ポチ<span class="lbl"> Kindle本セール</span></a>
 <a href="https://netafull.net/">ネタフル<span class="lbl"> 運営ブログ</span></a>
 </div>
 </header>
 <main>
-<details open id="g0">
-<summary><h2>Apple製品 (3件)</h2></summary>
+<details open id="top">
+<summary><h2>⭐ 今日のお買い得</h2></summary>
+<p class="cmeta">全ジャンルから割引率とポイント還元率の合計が高い商品を選びました</p>
 <div class="grid">
-<a class="book" href="https://www.amazon.co.jp/dp/B0FQFLWSWZ?tag=natafull-22&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="noopener sponsored">
-  <img src="https://m.media-amazon.com/images/I/31Y8ZfpTmKL._SL160_.jpg" alt="" loading="lazy">
+<a class="book" href="https://www.amazon.co.jp/dp/B0FMR9YY83?tag=natafull-22&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="noopener sponsored">
+  <img src="https://m.media-amazon.com/images/I/312T9QFCi4L._SL160_.jpg" alt="" loading="lazy">
   <div>
-    <div class="t">Apple iPhone Air 256GB (SIMフリー)：史上最薄のiPhone、最大120HzのProMotionを採用した6.5インチディスプレイ、パワフルなA19 Proチップ、センターフレームフロントカメラ、一日中使えるバッテリー；スペースブラック</div>
-    <div class="a">Apple(アップル)</div>
-    <div class="price"><span class="now">&yen;139,800</span><span class="was">&yen;177,800</span><span class="off">21%OFF</span></div>
-    <div class="points">+1398pt (1%還元)</div>
+    <div class="gbadge">ロボット掃除機</div><div class="t">ECOVACS (エコバックス) DEEBOT N30 PLUS 吸引力10,000Pa ロボット掃除機 水拭き両用 サイクロン式 お掃除ロボット</div>
+    <div class="a">ECOVACS</div>
+    <div class="price"><span class="now">&yen;29,800</span><span class="was">&yen;69,800</span><span class="off hi">57%OFF</span></div>
+    <div class="points">+298pt (1%還元)</div>
+    <div class="since">7/27から掲載</div>
+  </div>
+</a>
+<a class="book" href="https://www.amazon.co.jp/dp/B0DRVB4DVC?tag=natafull-22&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="noopener sponsored">
+  <img src="https://m.media-amazon.com/images/I/418DfT8kqdL._SL160_.jpg" alt="" loading="lazy">
+  <div>
+    <div class="gbadge">ロボット掃除機</div><div class="t">ECOVACS(エコバックス) 超薄全能型 DEEBOT T50 OMNI ロボット掃除機 15000Pa強力吸引 電動デュアルモップ 水拭き 両用</div>
+    <div class="a">ECOVACS</div>
+    <div class="price"><span class="now">&yen;49,800</span><span class="was">&yen;99,800</span><span class="off hi">50%OFF</span></div>
+    <div class="points">+498pt (1%還元)</div>
     <div class="since">7/29から掲載</div>
   </div>
 </a>
+<a class="book" href="https://www.amazon.co.jp/dp/B0DSJB2627?tag=natafull-22&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="noopener sponsored">
+  <img src="https://m.media-amazon.com/images/I/41ztVslLI1L._SL160_.jpg" alt="" loading="lazy">
+  <div>
+    <div class="gbadge">電気シェーバー</div><div class="t">ブラウン 電気シェーバー シリーズ9 SPORT 電動 髭剃り メンズ 9360cc 【Amazon.co.jp 限定】6in1アルコール洗浄システム付 シェーバーケース付 ブラック</div>
+    <div class="a">Braun</div>
+    <div class="price"><span class="now">&yen;29,800</span><span class="was">&yen;56,870</span><span class="off">48%OFF</span></div>
+    <div class="points">+298pt (1%還元)</div>
+    <div class="since">7/28から掲載</div>
+  </div>
+</a>
+<a class="book" href="https://www.amazon.co.jp/dp/B0CBPDCQLF?tag=natafull-22&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="noopener sponsored">
+  <img src="https://m.media-amazon.com/images/I/41RzlDhRYhL._SL160_.jpg" alt="" loading="lazy">
+  <div>
+    <div class="gbadge">電気シェーバー</div><div class="t">ブラウン 電気シェーバー シリーズ8 洗浄機付き 電動 髭剃り メンズ 【Amazon.co.jp 限定】 8560cc 5 in 1 100％防水設計 4+1 カットシステム 進化したキワぞり刃 夕方ヒゲ、ゼロへ 電動シェーバー 【最新2023年秋モデル】</div>
+    <div class="a">Braun</div>
+    <div class="price"><span class="now">&yen;22,800</span><span class="was">&yen;42,801</span><span class="off">47%OFF</span></div>
+    <div class="points">+228pt (1%還元)</div>
+    <div class="since">7/26から掲載</div>
+  </div>
+</a>
+<a class="book" href="https://www.amazon.co.jp/dp/B0D4Y52TDX?tag=natafull-22&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="noopener sponsored">
+  <img src="https://m.media-amazon.com/images/I/31RoQwW6aTL._SL160_.jpg" alt="" loading="lazy">
+  <div>
+    <div class="gbadge">モバイルバッテリー</div><div class="t">エレコム モバイルバッテリー 30W 10000mAh 残量表示 USB PD対応 3ポート Type-C×2 USB-A×1 ケーブル別売り ブラック EC-C23LBK</div>
+    <div class="a">エレコム(ELECOM)</div>
+    <div class="price"><span class="now">&yen;2,690</span><span class="was">&yen;4,980</span><span class="off">46%OFF</span></div>
+    
+    <div class="since">7/24から掲載</div>
+  </div>
+</a>
+<a class="book" href="https://www.amazon.co.jp/dp/B0DB48CFG7?tag=natafull-22&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="noopener sponsored">
+  <img src="https://m.media-amazon.com/images/I/419BXCd2EXL._SL160_.jpg" alt="" loading="lazy">
+  <div>
+    <div class="gbadge">電動歯ブラシ</div><div class="t">ブラウン 電動歯ブラシ オーラルB【電動初心者の決定版】iO2 iOS21D90BK ブラック 防水 歯科医推奨No.1ブランド【Amazon.co.jp 限定】</div>
+    <div class="a">Braun</div>
+    <div class="price"><span class="now">&yen;6,480</span><span class="was">&yen;11,880</span><span class="off">45%OFF</span></div>
+    <div class="points">+65pt (1%還元)</div>
+    <div class="since">7/26から掲載</div>
+  </div>
+</a>
+</div>
+</details>
+<details open id="g0">
+<summary><h2>Apple製品 (2件)</h2></summary>
+<div class="grid">
 <a class="book" href="https://www.amazon.co.jp/dp/B0FQFQDN6K?tag=natafull-22&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="noopener sponsored">
   <img src="https://m.media-amazon.com/images/I/318ibisrl7L._SL160_.jpg" alt="" loading="lazy">
   <div>
@@ -148,16 +208,26 @@ footer { max-width: 960px; margin: 0 auto; padding: 16px;
 </div>
 </details>
 <details open id="g1">
-<summary><h2>モバイルバッテリー (34件)</h2></summary>
+<summary><h2>モバイルバッテリー (36件)</h2></summary>
 <div class="grid">
 <a class="book" href="https://www.amazon.co.jp/dp/B0D4Y52TDX?tag=natafull-22&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="noopener sponsored">
   <img src="https://m.media-amazon.com/images/I/31RoQwW6aTL._SL160_.jpg" alt="" loading="lazy">
   <div>
     <div class="t">エレコム モバイルバッテリー 30W 10000mAh 残量表示 USB PD対応 3ポート Type-C×2 USB-A×1 ケーブル別売り ブラック EC-C23LBK</div>
     <div class="a">エレコム(ELECOM)</div>
-    <div class="price"><span class="now">&yen;2,450</span><span class="was">&yen;4,980</span><span class="off hi">51%OFF</span></div>
+    <div class="price"><span class="now">&yen;2,690</span><span class="was">&yen;4,980</span><span class="off">46%OFF</span></div>
     
     <div class="since">7/24から掲載</div>
+  </div>
+</a>
+<a class="book" href="https://www.amazon.co.jp/dp/B0CL8S3WMX?tag=natafull-22&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="noopener sponsored">
+  <img src="https://m.media-amazon.com/images/I/21FZAnhgkQL._SL160_.jpg" alt="" loading="lazy">
+  <div>
+    <div class="t">Anker Power Bank (30W, Fusion, Built-In USB-C ケーブル) ブラック</div>
+    <div class="a">Anker</div>
+    <div class="price"><span class="now">&yen;3,990</span><span class="was">&yen;5,990</span><span class="off">33%OFF</span></div>
+    <div class="points">+239pt (6%還元)</div>
+    <div class="since">7/27から掲載</div>
   </div>
 </a>
 <a class="book" href="https://www.amazon.co.jp/dp/B0DRC8DBL8?tag=natafull-22&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="noopener sponsored">
@@ -190,6 +260,16 @@ footer { max-width: 960px; margin: 0 auto; padding: 16px;
     <div class="since">7/29から掲載</div>
   </div>
 </a>
+<a class="book" href="https://www.amazon.co.jp/dp/B0BJQ7F16T?tag=natafull-22&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="noopener sponsored">
+  <img src="https://m.media-amazon.com/images/I/31DNDSYNwEL._SL160_.jpg" alt="" loading="lazy">
+  <div>
+    <div class="t">UGREEN 145W モバイルバッテリー 25000mAh大容量 3ポート USB-C×2 USB-A×1 240W ケーブル付</div>
+    <div class="a">UGREEN</div>
+    <div class="price"><span class="now">&yen;9,980</span><span class="was">&yen;13,980</span><span class="off">29%OFF</span></div>
+    <div class="points">+399pt (4%還元)</div>
+    <div class="since">7/30から掲載</div>
+  </div>
+</a>
 <a class="book" href="https://www.amazon.co.jp/dp/B0CHVZHLZ1?tag=natafull-22&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="noopener sponsored">
   <img src="https://m.media-amazon.com/images/I/3149E+OeqGL._SL160_.jpg" alt="" loading="lazy">
   <div>
@@ -220,13 +300,13 @@ footer { max-width: 960px; margin: 0 auto; padding: 16px;
     <div class="since">7/27から掲載</div>
   </div>
 </a>
-<a class="book" href="https://www.amazon.co.jp/dp/B0CQY7SRTY?tag=natafull-22&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="noopener sponsored">
-  <img src="https://m.media-amazon.com/images/I/31MXSbjh1JL._SL160_.jpg" alt="" loading="lazy">
+<a class="book" href="https://www.amazon.co.jp/dp/B0CX4C1TVK?tag=natafull-22&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="noopener sponsored">
+  <img src="https://m.media-amazon.com/images/I/21tsSzagwCL._SL160_.jpg" alt="" loading="lazy">
   <div>
-    <div class="t">Anker Power Bank (20000mAh, 30W) ブラック</div>
+    <div class="t">Anker Power Bank (10000mAh, Fusion, Built-In USB-C ケーブル) ブラック</div>
     <div class="a">Anker</div>
-    <div class="price"><span class="now">&yen;5,990</span></div>
-    <div class="points">+1617pt (27%還元)</div>
+    <div class="price"><span class="now">&yen;5,990</span><span class="was">&yen;7,990</span><span class="off">25%OFF</span></div>
+    <div class="points">+120pt (2%還元)</div>
     <div class="since">7/27から掲載</div>
   </div>
 </a>
@@ -445,8 +525,8 @@ footer { max-width: 960px; margin: 0 auto; padding: 16px;
   <div>
     <div class="t">エレコム モバイルバッテリー 10000mAh 大容量 マグネット ( USB PD対応 ) Type-C×1 / USB-A×1 【 iPhone12 / iPhone13 シリーズ推奨 】 PSE認証 ブラック EC-C02BK</div>
     <div class="a">エレコム(ELECOM)</div>
-    <div class="price"><span class="now">&yen;1,681</span><span class="was">&yen;1,960</span><span class="off">14%OFF</span></div>
-    
+    <div class="price"><span class="now">&yen;1,698</span><span class="was">&yen;1,960</span><span class="off">13%OFF</span></div>
+    <div class="points">+17pt (1%還元)</div>
     <div class="since">7/24から掲載</div>
   </div>
 </a>
@@ -535,6 +615,16 @@ footer { max-width: 960px; margin: 0 auto; padding: 16px;
     <div class="since">7/27から掲載</div>
   </div>
 </a>
+<a class="book" href="https://www.amazon.co.jp/dp/B0B2QQDKR8?tag=natafull-22&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="noopener sponsored">
+  <img src="https://m.media-amazon.com/images/I/3161eFAqZGL._SL160_.jpg" alt="" loading="lazy">
+  <div>
+    <div class="t">Anker 511 Charger (Nano 3, 30W) ブラック</div>
+    <div class="a">Anker</div>
+    <div class="price"><span class="now">&yen;1,990</span><span class="was">&yen;2,790</span><span class="off">29%OFF</span></div>
+    <div class="points">+100pt (5%還元)</div>
+    <div class="since">7/27から掲載</div>
+  </div>
+</a>
 <a class="book" href="https://www.amazon.co.jp/dp/B0DMFFK5LV?tag=natafull-22&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="noopener sponsored">
   <img src="https://m.media-amazon.com/images/I/21ROqWneEML._SL160_.jpg" alt="" loading="lazy">
   <div>
@@ -562,6 +652,16 @@ footer { max-width: 960px; margin: 0 auto; padding: 16px;
     <div class="a">UGREEN</div>
     <div class="price"><span class="now">&yen;3,600</span><span class="was">&yen;5,180</span><span class="off">31%OFF</span></div>
     <div class="points">+36pt (1%還元)</div>
+    <div class="since">7/27から掲載</div>
+  </div>
+</a>
+<a class="book" href="https://www.amazon.co.jp/dp/B091BGMKYS?tag=natafull-22&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="noopener sponsored">
+  <img src="https://m.media-amazon.com/images/I/21gaL9IWnrL._SL160_.jpg" alt="" loading="lazy">
+  <div>
+    <div class="t">UGREEN Nexode急速充電器 65W Type-C 2C1A 3ポート PD/PPS/QC3.0/SCP/FCP対応 折り畳み式</div>
+    <div class="a">UGREEN</div>
+    <div class="price"><span class="now">&yen;2,979</span><span class="was">&yen;4,280</span><span class="off">30%OFF</span></div>
+    <div class="points">+30pt (1%還元)</div>
     <div class="since">7/27から掲載</div>
   </div>
 </a>
@@ -593,6 +693,16 @@ footer { max-width: 960px; margin: 0 auto; padding: 16px;
     <div class="price"><span class="now">&yen;3,980</span><span class="was">&yen;5,480</span><span class="off">27%OFF</span></div>
     <div class="points">+40pt (1%還元)</div>
     <div class="since">7/29から掲載</div>
+  </div>
+</a>
+<a class="book" href="https://www.amazon.co.jp/dp/B0DG93MZCR?tag=natafull-22&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="noopener sponsored">
+  <img src="https://m.media-amazon.com/images/I/21PaNbH7wbL._SL160_.jpg" alt="" loading="lazy">
+  <div>
+    <div class="t">UGREEN PD充電器 type-c 30W 2*USB-C+1*USB-A GaN PSE適合/PD3.0</div>
+    <div class="a">UGREEN</div>
+    <div class="price"><span class="now">&yen;1,484</span><span class="was">&yen;1,980</span><span class="off">25%OFF</span></div>
+    <div class="points">+15pt (1%還元)</div>
+    <div class="since">7/27から掲載</div>
   </div>
 </a>
 <a class="book" href="https://www.amazon.co.jp/dp/B0DNT9Z2HS?tag=natafull-22&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="noopener sponsored">
@@ -635,26 +745,6 @@ footer { max-width: 960px; margin: 0 auto; padding: 16px;
     <div class="since">7/29から掲載</div>
   </div>
 </a>
-<a class="book" href="https://www.amazon.co.jp/dp/B0DG93MZCR?tag=natafull-22&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="noopener sponsored">
-  <img src="https://m.media-amazon.com/images/I/21PaNbH7wbL._SL160_.jpg" alt="" loading="lazy">
-  <div>
-    <div class="t">UGREEN PD充電器 type-c 30W 2*USB-C+1*USB-A GaN PSE適合/PD3.0</div>
-    <div class="a">UGREEN</div>
-    <div class="price"><span class="now">&yen;1,584</span><span class="was">&yen;1,980</span><span class="off">20%OFF</span></div>
-    <div class="points">+16pt (1%還元)</div>
-    <div class="since">7/27から掲載</div>
-  </div>
-</a>
-<a class="book" href="https://www.amazon.co.jp/dp/B0GDCPBYHF?tag=natafull-22&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="noopener sponsored">
-  <img src="https://m.media-amazon.com/images/I/3154ULce2pL._SL160_.jpg" alt="" loading="lazy">
-  <div>
-    <div class="t">UGREEN Air 65W PD 急速充電器 USB-C 超小型 GaNII</div>
-    <div class="a">UGREEN</div>
-    <div class="price"><span class="now">&yen;3,424</span><span class="was">&yen;4,280</span><span class="off">20%OFF</span></div>
-    <div class="points">+34pt (1%還元)</div>
-    <div class="since">7/27から掲載</div>
-  </div>
-</a>
 <a class="book" href="https://www.amazon.co.jp/dp/B0BZHZ56M9?tag=natafull-22&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="noopener sponsored">
   <img src="https://m.media-amazon.com/images/I/31d7RJsWAmL._SL160_.jpg" alt="" loading="lazy">
   <div>
@@ -662,16 +752,6 @@ footer { max-width: 960px; margin: 0 auto; padding: 16px;
     <div class="a">UGREEN</div>
     <div class="price"><span class="now">&yen;2,360</span><span class="was">&yen;2,950</span><span class="off">20%OFF</span></div>
     <div class="points">+24pt (1%還元)</div>
-    <div class="since">7/27から掲載</div>
-  </div>
-</a>
-<a class="book" href="https://www.amazon.co.jp/dp/B091BGMKYS?tag=natafull-22&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="noopener sponsored">
-  <img src="https://m.media-amazon.com/images/I/21gaL9IWnrL._SL160_.jpg" alt="" loading="lazy">
-  <div>
-    <div class="t">UGREEN Nexode急速充電器 65W Type-C 2C1A 3ポート PD/PPS/QC3.0/SCP/FCP対応 折り畳み式</div>
-    <div class="a">UGREEN</div>
-    <div class="price"><span class="now">&yen;3,500</span><span class="was">&yen;4,280</span><span class="off">18%OFF</span></div>
-    <div class="points">+35pt (1%還元)</div>
     <div class="since">7/27から掲載</div>
   </div>
 </a>
@@ -735,14 +815,14 @@ footer { max-width: 960px; margin: 0 auto; padding: 16px;
     <div class="since">7/29から掲載</div>
   </div>
 </a>
-<a class="book" href="https://www.amazon.co.jp/dp/B0H3281V2P?tag=natafull-22&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="noopener sponsored">
-  <img src="https://m.media-amazon.com/images/I/21FjbUdJTSL._SL160_.jpg" alt="" loading="lazy">
+<a class="book" href="https://www.amazon.co.jp/dp/B0H329XGNF?tag=natafull-22&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="noopener sponsored">
+  <img src="https://m.media-amazon.com/images/I/31llOrOvGkL._SL160_.jpg" alt="" loading="lazy">
   <div>
-    <div class="t">CIO NovaPort SLIM DUOⅡ 65W2C PD急速充電器 USB-C×2 180°スイングプラグ 薄型12.5mm （ホワイト）</div>
+    <div class="t">CIO NovaPort SLIM DUOⅡ 65W2C PD急速充電器 USB-C×2 180°スイングプラグ 薄型12.5mm（ブラック）</div>
     <div class="a">CIO</div>
     <div class="price"><span class="now">&yen;5,280</span><span class="was">&yen;5,980</span><span class="off">12%OFF</span></div>
     <div class="points">+53pt (1%還元)</div>
-    <div class="since">7/29から掲載</div>
+    <div class="since">7/30から掲載</div>
   </div>
 </a>
 <a class="book" href="https://www.amazon.co.jp/dp/B0CZND25TV?tag=natafull-22&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="noopener sponsored">
@@ -795,8 +875,8 @@ footer { max-width: 960px; margin: 0 auto; padding: 16px;
   <div>
     <div class="t">ソニー ゲーミングイヤホン INZONE Buds:WF-G700N Fnatic監修/ワイヤレス / 低遅延2.4GHzワイヤレス接続 USBType-Cトランシーバー同梱/LE Audio対応/アクティブノイズキャンセリング/立体音響 / 最大約24時間バッテリー / 急速充電/マイク付き / PS5 スマホ PC Switch グラスパープル</div>
     <div class="a">Sony</div>
-    <div class="price"><span class="now">&yen;23,900</span><span class="was">&yen;29,700</span><span class="off">20%OFF</span></div>
-    <div class="points">+3353pt (14%還元)</div>
+    <div class="price"><span class="now">&yen;20,800</span><span class="was">&yen;29,700</span><span class="off">30%OFF</span></div>
+    <div class="points">+208pt (1%還元)</div>
     <div class="since">7/24から掲載</div>
   </div>
 </a>
@@ -846,7 +926,7 @@ footer { max-width: 960px; margin: 0 auto; padding: 16px;
     <div class="t">JVCケンウッド Victor HA-NP1T-A ワイヤレスイヤホン Bluetooth Ver.5.3 オープンイヤー イヤーカフ アプリ対応 マルチポイント 合計24時間再生 マイク付き 小型 軽量 防水 音アクセ ティールブルー</div>
     <div class="a">JVCケンウッド</div>
     <div class="price"><span class="now">&yen;16,800</span><span class="was">&yen;18,000</span><span class="off">7%OFF</span></div>
-    <div class="points">+843pt (5%還元)</div>
+    <div class="points">+762pt (5%還元)</div>
     <div class="since">7/24から掲載</div>
   </div>
 </a>
@@ -878,7 +958,7 @@ footer { max-width: 960px; margin: 0 auto; padding: 16px;
 </div>
 </details>
 <details open id="g5">
-<summary><h2>ロボット掃除機 (20件)</h2></summary>
+<summary><h2>ロボット掃除機 (22件)</h2></summary>
 <div class="grid">
 <a class="book" href="https://www.amazon.co.jp/dp/B0FMR9YY83?tag=natafull-22&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="noopener sponsored">
   <img src="https://m.media-amazon.com/images/I/312T9QFCi4L._SL160_.jpg" alt="" loading="lazy">
@@ -923,7 +1003,7 @@ footer { max-width: 960px; margin: 0 auto; padding: 16px;
 <a class="book" href="https://www.amazon.co.jp/dp/B0GHQBSQ3C?tag=natafull-22&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="noopener sponsored">
   <img src="https://m.media-amazon.com/images/I/31tQ86g6V3L._SL160_.jpg" alt="" loading="lazy">
   <div>
-    <div class="t">ECOVACS (エコバックス) DEEBOT T90 PRO OMNI 2026 吸引力30,000Pa 全自動 ロボット掃除機 水拭き両用 自動ゴミ収集 PowerBoost充電 エッジ清掃 ローラーモップ AI障害物回避 毛絡み防止ブラシ4.0 自動給水 モップ温水洗浄 熱風乾燥 落下防止システム AI音声認識 ホワイト</div>
+    <div class="t">ECOVACS(エコバックス) DEEBOT T90 PRO OMNI ローラー式強力モップ ロボット掃除機 30,000Pa強力吸引 水拭き 両用</div>
     <div class="a">ECOVACS</div>
     <div class="price"><span class="now">&yen;109,800</span><span class="was">&yen;159,800</span><span class="off">31%OFF</span></div>
     <div class="points">+10980pt (10%還元)</div>
@@ -960,6 +1040,16 @@ footer { max-width: 960px; margin: 0 auto; padding: 16px;
     <div class="since">7/24から掲載</div>
   </div>
 </a>
+<a class="book" href="https://www.amazon.co.jp/dp/B0D8PHF6JX?tag=natafull-22&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="noopener sponsored">
+  <img src="https://m.media-amazon.com/images/I/31m6EY+5w1L._SL160_.jpg" alt="" loading="lazy">
+  <div>
+    <div class="t">dreame (ドリーミー) D9 Max Gen2 ロボット掃除機 6000Pa強力吸引 水拭き対応 570 ml の大型ダストボックス 高精度LDSレーザーセンサー 高精度複数階マッピング機能 昼夜を問わず賢く掃除 静音設計 Google Home Alexa Siri対応</div>
+    <div class="a">dreame</div>
+    <div class="price"><span class="now">&yen;26,800</span></div>
+    <div class="points">+8844pt (33%還元)</div>
+    <div class="since">7/24から掲載</div>
+  </div>
+</a>
 <a class="book" href="https://www.amazon.co.jp/dp/B0F6NRWF9V?tag=natafull-22&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="noopener sponsored">
   <img src="https://m.media-amazon.com/images/I/31qmMRLI1gL._SL160_.jpg" alt="" loading="lazy">
   <div>
@@ -988,6 +1078,16 @@ footer { max-width: 960px; margin: 0 auto; padding: 16px;
     <div class="price"><span class="now">&yen;37,999</span><span class="was">&yen;51,999</span><span class="off">27%OFF</span></div>
     <div class="points">+380pt (1%還元)</div>
     <div class="since">7/24から掲載</div>
+  </div>
+</a>
+<a class="book" href="https://www.amazon.co.jp/dp/B0B59452FZ?tag=natafull-22&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="noopener sponsored">
+  <img src="https://m.media-amazon.com/images/I/31--73ZZPRL._SL160_.jpg" alt="" loading="lazy">
+  <div>
+    <div class="t">dreame D10Plus ロボット掃除機 自動ゴミ収集 水拭き対応 4000Pa強力吸引 高精度LDSレーザーセンサー 高精度複数階マッピング機能 170分間連続稼働 Wi-Fi接続 Alexa対応 APP遠隔操作 自動充電 静音設計 遠隔操作 落下防止 衝突防止</div>
+    <div class="a">dreame</div>
+    <div class="price"><span class="now">&yen;29,800</span></div>
+    <div class="points">+8046pt (27%還元)</div>
+    <div class="since">7/25から掲載</div>
   </div>
 </a>
 <a class="book" href="https://www.amazon.co.jp/dp/B0F6NGXD99?tag=natafull-22&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="noopener sponsored">
@@ -1050,16 +1150,6 @@ footer { max-width: 960px; margin: 0 auto; padding: 16px;
     <div class="since">7/24から掲載</div>
   </div>
 </a>
-<a class="book" href="https://www.amazon.co.jp/dp/B0GRZCF29T?tag=natafull-22&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="noopener sponsored">
-  <img src="https://m.media-amazon.com/images/I/41ydKidr5HL._SL160_.jpg" alt="" loading="lazy">
-  <div>
-    <div class="t">Dyson(ダイソン) Dyson Spot+Scrub Ai (RB05 AM) ロボット掃除機</div>
-    <div class="a">Dyson(ダイソン)</div>
-    <div class="price"><span class="now">&yen;164,480</span><span class="was">&yen;194,800</span><span class="off">16%OFF</span></div>
-    
-    <div class="since">7/28から掲載</div>
-  </div>
-</a>
 <a class="book" href="https://www.amazon.co.jp/dp/B0GXB5HWWD?tag=natafull-22&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="noopener sponsored">
   <img src="https://m.media-amazon.com/images/I/3196WRRWVZL._SL160_.jpg" alt="" loading="lazy">
   <div>
@@ -1080,10 +1170,20 @@ footer { max-width: 960px; margin: 0 auto; padding: 16px;
     <div class="since">7/24から掲載</div>
   </div>
 </a>
+<a class="book" href="https://www.amazon.co.jp/dp/B0GRZCF29T?tag=natafull-22&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="noopener sponsored">
+  <img src="https://m.media-amazon.com/images/I/41ydKidr5HL._SL160_.jpg" alt="" loading="lazy">
+  <div>
+    <div class="t">Dyson(ダイソン) Dyson Spot+Scrub Ai (RB05 AM) ロボット掃除機</div>
+    <div class="a">Dyson(ダイソン)</div>
+    <div class="price"><span class="now">&yen;170,000</span><span class="was">&yen;194,800</span><span class="off">13%OFF</span></div>
+    
+    <div class="since">7/28から掲載</div>
+  </div>
+</a>
 </div>
 </details>
 <details open id="g6">
-<summary><h2>電気シェーバー (13件)</h2></summary>
+<summary><h2>電気シェーバー (16件)</h2></summary>
 <div class="grid">
 <a class="book" href="https://www.amazon.co.jp/dp/B0DSJB2627?tag=natafull-22&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="noopener sponsored">
   <img src="https://m.media-amazon.com/images/I/41ztVslLI1L._SL160_.jpg" alt="" loading="lazy">
@@ -1185,14 +1285,44 @@ footer { max-width: 960px; margin: 0 auto; padding: 16px;
     <div class="since">7/26から掲載</div>
   </div>
 </a>
+<a class="book" href="https://www.amazon.co.jp/dp/B0FV2NJ2MJ?tag=natafull-22&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="noopener sponsored">
+  <img src="https://m.media-amazon.com/images/I/41j+Hw-rZCL._SL160_.jpg" alt="" loading="lazy">
+  <div>
+    <div class="t">【なめらかに深剃り】フィリップス 電動シェーバー i9000シリーズ 電動 髭剃り メンズ 収納ケース付属 X9002/05 ダークグレイ</div>
+    <div class="a">PHILIPS</div>
+    <div class="price"><span class="now">&yen;27,200</span><span class="was">&yen;34,980</span><span class="off">22%OFF</span></div>
+    <div class="points">+272pt (1%還元)</div>
+    <div class="since">7/30から掲載</div>
+  </div>
+</a>
 <a class="book" href="https://www.amazon.co.jp/dp/B0C8SBYXPQ?tag=natafull-22&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="noopener sponsored">
   <img src="https://m.media-amazon.com/images/I/31DUgjKcCaL._SL160_.jpg" alt="" loading="lazy">
   <div>
     <div class="t">パナソニック ラムダッシュ パームインシェーバー メンズシェーバー コンパクト ベーシックタイプ 5枚刃 マットブラック ES-PV3A-K</div>
     <div class="a">パナソニック(Panasonic)</div>
-    <div class="price"><span class="now">&yen;29,000</span><span class="was">&yen;37,026</span><span class="off">22%OFF</span></div>
-    <div class="points">+290pt (1%還元)</div>
+    <div class="price"><span class="now">&yen;28,700</span><span class="was">&yen;37,026</span><span class="off">22%OFF</span></div>
+    
     <div class="since">7/26から掲載</div>
+  </div>
+</a>
+<a class="book" href="https://www.amazon.co.jp/dp/B0BSFHF9JQ?tag=natafull-22&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="noopener sponsored">
+  <img src="https://m.media-amazon.com/images/I/51ef86F+YiL._SL160_.jpg" alt="" loading="lazy">
+  <div>
+    <div class="t">【やさしく剃れる】フィリップス 電動シェーバー 5000Xシリーズ 電動 髭剃り メンズ X5007/00 ブラック</div>
+    <div class="a">PHILIPS</div>
+    <div class="price"><span class="now">&yen;12,799</span><span class="was">&yen;15,400</span><span class="off">17%OFF</span></div>
+    <div class="points">+128pt (1%還元)</div>
+    <div class="since">7/30から掲載</div>
+  </div>
+</a>
+<a class="book" href="https://www.amazon.co.jp/dp/B0F87SC5R6?tag=natafull-22&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="noopener sponsored">
+  <img src="https://m.media-amazon.com/images/I/51eAsWEAZ-L._SL160_.jpg" alt="" loading="lazy">
+  <div>
+    <div class="t">【なめらかに深剃り】フィリップス 電動シェーバー i9000 プレステージ 電動 髭剃り メンズ XP9205/05 シルバーメタリック</div>
+    <div class="a">PHILIPS</div>
+    <div class="price"><span class="now">&yen;41,547</span><span class="was">&yen;49,500</span><span class="off">16%OFF</span></div>
+    
+    <div class="since">7/30から掲載</div>
   </div>
 </a>
 <a class="book" href="https://www.amazon.co.jp/dp/B0FGHXK5T4?tag=natafull-22&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="noopener sponsored">
@@ -1218,7 +1348,7 @@ footer { max-width: 960px; margin: 0 auto; padding: 16px;
 </div>
 </details>
 <details open id="g7">
-<summary><h2>電動歯ブラシ (4件)</h2></summary>
+<summary><h2>電動歯ブラシ (6件)</h2></summary>
 <div class="grid">
 <a class="book" href="https://www.amazon.co.jp/dp/B0DB48CFG7?tag=natafull-22&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="noopener sponsored">
   <img src="https://m.media-amazon.com/images/I/419BXCd2EXL._SL160_.jpg" alt="" loading="lazy">
@@ -1250,6 +1380,26 @@ footer { max-width: 960px; margin: 0 auto; padding: 16px;
     <div class="since">7/26から掲載</div>
   </div>
 </a>
+<a class="book" href="https://www.amazon.co.jp/dp/B0D28N991R?tag=natafull-22&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="noopener sponsored">
+  <img src="https://m.media-amazon.com/images/I/316647ZW3AL._SL160_.jpg" alt="" loading="lazy">
+  <div>
+    <div class="t">【ワンランク上の白さへ】フィリップス 電動歯ブラシ ソニッケアー ダイヤモンドクリーン9000 HX9911/71</div>
+    <div class="a">PHILIPS</div>
+    <div class="price"><span class="now">&yen;28,050</span><span class="was">&yen;33,990</span><span class="off">17%OFF</span></div>
+    <div class="points">+281pt (1%還元)</div>
+    <div class="since">7/30から掲載</div>
+  </div>
+</a>
+<a class="book" href="https://www.amazon.co.jp/dp/B0FMKL5DQP?tag=natafull-22&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="noopener sponsored">
+  <img src="https://m.media-amazon.com/images/I/41FnVHlqzOL._SL160_.jpg" alt="" loading="lazy">
+  <div>
+    <div class="t">【しっかり磨き上げる】フィリップス 電動歯ブラシ ソニッケアー 5300 HX7108/09 ホワイト</div>
+    <div class="a">PHILIPS</div>
+    <div class="price"><span class="now">&yen;13,200</span><span class="was">&yen;15,840</span><span class="off">17%OFF</span></div>
+    <div class="points">+132pt (1%還元)</div>
+    <div class="since">7/30から掲載</div>
+  </div>
+</a>
 <a class="book" href="https://www.amazon.co.jp/dp/B0DB4GH421?tag=natafull-22&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="noopener sponsored">
   <img src="https://m.media-amazon.com/images/I/41Pw3tA0sbL._SL160_.jpg" alt="" loading="lazy">
   <div>
@@ -1263,7 +1413,7 @@ footer { max-width: 960px; margin: 0 auto; padding: 16px;
 </div>
 </details>
 <details open id="g8">
-<summary><h2>キーボード・マウス (39件)</h2></summary>
+<summary><h2>キーボード・マウス (41件)</h2></summary>
 <div class="grid">
 <a class="book" href="https://www.amazon.co.jp/dp/B07PJW2X2F?tag=natafull-22&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="noopener sponsored">
   <img src="https://m.media-amazon.com/images/I/41yJV67+M0L._SL160_.jpg" alt="" loading="lazy">
@@ -1295,30 +1445,10 @@ footer { max-width: 960px; margin: 0 auto; padding: 16px;
     <div class="since">7/28から掲載</div>
   </div>
 </a>
-<a class="book" href="https://www.amazon.co.jp/dp/B0DCJZH3QH?tag=natafull-22&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="noopener sponsored">
-  <img src="https://m.media-amazon.com/images/I/41Up-tVOL7L._SL160_.jpg" alt="" loading="lazy">
-  <div>
-    <div class="t">【国内正規品】Keychron B1 Pro ウルトラスリム ワイヤレスキーボード、ZMKカスタマイズ、シザースイッチ、2.4 GHz/Bluetooth 5.2/有線接続、ロングバッテリーライフ、Mac Windows Linux対応 (スペースグレー, USレイアウト)</div>
-    <div class="a">Keychron</div>
-    <div class="price"><span class="now">&yen;5,544</span><span class="was">&yen;6,930</span><span class="off">20%OFF</span></div>
-    <div class="points">+554pt (10%還元)</div>
-    <div class="since">7/29から掲載</div>
-  </div>
-</a>
-<a class="book" href="https://www.amazon.co.jp/dp/B0DCJXV7DB?tag=natafull-22&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="noopener sponsored">
-  <img src="https://m.media-amazon.com/images/I/31fl8gGmVBL._SL160_.jpg" alt="" loading="lazy">
-  <div>
-    <div class="t">【国内正規品】Keychron B6 Pro ウルトラスリム ワイヤレスキーボード、フルサイズ、テンキー付、ZMKカスタマイズ、シザースイッチ、2.4 GHz/Bluetooth 5.2/有線接続、ロングバッテリーライフ、Mac Windows Linux対応 (スペースグレー, USレイアウト)</div>
-    <div class="a">Keychron</div>
-    <div class="price"><span class="now">&yen;6,248</span><span class="was">&yen;7,810</span><span class="off">20%OFF</span></div>
-    <div class="points">+625pt (10%還元)</div>
-    <div class="since">7/29から掲載</div>
-  </div>
-</a>
 <a class="book" href="https://www.amazon.co.jp/dp/B0D9VVL9DY?tag=natafull-22&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="noopener sponsored">
   <img src="https://m.media-amazon.com/images/I/31M3S9z2xPL._SL160_.jpg" alt="" loading="lazy">
   <div>
-    <div class="t">【Amazon.co.jp限定】 Logicool G PRO X TKL RAPID ゲーミングキーボード G-PKB-TKL-RTBKd</div>
+    <div class="t">【Amazon.co.jp限定】 Logicool G PRO X TKL RAPID ゲーミングキーボード</div>
     <div class="a">Logicool G(ロジクール G)</div>
     <div class="price"><span class="now">&yen;19,990</span><span class="was">&yen;28,351</span><span class="off">29%OFF</span></div>
     <div class="points">+200pt (1%還元)</div>
@@ -1415,6 +1545,26 @@ footer { max-width: 960px; margin: 0 auto; padding: 16px;
     <div class="since">7/28から掲載</div>
   </div>
 </a>
+<a class="book" href="https://www.amazon.co.jp/dp/B0DCJZH3QH?tag=natafull-22&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="noopener sponsored">
+  <img src="https://m.media-amazon.com/images/I/41Up-tVOL7L._SL160_.jpg" alt="" loading="lazy">
+  <div>
+    <div class="t">【国内正規品】Keychron B1 Pro ウルトラスリム ワイヤレスキーボード、ZMKカスタマイズ、シザースイッチ、2.4 GHz/Bluetooth 5.2/有線接続、ロングバッテリーライフ、Mac Windows Linux対応 (スペースグレー, USレイアウト)</div>
+    <div class="a">Keychron</div>
+    <div class="price"><span class="now">&yen;5,544</span><span class="was">&yen;6,930</span><span class="off">20%OFF</span></div>
+    <div class="points">+55pt (1%還元)</div>
+    <div class="since">7/29から掲載</div>
+  </div>
+</a>
+<a class="book" href="https://www.amazon.co.jp/dp/B0DCJXV7DB?tag=natafull-22&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="noopener sponsored">
+  <img src="https://m.media-amazon.com/images/I/31fl8gGmVBL._SL160_.jpg" alt="" loading="lazy">
+  <div>
+    <div class="t">【国内正規品】Keychron B6 Pro ウルトラスリム ワイヤレスキーボード、フルサイズ、テンキー付、ZMKカスタマイズ、シザースイッチ、2.4 GHz/Bluetooth 5.2/有線接続、ロングバッテリーライフ、Mac Windows Linux対応 (スペースグレー, USレイアウト)</div>
+    <div class="a">Keychron</div>
+    <div class="price"><span class="now">&yen;6,248</span><span class="was">&yen;7,810</span><span class="off">20%OFF</span></div>
+    <div class="points">+62pt (1%還元)</div>
+    <div class="since">7/29から掲載</div>
+  </div>
+</a>
 <a class="book" href="https://www.amazon.co.jp/dp/B0D9Y1SNQT?tag=natafull-22&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="noopener sponsored">
   <img src="https://m.media-amazon.com/images/I/319RcxooUNL._SL160_.jpg" alt="" loading="lazy">
   <div>
@@ -1460,7 +1610,7 @@ footer { max-width: 960px; margin: 0 auto; padding: 16px;
   <div>
     <div class="t">ロジクール ワイヤレスマウス 静音 無線 高速スクロール Signature M750MGR レギュラー グラファイト M750 国内正規品</div>
     <div class="a">Logitech</div>
-    <div class="price"><span class="now">&yen;4,363</span><span class="was">&yen;5,280</span><span class="off">17%OFF</span></div>
+    <div class="price"><span class="now">&yen;4,364</span><span class="was">&yen;5,280</span><span class="off">17%OFF</span></div>
     <div class="points">+44pt (1%還元)</div>
     <div class="since">7/26から掲載</div>
   </div>
@@ -1503,6 +1653,16 @@ footer { max-width: 960px; margin: 0 auto; padding: 16px;
     <div class="price"><span class="now">&yen;1,760</span><span class="was">&yen;2,100</span><span class="off">16%OFF</span></div>
     <div class="points">+18pt (1%還元)</div>
     <div class="since">7/28から掲載</div>
+  </div>
+</a>
+<a class="book" href="https://www.amazon.co.jp/dp/B0B2ZT2HRJ?tag=natafull-22&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="noopener sponsored">
+  <img src="https://m.media-amazon.com/images/I/41KcgrvMP5L._SL160_.jpg" alt="" loading="lazy">
+  <div>
+    <div class="t">ロジクール SIGNATURE K855GR 無線 メカニカルキーボード TTC製 赤軸 リニア Bluetooth Logi Bolt Unifying非対応 コンパクト 日本語配列 小型 テンキーレス メカニカル ワイヤレス キーボード グラファイト windows mac Chrome Android K855 国内正規品</div>
+    <div class="a">Logitech</div>
+    <div class="price"><span class="now">&yen;10,980</span><span class="was">&yen;13,200</span><span class="off">17%OFF</span></div>
+    
+    <div class="since">7/26から掲載</div>
   </div>
 </a>
 <a class="book" href="https://www.amazon.co.jp/dp/B0GL26M6Z2?tag=natafull-22&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="noopener sponsored">
@@ -1643,6 +1803,16 @@ footer { max-width: 960px; margin: 0 auto; padding: 16px;
     <div class="price"><span class="now">&yen;13,800</span><span class="was">&yen;15,800</span><span class="off">13%OFF</span></div>
     <div class="points">+138pt (1%還元)</div>
     <div class="since">7/29から掲載</div>
+  </div>
+</a>
+<a class="book" href="https://www.amazon.co.jp/dp/B0GL1G8PQZ?tag=natafull-22&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="noopener sponsored">
+  <img src="https://m.media-amazon.com/images/I/31uMnYTnvaL._SL160_.jpg" alt="" loading="lazy">
+  <div>
+    <div class="t">東プレ REALFORCE GX1 Plus νガンダム (ニューガンダム) 日本語配列 ゲーミングキーボード X1PCN1 KB0937</div>
+    <div class="a">REALFORCE</div>
+    <div class="price"><span class="now">&yen;50,907</span><span class="was">&yen;55,333</span><span class="off">8%OFF</span></div>
+    <div class="points">+2767pt (5%還元)</div>
+    <div class="since">7/30から掲載</div>
   </div>
 </a>
 <a class="book" href="https://www.amazon.co.jp/dp/B0C2YK1CS6?tag=natafull-22&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="noopener sponsored">

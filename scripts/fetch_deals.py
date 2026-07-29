@@ -476,6 +476,27 @@ def main() -> int:
         json.dumps(new_state, ensure_ascii=False, indent=2), encoding="utf-8"
     )
 
+    # 「本日のお買い得」: ジャンル横断で実質お得度が高い商品を選ぶ。
+    # 1ジャンルに偏らないよう同一ジャンルからは最大2件までに制限する
+    top_n = config.get("top_deals_count", 6)
+    per_genre_cap = config.get("top_deals_per_genre", 2)
+    ranked = sorted(
+        ((g["name"], item) for g in genres for item in g["items"]),
+        key=lambda x: sort_key(x[1]),
+        reverse=True,
+    )
+    top_deals = []
+    genre_used: dict = {}
+    for gname, item in ranked:
+        if genre_used.get(gname, 0) >= per_genre_cap:
+            continue
+        genre_used[gname] = genre_used.get(gname, 0) + 1
+        top_deals.append(dict(item, genre=gname))
+        if len(top_deals) >= top_n:
+            break
+    if top_deals:
+        print(f"本日のお買い得: {len(top_deals)}件 (実質{sort_key(top_deals[0])}%〜)")
+
     OUTPUT_PATH.parent.mkdir(parents=True, exist_ok=True)
     OUTPUT_PATH.write_text(
         json.dumps(
@@ -484,6 +505,7 @@ def main() -> int:
                     datetime.timezone.utc
                 ).isoformat(),
                 "min_saving_percent": min_saving,
+                "top_deals": top_deals,
                 "genres": genres,
             },
             ensure_ascii=False,
