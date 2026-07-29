@@ -19,6 +19,11 @@
     "last_seen": "2026-07-29",
     "title": "エレコム モバイルバッテリー 30W 10000mAh 残量表示 USB PD対応 3ポート Type-C×2 USB-A×1 ケーブル別売り ブラック EC-C23LBK"
   },
+  "B0CL8S3WMX": {
+    "first_seen": "2026-07-27",
+    "last_seen": "2026-07-29",
+    "title": "Anker Power Bank (30W, Fusion, Built-In USB-C ケーブル) ブラック"
+  },
   "B0DRC8DBL8": {
     "first_seen": "2026-07-29",
     "last_seen": "2026-07-29",
@@ -48,6 +53,11 @@
     "first_seen": "2026-07-27",
     "last_seen": "2026-07-29",
     "title": "Anker Power Bank (25000mAh, Built-In & 巻取り式USB-Cケーブル) ブラック"
+  },
+  "B0CX4C1TVK": {
+    "first_seen": "2026-07-27",
+    "last_seen": "2026-07-29",
+    "title": "Anker Power Bank (10000mAh, Fusion, Built-In USB-C ケーブル) ブラック"
   },
   "B0CQY7SRTY": {
     "first_seen": "2026-07-27",
@@ -129,11 +139,6 @@
     "last_seen": "2026-07-29",
     "title": "エレコム モバイルバッテリー 半固体電池 小型 軽量 薄型 5000mAh USB-C PD対応 20W 急速充電 ケーブル一体型 2台同時充電 長寿命 パススルー充電 PSE認証 iPhone対応 ミッドナイトブルー EC-C58MN"
   },
-  "B0GW8QBDL6": {
-    "first_seen": "2026-07-29",
-    "last_seen": "2026-07-29",
-    "title": "エレコム モバイルバッテリー 半固体電池 大容量 軽量 10000mAh USB-C PD対応 30W 急速充電 ケーブル一体型 2台同時充電 長寿命 パススルー充電 残量表示 PSE認証 iPhone対応 ミッドナイトブルー EC-C59MN"
-  },
   "B0DZ1TGX6T": {
     "first_seen": "2026-07-24",
     "last_seen": "2026-07-29",
@@ -204,11 +209,6 @@
     "last_seen": "2026-07-29",
     "title": "Anker Nano Charger (70W, 3 Ports) ブラック"
   },
-  "B0DMFFK5LV": {
-    "first_seen": "2026-07-29",
-    "last_seen": "2026-07-29",
-    "title": "UGREEN 45W USB-C*2+USB-A*1 急速充電器 Type-C PD GaNⅡ充電器 PSE適合タイプc充電器 PD/PPS/SCP/QC3.0"
-  },
   "B0F9FHXPDF": {
     "first_seen": "2026-07-27",
     "last_seen": "2026-07-29",
@@ -218,6 +218,11 @@
     "first_seen": "2026-07-27",
     "last_seen": "2026-07-29",
     "title": "UGREEN Nexode【当社比最小】65W PD充電器 USB-C*2+USB-A*1 急速充電器 PSE適合 PD/PPS/QC4+対応"
+  },
+  "B091BGMKYS": {
+    "first_seen": "2026-07-27",
+    "last_seen": "2026-07-29",
+    "title": "UGREEN Nexode急速充電器 65W Type-C 2C1A 3ポート PD/PPS/QC3.0/SCP/FCP対応 折り畳み式"
   },
   "B0BF43HS1G": {
     "first_seen": "2026-07-27",
@@ -233,6 +238,16 @@
     "first_seen": "2026-07-29",
     "last_seen": "2026-07-29",
     "title": "CIO NovaPort DUOⅡ 65W PD急速充電器 USB-C×2 2台同時充電 世界最小級（ブラック）"
+  },
+  "B0DG93MZCR": {
+    "first_seen": "2026-07-27",
+    "last_seen": "2026-07-29",
+    "title": "UGREEN PD充電器 type-c 30W 2*USB-C+1*USB-A GaN PSE適合/PD3.0"
+  },
+  "B0FJS3P8NT": {
+    "first_seen": "2026-07-27",
+    "last_seen": "2026-07-29",
+    "title": "UGREEN 45W USB-C*4+USB-A*1 急速充電器 Type-C PD GaNⅡ充電器 PSE適合タイプc充電器 PD3.0/PPS/SCP/QC3.0"
   },
   "B0DNT9Z2HS": {
     "first_seen": "2026-07-27",
@@ -254,11 +269,6 @@
     "last_seen": "2026-07-29",
     "title": "Anker Nano Charger (20W) ホワイト"
   },
-  "B0DG93MZCR": {
-    "first_seen": "2026-07-27",
-    "last_seen": "2026-07-29",
-    "title": "UGREEN PD充電器 type-c 30W 2*USB-C+1*USB-A GaN PSE適合/PD3.0"
-  },
   "B0GDCPBYHF": {
     "first_seen": "2026-07-27",
     "last_seen": "2026-07-29",
@@ -268,11 +278,6 @@
     "first_seen": "2026-07-27",
     "last_seen": "2026-07-29",
     "title": "UGREEN Uno 30W PD 充電器 ロボット型 USB-C充電器 PSE適合 PD/PPS/QC4+対応"
-  },
-  "B091BGMKYS": {
-    "first_seen": "2026-07-27",
-    "last_seen": "2026-07-29",
-    "title": "UGREEN Nexode急速充電器 65W Type-C 2C1A 3ポート PD/PPS/QC3.0/SCP/FCP対応 折り畳み式"
   },
   "B0D8RSX6W2": {
     "first_seen": "2026-07-29",
@@ -409,6 +414,11 @@
     "last_seen": "2026-07-29",
     "title": "ルンバ(Roomba)205 DustCompactor Combo ロボット (ロボット掃除機) アイロボット(iRobot)【水拭き/両用/ゴミ圧縮機能付きダスト容器/日本の住宅向けに開発/LiDARナビゲーション/パワーリフト吸引/スマートスクラブ対応/マッピング 掃除経路確認/アプリ操作/落下防止/Amazon.co.jp購入時12ヶ月保証/L121060】ブラック"
   },
+  "B0D8PHF6JX": {
+    "first_seen": "2026-07-24",
+    "last_seen": "2026-07-29",
+    "title": "dreame (ドリーミー) D9 Max Gen2 ロボット掃除機 6000Pa強力吸引 水拭き対応 570 ml の大型ダストボックス 高精度LDSレーザーセンサー 高精度複数階マッピング機能 昼夜を問わず賢く掃除 静音設計 Google Home Alexa Siri対応"
+  },
   "B0F6NRWF9V": {
     "first_seen": "2026-07-25",
     "last_seen": "2026-07-29",
@@ -423,6 +433,11 @@
     "first_seen": "2026-07-24",
     "last_seen": "2026-07-29",
     "title": "roborock(ロボロック) Q10V+ ロボット掃除機 水拭き 両用 自動ゴミ収集 障害物回避 お掃除ロボット【Qシリーズ高総合力モデル】"
+  },
+  "B0B59452FZ": {
+    "first_seen": "2026-07-25",
+    "last_seen": "2026-07-29",
+    "title": "dreame D10Plus ロボット掃除機 自動ゴミ収集 水拭き対応 4000Pa強力吸引 高精度LDSレーザーセンサー 高精度複数階マッピング機能 170分間連続稼働 Wi-Fi接続 Alexa対応 APP遠隔操作 自動充電 静音設計 遠隔操作 落下防止 衝突防止"
   },
   "B0F6NGXD99": {
     "first_seen": "2026-07-24",
@@ -524,6 +539,11 @@
     "last_seen": "2026-07-29",
     "title": "パナソニック ラムダッシュ パームインシェーバー メンズシェーバー コンパクト ベーシックタイプ 5枚刃 マットブラック ES-PV3A-K"
   },
+  "B0F87SC5R6": {
+    "first_seen": "2026-07-29",
+    "last_seen": "2026-07-29",
+    "title": "【なめらかに深剃り】フィリップス 電動シェーバー i9000 プレステージ 電動 髭剃り メンズ XP9205/05 シルバーメタリック"
+  },
   "B0FGHXK5T4": {
     "first_seen": "2026-07-28",
     "last_seen": "2026-07-29",
@@ -568,16 +588,6 @@
     "first_seen": "2026-07-28",
     "last_seen": "2026-07-29",
     "title": "【Amazon.co.jp限定】 ロジクール ワイヤレスマウス 無線 マウス M185CG M185 グレー 国内正規品"
-  },
-  "B0DCJZH3QH": {
-    "first_seen": "2026-07-29",
-    "last_seen": "2026-07-29",
-    "title": "【国内正規品】Keychron B1 Pro ウルトラスリム ワイヤレスキーボード、ZMKカスタマイズ、シザースイッチ、2.4 GHz/Bluetooth 5.2/有線接続、ロングバッテリーライフ、Mac Windows Linux対応 (スペースグレー, USレイアウト)"
-  },
-  "B0DCJXV7DB": {
-    "first_seen": "2026-07-29",
-    "last_seen": "2026-07-29",
-    "title": "【国内正規品】Keychron B6 Pro ウルトラスリム ワイヤレスキーボード、フルサイズ、テンキー付、ZMKカスタマイズ、シザースイッチ、2.4 GHz/Bluetooth 5.2/有線接続、ロングバッテリーライフ、Mac Windows Linux対応 (スペースグレー, USレイアウト)"
   },
   "B0D9VVL9DY": {
     "first_seen": "2026-07-28",
@@ -628,6 +638,16 @@
     "first_seen": "2026-07-28",
     "last_seen": "2026-07-29",
     "title": "ロジクール ワイヤレスマウス 無線 高速スクロール 7ボタン マウス Unifying SEB-M705 ブラック 国内正規品"
+  },
+  "B0DCJZH3QH": {
+    "first_seen": "2026-07-29",
+    "last_seen": "2026-07-29",
+    "title": "【国内正規品】Keychron B1 Pro ウルトラスリム ワイヤレスキーボード、ZMKカスタマイズ、シザースイッチ、2.4 GHz/Bluetooth 5.2/有線接続、ロングバッテリーライフ、Mac Windows Linux対応 (スペースグレー, USレイアウト)"
+  },
+  "B0DCJXV7DB": {
+    "first_seen": "2026-07-29",
+    "last_seen": "2026-07-29",
+    "title": "【国内正規品】Keychron B6 Pro ウルトラスリム ワイヤレスキーボード、フルサイズ、テンキー付、ZMKカスタマイズ、シザースイッチ、2.4 GHz/Bluetooth 5.2/有線接続、ロングバッテリーライフ、Mac Windows Linux対応 (スペースグレー, USレイアウト)"
   },
   "B0D9Y1SNQT": {
     "first_seen": "2026-07-28",
@@ -744,10 +764,25 @@
     "last_seen": "2026-07-29",
     "title": "R2TLA-US4G-BK Realforce RGB TKL 有線キーボード 英語配列 87キーレ"
   },
+  "B0GL1G8PQZ": {
+    "first_seen": "2026-07-29",
+    "last_seen": "2026-07-29",
+    "title": "東プレ REALFORCE GX1 Plus νガンダム (ニューガンダム) 日本語配列 ゲーミングキーボード X1PCN1 KB0937"
+  },
   "B0C2YK1CS6": {
     "first_seen": "2026-07-26",
     "last_seen": "2026-07-29",
     "title": "ロジクール 静音 ワイヤレスマウス M240GR Silent Bluetooth マウス グラファイト 無線 ワイヤレス 小型 左右対称 logi bolt windows mac iPad OS Chrome Android M240 国内正規品"
+  },
+  "B0GW8QBDL6": {
+    "first_seen": "2026-07-29",
+    "last_seen": "2026-07-29",
+    "title": "エレコム モバイルバッテリー 半固体電池 大容量 軽量 10000mAh USB-C PD対応 30W 急速充電 ケーブル一体型 2台同時充電 長寿命 パススルー充電 残量表示 PSE認証 iPhone対応 ミッドナイトブルー EC-C59MN"
+  },
+  "B0DMFFK5LV": {
+    "first_seen": "2026-07-29",
+    "last_seen": "2026-07-29",
+    "title": "UGREEN 45W USB-C*2+USB-A*1 急速充電器 Type-C PD GaNⅡ充電器 PSE適合タイプc充電器 PD/PPS/SCP/QC3.0"
   },
   "B0GVNN41P1": {
     "first_seen": "2026-07-29",
@@ -768,11 +803,6 @@
     "first_seen": "2026-07-29",
     "last_seen": "2026-07-29",
     "title": "【Amazon.co.jp限定】 ロジクール ワイヤレスキーボード Bluetooth KEYS TO GO 2 iK1043GRUd 国内正規品"
-  },
-  "B0FJS3P8NT": {
-    "first_seen": "2026-07-27",
-    "last_seen": "2026-07-29",
-    "title": "UGREEN 45W USB-C*4+USB-A*1 急速充電器 Type-C PD GaNⅡ充電器 PSE適合タイプc充電器 PD3.0/PPS/SCP/QC3.0"
   },
   "B0G64NF1FQ": {
     "first_seen": "2026-07-27",
@@ -814,30 +844,10 @@
     "last_seen": "2026-07-28",
     "title": "ECOVACS(エコバックス) DEEBOT T90 OMNI ローラー式強力モップ ロボット掃除機 30,000Pa強力吸引 水拭き 両用"
   },
-  "B0D8PHF6JX": {
-    "first_seen": "2026-07-24",
-    "last_seen": "2026-07-28",
-    "title": "dreame (ドリーミー) D9 Max Gen2 ロボット掃除機 6000Pa強力吸引 水拭き対応 570 ml の大型ダストボックス 高精度LDSレーザーセンサー 高精度複数階マッピング機能 昼夜を問わず賢く掃除 静音設計 Google Home Alexa Siri対応"
-  },
-  "B0B59452FZ": {
-    "first_seen": "2026-07-25",
-    "last_seen": "2026-07-28",
-    "title": "dreame D10Plus ロボット掃除機 自動ゴミ収集 水拭き対応 4000Pa強力吸引 高精度LDSレーザーセンサー 高精度複数階マッピング機能 170分間連続稼働 Wi-Fi接続 Alexa対応 APP遠隔操作 自動充電 静音設計 遠隔操作 落下防止 衝突防止"
-  },
   "B0B2ZT2HRJ": {
     "first_seen": "2026-07-26",
     "last_seen": "2026-07-28",
     "title": "ロジクール SIGNATURE K855GR 無線 メカニカルキーボード TTC製 赤軸 リニア Bluetooth Logi Bolt Unifying非対応 コンパクト 日本語配列 小型 テンキーレス メカニカル ワイヤレス キーボード グラファイト windows mac Chrome Android K855 国内正規品"
-  },
-  "B0CL8S3WMX": {
-    "first_seen": "2026-07-27",
-    "last_seen": "2026-07-28",
-    "title": "Anker Power Bank (30W, Fusion, Built-In USB-C ケーブル) ブラック"
-  },
-  "B0CX4C1TVK": {
-    "first_seen": "2026-07-27",
-    "last_seen": "2026-07-28",
-    "title": "Anker Power Bank (10000mAh, Fusion, Built-In USB-C ケーブル) ブラック"
   },
   "B0B2QQDKR8": {
     "first_seen": "2026-07-27",
