@@ -243,10 +243,83 @@
       ]
     },
     {
+      "name": "スマートホーム",
+      "keywords": [
+        "SwitchBot スマートホーム",
+        "スマートリモコン"
+      ],
+      "search_index": "Electronics",
+      "must_include_any": [
+        "SwitchBot",
+        "スマートプラグ",
+        "スマートリモコン",
+        "スマートロック",
+        "スマート電球",
+        "Nature Remo"
+      ],
+      "exclude_any": [
+        "ケース",
+        "フィルム"
+      ],
+      "known_brands": [
+        "SwitchBot",
+        "スイッチボット",
+        "Nature",
+        "ネイチャー",
+        "TP-Link",
+        "ティーピーリンク",
+        "Meross",
+        "SESAME",
+        "セサミ",
+        "アイリスオーヤマ",
+        "IRIS OHYAMA",
+        "Philips Hue",
+        "フィリップス"
+      ]
+    },
+    {
+      "name": "スマートウォッチ",
+      "keywords": [
+        "スマートウォッチ Garmin",
+        "スマートウォッチ Amazfit"
+      ],
+      "search_index": "Electronics",
+      "must_include_any": [
+        "スマートウォッチ",
+        "ウォッチ",
+        "Watch"
+      ],
+      "exclude_any": [
+        "ケース",
+        "バンド",
+        "フィルム",
+        "保護",
+        "充電器"
+      ],
+      "known_brands": [
+        "Garmin",
+        "ガーミン",
+        "GARMIN",
+        "Amazfit",
+        "アマズフィット",
+        "Fitbit",
+        "フィットビット",
+        "HUAWEI",
+        "ファーウェイ",
+        "Xiaomi",
+        "シャオミ",
+        "SUUNTO",
+        "スント",
+        "CASIO",
+        "カシオ",
+        "Google",
+        "Pixel"
+      ]
+    },
+    {
       "name": "エアフライヤー",
       "keywords": [
-        "エアフライヤー",
-        "ノンフライヤー"
+        "エアフライヤー"
       ],
       "search_index": "HomeAndKitchen",
       "must_include_any": [
@@ -343,116 +416,6 @@
       ]
     },
     {
-      "name": "空気清浄機",
-      "keywords": [
-        "空気清浄機"
-      ],
-      "search_index": "Electronics",
-      "must_include_any": [
-        "空気清浄"
-      ],
-      "known_brands": [
-        "シャープ",
-        "SHARP",
-        "Panasonic",
-        "パナソニック",
-        "ダイキン",
-        "DAIKIN",
-        "Levoit",
-        "レボイト",
-        "アイリスオーヤマ",
-        "IRIS OHYAMA",
-        "Blueair",
-        "ブルーエア",
-        "BLUEAIR",
-        "日立",
-        "HITACHI",
-        "cado",
-        "カドー",
-        "Dyson",
-        "ダイソン"
-      ]
-    },
-    {
-      "name": "ドライヤー・ヘアアイロン",
-      "keywords": [
-        "ヘアドライヤー",
-        "ヘアアイロン"
-      ],
-      "search_index": "HealthPersonalCare",
-      "must_include_any": [
-        "ドライヤー",
-        "ヘアアイロン",
-        "アイロン"
-      ],
-      "exclude_any": [
-        "衣類スチーマー",
-        "スチームアイロン",
-        "アイロン台"
-      ],
-      "known_brands": [
-        "Panasonic",
-        "パナソニック",
-        "ナノケア",
-        "Dyson",
-        "ダイソン",
-        "SALONIA",
-        "サロニア",
-        "コイズミ",
-        "KOIZUMI",
-        "テスコム",
-        "TESCOM",
-        "シャープ",
-        "SHARP",
-        "リファ",
-        "ReFa",
-        "絹女",
-        "KINUJO",
-        "ヤーマン",
-        "YA-MAN"
-      ]
-    },
-    {
-      "name": "ロボット掃除機",
-      "keywords": [
-        "ロボット掃除機"
-      ],
-      "browse_node_ids": [
-        "7297715051"
-      ],
-      "search_index": "Electronics",
-      "must_include_any": [
-        "ロボット掃除機",
-        "ロボットクリーナー"
-      ],
-      "known_brands": [
-        "dreame",
-        "ドリーミー",
-        "Dyson",
-        "ダイソン",
-        "Panasonic",
-        "パナソニック",
-        "Roborock",
-        "ロボロック",
-        "Narwal",
-        "ナーワル",
-        "iRobot",
-        "アイロボット",
-        "Ecovacs",
-        "エコバックス",
-        "Eufy",
-        "ユーフィ",
-        "Xiaomi",
-        "シャオミ",
-        "SwitchBot",
-        "スイッチボット",
-        "シャープ",
-        "SHARP",
-        "日立",
-        "HITACHI"
-      ]
-    },
-    {
       "name": "電気シェーバー",
       "keywords": [
         "電気シェーバー 髭剃り"
@@ -506,7 +469,6 @@
   "top_deals_count": 3,
   "top_deals_per_genre": 2,
   "top_deals_exclude_genres": [
-    "ロボット掃除機",
     "電気シェーバー",
     "電動歯ブラシ"
   ]

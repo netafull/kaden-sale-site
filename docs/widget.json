@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-30T00:41:34.969199+00:00",
+  "updated": "2026-07-30T01:37:10.018827+00:00",
   "site_url": "https://kaden.netaful.jp/",
   "site_title": "家電ポチ",
   "genres": [
@@ -41,16 +41,6 @@
     {
       "name": "ワイヤレスイヤホン",
       "books": [
-        {
-          "title": "ソニー ゲーミングイヤホン INZONE Buds:WF-G700N Fnatic監修/ワイヤレス / 低遅延2.4GHzワイヤレス接続 USBType-Cトランシーバー同梱/LE Audio対応/アクティブノイズキャンセリング/立体音響 / 最大約24時間バッテリー / 急速充電/マイク付き / PS5 スマホ PC Switch グラスパープル",
-          "price": 20800,
-          "list_price": 29700,
-          "percent_off": 30,
-          "points": 208,
-          "points_percent": 1,
-          "image": "https://m.media-amazon.com/images/I/3143nL6VZVL._SL160_.jpg",
-          "url": "https://www.amazon.co.jp/dp/B0GW7WT5SQ?tag=natafull-22&linkCode=osi&th=1&psc=1"
-        },
         {
           "title": "オーディオテクニカ ATH-M20xBT ワイヤレスヘッドホン Bluetooth 有線対応 ヘッドフォン 40mmCCAWボイスコイルドライバー 216gの軽量ボディ マルチポイント 低遅延モード 最大60時間再生 ハンズフリー通話 【国内正規品】 ブラック",
           "price": 9000,
@@ -319,6 +309,176 @@
       ]
     },
     {
+      "name": "スマートホーム",
+      "books": [
+        {
+          "title": "【節電対策】SwitchBot サーキュレーター 静音22dB コードレス 最大50時間 - スイッチボット ~30畳 Alexa対応 扇風機 DCモーター 3D首振り 無段階風量調整 充電式バッテリー搭載 リモコン付き 梅雨対策 省エネ",
+          "price": 8780,
+          "list_price": 13980,
+          "percent_off": 37,
+          "points": 88,
+          "points_percent": 1,
+          "image": "https://m.media-amazon.com/images/I/41C-oYdrUxL._SL160_.jpg",
+          "url": "https://www.amazon.co.jp/dp/B0C9TKSP8V?tag=natafull-22&linkCode=osi&th=1&psc=1"
+        },
+        {
+          "title": "SwitchBot LED電球 スマートライト Alexa スマートホーム - スマート電球 E26 スイッチボット 調光調色 広配光 800lm 60W形相当 電球色・昼白色対応 RGBCWマルチカラー 1600万色 間接照明 Google Home IFTTT イフト Siri SmartThings に対応(2個パック)",
+          "price": 2710,
+          "list_price": 3780,
+          "percent_off": 28,
+          "points": 27,
+          "points_percent": 1,
+          "image": "https://m.media-amazon.com/images/I/3117RbqE1xL._SL160_.jpg",
+          "url": "https://www.amazon.co.jp/dp/B09KCF5Z79?tag=natafull-22&linkCode=osi&th=1&psc=1"
+        },
+        {
+          "title": "【2025進化】 SwitchBot ロボット掃除機 K11+ 超小型 - 高精度マッピング 6000pa強力吸引 水拭き 使い捨て掃除シート30枚付き 禁止エリア 静音設計 遠隔操作 自動充電 落下防止 2.4GWi-Fi対応 Alexa Google Home IFTTT Siriに対応",
+          "price": 37800,
+          "list_price": 48851,
+          "percent_off": 23,
+          "points": 378,
+          "points_percent": 1,
+          "image": "https://m.media-amazon.com/images/I/31FlCqzI2GL._SL160_.jpg",
+          "url": "https://www.amazon.co.jp/dp/B0F7GGN94D?tag=natafull-22&linkCode=osi&th=1&psc=1"
+        },
+        {
+          "title": "SwitchBot 空気清浄機Table スマートリモコン ハブ2 アレクサ - スイッチボット 25畳 小型 省エネ 大風量 360度全方位 浄化 消臭 除菌 集じん HEPA フィルター 花粉 ニオイ対策 タイマー機能 Alexa Google Home Siriに対応 (空気清浄機Table 1点+ハブ2 1点)",
+          "price": 30200,
+          "list_price": 39780,
+          "percent_off": 24,
+          "points": 0,
+          "points_percent": null,
+          "image": "https://m.media-amazon.com/images/I/31iKgRMCXKL._SL160_.jpg",
+          "url": "https://www.amazon.co.jp/dp/B0DYD1R49S?tag=natafull-22&linkCode=osi&th=1&psc=1"
+        },
+        {
+          "title": "SwitchBot RGBIC フロアライト LED スタンドライト - スイッチボット 間接照明 スタンド フロアランプ おしゃれ 寝室 照明 RGB 1600万色 電球色 昼白色 昼光色 マルチカラー 無段階 調光調色 Wi-Fi Bluetooth Matter Alexa Google Home Siriに対応",
+          "price": 6980,
+          "list_price": 8980,
+          "percent_off": 22,
+          "points": 70,
+          "points_percent": 1,
+          "image": "https://m.media-amazon.com/images/I/31FG6UQKe8L._SL160_.jpg",
+          "url": "https://www.amazon.co.jp/dp/B0FB3LPDBQ?tag=natafull-22&linkCode=osi&th=1&psc=1"
+        },
+        {
+          "title": "SwitchBot スイッチボット スイッチ ボタンに適用 指ロボット スマートスイッチ スマートホーム ワイヤレス タイマー スマホで遠隔操作 Alexa, Google Home, Siri, IFTTTなどに対応(ハブ必要) ホワイト",
+          "price": 3927,
+          "list_price": 4980,
+          "percent_off": 21,
+          "points": 39,
+          "points_percent": 1,
+          "image": "https://m.media-amazon.com/images/I/31HowR-1bEL._SL160_.jpg",
+          "url": "https://www.amazon.co.jp/dp/B07B7NXV4R?tag=natafull-22&linkCode=osi&th=1&psc=1"
+        },
+        {
+          "title": "【Compatible with Alexa認定】SwitchBot 防犯カメラ 屋外 300万画素 充電式 - ソーラーパネル 取付金具付き 監視カメラ 大容量バッテリー 取付簡単 夜間カラー撮影 動体検知 双方向音声通話 IP65防水防塵 ソーラー充電 省エネルギー スマートホーム スイッチボット 防犯対策補助金あり 屋外カメラ3MP(ソーラーパネル・取付金具付き)",
+          "price": 8784,
+          "list_price": 10980,
+          "percent_off": 20,
+          "points": 88,
+          "points_percent": 1,
+          "image": "https://m.media-amazon.com/images/I/41S17gXDajL._SL160_.jpg",
+          "url": "https://www.amazon.co.jp/dp/B0FNWGZNP6?tag=natafull-22&linkCode=osi&th=1&psc=1"
+        },
+        {
+          "title": "SwitchBot 学習リモコン エアコンリモコン 家電自動化 Alexa ‐ スイッチボット デバイスまとめて操作 エアコン・テレビ・照明など家電をまとめて管理 ストリーミングデバイス対応 直感的な操作 オートメーション スマートホーム(ハブ必要)",
+          "price": 5780,
+          "list_price": 6980,
+          "percent_off": 17,
+          "points": 58,
+          "points_percent": 1,
+          "image": "https://m.media-amazon.com/images/I/31AM-9+bCJL._SL160_.jpg",
+          "url": "https://www.amazon.co.jp/dp/B0D6388M95?tag=natafull-22&linkCode=osi&th=1&psc=1"
+        }
+      ]
+    },
+    {
+      "name": "スマートウォッチ",
+      "books": [
+        {
+          "title": "HUAWEI WATCH FIT 4 Pro スマートウォッチ 薄型軽量 ゴルフ機能 アウトドアに適した気圧計と測位システム 1.82インチ3000nitsディスプレイ サファイアガラス チタン合金ベゼル 10日間ロングバッテリー iOS/Android対応 ブラック",
+          "price": 26700,
+          "list_price": 37180,
+          "percent_off": 28,
+          "points": 267,
+          "points_percent": 1,
+          "image": "https://m.media-amazon.com/images/I/41KkM4mAaZL._SL160_.jpg",
+          "url": "https://www.amazon.co.jp/dp/B0F5WR3KP9?tag=natafull-22&linkCode=osi&th=1&psc=1"
+        },
+        {
+          "title": "HUAWEI WATCH FIT 4 スマートウォッチ 薄型軽量 1.82インチ大画面 アウトドアに適した気圧計と測位システム 通知 フィットネス ヘルストラッカー 情緒測定 10日間ロングバッテリー iOS/Android対応 ブラック",
+          "price": 17800,
+          "list_price": 23980,
+          "percent_off": 26,
+          "points": 178,
+          "points_percent": 1,
+          "image": "https://m.media-amazon.com/images/I/416KXnN7ryL._SL160_.jpg",
+          "url": "https://www.amazon.co.jp/dp/B0F5WNVHH7?tag=natafull-22&linkCode=osi&th=1&psc=1"
+        },
+        {
+          "title": "HUAWEI WATCH GT 6 Pro 46mm スマートウォッチ 1.47インチ大画面 最長21日間バッテリー サイクリング/登山/進化したゴルフナビ スポーツモード100種類以上 GPS搭載 心電図分析 健康/情緒モニタリング iOS/Android対応 ブラウン",
+          "price": 38930,
+          "list_price": 50380,
+          "percent_off": 23,
+          "points": 389,
+          "points_percent": 1,
+          "image": "https://m.media-amazon.com/images/I/41NI4ju2vQL._SL160_.jpg",
+          "url": "https://www.amazon.co.jp/dp/B0FKH323P1?tag=natafull-22&linkCode=osi&th=1&psc=1"
+        },
+        {
+          "title": "HUAWEI WATCH GT 6 Pro 46mm スマートウォッチ 1.47インチ大画面 最長21日間バッテリー サイクリング/登山/進化したゴルフナビ スポーツモード100種類以上 GPS搭載 心電図分析 健康/情緒モニタリング iOS/Android対応 ブラック",
+          "price": 36964,
+          "list_price": 48180,
+          "percent_off": 23,
+          "points": 370,
+          "points_percent": 1,
+          "image": "https://m.media-amazon.com/images/I/41o+z1M9OBL._SL160_.jpg",
+          "url": "https://www.amazon.co.jp/dp/B0FKH3WQ41?tag=natafull-22&linkCode=osi&th=1&psc=1"
+        },
+        {
+          "title": "HUAWEI WATCH GT 6 46mm スマートウォッチ 1.47インチ大画面 最長21日間バッテリー ゴルフ/サイクリング/登山 スポーツモード100種類以上 GPS搭載 情緒/健康モニタリング iOS & Android対応 ブラック",
+          "price": 25973,
+          "list_price": 33880,
+          "percent_off": 23,
+          "points": 260,
+          "points_percent": 1,
+          "image": "https://m.media-amazon.com/images/I/41TvEbnJznL._SL160_.jpg",
+          "url": "https://www.amazon.co.jp/dp/B0FKH268LS?tag=natafull-22&linkCode=osi&th=1&psc=1"
+        },
+        {
+          "title": "GARMIN（ガーミン）GPSランニングウォッチ Forerunner 265 Music White 【日本正規品】",
+          "price": 49609,
+          "list_price": 62800,
+          "percent_off": 21,
+          "points": 496,
+          "points_percent": 1,
+          "image": "https://m.media-amazon.com/images/I/41-Jzh8drmL._SL160_.jpg",
+          "url": "https://www.amazon.co.jp/dp/B0BWF35J1G?tag=natafull-22&linkCode=osi&th=1&psc=1"
+        },
+        {
+          "title": "シャオミ(Xiaomi) スマートウォッチ Redmi Watch 5 Active 2インチ大画面ディスプレイ 18日間長持ちバッテリー Bluetooth 通話対応 24時間心拍数モニタリング Alexa対応 ミッドナイトブラック",
+          "price": 3780,
+          "list_price": 4580,
+          "percent_off": 17,
+          "points": 38,
+          "points_percent": 1,
+          "image": "https://m.media-amazon.com/images/I/31XC6PJTAsL._SL160_.jpg",
+          "url": "https://www.amazon.co.jp/dp/B0DFZPR9Z4?tag=natafull-22&linkCode=osi&th=1&psc=1"
+        },
+        {
+          "title": "シャオミ(Xiaomi) スマートウォッチ Xiaomi Band 9 Active 18日間連続使用 1.47インチTFTディスプレイ 24時間健康管理 チップ強化 軽量デザイン 交換可能なフレーム iPhone & Android対応 ブラック",
+          "price": 2960,
+          "list_price": 3480,
+          "percent_off": 15,
+          "points": 30,
+          "points_percent": 1,
+          "image": "https://m.media-amazon.com/images/I/31uu1iX42rL._SL160_.jpg",
+          "url": "https://www.amazon.co.jp/dp/B0DK6ZC5ZC?tag=natafull-22&linkCode=osi&th=1&psc=1"
+        }
+      ]
+    },
+    {
       "name": "エアフライヤー",
       "books": [
         {
@@ -425,261 +585,6 @@
           "points_percent": 2,
           "image": "https://m.media-amazon.com/images/I/313G0I5xQNL._SL160_.jpg",
           "url": "https://www.amazon.co.jp/dp/B0DRJK17XF?tag=natafull-22&linkCode=osi&th=1&psc=1"
-        }
-      ]
-    },
-    {
-      "name": "空気清浄機",
-      "books": [
-        {
-          "title": "ブルーエア 空気清浄機 22畳 リビング 寝室 Blue Max 3250i アプリ操作 脱臭 カビ 省エネ 北欧デザイン スウェーデン ウイルス ペット 花粉対策 節電 静音 360度吸引 ハウスダスト 換気 パワフル 簡単お手入れ",
-          "price": 14309,
-          "list_price": 24970,
-          "percent_off": 43,
-          "points": 143,
-          "points_percent": 1,
-          "image": "https://m.media-amazon.com/images/I/31VMmSdi5hL._SL160_.jpg",
-          "url": "https://www.amazon.co.jp/dp/B08KPHZWHL?tag=natafull-22&linkCode=osi&th=1&psc=1"
-        },
-        {
-          "title": "Dyson(ダイソン) 空気清浄機 扇風機 Dyson Purifier Cool™ Gen1 空気清浄ファン ホワイト／ホワイト (TP10 WW) サーキュレーター【空気をきれいにしながら、涼しく】",
-          "price": 31850,
-          "list_price": 49940,
-          "percent_off": 36,
-          "points": 0,
-          "points_percent": null,
-          "image": "https://m.media-amazon.com/images/I/312laRWI2WL._SL160_.jpg",
-          "url": "https://www.amazon.co.jp/dp/B0CZ9JDLF2?tag=natafull-22&linkCode=osi&th=1&psc=1"
-        },
-        {
-          "title": "ブルーエア(Blueair)【純正品】空気清浄機フィルター Blue Max 3250i / 3250 交換用フィルター パーティクルプラス カーボン 110410",
-          "price": 2836,
-          "list_price": 3960,
-          "percent_off": 28,
-          "points": 28,
-          "points_percent": 1,
-          "image": "https://m.media-amazon.com/images/I/41p6QKf9EyL._SL160_.jpg",
-          "url": "https://www.amazon.co.jp/dp/B08KPHYYQQ?tag=natafull-22&linkCode=osi&th=1&psc=1"
-        },
-        {
-          "title": "【純正品】ブルーエア 交換用ダストフィルター Classic 200シリーズ (290i / 280i / 205 / 250E / 270E / 270E Slim) 空気清浄機 F200300PA",
-          "price": 5127,
-          "list_price": 7150,
-          "percent_off": 28,
-          "points": 51,
-          "points_percent": 1,
-          "image": "https://m.media-amazon.com/images/I/41oAoKE9ELL._SL160_.jpg",
-          "url": "https://www.amazon.co.jp/dp/B000E7B4KO?tag=natafull-22&linkCode=osi&th=1&psc=1"
-        },
-        {
-          "title": "【純正品】ブルーエア 空気清浄機 Blue 3210 Blue Pure 411 / 411+ 交換用フィルター パーティクルプラス カーボン 106488",
-          "price": 2409,
-          "list_price": 3300,
-          "percent_off": 27,
-          "points": 24,
-          "points_percent": 1,
-          "image": "https://m.media-amazon.com/images/I/31FP8YZNEmS._SL160_.jpg",
-          "url": "https://www.amazon.co.jp/dp/B0978M4QM6?tag=natafull-22&linkCode=osi&th=1&psc=1"
-        },
-        {
-          "title": "【SHARP 純正品】シャープ プラズマクラスター空気清浄機 交換イオンカートリッジ IZ-C100C2",
-          "price": 5045,
-          "list_price": 6820,
-          "percent_off": 26,
-          "points": 50,
-          "points_percent": 1,
-          "image": "https://m.media-amazon.com/images/I/31GOtTK+3tL._SL160_.jpg",
-          "url": "https://www.amazon.co.jp/dp/B09N3G182R?tag=natafull-22&linkCode=osi&th=1&psc=1"
-        },
-        {
-          "title": "【SHARP 純正品】 シャープ 空気清浄機用 使い捨てプレフィルター FZ-PF51F1",
-          "price": 706,
-          "list_price": 935,
-          "percent_off": 24,
-          "points": 7,
-          "points_percent": 1,
-          "image": "https://m.media-amazon.com/images/I/31Qy2v9rvVL._SL160_.jpg",
-          "url": "https://www.amazon.co.jp/dp/B0070RAA8I?tag=natafull-22&linkCode=osi&th=1&psc=1"
-        },
-        {
-          "title": "【節電対策】 Levoit(レボイト) 空気清浄機 ハイグレード Vital 100S 花粉 21畳 集じん 小型 脱臭強化 自動/ペットモード",
-          "price": 15379,
-          "list_price": 19380,
-          "percent_off": 21,
-          "points": 154,
-          "points_percent": 1,
-          "image": "https://m.media-amazon.com/images/I/41aXy9Avn3L._SL160_.jpg",
-          "url": "https://www.amazon.co.jp/dp/B0D78ZJNH2?tag=natafull-22&linkCode=osi&th=1&psc=1"
-        }
-      ]
-    },
-    {
-      "name": "ドライヤー・ヘアアイロン",
-      "books": [
-        {
-          "title": "SALONIA サロニア スピーディーイオン ドライヤー グレー【Amazon.co.jp限定】",
-          "price": 4680,
-          "list_price": 5918,
-          "percent_off": 21,
-          "points": 747,
-          "points_percent": 16,
-          "image": "https://m.media-amazon.com/images/I/31szLkElfZL._SL160_.jpg",
-          "url": "https://www.amazon.co.jp/dp/B0DYNVL7B4?tag=natafull-22&linkCode=osi&th=1&psc=1"
-        },
-        {
-          "title": "SALONIA サロニア スムースシャイン ドライヤー グレー 【Amazon.co.jp限定】",
-          "price": 10500,
-          "list_price": 13200,
-          "percent_off": 20,
-          "points": 815,
-          "points_percent": 8,
-          "image": "https://m.media-amazon.com/images/I/31ZhNwupoaL._SL160_.jpg",
-          "url": "https://www.amazon.co.jp/dp/B0D44ZXPYM?tag=natafull-22&linkCode=osi&th=1&psc=1"
-        },
-        {
-          "title": "SALONIA サロニア ストレートアイロン ヘアアイロン 15mm グレー 【Amazon.co.jp限定】",
-          "price": 2980,
-          "list_price": 3828,
-          "percent_off": 22,
-          "points": 30,
-          "points_percent": 1,
-          "image": "https://m.media-amazon.com/images/I/31dY45HKNwL._SL160_.jpg",
-          "url": "https://www.amazon.co.jp/dp/B0FT2K7HK2?tag=natafull-22&linkCode=osi&th=1&psc=1"
-        },
-        {
-          "title": "SALONIA サロニア 2WAY ストレート & カール ヘアアイロン 32mm ブラック 【Amazon.co.jp限定】",
-          "price": 3760,
-          "list_price": 4708,
-          "percent_off": 20,
-          "points": 38,
-          "points_percent": 1,
-          "image": "https://m.media-amazon.com/images/I/3166i8Mip0L._SL160_.jpg",
-          "url": "https://www.amazon.co.jp/dp/B0FT1BQ88M?tag=natafull-22&linkCode=osi&th=1&psc=1"
-        },
-        {
-          "title": "SALONIA サロニア セラミック カール ヘアアイロン 32mm ホワイト 【Amazon.co.jp限定】",
-          "price": 3760,
-          "list_price": 4708,
-          "percent_off": 20,
-          "points": 38,
-          "points_percent": 1,
-          "image": "https://m.media-amazon.com/images/I/21mv4YMbAKL._SL160_.jpg",
-          "url": "https://www.amazon.co.jp/dp/B0FT25WR82?tag=natafull-22&linkCode=osi&th=1&psc=1"
-        },
-        {
-          "title": "SALONIA サロニア スムースシャイン ストレートアイロン 24mm ブラック【Amazon.co.jp限定】",
-          "price": 10500,
-          "list_price": 13200,
-          "percent_off": 20,
-          "points": 105,
-          "points_percent": 1,
-          "image": "https://m.media-amazon.com/images/I/41lpChJiGkL._SL160_.jpg",
-          "url": "https://www.amazon.co.jp/dp/B0CXDLCSRV?tag=natafull-22&linkCode=osi&th=1&psc=1"
-        },
-        {
-          "title": "SALONIA サロニア スムースシャイン カールアイロン 32mm ブラック【Amazon.co.jp限定】",
-          "price": 10500,
-          "list_price": 13200,
-          "percent_off": 20,
-          "points": 105,
-          "points_percent": 1,
-          "image": "https://m.media-amazon.com/images/I/317CgmNk1pL._SL160_.jpg",
-          "url": "https://www.amazon.co.jp/dp/B0CXDM7Y49?tag=natafull-22&linkCode=osi&th=1&psc=1"
-        },
-        {
-          "title": "【Amazon.co.jp限定】 コイズミ ヘアドライヤー モンスター 大風量 速乾 温冷自動切替 低温風モード デジタルディスプレイ ダブルファン ブラック KHD-W905/BK",
-          "price": 9080,
-          "list_price": 10800,
-          "percent_off": 16,
-          "points": 91,
-          "points_percent": 1,
-          "image": "https://m.media-amazon.com/images/I/31Y9HI-OH-L._SL160_.jpg",
-          "url": "https://www.amazon.co.jp/dp/B0DBPWX8KJ?tag=natafull-22&linkCode=osi&th=1&psc=1"
-        }
-      ]
-    },
-    {
-      "name": "ロボット掃除機",
-      "books": [
-        {
-          "title": "ECOVACS (エコバックス) DEEBOT N30 PLUS 吸引力10,000Pa ロボット掃除機 水拭き両用 サイクロン式 お掃除ロボット",
-          "price": 29800,
-          "list_price": 69800,
-          "percent_off": 57,
-          "points": 298,
-          "points_percent": 1,
-          "image": "https://m.media-amazon.com/images/I/312T9QFCi4L._SL160_.jpg",
-          "url": "https://www.amazon.co.jp/dp/B0FMR9YY83?tag=natafull-22&linkCode=osi&th=1&psc=1"
-        },
-        {
-          "title": "ECOVACS(エコバックス) 超薄全能型 DEEBOT T50 OMNI ロボット掃除機 15000Pa強力吸引 電動デュアルモップ 水拭き 両用",
-          "price": 49800,
-          "list_price": 99800,
-          "percent_off": 50,
-          "points": 498,
-          "points_percent": 1,
-          "image": "https://m.media-amazon.com/images/I/418DfT8kqdL._SL160_.jpg",
-          "url": "https://www.amazon.co.jp/dp/B0DRVB4DVC?tag=natafull-22&linkCode=osi&th=1&psc=1"
-        },
-        {
-          "title": "dreame(ドリーミー) F20ロボット掃除機 20,000 Paの吸引力 2-in-1 吸引・水拭き両用 二重構造の絡まり防止機能 カーペットクリーニング機能 壁際から部屋の隅までしっかり掃除 スマートナヒ ゲーション機能 Wi-Fi対応 音声コントロール対応 アプリコントロール お掃除ロボット ホワイト F20",
-          "price": 24800,
-          "list_price": 49800,
-          "percent_off": 50,
-          "points": 248,
-          "points_percent": 1,
-          "image": "https://m.media-amazon.com/images/I/31g36eoC2nL._SL160_.jpg",
-          "url": "https://www.amazon.co.jp/dp/B0GVNN41P1?tag=natafull-22&linkCode=osi&th=1&psc=1"
-        },
-        {
-          "title": "dreame (ドリーミー) Aqua10s Roller AEロボット掃除機 水拭き両用 ローラーモップ 浄水水拭き 35,000Pa強力吸引 100 日間自動ゴミ収集 100°C 熱湯モップ洗浄 温風乾燥 障害物回避 絡まり防止 お掃除ロボット カーペット ペット 掃除機 ドリーミー",
-          "price": 99800,
-          "list_price": 169800,
-          "percent_off": 41,
-          "points": 998,
-          "points_percent": 1,
-          "image": "https://m.media-amazon.com/images/I/31h4DPCn3zL._SL160_.jpg",
-          "url": "https://www.amazon.co.jp/dp/B0H44Y871S?tag=natafull-22&linkCode=osi&th=1&psc=1"
-        },
-        {
-          "title": "ECOVACS(エコバックス) DEEBOT T90 PRO OMNI ローラー式強力モップ ロボット掃除機 30,000Pa強力吸引 水拭き 両用",
-          "price": 109800,
-          "list_price": 159800,
-          "percent_off": 31,
-          "points": 10980,
-          "points_percent": 10,
-          "image": "https://m.media-amazon.com/images/I/31tQ86g6V3L._SL160_.jpg",
-          "url": "https://www.amazon.co.jp/dp/B0GHQBSQ3C?tag=natafull-22&linkCode=osi&th=1&psc=1"
-        },
-        {
-          "title": "Narwal (ナーワル) Freo Z10 ロボット掃除機 吸引・水拭き両用 可動式モップ",
-          "price": 77556,
-          "list_price": 129800,
-          "percent_off": 40,
-          "points": 776,
-          "points_percent": 1,
-          "image": "https://m.media-amazon.com/images/I/31+5vypcDCL._SL160_.jpg",
-          "url": "https://www.amazon.co.jp/dp/B0DW8MPL2P?tag=natafull-22&linkCode=osi&th=1&psc=1"
-        },
-        {
-          "title": "dreame (ドリーミー) L10s Ultra Gen3 ロボット掃除機 吸引・水拭き両用 25,000 Pa強力吸引 伸縮式のサイドブラシとモップ 100日分の自動ゴミ収集 AceClean DryBoardとモップの自動洗浄 温風乾燥 自動給水 10.5mmのモップリフトアップ 障害物回避 音声とアプリでコントロール お掃除ロボット",
-          "price": 69800,
-          "list_price": 111800,
-          "percent_off": 38,
-          "points": 698,
-          "points_percent": 1,
-          "image": "https://m.media-amazon.com/images/I/31Hv0tqVQGL._SL160_.jpg",
-          "url": "https://www.amazon.co.jp/dp/B0GRFN53XB?tag=natafull-22&linkCode=osi&th=1&psc=1"
-        },
-        {
-          "title": "ルンバ(Roomba)205 DustCompactor Combo ロボット (ロボット掃除機) アイロボット(iRobot)【水拭き/両用/ゴミ圧縮機能付きダスト容器/日本の住宅向けに開発/LiDARナビゲーション/パワーリフト吸引/スマートスクラブ対応/マッピング 掃除経路確認/アプリ操作/落下防止/Amazon.co.jp購入時12ヶ月保証/L121060】ブラック",
-          "price": 40300,
-          "list_price": 59798,
-          "percent_off": 33,
-          "points": 0,
-          "points_percent": null,
-          "image": "https://m.media-amazon.com/images/I/31HIrU1UQiL._SL160_.jpg",
-          "url": "https://www.amazon.co.jp/dp/B0F1FCM99S?tag=natafull-22&linkCode=osi&th=1&psc=1"
         }
       ]
     },
