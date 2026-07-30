@@ -324,6 +324,55 @@
       ]
     },
     {
+      "name": "キーボード・マウス",
+      "keywords": [
+        "ワイヤレスマウス",
+        "ワイヤレスキーボード",
+        "REALFORCE キーボード",
+        "Happy Hacking Keyboard"
+      ],
+      "search_index": "Electronics",
+      "must_include_any": [
+        "マウス",
+        "キーボード"
+      ],
+      "known_brands": [
+        "ロジクール",
+        "Logicool",
+        "Logitech",
+        "ELECOM",
+        "エレコム",
+        "バッファロー",
+        "Buffalo",
+        "サンワサプライ",
+        "Anker",
+        "Keychron",
+        "HHKB",
+        "REALFORCE",
+        "Razer",
+        "レイザー",
+        "Microsoft",
+        "マイクロソフト",
+        "PFU",
+        "東プレ",
+        "Topre"
+      ],
+      "exclude_any": [
+        "ケース",
+        "カバー",
+        "フィルム",
+        "キーキャップ",
+        "パームレスト",
+        "リストレスト",
+        "マウスパッド",
+        "交換用",
+        "キートップ",
+        "ルーフ",
+        "吸収マット",
+        "キーボードマット"
+      ]
+    },
+    {
       "name": "エアフライヤー",
       "keywords": [
         "エアフライヤー"
@@ -371,55 +420,6 @@
         "MUJI",
         "貝印",
         "KAI"
-      ]
-    },
-    {
-      "name": "キーボード・マウス",
-      "keywords": [
-        "ワイヤレスマウス",
-        "ワイヤレスキーボード",
-        "REALFORCE キーボード",
-        "Happy Hacking Keyboard"
-      ],
-      "search_index": "Electronics",
-      "must_include_any": [
-        "マウス",
-        "キーボード"
-      ],
-      "known_brands": [
-        "ロジクール",
-        "Logicool",
-        "Logitech",
-        "ELECOM",
-        "エレコム",
-        "バッファロー",
-        "Buffalo",
-        "サンワサプライ",
-        "Anker",
-        "Keychron",
-        "HHKB",
-        "REALFORCE",
-        "Razer",
-        "レイザー",
-        "Microsoft",
-        "マイクロソフト",
-        "PFU",
-        "東プレ",
-        "Topre"
-      ],
-      "exclude_any": [
-        "ケース",
-        "カバー",
-        "フィルム",
-        "キーキャップ",
-        "パームレスト",
-        "リストレスト",
-        "マウスパッド",
-        "交換用",
-        "キートップ",
-        "ルーフ",
-        "吸収マット",
-        "キーボードマット"
       ]
     },
     {
