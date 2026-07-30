@@ -17,7 +17,7 @@
   ],
   "ga_measurement_id": "G-41XNL0P91C",
   "min_saving_percent": 12,
-  "pages_per_genre": 5,
+  "pages_per_genre": 4,
   "genres": [
     {
       "name": "Apple製品",
@@ -63,8 +63,7 @@
       "name": "モバイルバッテリー",
       "keywords": [
         "MagSafe モバイルバッテリー",
-        "モバイルバッテリー 急速充電",
-        "cheero モバイルバッテリー"
+        "モバイルバッテリー 急速充電"
       ],
       "search_index": "Electronics",
       "must_include_any": [
@@ -147,8 +146,7 @@
       "name": "ワイヤレスイヤホン",
       "keywords": [
         "ワイヤレスイヤホン",
-        "Bluetoothイヤホン",
-        "cheero"
+        "Bluetoothイヤホン"
       ],
       "search_index": "Electronics",
       "must_include_any": [
@@ -353,7 +351,6 @@
       "keywords": [
         "ワイヤレスマウス",
         "ワイヤレスキーボード",
-        "HHKB Professional",
         "REALFORCE キーボード",
         "Happy Hacking Keyboard"
       ],
@@ -397,8 +394,115 @@
         "吸収マット",
         "キーボードマット"
       ]
+    },
+    {
+      "name": "空気清浄機",
+      "keywords": [
+        "空気清浄機"
+      ],
+      "search_index": "Electronics",
+      "must_include_any": [
+        "空気清浄"
+      ],
+      "known_brands": [
+        "シャープ",
+        "SHARP",
+        "Panasonic",
+        "パナソニック",
+        "ダイキン",
+        "DAIKIN",
+        "Levoit",
+        "レボイト",
+        "アイリスオーヤマ",
+        "IRIS OHYAMA",
+        "Blueair",
+        "ブルーエア",
+        "BLUEAIR",
+        "日立",
+        "HITACHI",
+        "cado",
+        "カドー",
+        "Dyson",
+        "ダイソン"
+      ]
+    },
+    {
+      "name": "ドライヤー・ヘアアイロン",
+      "keywords": [
+        "ヘアドライヤー",
+        "ヘアアイロン"
+      ],
+      "search_index": "HealthPersonalCare",
+      "must_include_any": [
+        "ドライヤー",
+        "ヘアアイロン",
+        "アイロン"
+      ],
+      "exclude_any": [
+        "衣類スチーマー",
+        "スチームアイロン",
+        "アイロン台"
+      ],
+      "known_brands": [
+        "Panasonic",
+        "パナソニック",
+        "ナノケア",
+        "Dyson",
+        "ダイソン",
+        "SALONIA",
+        "サロニア",
+        "コイズミ",
+        "KOIZUMI",
+        "テスコム",
+        "TESCOM",
+        "シャープ",
+        "SHARP",
+        "リファ",
+        "ReFa",
+        "絹女",
+        "KINUJO",
+        "ヤーマン",
+        "YA-MAN"
+      ]
+    },
+    {
+      "name": "SSD・メモリーカード",
+      "keywords": [
+        "外付けSSD",
+        "microSDカード"
+      ],
+      "search_index": "Electronics",
+      "must_include_any": [
+        "SSD",
+        "microSD",
+        "SDカード",
+        "メモリーカード"
+      ],
+      "known_brands": [
+        "SanDisk",
+        "サンディスク",
+        "Samsung",
+        "サムスン",
+        "Crucial",
+        "クルーシャル",
+        "Kioxia",
+        "キオクシア",
+        "KIOXIA",
+        "Transcend",
+        "トランセンド",
+        "Western Digital",
+        "WD",
+        "Buffalo",
+        "バッファロー",
+        "ELECOM",
+        "エレコム",
+        "Lexar",
+        "レキサー",
+        "SEAGATE",
+        "シーゲイト"
+      ]
     }
   ],
-  "top_deals_count": 6,
+  "top_deals_count": 3,
   "top_deals_per_genre": 2
 }
