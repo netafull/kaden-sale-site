@@ -21,11 +21,12 @@
     }
   ],
   "ga_measurement_id": "G-41XNL0P91C",
-  "min_saving_percent": 12,
+  "min_saving_percent": 15,
   "pages_per_genre": 4,
   "genres": [
     {
       "name": "Apple製品",
+      "min_saving_percent": 10,
       "keywords": [
         "MacBook Apple",
         "iPad Apple",

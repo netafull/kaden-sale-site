@@ -422,6 +422,10 @@ def main() -> int:
         irrelevant_total = 0
         unknown_brand_total = 0
         search_index = genre.get("search_index", "All")
+        # 掲載の閾値はジャンルごとに上書きできる。Apple製品は元々値引きが
+        # 小さく(セール時でも10〜20%程度)、全体と同じ基準だとセールに
+        # なっていても載らないため、このジャンルだけ低く設定している
+        genre_min_saving = genre.get("min_saving_percent", min_saving)
         must_include_any = genre.get("must_include_any") or []
         known_brands = genre.get("known_brands") or []
         exclude_any = genre.get("exclude_any") or []
@@ -449,7 +453,7 @@ def main() -> int:
                 label=f"{genre['name']} ({src_type}:{src_value}) page {page}",
             )
             parsed_items, no_discount, irrelevant, unknown_brand = parse_items(
-                res, partner_tag, min_saving, must_include_any, known_brands,
+                res, partner_tag, genre_min_saving, must_include_any, known_brands,
                 exclude_any,
             )
             dropped += no_discount
@@ -479,7 +483,7 @@ def main() -> int:
             # 形に詰め替えて同じ解析・整形ロジックを使い回す
             wrapped = {"searchResult": pick(res, "itemsResult", "ItemsResult") or {}}
             parsed_items, no_discount, _, _ = parse_items(
-                wrapped, partner_tag, min_saving, [], [], None
+                wrapped, partner_tag, genre_min_saving, [], [], None
             )
             watch_no_discount += no_discount
             for parsed in parsed_items:

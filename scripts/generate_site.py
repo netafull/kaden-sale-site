@@ -216,6 +216,20 @@ def generate_html(data: dict) -> str:
         related_html = (
             f'<div class="sites"><span class="lbl">関連サイト</span>\n{links}\n</div>'
         )
+    # 掲載の閾値はジャンルごとに上書きできるため、全体の値だけを書くと
+    # 実態と食い違う。個別設定があるジャンルは併記する
+    base_th = data["min_saving_percent"]
+    overrides = [
+        (g["name"], g["min_saving_percent"])
+        for g in CONFIG["genres"]
+        if g.get("min_saving_percent") is not None
+        and g["min_saving_percent"] != base_th
+    ]
+    threshold_note = f"割引率とポイント還元率の合計が{base_th}%以上の商品を掲載"
+    if overrides:
+        detail = "、".join(f"{n}は{v}%" for n, v in overrides)
+        threshold_note += f"({detail})"
+
     # メディアポリシー(プライバシーポリシー・AdSenseのCookie告知を含む)は
     # netaful.jp/policy.html に既にある。3サイトとも netaful.jp 配下なので
     # 各サイトに複製せずリンクで参照する
@@ -306,7 +320,7 @@ gtag('config', '{esc(ga_id)}');
 <body>
 <header>
 <h1><a href="./"><img src="assets/logo.png" alt="" width="32" height="32">{esc(CONFIG["site_title"])}</a></h1>
-<p>{esc(CONFIG["site_description"])} ｜ 割引率とポイント還元率の合計が{data["min_saving_percent"]}%以上の商品を掲載 ｜ 最終更新: {updated}</p>
+<p>{esc(CONFIG["site_description"])} ｜ {esc(threshold_note)} ｜ 最終更新: {updated}</p>
 {related_html}
 </header>
 <main>

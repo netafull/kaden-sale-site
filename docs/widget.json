@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-30T23:04:44.610750+00:00",
+  "updated": "2026-07-30T23:41:35.698229+00:00",
   "site_url": "https://kaden.netaful.jp/",
   "site_title": "家電ポチ",
   "genres": [
@@ -70,6 +70,16 @@
           "points_percent": 1,
           "image": "https://m.media-amazon.com/images/I/41M29ZC+gfL._SL160_.jpg",
           "url": "https://www.amazon.co.jp/dp/B0FPQN7DBD?tag=natafull-22&linkCode=osi&th=1&psc=1"
+        },
+        {
+          "title": "ソニー ゲーミングイヤホン INZONE Buds:WF-G700N Fnatic監修/ワイヤレス / 低遅延2.4GHzワイヤレス接続 USBType-Cトランシーバー同梱/LE Audio対応/アクティブノイズキャンセリング/立体音響 / 最大約24時間バッテリー / 急速充電/マイク付き / PS5 スマホ PC Switch グラスパープル",
+          "price": 23700,
+          "list_price": 29700,
+          "percent_off": 20,
+          "points": 0,
+          "points_percent": null,
+          "image": "https://m.media-amazon.com/images/I/3143nL6VZVL._SL160_.jpg",
+          "url": "https://www.amazon.co.jp/dp/B0GW7WT5SQ?tag=natafull-22&linkCode=osi&th=1&psc=1"
         },
         {
           "title": "Xiaomi シャオミ REDMI Buds 8 Lite ワイヤレスイヤホン Bluetooth 5.4 ノイズキャンセリング ANC 36時間再生",
@@ -755,16 +765,6 @@
           "points_percent": 1,
           "image": "https://m.media-amazon.com/images/I/41FnVHlqzOL._SL160_.jpg",
           "url": "https://www.amazon.co.jp/dp/B0FMKL5DQP?tag=natafull-22&linkCode=osi&th=1&psc=1"
-        },
-        {
-          "title": "ブラウン 電動歯ブラシ オーラルB 【電動初心者の決定版】iO2 iOS21C90PK 防水 歯科医推奨No.1ブランド【Amazon.co.jp 限定】",
-          "price": 11800,
-          "list_price": null,
-          "percent_off": null,
-          "points": 1618,
-          "points_percent": 14,
-          "image": "https://m.media-amazon.com/images/I/41Pw3tA0sbL._SL160_.jpg",
-          "url": "https://www.amazon.co.jp/dp/B0DB4GH421?tag=natafull-22&linkCode=osi&th=1&psc=1"
         }
       ]
     }

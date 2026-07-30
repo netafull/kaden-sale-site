@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-07-30T23:04:44.610750+00:00",
-  "min_saving_percent": 12,
+  "fetched_at": "2026-07-30T23:41:35.698229+00:00",
+  "min_saving_percent": 15,
   "top_deals": [
     {
       "asin": "B0G4CC1S2F",
@@ -131,6 +131,19 @@
           "image": "https://m.media-amazon.com/images/I/41M29ZC+gfL._SL160_.jpg",
           "url": "https://www.amazon.co.jp/dp/B0FPQN7DBD?tag=natafull-22&linkCode=osi&th=1&psc=1",
           "since": "2026-07-29"
+        },
+        {
+          "asin": "B0GW7WT5SQ",
+          "title": "ソニー ゲーミングイヤホン INZONE Buds:WF-G700N Fnatic監修/ワイヤレス / 低遅延2.4GHzワイヤレス接続 USBType-Cトランシーバー同梱/LE Audio対応/アクティブノイズキャンセリング/立体音響 / 最大約24時間バッテリー / 急速充電/マイク付き / PS5 スマホ PC Switch グラスパープル",
+          "brand": "Sony",
+          "price": 23700,
+          "list_price": 29700,
+          "percent_off": 20,
+          "points": 0,
+          "points_percent": null,
+          "image": "https://m.media-amazon.com/images/I/3143nL6VZVL._SL160_.jpg",
+          "url": "https://www.amazon.co.jp/dp/B0GW7WT5SQ?tag=natafull-22&linkCode=osi&th=1&psc=1",
+          "since": "2026-07-24"
         },
         {
           "asin": "B0FRSCXWSV",
@@ -331,97 +344,6 @@
           "image": "https://m.media-amazon.com/images/I/21yWDfPjQgL._SL160_.jpg",
           "url": "https://www.amazon.co.jp/dp/B0DZ1TGX6T?tag=natafull-22&linkCode=osi&th=1&psc=1",
           "since": "2026-07-24"
-        },
-        {
-          "asin": "B0FTZ46NF8",
-          "title": "CIO SMARTCOBY Ex04 Wireless2.2 CABLE SS5K 半固体モバイルバッテリー Qi2.2 5000mAh (ブラック)",
-          "brand": "CIO",
-          "price": 6180,
-          "list_price": 7130,
-          "percent_off": 13,
-          "points": 62,
-          "points_percent": 1,
-          "image": "https://m.media-amazon.com/images/I/31-GFIaJxZL._SL160_.jpg",
-          "url": "https://www.amazon.co.jp/dp/B0FTZ46NF8?tag=natafull-22&linkCode=osi&th=1&psc=1",
-          "since": "2026-07-29"
-        },
-        {
-          "asin": "B0GMWY26HF",
-          "title": "CIO SMARTCOBY SLIMⅡ Wireless2.2 Pro SS10K 半固体モバイルバッテリー Qi2.2 10000mAh(シルバー)",
-          "brand": "CIO",
-          "price": 7480,
-          "list_price": 8580,
-          "percent_off": 13,
-          "points": 75,
-          "points_percent": 1,
-          "image": "https://m.media-amazon.com/images/I/31o4FBnzqNL._SL160_.jpg",
-          "url": "https://www.amazon.co.jp/dp/B0GMWY26HF?tag=natafull-22&linkCode=osi&th=1&psc=1",
-          "since": "2026-07-29"
-        },
-        {
-          "asin": "B0H32FF1Y9",
-          "title": "CIO モバイルバッテリー 半固体 ワイヤレス充電 10000mAh SMARTCOBY SLIMⅡ Wireless2.2 SS10K (シルバー)",
-          "brand": "CIO",
-          "price": 8280,
-          "list_price": 9480,
-          "percent_off": 13,
-          "points": 83,
-          "points_percent": 1,
-          "image": "https://m.media-amazon.com/images/I/31fLe2vDMYL._SL160_.jpg",
-          "url": "https://www.amazon.co.jp/dp/B0H32FF1Y9?tag=natafull-22&linkCode=osi&th=1&psc=1",
-          "since": "2026-07-29"
-        },
-        {
-          "asin": "B0GMX4WKYG",
-          "title": "CIO SMARTCOBY Pro SLIM SS モバイルバッテリー 半固体 35W USB-C×2 USB-A×1 10000mAh (ブラック)",
-          "brand": "CIO",
-          "price": 5480,
-          "list_price": 6280,
-          "percent_off": 13,
-          "points": 55,
-          "points_percent": 1,
-          "image": "https://m.media-amazon.com/images/I/3193CL+De7L._SL160_.jpg",
-          "url": "https://www.amazon.co.jp/dp/B0GMX4WKYG?tag=natafull-22&linkCode=osi&th=1&psc=1",
-          "since": "2026-07-25"
-        },
-        {
-          "asin": "B0G4Q8ZDF3",
-          "title": "エレコム モバイルバッテリー 10000mAh 45W リール式 巻き取り式ケーブル 2ポート USB-A/C 【残量表示/PSE技術基準適合/PD対応】 しろちゃん EC-C54LWF",
-          "brand": "エレコム(ELECOM)",
-          "price": 4490,
-          "list_price": 5190,
-          "percent_off": 13,
-          "points": 45,
-          "points_percent": 1,
-          "image": "https://m.media-amazon.com/images/I/214Y1ZxkrnL._SL160_.jpg",
-          "url": "https://www.amazon.co.jp/dp/B0G4Q8ZDF3?tag=natafull-22&linkCode=osi&th=1&psc=1",
-          "since": "2026-07-31"
-        },
-        {
-          "asin": "B0FTZ63967",
-          "title": "CIO SMARTCOBY Ex05 Wireless2.2 Pro CABLE SS10K 半固体モバイルバッテリー 10000mAh (ブラック)",
-          "brand": "CIO",
-          "price": 7980,
-          "list_price": 8980,
-          "percent_off": 11,
-          "points": 80,
-          "points_percent": 1,
-          "image": "https://m.media-amazon.com/images/I/31q39Z8ffxL._SL160_.jpg",
-          "url": "https://www.amazon.co.jp/dp/B0FTZ63967?tag=natafull-22&linkCode=osi&th=1&psc=1",
-          "since": "2026-07-29"
-        },
-        {
-          "asin": "B0FTZ1X6NC",
-          "title": "CIO SMARTCOBY SLIM Ⅱ Wireless 2.0 SS5K 半固体モバイルバッテリー ワイヤレス充電 5000mAh (シルバー)",
-          "brand": "CIO",
-          "price": 6180,
-          "list_price": 6980,
-          "percent_off": 11,
-          "points": 62,
-          "points_percent": 1,
-          "image": "https://m.media-amazon.com/images/I/2152Cq55MbL._SL160_.jpg",
-          "url": "https://www.amazon.co.jp/dp/B0FTZ1X6NC?tag=natafull-22&linkCode=osi&th=1&psc=1",
-          "since": "2026-07-29"
         }
       ]
     },
@@ -765,97 +687,6 @@
           "image": "https://m.media-amazon.com/images/I/31dltlXi+4L._SL160_.jpg",
           "url": "https://www.amazon.co.jp/dp/B0DRP4ZN3Z?tag=natafull-22&linkCode=osi&th=1&psc=1",
           "since": "2026-07-31"
-        },
-        {
-          "asin": "B0F43RNTYH",
-          "title": "エレコム 充電器 100W 3ポート Type-C USB PD対応 スイング式プラグ採用 ブラック EC-AC113100BK",
-          "brand": "エレコム(ELECOM)",
-          "price": 4790,
-          "list_price": 5490,
-          "percent_off": 13,
-          "points": 48,
-          "points_percent": 1,
-          "image": "https://m.media-amazon.com/images/I/31JFdyCvsIL._SL160_.jpg",
-          "url": "https://www.amazon.co.jp/dp/B0F43RNTYH?tag=natafull-22&linkCode=osi&th=1&psc=1",
-          "since": "2026-07-29"
-        },
-        {
-          "asin": "B0F3CJRF4Y",
-          "title": "エレコム 充電器 45W 2ポート Type-C USB PD対応 PPS対応 GaN II採用 折りたたみ式プラグ ホワイト EC-AC10945WH",
-          "brand": "エレコム(ELECOM)",
-          "price": 1990,
-          "list_price": 2290,
-          "percent_off": 13,
-          "points": 20,
-          "points_percent": 1,
-          "image": "https://m.media-amazon.com/images/I/21nJ4FkPfTL._SL160_.jpg",
-          "url": "https://www.amazon.co.jp/dp/B0F3CJRF4Y?tag=natafull-22&linkCode=osi&th=1&psc=1",
-          "since": "2026-07-29"
-        },
-        {
-          "asin": "B0H329XGNF",
-          "title": "CIO NovaPort SLIM DUOⅡ 65W2C PD急速充電器 USB-C×2 180°スイングプラグ 薄型12.5mm（ブラック）",
-          "brand": "CIO",
-          "price": 5280,
-          "list_price": 5980,
-          "percent_off": 12,
-          "points": 53,
-          "points_percent": 1,
-          "image": "https://m.media-amazon.com/images/I/31llOrOvGkL._SL160_.jpg",
-          "url": "https://www.amazon.co.jp/dp/B0H329XGNF?tag=natafull-22&linkCode=osi&th=1&psc=1",
-          "since": "2026-07-29"
-        },
-        {
-          "asin": "B0CZN9XSDM",
-          "title": "エレコム 充電器 Type-C USB-C 20W USB PD対応 1ポート PSE認証品 GaN採用 折りたたみ式プラグ ホワイト 【 iPhone16 15 等対応】 EC-AC6820WH",
-          "brand": "エレコム(ELECOM)",
-          "price": 790,
-          "list_price": 899,
-          "percent_off": 12,
-          "points": 8,
-          "points_percent": 1,
-          "image": "https://m.media-amazon.com/images/I/21rzxDJLOqL._SL160_.jpg",
-          "url": "https://www.amazon.co.jp/dp/B0CZN9XSDM?tag=natafull-22&linkCode=osi&th=1&psc=1",
-          "since": "2026-07-29"
-        },
-        {
-          "asin": "B0CZND25TV",
-          "title": "エレコム 充電器 Type-C USB-C 20W USB PD対応 1ポート PSE認証品 GaN採用 折りたたみ式プラグ ブラック 【 iPhone16 15 等対応】 EC-AC6820BK",
-          "brand": "エレコム(ELECOM)",
-          "price": 790,
-          "list_price": 899,
-          "percent_off": 12,
-          "points": 8,
-          "points_percent": 1,
-          "image": "https://m.media-amazon.com/images/I/31XAphVgP2L._SL160_.jpg",
-          "url": "https://www.amazon.co.jp/dp/B0CZND25TV?tag=natafull-22&linkCode=osi&th=1&psc=1",
-          "since": "2026-07-29"
-        },
-        {
-          "asin": "B0CTJDLWV4",
-          "title": "エレコム 充電器 65W USB PD対応 小型 Type-C 1ポート PPS対応 GaN II採用 PSE認証 ブラック 【iPhone 16 15 iPad Macbook 等対応】 EC-AC8565BK",
-          "brand": "エレコム(ELECOM)",
-          "price": 2490,
-          "list_price": 2790,
-          "percent_off": 11,
-          "points": 25,
-          "points_percent": 1,
-          "image": "https://m.media-amazon.com/images/I/31dU6nuHbvL._SL160_.jpg",
-          "url": "https://www.amazon.co.jp/dp/B0CTJDLWV4?tag=natafull-22&linkCode=osi&th=1&psc=1",
-          "since": "2026-07-29"
-        },
-        {
-          "asin": "B0FBM6X15S",
-          "title": "Belkin CubicCharger 67W 2ポート アダプター ゼロスタンバイモード(待機消費0) ZSP技術 PPS 急速充電 GaN Type-C USB-C 折りたたみプラグ 旅行・出張最適 PSE認証 iPhone 17～12対応 スマホ MacBook air PD対応 Windows PC iPad Galaxy Android ホワイト WCH020qcWH",
-          "brand": "Belkin",
-          "price": 4790,
-          "list_price": 5379,
-          "percent_off": 11,
-          "points": 48,
-          "points_percent": 1,
-          "image": "https://m.media-amazon.com/images/I/31cG4ui+lBL._SL160_.jpg",
-          "url": "https://www.amazon.co.jp/dp/B0FBM6X15S?tag=natafull-22&linkCode=osi&th=1&psc=1",
-          "since": "2026-07-31"
         }
       ]
     },
@@ -1139,84 +970,6 @@
           "image": "https://m.media-amazon.com/images/I/41bk0D6BX7L._SL160_.jpg",
           "url": "https://www.amazon.co.jp/dp/B0GQRLL8Q4?tag=natafull-22&linkCode=osi&th=1&psc=1",
           "since": "2026-07-30"
-        },
-        {
-          "asin": "B07TTH5TMW",
-          "title": "SwitchBot スマートリモコン ハブミニ Alexa スイッチボットHub Mini スマートホーム 学習リモコン 赤外線家電を管理 スケジュール 遠隔操作 節電·省エネ Google Home IFTTT Siri SmartThingsに対応 (ホワイト)",
-          "brand": "スイッチボット(SwitchBot)",
-          "price": 4790,
-          "list_price": 5480,
-          "percent_off": 13,
-          "points": 48,
-          "points_percent": 1,
-          "image": "https://m.media-amazon.com/images/I/413-L0HkQZL._SL160_.jpg",
-          "url": "https://www.amazon.co.jp/dp/B07TTH5TMW?tag=natafull-22&linkCode=osi&th=1&psc=1",
-          "since": "2026-07-30"
-        },
-        {
-          "asin": "B08GM64R84",
-          "title": "SwitchBot スイッチボット リモートボタン ワンタッチ SwitchBot複数デバイスに対応 ワンボタンで複数デバイス同時制御 シーンに対応 スマートホーム 置き場所自由 遠隔操作 物理ボタン コンパクト Bluetooth4.2",
-          "brand": "スイッチボット(SwitchBot)",
-          "price": 2160,
-          "list_price": 2480,
-          "percent_off": 13,
-          "points": 22,
-          "points_percent": 1,
-          "image": "https://m.media-amazon.com/images/I/314gapTDOnL._SL160_.jpg",
-          "url": "https://www.amazon.co.jp/dp/B08GM64R84?tag=natafull-22&linkCode=osi&th=1&psc=1",
-          "since": "2026-07-30"
-        },
-        {
-          "asin": "B094VZQ1RT",
-          "title": "SwitchBot 開閉センサー スイッチボット Alexa セキュリティ - Google Home IFTTT イフト Siri LINE Clovaに対応 スマートホーム 遠隔対応 取付簡単 防犯対策 スマホで確認 アラート通知 磁気 ドアセンサー, W1201500",
-          "brand": "スイッチボット(SwitchBot)",
-          "price": 2580,
-          "list_price": 2980,
-          "percent_off": 13,
-          "points": 26,
-          "points_percent": 1,
-          "image": "https://m.media-amazon.com/images/I/31e77M1XdzL._SL160_.jpg",
-          "url": "https://www.amazon.co.jp/dp/B094VZQ1RT?tag=natafull-22&linkCode=osi&th=1&psc=1",
-          "since": "2026-07-30"
-        },
-        {
-          "asin": "B094W18WZM",
-          "title": "SwitchBot 人感センサー スイッチボット Alexa セキュリティ - Google Home Siri LINE Clovaに対応 スマートホーム 遠隔対応 取付簡単 防犯対策 スマホで確認 アラート機能",
-          "brand": "スイッチボット(SwitchBot)",
-          "price": 2580,
-          "list_price": 2980,
-          "percent_off": 13,
-          "points": 26,
-          "points_percent": 1,
-          "image": "https://m.media-amazon.com/images/I/31xzuZ1JeML._SL160_.jpg",
-          "url": "https://www.amazon.co.jp/dp/B094W18WZM?tag=natafull-22&linkCode=osi&th=1&psc=1",
-          "since": "2026-07-30"
-        },
-        {
-          "asin": "B0FX4H6SC4",
-          "title": "SwitchBot AI ハブ 防犯カメラ 300万画素 ハブ2 - スマートリモコン アレクサ スイッチボット スマートホーム中枢 パン/チルト 赤外線家電を管理 Google Home IFTTT Siri SmartThingsに対応",
-          "brand": "スイッチボット(SwitchBot)",
-          "price": 47643,
-          "list_price": 53940,
-          "percent_off": 12,
-          "points": 0,
-          "points_percent": null,
-          "image": "https://m.media-amazon.com/images/I/41F1A8Jz7lL._SL160_.jpg",
-          "url": "https://www.amazon.co.jp/dp/B0FX4H6SC4?tag=natafull-22&linkCode=osi&th=1&psc=1",
-          "since": "2026-07-30"
-        },
-        {
-          "asin": "B0DT6S7NZ8",
-          "title": "SwitchBot スマートプラグ プラグミニ スマートコンセント スイッチボット 消費電力モニター タイマー コンセント 節電·省エネ 直差し 遠隔操作 音声コントロール Bluetooth&Wi-Fi両方対応 スマートホーム Alexa, Google Home, Siri, IFTTT, SmartThings対応",
-          "brand": "スイッチボット(SwitchBot)",
-          "price": 1760,
-          "list_price": 1980,
-          "percent_off": 11,
-          "points": 18,
-          "points_percent": 1,
-          "image": "https://m.media-amazon.com/images/I/31z4vTju3wL._SL160_.jpg",
-          "url": "https://www.amazon.co.jp/dp/B0DT6S7NZ8?tag=natafull-22&linkCode=osi&th=1&psc=1",
-          "since": "2026-07-30"
         }
       ]
     },
@@ -1338,19 +1091,6 @@
           "points_percent": null,
           "image": "https://m.media-amazon.com/images/I/41NI4ju2vQL._SL160_.jpg",
           "url": "https://www.amazon.co.jp/dp/B0FKH323P1?tag=natafull-22&linkCode=osi&th=1&psc=1",
-          "since": "2026-07-30"
-        },
-        {
-          "asin": "B0GQL9JZS7",
-          "title": "Xiaomi Redmi Watch 6 シャオミ スマートウォッチ GPS Bluetooth通話 着信通知 防水 24日間持続 iPhone対応",
-          "brand": "xiaomi(シャオミ)",
-          "price": 12980,
-          "list_price": 14801,
-          "percent_off": 12,
-          "points": 130,
-          "points_percent": 1,
-          "image": "https://m.media-amazon.com/images/I/41EBUq-NpwL._SL160_.jpg",
-          "url": "https://www.amazon.co.jp/dp/B0GQL9JZS7?tag=natafull-22&linkCode=osi&th=1&psc=1",
           "since": "2026-07-30"
         }
       ]
@@ -1786,71 +1526,6 @@
           "image": "https://m.media-amazon.com/images/I/312jQ3H3eRL._SL160_.jpg",
           "url": "https://www.amazon.co.jp/dp/B0C65MQZ65?tag=natafull-22&linkCode=osi&th=1&psc=1",
           "since": "2026-07-26"
-        },
-        {
-          "asin": "B09Q5SHDR3",
-          "title": "ロジクール ワイヤレスマウス 静音 無線 高速スクロール Signature M650MGR レギュラー グラファイト M650 国内正規品",
-          "brand": "Logitech",
-          "price": 4000,
-          "list_price": 4620,
-          "percent_off": 13,
-          "points": 40,
-          "points_percent": 1,
-          "image": "https://m.media-amazon.com/images/I/31vT8Fl9V3L._SL160_.jpg",
-          "url": "https://www.amazon.co.jp/dp/B09Q5SHDR3?tag=natafull-22&linkCode=osi&th=1&psc=1",
-          "since": "2026-07-26"
-        },
-        {
-          "asin": "B08LMK3L5C",
-          "title": "エレコム ワイヤレスマウス Bluetooth Slint 薄型 静音 4ボタン プレゼンモード機能付 Windows Mac Android iOS iPadOS FireOS対応 ブラック M-TM10BBBK/EC",
-          "brand": "エレコム(ELECOM)",
-          "price": 1390,
-          "list_price": 1599,
-          "percent_off": 13,
-          "points": 14,
-          "points_percent": 1,
-          "image": "https://m.media-amazon.com/images/I/311GO2ukVDL._SL160_.jpg",
-          "url": "https://www.amazon.co.jp/dp/B08LMK3L5C?tag=natafull-22&linkCode=osi&th=1&psc=1",
-          "since": "2026-07-29"
-        },
-        {
-          "asin": "B07MC7LLTR",
-          "title": "R2TLA-US4G-BK Realforce RGB TKL 有線キーボード 英語配列 87キーレ",
-          "brand": "東プレ(Topre Corporation)",
-          "price": 13800,
-          "list_price": 15800,
-          "percent_off": 13,
-          "points": 138,
-          "points_percent": 1,
-          "image": "https://m.media-amazon.com/images/I/31q0s9pqmaL._SL160_.jpg",
-          "url": "https://www.amazon.co.jp/dp/B07MC7LLTR?tag=natafull-22&linkCode=osi&th=1&psc=1",
-          "since": "2026-07-29"
-        },
-        {
-          "asin": "B0GL1G8PQZ",
-          "title": "東プレ REALFORCE GX1 Plus νガンダム (ニューガンダム) 日本語配列 ゲーミングキーボード X1PCN1 KB0937",
-          "brand": "REALFORCE",
-          "price": 50907,
-          "list_price": 55333,
-          "percent_off": 8,
-          "points": 2767,
-          "points_percent": 5,
-          "image": "https://m.media-amazon.com/images/I/31uMnYTnvaL._SL160_.jpg",
-          "url": "https://www.amazon.co.jp/dp/B0GL1G8PQZ?tag=natafull-22&linkCode=osi&th=1&psc=1",
-          "since": "2026-07-29"
-        },
-        {
-          "asin": "B0C2YK1CS6",
-          "title": "ロジクール 静音 ワイヤレスマウス M240GR Silent Bluetooth マウス グラファイト 無線 ワイヤレス 小型 左右対称 logi bolt windows mac iPad OS Chrome Android M240 国内正規品",
-          "brand": "Logicool(ロジクール)",
-          "price": 1864,
-          "list_price": 2090,
-          "percent_off": 11,
-          "points": 19,
-          "points_percent": 1,
-          "image": "https://m.media-amazon.com/images/I/31X3ipEzCIL._SL160_.jpg",
-          "url": "https://www.amazon.co.jp/dp/B0C2YK1CS6?tag=natafull-22&linkCode=osi&th=1&psc=1",
-          "since": "2026-07-26"
         }
       ]
     },
@@ -2017,32 +1692,6 @@
           "image": "https://m.media-amazon.com/images/I/51eAsWEAZ-L._SL160_.jpg",
           "url": "https://www.amazon.co.jp/dp/B0F87SC5R6?tag=natafull-22&linkCode=osi&th=1&psc=1",
           "since": "2026-07-29"
-        },
-        {
-          "asin": "B0FGHXK5T4",
-          "title": "パナソニック ラムダッシュPRO 電気シェーバー 5枚刃 【Amazon.co.jp限定】 お風呂剃り可 黒 ES-NLV5X-K",
-          "brand": "パナソニック(Panasonic)",
-          "price": 20250,
-          "list_price": 23124,
-          "percent_off": 12,
-          "points": 203,
-          "points_percent": 1,
-          "image": "https://m.media-amazon.com/images/I/31XeZMnxgNL._SL160_.jpg",
-          "url": "https://www.amazon.co.jp/dp/B0FGHXK5T4?tag=natafull-22&linkCode=osi&th=1&psc=1",
-          "since": "2026-07-28"
-        },
-        {
-          "asin": "B0CY4LX65R",
-          "title": "【乾電池式】パナソニック 鼻毛カッター エチケットカッター メンズ 眉毛 ヒゲ 水洗い 父の日 ER-NGNH1-K 【Amazon.co.jp限定】",
-          "brand": "パナソニック(Panasonic)",
-          "price": 4400,
-          "list_price": 4980,
-          "percent_off": 12,
-          "points": 44,
-          "points_percent": 1,
-          "image": "https://m.media-amazon.com/images/I/31jBS6jXOEL._SL160_.jpg",
-          "url": "https://www.amazon.co.jp/dp/B0CY4LX65R?tag=natafull-22&linkCode=osi&th=1&psc=1",
-          "since": "2026-07-28"
         }
       ]
     },
@@ -2113,19 +1762,6 @@
           "image": "https://m.media-amazon.com/images/I/41FnVHlqzOL._SL160_.jpg",
           "url": "https://www.amazon.co.jp/dp/B0FMKL5DQP?tag=natafull-22&linkCode=osi&th=1&psc=1",
           "since": "2026-07-30"
-        },
-        {
-          "asin": "B0DB4GH421",
-          "title": "ブラウン 電動歯ブラシ オーラルB 【電動初心者の決定版】iO2 iOS21C90PK 防水 歯科医推奨No.1ブランド【Amazon.co.jp 限定】",
-          "brand": "Braun",
-          "price": 11800,
-          "list_price": null,
-          "percent_off": null,
-          "points": 1618,
-          "points_percent": 14,
-          "image": "https://m.media-amazon.com/images/I/41Pw3tA0sbL._SL160_.jpg",
-          "url": "https://www.amazon.co.jp/dp/B0DB4GH421?tag=natafull-22&linkCode=osi&th=1&psc=1",
-          "since": "2026-07-26"
         }
       ]
     }
