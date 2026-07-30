@@ -216,6 +216,26 @@ def generate_html(data: dict) -> str:
         related_html = (
             f'<div class="sites"><span class="lbl">関連サイト</span>\n{links}\n</div>'
         )
+    # メディアポリシー(プライバシーポリシー・AdSenseのCookie告知を含む)は
+    # netaful.jp/policy.html に既にある。3サイトとも netaful.jp 配下なので
+    # 各サイトに複製せずリンクで参照する
+    policy_url = CONFIG.get("policy_url", "")
+    policy_link = (
+        f'｜ <a href="{esc(policy_url)}" style="color:inherit">メディアポリシー</a>\n'
+        if policy_url
+        else ""
+    )
+
+    # AdSenseの広告コード。ads.txtはルートドメイン(netaful.jp)のものが
+    # サブドメインにも適用されるため、各サイトでの設置は不要
+    adsense_id = CONFIG.get("adsense_client_id", "")
+    adsense_tag = (
+        '<script async src="https://pagead2.googlesyndication.com/pagead/js/'
+        f'adsbygoogle.js?client={esc(adsense_id)}" crossorigin="anonymous"></script>'
+        if adsense_id
+        else ""
+    )
+
     ga_id = CONFIG.get("ga_measurement_id", "")
     ga_tag = (
         f"""<script async src="https://www.googletagmanager.com/gtag/js?id={esc(ga_id)}"></script>
@@ -266,6 +286,7 @@ gtag('config', '{esc(ga_id)}');
 <link rel="canonical" href="{esc(site_url)}">
 {gsv_tag}
 {ga_tag}
+{adsense_tag}
 <link rel="icon" type="image/png" href="assets/favicon.png">
 <link rel="apple-touch-icon" href="assets/apple-touch-icon.png">
 <meta property="og:type" content="website">
@@ -295,7 +316,7 @@ gtag('config', '{esc(ga_id)}');
 価格・割引率は取得時点のものです。購入前にAmazonの商品ページで最新の価格をご確認ください。
 Amazonのアソシエイトとして、当サイトは適格販売により収入を得ています。
 当サイトはアクセス解析のためGoogle Analyticsを利用しています(データは匿名で収集され、Googleに送信されます)。
-｜ <a href="rss.xml" style="color:inherit">RSS</a>
+{policy_link}｜ <a href="rss.xml" style="color:inherit">RSS</a>
 {related_html}
 </footer>
 </body>

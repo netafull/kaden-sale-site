@@ -478,5 +478,7 @@
   "top_deals_exclude_genres": [
     "電気シェーバー",
     "電動歯ブラシ"
-  ]
+  ],
+  "policy_url": "https://netaful.jp/policy.html",
+  "adsense_client_id": "ca-pub-2195959398357532"
 }
