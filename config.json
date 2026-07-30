@@ -134,11 +134,11 @@
       "name": "モバイルバッテリー",
       "keywords": [
         "MagSafe モバイルバッテリー",
-        "モバイルバッテリー 急速充電"
+        "モバイルバッテリー 急速充電",
+        "Belkin BoostCharge"
       ],
       "search_index": "Electronics",
       "must_include_any": [
-        "MagSafe",
         "モバイルバッテリー",
         "モバイルバッテリ",
         "バッテリー",
@@ -172,7 +172,8 @@
       "keywords": [
         "USB 充電器 急速充電",
         "Anker 充電器",
-        "GaN 充電器 USB-C"
+        "GaN 充電器 USB-C",
+        "Belkin BoostCharge"
       ],
       "search_index": "Electronics",
       "must_include_any": [

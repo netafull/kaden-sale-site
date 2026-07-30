@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-30T10:58:19.866077+00:00",
+  "fetched_at": "2026-07-30T23:04:44.610750+00:00",
   "min_saving_percent": 12,
   "top_deals": [
     {
@@ -17,6 +17,20 @@
       "genre": "エアフライヤー"
     },
     {
+      "asin": "B098SQSRRV",
+      "title": "Belkin USB充電器 40W iPhone17,16～12 デュアルUSB-C(20W x 2) PD3.0 急速充電対応 ホワイト WCB006dqWHJP",
+      "brand": "Belkin",
+      "price": 1400,
+      "list_price": 2660,
+      "percent_off": 47,
+      "points": 14,
+      "points_percent": 1,
+      "image": "https://m.media-amazon.com/images/I/21HyEB6vHDL._SL160_.jpg",
+      "url": "https://www.amazon.co.jp/dp/B098SQSRRV?tag=natafull-22&linkCode=osi&th=1&psc=1",
+      "since": "2026-07-31",
+      "genre": "充電器"
+    },
+    {
       "asin": "B07SQ1LBYK",
       "title": "サンワサプライ カーチャージャー(1ポート・2.4A) スマホ・タブレット対応 CAR-CHR73U",
       "brand": "サンワサプライ(Sanwa Supply)",
@@ -29,20 +43,6 @@
       "url": "https://www.amazon.co.jp/dp/B07SQ1LBYK?tag=natafull-22&linkCode=osi&th=1&psc=1",
       "since": "2026-07-27",
       "genre": "充電器"
-    },
-    {
-      "asin": "B09378JC6B",
-      "title": "【Amazon.co.jp限定】バッファロー microSD 128GB 100MB/s UHS-1 U1 microSDXC【 Nintendo Switch 対応 】V10 A1 IPX7 Full HD RMSD-128U11HA/N",
-      "brand": "バッファロー",
-      "price": 5789,
-      "list_price": 9980,
-      "percent_off": 42,
-      "points": 0,
-      "points_percent": null,
-      "image": "https://m.media-amazon.com/images/I/41Qf6Bj8UFS._SL160_.jpg",
-      "url": "https://www.amazon.co.jp/dp/B09378JC6B?tag=natafull-22&linkCode=osi&th=1&psc=1",
-      "since": "2026-07-30",
-      "genre": "SSD・メモリーカード"
     }
   ],
   "genres": [
@@ -255,6 +255,19 @@
           "since": "2026-07-24"
         },
         {
+          "asin": "B0FKGYZYZZ",
+          "title": "Belkin Apple Watch充電器一体型 モバイルバッテリー 10000mAh 45W 急速充電 USB-Cケーブル内蔵 3台同時充電",
+          "brand": "Belkin",
+          "price": 10618,
+          "list_price": 13990,
+          "percent_off": 24,
+          "points": 106,
+          "points_percent": 1,
+          "image": "https://m.media-amazon.com/images/I/31ixqgGxHDL._SL160_.jpg",
+          "url": "https://www.amazon.co.jp/dp/B0FKGYZYZZ?tag=natafull-22&linkCode=osi&th=1&psc=1",
+          "since": "2026-07-31"
+        },
+        {
           "asin": "B0D4F34SB4",
           "title": "UGREEN 145W 4-in-1モバイルバッテリー 20000mAh 15Wマグネット式ワイヤレス充電対応 3ポート",
           "brand": "UGREEN",
@@ -359,19 +372,6 @@
           "since": "2026-07-29"
         },
         {
-          "asin": "B099JMBCP1",
-          "title": "エレコム モバイルバッテリー 10000mAh 大容量 マグネット ( USB PD対応 ) Type-C×1 / USB-A×1 【 iPhone12 / iPhone13 シリーズ推奨 】 PSE認証 ブラック EC-C02BK",
-          "brand": "エレコム(ELECOM)",
-          "price": 1698,
-          "list_price": 1960,
-          "percent_off": 13,
-          "points": 17,
-          "points_percent": 1,
-          "image": "https://m.media-amazon.com/images/I/31+QMeoVBmL._SL160_.jpg",
-          "url": "https://www.amazon.co.jp/dp/B099JMBCP1?tag=natafull-22&linkCode=osi&th=1&psc=1",
-          "since": "2026-07-24"
-        },
-        {
           "asin": "B0GMX4WKYG",
           "title": "CIO SMARTCOBY Pro SLIM SS モバイルバッテリー 半固体 35W USB-C×2 USB-A×1 10000mAh (ブラック)",
           "brand": "CIO",
@@ -383,6 +383,19 @@
           "image": "https://m.media-amazon.com/images/I/3193CL+De7L._SL160_.jpg",
           "url": "https://www.amazon.co.jp/dp/B0GMX4WKYG?tag=natafull-22&linkCode=osi&th=1&psc=1",
           "since": "2026-07-25"
+        },
+        {
+          "asin": "B0G4Q8ZDF3",
+          "title": "エレコム モバイルバッテリー 10000mAh 45W リール式 巻き取り式ケーブル 2ポート USB-A/C 【残量表示/PSE技術基準適合/PD対応】 しろちゃん EC-C54LWF",
+          "brand": "エレコム(ELECOM)",
+          "price": 4490,
+          "list_price": 5190,
+          "percent_off": 13,
+          "points": 45,
+          "points_percent": 1,
+          "image": "https://m.media-amazon.com/images/I/214Y1ZxkrnL._SL160_.jpg",
+          "url": "https://www.amazon.co.jp/dp/B0G4Q8ZDF3?tag=natafull-22&linkCode=osi&th=1&psc=1",
+          "since": "2026-07-31"
         },
         {
           "asin": "B0FTZ63967",
@@ -416,6 +429,19 @@
       "name": "充電器",
       "items": [
         {
+          "asin": "B098SQSRRV",
+          "title": "Belkin USB充電器 40W iPhone17,16～12 デュアルUSB-C(20W x 2) PD3.0 急速充電対応 ホワイト WCB006dqWHJP",
+          "brand": "Belkin",
+          "price": 1400,
+          "list_price": 2660,
+          "percent_off": 47,
+          "points": 14,
+          "points_percent": 1,
+          "image": "https://m.media-amazon.com/images/I/21HyEB6vHDL._SL160_.jpg",
+          "url": "https://www.amazon.co.jp/dp/B098SQSRRV?tag=natafull-22&linkCode=osi&th=1&psc=1",
+          "since": "2026-07-31"
+        },
+        {
           "asin": "B07SQ1LBYK",
           "title": "サンワサプライ カーチャージャー(1ポート・2.4A) スマホ・タブレット対応 CAR-CHR73U",
           "brand": "サンワサプライ(Sanwa Supply)",
@@ -427,6 +453,19 @@
           "image": "https://m.media-amazon.com/images/I/41pIL+o+qAL._SL160_.jpg",
           "url": "https://www.amazon.co.jp/dp/B07SQ1LBYK?tag=natafull-22&linkCode=osi&th=1&psc=1",
           "since": "2026-07-27"
+        },
+        {
+          "asin": "B0FVM1C19Y",
+          "title": "Belkin Qi2 車載ワイヤレス充電器 15W急速充電 MagSafe対応 スマホホルダー エアコン吹き出し口用",
+          "brand": "Belkin",
+          "price": 3827,
+          "list_price": 5990,
+          "percent_off": 36,
+          "points": 38,
+          "points_percent": 1,
+          "image": "https://m.media-amazon.com/images/I/31zHTWv+AbL._SL160_.jpg",
+          "url": "https://www.amazon.co.jp/dp/B0FVM1C19Y?tag=natafull-22&linkCode=osi&th=1&psc=1",
+          "since": "2026-07-31"
         },
         {
           "asin": "B0D53Z4WX3",
@@ -546,6 +585,19 @@
           "since": "2026-07-29"
         },
         {
+          "asin": "B0CSYVNBZX",
+          "title": "Belkin USB充電器 42W (30W USB-C + 12W USB-A) PPS対応 PD3.1 急速充電 iPhone17,16～12/ iPad/Androidスマホ・タブレット各種対応 折り畳みプラグ ホワイト WCB009dqWHJP",
+          "brand": "Belkin",
+          "price": 2336,
+          "list_price": 3200,
+          "percent_off": 27,
+          "points": 23,
+          "points_percent": 1,
+          "image": "https://m.media-amazon.com/images/I/210dzRn7MhL._SL160_.jpg",
+          "url": "https://www.amazon.co.jp/dp/B0CSYVNBZX?tag=natafull-22&linkCode=osi&th=1&psc=1",
+          "since": "2026-07-31"
+        },
+        {
           "asin": "B0DG93MZCR",
           "title": "UGREEN PD充電器 type-c 30W 2*USB-C+1*USB-A GaN PSE適合/PD3.0",
           "brand": "UGREEN",
@@ -583,6 +635,19 @@
           "image": "https://m.media-amazon.com/images/I/31Ml+f1Fx+L._SL160_.jpg",
           "url": "https://www.amazon.co.jp/dp/B0FYFDD1WW?tag=natafull-22&linkCode=osi&th=1&psc=1",
           "since": "2026-07-29"
+        },
+        {
+          "asin": "B0D2D9LQP4",
+          "title": "CIO NovaWave SPOT PLUG +C Qi2 ワイヤレス充電器 15W USB-C充電30W スマホホルダー (ホワイト)",
+          "brand": "CIO",
+          "price": 5980,
+          "list_price": 6980,
+          "percent_off": 14,
+          "points": 658,
+          "points_percent": 11,
+          "image": "https://m.media-amazon.com/images/I/21ANNzNBv3L._SL160_.jpg",
+          "url": "https://www.amazon.co.jp/dp/B0D2D9LQP4?tag=natafull-22&linkCode=osi&th=1&psc=1",
+          "since": "2026-07-31"
         },
         {
           "asin": "B0D3GG4M9N",
@@ -663,6 +728,45 @@
           "since": "2026-07-27"
         },
         {
+          "asin": "B0F8TZV7ST",
+          "title": "CIO NovaPort SLIM QUAD for DESK 薄型急速充電器 67W USB-C×3 USB-A×1 4台同時充電 (ブラック)",
+          "brand": "CIO",
+          "price": 5580,
+          "list_price": 6580,
+          "percent_off": 15,
+          "points": 56,
+          "points_percent": 1,
+          "image": "https://m.media-amazon.com/images/I/31GqP0I2mpL._SL160_.jpg",
+          "url": "https://www.amazon.co.jp/dp/B0F8TZV7ST?tag=natafull-22&linkCode=osi&th=1&psc=1",
+          "since": "2026-07-31"
+        },
+        {
+          "asin": "B0DHTT13KN",
+          "title": "Belkin Cubic Charger 45W 充電器 USB-C PD3.2 高速充電対応 PPS対応 iPad/iPhone 17,16～12対応/Androidスマホ・タブレット各種対応 旅行や出張に最適 折り畳みプラグ PSE認証 ホワイト WCA013qcWH",
+          "brand": "Belkin",
+          "price": 2282,
+          "list_price": 2691,
+          "percent_off": 15,
+          "points": 23,
+          "points_percent": 1,
+          "image": "https://m.media-amazon.com/images/I/31952qU9zoL._SL160_.jpg",
+          "url": "https://www.amazon.co.jp/dp/B0DHTT13KN?tag=natafull-22&linkCode=osi&th=1&psc=1",
+          "since": "2026-07-31"
+        },
+        {
+          "asin": "B0DRP4ZN3Z",
+          "title": "Belkin Apple Watch充電器 持ち運び USB-C ドングル ポータブル MFI認証 高速充電 全モデル対応",
+          "brand": "Belkin",
+          "price": 4255,
+          "list_price": 4941,
+          "percent_off": 14,
+          "points": 43,
+          "points_percent": 1,
+          "image": "https://m.media-amazon.com/images/I/31dltlXi+4L._SL160_.jpg",
+          "url": "https://www.amazon.co.jp/dp/B0DRP4ZN3Z?tag=natafull-22&linkCode=osi&th=1&psc=1",
+          "since": "2026-07-31"
+        },
+        {
           "asin": "B0F43RNTYH",
           "title": "エレコム 充電器 100W 3ポート Type-C USB PD対応 スイング式プラグ採用 ブラック EC-AC113100BK",
           "brand": "エレコム(ELECOM)",
@@ -739,6 +843,19 @@
           "image": "https://m.media-amazon.com/images/I/31dU6nuHbvL._SL160_.jpg",
           "url": "https://www.amazon.co.jp/dp/B0CTJDLWV4?tag=natafull-22&linkCode=osi&th=1&psc=1",
           "since": "2026-07-29"
+        },
+        {
+          "asin": "B0FBM6X15S",
+          "title": "Belkin CubicCharger 67W 2ポート アダプター ゼロスタンバイモード(待機消費0) ZSP技術 PPS 急速充電 GaN Type-C USB-C 折りたたみプラグ 旅行・出張最適 PSE認証 iPhone 17～12対応 スマホ MacBook air PD対応 Windows PC iPad Galaxy Android ホワイト WCH020qcWH",
+          "brand": "Belkin",
+          "price": 4790,
+          "list_price": 5379,
+          "percent_off": 11,
+          "points": 48,
+          "points_percent": 1,
+          "image": "https://m.media-amazon.com/images/I/31cG4ui+lBL._SL160_.jpg",
+          "url": "https://www.amazon.co.jp/dp/B0FBM6X15S?tag=natafull-22&linkCode=osi&th=1&psc=1",
+          "since": "2026-07-31"
         }
       ]
     },
@@ -772,19 +889,6 @@
           "since": "2026-07-30"
         },
         {
-          "asin": "B0CH2X5LBX",
-          "title": "【 サンディスク 正規品 】 SanDisk microSD カード Ultra SDSQUAB-128G-GH3MA 簡易デザインパッケージ",
-          "brand": "SanDisk",
-          "price": 3800,
-          "list_price": 4890,
-          "percent_off": 22,
-          "points": 0,
-          "points_percent": null,
-          "image": "https://m.media-amazon.com/images/I/41Gbz-hLVTL._SL160_.jpg",
-          "url": "https://www.amazon.co.jp/dp/B0CH2X5LBX?tag=natafull-22&linkCode=osi&th=1&psc=1",
-          "since": "2026-07-30"
-        },
-        {
           "asin": "B0DV94RGY4",
           "title": "Lexar Silver Plus Micro SDカード 512GB 最大読み取り速度205MB/秒 書き込み速度150MB/秒 SDアダプター付き UHS-I A2 U3 V30 Class10 4K UHD MicroSDXC",
           "brand": "Lexar",
@@ -795,6 +899,19 @@
           "points_percent": 1,
           "image": "https://m.media-amazon.com/images/I/41JDvvx6-HL._SL160_.jpg",
           "url": "https://www.amazon.co.jp/dp/B0DV94RGY4?tag=natafull-22&linkCode=osi&th=1&psc=1",
+          "since": "2026-07-30"
+        },
+        {
+          "asin": "B0CH2X5LBX",
+          "title": "【 サンディスク 正規品 】 SanDisk microSD カード Ultra SDSQUAB-128G-GH3MA 簡易デザインパッケージ",
+          "brand": "SanDisk",
+          "price": 3944,
+          "list_price": 4890,
+          "percent_off": 19,
+          "points": 39,
+          "points_percent": 1,
+          "image": "https://m.media-amazon.com/images/I/41Gbz-hLVTL._SL160_.jpg",
+          "url": "https://www.amazon.co.jp/dp/B0CH2X5LBX?tag=natafull-22&linkCode=osi&th=1&psc=1",
           "since": "2026-07-30"
         },
         {
@@ -1107,6 +1224,19 @@
       "name": "スマートウォッチ",
       "items": [
         {
+          "asin": "B0F5WNVHH7",
+          "title": "HUAWEI WATCH FIT 4 スマートウォッチ 薄型軽量 1.82インチ大画面 アウトドアに適した気圧計と測位システム 通知 フィットネス ヘルストラッカー 情緒測定 10日間ロングバッテリー iOS/Android対応 ブラック",
+          "brand": "HUAWEI(ファーウェイ)",
+          "price": 19800,
+          "list_price": 23980,
+          "percent_off": 17,
+          "points": 2178,
+          "points_percent": 11,
+          "image": "https://m.media-amazon.com/images/I/416KXnN7ryL._SL160_.jpg",
+          "url": "https://www.amazon.co.jp/dp/B0F5WNVHH7?tag=natafull-22&linkCode=osi&th=1&psc=1",
+          "since": "2026-07-30"
+        },
+        {
           "asin": "B0FKH3WQ41",
           "title": "HUAWEI WATCH GT 6 Pro 46mm スマートウォッチ 1.47インチ大画面 最長21日間バッテリー サイクリング/登山/進化したゴルフナビ スポーツモード100種類以上 GPS搭載 心電図分析 健康/情緒モニタリング iOS/Android対応 ブラック",
           "brand": "HUAWEI(ファーウェイ)",
@@ -1133,6 +1263,19 @@
           "since": "2026-07-30"
         },
         {
+          "asin": "B0F1XCKZYW",
+          "title": "Amazfit Bip 6 スマートウォッチ 2000nit高輝度 GPS内蔵 オフラインマップ AIによる音声操作と睡眠/運動管理 心拍 睡眠 ストレス 健康管理 140+スポーツモード ナビゲーション ルートインポート 14日間バッテリー持続 (ブラック)",
+          "brand": "Amazfit",
+          "price": 13320,
+          "list_price": 14800,
+          "percent_off": 10,
+          "points": 1732,
+          "points_percent": 13,
+          "image": "https://m.media-amazon.com/images/I/41zakAH1RKL._SL160_.jpg",
+          "url": "https://www.amazon.co.jp/dp/B0F1XCKZYW?tag=natafull-22&linkCode=osi&th=1&psc=1",
+          "since": "2026-07-31"
+        },
+        {
           "asin": "B0BWF35J1G",
           "title": "GARMIN（ガーミン）GPSランニングウォッチ Forerunner 265 Music White 【日本正規品】",
           "brand": "ガーミン(GARMIN)",
@@ -1143,19 +1286,6 @@
           "points_percent": 1,
           "image": "https://m.media-amazon.com/images/I/41-Jzh8drmL._SL160_.jpg",
           "url": "https://www.amazon.co.jp/dp/B0BWF35J1G?tag=natafull-22&linkCode=osi&th=1&psc=1",
-          "since": "2026-07-30"
-        },
-        {
-          "asin": "B0F5WNVHH7",
-          "title": "HUAWEI WATCH FIT 4 スマートウォッチ 薄型軽量 1.82インチ大画面 アウトドアに適した気圧計と測位システム 通知 フィットネス ヘルストラッカー 情緒測定 10日間ロングバッテリー iOS/Android対応 ブラック",
-          "brand": "HUAWEI(ファーウェイ)",
-          "price": 19600,
-          "list_price": 23980,
-          "percent_off": 18,
-          "points": 0,
-          "points_percent": null,
-          "image": "https://m.media-amazon.com/images/I/416KXnN7ryL._SL160_.jpg",
-          "url": "https://www.amazon.co.jp/dp/B0F5WNVHH7?tag=natafull-22&linkCode=osi&th=1&psc=1",
           "since": "2026-07-30"
         },
         {
@@ -1201,7 +1331,7 @@
           "asin": "B0FKH323P1",
           "title": "HUAWEI WATCH GT 6 Pro 46mm スマートウォッチ 1.47インチ大画面 最長21日間バッテリー サイクリング/登山/進化したゴルフナビ スポーツモード100種類以上 GPS搭載 心電図分析 健康/情緒モニタリング iOS/Android対応 ブラウン",
           "brand": "HUAWEI(ファーウェイ)",
-          "price": 43000,
+          "price": 42800,
           "list_price": 50380,
           "percent_off": 15,
           "points": 0,
@@ -1222,37 +1352,6 @@
           "image": "https://m.media-amazon.com/images/I/41EBUq-NpwL._SL160_.jpg",
           "url": "https://www.amazon.co.jp/dp/B0GQL9JZS7?tag=natafull-22&linkCode=osi&th=1&psc=1",
           "since": "2026-07-30"
-        }
-      ]
-    },
-    {
-      "name": "エアフライヤー",
-      "items": [
-        {
-          "asin": "B0G4CC1S2F",
-          "title": "アイリスオーヤマ フライヤー 過熱水蒸気 ノンオイルフライヤー FV-M30A-C アイボリー",
-          "brand": "アイリスオーヤマ(IRIS OHYAMA)",
-          "price": 7800,
-          "list_price": 12800,
-          "percent_off": 39,
-          "points": 780,
-          "points_percent": 10,
-          "image": "https://m.media-amazon.com/images/I/3169gfWTJ3L._SL160_.jpg",
-          "url": "https://www.amazon.co.jp/dp/B0G4CC1S2F?tag=natafull-22&linkCode=osi&th=1&psc=1",
-          "since": "2026-07-24"
-        },
-        {
-          "asin": "B09HB4B15V",
-          "title": "COSORI コソリ ノンフライヤー 4.7L 大容量 家庭用 エアフライヤー 最高温230℃ 揚げ物 タイマー グレー CAF-L501-KJP",
-          "brand": "Cosori",
-          "price": 11380,
-          "list_price": 16038,
-          "percent_off": 29,
-          "points": 114,
-          "points_percent": 1,
-          "image": "https://m.media-amazon.com/images/I/41zBbKORchL._SL160_.jpg",
-          "url": "https://www.amazon.co.jp/dp/B09HB4B15V?tag=natafull-22&linkCode=osi&th=1&psc=1",
-          "since": "2026-07-24"
         }
       ]
     },
@@ -1364,19 +1463,6 @@
           "since": "2026-07-29"
         },
         {
-          "asin": "B0F1FD99K8",
-          "title": "ラピッドトリガー 搭載 Razer レイザー Huntsman V3 Pro Mini JP (White Edition) ラピッドトリガーと調整可能なアクチュエーション搭載のアナログ ゲーミングキーボード アナログオプティカルスイッチ 調整可能なアクチュエーション 押下圧 40G 日本語配列 ハンツマン ブイスリー プロ ミニ ジェイピー ホワイト エディション【日本正規代理店保証品】",
-          "brand": "Razer(レイザー)",
-          "price": 20729,
-          "list_price": 26980,
-          "percent_off": 23,
-          "points": 207,
-          "points_percent": 1,
-          "image": "https://m.media-amazon.com/images/I/41ZqrCpCIpL._SL160_.jpg",
-          "url": "https://www.amazon.co.jp/dp/B0F1FD99K8?tag=natafull-22&linkCode=osi&th=1&psc=1",
-          "since": "2026-07-29"
-        },
-        {
           "asin": "B0BWDSC5ZB",
           "title": "【Amazon.co.jp限定】 ロジクール ワイヤレスキーボード 無線 MX KEYS mini KX700GRd 日本語配列 国内正規品",
           "brand": "Logitech",
@@ -1414,6 +1500,19 @@
           "image": "https://m.media-amazon.com/images/I/31soBoDgd-L._SL160_.jpg",
           "url": "https://www.amazon.co.jp/dp/B08GP2H88M?tag=natafull-22&linkCode=osi&th=1&psc=1",
           "since": "2026-07-28"
+        },
+        {
+          "asin": "B0F1FD99K8",
+          "title": "ラピッドトリガー 搭載 Razer レイザー Huntsman V3 Pro Mini JP (White Edition) ラピッドトリガーと調整可能なアクチュエーション搭載のアナログ ゲーミングキーボード アナログオプティカルスイッチ 調整可能なアクチュエーション 押下圧 40G 日本語配列 ハンツマン ブイスリー プロ ミニ ジェイピー ホワイト エディション【日本正規代理店保証品】",
+          "brand": "Razer(レイザー)",
+          "price": 21000,
+          "list_price": 26980,
+          "percent_off": 22,
+          "points": 0,
+          "points_percent": null,
+          "image": "https://m.media-amazon.com/images/I/41ZqrCpCIpL._SL160_.jpg",
+          "url": "https://www.amazon.co.jp/dp/B0F1FD99K8?tag=natafull-22&linkCode=osi&th=1&psc=1",
+          "since": "2026-07-29"
         },
         {
           "asin": "B0DCJZH3QH",
@@ -1752,6 +1851,37 @@
           "image": "https://m.media-amazon.com/images/I/31X3ipEzCIL._SL160_.jpg",
           "url": "https://www.amazon.co.jp/dp/B0C2YK1CS6?tag=natafull-22&linkCode=osi&th=1&psc=1",
           "since": "2026-07-26"
+        }
+      ]
+    },
+    {
+      "name": "エアフライヤー",
+      "items": [
+        {
+          "asin": "B0G4CC1S2F",
+          "title": "アイリスオーヤマ フライヤー 過熱水蒸気 ノンオイルフライヤー FV-M30A-C アイボリー",
+          "brand": "アイリスオーヤマ(IRIS OHYAMA)",
+          "price": 7800,
+          "list_price": 12800,
+          "percent_off": 39,
+          "points": 780,
+          "points_percent": 10,
+          "image": "https://m.media-amazon.com/images/I/3169gfWTJ3L._SL160_.jpg",
+          "url": "https://www.amazon.co.jp/dp/B0G4CC1S2F?tag=natafull-22&linkCode=osi&th=1&psc=1",
+          "since": "2026-07-24"
+        },
+        {
+          "asin": "B09HB4B15V",
+          "title": "COSORI コソリ ノンフライヤー 4.7L 大容量 家庭用 エアフライヤー 最高温230℃ 揚げ物 タイマー グレー CAF-L501-KJP",
+          "brand": "Cosori",
+          "price": 11380,
+          "list_price": 16038,
+          "percent_off": 29,
+          "points": 114,
+          "points_percent": 1,
+          "image": "https://m.media-amazon.com/images/I/41zBbKORchL._SL160_.jpg",
+          "url": "https://www.amazon.co.jp/dp/B09HB4B15V?tag=natafull-22&linkCode=osi&th=1&psc=1",
+          "since": "2026-07-24"
         }
       ]
     },

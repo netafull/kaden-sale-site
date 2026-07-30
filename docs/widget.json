@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-30T10:58:19.866077+00:00",
+  "updated": "2026-07-30T23:04:44.610750+00:00",
   "site_url": "https://kaden.netaful.jp/",
   "site_title": "家電ポチ",
   "genres": [
@@ -172,6 +172,16 @@
       "name": "充電器",
       "books": [
         {
+          "title": "Belkin USB充電器 40W iPhone17,16～12 デュアルUSB-C(20W x 2) PD3.0 急速充電対応 ホワイト WCB006dqWHJP",
+          "price": 1400,
+          "list_price": 2660,
+          "percent_off": 47,
+          "points": 14,
+          "points_percent": 1,
+          "image": "https://m.media-amazon.com/images/I/21HyEB6vHDL._SL160_.jpg",
+          "url": "https://www.amazon.co.jp/dp/B098SQSRRV?tag=natafull-22&linkCode=osi&th=1&psc=1"
+        },
+        {
           "title": "サンワサプライ カーチャージャー(1ポート・2.4A) スマホ・タブレット対応 CAR-CHR73U",
           "price": 717,
           "list_price": 1210,
@@ -180,6 +190,16 @@
           "points_percent": 1,
           "image": "https://m.media-amazon.com/images/I/41pIL+o+qAL._SL160_.jpg",
           "url": "https://www.amazon.co.jp/dp/B07SQ1LBYK?tag=natafull-22&linkCode=osi&th=1&psc=1"
+        },
+        {
+          "title": "Belkin Qi2 車載ワイヤレス充電器 15W急速充電 MagSafe対応 スマホホルダー エアコン吹き出し口用",
+          "price": 3827,
+          "list_price": 5990,
+          "percent_off": 36,
+          "points": 38,
+          "points_percent": 1,
+          "image": "https://m.media-amazon.com/images/I/31zHTWv+AbL._SL160_.jpg",
+          "url": "https://www.amazon.co.jp/dp/B0FVM1C19Y?tag=natafull-22&linkCode=osi&th=1&psc=1"
         },
         {
           "title": "CIO NovaPort TRIOⅡ 65W 3C PD急速充電器 USB-C×3 3台同時充電 軽量 世界最小級 (ブラック)",
@@ -230,26 +250,6 @@
           "points_percent": 1,
           "image": "https://m.media-amazon.com/images/I/31k2nc5tX2L._SL160_.jpg",
           "url": "https://www.amazon.co.jp/dp/B0CLGZGXMD?tag=natafull-22&linkCode=osi&th=1&psc=1"
-        },
-        {
-          "title": "UGREEN Nexode急速充電器 65W Type-C 2C1A 3ポート PD/PPS/QC3.0/SCP/FCP対応 折り畳み式",
-          "price": 2979,
-          "list_price": 4280,
-          "percent_off": 30,
-          "points": 30,
-          "points_percent": 1,
-          "image": "https://m.media-amazon.com/images/I/21gaL9IWnrL._SL160_.jpg",
-          "url": "https://www.amazon.co.jp/dp/B091BGMKYS?tag=natafull-22&linkCode=osi&th=1&psc=1"
-        },
-        {
-          "title": "Anker 523 Charger (Nano 3, 47W) ホワイト",
-          "price": 3990,
-          "list_price": null,
-          "percent_off": null,
-          "points": 1237,
-          "points_percent": 31,
-          "image": "https://m.media-amazon.com/images/I/31huxMX7r9L._SL160_.jpg",
-          "url": "https://www.amazon.co.jp/dp/B0BF43HS1G?tag=natafull-22&linkCode=osi&th=1&psc=1"
         }
       ]
     },
@@ -277,16 +277,6 @@
           "url": "https://www.amazon.co.jp/dp/B0CZKZ8Q66?tag=natafull-22&linkCode=osi&th=1&psc=1"
         },
         {
-          "title": "【 サンディスク 正規品 】 SanDisk microSD カード Ultra SDSQUAB-128G-GH3MA 簡易デザインパッケージ",
-          "price": 3800,
-          "list_price": 4890,
-          "percent_off": 22,
-          "points": 0,
-          "points_percent": null,
-          "image": "https://m.media-amazon.com/images/I/41Gbz-hLVTL._SL160_.jpg",
-          "url": "https://www.amazon.co.jp/dp/B0CH2X5LBX?tag=natafull-22&linkCode=osi&th=1&psc=1"
-        },
-        {
           "title": "Lexar Silver Plus Micro SDカード 512GB 最大読み取り速度205MB/秒 書き込み速度150MB/秒 SDアダプター付き UHS-I A2 U3 V30 Class10 4K UHD MicroSDXC",
           "price": 17980,
           "list_price": 22500,
@@ -295,6 +285,16 @@
           "points_percent": 1,
           "image": "https://m.media-amazon.com/images/I/41JDvvx6-HL._SL160_.jpg",
           "url": "https://www.amazon.co.jp/dp/B0DV94RGY4?tag=natafull-22&linkCode=osi&th=1&psc=1"
+        },
+        {
+          "title": "【 サンディスク 正規品 】 SanDisk microSD カード Ultra SDSQUAB-128G-GH3MA 簡易デザインパッケージ",
+          "price": 3944,
+          "list_price": 4890,
+          "percent_off": 19,
+          "points": 39,
+          "points_percent": 1,
+          "image": "https://m.media-amazon.com/images/I/41Gbz-hLVTL._SL160_.jpg",
+          "url": "https://www.amazon.co.jp/dp/B0CH2X5LBX?tag=natafull-22&linkCode=osi&th=1&psc=1"
         },
         {
           "title": "エレコム microSD 32GB マイクロSDカード UHS-1 U1 microSDHC IPX7 MF-AMS032GU11",
@@ -427,6 +427,16 @@
       "name": "スマートウォッチ",
       "books": [
         {
+          "title": "HUAWEI WATCH FIT 4 スマートウォッチ 薄型軽量 1.82インチ大画面 アウトドアに適した気圧計と測位システム 通知 フィットネス ヘルストラッカー 情緒測定 10日間ロングバッテリー iOS/Android対応 ブラック",
+          "price": 19800,
+          "list_price": 23980,
+          "percent_off": 17,
+          "points": 2178,
+          "points_percent": 11,
+          "image": "https://m.media-amazon.com/images/I/416KXnN7ryL._SL160_.jpg",
+          "url": "https://www.amazon.co.jp/dp/B0F5WNVHH7?tag=natafull-22&linkCode=osi&th=1&psc=1"
+        },
+        {
           "title": "HUAWEI WATCH GT 6 Pro 46mm スマートウォッチ 1.47インチ大画面 最長21日間バッテリー サイクリング/登山/進化したゴルフナビ スポーツモード100種類以上 GPS搭載 心電図分析 健康/情緒モニタリング iOS/Android対応 ブラック",
           "price": 36964,
           "list_price": 48180,
@@ -447,6 +457,16 @@
           "url": "https://www.amazon.co.jp/dp/B0FKH268LS?tag=natafull-22&linkCode=osi&th=1&psc=1"
         },
         {
+          "title": "Amazfit Bip 6 スマートウォッチ 2000nit高輝度 GPS内蔵 オフラインマップ AIによる音声操作と睡眠/運動管理 心拍 睡眠 ストレス 健康管理 140+スポーツモード ナビゲーション ルートインポート 14日間バッテリー持続 (ブラック)",
+          "price": 13320,
+          "list_price": 14800,
+          "percent_off": 10,
+          "points": 1732,
+          "points_percent": 13,
+          "image": "https://m.media-amazon.com/images/I/41zakAH1RKL._SL160_.jpg",
+          "url": "https://www.amazon.co.jp/dp/B0F1XCKZYW?tag=natafull-22&linkCode=osi&th=1&psc=1"
+        },
+        {
           "title": "GARMIN（ガーミン）GPSランニングウォッチ Forerunner 265 Music White 【日本正規品】",
           "price": 49609,
           "list_price": 62800,
@@ -455,16 +475,6 @@
           "points_percent": 1,
           "image": "https://m.media-amazon.com/images/I/41-Jzh8drmL._SL160_.jpg",
           "url": "https://www.amazon.co.jp/dp/B0BWF35J1G?tag=natafull-22&linkCode=osi&th=1&psc=1"
-        },
-        {
-          "title": "HUAWEI WATCH FIT 4 スマートウォッチ 薄型軽量 1.82インチ大画面 アウトドアに適した気圧計と測位システム 通知 フィットネス ヘルストラッカー 情緒測定 10日間ロングバッテリー iOS/Android対応 ブラック",
-          "price": 19600,
-          "list_price": 23980,
-          "percent_off": 18,
-          "points": 0,
-          "points_percent": null,
-          "image": "https://m.media-amazon.com/images/I/416KXnN7ryL._SL160_.jpg",
-          "url": "https://www.amazon.co.jp/dp/B0F5WNVHH7?tag=natafull-22&linkCode=osi&th=1&psc=1"
         },
         {
           "title": "HUAWEI WATCH FIT 4 Pro スマートウォッチ 薄型軽量 ゴルフ機能 アウトドアに適した気圧計と測位システム 1.82インチ3000nitsディスプレイ サファイアガラス チタン合金ベゼル 10日間ロングバッテリー iOS/Android対応 ブラック",
@@ -495,41 +505,6 @@
           "points_percent": 1,
           "image": "https://m.media-amazon.com/images/I/41Ndyg7lkqL._SL160_.jpg",
           "url": "https://www.amazon.co.jp/dp/B0F9LB5PQF?tag=natafull-22&linkCode=osi&th=1&psc=1"
-        },
-        {
-          "title": "HUAWEI WATCH GT 6 Pro 46mm スマートウォッチ 1.47インチ大画面 最長21日間バッテリー サイクリング/登山/進化したゴルフナビ スポーツモード100種類以上 GPS搭載 心電図分析 健康/情緒モニタリング iOS/Android対応 ブラウン",
-          "price": 43000,
-          "list_price": 50380,
-          "percent_off": 15,
-          "points": 0,
-          "points_percent": null,
-          "image": "https://m.media-amazon.com/images/I/41NI4ju2vQL._SL160_.jpg",
-          "url": "https://www.amazon.co.jp/dp/B0FKH323P1?tag=natafull-22&linkCode=osi&th=1&psc=1"
-        }
-      ]
-    },
-    {
-      "name": "エアフライヤー",
-      "books": [
-        {
-          "title": "アイリスオーヤマ フライヤー 過熱水蒸気 ノンオイルフライヤー FV-M30A-C アイボリー",
-          "price": 7800,
-          "list_price": 12800,
-          "percent_off": 39,
-          "points": 780,
-          "points_percent": 10,
-          "image": "https://m.media-amazon.com/images/I/3169gfWTJ3L._SL160_.jpg",
-          "url": "https://www.amazon.co.jp/dp/B0G4CC1S2F?tag=natafull-22&linkCode=osi&th=1&psc=1"
-        },
-        {
-          "title": "COSORI コソリ ノンフライヤー 4.7L 大容量 家庭用 エアフライヤー 最高温230℃ 揚げ物 タイマー グレー CAF-L501-KJP",
-          "price": 11380,
-          "list_price": 16038,
-          "percent_off": 29,
-          "points": 114,
-          "points_percent": 1,
-          "image": "https://m.media-amazon.com/images/I/41zBbKORchL._SL160_.jpg",
-          "url": "https://www.amazon.co.jp/dp/B09HB4B15V?tag=natafull-22&linkCode=osi&th=1&psc=1"
         }
       ]
     },
@@ -615,6 +590,31 @@
           "points_percent": 2,
           "image": "https://m.media-amazon.com/images/I/313G0I5xQNL._SL160_.jpg",
           "url": "https://www.amazon.co.jp/dp/B0DRJK17XF?tag=natafull-22&linkCode=osi&th=1&psc=1"
+        }
+      ]
+    },
+    {
+      "name": "エアフライヤー",
+      "books": [
+        {
+          "title": "アイリスオーヤマ フライヤー 過熱水蒸気 ノンオイルフライヤー FV-M30A-C アイボリー",
+          "price": 7800,
+          "list_price": 12800,
+          "percent_off": 39,
+          "points": 780,
+          "points_percent": 10,
+          "image": "https://m.media-amazon.com/images/I/3169gfWTJ3L._SL160_.jpg",
+          "url": "https://www.amazon.co.jp/dp/B0G4CC1S2F?tag=natafull-22&linkCode=osi&th=1&psc=1"
+        },
+        {
+          "title": "COSORI コソリ ノンフライヤー 4.7L 大容量 家庭用 エアフライヤー 最高温230℃ 揚げ物 タイマー グレー CAF-L501-KJP",
+          "price": 11380,
+          "list_price": 16038,
+          "percent_off": 29,
+          "points": 114,
+          "points_percent": 1,
+          "image": "https://m.media-amazon.com/images/I/41zBbKORchL._SL160_.jpg",
+          "url": "https://www.amazon.co.jp/dp/B09HB4B15V?tag=natafull-22&linkCode=osi&th=1&psc=1"
         }
       ]
     },
