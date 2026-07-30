@@ -60,6 +60,69 @@
       ]
     },
     {
+      "name": "ワイヤレスイヤホン",
+      "keywords": [
+        "ワイヤレスイヤホン",
+        "Bluetoothイヤホン"
+      ],
+      "search_index": "Electronics",
+      "must_include_any": [
+        "イヤホン",
+        "イヤフォン",
+        "Earbuds",
+        "Earphone",
+        "ヘッドホン",
+        "ヘッドフォン"
+      ],
+      "known_brands": [
+        "Sony",
+        "ソニー",
+        "Anker",
+        "Soundcore",
+        "サウンドコア",
+        "JBL",
+        "Bose",
+        "ボーズ",
+        "Beats",
+        "ゼンハイザー",
+        "Sennheiser",
+        "Panasonic",
+        "パナソニック",
+        "audio-technica",
+        "オーディオテクニカ",
+        "ELECOM",
+        "エレコム",
+        "Huawei",
+        "ファーウェイ",
+        "Google",
+        "グーグル",
+        "Pixel",
+        "Samsung",
+        "サムスン",
+        "Galaxy",
+        "Xiaomi",
+        "シャオミ",
+        "Nothing",
+        "Skullcandy",
+        "スカルキャンディー",
+        "Shure",
+        "シュア",
+        "final",
+        "Technics",
+        "テクニクス",
+        "Victor",
+        "JVC",
+        "Denon",
+        "デノン",
+        "Marshall",
+        "マーシャル",
+        "Belkin",
+        "ベルキン",
+        "cheero",
+        "チーロ"
+      ]
+    },
+    {
       "name": "モバイルバッテリー",
       "keywords": [
         "MagSafe モバイルバッテリー",
@@ -143,66 +206,40 @@
       ]
     },
     {
-      "name": "ワイヤレスイヤホン",
+      "name": "SSD・メモリーカード",
       "keywords": [
-        "ワイヤレスイヤホン",
-        "Bluetoothイヤホン"
+        "外付けSSD",
+        "microSDカード"
       ],
       "search_index": "Electronics",
       "must_include_any": [
-        "イヤホン",
-        "イヤフォン",
-        "Earbuds",
-        "Earphone",
-        "ヘッドホン",
-        "ヘッドフォン"
+        "SSD",
+        "microSD",
+        "SDカード",
+        "メモリーカード"
       ],
       "known_brands": [
-        "Sony",
-        "ソニー",
-        "Anker",
-        "Soundcore",
-        "サウンドコア",
-        "JBL",
-        "Bose",
-        "ボーズ",
-        "Beats",
-        "ゼンハイザー",
-        "Sennheiser",
-        "Panasonic",
-        "パナソニック",
-        "audio-technica",
-        "オーディオテクニカ",
-        "ELECOM",
-        "エレコム",
-        "Huawei",
-        "ファーウェイ",
-        "Google",
-        "グーグル",
-        "Pixel",
+        "SanDisk",
+        "サンディスク",
         "Samsung",
         "サムスン",
-        "Galaxy",
-        "Xiaomi",
-        "シャオミ",
-        "Nothing",
-        "Skullcandy",
-        "スカルキャンディー",
-        "Shure",
-        "シュア",
-        "final",
-        "Technics",
-        "テクニクス",
-        "Victor",
-        "JVC",
-        "Denon",
-        "デノン",
-        "Marshall",
-        "マーシャル",
-        "Belkin",
-        "ベルキン",
-        "cheero",
-        "チーロ"
+        "Crucial",
+        "クルーシャル",
+        "Kioxia",
+        "キオクシア",
+        "KIOXIA",
+        "Transcend",
+        "トランセンド",
+        "Western Digital",
+        "WD",
+        "Buffalo",
+        "バッファロー",
+        "ELECOM",
+        "エレコム",
+        "Lexar",
+        "レキサー",
+        "SEAGATE",
+        "シーゲイト"
       ]
     },
     {
@@ -254,96 +291,6 @@
         "MUJI",
         "貝印",
         "KAI"
-      ]
-    },
-    {
-      "name": "ロボット掃除機",
-      "keywords": [
-        "ロボット掃除機"
-      ],
-      "browse_node_ids": [
-        "7297715051"
-      ],
-      "search_index": "Electronics",
-      "must_include_any": [
-        "ロボット掃除機",
-        "ロボットクリーナー"
-      ],
-      "known_brands": [
-        "dreame",
-        "ドリーミー",
-        "Dyson",
-        "ダイソン",
-        "Panasonic",
-        "パナソニック",
-        "Roborock",
-        "ロボロック",
-        "Narwal",
-        "ナーワル",
-        "iRobot",
-        "アイロボット",
-        "Ecovacs",
-        "エコバックス",
-        "Eufy",
-        "ユーフィ",
-        "Xiaomi",
-        "シャオミ",
-        "SwitchBot",
-        "スイッチボット",
-        "シャープ",
-        "SHARP",
-        "日立",
-        "HITACHI"
-      ]
-    },
-    {
-      "name": "電気シェーバー",
-      "keywords": [
-        "電気シェーバー 髭剃り"
-      ],
-      "search_index": "HealthPersonalCare",
-      "must_include_any": [
-        "シェーバー",
-        "髭剃り",
-        "ヒゲ"
-      ],
-      "known_brands": [
-        "Panasonic",
-        "パナソニック",
-        "ラムダッシュ",
-        "Braun",
-        "ブラウン",
-        "Philips",
-        "フィリップス",
-        "日立",
-        "HITACHI",
-        "IZUMI",
-        "イズミ"
-      ]
-    },
-    {
-      "name": "電動歯ブラシ",
-      "keywords": [
-        "電動歯ブラシ"
-      ],
-      "search_index": "HealthPersonalCare",
-      "must_include_any": [
-        "歯ブラシ"
-      ],
-      "known_brands": [
-        "Philips",
-        "フィリップス",
-        "ソニッケアー",
-        "Sonicare",
-        "Braun",
-        "ブラウン",
-        "Oral-B",
-        "オーラルB",
-        "Panasonic",
-        "パナソニック",
-        "ドルツ",
-        "オムロン",
-        "OMRON"
       ]
     },
     {
@@ -466,43 +413,101 @@
       ]
     },
     {
-      "name": "SSD・メモリーカード",
+      "name": "ロボット掃除機",
       "keywords": [
-        "外付けSSD",
-        "microSDカード"
+        "ロボット掃除機"
+      ],
+      "browse_node_ids": [
+        "7297715051"
       ],
       "search_index": "Electronics",
       "must_include_any": [
-        "SSD",
-        "microSD",
-        "SDカード",
-        "メモリーカード"
+        "ロボット掃除機",
+        "ロボットクリーナー"
       ],
       "known_brands": [
-        "SanDisk",
-        "サンディスク",
-        "Samsung",
-        "サムスン",
-        "Crucial",
-        "クルーシャル",
-        "Kioxia",
-        "キオクシア",
-        "KIOXIA",
-        "Transcend",
-        "トランセンド",
-        "Western Digital",
-        "WD",
-        "Buffalo",
-        "バッファロー",
-        "ELECOM",
-        "エレコム",
-        "Lexar",
-        "レキサー",
-        "SEAGATE",
-        "シーゲイト"
+        "dreame",
+        "ドリーミー",
+        "Dyson",
+        "ダイソン",
+        "Panasonic",
+        "パナソニック",
+        "Roborock",
+        "ロボロック",
+        "Narwal",
+        "ナーワル",
+        "iRobot",
+        "アイロボット",
+        "Ecovacs",
+        "エコバックス",
+        "Eufy",
+        "ユーフィ",
+        "Xiaomi",
+        "シャオミ",
+        "SwitchBot",
+        "スイッチボット",
+        "シャープ",
+        "SHARP",
+        "日立",
+        "HITACHI"
+      ]
+    },
+    {
+      "name": "電気シェーバー",
+      "keywords": [
+        "電気シェーバー 髭剃り"
+      ],
+      "search_index": "HealthPersonalCare",
+      "must_include_any": [
+        "シェーバー",
+        "髭剃り",
+        "ヒゲ"
+      ],
+      "known_brands": [
+        "Panasonic",
+        "パナソニック",
+        "ラムダッシュ",
+        "Braun",
+        "ブラウン",
+        "Philips",
+        "フィリップス",
+        "日立",
+        "HITACHI",
+        "IZUMI",
+        "イズミ"
+      ]
+    },
+    {
+      "name": "電動歯ブラシ",
+      "keywords": [
+        "電動歯ブラシ"
+      ],
+      "search_index": "HealthPersonalCare",
+      "must_include_any": [
+        "歯ブラシ"
+      ],
+      "known_brands": [
+        "Philips",
+        "フィリップス",
+        "ソニッケアー",
+        "Sonicare",
+        "Braun",
+        "ブラウン",
+        "Oral-B",
+        "オーラルB",
+        "Panasonic",
+        "パナソニック",
+        "ドルツ",
+        "オムロン",
+        "OMRON"
       ]
     }
   ],
   "top_deals_count": 3,
-  "top_deals_per_genre": 2
+  "top_deals_per_genre": 2,
+  "top_deals_exclude_genres": [
+    "ロボット掃除機",
+    "電気シェーバー",
+    "電動歯ブラシ"
+  ]
 }

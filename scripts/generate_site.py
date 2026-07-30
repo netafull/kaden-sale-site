@@ -174,7 +174,7 @@ def generate_html(data: dict) -> str:
         sections.append(
             '<details open id="top">\n'
             '<summary><h2>⭐ 今日のお買い得</h2></summary>\n'
-            '<p class="cmeta">全ジャンルから割引率とポイント還元率の合計が'
+            '<p class="cmeta">割引率とポイント還元率の合計が'
             '高い商品を選びました</p>\n'
             f'<div class="grid">\n{cards}\n</div>\n'
             '</details>'

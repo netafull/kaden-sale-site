@@ -477,11 +477,19 @@ def main() -> int:
     )
 
     # 「本日のお買い得」: ジャンル横断で実質お得度が高い商品を選ぶ。
-    # 1ジャンルに偏らないよう同一ジャンルからは最大2件までに制限する
+    # 1ジャンルに偏らないよう同一ジャンルからは最大2件までに制限する。
+    # top_deals_exclude_genresに挙げたジャンルは対象外にする(値引き率が
+    # 常に高く上位を独占してしまうジャンルを除くため)
     top_n = config.get("top_deals_count", 6)
     per_genre_cap = config.get("top_deals_per_genre", 2)
+    excluded = set(config.get("top_deals_exclude_genres") or [])
     ranked = sorted(
-        ((g["name"], item) for g in genres for item in g["items"]),
+        (
+            (g["name"], item)
+            for g in genres
+            if g["name"] not in excluded
+            for item in g["items"]
+        ),
         key=lambda x: sort_key(x[1]),
         reverse=True,
     )
