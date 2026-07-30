@@ -8,6 +8,15 @@ on:
     # (GitHubのスケジューラーは高負荷時に発火をスキップすることがあり、
     #  実測の中央値は52分間隔。2本立てにしても効果は限定的だった)
     - cron: "7 * * * *"  # 毎時7分に実行 (UTC)
+  # 人手でconfig.jsonやスクリプトを変えたとき、次の定時実行(最大1時間後)を
+  # 待たずに公開されるようにする。docsはアーティファクトで配信しており
+  # コミットしていないため、pushトリガーを付けても本ワークフロー自身の
+  # コミット(data/item_state.jsonのみ)では発火せずループしない
+  push:
+    branches: [main]
+    paths-ignore:
+      - "data/**"
+      - "README.md"
   workflow_dispatch:
 
 permissions:
