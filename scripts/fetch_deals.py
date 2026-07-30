@@ -36,6 +36,12 @@ from pathlib import Path
 
 TOKEN_URL = "https://api.amazon.co.jp/auth/o2/token"
 API_URL = "https://creatorsapi.amazon/catalog/v1/searchItems"
+# ASINを直接指定して引くエンドポイント。Amazonのキーワード検索は
+# MacBook本体など一部のApple製品を結果に返さない(実測で確認)ため、
+# 検索では絶対に届かない商品をconfigのwatch_asinsで補うのに使う
+GET_ITEMS_URL = "https://creatorsapi.amazon/catalog/v1/getItems"
+# getItemsが1回で受け付けるASIN数の上限
+GET_ITEMS_BATCH = 10
 SCOPE = "creatorsapi::default"
 MARKETPLACE = "www.amazon.co.jp"
 
@@ -164,6 +170,63 @@ def search_with_retry(
                 item_page=item_page,
                 sort_by=sort_by,
             )
+        except urllib.error.HTTPError as e:
+            if e.code == 401 and attempt < 2:
+                try:
+                    auth["token"] = get_access_token(auth["id"], auth["secret"])
+                except (urllib.error.URLError, TimeoutError, OSError):
+                    pass
+                continue
+            if e.code == 429 and attempt < 2:
+                time.sleep(5 * (attempt + 1))
+                continue
+            print(
+                f"[warn] {label}: HTTP {e.code} "
+                f"{e.read().decode('utf-8', 'replace')[:300]}",
+                file=sys.stderr,
+            )
+            return {}
+        except (urllib.error.URLError, TimeoutError, OSError) as e:
+            if attempt < 2:
+                time.sleep(5 * (attempt + 1))
+                continue
+            print(f"[warn] {label}: {e}", file=sys.stderr)
+            return {}
+    return {}
+
+
+def get_items(access_token: str, partner_tag: str, asins: list[str]) -> dict:
+    body = {
+        "partnerTag": partner_tag,
+        "partnerType": "Associates",
+        "marketplace": MARKETPLACE,
+        "itemIds": asins,
+        "resources": RESOURCES,
+    }
+    payload = json.dumps(body)
+    headers = {
+        "Authorization": f"Bearer {access_token}",
+        "Content-Type": "application/json",
+        "x-marketplace": MARKETPLACE,
+    }
+    req = urllib.request.Request(
+        GET_ITEMS_URL, data=payload.encode("utf-8"), headers=headers, method="POST"
+    )
+    with urllib.request.urlopen(req, timeout=30) as res:
+        return json.loads(res.read().decode("utf-8"))
+
+
+def get_items_with_retry(
+    auth: dict, partner_tag: str, asins: list[str], label: str
+) -> dict:
+    """get_itemsを401/429/ネットワークエラーに耐性を持たせて呼ぶ。
+
+    search_with_retryと同じ方針。レスポンス形式もsearchItemsと違い
+    searchResultではなくitemsResultに入るため、呼び出し側で詰め替える。
+    """
+    for attempt in range(3):
+        try:
+            return get_items(auth["token"], partner_tag, asins)
         except urllib.error.HTTPError as e:
             if e.code == 401 and attempt < 2:
                 try:
@@ -398,13 +461,47 @@ def main() -> int:
                     items.append(parsed)
             time.sleep(1.2)
 
+        # 検索に出てこない商品をASIN直指定で補う。
+        # MacBook本体のようにAmazonのキーワード検索が結果に返さない商品が
+        # 実在し、キーワードをどう変えても届かないことを実測で確認している。
+        # 人が明示的に選んだASINなので関連性フィルタ(must_include_any /
+        # known_brands / exclude_any)は掛けず、割引率の条件だけを適用する。
+        # これにより「普段は載らないが、セールで安くなった時だけ載る」動きになる
+        watch_asins = genre.get("watch_asins") or []
+        watch_hits = 0
+        watch_no_discount = 0
+        for i in range(0, len(watch_asins), GET_ITEMS_BATCH):
+            batch = watch_asins[i : i + GET_ITEMS_BATCH]
+            res = get_items_with_retry(
+                auth, partner_tag, batch, label=f"{genre['name']} (watch_asins)"
+            )
+            # getItemsはitemsResultに入るため、parse_itemsが読むsearchResultの
+            # 形に詰め替えて同じ解析・整形ロジックを使い回す
+            wrapped = {"searchResult": pick(res, "itemsResult", "ItemsResult") or {}}
+            parsed_items, no_discount, _, _ = parse_items(
+                wrapped, partner_tag, min_saving, [], [], None
+            )
+            watch_no_discount += no_discount
+            for parsed in parsed_items:
+                if parsed["asin"] not in seen:
+                    seen.add(parsed["asin"])
+                    items.append(parsed)
+                    watch_hits += 1
+            time.sleep(1.2)
+
         items.sort(key=sort_key, reverse=True)
         genres.append({"name": genre["name"], "items": items})
-        print(
+        msg = (
             f"{genre['name']}スキャン: セール品{len(items)}件 "
             f"(割引不足で{dropped}件, 関連性フィルタで{irrelevant_total}件, "
             f"無名ブランドで{unknown_brand_total}件を除外)"
         )
+        if watch_asins:
+            msg += (
+                f" [注目ASIN{len(watch_asins)}件中 {watch_hits}件を追加"
+                f"・{watch_no_discount}件は割引不足]"
+            )
+        print(msg)
 
     total = sum(len(g["items"]) for g in genres)
     if total == 0:

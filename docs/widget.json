@@ -1,11 +1,31 @@
 {
-  "updated": "2026-07-30T01:54:04.415958+00:00",
+  "updated": "2026-07-30T10:58:19.866077+00:00",
   "site_url": "https://kaden.netaful.jp/",
   "site_title": "家電ポチ",
   "genres": [
     {
       "name": "Apple製品",
       "books": [
+        {
+          "title": "Apple iPhone Air 256GB (SIMフリー)：史上最薄のiPhone、最大120HzのProMotionを採用した6.5インチディスプレイ、パワフルなA19 Proチップ、センターフレームフロントカメラ、一日中使えるバッテリー；スカイブルー",
+          "price": 139800,
+          "list_price": 177800,
+          "percent_off": 21,
+          "points": 1398,
+          "points_percent": 1,
+          "image": "https://m.media-amazon.com/images/I/31MWL1qkA+L._SL160_.jpg",
+          "url": "https://www.amazon.co.jp/dp/B0FQG1QPLW?tag=natafull-22&linkCode=osi&th=1&psc=1"
+        },
+        {
+          "title": "14インチMacBook Pro: 10コアCPUと10コアGPUを搭載したApple M5チップ, 16GB, 1TB SSD - スペースブラック + AppleCare+ for 14インチMacBook Pro（M5）",
+          "price": 323600,
+          "list_price": 387599,
+          "percent_off": 17,
+          "points": 0,
+          "points_percent": null,
+          "image": "https://m.media-amazon.com/images/I/31SdMbTD7zL._SL160_.jpg",
+          "url": "https://www.amazon.co.jp/dp/B0FX458KV1?tag=natafull-22&linkCode=ogi&th=1&psc=1"
+        },
         {
           "title": "Apple AirPods Pro 3 ワイヤレスイヤホン、アクティブノイズキャンセリング、ライブ翻訳、心拍センサー、補聴機能、Bluetoothヘッドホン、空間オーディオ サウンド、USB-C充電ケース、防塵性能と耐汗耐水性能、「探す」対応、Qi充電",
           "price": 36800,
@@ -52,7 +72,7 @@
           "url": "https://www.amazon.co.jp/dp/B0FPQN7DBD?tag=natafull-22&linkCode=osi&th=1&psc=1"
         },
         {
-          "title": "Xiaomi シャオミ REDMI Buds 8 Lite ワイヤレスイヤホン Bluetooth イヤホン 5.4 ノイズキャンセリング 12.4mmドライバー 最大36時間再生 マルチポイント接続 急速充電 小型軽量 専用アプリ対応 カスタムEQ iPhone/Android対応 ブラック",
+          "title": "Xiaomi シャオミ REDMI Buds 8 Lite ワイヤレスイヤホン Bluetooth 5.4 ノイズキャンセリング ANC 36時間再生",
           "price": 2980,
           "list_price": 3480,
           "percent_off": 14,
@@ -77,16 +97,6 @@
           "url": "https://www.amazon.co.jp/dp/B0CL8S3WMX?tag=natafull-22&linkCode=osi&th=1&psc=1"
         },
         {
-          "title": "UGREEN 145W モバイルバッテリー 25000mAh大容量 3ポート USB-C×2 USB-A×1 240W ケーブル付",
-          "price": 9980,
-          "list_price": 13980,
-          "percent_off": 29,
-          "points": 399,
-          "points_percent": 4,
-          "image": "https://m.media-amazon.com/images/I/31DNDSYNwEL._SL160_.jpg",
-          "url": "https://www.amazon.co.jp/dp/B0BJQ7F16T?tag=natafull-22&linkCode=osi&th=1&psc=1"
-        },
-        {
           "title": "Anker Power Bank (25000mAh, Built-In & 巻取り式USB-Cケーブル) ブラック",
           "price": 10490,
           "list_price": 14990,
@@ -95,6 +105,16 @@
           "points_percent": 1,
           "image": "https://m.media-amazon.com/images/I/31C31kGhOzL._SL160_.jpg",
           "url": "https://www.amazon.co.jp/dp/B0DT4RGDSJ?tag=natafull-22&linkCode=osi&th=1&psc=1"
+        },
+        {
+          "title": "UGREEN 145W モバイルバッテリー 25000mAh大容量 3ポート USB-C×2 USB-A×1 240W ケーブル付",
+          "price": 9980,
+          "list_price": 13980,
+          "percent_off": 29,
+          "points": 100,
+          "points_percent": 1,
+          "image": "https://m.media-amazon.com/images/I/31DNDSYNwEL._SL160_.jpg",
+          "url": "https://www.amazon.co.jp/dp/B0BJQ7F16T?tag=natafull-22&linkCode=osi&th=1&psc=1"
         },
         {
           "title": "Anker Power Bank (10000mAh, Fusion, Built-In USB-C ケーブル) ブラック",
@@ -137,7 +157,7 @@
           "url": "https://www.amazon.co.jp/dp/B0FS5XT48F?tag=natafull-22&linkCode=osi&th=1&psc=1"
         },
         {
-          "title": "UGREEN 100W モバイルバッテリー 20000mAh 大容量 3ポート USB-C×2 USB-A×1 65W",
+          "title": "UGREEN 100W モバイルバッテリー 20000mAh 大容量 3ポート USB-C×2 USB-A×1",
           "price": 7480,
           "list_price": 9999,
           "percent_off": 25,
@@ -257,6 +277,16 @@
           "url": "https://www.amazon.co.jp/dp/B0CZKZ8Q66?tag=natafull-22&linkCode=osi&th=1&psc=1"
         },
         {
+          "title": "【 サンディスク 正規品 】 SanDisk microSD カード Ultra SDSQUAB-128G-GH3MA 簡易デザインパッケージ",
+          "price": 3800,
+          "list_price": 4890,
+          "percent_off": 22,
+          "points": 0,
+          "points_percent": null,
+          "image": "https://m.media-amazon.com/images/I/41Gbz-hLVTL._SL160_.jpg",
+          "url": "https://www.amazon.co.jp/dp/B0CH2X5LBX?tag=natafull-22&linkCode=osi&th=1&psc=1"
+        },
+        {
           "title": "Lexar Silver Plus Micro SDカード 512GB 最大読み取り速度205MB/秒 書き込み速度150MB/秒 SDアダプター付き UHS-I A2 U3 V30 Class10 4K UHD MicroSDXC",
           "price": 17980,
           "list_price": 22500,
@@ -287,14 +317,24 @@
           "url": "https://www.amazon.co.jp/dp/B08PTPTMH5?tag=natafull-22&linkCode=osi&th=1&psc=1"
         },
         {
-          "title": "【 サンディスク 正規品 】 SanDisk microSD カード Ultra SDSQUAB-128G-GH3MA 簡易デザインパッケージ",
-          "price": 4199,
-          "list_price": 4890,
+          "title": "【Amazon.co.jp限定】SanDisk SSD 外付け SDSSDE61-2T00-GH25 エクストリーム エコパッケージ",
+          "price": 62290,
+          "list_price": 72889,
+          "percent_off": 15,
+          "points": 623,
+          "points_percent": 1,
+          "image": "https://m.media-amazon.com/images/I/41zEuz5-klL._SL160_.jpg",
+          "url": "https://www.amazon.co.jp/dp/B08P45YTTL?tag=natafull-22&linkCode=osi&th=1&psc=1"
+        },
+        {
+          "title": "【Amazon.co.jp限定】SanDisk SSD 外付け SDSSDE81-4T00-GH25 エクストリームプロ エコパッケージ",
+          "price": 124770,
+          "list_price": 145778,
           "percent_off": 14,
-          "points": 0,
-          "points_percent": null,
-          "image": "https://m.media-amazon.com/images/I/41Gbz-hLVTL._SL160_.jpg",
-          "url": "https://www.amazon.co.jp/dp/B0CH2X5LBX?tag=natafull-22&linkCode=osi&th=1&psc=1"
+          "points": 1248,
+          "points_percent": 1,
+          "image": "https://m.media-amazon.com/images/I/41GyTu08cyL._SL160_.jpg",
+          "url": "https://www.amazon.co.jp/dp/B091KNN72M?tag=natafull-22&linkCode=osi&th=1&psc=1"
         }
       ]
     },
@@ -387,36 +427,6 @@
       "name": "スマートウォッチ",
       "books": [
         {
-          "title": "HUAWEI WATCH FIT 4 Pro スマートウォッチ 薄型軽量 ゴルフ機能 アウトドアに適した気圧計と測位システム 1.82インチ3000nitsディスプレイ サファイアガラス チタン合金ベゼル 10日間ロングバッテリー iOS/Android対応 ブラック",
-          "price": 26700,
-          "list_price": 37180,
-          "percent_off": 28,
-          "points": 267,
-          "points_percent": 1,
-          "image": "https://m.media-amazon.com/images/I/41KkM4mAaZL._SL160_.jpg",
-          "url": "https://www.amazon.co.jp/dp/B0F5WR3KP9?tag=natafull-22&linkCode=osi&th=1&psc=1"
-        },
-        {
-          "title": "HUAWEI WATCH FIT 4 スマートウォッチ 薄型軽量 1.82インチ大画面 アウトドアに適した気圧計と測位システム 通知 フィットネス ヘルストラッカー 情緒測定 10日間ロングバッテリー iOS/Android対応 ブラック",
-          "price": 17800,
-          "list_price": 23980,
-          "percent_off": 26,
-          "points": 178,
-          "points_percent": 1,
-          "image": "https://m.media-amazon.com/images/I/416KXnN7ryL._SL160_.jpg",
-          "url": "https://www.amazon.co.jp/dp/B0F5WNVHH7?tag=natafull-22&linkCode=osi&th=1&psc=1"
-        },
-        {
-          "title": "HUAWEI WATCH GT 6 Pro 46mm スマートウォッチ 1.47インチ大画面 最長21日間バッテリー サイクリング/登山/進化したゴルフナビ スポーツモード100種類以上 GPS搭載 心電図分析 健康/情緒モニタリング iOS/Android対応 ブラウン",
-          "price": 38930,
-          "list_price": 50380,
-          "percent_off": 23,
-          "points": 389,
-          "points_percent": 1,
-          "image": "https://m.media-amazon.com/images/I/41NI4ju2vQL._SL160_.jpg",
-          "url": "https://www.amazon.co.jp/dp/B0FKH323P1?tag=natafull-22&linkCode=osi&th=1&psc=1"
-        },
-        {
           "title": "HUAWEI WATCH GT 6 Pro 46mm スマートウォッチ 1.47インチ大画面 最長21日間バッテリー サイクリング/登山/進化したゴルフナビ スポーツモード100種類以上 GPS搭載 心電図分析 健康/情緒モニタリング iOS/Android対応 ブラック",
           "price": 36964,
           "list_price": 48180,
@@ -447,14 +457,24 @@
           "url": "https://www.amazon.co.jp/dp/B0BWF35J1G?tag=natafull-22&linkCode=osi&th=1&psc=1"
         },
         {
-          "title": "シャオミ(Xiaomi) スマートウォッチ Redmi Watch 5 Active 2インチ大画面ディスプレイ 18日間長持ちバッテリー Bluetooth 通話対応 24時間心拍数モニタリング Alexa対応 ミッドナイトブラック",
-          "price": 3780,
-          "list_price": 4580,
-          "percent_off": 17,
-          "points": 38,
-          "points_percent": 1,
-          "image": "https://m.media-amazon.com/images/I/31XC6PJTAsL._SL160_.jpg",
-          "url": "https://www.amazon.co.jp/dp/B0DFZPR9Z4?tag=natafull-22&linkCode=osi&th=1&psc=1"
+          "title": "HUAWEI WATCH FIT 4 スマートウォッチ 薄型軽量 1.82インチ大画面 アウトドアに適した気圧計と測位システム 通知 フィットネス ヘルストラッカー 情緒測定 10日間ロングバッテリー iOS/Android対応 ブラック",
+          "price": 19600,
+          "list_price": 23980,
+          "percent_off": 18,
+          "points": 0,
+          "points_percent": null,
+          "image": "https://m.media-amazon.com/images/I/416KXnN7ryL._SL160_.jpg",
+          "url": "https://www.amazon.co.jp/dp/B0F5WNVHH7?tag=natafull-22&linkCode=osi&th=1&psc=1"
+        },
+        {
+          "title": "HUAWEI WATCH FIT 4 Pro スマートウォッチ 薄型軽量 ゴルフ機能 アウトドアに適した気圧計と測位システム 1.82インチ3000nitsディスプレイ サファイアガラス チタン合金ベゼル 10日間ロングバッテリー iOS/Android対応 ブラック",
+          "price": 30500,
+          "list_price": 37180,
+          "percent_off": 18,
+          "points": 0,
+          "points_percent": null,
+          "image": "https://m.media-amazon.com/images/I/41KkM4mAaZL._SL160_.jpg",
+          "url": "https://www.amazon.co.jp/dp/B0F5WR3KP9?tag=natafull-22&linkCode=osi&th=1&psc=1"
         },
         {
           "title": "シャオミ(Xiaomi) スマートウォッチ Xiaomi Band 9 Active 18日間連続使用 1.47インチTFTディスプレイ 24時間健康管理 チップ強化 軽量デザイン 交換可能なフレーム iPhone & Android対応 ブラック",
@@ -465,6 +485,26 @@
           "points_percent": 1,
           "image": "https://m.media-amazon.com/images/I/31uu1iX42rL._SL160_.jpg",
           "url": "https://www.amazon.co.jp/dp/B0DK6ZC5ZC?tag=natafull-22&linkCode=osi&th=1&psc=1"
+        },
+        {
+          "title": "【Forerunner265後継モデル】GARMIN(ガーミン) GPSランニングウォッチ Forerunner 570 47mm Black 【ロングバッテリー/超軽量/高精度GPS/色鮮やかなAMOLEDタッチディスプレイ/スピーカー＆マイク内蔵/ボイスコントロール/睡眠スコア・Body Battery計測/Music保存機能 有・無/Android/iOS対応/Suica機能搭載/防水】",
+          "price": 63800,
+          "list_price": 74800,
+          "percent_off": 15,
+          "points": 638,
+          "points_percent": 1,
+          "image": "https://m.media-amazon.com/images/I/41Ndyg7lkqL._SL160_.jpg",
+          "url": "https://www.amazon.co.jp/dp/B0F9LB5PQF?tag=natafull-22&linkCode=osi&th=1&psc=1"
+        },
+        {
+          "title": "HUAWEI WATCH GT 6 Pro 46mm スマートウォッチ 1.47インチ大画面 最長21日間バッテリー サイクリング/登山/進化したゴルフナビ スポーツモード100種類以上 GPS搭載 心電図分析 健康/情緒モニタリング iOS/Android対応 ブラウン",
+          "price": 43000,
+          "list_price": 50380,
+          "percent_off": 15,
+          "points": 0,
+          "points_percent": null,
+          "image": "https://m.media-amazon.com/images/I/41NI4ju2vQL._SL160_.jpg",
+          "url": "https://www.amazon.co.jp/dp/B0FKH323P1?tag=natafull-22&linkCode=osi&th=1&psc=1"
         }
       ]
     },
@@ -473,11 +513,11 @@
       "books": [
         {
           "title": "アイリスオーヤマ フライヤー 過熱水蒸気 ノンオイルフライヤー FV-M30A-C アイボリー",
-          "price": 8082,
+          "price": 7800,
           "list_price": 12800,
-          "percent_off": 37,
-          "points": 81,
-          "points_percent": 1,
+          "percent_off": 39,
+          "points": 780,
+          "points_percent": 10,
           "image": "https://m.media-amazon.com/images/I/3169gfWTJ3L._SL160_.jpg",
           "url": "https://www.amazon.co.jp/dp/B0G4CC1S2F?tag=natafull-22&linkCode=osi&th=1&psc=1"
         },
@@ -642,6 +682,16 @@
           "url": "https://www.amazon.co.jp/dp/B0CBPDJQFL?tag=natafull-22&linkCode=osi&th=1&psc=1"
         },
         {
+          "title": "【やさしく剃れる】フィリップス 電動シェーバー 5000Xシリーズ 電動 髭剃り メンズ X5012/05 オレンジ/アドリアブルー",
+          "price": 12311,
+          "list_price": 16500,
+          "percent_off": 25,
+          "points": 0,
+          "points_percent": null,
+          "image": "https://m.media-amazon.com/images/I/51PmODmzXEL._SL160_.jpg",
+          "url": "https://www.amazon.co.jp/dp/B0BSFH2NCS?tag=natafull-22&linkCode=osi&th=1&psc=1"
+        },
+        {
           "title": "パナソニック メンズシェーバー スーパーレザー ES3832P-S",
           "price": 2357,
           "list_price": null,
@@ -650,16 +700,6 @@
           "points_percent": 25,
           "image": "https://m.media-amazon.com/images/I/41sgF9c2b4L._SL160_.jpg",
           "url": "https://www.amazon.co.jp/dp/B001MBV4W4?tag=natafull-22&linkCode=osi&th=1&psc=1"
-        },
-        {
-          "title": "パナソニック ラムダッシュ パームインシェーバー メンズシェーバー コンパクト ベーシックタイプ 5枚刃 マットブラック ES-PV3A-K",
-          "price": 28200,
-          "list_price": 37026,
-          "percent_off": 24,
-          "points": 0,
-          "points_percent": null,
-          "image": "https://m.media-amazon.com/images/I/31DUgjKcCaL._SL160_.jpg",
-          "url": "https://www.amazon.co.jp/dp/B0C8SBYXPQ?tag=natafull-22&linkCode=osi&th=1&psc=1"
         }
       ]
     },
@@ -697,7 +737,7 @@
           "url": "https://www.amazon.co.jp/dp/B0DBKF4NV4?tag=natafull-22&linkCode=osi&th=1&psc=1"
         },
         {
-          "title": "【ワンランク上の白さへ】フィリップス 電動歯ブラシ ソニッケアー ダイヤモンドクリーン9000 HX9911/71",
+          "title": "フィリップス 電動歯ブラシ ソニッケアー ダイヤモンドクリーン9000 ワンランク上の白さへ",
           "price": 28050,
           "list_price": 33990,
           "percent_off": 17,
@@ -707,7 +747,7 @@
           "url": "https://www.amazon.co.jp/dp/B0D28N991R?tag=natafull-22&linkCode=osi&th=1&psc=1"
         },
         {
-          "title": "【しっかり磨き上げる】フィリップス 電動歯ブラシ ソニッケアー 5300 HX7108/09 ホワイト",
+          "title": "フィリップス 電動歯ブラシ ソニッケアー 5300 ケアーを実感",
           "price": 13200,
           "list_price": 15840,
           "percent_off": 17,
