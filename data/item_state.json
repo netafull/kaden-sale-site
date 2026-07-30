@@ -27,7 +27,7 @@
   "B0FRSCXWSV": {
     "first_seen": "2026-07-29",
     "last_seen": "2026-07-30",
-    "title": "Xiaomi シャオミ REDMI Buds 8 Lite ワイヤレスイヤホン Bluetooth イヤホン 5.4 ノイズキャンセリング 12.4mmドライバー 最大36時間再生 マルチポイント接続 急速充電 小型軽量 専用アプリ対応 カスタムEQ iPhone/Android対応 ブラック"
+    "title": "Xiaomi シャオミ REDMI Buds 8 Lite ワイヤレスイヤホン Bluetooth 5.4 ノイズキャンセリング ANC 36時間再生"
   },
   "B0CL8S3WMX": {
     "first_seen": "2026-07-27",
@@ -169,6 +169,11 @@
     "last_seen": "2026-07-30",
     "title": "Anker 523 Charger (Nano 3, 47W) ホワイト"
   },
+  "B0C5CBV6L3": {
+    "first_seen": "2026-07-29",
+    "last_seen": "2026-07-30",
+    "title": "Anker Prime Wall Charger (67W, 3 ports, GaN) (ブラック)"
+  },
   "B0D53VKL36": {
     "first_seen": "2026-07-29",
     "last_seen": "2026-07-30",
@@ -183,11 +188,6 @@
     "first_seen": "2026-07-27",
     "last_seen": "2026-07-30",
     "title": "UGREEN 45W USB-C*4+USB-A*1 急速充電器 Type-C PD GaNⅡ充電器 PSE適合タイプc充電器 PD3.0/PPS/SCP/QC3.0"
-  },
-  "B0DNT9Z2HS": {
-    "first_seen": "2026-07-27",
-    "last_seen": "2026-07-30",
-    "title": "UGREEN 100W GaN 卓上急速充電器 (4*USB-C+2*USB-A) コンパクト【PSE技術基準適合/PD3.0/QC4.0/PPS対応】 複数台同時充電 iPhone17/16/15/14/13/Xperia/Pixel Pro/iPad/ノートPC MacBook Pro/Airなどに対応"
   },
   "B0FYFDD1WW": {
     "first_seen": "2026-07-29",
@@ -354,11 +354,6 @@
     "last_seen": "2026-07-30",
     "title": "【Works with Alexa認定】SwitchBot 防犯カメラ 300万画素 監視カメラ アプリ通知 遠隔確認 動体検知 自動追跡 ナイトビジョン 双方向音声通話 パン/チルト カラーナイトビジョン 室内 スイッチボット 見守りカメラ Plus 3MP 3年保証"
   },
-  "B09Z6LW8XW": {
-    "first_seen": "2026-07-30",
-    "last_seen": "2026-07-30",
-    "title": "SwitchBot LEDシーリングライト 8畳 Alexa 無段階 調光調色 スイッチボット 天井 照明器具 4000lm リモコン付き ハブ機能付き 電球色 昼白色 昼光色 取付簡単 防虫 防塵 省エネ 節電対策 2.4GHzWi-Fi Bluetoothに対応 5年保証 W2612240"
-  },
   "B0GQRLL8Q4": {
     "first_seen": "2026-07-30",
     "last_seen": "2026-07-30",
@@ -414,11 +409,6 @@
     "last_seen": "2026-07-30",
     "title": "HUAWEI WATCH FIT 4 スマートウォッチ 薄型軽量 1.82インチ大画面 アウトドアに適した気圧計と測位システム 通知 フィットネス ヘルストラッカー 情緒測定 10日間ロングバッテリー iOS/Android対応 ブラック"
   },
-  "B0F5WR3KP9": {
-    "first_seen": "2026-07-30",
-    "last_seen": "2026-07-30",
-    "title": "HUAWEI WATCH FIT 4 Pro スマートウォッチ 薄型軽量 ゴルフ機能 アウトドアに適した気圧計と測位システム 1.82インチ3000nitsディスプレイ サファイアガラス チタン合金ベゼル 10日間ロングバッテリー iOS/Android対応 ブラック"
-  },
   "B0DK6ZC5ZC": {
     "first_seen": "2026-07-30",
     "last_seen": "2026-07-30",
@@ -437,7 +427,7 @@
   "B0GQL9JZS7": {
     "first_seen": "2026-07-30",
     "last_seen": "2026-07-30",
-    "title": "Xiaomi スマートウォッチ Redmi Watch 6 2.07インチ有機EL GPS/GNSS搭載 Bluetooth通話対応 24日間バッテリー 薄型軽量 24時間モニタリング 女性健康管理 録音機能 スポーツモード 5ATM防水 2000nits高輝度 Android iPhone iOS対応 オブシディアンブラック"
+    "title": "Xiaomi Redmi Watch 6 シャオミ スマートウォッチ GPS Bluetooth通話 着信通知 防水 24日間持続 iPhone対応"
   },
   "B0G4CC1S2F": {
     "first_seen": "2026-07-24",
@@ -727,17 +717,27 @@
   "B0FMKL5DQP": {
     "first_seen": "2026-07-30",
     "last_seen": "2026-07-30",
-    "title": "【しっかり磨き上げる】フィリップス 電動歯ブラシ ソニッケアー 5300 HX7108/09 ホワイト"
+    "title": "フィリップス 電動歯ブラシ ソニッケアー 5300 ケアーを実感"
   },
   "B0DB4GH421": {
     "first_seen": "2026-07-26",
     "last_seen": "2026-07-30",
     "title": "ブラウン 電動歯ブラシ オーラルB 【電動初心者の決定版】iO2 iOS21C90PK 防水 歯科医推奨No.1ブランド【Amazon.co.jp 限定】"
   },
-  "B0C5CBV6L3": {
-    "first_seen": "2026-07-29",
+  "B0DNT9Z2HS": {
+    "first_seen": "2026-07-27",
     "last_seen": "2026-07-30",
-    "title": "Anker Prime Wall Charger (67W, 3 ports, GaN) (ブラック)"
+    "title": "UGREEN 100W GaN 卓上急速充電器 (4*USB-C+2*USB-A) コンパクト【PSE技術基準適合/PD3.0/QC4.0/PPS対応】 複数台同時充電 iPhone17/16/15/14/13/Xperia/Pixel Pro/iPad/ノートPC MacBook Pro/Airなどに対応"
+  },
+  "B09Z6LW8XW": {
+    "first_seen": "2026-07-30",
+    "last_seen": "2026-07-30",
+    "title": "SwitchBot LEDシーリングライト 8畳 Alexa 無段階 調光調色 スイッチボット 天井 照明器具 4000lm リモコン付き ハブ機能付き 電球色 昼白色 昼光色 取付簡単 防虫 防塵 省エネ 節電対策 2.4GHzWi-Fi Bluetoothに対応 5年保証 W2612240"
+  },
+  "B0F5WR3KP9": {
+    "first_seen": "2026-07-30",
+    "last_seen": "2026-07-30",
+    "title": "HUAWEI WATCH FIT 4 Pro スマートウォッチ 薄型軽量 ゴルフ機能 アウトドアに適した気圧計と測位システム 1.82インチ3000nitsディスプレイ サファイアガラス チタン合金ベゼル 10日間ロングバッテリー iOS/Android対応 ブラック"
   },
   "B0DFZPR9Z4": {
     "first_seen": "2026-07-30",
