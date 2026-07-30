@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-30T01:37:10.018827+00:00",
+  "fetched_at": "2026-07-30T01:54:04.415958+00:00",
   "min_saving_percent": 12,
   "top_deals": [
     {
@@ -49,19 +49,6 @@
     {
       "name": "Apple製品",
       "items": [
-        {
-          "asin": "B0FQFLWSWZ",
-          "title": "Apple iPhone Air 256GB (SIMフリー)：史上最薄のiPhone、最大120HzのProMotionを採用した6.5インチディスプレイ、パワフルなA19 Proチップ、センターフレームフロントカメラ、一日中使えるバッテリー；スペースブラック",
-          "brand": "Apple(アップル)",
-          "price": 139800,
-          "list_price": 177800,
-          "percent_off": 21,
-          "points": 1398,
-          "points_percent": 1,
-          "image": "https://m.media-amazon.com/images/I/31Y8ZfpTmKL._SL160_.jpg",
-          "url": "https://www.amazon.co.jp/dp/B0FQFLWSWZ?tag=natafull-22&linkCode=osi&th=1&psc=1",
-          "since": "2026-07-29"
-        },
         {
           "asin": "B0FQFQDN6K",
           "title": "Apple AirPods Pro 3 ワイヤレスイヤホン、アクティブノイズキャンセリング、ライブ翻訳、心拍センサー、補聴機能、Bluetoothヘッドホン、空間オーディオ サウンド、USB-C充電ケース、防塵性能と耐汗耐水性能、「探す」対応、Qi充電",
@@ -1837,6 +1824,19 @@
           "since": "2026-07-26"
         },
         {
+          "asin": "B0C8SBYXPQ",
+          "title": "パナソニック ラムダッシュ パームインシェーバー メンズシェーバー コンパクト ベーシックタイプ 5枚刃 マットブラック ES-PV3A-K",
+          "brand": "パナソニック(Panasonic)",
+          "price": 28200,
+          "list_price": 37026,
+          "percent_off": 24,
+          "points": 0,
+          "points_percent": null,
+          "image": "https://m.media-amazon.com/images/I/31DUgjKcCaL._SL160_.jpg",
+          "url": "https://www.amazon.co.jp/dp/B0C8SBYXPQ?tag=natafull-22&linkCode=osi&th=1&psc=1",
+          "since": "2026-07-26"
+        },
+        {
           "asin": "B0FV2NJ2MJ",
           "title": "【なめらかに深剃り】フィリップス 電動シェーバー i9000シリーズ 電動 髭剃り メンズ 収納ケース付属 X9002/05 ダークグレイ",
           "brand": "PHILIPS",
@@ -1848,19 +1848,6 @@
           "image": "https://m.media-amazon.com/images/I/41j+Hw-rZCL._SL160_.jpg",
           "url": "https://www.amazon.co.jp/dp/B0FV2NJ2MJ?tag=natafull-22&linkCode=osi&th=1&psc=1",
           "since": "2026-07-30"
-        },
-        {
-          "asin": "B0C8SBYXPQ",
-          "title": "パナソニック ラムダッシュ パームインシェーバー メンズシェーバー コンパクト ベーシックタイプ 5枚刃 マットブラック ES-PV3A-K",
-          "brand": "パナソニック(Panasonic)",
-          "price": 28700,
-          "list_price": 37026,
-          "percent_off": 22,
-          "points": 0,
-          "points_percent": null,
-          "image": "https://m.media-amazon.com/images/I/31DUgjKcCaL._SL160_.jpg",
-          "url": "https://www.amazon.co.jp/dp/B0C8SBYXPQ?tag=natafull-22&linkCode=osi&th=1&psc=1",
-          "since": "2026-07-26"
         },
         {
           "asin": "B0BSFHF9JQ",
@@ -1913,6 +1900,19 @@
           "image": "https://m.media-amazon.com/images/I/31jBS6jXOEL._SL160_.jpg",
           "url": "https://www.amazon.co.jp/dp/B0CY4LX65R?tag=natafull-22&linkCode=osi&th=1&psc=1",
           "since": "2026-07-28"
+        },
+        {
+          "asin": "B0DBKSVBGM",
+          "title": "パナソニック シェーバー ラムダッシュ PRO 6枚刃 メンズ 電動 髭剃り ラムダッシュAI⁺ 全自動洗浄充電器 ES-L690U-K クラフトブラック",
+          "brand": "パナソニック(Panasonic)",
+          "price": 60400,
+          "list_price": 68310,
+          "percent_off": 12,
+          "points": 0,
+          "points_percent": null,
+          "image": "https://m.media-amazon.com/images/I/41lVPuF7JlL._SL160_.jpg",
+          "url": "https://www.amazon.co.jp/dp/B0DBKSVBGM?tag=natafull-22&linkCode=osi&th=1&psc=1",
+          "since": "2026-07-30"
         }
       ]
     },

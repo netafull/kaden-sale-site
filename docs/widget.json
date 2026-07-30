@@ -1,21 +1,11 @@
 {
-  "updated": "2026-07-30T01:37:10.018827+00:00",
+  "updated": "2026-07-30T01:54:04.415958+00:00",
   "site_url": "https://kaden.netaful.jp/",
   "site_title": "家電ポチ",
   "genres": [
     {
       "name": "Apple製品",
       "books": [
-        {
-          "title": "Apple iPhone Air 256GB (SIMフリー)：史上最薄のiPhone、最大120HzのProMotionを採用した6.5インチディスプレイ、パワフルなA19 Proチップ、センターフレームフロントカメラ、一日中使えるバッテリー；スペースブラック",
-          "price": 139800,
-          "list_price": 177800,
-          "percent_off": 21,
-          "points": 1398,
-          "points_percent": 1,
-          "image": "https://m.media-amazon.com/images/I/31Y8ZfpTmKL._SL160_.jpg",
-          "url": "https://www.amazon.co.jp/dp/B0FQFLWSWZ?tag=natafull-22&linkCode=osi&th=1&psc=1"
-        },
         {
           "title": "Apple AirPods Pro 3 ワイヤレスイヤホン、アクティブノイズキャンセリング、ライブ翻訳、心拍センサー、補聴機能、Bluetoothヘッドホン、空間オーディオ サウンド、USB-C充電ケース、防塵性能と耐汗耐水性能、「探す」対応、Qi充電",
           "price": 36800,
@@ -662,14 +652,14 @@
           "url": "https://www.amazon.co.jp/dp/B001MBV4W4?tag=natafull-22&linkCode=osi&th=1&psc=1"
         },
         {
-          "title": "【なめらかに深剃り】フィリップス 電動シェーバー i9000シリーズ 電動 髭剃り メンズ 収納ケース付属 X9002/05 ダークグレイ",
-          "price": 27200,
-          "list_price": 34980,
-          "percent_off": 22,
-          "points": 272,
-          "points_percent": 1,
-          "image": "https://m.media-amazon.com/images/I/41j+Hw-rZCL._SL160_.jpg",
-          "url": "https://www.amazon.co.jp/dp/B0FV2NJ2MJ?tag=natafull-22&linkCode=osi&th=1&psc=1"
+          "title": "パナソニック ラムダッシュ パームインシェーバー メンズシェーバー コンパクト ベーシックタイプ 5枚刃 マットブラック ES-PV3A-K",
+          "price": 28200,
+          "list_price": 37026,
+          "percent_off": 24,
+          "points": 0,
+          "points_percent": null,
+          "image": "https://m.media-amazon.com/images/I/31DUgjKcCaL._SL160_.jpg",
+          "url": "https://www.amazon.co.jp/dp/B0C8SBYXPQ?tag=natafull-22&linkCode=osi&th=1&psc=1"
         }
       ]
     },
