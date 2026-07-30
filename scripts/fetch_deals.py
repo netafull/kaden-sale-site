@@ -476,7 +476,8 @@ def main() -> int:
         json.dumps(new_state, ensure_ascii=False, indent=2), encoding="utf-8"
     )
 
-    # 「本日のお買い得」: ジャンル横断で実質お得度が高い商品を選ぶ。
+    # 「お買い得now」: ジャンル横断で実質お得度が高い商品を選ぶ。
+    # 毎時の実行ごとに選び直すため、日付ではなく「今この時点で最もお得」を示す。
     # 1ジャンルに偏らないよう同一ジャンルからは最大2件までに制限する。
     # top_deals_exclude_genresに挙げたジャンルは対象外にする(値引き率が
     # 常に高く上位を独占してしまうジャンルを除くため)
@@ -503,7 +504,7 @@ def main() -> int:
         if len(top_deals) >= top_n:
             break
     if top_deals:
-        print(f"本日のお買い得: {len(top_deals)}件 (実質{sort_key(top_deals[0])}%〜)")
+        print(f"お買い得now: {len(top_deals)}件 (実質{sort_key(top_deals[0])}%〜)")
 
     OUTPUT_PATH.parent.mkdir(parents=True, exist_ok=True)
     OUTPUT_PATH.write_text(

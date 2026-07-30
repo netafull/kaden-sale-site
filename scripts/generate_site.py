@@ -82,7 +82,7 @@ details > .grid, details > .empty { margin-top: 12px; }
 .points { font-size: 11px; color: #0a7d3c; font-weight: 600; margin-top: 2px; }
 @media (prefers-color-scheme: dark) { .points { color: #4fd689; } }
 .since { font-size: 11px; color: var(--muted); margin-top: 2px; }
-/* 「今日のお買い得」でジャンル名を示すラベル */
+/* 「お買い得now」でジャンル名を示すラベル */
 .gbadge { display: inline-block; font-size: 10px; font-weight: 600;
   color: var(--muted); border: 1px solid var(--line); border-radius: 4px;
   padding: 0 5px; margin-bottom: 3px; }
@@ -100,7 +100,7 @@ def render_book(item: dict, badge: str | None = None) -> str:
     """商品カードを組み立てる。
 
     badgeを渡すと、どのジャンルの商品かを示すラベルをタイトル上に添える
-    (「今日のお買い得」など、ジャンル横断で並べる場所で使う)。
+    (「お買い得now」など、ジャンル横断で並べる場所で使う)。
     """
     off = item.get("percent_off")
     off_html = ""
@@ -173,7 +173,7 @@ def generate_html(data: dict) -> str:
         )
         sections.append(
             '<details open id="top">\n'
-            '<summary><h2>⭐ 今日のお買い得</h2></summary>\n'
+            '<summary><h2>⭐ お買い得now</h2></summary>\n'
             '<p class="cmeta">割引率とポイント還元率の合計が'
             '高い商品を選びました</p>\n'
             f'<div class="grid">\n{cards}\n</div>\n'
