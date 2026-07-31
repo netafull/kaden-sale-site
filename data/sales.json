@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-30T23:41:35.698229+00:00",
+  "fetched_at": "2026-07-31T00:03:51.623411+00:00",
   "min_saving_percent": 15,
   "top_deals": [
     {
@@ -74,6 +74,19 @@
           "image": "https://m.media-amazon.com/images/I/31SdMbTD7zL._SL160_.jpg",
           "url": "https://www.amazon.co.jp/dp/B0FX458KV1?tag=natafull-22&linkCode=ogi&th=1&psc=1",
           "since": "2026-07-30"
+        },
+        {
+          "asin": "B0GR1LSZ8D",
+          "title": "Apple 2026 MacBook Air M5チップ搭載13インチノートブック：AIとApple Intelligence、13.6インチLiquid Retinaディスプレイ、24GBユニファイドメモリ、1TB SSDストレージ、12MPセンターフレームカメラ、日本語キーボード、Touch ID - ミッドナイト",
+          "brand": "Apple(アップル)",
+          "price": 260463,
+          "list_price": 314800,
+          "percent_off": 17,
+          "points": 0,
+          "points_percent": null,
+          "image": "https://m.media-amazon.com/images/I/41gS7SS9hSL._SL160_.jpg",
+          "url": "https://www.amazon.co.jp/dp/B0GR1LSZ8D?tag=natafull-22&linkCode=ogi&th=1&psc=1",
+          "since": "2026-07-31"
         },
         {
           "asin": "B0FQFQDN6K",
