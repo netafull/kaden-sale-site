@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-31T02:18:44.879939+00:00",
+  "fetched_at": "2026-07-31T02:54:03.904701+00:00",
   "min_saving_percent": 15,
   "top_deals": [
     {
@@ -50,6 +50,32 @@
       "name": "Apple製品",
       "items": [
         {
+          "asin": "B0FQFHZ5KH",
+          "title": "Apple iPhone Air 512GB (SIMフリー)：史上最薄のiPhone、最大120HzのProMotionを採用した6.5インチディスプレイ、パワフルなA19 Proチップ、センターフレームフロントカメラ、一日中使えるバッテリー；スペースブラック",
+          "brand": "Apple(アップル)",
+          "price": 156800,
+          "list_price": 212800,
+          "percent_off": 26,
+          "points": 1568,
+          "points_percent": 1,
+          "image": "https://m.media-amazon.com/images/I/31Y8ZfpTmKL._SL160_.jpg",
+          "url": "https://www.amazon.co.jp/dp/B0FQFHZ5KH?tag=natafull-22&linkCode=ogi&th=1&psc=1",
+          "since": "2026-07-31"
+        },
+        {
+          "asin": "B0FQFPZW9G",
+          "title": "Apple iPhone Air 512GB (SIMフリー)：史上最薄のiPhone、最大120HzのProMotionを採用した6.5インチディスプレイ、パワフルなA19 Proチップ、センターフレームフロントカメラ、一日中使えるバッテリー；スカイブルー",
+          "brand": "Apple(アップル)",
+          "price": 156800,
+          "list_price": 212800,
+          "percent_off": 26,
+          "points": 1568,
+          "points_percent": 1,
+          "image": "https://m.media-amazon.com/images/I/31MWL1qkA+L._SL160_.jpg",
+          "url": "https://www.amazon.co.jp/dp/B0FQFPZW9G?tag=natafull-22&linkCode=ogi&th=1&psc=1",
+          "since": "2026-07-31"
+        },
+        {
           "asin": "B0FQG1QPLW",
           "title": "Apple iPhone Air 256GB (SIMフリー)：史上最薄のiPhone、最大120HzのProMotionを採用した6.5インチディスプレイ、パワフルなA19 Proチップ、センターフレームフロントカメラ、一日中使えるバッテリー；スカイブルー",
           "brand": "Apple(アップル)",
@@ -61,6 +87,19 @@
           "image": "https://m.media-amazon.com/images/I/31MWL1qkA+L._SL160_.jpg",
           "url": "https://www.amazon.co.jp/dp/B0FQG1QPLW?tag=natafull-22&linkCode=ogi&th=1&psc=1",
           "since": "2026-07-30"
+        },
+        {
+          "asin": "B0FQGTZLWX",
+          "title": "Apple iPhone Air 256GB (SIMフリー)：史上最薄のiPhone、最大120HzのProMotionを採用した6.5インチディスプレイ、パワフルなA19 Proチップ、センターフレームフロントカメラ、一日中使えるバッテリー；クラウドホワイト",
+          "brand": "Apple(アップル)",
+          "price": 139800,
+          "list_price": 177800,
+          "percent_off": 21,
+          "points": 1398,
+          "points_percent": 1,
+          "image": "https://m.media-amazon.com/images/I/31ZXFqgSRaL._SL160_.jpg",
+          "url": "https://www.amazon.co.jp/dp/B0FQGTZLWX?tag=natafull-22&linkCode=ogi&th=1&psc=1",
+          "since": "2026-07-31"
         },
         {
           "asin": "B0DMVGKWBV",
@@ -188,11 +227,11 @@
           "asin": "B0GW7WT5SQ",
           "title": "ソニー ゲーミングイヤホン INZONE Buds:WF-G700N Fnatic監修/ワイヤレス / 低遅延2.4GHzワイヤレス接続 USBType-Cトランシーバー同梱/LE Audio対応/アクティブノイズキャンセリング/立体音響 / 最大約24時間バッテリー / 急速充電/マイク付き / PS5 スマホ PC Switch グラスパープル",
           "brand": "Sony",
-          "price": 23850,
+          "price": 23800,
           "list_price": 29700,
           "percent_off": 20,
-          "points": 0,
-          "points_percent": null,
+          "points": 238,
+          "points_percent": 1,
           "image": "https://m.media-amazon.com/images/I/3143nL6VZVL._SL160_.jpg",
           "url": "https://www.amazon.co.jp/dp/B0GW7WT5SQ?tag=natafull-22&linkCode=osi&th=1&psc=1",
           "since": "2026-07-24"
@@ -209,6 +248,19 @@
           "image": "https://m.media-amazon.com/images/I/21s0vPbZaOL._SL160_.jpg",
           "url": "https://www.amazon.co.jp/dp/B0FRSCXWSV?tag=natafull-22&linkCode=osi&th=1&psc=1",
           "since": "2026-07-29"
+        },
+        {
+          "asin": "B0FCSGGHLL",
+          "title": "Bose QuietComfort Ultra Earbuds (第2世代) ワイヤレス ノイズキャンセリング Bluetooth イヤホン 最長6時間連続再生 IPX4規格準拠 イマーシブオーディオ 迫力の重低音 ブラック",
+          "brand": "BOSE(ボーズ)",
+          "price": 34125,
+          "list_price": 39600,
+          "percent_off": 14,
+          "points": 341,
+          "points_percent": 1,
+          "image": "https://m.media-amazon.com/images/I/31M7uzqFLEL._SL160_.jpg",
+          "url": "https://www.amazon.co.jp/dp/B0FCSGGHLL?tag=natafull-22&linkCode=osi&th=1&psc=1",
+          "since": "2026-07-24"
         }
       ]
     },

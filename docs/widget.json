@@ -1,11 +1,31 @@
 {
-  "updated": "2026-07-31T02:18:44.879939+00:00",
+  "updated": "2026-07-31T02:54:03.904701+00:00",
   "site_url": "https://kaden.netaful.jp/",
   "site_title": "家電ポチ",
   "genres": [
     {
       "name": "Apple製品",
       "books": [
+        {
+          "title": "Apple iPhone Air 512GB (SIMフリー)：史上最薄のiPhone、最大120HzのProMotionを採用した6.5インチディスプレイ、パワフルなA19 Proチップ、センターフレームフロントカメラ、一日中使えるバッテリー；スペースブラック",
+          "price": 156800,
+          "list_price": 212800,
+          "percent_off": 26,
+          "points": 1568,
+          "points_percent": 1,
+          "image": "https://m.media-amazon.com/images/I/31Y8ZfpTmKL._SL160_.jpg",
+          "url": "https://www.amazon.co.jp/dp/B0FQFHZ5KH?tag=natafull-22&linkCode=ogi&th=1&psc=1"
+        },
+        {
+          "title": "Apple iPhone Air 512GB (SIMフリー)：史上最薄のiPhone、最大120HzのProMotionを採用した6.5インチディスプレイ、パワフルなA19 Proチップ、センターフレームフロントカメラ、一日中使えるバッテリー；スカイブルー",
+          "price": 156800,
+          "list_price": 212800,
+          "percent_off": 26,
+          "points": 1568,
+          "points_percent": 1,
+          "image": "https://m.media-amazon.com/images/I/31MWL1qkA+L._SL160_.jpg",
+          "url": "https://www.amazon.co.jp/dp/B0FQFPZW9G?tag=natafull-22&linkCode=ogi&th=1&psc=1"
+        },
         {
           "title": "Apple iPhone Air 256GB (SIMフリー)：史上最薄のiPhone、最大120HzのProMotionを採用した6.5インチディスプレイ、パワフルなA19 Proチップ、センターフレームフロントカメラ、一日中使えるバッテリー；スカイブルー",
           "price": 139800,
@@ -15,6 +35,16 @@
           "points_percent": 1,
           "image": "https://m.media-amazon.com/images/I/31MWL1qkA+L._SL160_.jpg",
           "url": "https://www.amazon.co.jp/dp/B0FQG1QPLW?tag=natafull-22&linkCode=ogi&th=1&psc=1"
+        },
+        {
+          "title": "Apple iPhone Air 256GB (SIMフリー)：史上最薄のiPhone、最大120HzのProMotionを採用した6.5インチディスプレイ、パワフルなA19 Proチップ、センターフレームフロントカメラ、一日中使えるバッテリー；クラウドホワイト",
+          "price": 139800,
+          "list_price": 177800,
+          "percent_off": 21,
+          "points": 1398,
+          "points_percent": 1,
+          "image": "https://m.media-amazon.com/images/I/31ZXFqgSRaL._SL160_.jpg",
+          "url": "https://www.amazon.co.jp/dp/B0FQGTZLWX?tag=natafull-22&linkCode=ogi&th=1&psc=1"
         },
         {
           "title": "Apple 2024 iMac 8 コア CPU、8 コア GPU の M4 チップ搭載、24 インチ Retina ディスプレイ、 16GBユニファイドメモリ、256GBの SSD ストレージ - シルバー + 3年延長 AppleCare+ for iMac(M4)",
@@ -55,36 +85,6 @@
           "points_percent": 1,
           "image": "https://m.media-amazon.com/images/I/318ibisrl7L._SL160_.jpg",
           "url": "https://www.amazon.co.jp/dp/B0FQFQDN6K?tag=natafull-22&linkCode=osi&th=1&psc=1"
-        },
-        {
-          "title": "Apple Watch Series 11(GPSモデル)- 46mmジェットブラックアルミニウムケースとブラックスポーツバンド - M/L、睡眠時無呼吸、高血圧パターン、血中酸素、心電図、排卵推定、心拍数、服薬、マインドフルネス、ノイズ、睡眠スコア、転倒検出、IPX6X防塵、泳げる耐水、Suica対応、高速充電対応",
-          "price": 67800,
-          "list_price": 76800,
-          "percent_off": 12,
-          "points": 678,
-          "points_percent": 1,
-          "image": "https://m.media-amazon.com/images/I/41mUfdF4HaL._SL160_.jpg",
-          "url": "https://www.amazon.co.jp/dp/B0FQG2B81Z?tag=natafull-22&linkCode=osi&th=1&psc=1"
-        },
-        {
-          "title": "Apple Watch Series 11(GPSモデル)- 42mmローズゴールドアルミニウムケースとライトブラッシュスポーツバンド - M/L、睡眠時無呼吸、高血圧パターン、血中酸素、心電図、排卵推定、心拍数、服薬、マインドフルネス、ノイズ、睡眠スコア、転倒検出、IPX6X防塵、泳げる耐水、Suica対応、高速充電対応",
-          "price": 63800,
-          "list_price": 71800,
-          "percent_off": 11,
-          "points": 638,
-          "points_percent": 1,
-          "image": "https://m.media-amazon.com/images/I/31TU9aa8QnL._SL160_.jpg",
-          "url": "https://www.amazon.co.jp/dp/B0FQFQHJRC?tag=natafull-22&linkCode=ogi&th=1&psc=1"
-        },
-        {
-          "title": "Apple 13インチiPad Pro（M5）用Magic Keyboard - 日本語 - ブラック ​​​​​​​",
-          "price": 59800,
-          "list_price": 65800,
-          "percent_off": 9,
-          "points": 598,
-          "points_percent": 1,
-          "image": "https://m.media-amazon.com/images/I/41SZRMXIs8L._SL160_.jpg",
-          "url": "https://www.amazon.co.jp/dp/B0D3J7HJYN?tag=natafull-22&linkCode=ogi&th=1&psc=1"
         }
       ]
     },
@@ -113,11 +113,11 @@
         },
         {
           "title": "ソニー ゲーミングイヤホン INZONE Buds:WF-G700N Fnatic監修/ワイヤレス / 低遅延2.4GHzワイヤレス接続 USBType-Cトランシーバー同梱/LE Audio対応/アクティブノイズキャンセリング/立体音響 / 最大約24時間バッテリー / 急速充電/マイク付き / PS5 スマホ PC Switch グラスパープル",
-          "price": 23850,
+          "price": 23800,
           "list_price": 29700,
           "percent_off": 20,
-          "points": 0,
-          "points_percent": null,
+          "points": 238,
+          "points_percent": 1,
           "image": "https://m.media-amazon.com/images/I/3143nL6VZVL._SL160_.jpg",
           "url": "https://www.amazon.co.jp/dp/B0GW7WT5SQ?tag=natafull-22&linkCode=osi&th=1&psc=1"
         },
@@ -130,6 +130,16 @@
           "points_percent": 1,
           "image": "https://m.media-amazon.com/images/I/21s0vPbZaOL._SL160_.jpg",
           "url": "https://www.amazon.co.jp/dp/B0FRSCXWSV?tag=natafull-22&linkCode=osi&th=1&psc=1"
+        },
+        {
+          "title": "Bose QuietComfort Ultra Earbuds (第2世代) ワイヤレス ノイズキャンセリング Bluetooth イヤホン 最長6時間連続再生 IPX4規格準拠 イマーシブオーディオ 迫力の重低音 ブラック",
+          "price": 34125,
+          "list_price": 39600,
+          "percent_off": 14,
+          "points": 341,
+          "points_percent": 1,
+          "image": "https://m.media-amazon.com/images/I/31M7uzqFLEL._SL160_.jpg",
+          "url": "https://www.amazon.co.jp/dp/B0FCSGGHLL?tag=natafull-22&linkCode=osi&th=1&psc=1"
         }
       ]
     },
