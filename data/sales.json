@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-31T00:03:51.623411+00:00",
+  "fetched_at": "2026-07-31T00:27:03.171959+00:00",
   "min_saving_percent": 15,
   "top_deals": [
     {
@@ -113,6 +113,19 @@
           "image": "https://m.media-amazon.com/images/I/41mUfdF4HaL._SL160_.jpg",
           "url": "https://www.amazon.co.jp/dp/B0FQG2B81Z?tag=natafull-22&linkCode=osi&th=1&psc=1",
           "since": "2026-07-29"
+        },
+        {
+          "asin": "B0FQFQHJRC",
+          "title": "Apple Watch Series 11(GPSモデル)- 42mmローズゴールドアルミニウムケースとライトブラッシュスポーツバンド - M/L、睡眠時無呼吸、高血圧パターン、血中酸素、心電図、排卵推定、心拍数、服薬、マインドフルネス、ノイズ、睡眠スコア、転倒検出、IPX6X防塵、泳げる耐水、Suica対応、高速充電対応",
+          "brand": "Apple(アップル)",
+          "price": 63800,
+          "list_price": 71800,
+          "percent_off": 11,
+          "points": 638,
+          "points_percent": 1,
+          "image": "https://m.media-amazon.com/images/I/31TU9aa8QnL._SL160_.jpg",
+          "url": "https://www.amazon.co.jp/dp/B0FQFQHJRC?tag=natafull-22&linkCode=ogi&th=1&psc=1",
+          "since": "2026-07-31"
         }
       ]
     },
@@ -188,6 +201,19 @@
           "image": "https://m.media-amazon.com/images/I/21FZAnhgkQL._SL160_.jpg",
           "url": "https://www.amazon.co.jp/dp/B0CL8S3WMX?tag=natafull-22&linkCode=osi&th=1&psc=1",
           "since": "2026-07-27"
+        },
+        {
+          "asin": "B0D53XSFR8",
+          "title": "CIO モバイルバッテリー USB-Cケーブル内蔵 軽量 10000mAh SMARTCOBY Pro SLIM CABLE 35W (ブラック)",
+          "brand": "CIO",
+          "price": 3980,
+          "list_price": 5980,
+          "percent_off": 33,
+          "points": 40,
+          "points_percent": 1,
+          "image": "https://m.media-amazon.com/images/I/31XHswKEBfL._SL160_.jpg",
+          "url": "https://www.amazon.co.jp/dp/B0D53XSFR8?tag=natafull-22&linkCode=osi&th=1&psc=1",
+          "since": "2026-07-29"
         },
         {
           "asin": "B0DT4RGDSJ",
@@ -1214,6 +1240,19 @@
           "image": "https://m.media-amazon.com/images/I/313G0I5xQNL._SL160_.jpg",
           "url": "https://www.amazon.co.jp/dp/B0DRJK17XF?tag=natafull-22&linkCode=osi&th=1&psc=1",
           "since": "2026-07-29"
+        },
+        {
+          "asin": "B0FJRCJ1SN",
+          "title": "【リニューアル】 エレコム ワイヤレスマウス 静音 充電式 OSMOD Six Bluetooth 無線2.4GHz両対応 2台まで接続 マルチペアリング 6ボタン ブラック M-MY35MBSABK",
+          "brand": "エレコム(ELECOM)",
+          "price": 2990,
+          "list_price": 3990,
+          "percent_off": 25,
+          "points": 30,
+          "points_percent": 1,
+          "image": "https://m.media-amazon.com/images/I/31Ar0JA+HGL._SL160_.jpg",
+          "url": "https://www.amazon.co.jp/dp/B0FJRCJ1SN?tag=natafull-22&linkCode=osi&th=1&psc=1",
+          "since": "2026-07-26"
         },
         {
           "asin": "B0BWDSC5ZB",
