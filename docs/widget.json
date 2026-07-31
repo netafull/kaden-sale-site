@@ -1,21 +1,11 @@
 {
-  "updated": "2026-07-31T02:54:03.904701+00:00",
+  "updated": "2026-07-31T03:29:17.703484+00:00",
   "site_url": "https://kaden.netaful.jp/",
   "site_title": "家電ポチ",
   "genres": [
     {
       "name": "Apple製品",
       "books": [
-        {
-          "title": "Apple iPhone Air 512GB (SIMフリー)：史上最薄のiPhone、最大120HzのProMotionを採用した6.5インチディスプレイ、パワフルなA19 Proチップ、センターフレームフロントカメラ、一日中使えるバッテリー；スペースブラック",
-          "price": 156800,
-          "list_price": 212800,
-          "percent_off": 26,
-          "points": 1568,
-          "points_percent": 1,
-          "image": "https://m.media-amazon.com/images/I/31Y8ZfpTmKL._SL160_.jpg",
-          "url": "https://www.amazon.co.jp/dp/B0FQFHZ5KH?tag=natafull-22&linkCode=ogi&th=1&psc=1"
-        },
         {
           "title": "Apple iPhone Air 512GB (SIMフリー)：史上最薄のiPhone、最大120HzのProMotionを採用した6.5インチディスプレイ、パワフルなA19 Proチップ、センターフレームフロントカメラ、一日中使えるバッテリー；スカイブルー",
           "price": 156800,
@@ -35,6 +25,16 @@
           "points_percent": 1,
           "image": "https://m.media-amazon.com/images/I/31MWL1qkA+L._SL160_.jpg",
           "url": "https://www.amazon.co.jp/dp/B0FQG1QPLW?tag=natafull-22&linkCode=ogi&th=1&psc=1"
+        },
+        {
+          "title": "Apple iPhone Air 256GB (SIMフリー)：史上最薄のiPhone、最大120HzのProMotionを採用した6.5インチディスプレイ、パワフルなA19 Proチップ、センターフレームフロントカメラ、一日中使えるバッテリー；ライトゴールド",
+          "price": 139800,
+          "list_price": 177800,
+          "percent_off": 21,
+          "points": 1398,
+          "points_percent": 1,
+          "image": "https://m.media-amazon.com/images/I/31-S3Ark13L._SL160_.jpg",
+          "url": "https://www.amazon.co.jp/dp/B0FQG5SZS9?tag=natafull-22&linkCode=ogi&th=1&psc=1"
         },
         {
           "title": "Apple iPhone Air 256GB (SIMフリー)：史上最薄のiPhone、最大120HzのProMotionを採用した6.5インチディスプレイ、パワフルなA19 Proチップ、センターフレームフロントカメラ、一日中使えるバッテリー；クラウドホワイト",
@@ -67,16 +67,6 @@
           "url": "https://www.amazon.co.jp/dp/B0FX458KV1?tag=natafull-22&linkCode=ogi&th=1&psc=1"
         },
         {
-          "title": "Apple 2026 MacBook Air M5チップ搭載13インチノートブック：AIとApple Intelligence、13.6インチLiquid Retinaディスプレイ、24GBユニファイドメモリ、1TB SSDストレージ、12MPセンターフレームカメラ、日本語キーボード、Touch ID - ミッドナイト",
-          "price": 260463,
-          "list_price": 314800,
-          "percent_off": 17,
-          "points": 0,
-          "points_percent": null,
-          "image": "https://m.media-amazon.com/images/I/41gS7SS9hSL._SL160_.jpg",
-          "url": "https://www.amazon.co.jp/dp/B0GR1LSZ8D?tag=natafull-22&linkCode=ogi&th=1&psc=1"
-        },
-        {
           "title": "Apple AirPods Pro 3 ワイヤレスイヤホン、アクティブノイズキャンセリング、ライブ翻訳、心拍センサー、補聴機能、Bluetoothヘッドホン、空間オーディオ サウンド、USB-C充電ケース、防塵性能と耐汗耐水性能、「探す」対応、Qi充電",
           "price": 36800,
           "list_price": 42800,
@@ -85,6 +75,16 @@
           "points_percent": 1,
           "image": "https://m.media-amazon.com/images/I/318ibisrl7L._SL160_.jpg",
           "url": "https://www.amazon.co.jp/dp/B0FQFQDN6K?tag=natafull-22&linkCode=osi&th=1&psc=1"
+        },
+        {
+          "title": "Apple Watch Series 11(GPSモデル)- 46mmジェットブラックアルミニウムケースとブラックスポーツバンド - M/L、睡眠時無呼吸、高血圧パターン、血中酸素、心電図、排卵推定、心拍数、服薬、マインドフルネス、ノイズ、睡眠スコア、転倒検出、IPX6X防塵、泳げる耐水、Suica対応、高速充電対応",
+          "price": 67800,
+          "list_price": 76800,
+          "percent_off": 12,
+          "points": 678,
+          "points_percent": 1,
+          "image": "https://m.media-amazon.com/images/I/41mUfdF4HaL._SL160_.jpg",
+          "url": "https://www.amazon.co.jp/dp/B0FQG2B81Z?tag=natafull-22&linkCode=osi&th=1&psc=1"
         }
       ]
     },
@@ -317,7 +317,7 @@
       "name": "SSD・メモリーカード",
       "books": [
         {
-          "title": "【Amazon.co.jp限定】バッファロー microSD 128GB 100MB/s UHS-1 U1 microSDXC【 Nintendo Switch 対応 】V10 A1 IPX7 Full HD RMSD-128U11HA/N",
+          "title": "Amazon限定 バッファロー microSD 128GB 100MB/s U1 microSD V10 A1 RMSD-128U11HA/N",
           "price": 5789,
           "list_price": 9980,
           "percent_off": 42,
@@ -487,6 +487,16 @@
       "name": "スマートウォッチ",
       "books": [
         {
+          "title": "HUAWEI WATCH FIT 4 Pro スマートウォッチ 薄型軽量 ゴルフ機能 アウトドアに適した気圧計と測位システム 1.82インチ3000nitsディスプレイ サファイアガラス チタン合金ベゼル 10日間ロングバッテリー iOS/Android対応 ブラック",
+          "price": 30250,
+          "list_price": 37180,
+          "percent_off": 19,
+          "points": 3817,
+          "points_percent": 13,
+          "image": "https://m.media-amazon.com/images/I/41KkM4mAaZL._SL160_.jpg",
+          "url": "https://www.amazon.co.jp/dp/B0F5WR3KP9?tag=natafull-22&linkCode=osi&th=1&psc=1"
+        },
+        {
           "title": "HUAWEI WATCH FIT 4 スマートウォッチ 薄型軽量 1.82インチ大画面 アウトドアに適した気圧計と測位システム 通知 フィットネス ヘルストラッカー 情緒測定 10日間ロングバッテリー iOS/Android対応 ブラック",
           "price": 19800,
           "list_price": 23980,
@@ -537,16 +547,6 @@
           "url": "https://www.amazon.co.jp/dp/B0BWF35J1G?tag=natafull-22&linkCode=osi&th=1&psc=1"
         },
         {
-          "title": "HUAWEI WATCH FIT 4 Pro スマートウォッチ 薄型軽量 ゴルフ機能 アウトドアに適した気圧計と測位システム 1.82インチ3000nitsディスプレイ サファイアガラス チタン合金ベゼル 10日間ロングバッテリー iOS/Android対応 ブラック",
-          "price": 30500,
-          "list_price": 37180,
-          "percent_off": 18,
-          "points": 0,
-          "points_percent": null,
-          "image": "https://m.media-amazon.com/images/I/41KkM4mAaZL._SL160_.jpg",
-          "url": "https://www.amazon.co.jp/dp/B0F5WR3KP9?tag=natafull-22&linkCode=osi&th=1&psc=1"
-        },
-        {
           "title": "シャオミ(Xiaomi) スマートウォッチ Xiaomi Band 9 Active 18日間連続使用 1.47インチTFTディスプレイ 24時間健康管理 チップ強化 軽量デザイン 交換可能なフレーム iPhone & Android対応 ブラック",
           "price": 2960,
           "list_price": 3480,
@@ -565,6 +565,91 @@
           "points_percent": 1,
           "image": "https://m.media-amazon.com/images/I/41Ndyg7lkqL._SL160_.jpg",
           "url": "https://www.amazon.co.jp/dp/B0F9LB5PQF?tag=natafull-22&linkCode=osi&th=1&psc=1"
+        }
+      ]
+    },
+    {
+      "name": "XR・ARグラス",
+      "books": [
+        {
+          "title": "VITURE Luma AR/XRグラス & HDMI XR アダプター セット｜146型1200p超鮮明・120Hz高刷新率 スマートグラス + iPhone 14以前/PS/Xbox/ゲーム機直結対応 3DoF強化 マルチスクリーン アダプター｜充電しながらプレイ可能 VITURE XRグラス用セット",
+          "price": 63553,
+          "list_price": 78460,
+          "percent_off": 19,
+          "points": 0,
+          "points_percent": null,
+          "image": "https://m.media-amazon.com/images/I/317BGQK+X+L._SL160_.jpg",
+          "url": "https://www.amazon.co.jp/dp/B0GCMVLDG4?tag=natafull-22&linkCode=osi&th=1&psc=1"
+        },
+        {
+          "title": "VITURE Luma Ultra XR グラス & Pro ネックバンド 12GBメモリ＆256GB内蔵ストレージ セット マルチスクリーン/6DoF/ハンドジェスチャー/スムーズフォロー/アンビエントモード搭載 PXPlay & XBXPlay 公式対応ワイヤレスゲームストリーミングメガネ",
+          "price": 122886,
+          "list_price": 149860,
+          "percent_off": 18,
+          "points": 0,
+          "points_percent": null,
+          "image": "https://m.media-amazon.com/images/I/41-ruaunzcL._SL160_.jpg",
+          "url": "https://www.amazon.co.jp/dp/B0GVJG7D7K?tag=natafull-22&linkCode=osi&th=1&psc=1"
+        },
+        {
+          "title": "VITURE Luma AR/XR グラス & Pro ネックバンド セット｜146型1200p超鮮明・120Hz スマートグラス + PSPlay連携 3DoF/マルチスクリーン AI音声操作 ネックバンド｜iPhone/Android/Mac/PC/Switch/Steam Deck対応",
+          "price": 102386,
+          "list_price": 124860,
+          "percent_off": 18,
+          "points": 0,
+          "points_percent": null,
+          "image": "https://m.media-amazon.com/images/I/31PUoqY0bjL._SL160_.jpg",
+          "url": "https://www.amazon.co.jp/dp/B0GCN66DC6?tag=natafull-22&linkCode=osi&th=1&psc=1"
+        },
+        {
+          "title": "VITURE Luma Ultra AR/XRグラス VGP&BEST BUY受賞 フル6DoF対応 ARハンドジェスチャー 1500nit",
+          "price": 75800,
+          "list_price": 89880,
+          "percent_off": 16,
+          "points": 758,
+          "points_percent": 1,
+          "image": "https://m.media-amazon.com/images/I/31CPa27i4dL._SL160_.jpg",
+          "url": "https://www.amazon.co.jp/dp/B0GCZMGP1T?tag=natafull-22&linkCode=osi&th=1&psc=1"
+        },
+        {
+          "title": "DPVR G1 AI スマートグラス 翻訳 141言語対応 HD 800万画素カメラ付きメガネ 32Gb 調光レンズ搭載 AI画像認識 メガネ型カメラ オーディオグラス スマートグラス iPhone対応 Android対応",
+          "price": 11999,
+          "list_price": 14390,
+          "percent_off": 17,
+          "points": 0,
+          "points_percent": null,
+          "image": "https://m.media-amazon.com/images/I/41uj3ClDLlL._SL160_.jpg",
+          "url": "https://www.amazon.co.jp/dp/B0G34SQSDD?tag=natafull-22&linkCode=osi&th=1&psc=1"
+        },
+        {
+          "title": "XREAL xbx a01+とXREAL Beam Pro 5G版(8+256GB) 空間エンタメセット",
+          "price": 72342,
+          "list_price": 87160,
+          "percent_off": 17,
+          "points": 0,
+          "points_percent": null,
+          "image": "https://m.media-amazon.com/images/I/31A3OgLTTrL._SL160_.jpg",
+          "url": "https://www.amazon.co.jp/dp/B0H7RJ4THB?tag=natafull-22&linkCode=osi&th=1&psc=1"
+        },
+        {
+          "title": "VITURE Luma AR/XRグラス 近視-6.0Dまで対応 146型 1200p 120Hz",
+          "price": 54800,
+          "list_price": 64880,
+          "percent_off": 16,
+          "points": 548,
+          "points_percent": 1,
+          "image": "https://m.media-amazon.com/images/I/31YbxA2lS2L._SL160_.jpg",
+          "url": "https://www.amazon.co.jp/dp/B0FFT61X6F?tag=natafull-22&linkCode=osi&th=1&psc=1"
+        },
+        {
+          "title": "MEIZU StarV View AR グラス スマートグラス ウェアラブル ディスプレイ USB-C Display port 対応 音漏れ低減スピーカー内蔵/視度調整機能付き(近視の方でもそのまま装着OK)/プロジェクター/120Hz (ネビュラノワール（グレー）)",
+          "price": 42330,
+          "list_price": 49800,
+          "percent_off": 15,
+          "points": 423,
+          "points_percent": 1,
+          "image": "https://m.media-amazon.com/images/I/315QODk1MsL._SL160_.jpg",
+          "url": "https://www.amazon.co.jp/dp/B0FZHM9RHH?tag=natafull-22&linkCode=osi&th=1&psc=1"
         }
       ]
     },

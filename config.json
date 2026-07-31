@@ -378,6 +378,71 @@
       ]
     },
     {
+      "name": "XR・ARグラス",
+      "keywords": [
+        "XREAL ARグラス",
+        "VITURE XRグラス",
+        "スマートグラス"
+      ],
+      "search_index": "Electronics",
+      "must_include_any": [
+        "ARグラス",
+        "XRグラス",
+        "AR/XRグラス",
+        "XR/ARグラス",
+        "ARメガネ",
+        "スマートグラス",
+        "スマートAIグラス",
+        "ヘッドセット",
+        "Quest",
+        "空間エンタメセット",
+        "XR グラス",
+        "AR グラス"
+      ],
+      "exclude_any": [
+        "モバイルドック",
+        "充電アダプター",
+        "充電アダプタ",
+        "XR充電",
+        "HDMIアダプター",
+        "レンズフード",
+        "充電ケース",
+        "カプセル充電器",
+        "サウンドチューブ",
+        "ストラップ",
+        "ケーブル",
+        "フィルム",
+        "コントローラー",
+        "収納ケース",
+        "整備済",
+        "Hub/",
+        "Eye/",
+        "変換アダプター",
+        "アクセサリー"
+      ],
+      "known_brands": [
+        "VITURE",
+        "XREAL",
+        "Rokid",
+        "RayNeo",
+        "Meta",
+        "MEIZU",
+        "DPVR",
+        "INMO",
+        "TCL",
+        "Xiaomi",
+        "シャオミ",
+        "エプソン",
+        "EPSON",
+        "Play For Dream",
+        "Sony",
+        "ソニー",
+        "HTC",
+        "Pico",
+        "ピコ"
+      ]
+    },
+    {
       "name": "キーボード・マウス",
       "keywords": [
         "ワイヤレスマウス",
