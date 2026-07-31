@@ -1,8 +1,18 @@
 {
+  "B0FQFLWSWZ": {
+    "first_seen": "2026-07-29",
+    "last_seen": "2026-07-31",
+    "title": "Apple iPhone Air 256GB (SIMフリー)：史上最薄のiPhone、最大120HzのProMotionを採用した6.5インチディスプレイ、パワフルなA19 Proチップ、センターフレームフロントカメラ、一日中使えるバッテリー；スペースブラック"
+  },
   "B0FQG1QPLW": {
     "first_seen": "2026-07-30",
     "last_seen": "2026-07-31",
     "title": "Apple iPhone Air 256GB (SIMフリー)：史上最薄のiPhone、最大120HzのProMotionを採用した6.5インチディスプレイ、パワフルなA19 Proチップ、センターフレームフロントカメラ、一日中使えるバッテリー；スカイブルー"
+  },
+  "B0DMVGKWBV": {
+    "first_seen": "2026-07-31",
+    "last_seen": "2026-07-31",
+    "title": "Apple 2024 iMac 8 コア CPU、8 コア GPU の M4 チップ搭載、24 インチ Retina ディスプレイ、 16GBユニファイドメモリ、256GBの SSD ストレージ - シルバー + 3年延長 AppleCare+ for iMac(M4)"
   },
   "B0FX458KV1": {
     "first_seen": "2026-07-30",
@@ -29,6 +39,11 @@
     "last_seen": "2026-07-31",
     "title": "Apple Watch Series 11(GPSモデル)- 42mmローズゴールドアルミニウムケースとライトブラッシュスポーツバンド - M/L、睡眠時無呼吸、高血圧パターン、血中酸素、心電図、排卵推定、心拍数、服薬、マインドフルネス、ノイズ、睡眠スコア、転倒検出、IPX6X防塵、泳げる耐水、Suica対応、高速充電対応"
   },
+  "B0D3J7HJYN": {
+    "first_seen": "2026-07-31",
+    "last_seen": "2026-07-31",
+    "title": "Apple 13インチiPad Pro（M5）用Magic Keyboard - 日本語 - ブラック ​​​​​​​"
+  },
   "B09QMCFQJL": {
     "first_seen": "2026-07-27",
     "last_seen": "2026-07-31",
@@ -53,11 +68,6 @@
     "first_seen": "2026-07-27",
     "last_seen": "2026-07-31",
     "title": "Anker Power Bank (30W, Fusion, Built-In USB-C ケーブル) ブラック"
-  },
-  "B0D53XSFR8": {
-    "first_seen": "2026-07-29",
-    "last_seen": "2026-07-31",
-    "title": "CIO モバイルバッテリー USB-Cケーブル内蔵 軽量 10000mAh SMARTCOBY Pro SLIM CABLE 35W (ブラック)"
   },
   "B0DT4RGDSJ": {
     "first_seen": "2026-07-27",
@@ -659,6 +669,11 @@
     "last_seen": "2026-07-31",
     "title": "フィリップス 電動歯ブラシ ソニッケアー 5300 ケアーを実感"
   },
+  "B0D53XSFR8": {
+    "first_seen": "2026-07-29",
+    "last_seen": "2026-07-31",
+    "title": "CIO モバイルバッテリー USB-Cケーブル内蔵 軽量 10000mAh SMARTCOBY Pro SLIM CABLE 35W (ブラック)"
+  },
   "B0FTZ46NF8": {
     "first_seen": "2026-07-29",
     "last_seen": "2026-07-31",
@@ -863,11 +878,6 @@
     "first_seen": "2026-07-30",
     "last_seen": "2026-07-30",
     "title": "パナソニック シェーバー ラムダッシュ PRO 6枚刃 メンズ 電動 髭剃り ラムダッシュAI⁺ 全自動洗浄充電器 ES-L690U-K クラフトブラック"
-  },
-  "B0FQFLWSWZ": {
-    "first_seen": "2026-07-29",
-    "last_seen": "2026-07-30",
-    "title": "Apple iPhone Air 256GB (SIMフリー)：史上最薄のiPhone、最大120HzのProMotionを採用した6.5インチディスプレイ、パワフルなA19 Proチップ、センターフレームフロントカメラ、一日中使えるバッテリー；スペースブラック"
   },
   "B0G4WJC4RW": {
     "first_seen": "2026-07-30",
@@ -1446,15 +1456,5 @@
     "first_seen": "2026-07-30",
     "last_seen": "2026-07-30",
     "title": "コイズミ カーリングドライヤー イオンバランス 大風量 1000W 温冷自動切替 ブラシ3種類 ヘアセット スタイリング ブラック KHC-5070/K"
-  },
-  "B0DMVGKWBV": {
-    "first_seen": "2026-07-31",
-    "last_seen": "2026-07-31",
-    "title": "Apple 2024 iMac 8 コア CPU、8 コア GPU の M4 チップ搭載、24 インチ Retina ディスプレイ、 16GBユニファイドメモリ、256GBの SSD ストレージ - シルバー + 3年延長 AppleCare+ for iMac(M4)"
-  },
-  "B0D3J7HJYN": {
-    "first_seen": "2026-07-31",
-    "last_seen": "2026-07-31",
-    "title": "Apple 13インチiPad Pro（M5）用Magic Keyboard - 日本語 - ブラック ​​​​​​​"
   }
 }
