@@ -194,6 +194,13 @@ def generate_html(data: dict) -> str:
 
     sections = []
 
+    # 「実質お得度」= 割引率 + ポイント還元率。fetch_deals.py の並び替えと
+    # 同じ基準を使い、サイト側でも順位が食い違わないようにする
+    def sort_key(b):
+        return (b.get("percent_off") or 0) + (b.get("points_percent") or 0)
+
+    today = fetched.date()
+
     # ジャンル横断のおすすめを最上部に置く。どのジャンルから来た商品か
     # 分かるようカードにジャンル名のバッジを添える
     top_deals = data.get("top_deals") or []
@@ -206,6 +213,41 @@ def generate_html(data: dict) -> str:
             '<summary><h2>⭐ お買い得now</h2></summary>\n'
             '<p class="cmeta">割引率とポイント還元率の合計が'
             '高い商品を選びました</p>\n'
+            f'<div class="grid">\n{cards}\n</div>\n'
+            '</details>'
+        )
+
+    # 新しくセール入りした商品をジャンル横断で集める。
+    # 林檎ポチと同じ考え方だが、こちらはセールの入れ替わりが速く、
+    # 7日窓だと掲載のほぼ全件が該当してしまうため窓をずっと短くする
+    new_days = CONFIG.get("new_arrival_days", 1)
+    new_max = CONFIG.get("new_arrivals_max", 12)
+    arrivals = []
+    for g in genres:
+        for b in g.get("items") or []:
+            since = b.get("since")
+            if not since:
+                continue
+            try:
+                elapsed = (today - datetime.date.fromisoformat(since)).days
+            except ValueError:
+                continue
+            if elapsed <= new_days:
+                arrivals.append((sort_key(b), g["name"], b))
+    if arrivals:
+        arrivals.sort(key=lambda x: x[0], reverse=True)
+        shown = arrivals[:new_max]
+        cards = "\n".join(render_book(b, badge=name) for _, name, b in shown)
+        more = (
+            f"（お得な順に{len(shown)}件を表示 / 全{len(arrivals)}件）"
+            if len(arrivals) > len(shown)
+            else f"（{len(arrivals)}件）"
+        )
+        sections.append(
+            '<details open id="new">\n'
+            '<summary><h2>🆕 新着セール</h2></summary>\n'
+            f'<p class="cmeta">直近{new_days + 1}日以内に'
+            f'セールを検出した商品です{more}</p>\n'
             f'<div class="grid">\n{cards}\n</div>\n'
             '</details>'
         )
