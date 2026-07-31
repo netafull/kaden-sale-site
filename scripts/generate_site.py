@@ -96,6 +96,36 @@ def esc(s):
     return html.escape(s or "", quote=True)
 
 
+def shorten_title(title: str) -> str:
+    """Appleのように説明文が長く、末尾に色名が付くタイトルを読めるようにする。
+
+    「iPhone Air 256GB(SIMフリー)：史上最薄の…一日中使えるバッテリー；
+    スカイブルー」のような形式は、カードが2行で省略されるため色名が消える。
+    その結果、色違いの2商品が同じカードに見えてしまう。
+    「：」以降の説明を畳み、末尾の色名だけを残す。
+    """
+    # 「；」で区切られた末尾に色名が来る形式だけを対象にする。
+    # 「：」以降を無条件に畳むと、MacBook Proのように型番やスペックが
+    # 「：」の後ろにある商品から情報が落ちてしまう
+    for csep in ("；", ";"):
+        if csep not in title:
+            continue
+        head, color = title.rsplit(csep, 1)
+        color = color.strip()
+        # 色名は短い語。長ければ説明文の一部なので採用しない
+        if not (0 < len(color) <= 14):
+            continue
+        # 説明文が長すぎて色名まで表示されないケースだけ畳む
+        if len(head) <= 40:
+            continue
+        for sep in ("：", ":"):
+            desc_head, found, _ = head.partition(sep)
+            if found and len(desc_head) >= 10:
+                return f"{desc_head.strip()} {color}"
+        return f"{head[:40].strip()}… {color}"
+    return title
+
+
 def render_book(item: dict, badge: str | None = None) -> str:
     """商品カードを組み立てる。
 
@@ -139,7 +169,7 @@ def render_book(item: dict, badge: str | None = None) -> str:
     return f"""<a class="book" href="{esc(item["url"])}" target="_blank" rel="noopener sponsored">
   {img_html}
   <div>
-    {badge_html}<div class="t">{esc(item["title"])}</div>
+    {badge_html}<div class="t">{esc(shorten_title(item["title"]))}</div>
     {brand}
     <div class="price"><span class="now">&yen;{int(item["price"]):,}</span>{was_html}{off_html}</div>
     {points_html}
