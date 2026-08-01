@@ -11,11 +11,11 @@
     "last_seen": "2026-08-01",
     "title": "Apple iPhone Air 512GB (SIMフリー)：史上最薄のiPhone、最大120HzのProMotionを採用した6.5インチディスプレイ、パワフルなA19 Proチップ、センターフレームフロントカメラ、一日中使えるバッテリー；スカイブルー"
   },
-  "B0GRTJ7DZK": {
-    "first_seen": "2026-08-01",
-    "first_seen_at": "2026-08-01T09:01:16+09:00",
+  "B0FQFLWSWZ": {
+    "first_seen": "2026-07-29",
+    "first_seen_at": "2026-07-29T12:00:00+09:00",
     "last_seen": "2026-08-01",
-    "title": "Apple 13インチiPad Air（M4）：Liquid Retinaディスプレイ、1TB、12MPフロント/バックカメラ、Apple N1によるWi-Fi 7 + 5Gモバイル通信、Touch ID、一日中使えるバッテリー — スペースグレイ + 2年延長 AppleCare+ for iPad Air 13-inch (M4)|ダウンロード版"
+    "title": "Apple iPhone Air 256GB (SIMフリー)：史上最薄のiPhone、最大120HzのProMotionを採用した6.5インチディスプレイ、パワフルなA19 Proチップ、センターフレームフロントカメラ、一日中使えるバッテリー；スペースブラック"
   },
   "B0FQG1QPLW": {
     "first_seen": "2026-07-30",
@@ -233,12 +233,6 @@
     "last_seen": "2026-08-01",
     "title": "Anker 523 Charger (Nano 3, 47W) ホワイト"
   },
-  "B0C5CBV6L3": {
-    "first_seen": "2026-07-29",
-    "first_seen_at": "2026-07-29T12:00:00+09:00",
-    "last_seen": "2026-08-01",
-    "title": "Anker Prime Wall Charger (67W, 3 ports, GaN) (ブラック)"
-  },
   "B0D53VKL36": {
     "first_seen": "2026-07-29",
     "first_seen_at": "2026-07-29T12:00:00+09:00",
@@ -448,12 +442,6 @@
     "first_seen_at": "2026-07-30T12:00:00+09:00",
     "last_seen": "2026-08-01",
     "title": "【Works with Alexa認定】SwitchBot 防犯カメラ 300万画素 監視カメラ アプリ通知 遠隔確認 動体検知 自動追跡 ナイトビジョン 双方向音声通話 パン/チルト カラーナイトビジョン 室内 スイッチボット 見守りカメラ Plus 3MP 3年保証"
-  },
-  "B09Z6LW8XW": {
-    "first_seen": "2026-07-30",
-    "first_seen_at": "2026-07-30T12:00:00+09:00",
-    "last_seen": "2026-08-01",
-    "title": "SwitchBot LEDシーリングライト 8畳 Alexa 無段階 調光調色 スイッチボット 天井 照明器具 4000lm リモコン付き ハブ機能付き 電球色 昼白色 昼光色 取付簡単 防虫 防塵 省エネ 節電対策 2.4GHzWi-Fi Bluetoothに対応 5年保証 W2612240"
   },
   "B0GQRLL8Q4": {
     "first_seen": "2026-07-30",
@@ -857,6 +845,12 @@
     "last_seen": "2026-08-01",
     "title": "パナソニック ラムダッシュ パームインシェーバー メンズシェーバー コンパクト ベーシックタイプ 5枚刃 マットブラック ES-PV3A-K"
   },
+  "B0FQ3G4HYB": {
+    "first_seen": "2026-07-26",
+    "first_seen_at": "2026-07-26T12:00:00+09:00",
+    "last_seen": "2026-08-01",
+    "title": "ブラウン メンズシェーバー シリーズ5 アズールブルー 防水 充電式 52-A1200s"
+  },
   "B0DB48CFG7": {
     "first_seen": "2026-07-26",
     "first_seen_at": "2026-07-26T12:00:00+09:00",
@@ -881,11 +875,23 @@
     "last_seen": "2026-08-01",
     "title": "フィリップス 電動歯ブラシ ソニッケアー 5300 ケアーを実感"
   },
-  "B0FQFLWSWZ": {
-    "first_seen": "2026-07-29",
+  "B0GRTJ7DZK": {
+    "first_seen": "2026-08-01",
+    "first_seen_at": "2026-08-01T09:01:16+09:00",
     "last_seen": "2026-08-01",
-    "title": "Apple iPhone Air 256GB (SIMフリー)：史上最薄のiPhone、最大120HzのProMotionを採用した6.5インチディスプレイ、パワフルなA19 Proチップ、センターフレームフロントカメラ、一日中使えるバッテリー；スペースブラック",
-    "first_seen_at": "2026-07-29T12:00:00+09:00"
+    "title": "Apple 13インチiPad Air（M4）：Liquid Retinaディスプレイ、1TB、12MPフロント/バックカメラ、Apple N1によるWi-Fi 7 + 5Gモバイル通信、Touch ID、一日中使えるバッテリー — スペースグレイ + 2年延長 AppleCare+ for iPad Air 13-inch (M4)|ダウンロード版"
+  },
+  "B0C5CBV6L3": {
+    "first_seen": "2026-07-29",
+    "first_seen_at": "2026-07-29T12:00:00+09:00",
+    "last_seen": "2026-08-01",
+    "title": "Anker Prime Wall Charger (67W, 3 ports, GaN) (ブラック)"
+  },
+  "B09Z6LW8XW": {
+    "first_seen": "2026-07-30",
+    "first_seen_at": "2026-07-30T12:00:00+09:00",
+    "last_seen": "2026-08-01",
+    "title": "SwitchBot LEDシーリングライト 8畳 Alexa 無段階 調光調色 スイッチボット 天井 照明器具 4000lm リモコン付き ハブ機能付き 電球色 昼白色 昼光色 取付簡単 防虫 防塵 省エネ 節電対策 2.4GHzWi-Fi Bluetoothに対応 5年保証 W2612240"
   },
   "B0DFWFXKT4": {
     "first_seen": "2026-08-01",
@@ -1768,12 +1774,6 @@
     "last_seen": "2026-07-27",
     "title": "COSORI コソリ ノンフライヤー 2L 一人用 エアフライヤー オイル97％カット ミニ 卓上 フライヤー ブラック CAF-LI211-KJP",
     "first_seen_at": "2026-07-25T12:00:00+09:00"
-  },
-  "B0FQ3G4HYB": {
-    "first_seen": "2026-07-26",
-    "last_seen": "2026-07-26",
-    "title": "ブラウン メンズシェーバー シリーズ5 アズールブルー 防水 充電式 52-A1200s",
-    "first_seen_at": "2026-07-26T12:00:00+09:00"
   },
   "B0GHNVZBR2": {
     "first_seen": "2026-07-25",
