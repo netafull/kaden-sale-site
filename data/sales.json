@@ -1,53 +1,6 @@
 {
-  "fetched_at": "2026-08-01T00:01:16.261989+00:00",
+  "fetched_at": "2026-08-01T00:28:02.829396+00:00",
   "min_saving_percent": 15,
-  "top_deals": [
-    {
-      "asin": "B0G4CC1S2F",
-      "title": "アイリスオーヤマ フライヤー 過熱水蒸気 ノンオイルフライヤー FV-M30A-C アイボリー",
-      "brand": "アイリスオーヤマ(IRIS OHYAMA)",
-      "price": 7800,
-      "list_price": 12800,
-      "percent_off": 39,
-      "points": 780,
-      "points_percent": 10,
-      "image": "https://m.media-amazon.com/images/I/3169gfWTJ3L._SL160_.jpg",
-      "url": "https://www.amazon.co.jp/dp/B0G4CC1S2F?tag=natafull-22&linkCode=osi&th=1&psc=1",
-      "since": "2026-07-24",
-      "since_at": "2026-07-24T12:00:00+09:00",
-      "genre": "エアフライヤー"
-    },
-    {
-      "asin": "B098SQSRRV",
-      "title": "Belkin USB充電器 40W iPhone17,16～12 デュアルUSB-C(20W x 2) PD3.0 急速充電対応 ホワイト WCB006dqWHJP",
-      "brand": "Belkin",
-      "price": 1400,
-      "list_price": 2660,
-      "percent_off": 47,
-      "points": 14,
-      "points_percent": 1,
-      "image": "https://m.media-amazon.com/images/I/21HyEB6vHDL._SL160_.jpg",
-      "url": "https://www.amazon.co.jp/dp/B098SQSRRV?tag=natafull-22&linkCode=osi&th=1&psc=1",
-      "since": "2026-07-31",
-      "since_at": "2026-07-31T12:00:00+09:00",
-      "genre": "充電器"
-    },
-    {
-      "asin": "B07SQ1LBYK",
-      "title": "サンワサプライ カーチャージャー(1ポート・2.4A) スマホ・タブレット対応 CAR-CHR73U",
-      "brand": "サンワサプライ(Sanwa Supply)",
-      "price": 717,
-      "list_price": 1210,
-      "percent_off": 41,
-      "points": 7,
-      "points_percent": 1,
-      "image": "https://m.media-amazon.com/images/I/41pIL+o+qAL._SL160_.jpg",
-      "url": "https://www.amazon.co.jp/dp/B07SQ1LBYK?tag=natafull-22&linkCode=osi&th=1&psc=1",
-      "since": "2026-07-27",
-      "since_at": "2026-07-27T12:00:00+09:00",
-      "genre": "充電器"
-    }
-  ],
   "genres": [
     {
       "name": "Apple製品",
@@ -1306,6 +1259,20 @@
           "since_at": "2026-07-31T12:00:00+09:00"
         },
         {
+          "asin": "B0G34SQSDD",
+          "title": "DPVR G1 AI スマートグラス 翻訳 141言語対応 HD 800万画素カメラ付きメガネ 32Gb 調光レンズ搭載 AI画像認識 メガネ型カメラ オーディオグラス スマートグラス iPhone対応 Android対応",
+          "brand": "DPVR",
+          "price": 11999,
+          "list_price": 14390,
+          "percent_off": 17,
+          "points": 0,
+          "points_percent": null,
+          "image": "https://m.media-amazon.com/images/I/41uj3ClDLlL._SL160_.jpg",
+          "url": "https://www.amazon.co.jp/dp/B0G34SQSDD?tag=natafull-22&linkCode=osi&th=1&psc=1",
+          "since": "2026-07-31",
+          "since_at": "2026-07-31T12:00:00+09:00"
+        },
+        {
           "asin": "B0H7RJ4THB",
           "title": "XREAL xbx a01+とXREAL Beam Pro 5G版(8+256GB) 空間エンタメセット",
           "brand": "XREAL",
@@ -1334,20 +1301,6 @@
           "since_at": "2026-07-31T12:00:00+09:00"
         },
         {
-          "asin": "B0G34SQSDD",
-          "title": "DPVR G1 AI スマートグラス 翻訳 141言語対応 HD 800万画素カメラ付きメガネ 32Gb 調光レンズ搭載 AI画像認識 メガネ型カメラ オーディオグラス スマートグラス iPhone対応 Android対応",
-          "brand": "DPVR",
-          "price": 11999,
-          "list_price": 14390,
-          "percent_off": 17,
-          "points": 0,
-          "points_percent": null,
-          "image": "https://m.media-amazon.com/images/I/41uj3ClDLlL._SL160_.jpg",
-          "url": "https://www.amazon.co.jp/dp/B0G34SQSDD?tag=natafull-22&linkCode=osi&th=1&psc=1",
-          "since": "2026-07-31",
-          "since_at": "2026-07-31T12:00:00+09:00"
-        },
-        {
           "asin": "B0FHQ9DZZJ",
           "title": "XREAL One Pro ARグラス｜X1チップ＆X-Prism光学搭載｜ネイティブ3DoF対応｜3Dリアル変換機能｜57°の広視野角・最大428インチ相当・FHD・最大120Hz表示｜iPhone 17/16/15（※eシリーズ除く）、Steam Deck、ROG、Mac、PC、Android & iOS対応｜IPD（瞳孔間距離）に合わせた2サイズ展開［M (IPD 57-66mm)］",
           "brand": "XREAL",
@@ -1359,7 +1312,7 @@
           "image": "https://m.media-amazon.com/images/I/31ISvY+PjPL._SL160_.jpg",
           "url": "https://www.amazon.co.jp/dp/B0FHQ9DZZJ?tag=natafull-22&linkCode=osi&th=1&psc=1",
           "since": "2026-08-01",
-          "since_at": "2026-08-01T09:01:16+09:00"
+          "since_at": "2026-08-01T09:28:02+09:00"
         },
         {
           "asin": "B0FZHM9RHH",

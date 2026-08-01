@@ -201,28 +201,17 @@ def generate_html(data: dict) -> str:
 
     today = fetched.date()
 
-    # ジャンル横断のおすすめを最上部に置く。どのジャンルから来た商品か
-    # 分かるようカードにジャンル名のバッジを添える
-    top_deals = data.get("top_deals") or []
-    if top_deals:
-        cards = "\n".join(
-            render_book(b, badge=b.get("genre")) for b in top_deals
-        )
-        sections.append(
-            '<details open id="top">\n'
-            '<summary><h2>⭐ お買い得now</h2></summary>\n'
-            '<p class="cmeta">割引率とポイント還元率の合計が'
-            '高い商品を選びました</p>\n'
-            f'<div class="grid">\n{cards}\n</div>\n'
-            '</details>'
-        )
-
     # 新しくセール入りした商品をジャンル横断で集める。
     # 林檎ポチと同じ考え方だが、こちらはセールの入れ替わりが速く、
     # 7日窓だと掲載のほぼ全件が該当してしまうため窓をずっと短くする
     new_hours = CONFIG.get("new_arrival_hours", 12)
+    # ガジェット中心に見せるため、値引き率が構造的に大きく上位を占めやすい
+    # 消耗品系のジャンルは最上部の枠から外す(各ジャンルの節では通常どおり出る)
+    excluded = set(CONFIG.get("new_arrival_exclude_genres") or [])
     arrivals = []
     for g in genres:
+        if g["name"] in excluded:
+            continue
         for b in g.get("items") or []:
             at = b.get("since_at")
             if at:

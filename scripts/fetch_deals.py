@@ -586,36 +586,6 @@ def main() -> int:
         json.dumps(new_state, ensure_ascii=False, indent=2), encoding="utf-8"
     )
 
-    # 「お買い得now」: ジャンル横断で実質お得度が高い商品を選ぶ。
-    # 毎時の実行ごとに選び直すため、日付ではなく「今この時点で最もお得」を示す。
-    # 1ジャンルに偏らないよう同一ジャンルからは最大2件までに制限する。
-    # top_deals_exclude_genresに挙げたジャンルは対象外にする(値引き率が
-    # 常に高く上位を独占してしまうジャンルを除くため)
-    top_n = config.get("top_deals_count", 6)
-    per_genre_cap = config.get("top_deals_per_genre", 2)
-    excluded = set(config.get("top_deals_exclude_genres") or [])
-    ranked = sorted(
-        (
-            (g["name"], item)
-            for g in genres
-            if g["name"] not in excluded
-            for item in g["items"]
-        ),
-        key=lambda x: sort_key(x[1]),
-        reverse=True,
-    )
-    top_deals = []
-    genre_used: dict = {}
-    for gname, item in ranked:
-        if genre_used.get(gname, 0) >= per_genre_cap:
-            continue
-        genre_used[gname] = genre_used.get(gname, 0) + 1
-        top_deals.append(dict(item, genre=gname))
-        if len(top_deals) >= top_n:
-            break
-    if top_deals:
-        print(f"お買い得now: {len(top_deals)}件 (実質{sort_key(top_deals[0])}%〜)")
-
     OUTPUT_PATH.parent.mkdir(parents=True, exist_ok=True)
     OUTPUT_PATH.write_text(
         json.dumps(
@@ -624,7 +594,6 @@ def main() -> int:
                     datetime.timezone.utc
                 ).isoformat(),
                 "min_saving_percent": min_saving,
-                "top_deals": top_deals,
                 "genres": genres,
             },
             ensure_ascii=False,

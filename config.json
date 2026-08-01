@@ -24,6 +24,10 @@
   "min_saving_percent": 15,
   "pages_per_genre": 4,
   "new_arrival_hours": 12,
+  "new_arrival_exclude_genres": [
+    "電気シェーバー",
+    "電動歯ブラシ"
+  ],
   "genres": [
     {
       "name": "Apple製品",
@@ -595,12 +599,6 @@
         "OMRON"
       ]
     }
-  ],
-  "top_deals_count": 3,
-  "top_deals_per_genre": 2,
-  "top_deals_exclude_genres": [
-    "電気シェーバー",
-    "電動歯ブラシ"
   ],
   "policy_url": "https://netaful.jp/policy.html"
 }
