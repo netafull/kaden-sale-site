@@ -526,6 +526,8 @@ WIDGET_JS = r"""(function () {
       ".dpy-img{width:52px;height:52px;object-fit:contain;border-radius:4px;flex-shrink:0;background:#e5e2dc;}",
       ".dpy-ph{width:52px;height:52px;border-radius:4px;flex-shrink:0;background:#e5e2dc;}",
       ".dpy-info{min-width:0;flex:1;}",
+      ".dpy-head{margin-bottom:2px;}",
+      ".dpy-new{display:inline-block;font-size:9px;font-weight:700;color:#fff;background:#0a7d3c;border-radius:3px;padding:0 4px;line-height:1.5;}",
       ".dpy-title{font-size:13px;font-weight:600;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden;}",
       ".dpy-price{margin-top:4px;font-size:13px;}",
       ".dpy-now{font-weight:700;color:#d0342c;}",
@@ -566,6 +568,12 @@ WIDGET_JS = r"""(function () {
     }
 
     var info = el("div", { className: "dpy-info" });
+    // 本体サイトと同じく、直近にセール入りした商品に印を付ける
+    if (book.is_new) {
+      var head = el("div", { className: "dpy-head" });
+      head.appendChild(el("span", { className: "dpy-new", text: "NEW" }));
+      info.appendChild(head);
+    }
     info.appendChild(el("div", { className: "dpy-title", text: book.title || "" }));
 
     var price = el("div", { className: "dpy-price" });
@@ -687,13 +695,28 @@ def generate_widget_data(data: dict) -> dict:
         return (item.get("percent_off") or 0) + (item.get("points_percent") or 0)
 
     pool_per_genre = CONFIG.get("widget_pool_per_genre", 8)
+    # 本体の「新着セール」で外しているジャンルはウィジェットにも出さない。
+    # ガジェット中心に見せる方針を埋め込み先でも揃えるため
+    excluded = set(CONFIG.get("new_arrival_exclude_genres") or [])
+    new_hours = CONFIG.get("new_arrival_hours", 12)
+    generated = datetime.datetime.fromisoformat(data["fetched_at"]).astimezone(
+        datetime.timezone(datetime.timedelta(hours=9))
+    )
+    today = generated.date()
 
     genre_pools = []
     for g in genres:
+        if g["name"] in excluded:
+            continue
         items = sorted(g.get("items") or [], key=savings, reverse=True)
         books = [
             {
-                "title": b.get("title"),
+                # 本体と同じくタイトルを整理する。iPhone Airのように
+                # 末尾の色名が省略で消えると色違いが同じ商品に見えるため
+                "title": shorten_title(b.get("title") or ""),
+                "is_new": (lambda h: h is not None and h <= new_hours)(
+                    hours_since(b, generated, today)
+                ),
                 "price": b.get("price"),
                 "list_price": b.get("list_price"),
                 "percent_off": b.get("percent_off"),

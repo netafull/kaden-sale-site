@@ -47,6 +47,8 @@
       ".dpy-img{width:52px;height:52px;object-fit:contain;border-radius:4px;flex-shrink:0;background:#e5e2dc;}",
       ".dpy-ph{width:52px;height:52px;border-radius:4px;flex-shrink:0;background:#e5e2dc;}",
       ".dpy-info{min-width:0;flex:1;}",
+      ".dpy-head{margin-bottom:2px;}",
+      ".dpy-new{display:inline-block;font-size:9px;font-weight:700;color:#fff;background:#0a7d3c;border-radius:3px;padding:0 4px;line-height:1.5;}",
       ".dpy-title{font-size:13px;font-weight:600;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden;}",
       ".dpy-price{margin-top:4px;font-size:13px;}",
       ".dpy-now{font-weight:700;color:#d0342c;}",
@@ -87,6 +89,12 @@
     }
 
     var info = el("div", { className: "dpy-info" });
+    // 本体サイトと同じく、直近にセール入りした商品に印を付ける
+    if (book.is_new) {
+      var head = el("div", { className: "dpy-head" });
+      head.appendChild(el("span", { className: "dpy-new", text: "NEW" }));
+      info.appendChild(head);
+    }
     info.appendChild(el("div", { className: "dpy-title", text: book.title || "" }));
 
     var price = el("div", { className: "dpy-price" });

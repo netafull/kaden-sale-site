@@ -8,6 +8,7 @@
       "books": [
         {
           "title": "11インチiPad Pro Wi‑Fiモデル 2TB（標準ガラス搭載）- シルバー + AppleCare+ for 11インチiPad Pro（M5）",
+          "is_new": true,
           "price": 295440,
           "list_price": null,
           "percent_off": 28,
@@ -17,7 +18,8 @@
           "url": "https://www.amazon.co.jp/dp/B0FX46NSHB?tag=natafull-22&linkCode=ogi&th=1&psc=1"
         },
         {
-          "title": "Apple iPhone Air 512GB (SIMフリー)：史上最薄のiPhone、最大120HzのProMotionを採用した6.5インチディスプレイ、パワフルなA19 Proチップ、センターフレームフロントカメラ、一日中使えるバッテリー；スカイブルー",
+          "title": "Apple iPhone Air 512GB (SIMフリー) スカイブルー",
+          "is_new": false,
           "price": 156800,
           "list_price": 212800,
           "percent_off": 26,
@@ -28,6 +30,7 @@
         },
         {
           "title": "Apple 13インチiPad Air（M4）：Liquid Retinaディスプレイ、1TB、12MPフロント/バックカメラ、Apple N1によるWi-Fi 7 + 5Gモバイル通信、Touch ID、一日中使えるバッテリー — スペースグレイ + 2年延長 AppleCare+ for iPad Air 13-inch (M4)|ダウンロード版",
+          "is_new": true,
           "price": 244066,
           "list_price": 315600,
           "percent_off": 23,
@@ -37,7 +40,8 @@
           "url": "https://www.amazon.co.jp/dp/B0GRTJ7DZK?tag=natafull-22&linkCode=ogi&th=1&psc=1"
         },
         {
-          "title": "Apple iPhone Air 256GB (SIMフリー)：史上最薄のiPhone、最大120HzのProMotionを採用した6.5インチディスプレイ、パワフルなA19 Proチップ、センターフレームフロントカメラ、一日中使えるバッテリー；スカイブルー",
+          "title": "Apple iPhone Air 256GB (SIMフリー) スカイブルー",
+          "is_new": false,
           "price": 139800,
           "list_price": 177800,
           "percent_off": 21,
@@ -48,6 +52,7 @@
         },
         {
           "title": "Apple 2024 iMac 8 コア CPU、8 コア GPU の M4 チップ搭載、24 インチ Retina ディスプレイ、 16GBユニファイドメモリ、256GBの SSD ストレージ - シルバー + 3年延長 AppleCare+ for iMac(M4)",
+          "is_new": false,
           "price": 225600,
           "list_price": 279600,
           "percent_off": 19,
@@ -58,6 +63,7 @@
         },
         {
           "title": "Apple AirPods Pro 3 ワイヤレスイヤホン、アクティブノイズキャンセリング、ライブ翻訳、心拍センサー、補聴機能、Bluetoothヘッドホン、空間オーディオ サウンド、USB-C充電ケース、防塵性能と耐汗耐水性能、「探す」対応、Qi充電",
+          "is_new": false,
           "price": 36800,
           "list_price": 42800,
           "percent_off": 14,
@@ -68,6 +74,7 @@
         },
         {
           "title": "Apple 2026 MacBook Pro 15コアCPU、16コアGPUのM5 Proチップ搭載ノートパソコン：AIのために設計、14.2インチLiquid Retina XDRディスプレイ、24GBユニファイドメモリ、1TBのSSDストレージ - スペースブラック",
+          "is_new": true,
           "price": 365297,
           "list_price": 429799,
           "percent_off": 15,
@@ -78,6 +85,7 @@
         },
         {
           "title": "Apple Watch Series 11(GPSモデル)- 46mmジェットブラックアルミニウムケースとブラックスポーツバンド - M/L、睡眠時無呼吸、高血圧パターン、血中酸素、心電図、排卵推定、心拍数、服薬、マインドフルネス、ノイズ、睡眠スコア、転倒検出、IPX6X防塵、泳げる耐水、Suica対応、高速充電対応",
+          "is_new": false,
           "price": 67800,
           "list_price": 76800,
           "percent_off": 12,
@@ -93,6 +101,7 @@
       "books": [
         {
           "title": "オーディオテクニカ ATH-M20xBT ワイヤレスヘッドホン Bluetooth 有線対応 ヘッドフォン 40mmCCAWボイスコイルドライバー 216gの軽量ボディ マルチポイント 低遅延モード 最大60時間再生 ハンズフリー通話 【国内正規品】 ブラック",
+          "is_new": false,
           "price": 9000,
           "list_price": 12100,
           "percent_off": 26,
@@ -103,6 +112,7 @@
         },
         {
           "title": "【Amazon.co.jp 限定】JBL TOUR PRO 3 ワイヤレスイヤホン bluetooth/ハイブリッドノイズキャンセリング/ハイレゾワイヤレスLDAC/デュアルドライバー/マルチポイント/防塵・防水/ワイヤレス充電対応/スマートタッチディスプレイ搭載/ネイビー /JBLTOURPRO3BLU",
+          "is_new": false,
           "price": 26980,
           "list_price": 36000,
           "percent_off": 25,
@@ -113,6 +123,7 @@
         },
         {
           "title": "Bose QuietComfort Ultra Earbuds (第2世代) ワイヤレス ノイズキャンセリング Bluetooth イヤホン 最長6時間連続再生 IPX4規格準拠 イマーシブオーディオ 迫力の重低音 ブラック",
+          "is_new": false,
           "price": 36000,
           "list_price": 39600,
           "percent_off": 9,
@@ -123,6 +134,7 @@
         },
         {
           "title": "Xiaomi シャオミ REDMI Buds 8 Lite ワイヤレスイヤホン Bluetooth 5.4 ノイズキャンセリング ANC 36時間再生",
+          "is_new": false,
           "price": 2980,
           "list_price": 3480,
           "percent_off": 14,
@@ -138,6 +150,7 @@
       "books": [
         {
           "title": "Anker Power Bank (30W, Fusion, Built-In USB-C ケーブル) ブラック",
+          "is_new": false,
           "price": 3990,
           "list_price": 5990,
           "percent_off": 33,
@@ -148,6 +161,7 @@
         },
         {
           "title": "Anker Power Bank (25000mAh, Built-In & 巻取り式USB-Cケーブル) ブラック",
+          "is_new": false,
           "price": 10490,
           "list_price": 14990,
           "percent_off": 30,
@@ -158,6 +172,7 @@
         },
         {
           "title": "UGREEN 145W モバイルバッテリー 25000mAh大容量 3ポート USB-C×2 USB-A×1 240W ケーブル付",
+          "is_new": false,
           "price": 9980,
           "list_price": 13980,
           "percent_off": 29,
@@ -168,6 +183,7 @@
         },
         {
           "title": "Anker Power Bank (10000mAh, Fusion, Built-In USB-C ケーブル) ブラック",
+          "is_new": false,
           "price": 5990,
           "list_price": 7990,
           "percent_off": 25,
@@ -178,6 +194,7 @@
         },
         {
           "title": "UGREEN Air モバイルバッテリー マグネット式ワイヤレス充電 超薄型 MagSafe対応 5000mAh PB580 ダークグレー",
+          "is_new": false,
           "price": 4485,
           "list_price": 5980,
           "percent_off": 25,
@@ -188,6 +205,7 @@
         },
         {
           "title": "UGREEN MagFlow Qi2 25W認証 モバイルバッテリー Magsafe対応 マグネット式ワイヤレス急速充電 20000mAh ブラック",
+          "is_new": false,
           "price": 8990,
           "list_price": 11980,
           "percent_off": 25,
@@ -198,6 +216,7 @@
         },
         {
           "title": "Anker Zolo Power Bank (20000mAh, 45W, Built-In USB-Cケーブル) ブラック",
+          "is_new": false,
           "price": 4490,
           "list_price": 5990,
           "percent_off": 25,
@@ -208,6 +227,7 @@
         },
         {
           "title": "UGREEN 100W モバイルバッテリー 20000mAh 大容量 3ポート USB-C×2 USB-A×1",
+          "is_new": false,
           "price": 7480,
           "list_price": 9999,
           "percent_off": 25,
@@ -223,6 +243,7 @@
       "books": [
         {
           "title": "Belkin USB充電器 40W iPhone17,16～12 デュアルUSB-C(20W x 2) PD3.0 急速充電対応 ホワイト WCB006dqWHJP",
+          "is_new": false,
           "price": 1400,
           "list_price": 2660,
           "percent_off": 47,
@@ -233,6 +254,7 @@
         },
         {
           "title": "サンワサプライ カーチャージャー(1ポート・2.4A) スマホ・タブレット対応 CAR-CHR73U",
+          "is_new": false,
           "price": 717,
           "list_price": 1210,
           "percent_off": 41,
@@ -243,6 +265,7 @@
         },
         {
           "title": "【VGP受賞】Belkin 充電器 USB-C 2ポート PPS規格対応 GaN採用 小型 ACアダプター タイプC 急速充電 軽量【PD3.0対応 /PSE認証/折りたたみ式プラグ】45W(25W+20W) MacBook Windows PC Surface Pro iPad iPhone 17,16～12対応 Galaxy Android スマホ 各種ノートPC対応 WCH011dqWH",
+          "is_new": false,
           "price": 2918,
           "list_price": 4829,
           "percent_off": 40,
@@ -253,6 +276,7 @@
         },
         {
           "title": "Belkin Qi2 車載ワイヤレス充電器 15W急速充電 MagSafe対応 スマホホルダー エアコン吹き出し口用",
+          "is_new": false,
           "price": 3827,
           "list_price": 5990,
           "percent_off": 36,
@@ -263,6 +287,7 @@
         },
         {
           "title": "CIO NovaPort TRIOⅡ 65W 3C PD急速充電器 USB-C×3 3台同時充電 軽量 世界最小級 (ブラック)",
+          "is_new": false,
           "price": 4380,
           "list_price": 6688,
           "percent_off": 35,
@@ -273,6 +298,7 @@
         },
         {
           "title": "CIO NovaPort TRIOⅡ 65W 2C1A PD急速充電器 USB-C×2+USB-A×1 3台同時充電 世界最小級（ブラック）",
+          "is_new": false,
           "price": 4380,
           "list_price": 6589,
           "percent_off": 34,
@@ -283,6 +309,7 @@
         },
         {
           "title": "Anker Nano Charger (70W, 3 Ports) ブラック",
+          "is_new": false,
           "price": 3990,
           "list_price": 5990,
           "percent_off": 33,
@@ -293,6 +320,7 @@
         },
         {
           "title": "UGREEN 100W PD 急速充電器 USB-C×4/USB-A×1 タッチモニター搭載 PSE認証済",
+          "is_new": false,
           "price": 5980,
           "list_price": 8980,
           "percent_off": 33,
@@ -308,6 +336,7 @@
       "books": [
         {
           "title": "Amazon限定 バッファロー microSD 128GB 100MB/s U1 microSD V10 A1 RMSD-128U11HA/N",
+          "is_new": false,
           "price": 5789,
           "list_price": 9980,
           "percent_off": 42,
@@ -318,6 +347,7 @@
         },
         {
           "title": "Lexar Silver Plus 128GB Micro SDカード 最大205MB/s MicroSDXC UHS-Iフラッシュメモリーカード アダプター付き C10 U3 A2 V30対応 フルHD 4K UHD 高速TFカード ドローン アクションカメラ 携帯型ゲーム機対応",
+          "is_new": false,
           "price": 5980,
           "list_price": 8500,
           "percent_off": 30,
@@ -328,6 +358,7 @@
         },
         {
           "title": "Lexar Silver Plus Micro SDカード 512GB 最大読み取り速度205MB/秒 書き込み速度150MB/秒 SDアダプター付き UHS-I A2 U3 V30 Class10 4K UHD MicroSDXC",
+          "is_new": false,
           "price": 17980,
           "list_price": 22500,
           "percent_off": 20,
@@ -338,6 +369,7 @@
         },
         {
           "title": "【 サンディスク 正規品 】 SanDisk microSD カード Ultra SDSQUAB-128G-GH3MA 簡易デザインパッケージ",
+          "is_new": false,
           "price": 3944,
           "list_price": 4890,
           "percent_off": 19,
@@ -348,6 +380,7 @@
         },
         {
           "title": "エレコム microSD 32GB マイクロSDカード UHS-1 U1 microSDHC IPX7 MF-AMS032GU11",
+          "is_new": false,
           "price": 1680,
           "list_price": 2080,
           "percent_off": 19,
@@ -358,6 +391,7 @@
         },
         {
           "title": "KIOXIA(キオクシア) 旧東芝メモリ microSD 128GB UHS-I Class10 (最大読出速度100MB/s) Nintendo Switch動作確認済 国内サポート正規品 メーカー保証5年 KLMEA128G",
+          "is_new": false,
           "price": 2205,
           "list_price": 2680,
           "percent_off": 18,
@@ -368,6 +402,7 @@
         },
         {
           "title": "【Amazon.co.jp限定】SanDisk SSD 外付け SDSSDE61-2T00-GH25 エクストリーム エコパッケージ",
+          "is_new": false,
           "price": 62290,
           "list_price": 72889,
           "percent_off": 15,
@@ -378,6 +413,7 @@
         },
         {
           "title": "【Amazon.co.jp限定】SanDisk SSD 外付け SDSSDE81-4T00-GH25 エクストリームプロ エコパッケージ",
+          "is_new": false,
           "price": 124770,
           "list_price": 145778,
           "percent_off": 14,
@@ -393,6 +429,7 @@
       "books": [
         {
           "title": "【節電対策】SwitchBot サーキュレーター 静音22dB コードレス 最大50時間 - スイッチボット ~30畳 Alexa対応 扇風機 DCモーター 3D首振り 無段階風量調整 充電式バッテリー搭載 リモコン付き 梅雨対策 省エネ",
+          "is_new": false,
           "price": 8780,
           "list_price": 13980,
           "percent_off": 37,
@@ -403,6 +440,7 @@
         },
         {
           "title": "SwitchBot LED電球 スマートライト Alexa スマートホーム - スマート電球 E26 スイッチボット 調光調色 広配光 800lm 60W形相当 電球色・昼白色対応 RGBCWマルチカラー 1600万色 間接照明 Google Home IFTTT イフト Siri SmartThings に対応(2個パック)",
+          "is_new": false,
           "price": 2710,
           "list_price": 3780,
           "percent_off": 28,
@@ -413,6 +451,7 @@
         },
         {
           "title": "【2025進化】 SwitchBot ロボット掃除機 K11+ 超小型 - 高精度マッピング 6000pa強力吸引 水拭き 使い捨て掃除シート30枚付き 禁止エリア 静音設計 遠隔操作 自動充電 落下防止 2.4GWi-Fi対応 Alexa Google Home IFTTT Siriに対応",
+          "is_new": false,
           "price": 37800,
           "list_price": 48851,
           "percent_off": 23,
@@ -423,6 +462,7 @@
         },
         {
           "title": "SwitchBot 空気清浄機Table スマートリモコン ハブ2 アレクサ - スイッチボット 25畳 小型 省エネ 大風量 360度全方位 浄化 消臭 除菌 集じん HEPA フィルター 花粉 ニオイ対策 タイマー機能 Alexa Google Home Siriに対応 (空気清浄機Table 1点+ハブ2 1点)",
+          "is_new": false,
           "price": 30200,
           "list_price": 39780,
           "percent_off": 24,
@@ -433,6 +473,7 @@
         },
         {
           "title": "SwitchBot RGBIC フロアライト LED スタンドライト - スイッチボット 間接照明 スタンド フロアランプ おしゃれ 寝室 照明 RGB 1600万色 電球色 昼白色 昼光色 マルチカラー 無段階 調光調色 Wi-Fi Bluetooth Matter Alexa Google Home Siriに対応",
+          "is_new": false,
           "price": 6980,
           "list_price": 8980,
           "percent_off": 22,
@@ -443,6 +484,7 @@
         },
         {
           "title": "SwitchBot スイッチボット スイッチ ボタンに適用 指ロボット スマートスイッチ スマートホーム ワイヤレス タイマー スマホで遠隔操作 Alexa, Google Home, Siri, IFTTTなどに対応(ハブ必要) ホワイト",
+          "is_new": false,
           "price": 3927,
           "list_price": 4980,
           "percent_off": 21,
@@ -453,6 +495,7 @@
         },
         {
           "title": "【Compatible with Alexa認定】SwitchBot 防犯カメラ 屋外 300万画素 充電式 - ソーラーパネル 取付金具付き 監視カメラ 大容量バッテリー 取付簡単 夜間カラー撮影 動体検知 双方向音声通話 IP65防水防塵 ソーラー充電 省エネルギー スマートホーム スイッチボット 防犯対策補助金あり 屋外カメラ3MP(ソーラーパネル・取付金具付き)",
+          "is_new": false,
           "price": 8784,
           "list_price": 10980,
           "percent_off": 20,
@@ -463,6 +506,7 @@
         },
         {
           "title": "SwitchBot 学習リモコン エアコンリモコン 家電自動化 Alexa ‐ スイッチボット デバイスまとめて操作 エアコン・テレビ・照明など家電をまとめて管理 ストリーミングデバイス対応 直感的な操作 オートメーション スマートホーム(ハブ必要)",
+          "is_new": false,
           "price": 5780,
           "list_price": 6980,
           "percent_off": 17,
@@ -478,6 +522,7 @@
       "books": [
         {
           "title": "HUAWEI WATCH FIT 4 Pro スマートウォッチ 薄型軽量 ゴルフ機能 アウトドアに適した気圧計と測位システム 1.82インチ3000nitsディスプレイ サファイアガラス チタン合金ベゼル 10日間ロングバッテリー iOS/Android対応 ブラック",
+          "is_new": false,
           "price": 30250,
           "list_price": 37180,
           "percent_off": 19,
@@ -488,6 +533,7 @@
         },
         {
           "title": "HUAWEI WATCH FIT 4 スマートウォッチ 薄型軽量 1.82インチ大画面 アウトドアに適した気圧計と測位システム 通知 フィットネス ヘルストラッカー 情緒測定 10日間ロングバッテリー iOS/Android対応 ブラック",
+          "is_new": false,
           "price": 19800,
           "list_price": 23980,
           "percent_off": 17,
@@ -498,6 +544,7 @@
         },
         {
           "title": "HUAWEI WATCH GT 6 Pro 46mm スマートウォッチ 1.47インチ大画面 最長21日間バッテリー サイクリング/登山/進化したゴルフナビ スポーツモード100種類以上 GPS搭載 心電図分析 健康/情緒モニタリング iOS/Android対応 ブラック",
+          "is_new": false,
           "price": 36964,
           "list_price": 48180,
           "percent_off": 23,
@@ -508,6 +555,7 @@
         },
         {
           "title": "HUAWEI WATCH GT 6 46mm スマートウォッチ 1.47インチ大画面 最長21日間バッテリー ゴルフ/サイクリング/登山 スポーツモード100種類以上 GPS搭載 情緒/健康モニタリング iOS & Android対応 ブラック",
+          "is_new": false,
           "price": 25973,
           "list_price": 33880,
           "percent_off": 23,
@@ -518,6 +566,7 @@
         },
         {
           "title": "GARMIN（ガーミン）GPSランニングウォッチ Forerunner 265 Music White 【日本正規品】",
+          "is_new": false,
           "price": 49609,
           "list_price": 62800,
           "percent_off": 21,
@@ -528,6 +577,7 @@
         },
         {
           "title": "シャオミ(Xiaomi) スマートウォッチ Xiaomi Band 9 Active 18日間連続使用 1.47インチTFTディスプレイ 24時間健康管理 チップ強化 軽量デザイン 交換可能なフレーム iPhone & Android対応 ブラック",
+          "is_new": false,
           "price": 2960,
           "list_price": 3480,
           "percent_off": 15,
@@ -538,6 +588,7 @@
         },
         {
           "title": "【Forerunner265後継モデル】GARMIN(ガーミン) GPSランニングウォッチ Forerunner 570 47mm Black 【ロングバッテリー/超軽量/高精度GPS/色鮮やかなAMOLEDタッチディスプレイ/スピーカー＆マイク内蔵/ボイスコントロール/睡眠スコア・Body Battery計測/Music保存機能 有・無/Android/iOS対応/Suica機能搭載/防水】",
+          "is_new": false,
           "price": 63800,
           "list_price": 74800,
           "percent_off": 15,
@@ -548,6 +599,7 @@
         },
         {
           "title": "HUAWEI WATCH GT 6 Pro 46mm スマートウォッチ 1.47インチ大画面 最長21日間バッテリー サイクリング/登山/進化したゴルフナビ スポーツモード100種類以上 GPS搭載 心電図分析 健康/情緒モニタリング iOS/Android対応 ブラウン",
+          "is_new": false,
           "price": 43000,
           "list_price": 50380,
           "percent_off": 15,
@@ -563,6 +615,7 @@
       "books": [
         {
           "title": "VITURE Luma AR/XRグラス & HDMI XR アダプター セット｜146型1200p超鮮明・120Hz高刷新率 スマートグラス + iPhone 14以前/PS/Xbox/ゲーム機直結対応 3DoF強化 マルチスクリーン アダプター｜充電しながらプレイ可能 VITURE XRグラス用セット",
+          "is_new": false,
           "price": 63553,
           "list_price": 78460,
           "percent_off": 19,
@@ -573,6 +626,7 @@
         },
         {
           "title": "VITURE Luma Ultra XR グラス & Pro ネックバンド 12GBメモリ＆256GB内蔵ストレージ セット マルチスクリーン/6DoF/ハンドジェスチャー/スムーズフォロー/アンビエントモード搭載 PXPlay & XBXPlay 公式対応ワイヤレスゲームストリーミングメガネ",
+          "is_new": false,
           "price": 122886,
           "list_price": 149860,
           "percent_off": 18,
@@ -583,6 +637,7 @@
         },
         {
           "title": "VITURE Luma AR/XR グラス & Pro ネックバンド セット｜146型1200p超鮮明・120Hz スマートグラス + PSPlay連携 3DoF/マルチスクリーン AI音声操作 ネックバンド｜iPhone/Android/Mac/PC/Switch/Steam Deck対応",
+          "is_new": false,
           "price": 102386,
           "list_price": 124860,
           "percent_off": 18,
@@ -593,6 +648,7 @@
         },
         {
           "title": "VITURE Luma Ultra AR/XRグラス VGP&BEST BUY受賞 フル6DoF対応 ARハンドジェスチャー 1500nit",
+          "is_new": false,
           "price": 75800,
           "list_price": 89880,
           "percent_off": 16,
@@ -603,6 +659,7 @@
         },
         {
           "title": "DPVR G1 AI スマートグラス 翻訳 141言語対応 HD 800万画素カメラ付きメガネ 32Gb 調光レンズ搭載 AI画像認識 メガネ型カメラ オーディオグラス スマートグラス iPhone対応 Android対応",
+          "is_new": false,
           "price": 11999,
           "list_price": 14390,
           "percent_off": 17,
@@ -613,6 +670,7 @@
         },
         {
           "title": "XREAL xbx a01+とXREAL Beam Pro 5G版(8+256GB) 空間エンタメセット",
+          "is_new": false,
           "price": 72342,
           "list_price": 87160,
           "percent_off": 17,
@@ -623,6 +681,7 @@
         },
         {
           "title": "VITURE Luma AR/XRグラス 近視-6.0Dまで対応 146型 1200p 120Hz",
+          "is_new": false,
           "price": 54800,
           "list_price": 64880,
           "percent_off": 16,
@@ -633,6 +692,7 @@
         },
         {
           "title": "XREAL One Pro ARグラス｜X1チップ＆X-Prism光学搭載｜ネイティブ3DoF対応｜3Dリアル変換機能｜57°の広視野角・最大428インチ相当・FHD・最大120Hz表示｜iPhone 17/16/15（※eシリーズ除く）、Steam Deck、ROG、Mac、PC、Android & iOS対応｜IPD（瞳孔間距離）に合わせた2サイズ展開［M (IPD 57-66mm)］",
+          "is_new": true,
           "price": 72230,
           "list_price": 84980,
           "percent_off": 15,
@@ -648,6 +708,7 @@
       "books": [
         {
           "title": "エレコム ワイヤレスキーボード メンブレン 薄型 フルキーボード テンキー ブラック TK-FDM110TXBK",
+          "is_new": false,
           "price": 1700,
           "list_price": 2680,
           "percent_off": 37,
@@ -658,6 +719,7 @@
         },
         {
           "title": "【Amazon.co.jp限定】 ロジクール 静音 ワイヤレス トラックボール マウス 無線 M575SPd 国内正規品",
+          "is_new": false,
           "price": 5280,
           "list_price": 7828,
           "percent_off": 33,
@@ -668,6 +730,7 @@
         },
         {
           "title": "【Amazon.co.jp限定】 ロジクール ワイヤレスマウス 無線 マウス M185CG M185 グレー 国内正規品",
+          "is_new": false,
           "price": 999,
           "list_price": 1430,
           "percent_off": 30,
@@ -678,6 +741,7 @@
         },
         {
           "title": "【Amazon.co.jp限定】 Logicool G PRO X TKL RAPID ゲーミングキーボード",
+          "is_new": false,
           "price": 19990,
           "list_price": 28351,
           "percent_off": 29,
@@ -688,6 +752,7 @@
         },
         {
           "title": "ロジクール KX850FT MX MECHANICAL ワイヤレス メカニカル パフォーマンス キーボード 茶軸 タクタイル テンキー 静かな打鍵感 特に静か Logi Bolt bluetooth Unifying非対応 薄型 無線 メカニカルキーボード windows mac chrome Android ワイヤレスキーボード KX850 国内正規品 グラファイト",
+          "is_new": false,
           "price": 17064,
           "list_price": 23540,
           "percent_off": 28,
@@ -698,6 +763,7 @@
         },
         {
           "title": "エレコム ワイヤレスキーボード Precisionist プレシジョニスト Bluetooth 無線2.4GHz マルチペアリング4台 充電式 薄型パンタグラフ式 ミニサイズ ブラック TK-PN1075MPABK",
+          "is_new": false,
           "price": 5840,
           "list_price": 7990,
           "percent_off": 27,
@@ -708,6 +774,7 @@
         },
         {
           "title": "【Amazon.co.jp限定】 Logicool G PRO ゲーミングキーボード G-PKB-002LNd テンキーレス リニア 赤軸 日本語配列",
+          "is_new": false,
           "price": 10480,
           "list_price": 14121,
           "percent_off": 26,
@@ -718,6 +785,7 @@
         },
         {
           "title": "REALFORCE リアルフォース ラピッドトリガー キーボード GX1 ホワイト 静音 30ｇ TKLサイズ 静電容量無接点方式 最速0.1mm作動 Windows 英語配列 日本製 ゲーミングキーボード 87キー X1UD23",
+          "is_new": false,
           "price": 24750,
           "list_price": 33000,
           "percent_off": 25,
@@ -733,6 +801,7 @@
       "books": [
         {
           "title": "アイリスオーヤマ フライヤー 過熱水蒸気 ノンオイルフライヤー FV-M30A-C アイボリー",
+          "is_new": false,
           "price": 7800,
           "list_price": 12800,
           "percent_off": 39,
@@ -743,6 +812,7 @@
         },
         {
           "title": "COSORI コソリ ノンフライヤー 4.7L 大容量 家庭用 エアフライヤー 最高温230℃ 揚げ物 タイマー グレー CAF-L501-KJP",
+          "is_new": false,
           "price": 11380,
           "list_price": 16038,
           "percent_off": 29,
@@ -750,136 +820,6 @@
           "points_percent": 1,
           "image": "https://m.media-amazon.com/images/I/41zBbKORchL._SL160_.jpg",
           "url": "https://www.amazon.co.jp/dp/B09HB4B15V?tag=natafull-22&linkCode=osi&th=1&psc=1"
-        }
-      ]
-    },
-    {
-      "name": "電気シェーバー",
-      "books": [
-        {
-          "title": "ブラウン 電気シェーバー シリーズ9 SPORT 電動 髭剃り メンズ 9360cc 【Amazon.co.jp 限定】6in1アルコール洗浄システム付 シェーバーケース付 ブラック",
-          "price": 29800,
-          "list_price": 56870,
-          "percent_off": 48,
-          "points": 298,
-          "points_percent": 1,
-          "image": "https://m.media-amazon.com/images/I/41ztVslLI1L._SL160_.jpg",
-          "url": "https://www.amazon.co.jp/dp/B0DSJB2627?tag=natafull-22&linkCode=osi&th=1&psc=1"
-        },
-        {
-          "title": "ブラウン 電気シェーバー シリーズ8 洗浄機付き 電動 髭剃り メンズ 【Amazon.co.jp 限定】 8560cc 5 in 1 100％防水設計 4+1 カットシステム 進化したキワぞり刃 夕方ヒゲ、ゼロへ 電動シェーバー 【最新2023年秋モデル】",
-          "price": 22800,
-          "list_price": 42801,
-          "percent_off": 47,
-          "points": 228,
-          "points_percent": 1,
-          "image": "https://m.media-amazon.com/images/I/41RzlDhRYhL._SL160_.jpg",
-          "url": "https://www.amazon.co.jp/dp/B0CBPDCQLF?tag=natafull-22&linkCode=osi&th=1&psc=1"
-        },
-        {
-          "title": "【正規品】パナソニック 替刃 メンズシェーバー用 5枚刃 外刃 ES9181",
-          "price": 4309,
-          "list_price": 8030,
-          "percent_off": 46,
-          "points": 43,
-          "points_percent": 1,
-          "image": "https://m.media-amazon.com/images/I/41tAaSij9BL._SL160_.jpg",
-          "url": "https://www.amazon.co.jp/dp/B093BS81XP?tag=natafull-22&linkCode=osi&th=1&psc=1"
-        },
-        {
-          "title": "ブラウン 電気シェーバー シリーズ5 電動 髭剃り メンズ 【Amazon.co.jp限定】 52-M1200s ミント キワゾリトリマー 防水設計 充電式 コードレス ディープキャッチ網刃 トラベルケース",
-          "price": 8500,
-          "list_price": 14801,
-          "percent_off": 43,
-          "points": 85,
-          "points_percent": 1,
-          "image": "https://m.media-amazon.com/images/I/41TM+anHkGL._SL160_.jpg",
-          "url": "https://www.amazon.co.jp/dp/B0CTQ1XFRL?tag=natafull-22&linkCode=osi&th=1&psc=1"
-        },
-        {
-          "title": "【正規品】パナソニック 替刃 メンズシェーバー用 5枚刃 セット刃 ES9040",
-          "price": 6182,
-          "list_price": 10450,
-          "percent_off": 41,
-          "points": 62,
-          "points_percent": 1,
-          "image": "https://m.media-amazon.com/images/I/51bqw+ugoPL._SL160_.jpg",
-          "url": "https://www.amazon.co.jp/dp/B093BTR4Q4?tag=natafull-22&linkCode=osi&th=1&psc=1"
-        },
-        {
-          "title": "【正規品】パナソニック 替刃 メンズシェーバー用 セット刃 ES9038",
-          "price": 5679,
-          "list_price": 9350,
-          "percent_off": 39,
-          "points": 57,
-          "points_percent": 1,
-          "image": "https://m.media-amazon.com/images/I/51FcNfMeiKL._SL160_.jpg",
-          "url": "https://www.amazon.co.jp/dp/B07V9QVGNX?tag=natafull-22&linkCode=osi&th=1&psc=1"
-        },
-        {
-          "title": "ブラウン 電気シェーバー シリーズ9 PRO+ 電動 髭剃り メンズ 9555cc シェーバー本体 5 in 1 洗浄機付きモデル 【Amazon.co.jp 限定】防水設計 5+1 カットシステム 進化したキワぞり刃 極限0.05mm カット あご下まで夕方ヒゲ、ゼロへ 電動シェーバー 【最新2023年秋モデル】",
-          "price": 39800,
-          "list_price": 59800,
-          "percent_off": 33,
-          "points": 398,
-          "points_percent": 1,
-          "image": "https://m.media-amazon.com/images/I/51lARWR8s9L._SL160_.jpg",
-          "url": "https://www.amazon.co.jp/dp/B0CBPDJQFL?tag=natafull-22&linkCode=osi&th=1&psc=1"
-        },
-        {
-          "title": "【やさしく剃れる】フィリップス 電動シェーバー 5000Xシリーズ 電動 髭剃り メンズ X5012/05 オレンジ/アドリアブルー",
-          "price": 12300,
-          "list_price": 16500,
-          "percent_off": 25,
-          "points": 0,
-          "points_percent": null,
-          "image": "https://m.media-amazon.com/images/I/51PmODmzXEL._SL160_.jpg",
-          "url": "https://www.amazon.co.jp/dp/B0BSFH2NCS?tag=natafull-22&linkCode=osi&th=1&psc=1"
-        }
-      ]
-    },
-    {
-      "name": "電動歯ブラシ",
-      "books": [
-        {
-          "title": "ブラウン 電動歯ブラシ オーラルB【電動初心者の決定版】iO2 iOS21D90BK ブラック 防水 歯科医推奨No.1ブランド【Amazon.co.jp 限定】",
-          "price": 6480,
-          "list_price": 11880,
-          "percent_off": 45,
-          "points": 65,
-          "points_percent": 1,
-          "image": "https://m.media-amazon.com/images/I/419BXCd2EXL._SL160_.jpg",
-          "url": "https://www.amazon.co.jp/dp/B0DB48CFG7?tag=natafull-22&linkCode=osi&th=1&psc=1"
-        },
-        {
-          "title": "パナソニック 音波振動ハブラシ ドルツ 電動歯ブラシ USB充電 EW-DA18-W 白",
-          "price": 8782,
-          "list_price": 12100,
-          "percent_off": 27,
-          "points": 88,
-          "points_percent": 1,
-          "image": "https://m.media-amazon.com/images/I/11+6kNotvHL._SL160_.jpg",
-          "url": "https://www.amazon.co.jp/dp/B0DBKF4NV4?tag=natafull-22&linkCode=osi&th=1&psc=1"
-        },
-        {
-          "title": "フィリップス 電動歯ブラシ ソニッケアー ダイヤモンドクリーン9000 ワンランク上の白さへ",
-          "price": 28050,
-          "list_price": 33990,
-          "percent_off": 17,
-          "points": 281,
-          "points_percent": 1,
-          "image": "https://m.media-amazon.com/images/I/316647ZW3AL._SL160_.jpg",
-          "url": "https://www.amazon.co.jp/dp/B0D28N991R?tag=natafull-22&linkCode=osi&th=1&psc=1"
-        },
-        {
-          "title": "フィリップス 電動歯ブラシ ソニッケアー 5300 ケアーを実感",
-          "price": 13200,
-          "list_price": 15840,
-          "percent_off": 17,
-          "points": 132,
-          "points_percent": 1,
-          "image": "https://m.media-amazon.com/images/I/41FnVHlqzOL._SL160_.jpg",
-          "url": "https://www.amazon.co.jp/dp/B0FMKL5DQP?tag=natafull-22&linkCode=osi&th=1&psc=1"
         }
       ]
     }
