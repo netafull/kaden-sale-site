@@ -1,11 +1,21 @@
 {
-  "updated": "2026-07-31T03:29:17.703484+00:00",
+  "updated": "2026-08-01T00:01:16.261989+00:00",
   "site_url": "https://kaden.netaful.jp/",
   "site_title": "家電ポチ",
   "genres": [
     {
       "name": "Apple製品",
       "books": [
+        {
+          "title": "11インチiPad Pro Wi‑Fiモデル 2TB（標準ガラス搭載）- シルバー + AppleCare+ for 11インチiPad Pro（M5）",
+          "price": 295440,
+          "list_price": null,
+          "percent_off": 28,
+          "points": 0,
+          "points_percent": null,
+          "image": "https://m.media-amazon.com/images/I/41iyA2tNQSL._SL160_.jpg",
+          "url": "https://www.amazon.co.jp/dp/B0FX46NSHB?tag=natafull-22&linkCode=ogi&th=1&psc=1"
+        },
         {
           "title": "Apple iPhone Air 512GB (SIMフリー)：史上最薄のiPhone、最大120HzのProMotionを採用した6.5インチディスプレイ、パワフルなA19 Proチップ、センターフレームフロントカメラ、一日中使えるバッテリー；スカイブルー",
           "price": 156800,
@@ -15,6 +25,16 @@
           "points_percent": 1,
           "image": "https://m.media-amazon.com/images/I/31MWL1qkA+L._SL160_.jpg",
           "url": "https://www.amazon.co.jp/dp/B0FQFPZW9G?tag=natafull-22&linkCode=ogi&th=1&psc=1"
+        },
+        {
+          "title": "Apple 13インチiPad Air（M4）：Liquid Retinaディスプレイ、1TB、12MPフロント/バックカメラ、Apple N1によるWi-Fi 7 + 5Gモバイル通信、Touch ID、一日中使えるバッテリー — スペースグレイ + 2年延長 AppleCare+ for iPad Air 13-inch (M4)|ダウンロード版",
+          "price": 244066,
+          "list_price": 315600,
+          "percent_off": 23,
+          "points": 0,
+          "points_percent": null,
+          "image": "https://m.media-amazon.com/images/I/41RAOViejhL._SL160_.jpg",
+          "url": "https://www.amazon.co.jp/dp/B0GRTJ7DZK?tag=natafull-22&linkCode=ogi&th=1&psc=1"
         },
         {
           "title": "Apple iPhone Air 256GB (SIMフリー)：史上最薄のiPhone、最大120HzのProMotionを採用した6.5インチディスプレイ、パワフルなA19 Proチップ、センターフレームフロントカメラ、一日中使えるバッテリー；スカイブルー",
@@ -27,26 +47,6 @@
           "url": "https://www.amazon.co.jp/dp/B0FQG1QPLW?tag=natafull-22&linkCode=ogi&th=1&psc=1"
         },
         {
-          "title": "Apple iPhone Air 256GB (SIMフリー)：史上最薄のiPhone、最大120HzのProMotionを採用した6.5インチディスプレイ、パワフルなA19 Proチップ、センターフレームフロントカメラ、一日中使えるバッテリー；ライトゴールド",
-          "price": 139800,
-          "list_price": 177800,
-          "percent_off": 21,
-          "points": 1398,
-          "points_percent": 1,
-          "image": "https://m.media-amazon.com/images/I/31-S3Ark13L._SL160_.jpg",
-          "url": "https://www.amazon.co.jp/dp/B0FQG5SZS9?tag=natafull-22&linkCode=ogi&th=1&psc=1"
-        },
-        {
-          "title": "Apple iPhone Air 256GB (SIMフリー)：史上最薄のiPhone、最大120HzのProMotionを採用した6.5インチディスプレイ、パワフルなA19 Proチップ、センターフレームフロントカメラ、一日中使えるバッテリー；クラウドホワイト",
-          "price": 139800,
-          "list_price": 177800,
-          "percent_off": 21,
-          "points": 1398,
-          "points_percent": 1,
-          "image": "https://m.media-amazon.com/images/I/31ZXFqgSRaL._SL160_.jpg",
-          "url": "https://www.amazon.co.jp/dp/B0FQGTZLWX?tag=natafull-22&linkCode=ogi&th=1&psc=1"
-        },
-        {
           "title": "Apple 2024 iMac 8 コア CPU、8 コア GPU の M4 チップ搭載、24 インチ Retina ディスプレイ、 16GBユニファイドメモリ、256GBの SSD ストレージ - シルバー + 3年延長 AppleCare+ for iMac(M4)",
           "price": 225600,
           "list_price": 279600,
@@ -57,16 +57,6 @@
           "url": "https://www.amazon.co.jp/dp/B0DMVGKWBV?tag=natafull-22&linkCode=ogi&th=1&psc=1"
         },
         {
-          "title": "14インチMacBook Pro: 10コアCPUと10コアGPUを搭載したApple M5チップ, 16GB, 1TB SSD - スペースブラック + AppleCare+ for 14インチMacBook Pro（M5）",
-          "price": 323600,
-          "list_price": 387599,
-          "percent_off": 17,
-          "points": 0,
-          "points_percent": null,
-          "image": "https://m.media-amazon.com/images/I/31SdMbTD7zL._SL160_.jpg",
-          "url": "https://www.amazon.co.jp/dp/B0FX458KV1?tag=natafull-22&linkCode=ogi&th=1&psc=1"
-        },
-        {
           "title": "Apple AirPods Pro 3 ワイヤレスイヤホン、アクティブノイズキャンセリング、ライブ翻訳、心拍センサー、補聴機能、Bluetoothヘッドホン、空間オーディオ サウンド、USB-C充電ケース、防塵性能と耐汗耐水性能、「探す」対応、Qi充電",
           "price": 36800,
           "list_price": 42800,
@@ -75,6 +65,16 @@
           "points_percent": 1,
           "image": "https://m.media-amazon.com/images/I/318ibisrl7L._SL160_.jpg",
           "url": "https://www.amazon.co.jp/dp/B0FQFQDN6K?tag=natafull-22&linkCode=osi&th=1&psc=1"
+        },
+        {
+          "title": "Apple 2026 MacBook Pro 15コアCPU、16コアGPUのM5 Proチップ搭載ノートパソコン：AIのために設計、14.2インチLiquid Retina XDRディスプレイ、24GBユニファイドメモリ、1TBのSSDストレージ - スペースブラック",
+          "price": 365297,
+          "list_price": 429799,
+          "percent_off": 15,
+          "points": 0,
+          "points_percent": null,
+          "image": "https://m.media-amazon.com/images/I/21Xiu4zbqXL._SL160_.jpg",
+          "url": "https://www.amazon.co.jp/dp/B0GR1LNP9V?tag=natafull-22&linkCode=ogi&th=1&psc=1"
         },
         {
           "title": "Apple Watch Series 11(GPSモデル)- 46mmジェットブラックアルミニウムケースとブラックスポーツバンド - M/L、睡眠時無呼吸、高血圧パターン、血中酸素、心電図、排卵推定、心拍数、服薬、マインドフルネス、ノイズ、睡眠スコア、転倒検出、IPX6X防塵、泳げる耐水、Suica対応、高速充電対応",
@@ -112,14 +112,14 @@
           "url": "https://www.amazon.co.jp/dp/B0FPQN7DBD?tag=natafull-22&linkCode=osi&th=1&psc=1"
         },
         {
-          "title": "ソニー ゲーミングイヤホン INZONE Buds:WF-G700N Fnatic監修/ワイヤレス / 低遅延2.4GHzワイヤレス接続 USBType-Cトランシーバー同梱/LE Audio対応/アクティブノイズキャンセリング/立体音響 / 最大約24時間バッテリー / 急速充電/マイク付き / PS5 スマホ PC Switch グラスパープル",
-          "price": 23800,
-          "list_price": 29700,
-          "percent_off": 20,
-          "points": 238,
-          "points_percent": 1,
-          "image": "https://m.media-amazon.com/images/I/3143nL6VZVL._SL160_.jpg",
-          "url": "https://www.amazon.co.jp/dp/B0GW7WT5SQ?tag=natafull-22&linkCode=osi&th=1&psc=1"
+          "title": "Bose QuietComfort Ultra Earbuds (第2世代) ワイヤレス ノイズキャンセリング Bluetooth イヤホン 最長6時間連続再生 IPX4規格準拠 イマーシブオーディオ 迫力の重低音 ブラック",
+          "price": 36000,
+          "list_price": 39600,
+          "percent_off": 9,
+          "points": 5760,
+          "points_percent": 16,
+          "image": "https://m.media-amazon.com/images/I/31M7uzqFLEL._SL160_.jpg",
+          "url": "https://www.amazon.co.jp/dp/B0FCSGGHLL?tag=natafull-22&linkCode=osi&th=1&psc=1"
         },
         {
           "title": "Xiaomi シャオミ REDMI Buds 8 Lite ワイヤレスイヤホン Bluetooth 5.4 ノイズキャンセリング ANC 36時間再生",
@@ -130,16 +130,6 @@
           "points_percent": 1,
           "image": "https://m.media-amazon.com/images/I/21s0vPbZaOL._SL160_.jpg",
           "url": "https://www.amazon.co.jp/dp/B0FRSCXWSV?tag=natafull-22&linkCode=osi&th=1&psc=1"
-        },
-        {
-          "title": "Bose QuietComfort Ultra Earbuds (第2世代) ワイヤレス ノイズキャンセリング Bluetooth イヤホン 最長6時間連続再生 IPX4規格準拠 イマーシブオーディオ 迫力の重低音 ブラック",
-          "price": 34125,
-          "list_price": 39600,
-          "percent_off": 14,
-          "points": 341,
-          "points_percent": 1,
-          "image": "https://m.media-amazon.com/images/I/31M7uzqFLEL._SL160_.jpg",
-          "url": "https://www.amazon.co.jp/dp/B0FCSGGHLL?tag=natafull-22&linkCode=osi&th=1&psc=1"
         }
       ]
     },
@@ -252,6 +242,16 @@
           "url": "https://www.amazon.co.jp/dp/B07SQ1LBYK?tag=natafull-22&linkCode=osi&th=1&psc=1"
         },
         {
+          "title": "【VGP受賞】Belkin 充電器 USB-C 2ポート PPS規格対応 GaN採用 小型 ACアダプター タイプC 急速充電 軽量【PD3.0対応 /PSE認証/折りたたみ式プラグ】45W(25W+20W) MacBook Windows PC Surface Pro iPad iPhone 17,16～12対応 Galaxy Android スマホ 各種ノートPC対応 WCH011dqWH",
+          "price": 2918,
+          "list_price": 4829,
+          "percent_off": 40,
+          "points": 29,
+          "points_percent": 1,
+          "image": "https://m.media-amazon.com/images/I/31-ksGR-XwL._SL160_.jpg",
+          "url": "https://www.amazon.co.jp/dp/B0BF9ZYCQ5?tag=natafull-22&linkCode=osi&th=1&psc=1"
+        },
+        {
           "title": "Belkin Qi2 車載ワイヤレス充電器 15W急速充電 MagSafe対応 スマホホルダー エアコン吹き出し口用",
           "price": 3827,
           "list_price": 5990,
@@ -300,16 +300,6 @@
           "points_percent": 1,
           "image": "https://m.media-amazon.com/images/I/31IFzpMPUWL._SL160_.jpg",
           "url": "https://www.amazon.co.jp/dp/B0F9FHXPDF?tag=natafull-22&linkCode=osi&th=1&psc=1"
-        },
-        {
-          "title": "UGREEN Nexode【当社比最小】65W PD充電器 USB-C*2+USB-A*1 急速充電器 PSE適合 PD/PPS/QC4+対応",
-          "price": 3600,
-          "list_price": 5180,
-          "percent_off": 31,
-          "points": 36,
-          "points_percent": 1,
-          "image": "https://m.media-amazon.com/images/I/31k2nc5tX2L._SL160_.jpg",
-          "url": "https://www.amazon.co.jp/dp/B0CLGZGXMD?tag=natafull-22&linkCode=osi&th=1&psc=1"
         }
       ]
     },
@@ -527,16 +517,6 @@
           "url": "https://www.amazon.co.jp/dp/B0FKH268LS?tag=natafull-22&linkCode=osi&th=1&psc=1"
         },
         {
-          "title": "Amazfit Bip 6 スマートウォッチ 2000nit高輝度 GPS内蔵 オフラインマップ AIによる音声操作と睡眠/運動管理 心拍 睡眠 ストレス 健康管理 140+スポーツモード ナビゲーション ルートインポート 14日間バッテリー持続 (ブラック)",
-          "price": 13320,
-          "list_price": 14800,
-          "percent_off": 10,
-          "points": 1732,
-          "points_percent": 13,
-          "image": "https://m.media-amazon.com/images/I/41zakAH1RKL._SL160_.jpg",
-          "url": "https://www.amazon.co.jp/dp/B0F1XCKZYW?tag=natafull-22&linkCode=osi&th=1&psc=1"
-        },
-        {
           "title": "GARMIN（ガーミン）GPSランニングウォッチ Forerunner 265 Music White 【日本正規品】",
           "price": 49609,
           "list_price": 62800,
@@ -565,6 +545,16 @@
           "points_percent": 1,
           "image": "https://m.media-amazon.com/images/I/41Ndyg7lkqL._SL160_.jpg",
           "url": "https://www.amazon.co.jp/dp/B0F9LB5PQF?tag=natafull-22&linkCode=osi&th=1&psc=1"
+        },
+        {
+          "title": "HUAWEI WATCH GT 6 Pro 46mm スマートウォッチ 1.47インチ大画面 最長21日間バッテリー サイクリング/登山/進化したゴルフナビ スポーツモード100種類以上 GPS搭載 心電図分析 健康/情緒モニタリング iOS/Android対応 ブラウン",
+          "price": 43000,
+          "list_price": 50380,
+          "percent_off": 15,
+          "points": 0,
+          "points_percent": null,
+          "image": "https://m.media-amazon.com/images/I/41NI4ju2vQL._SL160_.jpg",
+          "url": "https://www.amazon.co.jp/dp/B0FKH323P1?tag=natafull-22&linkCode=osi&th=1&psc=1"
         }
       ]
     },
@@ -612,16 +602,6 @@
           "url": "https://www.amazon.co.jp/dp/B0GCZMGP1T?tag=natafull-22&linkCode=osi&th=1&psc=1"
         },
         {
-          "title": "DPVR G1 AI スマートグラス 翻訳 141言語対応 HD 800万画素カメラ付きメガネ 32Gb 調光レンズ搭載 AI画像認識 メガネ型カメラ オーディオグラス スマートグラス iPhone対応 Android対応",
-          "price": 11999,
-          "list_price": 14390,
-          "percent_off": 17,
-          "points": 0,
-          "points_percent": null,
-          "image": "https://m.media-amazon.com/images/I/41uj3ClDLlL._SL160_.jpg",
-          "url": "https://www.amazon.co.jp/dp/B0G34SQSDD?tag=natafull-22&linkCode=osi&th=1&psc=1"
-        },
-        {
           "title": "XREAL xbx a01+とXREAL Beam Pro 5G版(8+256GB) 空間エンタメセット",
           "price": 72342,
           "list_price": 87160,
@@ -642,14 +622,24 @@
           "url": "https://www.amazon.co.jp/dp/B0FFT61X6F?tag=natafull-22&linkCode=osi&th=1&psc=1"
         },
         {
-          "title": "MEIZU StarV View AR グラス スマートグラス ウェアラブル ディスプレイ USB-C Display port 対応 音漏れ低減スピーカー内蔵/視度調整機能付き(近視の方でもそのまま装着OK)/プロジェクター/120Hz (ネビュラノワール（グレー）)",
-          "price": 42330,
-          "list_price": 49800,
+          "title": "DPVR G1 AI スマートグラス 翻訳 141言語対応 HD 800万画素カメラ付きメガネ 32Gb 調光レンズ搭載 AI画像認識 メガネ型カメラ オーディオグラス スマートグラス iPhone対応 Android対応",
+          "price": 11999,
+          "list_price": 14390,
+          "percent_off": 17,
+          "points": 0,
+          "points_percent": null,
+          "image": "https://m.media-amazon.com/images/I/41uj3ClDLlL._SL160_.jpg",
+          "url": "https://www.amazon.co.jp/dp/B0G34SQSDD?tag=natafull-22&linkCode=osi&th=1&psc=1"
+        },
+        {
+          "title": "XREAL One Pro ARグラス｜X1チップ＆X-Prism光学搭載｜ネイティブ3DoF対応｜3Dリアル変換機能｜57°の広視野角・最大428インチ相当・FHD・最大120Hz表示｜iPhone 17/16/15（※eシリーズ除く）、Steam Deck、ROG、Mac、PC、Android & iOS対応｜IPD（瞳孔間距離）に合わせた2サイズ展開［M (IPD 57-66mm)］",
+          "price": 72230,
+          "list_price": 84980,
           "percent_off": 15,
-          "points": 423,
+          "points": 850,
           "points_percent": 1,
-          "image": "https://m.media-amazon.com/images/I/315QODk1MsL._SL160_.jpg",
-          "url": "https://www.amazon.co.jp/dp/B0FZHM9RHH?tag=natafull-22&linkCode=osi&th=1&psc=1"
+          "image": "https://m.media-amazon.com/images/I/31ISvY+PjPL._SL160_.jpg",
+          "url": "https://www.amazon.co.jp/dp/B0FHQ9DZZJ?tag=natafull-22&linkCode=osi&th=1&psc=1"
         }
       ]
     },
@@ -787,6 +777,16 @@
           "url": "https://www.amazon.co.jp/dp/B0CBPDCQLF?tag=natafull-22&linkCode=osi&th=1&psc=1"
         },
         {
+          "title": "【正規品】パナソニック 替刃 メンズシェーバー用 5枚刃 外刃 ES9181",
+          "price": 4309,
+          "list_price": 8030,
+          "percent_off": 46,
+          "points": 43,
+          "points_percent": 1,
+          "image": "https://m.media-amazon.com/images/I/41tAaSij9BL._SL160_.jpg",
+          "url": "https://www.amazon.co.jp/dp/B093BS81XP?tag=natafull-22&linkCode=osi&th=1&psc=1"
+        },
+        {
           "title": "ブラウン 電気シェーバー シリーズ5 電動 髭剃り メンズ 【Amazon.co.jp限定】 52-M1200s ミント キワゾリトリマー 防水設計 充電式 コードレス ディープキャッチ網刃 トラベルケース",
           "price": 8500,
           "list_price": 14801,
@@ -828,23 +828,13 @@
         },
         {
           "title": "【やさしく剃れる】フィリップス 電動シェーバー 5000Xシリーズ 電動 髭剃り メンズ X5012/05 オレンジ/アドリアブルー",
-          "price": 12311,
+          "price": 12300,
           "list_price": 16500,
           "percent_off": 25,
           "points": 0,
           "points_percent": null,
           "image": "https://m.media-amazon.com/images/I/51PmODmzXEL._SL160_.jpg",
           "url": "https://www.amazon.co.jp/dp/B0BSFH2NCS?tag=natafull-22&linkCode=osi&th=1&psc=1"
-        },
-        {
-          "title": "パナソニック メンズシェーバー スーパーレザー ES3832P-S",
-          "price": 2357,
-          "list_price": null,
-          "percent_off": null,
-          "points": 584,
-          "points_percent": 25,
-          "image": "https://m.media-amazon.com/images/I/41sgF9c2b4L._SL160_.jpg",
-          "url": "https://www.amazon.co.jp/dp/B001MBV4W4?tag=natafull-22&linkCode=osi&th=1&psc=1"
         }
       ]
     },
@@ -860,16 +850,6 @@
           "points_percent": 1,
           "image": "https://m.media-amazon.com/images/I/419BXCd2EXL._SL160_.jpg",
           "url": "https://www.amazon.co.jp/dp/B0DB48CFG7?tag=natafull-22&linkCode=osi&th=1&psc=1"
-        },
-        {
-          "title": "ブラウン 電動歯ブラシ オーラルB 【プレミアムモデル】iO7 歯科クリーニングのような磨き上がり トラベルケース+ 替えブラシ3本付き iOM7.3V2.2K BK 防水 歯科医推奨No.1ブランド【Amazon.co.jp 限定】",
-          "price": 29800,
-          "list_price": 49800,
-          "percent_off": 40,
-          "points": 298,
-          "points_percent": 1,
-          "image": "https://m.media-amazon.com/images/I/51ZekbPWrqL._SL160_.jpg",
-          "url": "https://www.amazon.co.jp/dp/B0CX11ZTQT?tag=natafull-22&linkCode=osi&th=1&psc=1"
         },
         {
           "title": "パナソニック 音波振動ハブラシ ドルツ 電動歯ブラシ USB充電 EW-DA18-W 白",

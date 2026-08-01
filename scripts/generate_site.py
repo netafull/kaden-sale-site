@@ -220,34 +220,41 @@ def generate_html(data: dict) -> str:
     # 新しくセール入りした商品をジャンル横断で集める。
     # 林檎ポチと同じ考え方だが、こちらはセールの入れ替わりが速く、
     # 7日窓だと掲載のほぼ全件が該当してしまうため窓をずっと短くする
-    new_days = CONFIG.get("new_arrival_days", 1)
-    new_max = CONFIG.get("new_arrivals_max", 12)
+    new_hours = CONFIG.get("new_arrival_hours", 12)
     arrivals = []
     for g in genres:
         for b in g.get("items") or []:
-            since = b.get("since")
-            if not since:
-                continue
-            try:
-                elapsed = (today - datetime.date.fromisoformat(since)).days
-            except ValueError:
-                continue
-            if elapsed <= new_days:
+            at = b.get("since_at")
+            if at:
+                try:
+                    elapsed_h = (
+                        fetched - datetime.datetime.fromisoformat(at)
+                    ).total_seconds() / 3600
+                except ValueError:
+                    continue
+            else:
+                # first_seen_at を記録する前から掲載されている商品への経過措置。
+                # 時刻が無いので日付で判定し、当日中なら新着とみなす。
+                # 商品の入れ替わりが速いため数日で全件が時刻付きに置き換わる
+                since = b.get("since")
+                if not since:
+                    continue
+                try:
+                    elapsed_h = (
+                        (today - datetime.date.fromisoformat(since)).days * 24
+                    )
+                except ValueError:
+                    continue
+            if elapsed_h <= new_hours:
                 arrivals.append((sort_key(b), g["name"], b))
     if arrivals:
         arrivals.sort(key=lambda x: x[0], reverse=True)
-        shown = arrivals[:new_max]
-        cards = "\n".join(render_book(b, badge=name) for _, name, b in shown)
-        more = (
-            f"（お得な順に{len(shown)}件を表示 / 全{len(arrivals)}件）"
-            if len(arrivals) > len(shown)
-            else f"（{len(arrivals)}件）"
-        )
+        cards = "\n".join(render_book(b, badge=name) for _, name, b in arrivals)
         sections.append(
             '<details open id="new">\n'
-            '<summary><h2>🆕 新着セール</h2></summary>\n'
-            f'<p class="cmeta">直近{new_days + 1}日以内に'
-            f'セールを検出した商品です{more}</p>\n'
+            f'<summary><h2>🆕 新着セール ({len(arrivals)}件)</h2></summary>\n'
+            f'<p class="cmeta">直近{new_hours}時間以内に'
+            'セールを検出した商品です</p>\n'
             f'<div class="grid">\n{cards}\n</div>\n'
             '</details>'
         )

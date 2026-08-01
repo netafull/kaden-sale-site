@@ -540,14 +540,23 @@ def main() -> int:
         datetime.timezone(datetime.timedelta(hours=9))
     ).date()
     today = today_dt.isoformat()
+    now_iso = datetime.datetime.now(
+        datetime.timezone(datetime.timedelta(hours=9))
+    ).isoformat(timespec="seconds")
     new_state = {}
     for g in genres:
         for item in g["items"]:
             asin = item["asin"]
-            first_seen = (state.get(asin) or {}).get("first_seen") or today
+            prev = state.get(asin) or {}
+            first_seen = prev.get("first_seen") or today
+            # 「新着セール」を時間単位で出せるよう初検出の時刻も残す。
+            # 日付だけだと深夜0時をまたいだ瞬間に新着が消えてしまう
+            first_seen_at = prev.get("first_seen_at") or now_iso
             item["since"] = first_seen
+            item["since_at"] = first_seen_at
             new_state[asin] = {
                 "first_seen": first_seen,
+                "first_seen_at": first_seen_at,
                 "last_seen": today,
                 "title": item["title"],
             }

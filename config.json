@@ -23,8 +23,7 @@
   "ga_measurement_id": "G-41XNL0P91C",
   "min_saving_percent": 15,
   "pages_per_genre": 4,
-  "new_arrival_days": 1,
-  "new_arrivals_max": 12,
+  "new_arrival_hours": 12,
   "genres": [
     {
       "name": "Apple製品",
@@ -119,7 +118,10 @@
         "B0FQGTZLWX",
         "B0GQVHLG38",
         "B0GQVTTNQW",
-        "B0GQVYHYFK"
+        "B0GQVYHYFK",
+        "B0GRTJ7DZK",
+        "B0FX46NSHB",
+        "B0GR1LNP9V"
       ]
     },
     {
