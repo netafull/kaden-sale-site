@@ -98,10 +98,17 @@ details > .grid, details > .empty { margin-top: 12px; }
 .points { font-size: 11px; color: #0a7d3c; font-weight: 600; margin-top: 2px; }
 @media (prefers-color-scheme: dark) { .points { color: #4fd689; } }
 .since { font-size: 11px; color: var(--muted); margin-top: 2px; }
+.badges { display: flex; gap: 4px; align-items: center; margin-bottom: 3px;
+  flex-wrap: wrap; }
+/* 直近にセール入りした商品の印。各ジャンルは割引率順に並ぶため、
+   新しい商品が埋もれないようこれで見分ける */
+.nbadge { display: inline-block; font-size: 10px; font-weight: 700;
+  color: #fff; background: #0a7d3c; border-radius: 4px; padding: 0 5px; }
+@media (prefers-color-scheme: dark) { .nbadge { background: #2f9e5f; } }
 /* 「新着セール」でジャンル名を示すラベル */
 .gbadge { display: inline-block; font-size: 10px; font-weight: 600;
   color: var(--muted); border: 1px solid var(--line); border-radius: 4px;
-  padding: 0 5px; margin-bottom: 3px; }
+  padding: 0 5px; }
 footer { max-width: 960px; margin: 0 auto; padding: 16px;
   color: var(--muted); font-size: 12px; border-top: 1px solid var(--line); }
 .empty { color: var(--muted); font-size: 14px; padding: 12px 0; }
@@ -125,7 +132,7 @@ footer { max-width: 960px; margin: 0 auto; padding: 16px;
 <a class="book" href="https://www.amazon.co.jp/dp/B0FX46NSHB?tag=natafull-22&amp;linkCode=ogi&amp;th=1&amp;psc=1" target="_blank" rel="noopener sponsored">
   <img src="https://m.media-amazon.com/images/I/41iyA2tNQSL._SL160_.jpg" alt="" loading="lazy">
   <div>
-    <div class="gbadge">Apple製品</div><div class="t">11インチiPad Pro Wi‑Fiモデル 2TB（標準ガラス搭載）- シルバー + AppleCare+ for 11インチiPad Pro（M5）</div>
+    <div class="badges"><span class="gbadge">Apple製品</span></div><div class="t">11インチiPad Pro Wi‑Fiモデル 2TB（標準ガラス搭載）- シルバー + AppleCare+ for 11インチiPad Pro（M5）</div>
     <div class="a">Apple(アップル)</div>
     <div class="price"><span class="now">&yen;295,440</span><span class="off">28%OFF</span></div>
     
@@ -135,7 +142,7 @@ footer { max-width: 960px; margin: 0 auto; padding: 16px;
 <a class="book" href="https://www.amazon.co.jp/dp/B0GRTJ7DZK?tag=natafull-22&amp;linkCode=ogi&amp;th=1&amp;psc=1" target="_blank" rel="noopener sponsored">
   <img src="https://m.media-amazon.com/images/I/41RAOViejhL._SL160_.jpg" alt="" loading="lazy">
   <div>
-    <div class="gbadge">Apple製品</div><div class="t">Apple 13インチiPad Air（M4）：Liquid Retinaディスプレイ、1TB、12MPフロント/バックカメラ、Apple N1によるWi-Fi 7 + 5Gモバイル通信、Touch ID、一日中使えるバッテリー — スペースグレイ + 2年延長 AppleCare+ for iPad Air 13-inch (M4)|ダウンロード版</div>
+    <div class="badges"><span class="gbadge">Apple製品</span></div><div class="t">Apple 13インチiPad Air（M4）：Liquid Retinaディスプレイ、1TB、12MPフロント/バックカメラ、Apple N1によるWi-Fi 7 + 5Gモバイル通信、Touch ID、一日中使えるバッテリー — スペースグレイ + 2年延長 AppleCare+ for iPad Air 13-inch (M4)|ダウンロード版</div>
     <div class="a">Apple(アップル)</div>
     <div class="price"><span class="now">&yen;244,066</span><span class="was">&yen;315,600</span><span class="off">23%OFF</span></div>
     
@@ -145,7 +152,7 @@ footer { max-width: 960px; margin: 0 auto; padding: 16px;
 <a class="book" href="https://www.amazon.co.jp/dp/B0FHQ9DZZJ?tag=natafull-22&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="noopener sponsored">
   <img src="https://m.media-amazon.com/images/I/31ISvY+PjPL._SL160_.jpg" alt="" loading="lazy">
   <div>
-    <div class="gbadge">XR・ARグラス</div><div class="t">XREAL One Pro ARグラス｜X1チップ＆X-Prism光学搭載｜ネイティブ3DoF対応｜3Dリアル変換機能｜57°の広視野角・最大428インチ相当・FHD・最大120Hz表示｜iPhone 17/16/15（※eシリーズ除く）、Steam Deck、ROG、Mac、PC、Android &amp; iOS対応｜IPD（瞳孔間距離）に合わせた2サイズ展開［M (IPD 57-66mm)］</div>
+    <div class="badges"><span class="gbadge">XR・ARグラス</span></div><div class="t">XREAL One Pro ARグラス｜X1チップ＆X-Prism光学搭載｜ネイティブ3DoF対応｜3Dリアル変換機能｜57°の広視野角・最大428インチ相当・FHD・最大120Hz表示｜iPhone 17/16/15（※eシリーズ除く）、Steam Deck、ROG、Mac、PC、Android &amp; iOS対応｜IPD（瞳孔間距離）に合わせた2サイズ展開［M (IPD 57-66mm)］</div>
     <div class="a">XREAL</div>
     <div class="price"><span class="now">&yen;72,230</span><span class="was">&yen;84,980</span><span class="off">15%OFF</span></div>
     <div class="points">+850pt (1%還元)</div>
@@ -155,7 +162,7 @@ footer { max-width: 960px; margin: 0 auto; padding: 16px;
 <a class="book" href="https://www.amazon.co.jp/dp/B0GR1LNP9V?tag=natafull-22&amp;linkCode=ogi&amp;th=1&amp;psc=1" target="_blank" rel="noopener sponsored">
   <img src="https://m.media-amazon.com/images/I/21Xiu4zbqXL._SL160_.jpg" alt="" loading="lazy">
   <div>
-    <div class="gbadge">Apple製品</div><div class="t">Apple 2026 MacBook Pro 15コアCPU、16コアGPUのM5 Proチップ搭載ノートパソコン：AIのために設計、14.2インチLiquid Retina XDRディスプレイ、24GBユニファイドメモリ、1TBのSSDストレージ - スペースブラック</div>
+    <div class="badges"><span class="gbadge">Apple製品</span></div><div class="t">Apple 2026 MacBook Pro 15コアCPU、16コアGPUのM5 Proチップ搭載ノートパソコン：AIのために設計、14.2インチLiquid Retina XDRディスプレイ、24GBユニファイドメモリ、1TBのSSDストレージ - スペースブラック</div>
     <div class="a">Apple(アップル)</div>
     <div class="price"><span class="now">&yen;365,297</span><span class="was">&yen;429,799</span><span class="off">15%OFF</span></div>
     
@@ -170,7 +177,7 @@ footer { max-width: 960px; margin: 0 auto; padding: 16px;
 <a class="book" href="https://www.amazon.co.jp/dp/B0FX46NSHB?tag=natafull-22&amp;linkCode=ogi&amp;th=1&amp;psc=1" target="_blank" rel="noopener sponsored">
   <img src="https://m.media-amazon.com/images/I/41iyA2tNQSL._SL160_.jpg" alt="" loading="lazy">
   <div>
-    <div class="t">11インチiPad Pro Wi‑Fiモデル 2TB（標準ガラス搭載）- シルバー + AppleCare+ for 11インチiPad Pro（M5）</div>
+    <div class="badges"><span class="nbadge">NEW</span></div><div class="t">11インチiPad Pro Wi‑Fiモデル 2TB（標準ガラス搭載）- シルバー + AppleCare+ for 11インチiPad Pro（M5）</div>
     <div class="a">Apple(アップル)</div>
     <div class="price"><span class="now">&yen;295,440</span><span class="off">28%OFF</span></div>
     
@@ -190,7 +197,7 @@ footer { max-width: 960px; margin: 0 auto; padding: 16px;
 <a class="book" href="https://www.amazon.co.jp/dp/B0GRTJ7DZK?tag=natafull-22&amp;linkCode=ogi&amp;th=1&amp;psc=1" target="_blank" rel="noopener sponsored">
   <img src="https://m.media-amazon.com/images/I/41RAOViejhL._SL160_.jpg" alt="" loading="lazy">
   <div>
-    <div class="t">Apple 13インチiPad Air（M4）：Liquid Retinaディスプレイ、1TB、12MPフロント/バックカメラ、Apple N1によるWi-Fi 7 + 5Gモバイル通信、Touch ID、一日中使えるバッテリー — スペースグレイ + 2年延長 AppleCare+ for iPad Air 13-inch (M4)|ダウンロード版</div>
+    <div class="badges"><span class="nbadge">NEW</span></div><div class="t">Apple 13インチiPad Air（M4）：Liquid Retinaディスプレイ、1TB、12MPフロント/バックカメラ、Apple N1によるWi-Fi 7 + 5Gモバイル通信、Touch ID、一日中使えるバッテリー — スペースグレイ + 2年延長 AppleCare+ for iPad Air 13-inch (M4)|ダウンロード版</div>
     <div class="a">Apple(アップル)</div>
     <div class="price"><span class="now">&yen;244,066</span><span class="was">&yen;315,600</span><span class="off">23%OFF</span></div>
     
@@ -230,7 +237,7 @@ footer { max-width: 960px; margin: 0 auto; padding: 16px;
 <a class="book" href="https://www.amazon.co.jp/dp/B0GR1LNP9V?tag=natafull-22&amp;linkCode=ogi&amp;th=1&amp;psc=1" target="_blank" rel="noopener sponsored">
   <img src="https://m.media-amazon.com/images/I/21Xiu4zbqXL._SL160_.jpg" alt="" loading="lazy">
   <div>
-    <div class="t">Apple 2026 MacBook Pro 15コアCPU、16コアGPUのM5 Proチップ搭載ノートパソコン：AIのために設計、14.2インチLiquid Retina XDRディスプレイ、24GBユニファイドメモリ、1TBのSSDストレージ - スペースブラック</div>
+    <div class="badges"><span class="nbadge">NEW</span></div><div class="t">Apple 2026 MacBook Pro 15コアCPU、16コアGPUのM5 Proチップ搭載ノートパソコン：AIのために設計、14.2インチLiquid Retina XDRディスプレイ、24GBユニファイドメモリ、1TBのSSDストレージ - スペースブラック</div>
     <div class="a">Apple(アップル)</div>
     <div class="price"><span class="now">&yen;365,297</span><span class="was">&yen;429,799</span><span class="off">15%OFF</span></div>
     
@@ -1105,7 +1112,7 @@ footer { max-width: 960px; margin: 0 auto; padding: 16px;
 <a class="book" href="https://www.amazon.co.jp/dp/B0FHQ9DZZJ?tag=natafull-22&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank" rel="noopener sponsored">
   <img src="https://m.media-amazon.com/images/I/31ISvY+PjPL._SL160_.jpg" alt="" loading="lazy">
   <div>
-    <div class="t">XREAL One Pro ARグラス｜X1チップ＆X-Prism光学搭載｜ネイティブ3DoF対応｜3Dリアル変換機能｜57°の広視野角・最大428インチ相当・FHD・最大120Hz表示｜iPhone 17/16/15（※eシリーズ除く）、Steam Deck、ROG、Mac、PC、Android &amp; iOS対応｜IPD（瞳孔間距離）に合わせた2サイズ展開［M (IPD 57-66mm)］</div>
+    <div class="badges"><span class="nbadge">NEW</span></div><div class="t">XREAL One Pro ARグラス｜X1チップ＆X-Prism光学搭載｜ネイティブ3DoF対応｜3Dリアル変換機能｜57°の広視野角・最大428インチ相当・FHD・最大120Hz表示｜iPhone 17/16/15（※eシリーズ除く）、Steam Deck、ROG、Mac、PC、Android &amp; iOS対応｜IPD（瞳孔間距離）に合わせた2サイズ展開［M (IPD 57-66mm)］</div>
     <div class="a">XREAL</div>
     <div class="price"><span class="now">&yen;72,230</span><span class="was">&yen;84,980</span><span class="off">15%OFF</span></div>
     <div class="points">+850pt (1%還元)</div>

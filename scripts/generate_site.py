@@ -82,10 +82,17 @@ details > .grid, details > .empty { margin-top: 12px; }
 .points { font-size: 11px; color: #0a7d3c; font-weight: 600; margin-top: 2px; }
 @media (prefers-color-scheme: dark) { .points { color: #4fd689; } }
 .since { font-size: 11px; color: var(--muted); margin-top: 2px; }
+.badges { display: flex; gap: 4px; align-items: center; margin-bottom: 3px;
+  flex-wrap: wrap; }
+/* 直近にセール入りした商品の印。各ジャンルは割引率順に並ぶため、
+   新しい商品が埋もれないようこれで見分ける */
+.nbadge { display: inline-block; font-size: 10px; font-weight: 700;
+  color: #fff; background: #0a7d3c; border-radius: 4px; padding: 0 5px; }
+@media (prefers-color-scheme: dark) { .nbadge { background: #2f9e5f; } }
 /* 「新着セール」でジャンル名を示すラベル */
 .gbadge { display: inline-block; font-size: 10px; font-weight: 600;
   color: var(--muted); border: 1px solid var(--line); border-radius: 4px;
-  padding: 0 5px; margin-bottom: 3px; }
+  padding: 0 5px; }
 footer { max-width: 960px; margin: 0 auto; padding: 16px;
   color: var(--muted); font-size: 12px; border-top: 1px solid var(--line); }
 .empty { color: var(--muted); font-size: 14px; padding: 12px 0; }
@@ -126,7 +133,28 @@ def shorten_title(title: str) -> str:
     return title
 
 
-def render_book(item: dict, badge: str | None = None) -> str:
+def hours_since(item: dict, now: datetime.datetime, today: datetime.date):
+    """商品がセールとして初めて検出されてからの経過時間を返す。
+
+    first_seen_at を記録する前から掲載されている商品には時刻が無いので、
+    その場合は日付から概算する(商品の入れ替わりが速いため数日で解消する)。
+    """
+    at = item.get("since_at")
+    if at:
+        try:
+            return (now - datetime.datetime.fromisoformat(at)).total_seconds() / 3600
+        except ValueError:
+            return None
+    since = item.get("since")
+    if not since:
+        return None
+    try:
+        return (today - datetime.date.fromisoformat(since)).days * 24
+    except ValueError:
+        return None
+
+
+def render_book(item: dict, badge: str | None = None, is_new: bool = False) -> str:
     """商品カードを組み立てる。
 
     badgeを渡すと、どのジャンルの商品かを示すラベルをタイトル上に添える
@@ -154,9 +182,14 @@ def render_book(item: dict, badge: str | None = None) -> str:
         pct = item.get("points_percent")
         pct_txt = f"{pct}%還元" if pct else "還元"
         points_html = f'<div class="points">+{item["points"]}pt ({pct_txt})</div>'
-    badge_html = (
-        f'<div class="gbadge">{esc(badge)}</div>' if badge else ""
-    )
+    # 各ジャンルは実質お得度の順に並べているため、新しくセール入りした商品が
+    # 埋もれる。並びは変えずに印だけ付けて見分けられるようにする
+    badges = []
+    if is_new:
+        badges.append('<span class="nbadge">NEW</span>')
+    if badge:
+        badges.append(f'<span class="gbadge">{esc(badge)}</span>')
+    badge_html = f'<div class="badges">{"".join(badges)}</div>' if badges else ""
     since_html = ""
     if item.get("since"):
         try:
@@ -213,27 +246,9 @@ def generate_html(data: dict) -> str:
         if g["name"] in excluded:
             continue
         for b in g.get("items") or []:
-            at = b.get("since_at")
-            if at:
-                try:
-                    elapsed_h = (
-                        fetched - datetime.datetime.fromisoformat(at)
-                    ).total_seconds() / 3600
-                except ValueError:
-                    continue
-            else:
-                # first_seen_at を記録する前から掲載されている商品への経過措置。
-                # 時刻が無いので日付で判定し、当日中なら新着とみなす。
-                # 商品の入れ替わりが速いため数日で全件が時刻付きに置き換わる
-                since = b.get("since")
-                if not since:
-                    continue
-                try:
-                    elapsed_h = (
-                        (today - datetime.date.fromisoformat(since)).days * 24
-                    )
-                except ValueError:
-                    continue
+            elapsed_h = hours_since(b, fetched, today)
+            if elapsed_h is None:
+                continue
             if elapsed_h <= new_hours:
                 arrivals.append((sort_key(b), g["name"], b))
     if arrivals:
@@ -251,7 +266,15 @@ def generate_html(data: dict) -> str:
     for i, g in enumerate(genres):
         items = g.get("items") or []
         if items:
-            books = "\n".join(render_book(b) for b in items)
+            books = "\n".join(
+                render_book(
+                    b,
+                    is_new=(lambda h: h is not None and h <= new_hours)(
+                        hours_since(b, fetched, today)
+                    ),
+                )
+                for b in items
+            )
             body = f'<div class="grid">\n{books}\n</div>'
         else:
             body = '<p class="empty">現在セール中の商品はありません。</p>'
