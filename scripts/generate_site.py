@@ -82,7 +82,7 @@ details > .grid, details > .empty { margin-top: 12px; }
 .points { font-size: 11px; color: #0a7d3c; font-weight: 600; margin-top: 2px; }
 @media (prefers-color-scheme: dark) { .points { color: #4fd689; } }
 .since { font-size: 11px; color: var(--muted); margin-top: 2px; }
-/* 「お買い得now」でジャンル名を示すラベル */
+/* 「新着セール」でジャンル名を示すラベル */
 .gbadge { display: inline-block; font-size: 10px; font-weight: 600;
   color: var(--muted); border: 1px solid var(--line); border-radius: 4px;
   padding: 0 5px; margin-bottom: 3px; }
@@ -130,7 +130,7 @@ def render_book(item: dict, badge: str | None = None) -> str:
     """商品カードを組み立てる。
 
     badgeを渡すと、どのジャンルの商品かを示すラベルをタイトル上に添える
-    (「お買い得now」など、ジャンル横断で並べる場所で使う)。
+    (「新着セール」など、ジャンル横断で並べる場所で使う)。
     """
     off = item.get("percent_off")
     off_html = ""
