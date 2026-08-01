@@ -253,7 +253,11 @@ def generate_html(data: dict) -> str:
                 arrivals.append((sort_key(b), g["name"], b))
     if arrivals:
         arrivals.sort(key=lambda x: x[0], reverse=True)
-        cards = "\n".join(render_book(b, badge=name) for _, name, b in arrivals)
+        # ここは新着だけを集めた枠だが、各ジャンルの一覧と印を揃えて
+        # 「これは新着だ」と一目で分かるようにする
+        cards = "\n".join(
+            render_book(b, badge=name, is_new=True) for _, name, b in arrivals
+        )
         sections.append(
             '<details open id="new">\n'
             f'<summary><h2>🆕 新着セール ({len(arrivals)}件)</h2></summary>\n'

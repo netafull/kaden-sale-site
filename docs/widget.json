@@ -19,7 +19,7 @@
         },
         {
           "title": "Apple iPhone Air 512GB (SIMフリー) スカイブルー",
-          "is_new": false,
+          "is_new": true,
           "price": 156800,
           "list_price": 212800,
           "percent_off": 26,
@@ -52,7 +52,7 @@
         },
         {
           "title": "Apple 2024 iMac 8 コア CPU、8 コア GPU の M4 チップ搭載、24 インチ Retina ディスプレイ、 16GBユニファイドメモリ、256GBの SSD ストレージ - シルバー + 3年延長 AppleCare+ for iMac(M4)",
-          "is_new": false,
+          "is_new": true,
           "price": 225600,
           "list_price": 279600,
           "percent_off": 19,
@@ -243,7 +243,7 @@
       "books": [
         {
           "title": "Belkin USB充電器 40W iPhone17,16～12 デュアルUSB-C(20W x 2) PD3.0 急速充電対応 ホワイト WCB006dqWHJP",
-          "is_new": false,
+          "is_new": true,
           "price": 1400,
           "list_price": 2660,
           "percent_off": 47,
@@ -265,7 +265,7 @@
         },
         {
           "title": "【VGP受賞】Belkin 充電器 USB-C 2ポート PPS規格対応 GaN採用 小型 ACアダプター タイプC 急速充電 軽量【PD3.0対応 /PSE認証/折りたたみ式プラグ】45W(25W+20W) MacBook Windows PC Surface Pro iPad iPhone 17,16～12対応 Galaxy Android スマホ 各種ノートPC対応 WCH011dqWH",
-          "is_new": false,
+          "is_new": true,
           "price": 2918,
           "list_price": 4829,
           "percent_off": 40,
@@ -276,7 +276,7 @@
         },
         {
           "title": "Belkin Qi2 車載ワイヤレス充電器 15W急速充電 MagSafe対応 スマホホルダー エアコン吹き出し口用",
-          "is_new": false,
+          "is_new": true,
           "price": 3827,
           "list_price": 5990,
           "percent_off": 36,
@@ -615,7 +615,7 @@
       "books": [
         {
           "title": "VITURE Luma AR/XRグラス & HDMI XR アダプター セット｜146型1200p超鮮明・120Hz高刷新率 スマートグラス + iPhone 14以前/PS/Xbox/ゲーム機直結対応 3DoF強化 マルチスクリーン アダプター｜充電しながらプレイ可能 VITURE XRグラス用セット",
-          "is_new": false,
+          "is_new": true,
           "price": 63553,
           "list_price": 78460,
           "percent_off": 19,
@@ -626,7 +626,7 @@
         },
         {
           "title": "VITURE Luma Ultra XR グラス & Pro ネックバンド 12GBメモリ＆256GB内蔵ストレージ セット マルチスクリーン/6DoF/ハンドジェスチャー/スムーズフォロー/アンビエントモード搭載 PXPlay & XBXPlay 公式対応ワイヤレスゲームストリーミングメガネ",
-          "is_new": false,
+          "is_new": true,
           "price": 122886,
           "list_price": 149860,
           "percent_off": 18,
@@ -637,7 +637,7 @@
         },
         {
           "title": "VITURE Luma AR/XR グラス & Pro ネックバンド セット｜146型1200p超鮮明・120Hz スマートグラス + PSPlay連携 3DoF/マルチスクリーン AI音声操作 ネックバンド｜iPhone/Android/Mac/PC/Switch/Steam Deck対応",
-          "is_new": false,
+          "is_new": true,
           "price": 102386,
           "list_price": 124860,
           "percent_off": 18,
@@ -648,7 +648,7 @@
         },
         {
           "title": "VITURE Luma Ultra AR/XRグラス VGP&BEST BUY受賞 フル6DoF対応 ARハンドジェスチャー 1500nit",
-          "is_new": false,
+          "is_new": true,
           "price": 75800,
           "list_price": 89880,
           "percent_off": 16,
@@ -659,7 +659,7 @@
         },
         {
           "title": "DPVR G1 AI スマートグラス 翻訳 141言語対応 HD 800万画素カメラ付きメガネ 32Gb 調光レンズ搭載 AI画像認識 メガネ型カメラ オーディオグラス スマートグラス iPhone対応 Android対応",
-          "is_new": false,
+          "is_new": true,
           "price": 11999,
           "list_price": 14390,
           "percent_off": 17,
@@ -670,7 +670,7 @@
         },
         {
           "title": "XREAL xbx a01+とXREAL Beam Pro 5G版(8+256GB) 空間エンタメセット",
-          "is_new": false,
+          "is_new": true,
           "price": 72342,
           "list_price": 87160,
           "percent_off": 17,
@@ -681,7 +681,7 @@
         },
         {
           "title": "VITURE Luma AR/XRグラス 近視-6.0Dまで対応 146型 1200p 120Hz",
-          "is_new": false,
+          "is_new": true,
           "price": 54800,
           "list_price": 64880,
           "percent_off": 16,
