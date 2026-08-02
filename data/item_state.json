@@ -221,6 +221,12 @@
     "last_seen": "2026-08-02",
     "title": "Anker 523 Charger (Nano 3, 47W) ホワイト"
   },
+  "B0C5CBV6L3": {
+    "first_seen": "2026-07-29",
+    "first_seen_at": "2026-07-29T12:00:00+09:00",
+    "last_seen": "2026-08-02",
+    "title": "Anker Prime Wall Charger (67W, 3 ports, GaN) (ブラック)"
+  },
   "B0D53VKL36": {
     "first_seen": "2026-07-29",
     "first_seen_at": "2026-07-29T12:00:00+09:00",
@@ -244,12 +250,6 @@
     "first_seen_at": "2026-07-27T12:00:00+09:00",
     "last_seen": "2026-08-02",
     "title": "UGREEN 45W USB-C*4+USB-A*1 急速充電器 Type-C PD GaNⅡ充電器 PSE適合タイプc充電器 PD3.0/PPS/SCP/QC3.0"
-  },
-  "B0DNT9Z2HS": {
-    "first_seen": "2026-07-27",
-    "first_seen_at": "2026-07-27T12:00:00+09:00",
-    "last_seen": "2026-08-02",
-    "title": "UGREEN 100W GaN 卓上急速充電器 (4*USB-C+2*USB-A) コンパクト【PSE技術基準適合/PD3.0/QC4.0/PPS対応】 複数台同時充電 iPhone17/16/15/14/13/Xperia/Pixel Pro/iPad/ノートPC MacBook Pro/Airなどに対応"
   },
   "B0D2D9LQP4": {
     "first_seen": "2026-07-31",
@@ -803,11 +803,11 @@
     "last_seen": "2026-08-02",
     "title": "COSORI コソリ ノンフライヤー 4.7L 大容量 家庭用 エアフライヤー 最高温230℃ 揚げ物 タイマー グレー CAF-L501-KJP"
   },
-  "B0C5CBV6L3": {
-    "first_seen": "2026-07-29",
-    "first_seen_at": "2026-07-29T12:00:00+09:00",
+  "B0DNT9Z2HS": {
+    "first_seen": "2026-07-27",
+    "first_seen_at": "2026-07-27T12:00:00+09:00",
     "last_seen": "2026-08-02",
-    "title": "Anker Prime Wall Charger (67W, 3 ports, GaN) (ブラック)"
+    "title": "UGREEN 100W GaN 卓上急速充電器 (4*USB-C+2*USB-A) コンパクト【PSE技術基準適合/PD3.0/QC4.0/PPS対応】 複数台同時充電 iPhone17/16/15/14/13/Xperia/Pixel Pro/iPad/ノートPC MacBook Pro/Airなどに対応"
   },
   "B0G43NVJHV": {
     "first_seen": "2026-07-31",
