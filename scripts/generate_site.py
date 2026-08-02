@@ -367,6 +367,10 @@ gtag('config', '{esc(ga_id)}');
                 "name": CONFIG["site_title"],
                 "url": site_url,
                 "description": CONFIG["site_description"],
+                # 毎時更新はこのサイトの強みだが、画面上の「最終更新」表記は
+                # 機械には読めない。検索エンジンやAIに鮮度を伝えるため
+                # 構造化データにも入れる
+                "dateModified": fetched.isoformat(timespec="seconds"),
             },
             {
                 "@context": "https://schema.org",
