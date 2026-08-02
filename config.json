@@ -25,7 +25,6 @@
   "pages_per_genre": 4,
   "new_arrival_hours": 24,
   "new_arrival_exclude_genres": [
-    "電気シェーバー",
     "電動歯ブラシ"
   ],
   "genres": [
@@ -547,31 +546,6 @@
         "MUJI",
         "貝印",
         "KAI"
-      ]
-    },
-    {
-      "name": "電気シェーバー",
-      "keywords": [
-        "電気シェーバー 髭剃り"
-      ],
-      "search_index": "HealthPersonalCare",
-      "must_include_any": [
-        "シェーバー",
-        "髭剃り",
-        "ヒゲ"
-      ],
-      "known_brands": [
-        "Panasonic",
-        "パナソニック",
-        "ラムダッシュ",
-        "Braun",
-        "ブラウン",
-        "Philips",
-        "フィリップス",
-        "日立",
-        "HITACHI",
-        "IZUMI",
-        "イズミ"
       ]
     },
     {

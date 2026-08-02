@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-01T00:28:02.829396+00:00",
+  "updated": "2026-08-02T01:56:39.072076+00:00",
   "site_url": "https://kaden.netaful.jp/",
   "site_title": "家電ポチ",
   "genres": [
@@ -7,19 +7,8 @@
       "name": "Apple製品",
       "books": [
         {
-          "title": "11インチiPad Pro Wi‑Fiモデル 2TB（標準ガラス搭載）- シルバー + AppleCare+ for 11インチiPad Pro（M5）",
-          "is_new": true,
-          "price": 295440,
-          "list_price": null,
-          "percent_off": 28,
-          "points": 0,
-          "points_percent": null,
-          "image": "https://m.media-amazon.com/images/I/41iyA2tNQSL._SL160_.jpg",
-          "url": "https://www.amazon.co.jp/dp/B0FX46NSHB?tag=natafull-22&linkCode=ogi&th=1&psc=1"
-        },
-        {
           "title": "Apple iPhone Air 512GB (SIMフリー) スカイブルー",
-          "is_new": true,
+          "is_new": false,
           "price": 156800,
           "list_price": 212800,
           "percent_off": 26,
@@ -27,17 +16,6 @@
           "points_percent": 1,
           "image": "https://m.media-amazon.com/images/I/31MWL1qkA+L._SL160_.jpg",
           "url": "https://www.amazon.co.jp/dp/B0FQFPZW9G?tag=natafull-22&linkCode=ogi&th=1&psc=1"
-        },
-        {
-          "title": "Apple 13インチiPad Air（M4）：Liquid Retinaディスプレイ、1TB、12MPフロント/バックカメラ、Apple N1によるWi-Fi 7 + 5Gモバイル通信、Touch ID、一日中使えるバッテリー — スペースグレイ + 2年延長 AppleCare+ for iPad Air 13-inch (M4)|ダウンロード版",
-          "is_new": true,
-          "price": 244066,
-          "list_price": 315600,
-          "percent_off": 23,
-          "points": 0,
-          "points_percent": null,
-          "image": "https://m.media-amazon.com/images/I/41RAOViejhL._SL160_.jpg",
-          "url": "https://www.amazon.co.jp/dp/B0GRTJ7DZK?tag=natafull-22&linkCode=ogi&th=1&psc=1"
         },
         {
           "title": "Apple iPhone Air 256GB (SIMフリー) スカイブルー",
@@ -52,7 +30,7 @@
         },
         {
           "title": "Apple 2024 iMac 8 コア CPU、8 コア GPU の M4 チップ搭載、24 インチ Retina ディスプレイ、 16GBユニファイドメモリ、256GBの SSD ストレージ - シルバー + 3年延長 AppleCare+ for iMac(M4)",
-          "is_new": true,
+          "is_new": false,
           "price": 225600,
           "list_price": 279600,
           "percent_off": 19,
@@ -73,17 +51,6 @@
           "url": "https://www.amazon.co.jp/dp/B0FQFQDN6K?tag=natafull-22&linkCode=osi&th=1&psc=1"
         },
         {
-          "title": "Apple 2026 MacBook Pro 15コアCPU、16コアGPUのM5 Proチップ搭載ノートパソコン：AIのために設計、14.2インチLiquid Retina XDRディスプレイ、24GBユニファイドメモリ、1TBのSSDストレージ - スペースブラック",
-          "is_new": true,
-          "price": 365297,
-          "list_price": 429799,
-          "percent_off": 15,
-          "points": 0,
-          "points_percent": null,
-          "image": "https://m.media-amazon.com/images/I/21Xiu4zbqXL._SL160_.jpg",
-          "url": "https://www.amazon.co.jp/dp/B0GR1LNP9V?tag=natafull-22&linkCode=ogi&th=1&psc=1"
-        },
-        {
           "title": "Apple Watch Series 11(GPSモデル)- 46mmジェットブラックアルミニウムケースとブラックスポーツバンド - M/L、睡眠時無呼吸、高血圧パターン、血中酸素、心電図、排卵推定、心拍数、服薬、マインドフルネス、ノイズ、睡眠スコア、転倒検出、IPX6X防塵、泳げる耐水、Suica対応、高速充電対応",
           "is_new": false,
           "price": 67800,
@@ -93,23 +60,34 @@
           "points_percent": 1,
           "image": "https://m.media-amazon.com/images/I/41mUfdF4HaL._SL160_.jpg",
           "url": "https://www.amazon.co.jp/dp/B0FQG2B81Z?tag=natafull-22&linkCode=osi&th=1&psc=1"
+        },
+        {
+          "title": "Apple Watch Series 11(GPSモデル)- 42mmローズゴールドアルミニウムケースとライトブラッシュスポーツバンド - M/L、睡眠時無呼吸、高血圧パターン、血中酸素、心電図、排卵推定、心拍数、服薬、マインドフルネス、ノイズ、睡眠スコア、転倒検出、IPX6X防塵、泳げる耐水、Suica対応、高速充電対応",
+          "is_new": false,
+          "price": 63800,
+          "list_price": 71800,
+          "percent_off": 11,
+          "points": 638,
+          "points_percent": 1,
+          "image": "https://m.media-amazon.com/images/I/31TU9aa8QnL._SL160_.jpg",
+          "url": "https://www.amazon.co.jp/dp/B0FQFQHJRC?tag=natafull-22&linkCode=ogi&th=1&psc=1"
+        },
+        {
+          "title": "Apple 13インチiPad Pro（M5）用Magic Keyboard - 日本語 - ブラック ​​​​​​​",
+          "is_new": false,
+          "price": 59800,
+          "list_price": 65800,
+          "percent_off": 9,
+          "points": 598,
+          "points_percent": 1,
+          "image": "https://m.media-amazon.com/images/I/41SZRMXIs8L._SL160_.jpg",
+          "url": "https://www.amazon.co.jp/dp/B0D3J7HJYN?tag=natafull-22&linkCode=ogi&th=1&psc=1"
         }
       ]
     },
     {
       "name": "ワイヤレスイヤホン",
       "books": [
-        {
-          "title": "オーディオテクニカ ATH-M20xBT ワイヤレスヘッドホン Bluetooth 有線対応 ヘッドフォン 40mmCCAWボイスコイルドライバー 216gの軽量ボディ マルチポイント 低遅延モード 最大60時間再生 ハンズフリー通話 【国内正規品】 ブラック",
-          "is_new": false,
-          "price": 9000,
-          "list_price": 12100,
-          "percent_off": 26,
-          "points": 90,
-          "points_percent": 1,
-          "image": "https://m.media-amazon.com/images/I/31Cwpj8S2oL._SL160_.jpg",
-          "url": "https://www.amazon.co.jp/dp/B09QMCFQJL?tag=natafull-22&linkCode=osi&th=1&psc=1"
-        },
         {
           "title": "【Amazon.co.jp 限定】JBL TOUR PRO 3 ワイヤレスイヤホン bluetooth/ハイブリッドノイズキャンセリング/ハイレゾワイヤレスLDAC/デュアルドライバー/マルチポイント/防塵・防水/ワイヤレス充電対応/スマートタッチディスプレイ搭載/ネイビー /JBLTOURPRO3BLU",
           "is_new": false,
@@ -122,11 +100,22 @@
           "url": "https://www.amazon.co.jp/dp/B0FPQN7DBD?tag=natafull-22&linkCode=osi&th=1&psc=1"
         },
         {
+          "title": "オーディオテクニカ ATH-M20xBT ワイヤレスヘッドホン Bluetooth 有線対応 ヘッドフォン 40mmCCAWボイスコイルドライバー 216gの軽量ボディ マルチポイント 低遅延モード 最大60時間再生 ハンズフリー通話 【国内正規品】 ブラック",
+          "is_new": false,
+          "price": 9000,
+          "list_price": 11000,
+          "percent_off": 18,
+          "points": 90,
+          "points_percent": 1,
+          "image": "https://m.media-amazon.com/images/I/31Cwpj8S2oL._SL160_.jpg",
+          "url": "https://www.amazon.co.jp/dp/B09QMCFQJL?tag=natafull-22&linkCode=osi&th=1&psc=1"
+        },
+        {
           "title": "Bose QuietComfort Ultra Earbuds (第2世代) ワイヤレス ノイズキャンセリング Bluetooth イヤホン 最長6時間連続再生 IPX4規格準拠 イマーシブオーディオ 迫力の重低音 ブラック",
           "is_new": false,
           "price": 36000,
-          "list_price": 39600,
-          "percent_off": 9,
+          "list_price": null,
+          "percent_off": null,
           "points": 5760,
           "points_percent": 16,
           "image": "https://m.media-amazon.com/images/I/31M7uzqFLEL._SL160_.jpg",
@@ -158,6 +147,17 @@
           "points_percent": 6,
           "image": "https://m.media-amazon.com/images/I/21FZAnhgkQL._SL160_.jpg",
           "url": "https://www.amazon.co.jp/dp/B0CL8S3WMX?tag=natafull-22&linkCode=osi&th=1&psc=1"
+        },
+        {
+          "title": "Belkin BoostCharge モバイルバッテリー ディズプレイ付き (10000mAh 20W USB-Cケーブル内蔵) 最大20W PD高速充電対応 PPS対応 iPhone&Androidスマホ対応 2台同時充電 PSE認証 軽量&コンパクト 機内持込可能 アウトドア/災害/緊急用の便利グッズ メーカー保証2年 ホワイト BPB027fqWH",
+          "is_new": true,
+          "price": 2537,
+          "list_price": 3790,
+          "percent_off": 33,
+          "points": 25,
+          "points_percent": 1,
+          "image": "https://m.media-amazon.com/images/I/21mPZUmVJiL._SL160_.jpg",
+          "url": "https://www.amazon.co.jp/dp/B0F8HWY897?tag=natafull-22&linkCode=osi&th=1&psc=1"
         },
         {
           "title": "Anker Power Bank (25000mAh, Built-In & 巻取り式USB-Cケーブル) ブラック",
@@ -224,17 +224,6 @@
           "points_percent": 1,
           "image": "https://m.media-amazon.com/images/I/31XBIPPZJRL._SL160_.jpg",
           "url": "https://www.amazon.co.jp/dp/B0FS5XT48F?tag=natafull-22&linkCode=osi&th=1&psc=1"
-        },
-        {
-          "title": "UGREEN 100W モバイルバッテリー 20000mAh 大容量 3ポート USB-C×2 USB-A×1",
-          "is_new": false,
-          "price": 7480,
-          "list_price": 9999,
-          "percent_off": 25,
-          "points": 75,
-          "points_percent": 1,
-          "image": "https://m.media-amazon.com/images/I/31xSnjyT5rL._SL160_.jpg",
-          "url": "https://www.amazon.co.jp/dp/B0C3GTMX5M?tag=natafull-22&linkCode=osi&th=1&psc=1"
         }
       ]
     },
@@ -243,7 +232,7 @@
       "books": [
         {
           "title": "Belkin USB充電器 40W iPhone17,16～12 デュアルUSB-C(20W x 2) PD3.0 急速充電対応 ホワイト WCB006dqWHJP",
-          "is_new": true,
+          "is_new": false,
           "price": 1400,
           "list_price": 2660,
           "percent_off": 47,
@@ -253,19 +242,8 @@
           "url": "https://www.amazon.co.jp/dp/B098SQSRRV?tag=natafull-22&linkCode=osi&th=1&psc=1"
         },
         {
-          "title": "サンワサプライ カーチャージャー(1ポート・2.4A) スマホ・タブレット対応 CAR-CHR73U",
-          "is_new": false,
-          "price": 717,
-          "list_price": 1210,
-          "percent_off": 41,
-          "points": 7,
-          "points_percent": 1,
-          "image": "https://m.media-amazon.com/images/I/41pIL+o+qAL._SL160_.jpg",
-          "url": "https://www.amazon.co.jp/dp/B07SQ1LBYK?tag=natafull-22&linkCode=osi&th=1&psc=1"
-        },
-        {
           "title": "【VGP受賞】Belkin 充電器 USB-C 2ポート PPS規格対応 GaN採用 小型 ACアダプター タイプC 急速充電 軽量【PD3.0対応 /PSE認証/折りたたみ式プラグ】45W(25W+20W) MacBook Windows PC Surface Pro iPad iPhone 17,16～12対応 Galaxy Android スマホ 各種ノートPC対応 WCH011dqWH",
-          "is_new": true,
+          "is_new": false,
           "price": 2918,
           "list_price": 4829,
           "percent_off": 40,
@@ -276,7 +254,7 @@
         },
         {
           "title": "Belkin Qi2 車載ワイヤレス充電器 15W急速充電 MagSafe対応 スマホホルダー エアコン吹き出し口用",
-          "is_new": true,
+          "is_new": false,
           "price": 3827,
           "list_price": 5990,
           "percent_off": 36,
@@ -328,6 +306,17 @@
           "points_percent": 1,
           "image": "https://m.media-amazon.com/images/I/31IFzpMPUWL._SL160_.jpg",
           "url": "https://www.amazon.co.jp/dp/B0F9FHXPDF?tag=natafull-22&linkCode=osi&th=1&psc=1"
+        },
+        {
+          "title": "UGREEN Nexode【当社比最小】65W PD充電器 USB-C*2+USB-A*1 急速充電器 PSE適合 PD/PPS/QC4+対応",
+          "is_new": false,
+          "price": 3600,
+          "list_price": 5180,
+          "percent_off": 31,
+          "points": 36,
+          "points_percent": 1,
+          "image": "https://m.media-amazon.com/images/I/31k2nc5tX2L._SL160_.jpg",
+          "url": "https://www.amazon.co.jp/dp/B0CLGZGXMD?tag=natafull-22&linkCode=osi&th=1&psc=1"
         }
       ]
     },
@@ -357,6 +346,17 @@
           "url": "https://www.amazon.co.jp/dp/B0CZKZ8Q66?tag=natafull-22&linkCode=osi&th=1&psc=1"
         },
         {
+          "title": "【 サンディスク 正規品 】 SanDisk microSD カード Ultra SDSQUAB-128G-GH3MA 簡易デザインパッケージ",
+          "is_new": false,
+          "price": 3913,
+          "list_price": 4890,
+          "percent_off": 20,
+          "points": 39,
+          "points_percent": 1,
+          "image": "https://m.media-amazon.com/images/I/41Gbz-hLVTL._SL160_.jpg",
+          "url": "https://www.amazon.co.jp/dp/B0CH2X5LBX?tag=natafull-22&linkCode=osi&th=1&psc=1"
+        },
+        {
           "title": "Lexar Silver Plus Micro SDカード 512GB 最大読み取り速度205MB/秒 書き込み速度150MB/秒 SDアダプター付き UHS-I A2 U3 V30 Class10 4K UHD MicroSDXC",
           "is_new": false,
           "price": 17980,
@@ -366,17 +366,6 @@
           "points_percent": 1,
           "image": "https://m.media-amazon.com/images/I/41JDvvx6-HL._SL160_.jpg",
           "url": "https://www.amazon.co.jp/dp/B0DV94RGY4?tag=natafull-22&linkCode=osi&th=1&psc=1"
-        },
-        {
-          "title": "【 サンディスク 正規品 】 SanDisk microSD カード Ultra SDSQUAB-128G-GH3MA 簡易デザインパッケージ",
-          "is_new": false,
-          "price": 3944,
-          "list_price": 4890,
-          "percent_off": 19,
-          "points": 39,
-          "points_percent": 1,
-          "image": "https://m.media-amazon.com/images/I/41Gbz-hLVTL._SL160_.jpg",
-          "url": "https://www.amazon.co.jp/dp/B0CH2X5LBX?tag=natafull-22&linkCode=osi&th=1&psc=1"
         },
         {
           "title": "エレコム microSD 32GB マイクロSDカード UHS-1 U1 microSDHC IPX7 MF-AMS032GU11",
@@ -483,17 +472,6 @@
           "url": "https://www.amazon.co.jp/dp/B0FB3LPDBQ?tag=natafull-22&linkCode=osi&th=1&psc=1"
         },
         {
-          "title": "SwitchBot スイッチボット スイッチ ボタンに適用 指ロボット スマートスイッチ スマートホーム ワイヤレス タイマー スマホで遠隔操作 Alexa, Google Home, Siri, IFTTTなどに対応(ハブ必要) ホワイト",
-          "is_new": false,
-          "price": 3927,
-          "list_price": 4980,
-          "percent_off": 21,
-          "points": 39,
-          "points_percent": 1,
-          "image": "https://m.media-amazon.com/images/I/31HowR-1bEL._SL160_.jpg",
-          "url": "https://www.amazon.co.jp/dp/B07B7NXV4R?tag=natafull-22&linkCode=osi&th=1&psc=1"
-        },
-        {
           "title": "【Compatible with Alexa認定】SwitchBot 防犯カメラ 屋外 300万画素 充電式 - ソーラーパネル 取付金具付き 監視カメラ 大容量バッテリー 取付簡単 夜間カラー撮影 動体検知 双方向音声通話 IP65防水防塵 ソーラー充電 省エネルギー スマートホーム スイッチボット 防犯対策補助金あり 屋外カメラ3MP(ソーラーパネル・取付金具付き)",
           "is_new": false,
           "price": 8784,
@@ -514,6 +492,17 @@
           "points_percent": 1,
           "image": "https://m.media-amazon.com/images/I/31AM-9+bCJL._SL160_.jpg",
           "url": "https://www.amazon.co.jp/dp/B0D6388M95?tag=natafull-22&linkCode=osi&th=1&psc=1"
+        },
+        {
+          "title": "スイッチボット(SwitchBot) SwitchBot スマートリモコン ハブ2 赤外線家電を管理 スマートホーム Alexa スイッチボット 学習リモコン 温湿度計機能付き 光センサー付き リモートボタン スケジュール シーンで家電一括操作 遠隔操作 節電·省エネ Google Home IFTTT Siri SmartThingsに対応 Hub2",
+          "is_new": false,
+          "price": 8400,
+          "list_price": 9980,
+          "percent_off": 16,
+          "points": 84,
+          "points_percent": 1,
+          "image": "https://m.media-amazon.com/images/I/41A4B3EevKL._SL160_.jpg",
+          "url": "https://www.amazon.co.jp/dp/B0BM8VS13P?tag=natafull-22&linkCode=osi&th=1&psc=1"
         }
       ]
     },
@@ -530,17 +519,6 @@
           "points_percent": 13,
           "image": "https://m.media-amazon.com/images/I/41KkM4mAaZL._SL160_.jpg",
           "url": "https://www.amazon.co.jp/dp/B0F5WR3KP9?tag=natafull-22&linkCode=osi&th=1&psc=1"
-        },
-        {
-          "title": "HUAWEI WATCH FIT 4 スマートウォッチ 薄型軽量 1.82インチ大画面 アウトドアに適した気圧計と測位システム 通知 フィットネス ヘルストラッカー 情緒測定 10日間ロングバッテリー iOS/Android対応 ブラック",
-          "is_new": false,
-          "price": 19800,
-          "list_price": 23980,
-          "percent_off": 17,
-          "points": 2178,
-          "points_percent": 11,
-          "image": "https://m.media-amazon.com/images/I/416KXnN7ryL._SL160_.jpg",
-          "url": "https://www.amazon.co.jp/dp/B0F5WNVHH7?tag=natafull-22&linkCode=osi&th=1&psc=1"
         },
         {
           "title": "HUAWEI WATCH GT 6 Pro 46mm スマートウォッチ 1.47インチ大画面 最長21日間バッテリー サイクリング/登山/進化したゴルフナビ スポーツモード100種類以上 GPS搭載 心電図分析 健康/情緒モニタリング iOS/Android対応 ブラック",
@@ -615,7 +593,7 @@
       "books": [
         {
           "title": "VITURE Luma AR/XRグラス & HDMI XR アダプター セット｜146型1200p超鮮明・120Hz高刷新率 スマートグラス + iPhone 14以前/PS/Xbox/ゲーム機直結対応 3DoF強化 マルチスクリーン アダプター｜充電しながらプレイ可能 VITURE XRグラス用セット",
-          "is_new": true,
+          "is_new": false,
           "price": 63553,
           "list_price": 78460,
           "percent_off": 19,
@@ -626,7 +604,7 @@
         },
         {
           "title": "VITURE Luma Ultra XR グラス & Pro ネックバンド 12GBメモリ＆256GB内蔵ストレージ セット マルチスクリーン/6DoF/ハンドジェスチャー/スムーズフォロー/アンビエントモード搭載 PXPlay & XBXPlay 公式対応ワイヤレスゲームストリーミングメガネ",
-          "is_new": true,
+          "is_new": false,
           "price": 122886,
           "list_price": 149860,
           "percent_off": 18,
@@ -637,7 +615,7 @@
         },
         {
           "title": "VITURE Luma AR/XR グラス & Pro ネックバンド セット｜146型1200p超鮮明・120Hz スマートグラス + PSPlay連携 3DoF/マルチスクリーン AI音声操作 ネックバンド｜iPhone/Android/Mac/PC/Switch/Steam Deck対応",
-          "is_new": true,
+          "is_new": false,
           "price": 102386,
           "list_price": 124860,
           "percent_off": 18,
@@ -648,7 +626,7 @@
         },
         {
           "title": "VITURE Luma Ultra AR/XRグラス VGP&BEST BUY受賞 フル6DoF対応 ARハンドジェスチャー 1500nit",
-          "is_new": true,
+          "is_new": false,
           "price": 75800,
           "list_price": 89880,
           "percent_off": 16,
@@ -658,8 +636,19 @@
           "url": "https://www.amazon.co.jp/dp/B0GCZMGP1T?tag=natafull-22&linkCode=osi&th=1&psc=1"
         },
         {
+          "title": "VITURE Luma AR/XRグラス 近視-6.0Dまで対応 146型 1200p 120Hz",
+          "is_new": false,
+          "price": 54800,
+          "list_price": 64880,
+          "percent_off": 16,
+          "points": 548,
+          "points_percent": 1,
+          "image": "https://m.media-amazon.com/images/I/31YbxA2lS2L._SL160_.jpg",
+          "url": "https://www.amazon.co.jp/dp/B0FFT61X6F?tag=natafull-22&linkCode=osi&th=1&psc=1"
+        },
+        {
           "title": "DPVR G1 AI スマートグラス 翻訳 141言語対応 HD 800万画素カメラ付きメガネ 32Gb 調光レンズ搭載 AI画像認識 メガネ型カメラ オーディオグラス スマートグラス iPhone対応 Android対応",
-          "is_new": true,
+          "is_new": false,
           "price": 11999,
           "list_price": 14390,
           "percent_off": 17,
@@ -670,7 +659,7 @@
         },
         {
           "title": "XREAL xbx a01+とXREAL Beam Pro 5G版(8+256GB) 空間エンタメセット",
-          "is_new": true,
+          "is_new": false,
           "price": 72342,
           "list_price": 87160,
           "percent_off": 17,
@@ -680,19 +669,8 @@
           "url": "https://www.amazon.co.jp/dp/B0H7RJ4THB?tag=natafull-22&linkCode=osi&th=1&psc=1"
         },
         {
-          "title": "VITURE Luma AR/XRグラス 近視-6.0Dまで対応 146型 1200p 120Hz",
-          "is_new": true,
-          "price": 54800,
-          "list_price": 64880,
-          "percent_off": 16,
-          "points": 548,
-          "points_percent": 1,
-          "image": "https://m.media-amazon.com/images/I/31YbxA2lS2L._SL160_.jpg",
-          "url": "https://www.amazon.co.jp/dp/B0FFT61X6F?tag=natafull-22&linkCode=osi&th=1&psc=1"
-        },
-        {
           "title": "XREAL One Pro ARグラス｜X1チップ＆X-Prism光学搭載｜ネイティブ3DoF対応｜3Dリアル変換機能｜57°の広視野角・最大428インチ相当・FHD・最大120Hz表示｜iPhone 17/16/15（※eシリーズ除く）、Steam Deck、ROG、Mac、PC、Android & iOS対応｜IPD（瞳孔間距離）に合わせた2サイズ展開［M (IPD 57-66mm)］",
-          "is_new": true,
+          "is_new": false,
           "price": 72230,
           "list_price": 84980,
           "percent_off": 15,
