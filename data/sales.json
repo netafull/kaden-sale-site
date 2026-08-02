@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-02T01:56:39.072076+00:00",
+  "fetched_at": "2026-08-02T02:58:58.811911+00:00",
   "min_saving_percent": 15,
   "genres": [
     {
@@ -364,6 +364,20 @@
           "url": "https://www.amazon.co.jp/dp/B0GPDBS299?tag=natafull-22&linkCode=osi&th=1&psc=1",
           "since": "2026-07-29",
           "since_at": "2026-07-29T12:00:00+09:00"
+        },
+        {
+          "asin": "B09NTNTVRJ",
+          "title": "Belkin モバイルバッテリー 3C対応 CCC大容量 20000mAh iPhone 17,16～12&Android対応 5V3A 最大15W 最大40時間 3ポート(USB-Cx1 USB-Ax2) スリム&軽量 PSE認証 機内持込可能ケーブル付属 メーカー保証2年 ブラック BPB012btBK",
+          "brand": "Belkin",
+          "price": 2808,
+          "list_price": 3443,
+          "percent_off": 18,
+          "points": 0,
+          "points_percent": null,
+          "image": "https://m.media-amazon.com/images/I/31vZLhOYmLL._SL160_.jpg",
+          "url": "https://www.amazon.co.jp/dp/B09NTNTVRJ?tag=natafull-22&linkCode=osi&th=1&psc=1",
+          "since": "2026-08-02",
+          "since_at": "2026-08-02T11:58:58+09:00"
         },
         {
           "asin": "B0DZ1TGX6T",
@@ -854,6 +868,123 @@
       ]
     },
     {
+      "name": "モニター・ディスプレイ",
+      "items": [
+        {
+          "asin": "B0DMN94Q8M",
+          "title": "REGZA ゲーミングモニター 27インチ WQHD 240Hz モンスターハンターワイルズ推奨画質 1ms(GTG) HDR10 Fast IPSパネル Adaptive Sync HDMI対応 RM-G276N",
+          "brand": "レグザ(Regza)",
+          "price": 31500,
+          "list_price": 50600,
+          "percent_off": 38,
+          "points": 315,
+          "points_percent": 1,
+          "image": "https://m.media-amazon.com/images/I/41QgDlQR4GL._SL160_.jpg",
+          "url": "https://www.amazon.co.jp/dp/B0DMN94Q8M?tag=natafull-22&linkCode=osi&th=1&psc=1",
+          "since": "2026-08-02",
+          "since_at": "2026-08-02T11:33:18+09:00"
+        },
+        {
+          "asin": "B0DT3NLNCC",
+          "title": "BenQ MOBIUZ EX251 24.5インチ IPS フルHD 220Hz 1ms ゲーミングモニター",
+          "brand": "ベンキュージャパン",
+          "price": 19800,
+          "list_price": 30000,
+          "percent_off": 34,
+          "points": 198,
+          "points_percent": 1,
+          "image": "https://m.media-amazon.com/images/I/41vrJRHLidL._SL160_.jpg",
+          "url": "https://www.amazon.co.jp/dp/B0DT3NLNCC?tag=natafull-22&linkCode=osi&th=1&psc=1",
+          "since": "2026-08-02",
+          "since_at": "2026-08-02T11:33:18+09:00"
+        },
+        {
+          "asin": "B0CTKBY3J3",
+          "title": "LG モニター 32UQ850V-W 31.5インチ/4K/IPS Black/HDR400/USB-C PD90W/KVM",
+          "brand": "LG",
+          "price": 73400,
+          "list_price": 94800,
+          "percent_off": 23,
+          "points": 734,
+          "points_percent": 1,
+          "image": "https://m.media-amazon.com/images/I/51yqjGSsj+L._SL160_.jpg",
+          "url": "https://www.amazon.co.jp/dp/B0CTKBY3J3?tag=natafull-22&linkCode=osi&th=1&psc=1",
+          "since": "2026-08-02",
+          "since_at": "2026-08-02T11:33:18+09:00"
+        },
+        {
+          "asin": "B00CWXRT98",
+          "title": "Pixio ゲーミングモニター PX278Wave ホワイト 27インチ WQHD 180hz Fast IPS ゲーミング モニター 白 ピクシオ",
+          "brand": "Pixio",
+          "price": 31500,
+          "list_price": 39980,
+          "percent_off": 21,
+          "points": 315,
+          "points_percent": 1,
+          "image": "https://m.media-amazon.com/images/I/41SiATa-OML._SL160_.jpg",
+          "url": "https://www.amazon.co.jp/dp/B00CWXRT98?tag=natafull-22&linkCode=osi&th=1&psc=1",
+          "since": "2026-08-02",
+          "since_at": "2026-08-02T11:33:18+09:00"
+        },
+        {
+          "asin": "B0DNKC8HXP",
+          "title": "INNOCN ゲーミングモニター 24.5インチ 200Hz IPS 1ms(GTG) フルHD 非光沢 フレームレス PS5/Xbox対応 Adaptive-Sync VESA100×100 HDMI2.0/DP1.4接続 25G2G",
+          "brand": "INNOCN",
+          "price": 13290,
+          "list_price": 16990,
+          "percent_off": 22,
+          "points": 0,
+          "points_percent": null,
+          "image": "https://m.media-amazon.com/images/I/51NmyLuDZuL._SL160_.jpg",
+          "url": "https://www.amazon.co.jp/dp/B0DNKC8HXP?tag=natafull-22&linkCode=osi&th=1&psc=1",
+          "since": "2026-08-02",
+          "since_at": "2026-08-02T11:33:18+09:00"
+        },
+        {
+          "asin": "B00CWXQX90",
+          "title": "Pixio ゲーミングモニター PX248Wave ブラック 24インチ 200hz FHD Fast IPS ゲーミング モニター 黒 ピクシオ",
+          "brand": "Pixio",
+          "price": 21500,
+          "list_price": 26980,
+          "percent_off": 20,
+          "points": 215,
+          "points_percent": 1,
+          "image": "https://m.media-amazon.com/images/I/51it0ljwu9L._SL160_.jpg",
+          "url": "https://www.amazon.co.jp/dp/B00CWXQX90?tag=natafull-22&linkCode=osi&th=1&psc=1",
+          "since": "2026-08-02",
+          "since_at": "2026-08-02T11:33:18+09:00"
+        },
+        {
+          "asin": "B0F7X3VJ99",
+          "title": "IODATA GigaCrysta MiniLED ゲーミングモニター 27インチ 200Hz 0.9ms WQHD AHVAパネル 非光沢 広色域 ブラック 無輝点保証対応 (量子ドット/HDR1000/HDMI×2/DisplayPort/VESA対応/スピーカー/リモコン/高さ調整/縦横回転/土日サポート/日本メーカー) EX-GDQ271JLAQ",
+          "brand": "アイオーデータ",
+          "price": 49800,
+          "list_price": 59800,
+          "percent_off": 17,
+          "points": 498,
+          "points_percent": 1,
+          "image": "https://m.media-amazon.com/images/I/5189cZmMy8L._SL160_.jpg",
+          "url": "https://www.amazon.co.jp/dp/B0F7X3VJ99?tag=natafull-22&linkCode=osi&th=1&psc=1",
+          "since": "2026-08-02",
+          "since_at": "2026-08-02T11:33:18+09:00"
+        },
+        {
+          "asin": "B0DPKL9R3Q",
+          "title": "Pixio モバイルモニター PX160Wave ブラック 15.6インチ Type-C ミニHDMI 60Hz モバイル ディスプレイ 黒 ピクシオ",
+          "brand": "Pixio",
+          "price": 19800,
+          "list_price": 23980,
+          "percent_off": 17,
+          "points": 198,
+          "points_percent": 1,
+          "image": "https://m.media-amazon.com/images/I/41wo-0Ql9+L._SL160_.jpg",
+          "url": "https://www.amazon.co.jp/dp/B0DPKL9R3Q?tag=natafull-22&linkCode=osi&th=1&psc=1",
+          "since": "2026-08-02",
+          "since_at": "2026-08-02T11:33:18+09:00"
+        }
+      ]
+    },
+    {
       "name": "スマートホーム",
       "items": [
         {
@@ -1175,20 +1306,6 @@
           "since_at": "2026-07-31T12:00:00+09:00"
         },
         {
-          "asin": "B0GCZMGP1T",
-          "title": "VITURE Luma Ultra AR/XRグラス VGP&BEST BUY受賞 フル6DoF対応 ARハンドジェスチャー 1500nit",
-          "brand": "VITURE",
-          "price": 75800,
-          "list_price": 89880,
-          "percent_off": 16,
-          "points": 758,
-          "points_percent": 1,
-          "image": "https://m.media-amazon.com/images/I/31CPa27i4dL._SL160_.jpg",
-          "url": "https://www.amazon.co.jp/dp/B0GCZMGP1T?tag=natafull-22&linkCode=osi&th=1&psc=1",
-          "since": "2026-07-31",
-          "since_at": "2026-07-31T12:00:00+09:00"
-        },
-        {
           "asin": "B0FFT61X6F",
           "title": "VITURE Luma AR/XRグラス 近視-6.0Dまで対応 146型 1200p 120Hz",
           "brand": "VITURE",
@@ -1227,6 +1344,20 @@
           "points_percent": null,
           "image": "https://m.media-amazon.com/images/I/31A3OgLTTrL._SL160_.jpg",
           "url": "https://www.amazon.co.jp/dp/B0H7RJ4THB?tag=natafull-22&linkCode=osi&th=1&psc=1",
+          "since": "2026-07-31",
+          "since_at": "2026-07-31T12:00:00+09:00"
+        },
+        {
+          "asin": "B0GCZMGP1T",
+          "title": "VITURE Luma Ultra AR/XRグラス VGP&BEST BUY受賞 フル6DoF対応 ARハンドジェスチャー 1500nit",
+          "brand": "VITURE",
+          "price": 75800,
+          "list_price": 89880,
+          "percent_off": 16,
+          "points": 758,
+          "points_percent": 1,
+          "image": "https://m.media-amazon.com/images/I/31CPa27i4dL._SL160_.jpg",
+          "url": "https://www.amazon.co.jp/dp/B0GCZMGP1T?tag=natafull-22&linkCode=osi&th=1&psc=1",
           "since": "2026-07-31",
           "since_at": "2026-07-31T12:00:00+09:00"
         },
@@ -1301,6 +1432,10 @@
           "since_at": "2026-07-31T12:00:00+09:00"
         }
       ]
+    },
+    {
+      "name": "Amazonデバイス",
+      "items": []
     },
     {
       "name": "キーボード・マウス",
@@ -1813,67 +1948,6 @@
           "url": "https://www.amazon.co.jp/dp/B09HB4B15V?tag=natafull-22&linkCode=osi&th=1&psc=1",
           "since": "2026-07-24",
           "since_at": "2026-07-24T12:00:00+09:00"
-        }
-      ]
-    },
-    {
-      "name": "電動歯ブラシ",
-      "items": [
-        {
-          "asin": "B0DB48CFG7",
-          "title": "ブラウン 電動歯ブラシ オーラルB【電動初心者の決定版】iO2 iOS21D90BK ブラック 防水 歯科医推奨No.1ブランド【Amazon.co.jp 限定】",
-          "brand": "Braun",
-          "price": 6480,
-          "list_price": 11880,
-          "percent_off": 45,
-          "points": 65,
-          "points_percent": 1,
-          "image": "https://m.media-amazon.com/images/I/419BXCd2EXL._SL160_.jpg",
-          "url": "https://www.amazon.co.jp/dp/B0DB48CFG7?tag=natafull-22&linkCode=osi&th=1&psc=1",
-          "since": "2026-07-26",
-          "since_at": "2026-07-26T12:00:00+09:00"
-        },
-        {
-          "asin": "B0DBKF4NV4",
-          "title": "パナソニック 音波振動ハブラシ ドルツ 電動歯ブラシ USB充電 EW-DA18-W 白",
-          "brand": "パナソニック(Panasonic)",
-          "price": 8782,
-          "list_price": 12100,
-          "percent_off": 27,
-          "points": 88,
-          "points_percent": 1,
-          "image": "https://m.media-amazon.com/images/I/11+6kNotvHL._SL160_.jpg",
-          "url": "https://www.amazon.co.jp/dp/B0DBKF4NV4?tag=natafull-22&linkCode=osi&th=1&psc=1",
-          "since": "2026-07-26",
-          "since_at": "2026-07-26T12:00:00+09:00"
-        },
-        {
-          "asin": "B0D28N991R",
-          "title": "フィリップス 電動歯ブラシ ソニッケアー ダイヤモンドクリーン9000 ワンランク上の白さへ",
-          "brand": "PHILIPS",
-          "price": 28050,
-          "list_price": 33990,
-          "percent_off": 17,
-          "points": 281,
-          "points_percent": 1,
-          "image": "https://m.media-amazon.com/images/I/316647ZW3AL._SL160_.jpg",
-          "url": "https://www.amazon.co.jp/dp/B0D28N991R?tag=natafull-22&linkCode=osi&th=1&psc=1",
-          "since": "2026-07-30",
-          "since_at": "2026-07-30T12:00:00+09:00"
-        },
-        {
-          "asin": "B0FMKL5DQP",
-          "title": "フィリップス 電動歯ブラシ ソニッケアー 5300 ケアーを実感",
-          "brand": "PHILIPS",
-          "price": 13200,
-          "list_price": 15840,
-          "percent_off": 17,
-          "points": 132,
-          "points_percent": 1,
-          "image": "https://m.media-amazon.com/images/I/41FnVHlqzOL._SL160_.jpg",
-          "url": "https://www.amazon.co.jp/dp/B0FMKL5DQP?tag=natafull-22&linkCode=osi&th=1&psc=1",
-          "since": "2026-07-30",
-          "since_at": "2026-07-30T12:00:00+09:00"
         }
       ]
     }

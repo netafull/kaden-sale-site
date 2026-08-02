@@ -24,9 +24,7 @@
   "min_saving_percent": 15,
   "pages_per_genre": 4,
   "new_arrival_hours": 24,
-  "new_arrival_exclude_genres": [
-    "電動歯ブラシ"
-  ],
+  "new_arrival_exclude_genres": [],
   "genres": [
     {
       "name": "Apple製品",
@@ -312,6 +310,78 @@
       ]
     },
     {
+      "name": "モニター・ディスプレイ",
+      "keywords": [
+        "モニター 液晶ディスプレイ",
+        "ゲーミングモニター",
+        "モバイルモニター"
+      ],
+      "search_index": "Electronics",
+      "must_include_any": [
+        "モニター",
+        "ディスプレイ",
+        "Monitor"
+      ],
+      "exclude_any": [
+        "モニターアーム",
+        "スタンド単体",
+        "クリーニング",
+        "クリーナー",
+        "フィルム",
+        "ケーブル",
+        "変換アダプタ",
+        "ディスプレイオーディオ",
+        "ドライブレコーダー",
+        "台",
+        "ライト",
+        "カバー",
+        "保護"
+      ],
+      "known_brands": [
+        "Dell",
+        "デル",
+        "ASUS",
+        "エイスース",
+        "LG",
+        "BenQ",
+        "ベンキュー",
+        "Acer",
+        "エイサー",
+        "アイオーデータ",
+        "IODATA",
+        "I-O DATA",
+        "EIZO",
+        "ナナオ",
+        "MSI",
+        "AOC",
+        "Philips",
+        "フィリップス",
+        "HP",
+        "ヒューレット・パッカード",
+        "Lenovo",
+        "レノボ",
+        "Samsung",
+        "サムスン",
+        "ViewSonic",
+        "JAPANNEXT",
+        "ジャパンネクスト",
+        "Pixio",
+        "KOORUI",
+        "INNOCN",
+        "レグザ",
+        "Regza",
+        "Hisense",
+        "ハイセンス",
+        "TCL",
+        "シャオミ",
+        "xiaomi",
+        "Anker",
+        "アンカー",
+        "Apple",
+        "アップル"
+      ]
+    },
+    {
       "name": "スマートホーム",
       "keywords": [
         "SwitchBot スマートホーム",
@@ -450,6 +520,61 @@
       ]
     },
     {
+      "name": "Amazonデバイス",
+      "keywords": [
+        "Amazon Echo スマートスピーカー",
+        "Fire TV Stick",
+        "Kindle 電子書籍リーダー",
+        "Fire タブレット"
+      ],
+      "search_index": "Electronics",
+      "must_include_any": [
+        "Echo",
+        "Fire TV",
+        "Fire HD",
+        "Fire Max",
+        "Kindle",
+        "Alexa",
+        "Ring",
+        "eero",
+        "Blink"
+      ],
+      "exclude_any": [
+        "ケース",
+        "カバー",
+        "フィルム",
+        "スタンド",
+        "ホルダー",
+        "保護",
+        "交換",
+        "アクセサリ",
+        "ストラップ",
+        "バンド",
+        "リモコンカバー",
+        "収納"
+      ],
+      "known_brands": [
+        "Amazon",
+        "アマゾン",
+        "Ring",
+        "eero",
+        "Blink"
+      ],
+      "watch_asins": [
+        "B0CFPHSTDD",
+        "B0CFPHTMDX",
+        "B0CFPL6CFY",
+        "B0CTMRXLM7",
+        "B0CTMSH4BK",
+        "B0CX8MT2M2",
+        "B0CX8Y3CMG",
+        "B0FBSC6CPR",
+        "B0FC1PBJRB",
+        "B0FC217W9L",
+        "B0FC25LQGT"
+      ]
+    },
+    {
       "name": "キーボード・マウス",
       "keywords": [
         "ワイヤレスマウス",
@@ -546,31 +671,6 @@
         "MUJI",
         "貝印",
         "KAI"
-      ]
-    },
-    {
-      "name": "電動歯ブラシ",
-      "keywords": [
-        "電動歯ブラシ"
-      ],
-      "search_index": "HealthPersonalCare",
-      "must_include_any": [
-        "歯ブラシ"
-      ],
-      "known_brands": [
-        "Philips",
-        "フィリップス",
-        "ソニッケアー",
-        "Sonicare",
-        "Braun",
-        "ブラウン",
-        "Oral-B",
-        "オーラルB",
-        "Panasonic",
-        "パナソニック",
-        "ドルツ",
-        "オムロン",
-        "OMRON"
       ]
     }
   ],
