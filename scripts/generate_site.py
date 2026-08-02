@@ -616,35 +616,35 @@ WIDGET_JS = r"""(function () {
     style.id = "kaden-widget-style";
     style.textContent = [
       "#kaden-widget{font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,\"Hiragino Sans\",\"Noto Sans JP\",sans-serif;}",
-      ".dpy-box{border:1px solid #e5e2dc;border-radius:10px;overflow:hidden;background:#ffffff;color:#1a1a1a;}",
-      ".dpy-head{display:block;padding:10px 14px;font-size:14px;font-weight:700;background:#faf6ef;color:#1a1a1a;text-decoration:none;border-bottom:1px solid #e5e2dc;}",
-      ".dpy-head:hover{color:#e47911;}",
-      ".dpy-list{display:flex;flex-direction:column;}",
-      ".dpy-row{display:flex;gap:10px;padding:10px 14px;text-decoration:none;color:#1a1a1a;border-bottom:1px solid #f0ede7;}",
-      ".dpy-row:last-child{border-bottom:none;}",
-      ".dpy-row:hover{background:#faf8f4;}",
-      ".dpy-img{width:52px;height:52px;object-fit:contain;border-radius:4px;flex-shrink:0;background:#e5e2dc;}",
-      ".dpy-ph{width:52px;height:52px;border-radius:4px;flex-shrink:0;background:#e5e2dc;}",
-      ".dpy-info{min-width:0;flex:1;}",
-      ".dpy-head{margin-bottom:2px;}",
-      ".dpy-new{display:inline-block;font-size:9px;font-weight:700;color:#fff;background:#0a7d3c;border-radius:3px;padding:0 4px;line-height:1.5;}",
-      ".dpy-title{font-size:13px;font-weight:600;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden;}",
-      ".dpy-price{margin-top:4px;font-size:13px;}",
-      ".dpy-now{font-weight:700;color:#d0342c;}",
-      ".dpy-was{font-size:11px;color:#6b6b6b;text-decoration:line-through;margin-left:5px;}",
-      ".dpy-off{display:inline-block;font-size:10px;font-weight:700;color:#fff;background:#e47911;border-radius:4px;padding:1px 5px;margin-left:5px;vertical-align:1px;}",
-      ".dpy-off.dpy-hi{background:#d0342c;}",
-      ".dpy-pt{font-size:10px;color:#0a7d3c;font-weight:600;margin-top:2px;}",
-      ".dpy-foot{display:block;padding:10px 14px;font-size:13px;font-weight:700;color:#fff;text-decoration:none;background:#e47911;text-align:center;}",
-      ".dpy-foot:hover{opacity:0.85;}",
+      ".kdn-box{border:1px solid #e5e2dc;border-radius:10px;overflow:hidden;background:#ffffff;color:#1a1a1a;}",
+      ".kdn-head{display:block;padding:10px 14px;font-size:14px;font-weight:700;background:#faf6ef;color:#1a1a1a;text-decoration:none;border-bottom:1px solid #e5e2dc;}",
+      ".kdn-head:hover{color:#e47911;}",
+      ".kdn-list{display:flex;flex-direction:column;}",
+      ".kdn-row{display:flex;gap:10px;padding:10px 14px;text-decoration:none;color:#1a1a1a;border-bottom:1px solid #f0ede7;}",
+      ".kdn-row:last-child{border-bottom:none;}",
+      ".kdn-row:hover{background:#faf8f4;}",
+      ".kdn-img{width:52px;height:52px;object-fit:contain;border-radius:4px;flex-shrink:0;background:#e5e2dc;}",
+      ".kdn-ph{width:52px;height:52px;border-radius:4px;flex-shrink:0;background:#e5e2dc;}",
+      ".kdn-info{min-width:0;flex:1;}",
+      ".kdn-head{margin-bottom:2px;}",
+      ".kdn-new{display:inline-block;font-size:9px;font-weight:700;color:#fff;background:#0a7d3c;border-radius:3px;padding:0 4px;line-height:1.5;}",
+      ".kdn-title{font-size:13px;font-weight:600;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden;}",
+      ".kdn-price{margin-top:4px;font-size:13px;}",
+      ".kdn-now{font-weight:700;color:#d0342c;}",
+      ".kdn-was{font-size:11px;color:#6b6b6b;text-decoration:line-through;margin-left:5px;}",
+      ".kdn-off{display:inline-block;font-size:10px;font-weight:700;color:#fff;background:#e47911;border-radius:4px;padding:1px 5px;margin-left:5px;vertical-align:1px;}",
+      ".kdn-off.kdn-hi{background:#d0342c;}",
+      ".kdn-pt{font-size:10px;color:#0a7d3c;font-weight:600;margin-top:2px;}",
+      ".kdn-foot{display:block;padding:10px 14px;font-size:13px;font-weight:700;color:#fff;text-decoration:none;background:#e47911;text-align:center;}",
+      ".kdn-foot:hover{opacity:0.85;}",
       '@media (prefers-color-scheme: dark) {',
-      ".dpy-box{border-color:#2c2e36;background:#1e2027;color:#e8e8e6;}",
-      ".dpy-head{background:#20222a;color:#e8e8e6;border-bottom-color:#2c2e36;}",
-      ".dpy-row{color:#e8e8e6;border-bottom-color:#282a31;}",
-      ".dpy-row:hover{background:#22242c;}",
-      ".dpy-img,.dpy-ph{background:#2c2e36;}",
-      ".dpy-was{color:#9a9a96;}",
-      ".dpy-pt{color:#4fd689;}",
+      ".kdn-box{border-color:#2c2e36;background:#1e2027;color:#e8e8e6;}",
+      ".kdn-head{background:#20222a;color:#e8e8e6;border-bottom-color:#2c2e36;}",
+      ".kdn-row{color:#e8e8e6;border-bottom-color:#282a31;}",
+      ".kdn-row:hover{background:#22242c;}",
+      ".kdn-img,.kdn-ph{background:#2c2e36;}",
+      ".kdn-was{color:#9a9a96;}",
+      ".kdn-pt{color:#4fd689;}",
       "}",
     ].join("\n");
     document.head.appendChild(style);
@@ -652,7 +652,7 @@ WIDGET_JS = r"""(function () {
 
   function renderBookRow(book) {
     var row = el("a", {
-      className: "dpy-row",
+      className: "kdn-row",
       attrs: {
         href: book.url || "#",
         target: "_blank",
@@ -661,35 +661,35 @@ WIDGET_JS = r"""(function () {
     });
 
     if (book.image) {
-      var img = el("img", { className: "dpy-img", attrs: { src: book.image, alt: "", loading: "lazy" } });
+      var img = el("img", { className: "kdn-img", attrs: { src: book.image, alt: "", loading: "lazy" } });
       row.appendChild(img);
     } else {
-      row.appendChild(el("span", { className: "dpy-ph" }));
+      row.appendChild(el("span", { className: "kdn-ph" }));
     }
 
-    var info = el("div", { className: "dpy-info" });
+    var info = el("div", { className: "kdn-info" });
     // 本体サイトと同じく、直近にセール入りした商品に印を付ける
     if (book.is_new) {
-      var head = el("div", { className: "dpy-head" });
-      head.appendChild(el("span", { className: "dpy-new", text: "NEW" }));
+      var head = el("div", { className: "kdn-head" });
+      head.appendChild(el("span", { className: "kdn-new", text: "NEW" }));
       info.appendChild(head);
     }
-    info.appendChild(el("div", { className: "dpy-title", text: book.title || "" }));
+    info.appendChild(el("div", { className: "kdn-title", text: book.title || "" }));
 
-    var price = el("div", { className: "dpy-price" });
-    price.appendChild(el("span", { className: "dpy-now", text: fmtYen(book.price) }));
+    var price = el("div", { className: "kdn-price" });
+    price.appendChild(el("span", { className: "kdn-now", text: fmtYen(book.price) }));
     if (book.list_price) {
-      price.appendChild(el("span", { className: "dpy-was", text: fmtYen(book.list_price) }));
+      price.appendChild(el("span", { className: "kdn-was", text: fmtYen(book.list_price) }));
     }
     if (book.percent_off) {
-      var offCls = "dpy-off" + (book.percent_off >= 50 ? " dpy-hi" : "");
+      var offCls = "kdn-off" + (book.percent_off >= 50 ? " kdn-hi" : "");
       price.appendChild(el("span", { className: offCls, text: book.percent_off + "%OFF" }));
     }
     info.appendChild(price);
 
     if (book.points) {
       var pct = book.points_percent ? book.points_percent + "%還元" : "還元";
-      info.appendChild(el("div", { className: "dpy-pt", text: "+" + book.points + "pt (" + pct + ")" }));
+      info.appendChild(el("div", { className: "kdn-pt", text: "+" + book.points + "pt (" + pct + ")" }));
     }
 
     row.appendChild(info);
@@ -726,23 +726,23 @@ WIDGET_JS = r"""(function () {
 
     injectStyle();
 
-    var box = el("div", { className: "dpy-box" });
+    var box = el("div", { className: "kdn-box" });
 
     var head = el("a", {
-      className: "dpy-head",
+      className: "kdn-head",
       text: "⚡ 本日の家電・ガジェットセール",
       attrs: { href: siteUrl, target: "_blank", rel: "noopener" },
     });
     box.appendChild(head);
 
-    var list = el("div", { className: "dpy-list" });
+    var list = el("div", { className: "kdn-list" });
     for (var i = 0; i < books.length; i++) {
       list.appendChild(renderBookRow(books[i]));
     }
     box.appendChild(list);
 
     var foot = el("a", {
-      className: "dpy-foot",
+      className: "kdn-foot",
       text: "🛒 セール中の商品をすべて見る",
       attrs: { href: siteUrl, target: "_blank", rel: "noopener" },
     });
