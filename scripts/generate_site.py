@@ -96,6 +96,27 @@ details > .grid, details > .empty { margin-top: 12px; }
 footer { max-width: 960px; margin: 0 auto; padding: 16px;
   color: var(--muted); font-size: 12px; border-top: 1px solid var(--line); }
 .empty { color: var(--muted); font-size: 14px; padding: 12px 0; }
+/* ジャンルの絞り込みタブ。別ページを作らずCSSで表示を切り替えるので、
+   URLは1つのままでコンテンツも全てDOMに残る(検索エンジンには全件見える) */
+/* 折り返すとモバイルで縦に伸びて商品が押し下げられるので、
+   横スクロールで1行に収める(スクロールバーは隠す) */
+.tabs { display: flex; gap: 6px; margin: 20px auto 4px; padding: 0 16px;
+  max-width: 960px; overflow-x: auto; scrollbar-width: none;
+  -webkit-overflow-scrolling: touch; }
+.tabs::-webkit-scrollbar { display: none; }
+.tabs button { flex: 0 0 auto; white-space: nowrap; }
+.tabs button { font-size: 13px; padding: 5px 12px; border-radius: 999px;
+  border: 1px solid var(--line); background: var(--card); color: var(--text);
+  cursor: pointer; font-family: inherit; }
+.tabs button:hover { border-color: var(--accent); }
+.tabs button[aria-selected="true"] { background: var(--text); color: var(--bg);
+  border-color: var(--text); font-weight: 600; }
+.tabs button .n { color: var(--muted); font-size: 11px; margin-left: 4px; }
+.tabs button[aria-selected="true"] .n { color: var(--bg); opacity: .7; }
+.tabs button:disabled { opacity: .4; cursor: default; }
+/* JSが無い環境ではタブを出さない(全件表示のままにする) */
+.tabs { display: none; }
+.js .tabs { display: flex; }
 /* サイトの説明。訪問者の目的(セール情報)を邪魔しないよう本文の最後に置く。
    AIは位置に関わらずページ全体を読むため、下でも検索・AI向けの効果は落ちない */
 .about { max-width: 960px; margin: 40px auto 0; padding: 20px 16px 0;
@@ -307,6 +328,19 @@ def generate_html(data: dict) -> str:
         f'<meta name="google-site-verification" content="{esc(gsv)}">' if gsv else ""
     )
     # 姉妹サイト・運営ブログへの相互リンク(ヘッダーとフッターの両方に出す)
+    # ジャンルの絞り込みタブ。件数を添え、0件は押せないようにする
+    tab_defs = [("all", "すべて", sum(len(g.get("items") or []) for g in genres))]
+    for i, g in enumerate(genres):
+        tab_defs.append((f"g{i}", g["name"], len(g.get("items") or [])))
+    buttons = "\n".join(
+        f'<button type="button" data-target="{tid}" '
+        f'aria-selected="{"true" if tid == "all" else "false"}"'
+        f'{" disabled" if n == 0 and tid != "all" else ""}>'
+        f'{esc(name)}<span class="n">{n}</span></button>'
+        for tid, name, n in tab_defs
+    )
+    tabs_html = f'<nav class="tabs" aria-label="ジャンル">\n{buttons}\n</nav>'
+
     # サイトの説明。データ元・更新頻度・掲載基準・運営者を明記して、
     # 検索エンジンやAIが「このサイトは何者か」を判断できるようにする
     about = CONFIG.get("about") or []
@@ -441,6 +475,7 @@ gtag('config', '{esc(ga_id)}');
 <p>{esc(CONFIG["site_description"])} ｜ {esc(threshold_note)} ｜ 最終更新: {updated}</p>
 {related_html}
 </header>
+{tabs_html}
 <main>
 {chr(10).join(sections)}
 {about_html}
@@ -452,6 +487,39 @@ Amazonのアソシエイトとして、当サイトは適格販売により収�
 {policy_link}｜ <a href="rss.xml" style="color:inherit">RSS</a>
 {related_html}
 </footer>
+<script>
+// ジャンルタブ。該当セクション以外を隠すだけで、DOMからは取り除かない。
+// 「すべて」に戻せば元通りになり、検索エンジンには常に全件が見えている
+document.documentElement.classList.add("js");
+(function () {{
+  var tabs = document.querySelector(".tabs");
+  if (!tabs) return;
+  var sections = Array.prototype.slice.call(
+    document.querySelectorAll("main > details")
+  );
+  function apply(target) {{
+    sections.forEach(function (s) {{
+      // 新着セールは全ジャンル横断の情報なので「すべて」のときだけ出す
+      s.style.display = target === "all" || s.id === target ? "" : "none";
+    }});
+    tabs.querySelectorAll("button").forEach(function (b) {{
+      b.setAttribute(
+        "aria-selected", b.dataset.target === target ? "true" : "false"
+      );
+    }});
+    if (history.replaceState) {{
+      history.replaceState(null, "", target === "all" ? location.pathname : "#" + target);
+    }}
+  }}
+  tabs.addEventListener("click", function (e) {{
+    var b = e.target.closest("button");
+    if (!b || b.disabled) return;
+    apply(b.dataset.target);
+  }});
+  var initial = location.hash.replace("#", "");
+  if (initial && document.getElementById(initial)) apply(initial);
+}})();
+</script>
 </body>
 </html>
 """
