@@ -530,26 +530,55 @@ document.documentElement.classList.add("js");
 
 
 def generate_rss(data: dict) -> str:
+    """RSSは在庫一覧ではなく「新しくセールに入った商品」のフィードにする。
+
+    掲載中の全商品を流すと毎回ほぼ同じ内容になり、購読しても
+    「何が新しいのか」が分からない。サイトの「新着セール」と同じ判定を使い、
+    同じものが届くようにする。
+    """
     site_url = CONFIG.get("site_url", "")
     now = datetime.datetime.now(datetime.timezone.utc).strftime(
         "%a, %d %b %Y %H:%M:%S +0000"
     )
-    items_xml = []
+    fetched = datetime.datetime.fromisoformat(data["fetched_at"]).astimezone(
+        datetime.timezone(datetime.timedelta(hours=9))
+    )
+    today = fetched.date()
+    new_hours = CONFIG.get("new_arrival_hours", 24)
+    excluded = set(CONFIG.get("new_arrival_exclude_genres") or [])
+
+    rows = []
     seen: set[str] = set()
     for genre in data.get("genres") or []:
-        for b in (genre.get("items") or [])[:20]:
+        if genre["name"] in excluded:
+            continue
+        for b in genre.get("items") or []:
             if b["asin"] in seen:
                 continue
+            elapsed = hours_since(b, fetched, today)
+            if elapsed is None or elapsed > new_hours:
+                continue
             seen.add(b["asin"])
-            off = f"【{b['percent_off']}%OFF】" if b.get("percent_off") else ""
-            items_xml.append(
-                f"""<item>
+            rows.append((
+                (b.get("percent_off") or 0) + (b.get("points_percent") or 0),
+                genre["name"], b,
+            ))
+    rows.sort(key=lambda x: x[0], reverse=True)
+
+    items_xml = []
+    for _, gname, b in rows:
+        off = f"【{b['percent_off']}%OFF】" if b.get("percent_off") else ""
+        # guidに検出日を含める。同じ商品が後日また安くなったとき、
+        # 購読者に新しい記事として届くようにするため
+        since = (b.get("since_at") or b.get("since") or "")[:10]
+        items_xml.append(
+            f"""<item>
 <title>{esc(off + b["title"] + f" ¥{int(b['price']):,}")}</title>
 <link>{esc(b["url"])}</link>
-<guid isPermaLink="false">{esc(b["asin"])}</guid>
-<category>{esc(genre["name"])}</category>
+<guid isPermaLink="false">{esc(b["asin"] + "-" + since)}</guid>
+<category>{esc(gname)}</category>
 </item>"""
-            )
+        )
     return f"""<?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
 <channel>
