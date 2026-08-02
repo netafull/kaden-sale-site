@@ -617,8 +617,8 @@ WIDGET_JS = r"""(function () {
     style.textContent = [
       "#kaden-widget{font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,\"Hiragino Sans\",\"Noto Sans JP\",sans-serif;}",
       ".kdn-box{border:1px solid #e5e2dc;border-radius:10px;overflow:hidden;background:#ffffff;color:#1a1a1a;}",
-      ".kdn-head{display:flex;align-items:baseline;justify-content:space-between;gap:8px;padding:8px 14px;font-size:14px;font-weight:700;background:#faf6ef;color:#1a1a1a;text-decoration:none;border-bottom:1px solid #e5e2dc;}",
-      ".kdn-more{font-size:11px;font-weight:600;color:#e47911;white-space:nowrap;flex-shrink:0;}",
+      ".kdn-head{display:flex;align-items:baseline;gap:8px;padding:8px 14px;font-size:14px;font-weight:700;background:#faf6ef;color:#1a1a1a;text-decoration:none;border-bottom:1px solid #e5e2dc;}",
+      ".kdn-more{font-size:11px;font-weight:600;color:#e47911;white-space:nowrap;flex-shrink:0;margin-left:auto;}",
       ".kdn-head:hover{color:#e47911;}",
       ".kdn-list{display:flex;flex-direction:column;}",
       ".kdn-row{display:flex;gap:10px;padding:10px 14px;text-decoration:none;color:#1a1a1a;border-bottom:1px solid #f0ede7;}",
@@ -627,7 +627,7 @@ WIDGET_JS = r"""(function () {
       ".kdn-img{width:52px;height:52px;object-fit:contain;border-radius:4px;flex-shrink:0;background:#e5e2dc;}",
       ".kdn-ph{width:52px;height:52px;border-radius:4px;flex-shrink:0;background:#e5e2dc;}",
       ".kdn-info{min-width:0;flex:1;}",
-      ".kdn-head{margin-bottom:2px;}",
+      ".kdn-badges{margin-bottom:2px;}",
       ".kdn-new{display:inline-block;font-size:9px;font-weight:700;color:#fff;background:#0a7d3c;border-radius:3px;padding:0 4px;line-height:1.5;}",
       ".kdn-title{font-size:13px;font-weight:600;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden;}",
       ".kdn-price{margin-top:4px;font-size:13px;}",
@@ -651,7 +651,7 @@ WIDGET_JS = r"""(function () {
 
   function renderBookRow(book) {
     var row = el("a", {
-      className: "kdn-row",
+      className: "kdn-row no-icon",
       attrs: {
         href: book.url || "#",
         target: "_blank",
@@ -669,9 +669,9 @@ WIDGET_JS = r"""(function () {
     var info = el("div", { className: "kdn-info" });
     // 本体サイトと同じく、直近にセール入りした商品に印を付ける
     if (book.is_new) {
-      var head = el("div", { className: "kdn-head" });
-      head.appendChild(el("span", { className: "kdn-new", text: "NEW" }));
-      info.appendChild(head);
+      var badges = el("div", { className: "kdn-badges" });
+      badges.appendChild(el("span", { className: "kdn-new", text: "NEW" }));
+      info.appendChild(badges);
     }
     info.appendChild(el("div", { className: "kdn-title", text: book.title || "" }));
 
@@ -732,7 +732,7 @@ WIDGET_JS = r"""(function () {
     // ただし見出しだけではリンクと分からないため、右端に誘導文言を添える
     var itemCount = data.item_count || 0;
     var head = el("a", {
-      className: "kdn-head",
+      className: "kdn-head no-icon",
       attrs: { href: siteUrl, target: "_blank", rel: "noopener" },
     });
     head.appendChild(el("span", { text: "⚡ 本日のガジェットセール" }));
