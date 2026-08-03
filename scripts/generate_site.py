@@ -571,12 +571,27 @@ def generate_rss(data: dict) -> str:
         # guidに検出日を含める。同じ商品が後日また安くなったとき、
         # 購読者に新しい記事として届くようにするため
         since = (b.get("since_at") or b.get("since") or "")[:10]
+        # pubDateを入れないとRSSリーダーは取得時刻を代わりに使い、
+        # 前日に検出した商品も「今」届いたように見えてしまう
+        pub = ""
+        at = b.get("since_at")
+        if at:
+            try:
+                pub = (
+                    "\n<pubDate>"
+                    + datetime.datetime.fromisoformat(at).strftime(
+                        "%a, %d %b %Y %H:%M:%S %z"
+                    )
+                    + "</pubDate>"
+                )
+            except ValueError:
+                pass
         items_xml.append(
             f"""<item>
 <title>{esc(off + b["title"] + f" ¥{int(b['price']):,}")}</title>
 <link>{esc(b["url"])}</link>
 <guid isPermaLink="false">{esc(b["asin"] + "-" + since)}</guid>
-<category>{esc(gname)}</category>
+<category>{esc(gname)}</category>{pub}
 </item>"""
         )
     return f"""<?xml version="1.0" encoding="UTF-8"?>
