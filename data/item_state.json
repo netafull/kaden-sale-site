@@ -167,6 +167,12 @@
     "last_seen": "2026-08-03",
     "title": "UGREEN Zapix【小型・軽量／10000mAh／USB－C＆USB－A／PD20W／2台同時充電】モバイルバッテリー 灰色 PB507"
   },
+  "B098SQSRRV": {
+    "first_seen": "2026-07-31",
+    "first_seen_at": "2026-07-31T12:00:00+09:00",
+    "last_seen": "2026-08-03",
+    "title": "Belkin USB充電器 40W iPhone17,16～12 デュアルUSB-C(20W x 2) PD3.0 急速充電対応 ホワイト WCB006dqWHJP"
+  },
   "B0BF9ZYCQ5": {
     "first_seen": "2026-07-31",
     "first_seen_at": "2026-07-31T12:00:00+09:00",
@@ -202,12 +208,6 @@
     "first_seen_at": "2026-07-27T12:00:00+09:00",
     "last_seen": "2026-08-03",
     "title": "UGREEN 100W PD 急速充電器 USB-C×4/USB-A×1 タッチモニター搭載 PSE認証済"
-  },
-  "B09MLVRGFG": {
-    "first_seen": "2026-07-31",
-    "first_seen_at": "2026-07-31T12:00:00+09:00",
-    "last_seen": "2026-08-03",
-    "title": "Belkin MagSafe認証 ワイヤレス充電パッド iPhone15/14/13/12 最大15W急速充電 キックスタンド付き AC電源アダプター付属 ホワイト WIA004dqWH"
   },
   "B091BGMKYS": {
     "first_seen": "2026-07-27",
@@ -437,17 +437,17 @@
     "last_seen": "2026-08-03",
     "title": "【節電対策】SwitchBot サーキュレーター 静音22dB コードレス 最大50時間 - スイッチボット ~30畳 Alexa対応 扇風機 DCモーター 3D首振り 無段階風量調整 充電式バッテリー搭載 リモコン付き 梅雨対策 省エネ"
   },
-  "B0DFWFXKT4": {
-    "first_seen": "2026-08-01",
-    "first_seen_at": "2026-08-01T12:00:00+09:00",
-    "last_seen": "2026-08-03",
-    "title": "【3in1、超小型】 SwitchBot ロボット掃除機 K10+ProCombo コードレス掃除機 - 軽量 20000pa 自動ゴミ収集 水拭き応"
-  },
   "B09KCF5Z79": {
     "first_seen": "2026-07-30",
     "first_seen_at": "2026-07-30T12:00:00+09:00",
     "last_seen": "2026-08-03",
     "title": "SwitchBot LED電球 スマートライト Alexa スマートホーム - スマート電球 E26 スイッチボット 調光調色 広配光 800lm 60W形相当 電球色・昼白色対応 RGBCWマルチカラー 1600万色 間接照明 Google Home IFTTT イフト Siri SmartThings に対応(2個パック)"
+  },
+  "B0F7GGN94D": {
+    "first_seen": "2026-07-28",
+    "first_seen_at": "2026-07-28T12:00:00+09:00",
+    "last_seen": "2026-08-03",
+    "title": "【2025進化】 SwitchBot ロボット掃除機 K11+ 超小型 - 高精度マッピング 6000pa強力吸引 水拭き 使い捨て掃除シート30枚付き 禁止エリア 静音設計 遠隔操作 自動充電 落下防止 2.4GWi-Fi対応 Alexa Google Home IFTTT Siriに対応"
   },
   "B0DYD1R49S": {
     "first_seen": "2026-07-30",
@@ -827,23 +827,23 @@
     "last_seen": "2026-08-03",
     "title": "COSORI コソリ ノンフライヤー 4.7L 大容量 家庭用 エアフライヤー 最高温230℃ 揚げ物 タイマー グレー CAF-L501-KJP"
   },
+  "B09MLVRGFG": {
+    "first_seen": "2026-07-31",
+    "first_seen_at": "2026-07-31T12:00:00+09:00",
+    "last_seen": "2026-08-03",
+    "title": "Belkin MagSafe認証 ワイヤレス充電パッド iPhone15/14/13/12 最大15W急速充電 キックスタンド付き AC電源アダプター付属 ホワイト WIA004dqWH"
+  },
+  "B0DFWFXKT4": {
+    "first_seen": "2026-08-01",
+    "first_seen_at": "2026-08-01T12:00:00+09:00",
+    "last_seen": "2026-08-03",
+    "title": "【3in1、超小型】 SwitchBot ロボット掃除機 K10+ProCombo コードレス掃除機 - 軽量 20000pa 自動ゴミ収集 水拭き応"
+  },
   "B0FCSGGHLL": {
     "first_seen": "2026-07-24",
     "first_seen_at": "2026-07-24T12:00:00+09:00",
     "last_seen": "2026-08-03",
     "title": "Bose QuietComfort Ultra Earbuds (第2世代) ワイヤレス ノイズキャンセリング Bluetooth イヤホン 最長6時間連続再生 IPX4規格準拠 イマーシブオーディオ 迫力の重低音 ブラック"
-  },
-  "B098SQSRRV": {
-    "first_seen": "2026-07-31",
-    "first_seen_at": "2026-07-31T12:00:00+09:00",
-    "last_seen": "2026-08-03",
-    "title": "Belkin USB充電器 40W iPhone17,16～12 デュアルUSB-C(20W x 2) PD3.0 急速充電対応 ホワイト WCB006dqWHJP"
-  },
-  "B0F7GGN94D": {
-    "first_seen": "2026-07-28",
-    "first_seen_at": "2026-07-28T12:00:00+09:00",
-    "last_seen": "2026-08-03",
-    "title": "【2025進化】 SwitchBot ロボット掃除機 K11+ 超小型 - 高精度マッピング 6000pa強力吸引 水拭き 使い捨て掃除シート30枚付き 禁止エリア 静音設計 遠隔操作 自動充電 落下防止 2.4GWi-Fi対応 Alexa Google Home IFTTT Siriに対応"
   },
   "B0FQFHZ5KH": {
     "first_seen": "2026-07-31",
