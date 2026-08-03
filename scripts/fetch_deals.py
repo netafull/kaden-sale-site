@@ -474,6 +474,9 @@ def main() -> int:
         watch_asins = genre.get("watch_asins") or []
         watch_hits = 0
         watch_no_discount = 0
+        # 名指しで登録したのに出てこないASINの理由を残す。割引が足りないのか、
+        # APIがそもそも返していないのかを、ログだけで切り分けられるようにする
+        watch_misses = []
         for i in range(0, len(watch_asins), GET_ITEMS_BATCH):
             batch = watch_asins[i : i + GET_ITEMS_BATCH]
             res = get_items_with_retry(
@@ -482,10 +485,37 @@ def main() -> int:
             # getItemsはitemsResultに入るため、parse_itemsが読むsearchResultの
             # 形に詰め替えて同じ解析・整形ロジックを使い回す
             wrapped = {"searchResult": pick(res, "itemsResult", "ItemsResult") or {}}
+            reasons = {}
+            for raw in pick(wrapped["searchResult"], "items", "Items") or []:
+                raw_asin = pick(raw, "asin", "ASIN")
+                raw_offers = pick(raw, "offersV2", "OffersV2") or {}
+                raw_listings = pick(raw_offers, "listings", "Listings") or []
+                if not raw_listings:
+                    reasons[raw_asin] = "オファーなし"
+                    continue
+                raw_listing = next(
+                    (
+                        l
+                        for l in raw_listings
+                        if pick(l, "isBuyBoxWinner", "IsBuyBoxWinner")
+                    ),
+                    raw_listings[0],
+                )
+                raw_price = pick(raw_listing, "price", "Price") or {}
+                raw_savings = pick(raw_price, "savings", "Savings") or {}
+                raw_points = pick(raw_listing, "loyaltyPoints", "LoyaltyPoints") or {}
+                reasons[raw_asin] = (
+                    f"{pick(raw_savings, 'percentage', 'Percentage') or 0}%"
+                    f"+{pick(raw_points, 'points', 'Points') or 0}pt"
+                )
             parsed_items, no_discount, _, _ = parse_items(
                 wrapped, partner_tag, genre_min_saving, [], [], None
             )
             watch_no_discount += no_discount
+            hit_asins = {parsed["asin"] for parsed in parsed_items}
+            for asin in batch:
+                if asin not in hit_asins:
+                    watch_misses.append(f"{asin}({reasons.get(asin, 'API未返却')})")
             for parsed in parsed_items:
                 if parsed["asin"] not in seen:
                     seen.add(parsed["asin"])
@@ -506,6 +536,8 @@ def main() -> int:
                 f"・{watch_no_discount}件は割引不足]"
             )
         print(msg)
+        if watch_misses:
+            print(f"  {genre['name']}の未掲載ASIN: {' '.join(watch_misses)}")
 
     total = sum(len(g["items"]) for g in genres)
     if total == 0:
