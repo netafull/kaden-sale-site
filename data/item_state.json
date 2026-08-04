@@ -209,6 +209,12 @@
     "last_seen": "2026-08-05",
     "title": "Anker Nano Charger (70W, 3 Ports) ブラック"
   },
+  "B0F9FHXPDF": {
+    "first_seen": "2026-07-27",
+    "first_seen_at": "2026-07-27T12:00:00+09:00",
+    "last_seen": "2026-08-05",
+    "title": "UGREEN 100W PD 急速充電器 USB-C×4/USB-A×1 タッチモニター搭載 PSE認証済 36*75*75mm"
+  },
   "B091BGMKYS": {
     "first_seen": "2026-07-27",
     "first_seen_at": "2026-07-27T12:00:00+09:00",
@@ -226,6 +232,12 @@
     "first_seen_at": "2026-07-29T12:00:00+09:00",
     "last_seen": "2026-08-05",
     "title": "Anker Prime Wall Charger (67W, 3 ports, GaN) (ブラック)"
+  },
+  "B0DMN885ZF": {
+    "first_seen": "2026-08-05",
+    "first_seen_at": "2026-08-05T03:07:44+09:00",
+    "last_seen": "2026-08-05",
+    "title": "UGREEN 45W USB-C 急速充電器 Type-C PD GaNⅡ充電器 PSE適合タイプc充電器 PD/PPS/SCP/QC3.0"
   },
   "B0D53VKL36": {
     "first_seen": "2026-07-29",
@@ -251,23 +263,11 @@
     "last_seen": "2026-08-05",
     "title": "UGREEN PD充電器 type-c 30W 2*USB-C+1*USB-A GaN PSE適合/PD3.0"
   },
-  "B0FJS3P8NT": {
-    "first_seen": "2026-07-27",
-    "first_seen_at": "2026-07-27T12:00:00+09:00",
-    "last_seen": "2026-08-05",
-    "title": "UGREEN 45W USB-C*4+USB-A*1 急速充電器 Type-C PD GaNⅡ充電器 PSE適合タイプc充電器 PD3.0/PPS/SCP/QC3.0"
-  },
   "B0DNT9Z2HS": {
     "first_seen": "2026-07-27",
     "first_seen_at": "2026-07-27T12:00:00+09:00",
     "last_seen": "2026-08-05",
     "title": "UGREEN 100W GaN 卓上急速充電器 (4*USB-C+2*USB-A) コンパクト【PSE技術基準適合/PD3.0/QC4.0/PPS対応】 複数台同時充電 iPhone17/16/15/14/13/Xperia/Pixel Pro/iPad/ノートPC MacBook Pro/Airなどに対応"
-  },
-  "B0FYFDD1WW": {
-    "first_seen": "2026-07-29",
-    "first_seen_at": "2026-07-29T12:00:00+09:00",
-    "last_seen": "2026-08-05",
-    "title": "UGREEN 160W 5口充電器 カラーディスプレイ搭載 Type-C 4C1A 5ポート PD3.0/PPS/QC4対応 折り畳み式"
   },
   "B0D2D9LQP4": {
     "first_seen": "2026-07-31",
@@ -310,6 +310,12 @@
     "first_seen_at": "2026-08-04T00:57:34+09:00",
     "last_seen": "2026-08-05",
     "title": "バッファロー 充電器 20W 2ポート USB-C & USB-A PD対応 GaN 折りたたみ式 PSE適合 BSACPD2015C2WH"
+  },
+  "B0GF26RSYQ": {
+    "first_seen": "2026-07-27",
+    "first_seen_at": "2026-07-27T12:00:00+09:00",
+    "last_seen": "2026-08-05",
+    "title": "Anker Nano Charger (45W, Display, スイングプラグ) ブラック"
   },
   "B0F8TZV7ST": {
     "first_seen": "2026-07-31",
@@ -401,12 +407,6 @@
     "last_seen": "2026-08-05",
     "title": "BenQ MOBIUZ EX251 24.5インチ IPS フルHD 220Hz 1ms ゲーミングモニター"
   },
-  "B0FMY19G96": {
-    "first_seen": "2026-08-02",
-    "first_seen_at": "2026-08-02T18:25:14+09:00",
-    "last_seen": "2026-08-05",
-    "title": "LG 有機EL ゲーミング モニター 27GX700A-B 26.5インチ/WQHD@280Hz/タンデムOLED/0.03ms/HDR TB500"
-  },
   "B0CNC7NDC4": {
     "first_seen": "2026-08-04",
     "first_seen_at": "2026-08-04T15:23:47+09:00",
@@ -430,6 +430,12 @@
     "first_seen_at": "2026-08-02T11:33:18+09:00",
     "last_seen": "2026-08-05",
     "title": "Pixio ゲーミングモニター PX248Wave ブラック 24インチ 200hz FHD Fast IPS ゲーミング モニター 黒 ピクシオ"
+  },
+  "B0FMY19G96": {
+    "first_seen": "2026-08-02",
+    "first_seen_at": "2026-08-02T18:25:14+09:00",
+    "last_seen": "2026-08-05",
+    "title": "LG 有機EL ゲーミング モニター 27GX700A-B 26.5インチ/WQHD@280Hz/タンデムOLED/0.03ms/HDR TB500"
   },
   "B0DPKL9R3Q": {
     "first_seen": "2026-08-02",
@@ -639,13 +645,19 @@
     "first_seen": "2026-07-31",
     "first_seen_at": "2026-07-31T12:00:00+09:00",
     "last_seen": "2026-08-05",
-    "title": "XREAL xbx a01+とXREAL Beam Pro(5+256GB) 空間エンタメセット"
+    "title": "XREAL xbx a01+とXREAL Beam Pro(8+256GB) 空間エンタメセット"
   },
   "B09S3RC9T8": {
     "first_seen": "2026-08-03",
     "first_seen_at": "2026-08-03T17:46:51+09:00",
     "last_seen": "2026-08-05",
     "title": "サンワサプライ(Sanwa Supply) USBキーボード(ホワイト) SKB-L1UN"
+  },
+  "B07PJW2X2F": {
+    "first_seen": "2026-07-26",
+    "first_seen_at": "2026-07-26T12:00:00+09:00",
+    "last_seen": "2026-08-05",
+    "title": "エレコム ワイヤレスキーボード メンブレン 薄型 フルキーボード テンキー ブラック TK-FDM110TXBK"
   },
   "B0D9Y1J4NH": {
     "first_seen": "2026-07-28",
@@ -695,12 +707,6 @@
     "last_seen": "2026-08-05",
     "title": "【Amazon.co.jp限定】 Logicool G PRO ゲーミングキーボード G-PKB-002LNd テンキーレス リニア 赤軸 日本語配列"
   },
-  "B0DRJK6JMM": {
-    "first_seen": "2026-08-05",
-    "first_seen_at": "2026-08-05T00:39:47+09:00",
-    "last_seen": "2026-08-05",
-    "title": "REALFORCE リアルフォース ラピッドトリガー キーボードGX1 ホワイト 静音 45ｇ TKLサイズ 静電容量無接点方式 最速0.1mm作動 Windows かな無し 日本語配列 日本製 ゲーミングキーボード 91キー X1UC21"
-  },
   "B09Q5SHDR3": {
     "first_seen": "2026-07-26",
     "first_seen_at": "2026-07-26T12:00:00+09:00",
@@ -742,6 +748,12 @@
     "first_seen_at": "2026-07-28T12:00:00+09:00",
     "last_seen": "2026-08-05",
     "title": "【Amazon.co.jp限定】 ロジクール 静音 ワイヤレス トラックボール マウス MX ERGO S MXTB2d 無線 グラファイト"
+  },
+  "B0CJR5HBMN": {
+    "first_seen": "2026-08-04",
+    "first_seen_at": "2026-08-04T21:17:38+09:00",
+    "last_seen": "2026-08-05",
+    "title": "ロジクール ワイヤレスマウス PEBBLE MOUSE2 M350sGR 薄型 静音 Bluetooth Logi Bolt マウス 無線 ワイヤレス 左右対称 Easy-Switch 4000dpi 電池寿命24ケ月 windows mac Chrome Android iPad M350 グラファイト 国内正規品"
   },
   "B0B1Q5T5TQ": {
     "first_seen": "2026-07-29",
@@ -839,6 +851,24 @@
     "last_seen": "2026-08-05",
     "title": "COSORI コソリ ノンフライヤー 4.7L 大容量 家庭用 エアフライヤー 最高温230℃ 揚げ物 タイマー グレー CAF-L501-KJP"
   },
+  "B0FJS3P8NT": {
+    "first_seen": "2026-07-27",
+    "first_seen_at": "2026-07-27T12:00:00+09:00",
+    "last_seen": "2026-08-05",
+    "title": "UGREEN 45W USB-C*4+USB-A*1 急速充電器 Type-C PD GaNⅡ充電器 PSE適合タイプc充電器 PD3.0/PPS/SCP/QC3.0"
+  },
+  "B0FYFDD1WW": {
+    "first_seen": "2026-07-29",
+    "first_seen_at": "2026-07-29T12:00:00+09:00",
+    "last_seen": "2026-08-05",
+    "title": "UGREEN 160W 5口充電器 カラーディスプレイ搭載 Type-C 4C1A 5ポート PD3.0/PPS/QC4対応 折り畳み式"
+  },
+  "B0DRJK6JMM": {
+    "first_seen": "2026-08-05",
+    "first_seen_at": "2026-08-05T00:39:47+09:00",
+    "last_seen": "2026-08-05",
+    "title": "REALFORCE リアルフォース ラピッドトリガー キーボードGX1 ホワイト 静音 45ｇ TKLサイズ 静電容量無接点方式 最速0.1mm作動 Windows かな無し 日本語配列 日本製 ゲーミングキーボード 91キー X1UC21"
+  },
   "B0DPQP8L9S": {
     "first_seen": "2026-08-04",
     "first_seen_at": "2026-08-04T21:17:38+09:00",
@@ -874,12 +904,6 @@
     "first_seen_at": "2026-08-04T21:17:38+09:00",
     "last_seen": "2026-08-04",
     "title": "UGREEN 当社比超薄15mm NexodePro充電器 65W Type-C 2C1A 3ポート PD3.0/PPS対応 折り畳み式"
-  },
-  "B0GF26RSYQ": {
-    "first_seen": "2026-07-27",
-    "first_seen_at": "2026-07-27T12:00:00+09:00",
-    "last_seen": "2026-08-04",
-    "title": "Anker Nano Charger (45W, Display, スイングプラグ) ブラック"
   },
   "B0F43S7J2N": {
     "first_seen": "2026-08-04",
@@ -946,12 +970,6 @@
     "first_seen_at": "2026-07-29T12:00:00+09:00",
     "last_seen": "2026-08-04",
     "title": "エレコム マウス ワイヤレス Mサイズ 5ボタン(戻る・進むボタン搭載) BlueLED 握りの極み ガンメタリック M-XGM10DBBK/EC"
-  },
-  "B0CJR5HBMN": {
-    "first_seen": "2026-08-04",
-    "first_seen_at": "2026-08-04T21:17:38+09:00",
-    "last_seen": "2026-08-04",
-    "title": "ロジクール ワイヤレスマウス PEBBLE MOUSE2 M350sGR 薄型 静音 Bluetooth Logi Bolt マウス 無線 ワイヤレス 左右対称 Easy-Switch 4000dpi 電池寿命24ケ月 windows mac Chrome Android iPad M350 グラファイト 国内正規品"
   },
   "B0DC5X912P": {
     "first_seen": "2026-08-04",
@@ -1049,12 +1067,6 @@
     "last_seen": "2026-08-04",
     "title": "UGREEN 100W モバイルバッテリー 20000mAh 大容量 3ポート USB-C×2 USB-A×1"
   },
-  "B0F9FHXPDF": {
-    "first_seen": "2026-07-27",
-    "first_seen_at": "2026-07-27T12:00:00+09:00",
-    "last_seen": "2026-08-04",
-    "title": "UGREEN 100W PD 急速充電器 USB-C×4/USB-A×1 タッチモニター搭載 PSE認証済 36*75*75mm"
-  },
   "B0DSPXKDP8": {
     "first_seen": "2026-07-30",
     "first_seen_at": "2026-07-30T12:00:00+09:00",
@@ -1066,12 +1078,6 @@
     "first_seen_at": "2026-07-30T12:00:00+09:00",
     "last_seen": "2026-08-04",
     "title": "HUAWEI WATCH GT 6 46mm スマートウォッチ 1.47インチ大画面 最長21日間バッテリー ゴルフ/サイクリング/登山 スポーツモード100種類以上 GPS搭載 情緒/健康モニタリング iOS & Android対応 ブラック"
-  },
-  "B07PJW2X2F": {
-    "first_seen": "2026-07-26",
-    "first_seen_at": "2026-07-26T12:00:00+09:00",
-    "last_seen": "2026-08-04",
-    "title": "エレコム ワイヤレスキーボード メンブレン 薄型 フルキーボード テンキー ブラック TK-FDM110TXBK"
   },
   "B0DRJJT13G": {
     "first_seen": "2026-08-04",
