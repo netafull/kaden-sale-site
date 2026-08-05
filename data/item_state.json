@@ -137,17 +137,17 @@
     "last_seen": "2026-08-05",
     "title": "Anker Zolo Power Bank (20000mAh, 45W, Built-In USB-Cケーブル) ブラック"
   },
+  "B08HCVG4FB": {
+    "first_seen": "2026-07-29",
+    "first_seen_at": "2026-07-29T12:00:00+09:00",
+    "last_seen": "2026-08-05",
+    "title": "Anker PowerCore Fusion 10000"
+  },
   "B0FKGYZYZZ": {
     "first_seen": "2026-07-31",
     "first_seen_at": "2026-07-31T12:00:00+09:00",
     "last_seen": "2026-08-05",
-    "title": "Belkin Apple Watch充電器一体型 モバイルバッテリー 10000mAh 45W 急速充電 USB-Cケーブル内蔵 3台同時充電"
-  },
-  "B0H389CB56": {
-    "first_seen": "2026-08-04",
-    "first_seen_at": "2026-08-04T21:17:38+09:00",
-    "last_seen": "2026-08-05",
-    "title": "エレコム モバイルバッテリー 5000mAh 22.5W USB-C 直挿し プラグ一体型 ケーブル不要 急速充電 コンパクト 軽量 130g iPhone対応 パススルー充電 PSE認証 スイング式コネクタ Type-C ピンク EC-C28LPN"
+    "title": "Belkin Apple Watch充電器一体型 モバイルバッテリー 3C認証 10000mAh 45W USB-Cケーブル内蔵 3台同時充電"
   },
   "B0DB17C63X": {
     "first_seen": "2026-07-29",
@@ -179,12 +179,6 @@
     "last_seen": "2026-08-05",
     "title": "Belkin USB充電器 40W iPhone17,16～12 デュアルUSB-C(20W x 2) PD3.0 急速充電対応 ホワイト WCB006dqWHJP"
   },
-  "B0BF9ZYCQ5": {
-    "first_seen": "2026-07-31",
-    "first_seen_at": "2026-07-31T12:00:00+09:00",
-    "last_seen": "2026-08-05",
-    "title": "【VGP受賞】Belkin 充電器 USB-C 2ポート PPS規格対応 GaN採用 小型 ACアダプター タイプC 急速充電 軽量【PD3.0対応 /PSE認証/折りたたみ式プラグ】45W(25W+20W) MacBook Windows PC Surface Pro iPad iPhone 17,16～12対応 Galaxy Android スマホ 各種ノートPC対応 WCH011dqWH"
-  },
   "B0FVM1C19Y": {
     "first_seen": "2026-07-31",
     "first_seen_at": "2026-07-31T12:00:00+09:00",
@@ -214,6 +208,12 @@
     "first_seen_at": "2026-07-27T12:00:00+09:00",
     "last_seen": "2026-08-05",
     "title": "UGREEN 100W PD 急速充電器 USB-C×4/USB-A×1 タッチモニター搭載 PSE認証済 36*75*75mm"
+  },
+  "B09MLVRGFG": {
+    "first_seen": "2026-07-31",
+    "first_seen_at": "2026-07-31T12:00:00+09:00",
+    "last_seen": "2026-08-05",
+    "title": "Belkin MagSafe認証 ワイヤレス充電パッド iPhone15/14/13/12 最大15W急速充電 キックスタンド付き AC電源アダプター付属 ホワイト WIA004dqWH"
   },
   "B091BGMKYS": {
     "first_seen": "2026-07-27",
@@ -245,11 +245,11 @@
     "last_seen": "2026-08-05",
     "title": "UGREEN Nexode【当社比最小】65W PD充電器 USB-C*2+USB-A*1 急速充電器 PSE適合 PD/PPS/QC4+対応"
   },
-  "B0DFLWV566": {
+  "B0DXF6V2ZW": {
     "first_seen": "2026-08-04",
-    "first_seen_at": "2026-08-04T12:38:09+09:00",
+    "first_seen_at": "2026-08-04T15:23:47+09:00",
     "last_seen": "2026-08-05",
-    "title": "Anker Charger (112W, 6 Ports, GaN)"
+    "title": "Anker Charger (112W, 6 Ports, GaN) ブラック"
   },
   "B0DG93MZCR": {
     "first_seen": "2026-07-27",
@@ -316,6 +316,12 @@
     "first_seen_at": "2026-07-27T12:00:00+09:00",
     "last_seen": "2026-08-05",
     "title": "Anker Nano Charger (45W, Display, スイングプラグ) ブラック"
+  },
+  "B0GMGHTNBB": {
+    "first_seen": "2026-08-05",
+    "first_seen_at": "2026-08-05T18:51:14+09:00",
+    "last_seen": "2026-08-05",
+    "title": "エレコム 65W 充電器 Type-C コンセント 急速 PD対応 スイング式プラグ採用 PSE技術基準適合 ブラック EC-AC12465BK"
   },
   "B0F8TZV7ST": {
     "first_seen": "2026-07-31",
@@ -899,6 +905,24 @@
     "last_seen": "2026-08-05",
     "title": "COSORI コソリ ノンフライヤー 4.7L 大容量 家庭用 エアフライヤー 最高温230℃ 揚げ物 タイマー グレー CAF-L501-KJP"
   },
+  "B0H389CB56": {
+    "first_seen": "2026-08-04",
+    "first_seen_at": "2026-08-04T21:17:38+09:00",
+    "last_seen": "2026-08-05",
+    "title": "エレコム モバイルバッテリー 5000mAh 22.5W USB-C 直挿し プラグ一体型 ケーブル不要 急速充電 コンパクト 軽量 130g iPhone対応 パススルー充電 PSE認証 スイング式コネクタ Type-C ピンク EC-C28LPN"
+  },
+  "B0BF9ZYCQ5": {
+    "first_seen": "2026-07-31",
+    "first_seen_at": "2026-07-31T12:00:00+09:00",
+    "last_seen": "2026-08-05",
+    "title": "【VGP受賞】Belkin 充電器 USB-C 2ポート PPS規格対応 GaN採用 小型 ACアダプター タイプC 急速充電 軽量【PD3.0対応 /PSE認証/折りたたみ式プラグ】45W(25W+20W) MacBook Windows PC Surface Pro iPad iPhone 17,16～12対応 Galaxy Android スマホ 各種ノートPC対応 WCH011dqWH"
+  },
+  "B0DFLWV566": {
+    "first_seen": "2026-08-04",
+    "first_seen_at": "2026-08-04T12:38:09+09:00",
+    "last_seen": "2026-08-05",
+    "title": "Anker Charger (112W, 6 Ports, GaN)"
+  },
   "B0FL2KNHYM": {
     "first_seen": "2026-08-05",
     "first_seen_at": "2026-08-05T12:33:42+09:00",
@@ -916,18 +940,6 @@
     "first_seen_at": "2026-07-24T12:00:00+09:00",
     "last_seen": "2026-08-05",
     "title": "UGREEN MagFlow Qi2 25W認証 モバイルバッテリー Magsafe対応 マグネット式ワイヤレス急速充電 20000mAh ブラック"
-  },
-  "B09MLVRGFG": {
-    "first_seen": "2026-07-31",
-    "first_seen_at": "2026-07-31T12:00:00+09:00",
-    "last_seen": "2026-08-05",
-    "title": "Belkin MagSafe認証 ワイヤレス充電パッド iPhone15/14/13/12 最大15W急速充電 キックスタンド付き AC電源アダプター付属 ホワイト WIA004dqWH"
-  },
-  "B0DXF6V2ZW": {
-    "first_seen": "2026-08-04",
-    "first_seen_at": "2026-08-04T15:23:47+09:00",
-    "last_seen": "2026-08-05",
-    "title": "Anker Charger (112W, 6 Ports, GaN) ブラック"
   },
   "B0DYD1CZHM": {
     "first_seen": "2026-08-04",
@@ -2122,12 +2134,6 @@
     "last_seen": "2026-07-30",
     "title": "エレコム モバイルバッテリー 20000mAh 大容量 20W 2ポート Type-C USB-A USB PD対応 【 iPhone 16 15 14 iPad 各種対応】 ブラック EC-C07BK",
     "first_seen_at": "2026-07-24T12:00:00+09:00"
-  },
-  "B08HCVG4FB": {
-    "first_seen": "2026-07-29",
-    "last_seen": "2026-07-30",
-    "title": "Anker PowerCore Fusion 10000",
-    "first_seen_at": "2026-07-29T12:00:00+09:00"
   },
   "B0DM1G9TSY": {
     "first_seen": "2026-07-24",
