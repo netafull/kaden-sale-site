@@ -161,12 +161,6 @@
     "last_seen": "2026-08-06",
     "title": "エレコム 半固体電池 モバイルバッテリー 10000mAh PD35W Type-C USB-A 燃えにくい 安全設計 長寿命 2000回サイクル 3台同時充電 残量表示 軽量220g PSE認証 機内持ち込み可 iPhone対応 ミッドナイト EC-C61MN"
   },
-  "B09NTNTVRJ": {
-    "first_seen": "2026-08-02",
-    "first_seen_at": "2026-08-02T11:58:58+09:00",
-    "last_seen": "2026-08-06",
-    "title": "Belkin モバイルバッテリー 3c 認証 CCC 大容量 20000mAh iPhone 17,16～12&Android対応 最大15W 最大40時間 3ポート(USB-Cx1 USB-Ax2) スリム&軽量 PSE認証 機内持込可能ケーブル付属 メーカー保証2年 ブラック BPB012btBK"
-  },
   "B0DZ1TGX6T": {
     "first_seen": "2026-07-24",
     "first_seen_at": "2026-07-24T12:00:00+09:00",
@@ -335,11 +329,11 @@
     "last_seen": "2026-08-06",
     "title": "Belkin Cubic Charger 45W 充電器 USB-C PD3.2 高速充電対応 PPS対応 iPad/iPhone 17,16～12対応/Androidスマホ・タブレット各種対応 旅行や出張に最適 折り畳みプラグ PSE認証 ホワイト WCA013qcWH"
   },
-  "B0F43R4737": {
+  "B0F43N4Z21": {
     "first_seen": "2026-08-04",
     "first_seen_at": "2026-08-04T15:23:47+09:00",
     "last_seen": "2026-08-06",
-    "title": "エレコム 充電器 65W 3ポート Type-C USB-A USB PD対応 スイング式プラグ採用 ホワイト EC-AC10367WH"
+    "title": "エレコム 充電器 合計65W 3ポート Type-C USB-A USB PD対応 スイング式プラグ採用 しろちゃん EC-AC10367WF"
   },
   "B0DRP2QYCY": {
     "first_seen": "2026-08-04",
@@ -412,6 +406,12 @@
     "first_seen_at": "2026-08-02T18:25:14+09:00",
     "last_seen": "2026-08-06",
     "title": "LG 有機EL ゲーミング モニター 27GX700A-B 26.5インチ/WQHD@280Hz/タンデムOLED/0.03ms/HDR TB500"
+  },
+  "B0DJBQLDWP": {
+    "first_seen": "2026-08-06",
+    "first_seen_at": "2026-08-06T18:54:32+09:00",
+    "last_seen": "2026-08-06",
+    "title": "LG モニター 27MS530B-B 27インチ/フルHD/100Hz/IPS/HDMI×2、USB-C PD65W/メーカー3年保証"
   },
   "B0CNC7NDC4": {
     "first_seen": "2026-08-04",
@@ -575,12 +575,6 @@
     "last_seen": "2026-08-06",
     "title": "シャオミ(Xiaomi) スマートウォッチ Xiaomi Band 9 Active 18日間連続使用 1.47インチTFTディスプレイ 24時間健康管理 チップ強化 軽量デザイン 交換可能なフレーム iPhone & Android対応 ブラック"
   },
-  "B0F9LB5PQF": {
-    "first_seen": "2026-07-30",
-    "first_seen_at": "2026-07-30T12:00:00+09:00",
-    "last_seen": "2026-08-06",
-    "title": "【Forerunner265後継モデル】GARMIN(ガーミン) GPSランニングウォッチ Forerunner 570 47mm Black 【ロングバッテリー/超軽量/高精度GPS/色鮮やかなAMOLEDタッチディスプレイ/スピーカー＆マイク内蔵/ボイスコントロール/睡眠スコア・Body Battery計測/Music保存機能 有・無/Android/iOS対応/Suica機能搭載/防水】"
-  },
   "B0B75WHSGR": {
     "first_seen": "2026-08-04",
     "first_seen_at": "2026-08-04T12:38:09+09:00",
@@ -611,6 +605,12 @@
     "last_seen": "2026-08-06",
     "title": "VITURE Luma Ultra XRグラス アルティメットセット（ネックバンド・ドック付属）"
   },
+  "B0GCZMGP1T": {
+    "first_seen": "2026-07-31",
+    "first_seen_at": "2026-07-31T12:00:00+09:00",
+    "last_seen": "2026-08-06",
+    "title": "VITURE Luma Ultra AR/XRグラス VGP&BEST BUY受賞 フル6DoF対応 ARハンドジェスチャー 1500nit"
+  },
   "B0FFT61X6F": {
     "first_seen": "2026-07-31",
     "first_seen_at": "2026-07-31T12:00:00+09:00",
@@ -622,18 +622,6 @@
     "first_seen_at": "2026-07-31T12:00:00+09:00",
     "last_seen": "2026-08-06",
     "title": "DPVR G1 AI スマートグラス 翻訳 141言語対応 HD 800万画素カメラ付きメガネ 32Gb 調光レンズ搭載 AI画像認識 メガネ型カメラ オーディオグラス スマートグラス iPhone対応 Android対応"
-  },
-  "B0H7RJ4THB": {
-    "first_seen": "2026-07-31",
-    "first_seen_at": "2026-07-31T12:00:00+09:00",
-    "last_seen": "2026-08-06",
-    "title": "XREAL xbx a01+とXREAL Beam Pro 5G版(8+256GB) 空間エンタメセット"
-  },
-  "B0GCZMGP1T": {
-    "first_seen": "2026-07-31",
-    "first_seen_at": "2026-07-31T12:00:00+09:00",
-    "last_seen": "2026-08-06",
-    "title": "VITURE Luma Ultra AR/XRグラス VGP&BEST BUY受賞 フル6DoF対応 ARハンドジェスチャー 1500nit"
   },
   "B0FZHM9RHH": {
     "first_seen": "2026-07-31",
@@ -815,23 +803,11 @@
     "last_seen": "2026-08-06",
     "title": "ロジクール ワイヤレスキーボード K295GP 静音 耐水 キーボード 無線 Unifying K295 グラファイト 国内正規品"
   },
-  "B0927ZLPZ9": {
-    "first_seen": "2026-08-06",
-    "first_seen_at": "2026-08-06T15:48:22+09:00",
-    "last_seen": "2026-08-06",
-    "title": "【Amazon.co.jp限定】 ロジクール ワイヤレスマウス 静音 無線 M220RO ローズ 国内正規品"
-  },
   "B07DVC25R2": {
     "first_seen": "2026-07-26",
     "first_seen_at": "2026-07-26T12:00:00+09:00",
     "last_seen": "2026-08-06",
     "title": "Logicool G ゲーミングマウス G304 LIGHTSPEED ワイヤレス ゲーミング マウス 軽量 99g HERO 12Kセンサー 6個プログラムボタン 250時間連続使用可能 ブラック PC windows mac 国内正規品 【 ファイナルファンタジー XIV 推奨モデル 】"
-  },
-  "B0GL1B1L6Y": {
-    "first_seen": "2026-08-04",
-    "first_seen_at": "2026-08-04T12:38:09+09:00",
-    "last_seen": "2026-08-06",
-    "title": "東プレ REALFORCE GX1 Plus サザビー 日本語配列 ゲーミングキーボード X1PCS1 KB0939"
   },
   "B0CJR8Y56J": {
     "first_seen": "2026-07-26",
@@ -899,6 +875,12 @@
     "last_seen": "2026-08-06",
     "title": "ロジクール SIGNATURE SLIM ワイヤレス キーボード K950GR 薄型 静かなタイピング Bluetooth Logi Bolt ワイヤレスキーボード テンキー 無線 Easy-Switch 日本語配列 電池寿命36ケ月 Windows Mac Chrome Android K950 グラファイト 国内正規品"
   },
+  "B0GL1B1L6Y": {
+    "first_seen": "2026-08-04",
+    "first_seen_at": "2026-08-04T12:38:09+09:00",
+    "last_seen": "2026-08-06",
+    "title": "東プレ REALFORCE GX1 Plus サザビー 日本語配列 ゲーミングキーボード X1PCS1 KB0939"
+  },
   "B0C65MQZ65": {
     "first_seen": "2026-07-26",
     "first_seen_at": "2026-07-26T12:00:00+09:00",
@@ -917,6 +899,36 @@
     "last_seen": "2026-08-06",
     "title": "COSORI コソリ ノンフライヤー 4.7L 大容量 家庭用 エアフライヤー 最高温230℃ 揚げ物 タイマー グレー CAF-L501-KJP"
   },
+  "B09NTNTVRJ": {
+    "first_seen": "2026-08-02",
+    "first_seen_at": "2026-08-02T11:58:58+09:00",
+    "last_seen": "2026-08-06",
+    "title": "Belkin モバイルバッテリー 3c 認証 CCC 大容量 20000mAh iPhone 17,16～12&Android対応 最大15W 最大40時間 3ポート(USB-Cx1 USB-Ax2) スリム&軽量 PSE認証 機内持込可能ケーブル付属 メーカー保証2年 ブラック BPB012btBK"
+  },
+  "B0F43R4737": {
+    "first_seen": "2026-08-04",
+    "first_seen_at": "2026-08-04T15:23:47+09:00",
+    "last_seen": "2026-08-06",
+    "title": "エレコム 充電器 65W 3ポート Type-C USB-A USB PD対応 スイング式プラグ採用 ホワイト EC-AC10367WH"
+  },
+  "B0F9LB5PQF": {
+    "first_seen": "2026-07-30",
+    "first_seen_at": "2026-07-30T12:00:00+09:00",
+    "last_seen": "2026-08-06",
+    "title": "【Forerunner265後継モデル】GARMIN(ガーミン) GPSランニングウォッチ Forerunner 570 47mm Black 【ロングバッテリー/超軽量/高精度GPS/色鮮やかなAMOLEDタッチディスプレイ/スピーカー＆マイク内蔵/ボイスコントロール/睡眠スコア・Body Battery計測/Music保存機能 有・無/Android/iOS対応/Suica機能搭載/防水】"
+  },
+  "B0H7RJ4THB": {
+    "first_seen": "2026-07-31",
+    "first_seen_at": "2026-07-31T12:00:00+09:00",
+    "last_seen": "2026-08-06",
+    "title": "XREAL xbx a01+とXREAL Beam Pro 5G版(8+256GB) 空間エンタメセット"
+  },
+  "B0927ZLPZ9": {
+    "first_seen": "2026-08-06",
+    "first_seen_at": "2026-08-06T15:48:22+09:00",
+    "last_seen": "2026-08-06",
+    "title": "【Amazon.co.jp限定】 ロジクール ワイヤレスマウス 静音 無線 M220RO ローズ 国内正規品"
+  },
   "B0DYD1CZHM": {
     "first_seen": "2026-08-04",
     "first_seen_at": "2026-08-04T15:44:13+09:00",
@@ -934,12 +946,6 @@
     "first_seen_at": "2026-07-29T12:00:00+09:00",
     "last_seen": "2026-08-06",
     "title": "エレコム ワイヤレス トラックボールマウス Bluetooth IST (アイエスティー) シリーズ 5ボタン 親指操作 ベアリング支持 Windows Mac Chromebook ブラック 2 M-IT11BRABK"
-  },
-  "B0F43N4Z21": {
-    "first_seen": "2026-08-04",
-    "first_seen_at": "2026-08-04T15:23:47+09:00",
-    "last_seen": "2026-08-06",
-    "title": "エレコム 充電器 合計65W 3ポート Type-C USB-A USB PD対応 スイング式プラグ採用 しろちゃん EC-AC10367WF"
   },
   "B0F5WR3KP9": {
     "first_seen": "2026-07-30",
