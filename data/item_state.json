@@ -113,17 +113,17 @@
     "last_seen": "2026-08-07",
     "title": "Belkin USB充電器 40W iPhone17,16～12 デュアルUSB-C(20W x 2) PD3.0 急速充電対応 ホワイト WCB006dqWHJP"
   },
-  "B0CMQK8CMJ": {
-    "first_seen": "2026-08-05",
-    "first_seen_at": "2026-08-05T21:15:31+09:00",
-    "last_seen": "2026-08-07",
-    "title": "UGREEN NexodeX 100W GaNII充電器 3ポート(USB-C*2+USB-A) タイプC 超小型 急速充電器 PD3.0/PPS/QC4+/QC3.0 対応"
-  },
   "B0BF9ZYCQ5": {
     "first_seen": "2026-07-31",
     "first_seen_at": "2026-07-31T12:00:00+09:00",
     "last_seen": "2026-08-07",
     "title": "【VGP受賞】Belkin 充電器 USB-C 2ポート PPS規格対応 GaN採用 小型 ACアダプター タイプC 急速充電 軽量【PD3.0対応 /PSE認証/折りたたみ式プラグ】45W(25W+20W) MacBook Windows PC Surface Pro iPad iPhone 17,16～12対応 Galaxy Android スマホ 各種ノートPC対応 WCH011dqWH"
+  },
+  "B0CMQK8CMJ": {
+    "first_seen": "2026-08-05",
+    "first_seen_at": "2026-08-05T21:15:31+09:00",
+    "last_seen": "2026-08-07",
+    "title": "UGREEN NexodeX 100W GaNII充電器 3ポート(USB-C*2+USB-A) タイプC 超小型 急速充電器 PD3.0/PPS/QC4+/QC3.0 対応"
   },
   "B0F9FHXPDF": {
     "first_seen": "2026-07-27",
@@ -179,17 +179,29 @@
     "last_seen": "2026-08-07",
     "title": "CIO NovaPort DUOⅡ 65W PD急速充電器 USB-C×2 2台同時充電 世界最小級（ブラック）"
   },
+  "B0DG93MZCR": {
+    "first_seen": "2026-07-27",
+    "first_seen_at": "2026-07-27T12:00:00+09:00",
+    "last_seen": "2026-08-07",
+    "title": "UGREEN PD充電器 type-c 30W 2*USB-C+1*USB-A GaN PSE適合/PD3.0"
+  },
   "B0FB2F95HY": {
     "first_seen": "2026-08-07",
     "first_seen_at": "2026-08-07T00:31:33+09:00",
     "last_seen": "2026-08-07",
     "title": "エレコム ワイヤレス充電器 Qi認証 最大 10W スタンド型 EPP規格対応 3枚コイル 【 iPhone Galaxy AirPods 等対応】 ブラック EC-QS10BK"
   },
-  "B0DG93MZCR": {
+  "B0DMFFK5LV": {
+    "first_seen": "2026-07-29",
+    "first_seen_at": "2026-07-29T12:00:00+09:00",
+    "last_seen": "2026-08-07",
+    "title": "UGREEN 45W USB-C*2+USB-A*1 急速充電器 Type-C PD GaNⅡ充電器 PSE適合タイプc充電器 PD/PPS/SCP/QC3.0"
+  },
+  "B0DNT9Z2HS": {
     "first_seen": "2026-07-27",
     "first_seen_at": "2026-07-27T12:00:00+09:00",
     "last_seen": "2026-08-07",
-    "title": "UGREEN PD充電器 type-c 30W 2*USB-C+1*USB-A GaN PSE適合/PD3.0"
+    "title": "UGREEN 100W GaN 卓上急速充電器 (4*USB-C+2*USB-A) コンパクト【PSE技術基準適合/PD3.0/QC4.0/PPS対応】 複数台同時充電 iPhone17/16/15/14/13/Xperia/Pixel Pro/iPad/ノートPC MacBook Pro/Airなどに対応"
   },
   "B0CSYVNBZX": {
     "first_seen": "2026-07-31",
@@ -221,29 +233,11 @@
     "last_seen": "2026-08-07",
     "title": "エレコム 充電器 合計65W 3ポート Type-C USB-A USB PD対応 スイング式プラグ採用 ブラック EC-AC10367BK"
   },
-  "B0FJS3P8NT": {
-    "first_seen": "2026-07-27",
-    "first_seen_at": "2026-07-27T12:00:00+09:00",
-    "last_seen": "2026-08-07",
-    "title": "UGREEN 45W USB-C*4+USB-A*1 急速充電器 Type-C PD GaNⅡ充電器 PSE適合タイプc充電器 PD3.0/PPS/SCP/QC3.0"
-  },
-  "B0DNT9Z2HS": {
-    "first_seen": "2026-07-27",
-    "first_seen_at": "2026-07-27T12:00:00+09:00",
-    "last_seen": "2026-08-07",
-    "title": "UGREEN 100W GaN 卓上急速充電器 (4*USB-C+2*USB-A) コンパクト【PSE技術基準適合/PD3.0/QC4.0/PPS対応】 複数台同時充電 iPhone17/16/15/14/13/Xperia/Pixel Pro/iPad/ノートPC MacBook Pro/Airなどに対応"
-  },
   "B0DRP2QYCY": {
     "first_seen": "2026-08-04",
     "first_seen_at": "2026-08-04T12:38:09+09:00",
     "last_seen": "2026-08-07",
     "title": "Belkin Apple Watch充電器 持ち運び USB-C ドングル ポータブル MFI認証 高速充電 全モデル対応"
-  },
-  "B0CSJYST27": {
-    "first_seen": "2026-08-06",
-    "first_seen_at": "2026-08-06T21:18:24+09:00",
-    "last_seen": "2026-08-07",
-    "title": "KIOXIA(キオクシア)【日本製】SDカード 512GB SDXC UHS-I Class10 読出速度100MB/s 国内正規品 メーカー保証5年 KLNEA512G"
   },
   "B08N4JHGJL": {
     "first_seen": "2026-07-30",
@@ -311,17 +305,17 @@
     "last_seen": "2026-08-07",
     "title": "SwitchBot LED電球 スマートライト Alexa スマートホーム - スマート電球 E26 スイッチボット 調光調色 広配光 800lm 60W形相当 電球色・昼白色対応 RGBCWマルチカラー 1600万色 間接照明 Google Home IFTTT イフト Siri SmartThings に対応(2個パック)"
   },
-  "B0F5WNVHH7": {
-    "first_seen": "2026-07-30",
-    "first_seen_at": "2026-07-30T12:00:00+09:00",
-    "last_seen": "2026-08-07",
-    "title": "HUAWEI WATCH FIT 4 スマートウォッチ 薄型軽量 1.82インチ大画面 アウトドアに適した気圧計と測位システム 通知 フィットネス ヘルストラッカー 情緒測定 10日間ロングバッテリー iOS/Android対応 ブラック"
-  },
   "B0FKH3WQ41": {
     "first_seen": "2026-07-30",
     "first_seen_at": "2026-07-30T12:00:00+09:00",
     "last_seen": "2026-08-07",
     "title": "HUAWEI WATCH GT 6 Pro 46mm スマートウォッチ 1.47インチ大画面 最長21日間バッテリー サイクリング/登山/進化したゴルフナビ スポーツモード100種類以上 GPS搭載 心電図分析 健康/情緒モニタリング iOS/Android対応 ブラック"
+  },
+  "B0F5WNVHH7": {
+    "first_seen": "2026-07-30",
+    "first_seen_at": "2026-07-30T12:00:00+09:00",
+    "last_seen": "2026-08-07",
+    "title": "HUAWEI WATCH FIT 4 スマートウォッチ 薄型軽量 1.82インチ大画面 アウトドアに適した気圧計と測位システム 通知 フィットネス ヘルストラッカー 情緒測定 10日間ロングバッテリー iOS/Android対応 ブラック"
   },
   "B0FKH268LS": {
     "first_seen": "2026-07-30",
@@ -395,11 +389,11 @@
     "last_seen": "2026-08-07",
     "title": "Amazon Echo Show 15 (エコーショー15) 第2世代 (2024年発売) - 15.6インチ フルHDスマートディスプレイ with Alexa、Fire TV機能搭載、Alexa対応音声認識リモコン同梱"
   },
-  "B09B8P3RK1": {
+  "B09B8SZLLG": {
     "first_seen": "2026-08-07",
-    "first_seen_at": "2026-08-07T09:18:51+09:00",
+    "first_seen_at": "2026-08-07T13:07:32+09:00",
     "last_seen": "2026-08-07",
-    "title": "Amazon Echo Dot (エコードット) 第5世代 - Alexa、センサー搭載、鮮やかなサウンド｜グレーシャーホワイト"
+    "title": "Amazon Echo Dot (エコードット) 第5世代 - Alexa、センサー搭載、鮮やかなサウンド｜チャコール"
   },
   "B0DKLWZY2Z": {
     "first_seen": "2026-08-07",
@@ -569,6 +563,12 @@
     "last_seen": "2026-08-07",
     "title": "ロジクール ワイヤレスキーボード K295GP 静音 耐水 キーボード 無線 Unifying K295 グラファイト 国内正規品"
   },
+  "B0927ZLPZ9": {
+    "first_seen": "2026-08-06",
+    "first_seen_at": "2026-08-06T15:48:22+09:00",
+    "last_seen": "2026-08-07",
+    "title": "【Amazon.co.jp限定】 ロジクール ワイヤレスマウス 静音 無線 M220RO ローズ 国内正規品"
+  },
   "B07DVC25R2": {
     "first_seen": "2026-07-26",
     "first_seen_at": "2026-07-26T12:00:00+09:00",
@@ -647,17 +647,23 @@
     "last_seen": "2026-08-07",
     "title": "アイリスオーヤマ フライヤー 過熱水蒸気 ノンオイルフライヤー FV-M30A-C アイボリー"
   },
-  "B09B8SZLLG": {
-    "first_seen": "2026-08-07",
-    "first_seen_at": "2026-08-07T13:07:32+09:00",
+  "B0FJS3P8NT": {
+    "first_seen": "2026-07-27",
+    "first_seen_at": "2026-07-27T12:00:00+09:00",
     "last_seen": "2026-08-07",
-    "title": "Amazon Echo Dot (エコードット) 第5世代 - Alexa、センサー搭載、鮮やかなサウンド｜チャコール"
+    "title": "UGREEN 45W USB-C*4+USB-A*1 急速充電器 Type-C PD GaNⅡ充電器 PSE適合タイプc充電器 PD3.0/PPS/SCP/QC3.0"
   },
-  "B0927ZLPZ9": {
+  "B0CSJYST27": {
     "first_seen": "2026-08-06",
-    "first_seen_at": "2026-08-06T15:48:22+09:00",
+    "first_seen_at": "2026-08-06T21:18:24+09:00",
     "last_seen": "2026-08-07",
-    "title": "【Amazon.co.jp限定】 ロジクール ワイヤレスマウス 静音 無線 M220RO ローズ 国内正規品"
+    "title": "KIOXIA(キオクシア)【日本製】SDカード 512GB SDXC UHS-I Class10 読出速度100MB/s 国内正規品 メーカー保証5年 KLNEA512G"
+  },
+  "B09B8P3RK1": {
+    "first_seen": "2026-08-07",
+    "first_seen_at": "2026-08-07T09:18:51+09:00",
+    "last_seen": "2026-08-07",
+    "title": "Amazon Echo Dot (エコードット) 第5世代 - Alexa、センサー搭載、鮮やかなサウンド｜グレーシャーホワイト"
   },
   "B0FL2KNHYM": {
     "first_seen": "2026-08-05",
@@ -2031,12 +2037,6 @@
     "first_seen": "2026-07-29",
     "last_seen": "2026-07-31",
     "title": "CIO SMARTCOBY SLIM Ⅱ Wireless 2.0 SS5K 半固体モバイルバッテリー ワイヤレス充電 5000mAh (シルバー)",
-    "first_seen_at": "2026-07-29T12:00:00+09:00"
-  },
-  "B0DMFFK5LV": {
-    "first_seen": "2026-07-29",
-    "last_seen": "2026-07-31",
-    "title": "UGREEN 45W USB-C*2+USB-A*1 急速充電器 Type-C PD GaNⅡ充電器 PSE適合タイプc充電器 PD/PPS/SCP/QC3.0",
     "first_seen_at": "2026-07-29T12:00:00+09:00"
   },
   "B0F43RNTYH": {
