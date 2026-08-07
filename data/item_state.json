@@ -47,12 +47,6 @@
     "last_seen": "2026-08-08",
     "title": "Belkin BoostCharge モバイルバッテリー ディズプレイ付き (10000mAh 20W USB-Cケーブル内蔵) 最大20W PD高速充電対応 PPS対応 iPhone&Androidスマホ対応 2台同時充電 PSE認証 軽量&コンパクト 機内持込可能 アウトドア/災害/緊急用の便利グッズ メーカー保証2年 ホワイト BPB027fqWH"
   },
-  "B0CX4PBCKH": {
-    "first_seen": "2026-08-04",
-    "first_seen_at": "2026-08-04T03:08:47+09:00",
-    "last_seen": "2026-08-08",
-    "title": "Anker Power Bank (10000mAh, Fusion, Built-In USB-C ケーブル) ピンク"
-  },
   "B0D53XSFR8": {
     "first_seen": "2026-07-29",
     "first_seen_at": "2026-07-29T12:00:00+09:00",
@@ -365,6 +359,12 @@
     "last_seen": "2026-08-08",
     "title": "Alexa対応音声認識リモコン Pro | 対応する別売りのFire TV本体が必要です"
   },
+  "B0H262HBX2": {
+    "first_seen": "2026-08-08",
+    "first_seen_at": "2026-08-08T01:13:21+09:00",
+    "last_seen": "2026-08-08",
+    "title": "【セット買い】Amazon Fire TV Stick 4K Max + Amazon Fire TV Soundbar Plus"
+  },
   "B0C7Y1N38H": {
     "first_seen": "2026-08-07",
     "first_seen_at": "2026-08-07T09:18:51+09:00",
@@ -509,17 +509,17 @@
     "last_seen": "2026-08-08",
     "title": "ロジクール ワイヤレスマウス 無線 高速スクロール 7ボタン マウス Unifying SEB-M705 ブラック 国内正規品"
   },
-  "B0CJR7N5MG": {
-    "first_seen": "2026-08-07",
-    "first_seen_at": "2026-08-07T22:31:51+09:00",
-    "last_seen": "2026-08-08",
-    "title": "ロジクール ワイヤレスマウス PEBBLE MOUSE2 M350sBL 薄型 静音 Bluetooth Logi Bolt マウス 無線 ワイヤレス 左右対称 Easy-Switch 4000dpi 電池寿命24ケ月 windows mac Chrome Android iPad M350 ブルー 国内正規品"
-  },
   "B0D9Y1SNQT": {
     "first_seen": "2026-07-28",
     "first_seen_at": "2026-07-28T12:00:00+09:00",
     "last_seen": "2026-08-08",
     "title": "【Amazon.co.jp限定】 ロジクール 静音 ワイヤレス トラックボール マウス MX ERGO S MXTB2d 無線 グラファイト"
+  },
+  "B0CJR5HBMN": {
+    "first_seen": "2026-08-04",
+    "first_seen_at": "2026-08-04T21:17:38+09:00",
+    "last_seen": "2026-08-08",
+    "title": "ロジクール ワイヤレスマウス PEBBLE MOUSE2 M350sGR 薄型 静音 Bluetooth Logi Bolt マウス 無線 ワイヤレス 左右対称 Easy-Switch 4000dpi 電池寿命24ケ月 windows mac Chrome Android iPad M350 グラファイト 国内正規品"
   },
   "B0FL77NZXM": {
     "first_seen": "2026-07-29",
@@ -592,6 +592,18 @@
     "first_seen_at": "2026-07-24T12:00:00+09:00",
     "last_seen": "2026-08-08",
     "title": "アイリスオーヤマ フライヤー 過熱水蒸気 ノンオイルフライヤー FV-M30A-C アイボリー"
+  },
+  "B0CX4PBCKH": {
+    "first_seen": "2026-08-04",
+    "first_seen_at": "2026-08-04T03:08:47+09:00",
+    "last_seen": "2026-08-08",
+    "title": "Anker Power Bank (10000mAh, Fusion, Built-In USB-C ケーブル) ピンク"
+  },
+  "B0CJR7N5MG": {
+    "first_seen": "2026-08-07",
+    "first_seen_at": "2026-08-07T22:31:51+09:00",
+    "last_seen": "2026-08-08",
+    "title": "ロジクール ワイヤレスマウス PEBBLE MOUSE2 M350sBL 薄型 静音 Bluetooth Logi Bolt マウス 無線 ワイヤレス 左右対称 Easy-Switch 4000dpi 電池寿命24ケ月 windows mac Chrome Android iPad M350 ブルー 国内正規品"
   },
   "B0FL2L6QJ1": {
     "first_seen": "2026-08-07",
@@ -688,12 +700,6 @@
     "first_seen_at": "2026-08-07T21:01:08+09:00",
     "last_seen": "2026-08-07",
     "title": "ロジクール ワイヤレスマウス 静音 無線 高速スクロール Signature M550LGR ラージ グラファイト 国内正規品"
-  },
-  "B0CJR5HBMN": {
-    "first_seen": "2026-08-04",
-    "first_seen_at": "2026-08-04T21:17:38+09:00",
-    "last_seen": "2026-08-07",
-    "title": "ロジクール ワイヤレスマウス PEBBLE MOUSE2 M350sGR 薄型 静音 Bluetooth Logi Bolt マウス 無線 ワイヤレス 左右対称 Easy-Switch 4000dpi 電池寿命24ケ月 windows mac Chrome Android iPad M350 グラファイト 国内正規品"
   },
   "B0FR8LPP2K": {
     "first_seen": "2026-07-28",
