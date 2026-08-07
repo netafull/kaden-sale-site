@@ -53,12 +53,6 @@
     "last_seen": "2026-08-08",
     "title": "Belkin BoostCharge モバイルバッテリー ディズプレイ付き (10000mAh 20W USB-Cケーブル内蔵) 最大20W PD高速充電対応 PPS対応 iPhone&Androidスマホ対応 2台同時充電 PSE認証 軽量&コンパクト 機内持込可能 アウトドア/災害/緊急用の便利グッズ メーカー保証2年 ホワイト BPB027fqWH"
   },
-  "B0F8HVMH6X": {
-    "first_seen": "2026-08-05",
-    "first_seen_at": "2026-08-05T21:15:31+09:00",
-    "last_seen": "2026-08-08",
-    "title": "Belkin BoostCharge モバイルバッテリー ディズプレイ付き (10000mAh 20W USB-Cケーブル内蔵) 最大20W PD高速充電対応 PPS対応 iPhone&Androidスマホ対応 2台同時充電 PSE認証 軽量&コンパクト 機内持込可能 アウトドア/災害/緊急用の便利グッズ メーカー保証2年 ブラック BPB027fqBK"
-  },
   "B0D53XSFR8": {
     "first_seen": "2026-07-29",
     "first_seen_at": "2026-07-29T12:00:00+09:00",
@@ -209,12 +203,6 @@
     "last_seen": "2026-08-08",
     "title": "Anker MagGo Wireless Charger (Stand) ブラック"
   },
-  "B0DMFFK5LV": {
-    "first_seen": "2026-07-29",
-    "first_seen_at": "2026-07-29T12:00:00+09:00",
-    "last_seen": "2026-08-08",
-    "title": "UGREEN 45W USB-C*2+USB-A*1 急速充電器 Type-C PD GaNⅡ充電器 PSE適合タイプc充電器 PD/PPS/SCP/QC3.0"
-  },
   "B0DNT9Z2HS": {
     "first_seen": "2026-07-27",
     "first_seen_at": "2026-07-27T12:00:00+09:00",
@@ -250,6 +238,12 @@
     "first_seen_at": "2026-08-07T00:31:33+09:00",
     "last_seen": "2026-08-08",
     "title": "エレコム 充電器 合計65W 3ポート Type-C USB-A USB PD対応 スイング式プラグ採用 ブラック EC-AC10367BK"
+  },
+  "B0FJS3P8NT": {
+    "first_seen": "2026-07-27",
+    "first_seen_at": "2026-07-27T12:00:00+09:00",
+    "last_seen": "2026-08-08",
+    "title": "UGREEN 45W USB-C*4+USB-A*1 急速充電器 Type-C PD GaNⅡ充電器 PSE適合タイプc充電器 PD3.0/PPS/SCP/QC3.0"
   },
   "B0DRP2QYCY": {
     "first_seen": "2026-08-04",
@@ -437,23 +431,11 @@
     "last_seen": "2026-08-08",
     "title": "Amazon Fire TV Cube(キューブ) | 究極の体験をハンズフリーで | ストリーミングメディアプレイヤー"
   },
-  "B0CFPHSTDD": {
-    "first_seen": "2026-08-07",
-    "first_seen_at": "2026-08-07T09:18:51+09:00",
-    "last_seen": "2026-08-08",
-    "title": "Kindle Paperwhite シグニチャーエディション (32GB) 7インチディスプレイ、明るさ自動調整、色調調節ライト、12週間持続バッテリー、広告なし、メタリックジェード"
-  },
   "B0CFPHTMDX": {
     "first_seen": "2026-08-07",
     "first_seen_at": "2026-08-07T09:18:51+09:00",
     "last_seen": "2026-08-08",
     "title": "Kindle Paperwhite シグニチャーエディション (32GB) 7インチディスプレイ、明るさ自動調整、色調調節ライト、12週間持続バッテリー、広告なし、メタリックブラック"
-  },
-  "B0CTMRXLM7": {
-    "first_seen": "2026-08-07",
-    "first_seen_at": "2026-08-07T09:18:51+09:00",
-    "last_seen": "2026-08-08",
-    "title": "Kindle Paperwhite シグニチャーエディション (32GB) 7インチディスプレイ、明るさ自動調整、色調調節ライト、12週間持続バッテリー、広告なし、メタリックジェード + Kindle Unlimited（3ヵ月分。以降自動更新）"
   },
   "B09S3RC9T8": {
     "first_seen": "2026-08-03",
@@ -623,17 +605,35 @@
     "last_seen": "2026-08-08",
     "title": "アイリスオーヤマ フライヤー 過熱水蒸気 ノンオイルフライヤー FV-M30A-C アイボリー"
   },
+  "B0F8HVMH6X": {
+    "first_seen": "2026-08-05",
+    "first_seen_at": "2026-08-05T21:15:31+09:00",
+    "last_seen": "2026-08-08",
+    "title": "Belkin BoostCharge モバイルバッテリー ディズプレイ付き (10000mAh 20W USB-Cケーブル内蔵) 最大20W PD高速充電対応 PPS対応 iPhone&Androidスマホ対応 2台同時充電 PSE認証 軽量&コンパクト 機内持込可能 アウトドア/災害/緊急用の便利グッズ メーカー保証2年 ブラック BPB027fqBK"
+  },
+  "B0DMFFK5LV": {
+    "first_seen": "2026-07-29",
+    "first_seen_at": "2026-07-29T12:00:00+09:00",
+    "last_seen": "2026-08-08",
+    "title": "UGREEN 45W USB-C*2+USB-A*1 急速充電器 Type-C PD GaNⅡ充電器 PSE適合タイプc充電器 PD/PPS/SCP/QC3.0"
+  },
+  "B0CFPHSTDD": {
+    "first_seen": "2026-08-07",
+    "first_seen_at": "2026-08-07T09:18:51+09:00",
+    "last_seen": "2026-08-08",
+    "title": "Kindle Paperwhite シグニチャーエディション (32GB) 7インチディスプレイ、明るさ自動調整、色調調節ライト、12週間持続バッテリー、広告なし、メタリックジェード"
+  },
+  "B0CTMRXLM7": {
+    "first_seen": "2026-08-07",
+    "first_seen_at": "2026-08-07T09:18:51+09:00",
+    "last_seen": "2026-08-08",
+    "title": "Kindle Paperwhite シグニチャーエディション (32GB) 7インチディスプレイ、明るさ自動調整、色調調節ライト、12週間持続バッテリー、広告なし、メタリックジェード + Kindle Unlimited（3ヵ月分。以降自動更新）"
+  },
   "B0GR1KP26Q": {
     "first_seen": "2026-08-06",
     "first_seen_at": "2026-08-06T02:58:21+09:00",
     "last_seen": "2026-08-08",
     "title": "Apple 2026 MacBook Pro 15コアCPU、16コアGPUのM5 Proチップ搭載ノートパソコン：AIのために設計、14.2インチLiquid Retina XDRディスプレイ、24GBユニファイドメモリ、1TBのSSDストレージ - シルバー"
-  },
-  "B0FJS3P8NT": {
-    "first_seen": "2026-07-27",
-    "first_seen_at": "2026-07-27T12:00:00+09:00",
-    "last_seen": "2026-08-08",
-    "title": "UGREEN 45W USB-C*4+USB-A*1 急速充電器 Type-C PD GaNⅡ充電器 PSE適合タイプc充電器 PD3.0/PPS/SCP/QC3.0"
   },
   "B0DQL1SYFT": {
     "first_seen": "2026-08-05",
