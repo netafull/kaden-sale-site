@@ -143,6 +143,12 @@
     "last_seen": "2026-08-07",
     "title": "Anker 511 Charger (Nano 3, 30W) ブラック"
   },
+  "B0D53VJJ7F": {
+    "first_seen": "2026-07-28",
+    "first_seen_at": "2026-07-28T12:00:00+09:00",
+    "last_seen": "2026-08-07",
+    "title": "CIO NovaPort TRIOⅡ 65W 2C1A PD急速充電器 USB-C×2+USB-A×1 3台同時充電 世界最小級（ブラック）"
+  },
   "B0BF43HS1G": {
     "first_seen": "2026-07-27",
     "first_seen_at": "2026-07-27T12:00:00+09:00",
@@ -154,6 +160,24 @@
     "first_seen_at": "2026-07-27T12:00:00+09:00",
     "last_seen": "2026-08-07",
     "title": "UGREEN Nexode急速充電器 65W Type-C 2C1A 3ポート PD/PPS/QC3.0/SCP/FCP対応 折り畳み式"
+  },
+  "B0D53Z4WX3": {
+    "first_seen": "2026-07-29",
+    "first_seen_at": "2026-07-29T12:00:00+09:00",
+    "last_seen": "2026-08-07",
+    "title": "CIO NovaPort TRIOⅡ 65W 3C PD急速充電器 USB-C×3 3台同時充電 軽量 世界最小級 (ブラック)"
+  },
+  "B0D2D9LQP4": {
+    "first_seen": "2026-07-31",
+    "first_seen_at": "2026-07-31T12:00:00+09:00",
+    "last_seen": "2026-08-07",
+    "title": "CIO NovaWave SPOT PLUG +C Qi2 ワイヤレス充電器 15W USB-C充電30W スマホホルダー (ホワイト)"
+  },
+  "B0D53VKL36": {
+    "first_seen": "2026-07-29",
+    "first_seen_at": "2026-07-29T12:00:00+09:00",
+    "last_seen": "2026-08-07",
+    "title": "CIO NovaPort DUOⅡ 65W PD急速充電器 USB-C×2 2台同時充電 世界最小級（ブラック）"
   },
   "B0FB2F95HY": {
     "first_seen": "2026-08-07",
@@ -371,11 +395,11 @@
     "last_seen": "2026-08-07",
     "title": "Amazon Echo Show 15 (エコーショー15) 第2世代 (2024年発売) - 15.6インチ フルHDスマートディスプレイ with Alexa、Fire TV機能搭載、Alexa対応音声認識リモコン同梱"
   },
-  "B09B8SZLLG": {
+  "B09B8P3RK1": {
     "first_seen": "2026-08-07",
-    "first_seen_at": "2026-08-07T13:07:32+09:00",
+    "first_seen_at": "2026-08-07T09:18:51+09:00",
     "last_seen": "2026-08-07",
-    "title": "Amazon Echo Dot (エコードット) 第5世代 - Alexa、センサー搭載、鮮やかなサウンド｜チャコール"
+    "title": "Amazon Echo Dot (エコードット) 第5世代 - Alexa、センサー搭載、鮮やかなサウンド｜グレーシャーホワイト"
   },
   "B0DKLWZY2Z": {
     "first_seen": "2026-08-07",
@@ -545,12 +569,6 @@
     "last_seen": "2026-08-07",
     "title": "ロジクール ワイヤレスキーボード K295GP 静音 耐水 キーボード 無線 Unifying K295 グラファイト 国内正規品"
   },
-  "B0927ZLPZ9": {
-    "first_seen": "2026-08-06",
-    "first_seen_at": "2026-08-06T15:48:22+09:00",
-    "last_seen": "2026-08-07",
-    "title": "【Amazon.co.jp限定】 ロジクール ワイヤレスマウス 静音 無線 M220RO ローズ 国内正規品"
-  },
   "B07DVC25R2": {
     "first_seen": "2026-07-26",
     "first_seen_at": "2026-07-26T12:00:00+09:00",
@@ -629,6 +647,18 @@
     "last_seen": "2026-08-07",
     "title": "アイリスオーヤマ フライヤー 過熱水蒸気 ノンオイルフライヤー FV-M30A-C アイボリー"
   },
+  "B09B8SZLLG": {
+    "first_seen": "2026-08-07",
+    "first_seen_at": "2026-08-07T13:07:32+09:00",
+    "last_seen": "2026-08-07",
+    "title": "Amazon Echo Dot (エコードット) 第5世代 - Alexa、センサー搭載、鮮やかなサウンド｜チャコール"
+  },
+  "B0927ZLPZ9": {
+    "first_seen": "2026-08-06",
+    "first_seen_at": "2026-08-06T15:48:22+09:00",
+    "last_seen": "2026-08-07",
+    "title": "【Amazon.co.jp限定】 ロジクール ワイヤレスマウス 静音 無線 M220RO ローズ 国内正規品"
+  },
   "B0FL2KNHYM": {
     "first_seen": "2026-08-05",
     "first_seen_at": "2026-08-05T12:33:42+09:00",
@@ -664,24 +694,6 @@
     "first_seen_at": "2026-07-31T12:00:00+09:00",
     "last_seen": "2026-08-07",
     "title": "XREAL xbx a01+とXREAL Beam Pro(8+256GB) 空間エンタメセット"
-  },
-  "B0D53VJJ7F": {
-    "first_seen": "2026-07-28",
-    "first_seen_at": "2026-07-28T12:00:00+09:00",
-    "last_seen": "2026-08-07",
-    "title": "CIO NovaPort TRIOⅡ 65W 2C1A PD急速充電器 USB-C×2+USB-A×1 3台同時充電 世界最小級（ブラック）"
-  },
-  "B0D53Z4WX3": {
-    "first_seen": "2026-07-29",
-    "first_seen_at": "2026-07-29T12:00:00+09:00",
-    "last_seen": "2026-08-07",
-    "title": "CIO NovaPort TRIOⅡ 65W 3C PD急速充電器 USB-C×3 3台同時充電 軽量 世界最小級 (ブラック)"
-  },
-  "B0D53VKL36": {
-    "first_seen": "2026-07-29",
-    "first_seen_at": "2026-07-29T12:00:00+09:00",
-    "last_seen": "2026-08-07",
-    "title": "CIO NovaPort DUOⅡ 65W PD急速充電器 USB-C×2 2台同時充電 世界最小級（ブラック）"
   },
   "B0CLGZGXMD": {
     "first_seen": "2026-07-27",
@@ -736,12 +748,6 @@
     "first_seen_at": "2026-08-04T15:23:47+09:00",
     "last_seen": "2026-08-07",
     "title": "VITURE Luma Ultra × 8BitDo Ultimate モバイルゲーミングセット XRグラス対応、Android向けプロ性能、どこでも軽々勝利を"
-  },
-  "B09B8P3RK1": {
-    "first_seen": "2026-08-07",
-    "first_seen_at": "2026-08-07T09:18:51+09:00",
-    "last_seen": "2026-08-07",
-    "title": "Amazon Echo Dot (エコードット) 第5世代 - Alexa、センサー搭載、鮮やかなサウンド｜グレーシャーホワイト"
   },
   "B0FRZ3SZWX": {
     "first_seen": "2026-08-04",
@@ -1216,12 +1222,6 @@
     "first_seen_at": "2026-07-29T12:00:00+09:00",
     "last_seen": "2026-08-06",
     "title": "Anker Prime Wall Charger (67W, 3 ports, GaN) (ブラック)"
-  },
-  "B0D2D9LQP4": {
-    "first_seen": "2026-07-31",
-    "first_seen_at": "2026-07-31T12:00:00+09:00",
-    "last_seen": "2026-08-06",
-    "title": "CIO NovaWave SPOT PLUG +C Qi2 ワイヤレス充電器 15W USB-C充電30W スマホホルダー (ホワイト)"
   },
   "B099ZNTRL5": {
     "first_seen": "2026-07-29",
