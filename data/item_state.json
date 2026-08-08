@@ -1,10 +1,4 @@
 {
-  "B0DL6PS74M": {
-    "first_seen": "2026-08-06",
-    "first_seen_at": "2026-08-06T15:48:22+09:00",
-    "last_seen": "2026-08-08",
-    "title": "Apple 2024 iMac 10 コア CPU、10 コア GPU の M4 チップ搭載オールインワンデスク トップコンピュータ: Apple Intelligence のために設計、24 インチ Retina ディスプレ イ、16GBユニファイドメモリ、512GBの SSD ストレージ、ボディと同じカラーのアクセサリ、iPhone や iPad との連係機能 - グリーン"
-  },
   "B0GJTW9CL8": {
     "first_seen": "2026-08-07",
     "first_seen_at": "2026-08-07T09:18:51+09:00",
@@ -155,12 +149,6 @@
     "last_seen": "2026-08-08",
     "title": "CIO NovaPort TRIOⅡ 65W 2C1A PD急速充電器 USB-C×2+USB-A×1 3台同時充電 世界最小級（ブラック）"
   },
-  "B09MLVRGFG": {
-    "first_seen": "2026-07-31",
-    "first_seen_at": "2026-07-31T12:00:00+09:00",
-    "last_seen": "2026-08-08",
-    "title": "Belkin MagSafe認証 ワイヤレス充電パッド iPhone15/14/13/12 最大15W急速充電 キックスタンド付き AC電源アダプター付属 ホワイト WIA004dqWH"
-  },
   "B0BF43HS1G": {
     "first_seen": "2026-07-27",
     "first_seen_at": "2026-07-27T12:00:00+09:00",
@@ -245,11 +233,11 @@
     "last_seen": "2026-08-08",
     "title": "エレコム 充電器 合計65W 3ポート Type-C USB-A USB PD対応 スイング式プラグ採用 ブラック EC-AC10367BK"
   },
-  "B0DMN885ZF": {
-    "first_seen": "2026-08-05",
-    "first_seen_at": "2026-08-05T03:07:44+09:00",
+  "B0FJS3P8NT": {
+    "first_seen": "2026-07-27",
+    "first_seen_at": "2026-07-27T12:00:00+09:00",
     "last_seen": "2026-08-08",
-    "title": "UGREEN 45W USB-C 急速充電器 Type-C PD GaNⅡ充電器 PSE適合タイプc充電器 PD/PPS/SCP/QC3.0"
+    "title": "UGREEN 45W USB-C*4+USB-A*1 急速充電器 Type-C PD GaNⅡ充電器 PSE適合タイプc充電器 PD3.0/PPS/SCP/QC3.0"
   },
   "B0DRP2QYCY": {
     "first_seen": "2026-08-04",
@@ -352,12 +340,6 @@
     "first_seen_at": "2026-08-04T12:38:09+09:00",
     "last_seen": "2026-08-08",
     "title": "GARMIN（ガーミン）GPSランニングウォッチ Forerunner 965 Amp Yellow 【日本正規品】"
-  },
-  "B0B75WHSGR": {
-    "first_seen": "2026-08-04",
-    "first_seen_at": "2026-08-04T12:38:09+09:00",
-    "last_seen": "2026-08-08",
-    "title": "Fitbit Inspire 3 フィットネストラッカー ライラックブリス／ブラック スマートウォッチ/iPhone対応/アンドロイド対応/最大10日間のバッテリー/心拍計/睡眠スコア [日本正規品]"
   },
   "B0FKH323P1": {
     "first_seen": "2026-07-30",
@@ -641,17 +623,35 @@
     "last_seen": "2026-08-08",
     "title": "アイリスオーヤマ フライヤー 過熱水蒸気 ノンオイルフライヤー FV-M30A-C アイボリー"
   },
+  "B0DL6PS74M": {
+    "first_seen": "2026-08-06",
+    "first_seen_at": "2026-08-06T15:48:22+09:00",
+    "last_seen": "2026-08-08",
+    "title": "Apple 2024 iMac 10 コア CPU、10 コア GPU の M4 チップ搭載オールインワンデスク トップコンピュータ: Apple Intelligence のために設計、24 インチ Retina ディスプレ イ、16GBユニファイドメモリ、512GBの SSD ストレージ、ボディと同じカラーのアクセサリ、iPhone や iPad との連係機能 - グリーン"
+  },
+  "B09MLVRGFG": {
+    "first_seen": "2026-07-31",
+    "first_seen_at": "2026-07-31T12:00:00+09:00",
+    "last_seen": "2026-08-08",
+    "title": "Belkin MagSafe認証 ワイヤレス充電パッド iPhone15/14/13/12 最大15W急速充電 キックスタンド付き AC電源アダプター付属 ホワイト WIA004dqWH"
+  },
+  "B0DMN885ZF": {
+    "first_seen": "2026-08-05",
+    "first_seen_at": "2026-08-05T03:07:44+09:00",
+    "last_seen": "2026-08-08",
+    "title": "UGREEN 45W USB-C 急速充電器 Type-C PD GaNⅡ充電器 PSE適合タイプc充電器 PD/PPS/SCP/QC3.0"
+  },
+  "B0B75WHSGR": {
+    "first_seen": "2026-08-04",
+    "first_seen_at": "2026-08-04T12:38:09+09:00",
+    "last_seen": "2026-08-08",
+    "title": "Fitbit Inspire 3 フィットネストラッカー ライラックブリス／ブラック スマートウォッチ/iPhone対応/アンドロイド対応/最大10日間のバッテリー/心拍計/睡眠スコア [日本正規品]"
+  },
   "B0F43QZBV4": {
     "first_seen": "2026-08-08",
     "first_seen_at": "2026-08-08T13:24:52+09:00",
     "last_seen": "2026-08-08",
     "title": "エレコム 充電器 合計65W 3ポート Type-C USB PD対応 スイング式プラグ採用 ブラック EC-AC11267BK"
-  },
-  "B0FJS3P8NT": {
-    "first_seen": "2026-07-27",
-    "first_seen_at": "2026-07-27T12:00:00+09:00",
-    "last_seen": "2026-08-08",
-    "title": "UGREEN 45W USB-C*4+USB-A*1 急速充電器 Type-C PD GaNⅡ充電器 PSE適合タイプc充電器 PD3.0/PPS/SCP/QC3.0"
   },
   "B0H25V3WSP": {
     "first_seen": "2026-08-07",
