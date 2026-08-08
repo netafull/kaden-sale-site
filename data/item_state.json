@@ -23,6 +23,12 @@
     "last_seen": "2026-08-09",
     "title": "Apple 13インチiPad Pro（M5）用Magic Keyboard - 日本語 - ブラック ​​​​​​​"
   },
+  "B0BZGTFF9L": {
+    "first_seen": "2026-08-04",
+    "first_seen_at": "2026-08-04T18:28:41+09:00",
+    "last_seen": "2026-08-09",
+    "title": "ソニー(SONY) 完全ワイヤレスイヤホン WF-C700N :高性能ノイズキャンセリング搭載/軽量・小型設計/音質アップスケール機能搭載/連続音楽再生時間最長 7.5時間/IPX4防滴性能/急速充電対応/クリアな通話性能/マルチポイント対応 ブラック WF-C700N BZ"
+  },
   "B0FCSGGHLL": {
     "first_seen": "2026-07-24",
     "first_seen_at": "2026-07-24T12:00:00+09:00",
@@ -40,12 +46,6 @@
     "first_seen_at": "2026-08-02T02:17:12+09:00",
     "last_seen": "2026-08-09",
     "title": "Belkin BoostCharge モバイルバッテリー ディズプレイ付き (10000mAh 20W USB-Cケーブル内蔵) 最大20W PD高速充電対応 PPS対応 iPhone&Androidスマホ対応 2台同時充電 PSE認証 軽量&コンパクト 機内持込可能 アウトドア/災害/緊急用の便利グッズ メーカー保証2年 ホワイト BPB027fqWH"
-  },
-  "B0B6DKS2Z2": {
-    "first_seen": "2026-08-08",
-    "first_seen_at": "2026-08-08T23:50:56+09:00",
-    "last_seen": "2026-08-09",
-    "title": "Belkin MagSafe対応 ワイヤレスモバイルバッテリー 5000mAh 最大7.5W キックスタンド付き ホワイト"
   },
   "B0D53XSFR8": {
     "first_seen": "2026-07-29",
@@ -65,17 +65,17 @@
     "last_seen": "2026-08-09",
     "title": "エレコム モバイルバッテリー 10000mAh 45W リール式 巻き取り式ケーブル 2ポート USB-A/C 【残量表示/PSE技術基準適合/PD対応】 しろちゃん EC-C54LWF"
   },
-  "B0F6NC41DZ": {
-    "first_seen": "2026-08-06",
-    "first_seen_at": "2026-08-06T21:18:24+09:00",
+  "B0F6NFHB31": {
+    "first_seen": "2026-07-25",
+    "first_seen_at": "2026-07-25T12:00:00+09:00",
     "last_seen": "2026-08-09",
-    "title": "UGREEN Air モバイルバッテリー マグネット式ワイヤレス充電 薄型 MagSafe対応 10000mAh ケーブル内蔵 PB570 グレー"
+    "title": "UGREEN Air モバイルバッテリー マグネット式ワイヤレス充電 超薄型 MagSafe対応 5000mAh PB580 ダークグレー"
   },
-  "B0F37QVBNM": {
-    "first_seen": "2026-07-24",
-    "first_seen_at": "2026-07-24T12:00:00+09:00",
+  "B0F37VLJQW": {
+    "first_seen": "2026-08-07",
+    "first_seen_at": "2026-08-07T21:01:08+09:00",
     "last_seen": "2026-08-09",
-    "title": "UGREEN MagFlow Qi2 25W認証 モバイルバッテリー Magsafe対応 マグネット式ワイヤレス急速充電 20000mAh ブラック"
+    "title": "UGREEN MagFlow Qi2 25W認証 モバイルバッテリー Magsafe対応 マグネット式ワイヤレス急速充電 10000mAh 水色"
   },
   "B0CCJFY2V4": {
     "first_seen": "2026-07-29",
@@ -137,23 +137,35 @@
     "last_seen": "2026-08-09",
     "title": "CIO NovaPort TRIOⅡ 65W 2C1A PD急速充電器 USB-C×2+USB-A×1 3台同時充電 世界最小級（ブラック）"
   },
+  "B0BF44GF6J": {
+    "first_seen": "2026-08-09",
+    "first_seen_at": "2026-08-09T01:55:23+09:00",
+    "last_seen": "2026-08-09",
+    "title": "Anker 523 Charger (Nano 3, 47W) ブラック"
+  },
   "B091BGMKYS": {
     "first_seen": "2026-07-27",
     "first_seen_at": "2026-07-27T12:00:00+09:00",
     "last_seen": "2026-08-09",
     "title": "UGREEN Nexode急速充電器 65W Type-C 2C1A 3ポート PD/PPS/QC3.0/SCP/FCP対応 折り畳み式"
   },
-  "B0D53YVF2F": {
-    "first_seen": "2026-08-09",
-    "first_seen_at": "2026-08-09T00:46:44+09:00",
+  "B0D53Z4WX3": {
+    "first_seen": "2026-07-29",
+    "first_seen_at": "2026-07-29T12:00:00+09:00",
     "last_seen": "2026-08-09",
-    "title": "CIO NovaPort TRIOⅡ 65W 3C PD急速充電器 USB-C×3 3台同時充電 軽量 世界最小級 (ホワイト)"
+    "title": "CIO NovaPort TRIOⅡ 65W 3C PD急速充電器 USB-C×3 3台同時充電 軽量 世界最小級 (ブラック)"
   },
   "B0D2D9LQP4": {
     "first_seen": "2026-07-31",
     "first_seen_at": "2026-07-31T12:00:00+09:00",
     "last_seen": "2026-08-09",
     "title": "CIO NovaWave SPOT PLUG +C Qi2 ワイヤレス充電器 15W USB-C充電30W スマホホルダー (ホワイト)"
+  },
+  "B0FK4P37J1": {
+    "first_seen": "2026-08-09",
+    "first_seen_at": "2026-08-09T01:55:23+09:00",
+    "last_seen": "2026-08-09",
+    "title": "UGREEN 30W PD充電器 USB-C*3 急速充電器 PSE技術基準適合 PD3.0対応GaNⅡ type c"
   },
   "B0DG93MZCR": {
     "first_seen": "2026-07-27",
@@ -196,12 +208,6 @@
     "first_seen_at": "2026-08-04T00:57:34+09:00",
     "last_seen": "2026-08-09",
     "title": "バッファロー 充電器 20W 2ポート USB-C & USB-A PD対応 GaN 折りたたみ式 PSE適合 BSACPD2015C2WH"
-  },
-  "B0FJMD3Y45": {
-    "first_seen": "2026-08-08",
-    "first_seen_at": "2026-08-08T23:50:56+09:00",
-    "last_seen": "2026-08-09",
-    "title": "UGREEN 充電器 type-c 30W (2*USB-C+1*USB-A) 【PSE技術基準適合/PD3.0対応/30W急速充電/コンパクト】 GaN アダプター iphone17/16/15/14/13/iPad/GalaxyS25-S10/Google Pixel/AirPodsなどに対応（ブルー）"
   },
   "B0D6QQFMCS": {
     "first_seen": "2026-08-07",
@@ -527,11 +533,11 @@
     "last_seen": "2026-08-09",
     "title": "【Amazon.co.jp限定】 Logicool G PRO X SUPERLIGHT 2 ゲーミングマウス G-PPD-004WL-BKd"
   },
-  "B0CJR82M5M": {
-    "first_seen": "2026-08-04",
-    "first_seen_at": "2026-08-04T21:17:38+09:00",
+  "B0CJR8Y56J": {
+    "first_seen": "2026-07-26",
+    "first_seen_at": "2026-07-26T12:00:00+09:00",
     "last_seen": "2026-08-09",
-    "title": "ロジクール ワイヤレスキーボード PEBBLE KEYS 2 K380sOW 薄型 軽量 415g 小型 Bluetooth Logi Bolt ワイヤレス 無線 キーボード Easy-Switch 日本語配列 電池寿命36ケ月 Windows Mac iPad iOS Android Chrome K380s オフホワイト 国内正規品"
+    "title": "ロジクール ワイヤレスキーボード PEBBLE KEYS 2 K380sGR 薄型 軽量 415g 小型 Bluetooth Logi Bolt ワイヤレス 無線 キーボード Easy-Switch 日本語配列 電池寿命36ケ月 Windows Mac iPad iOS Android Chrome K380s グラファイト 国内正規品"
   },
   "B0D21S5SPG": {
     "first_seen": "2026-07-28",
@@ -581,6 +587,42 @@
     "last_seen": "2026-08-09",
     "title": "アイリスオーヤマ フライヤー 過熱水蒸気 ノンオイルフライヤー FV-M30A-C アイボリー"
   },
+  "B0B6DKS2Z2": {
+    "first_seen": "2026-08-08",
+    "first_seen_at": "2026-08-08T23:50:56+09:00",
+    "last_seen": "2026-08-09",
+    "title": "Belkin MagSafe対応 ワイヤレスモバイルバッテリー 5000mAh 最大7.5W キックスタンド付き ホワイト"
+  },
+  "B0F6NC41DZ": {
+    "first_seen": "2026-08-06",
+    "first_seen_at": "2026-08-06T21:18:24+09:00",
+    "last_seen": "2026-08-09",
+    "title": "UGREEN Air モバイルバッテリー マグネット式ワイヤレス充電 薄型 MagSafe対応 10000mAh ケーブル内蔵 PB570 グレー"
+  },
+  "B0F37QVBNM": {
+    "first_seen": "2026-07-24",
+    "first_seen_at": "2026-07-24T12:00:00+09:00",
+    "last_seen": "2026-08-09",
+    "title": "UGREEN MagFlow Qi2 25W認証 モバイルバッテリー Magsafe対応 マグネット式ワイヤレス急速充電 20000mAh ブラック"
+  },
+  "B0D53YVF2F": {
+    "first_seen": "2026-08-09",
+    "first_seen_at": "2026-08-09T00:46:44+09:00",
+    "last_seen": "2026-08-09",
+    "title": "CIO NovaPort TRIOⅡ 65W 3C PD急速充電器 USB-C×3 3台同時充電 軽量 世界最小級 (ホワイト)"
+  },
+  "B0FJMD3Y45": {
+    "first_seen": "2026-08-08",
+    "first_seen_at": "2026-08-08T23:50:56+09:00",
+    "last_seen": "2026-08-09",
+    "title": "UGREEN 充電器 type-c 30W (2*USB-C+1*USB-A) 【PSE技術基準適合/PD3.0対応/30W急速充電/コンパクト】 GaN アダプター iphone17/16/15/14/13/iPad/GalaxyS25-S10/Google Pixel/AirPodsなどに対応（ブルー）"
+  },
+  "B0CJR82M5M": {
+    "first_seen": "2026-08-04",
+    "first_seen_at": "2026-08-04T21:17:38+09:00",
+    "last_seen": "2026-08-09",
+    "title": "ロジクール ワイヤレスキーボード PEBBLE KEYS 2 K380sOW 薄型 軽量 415g 小型 Bluetooth Logi Bolt ワイヤレス 無線 キーボード Easy-Switch 日本語配列 電池寿命36ケ月 Windows Mac iPad iOS Android Chrome K380s オフホワイト 国内正規品"
+  },
   "B0D4F34SB4": {
     "first_seen": "2026-07-24",
     "first_seen_at": "2026-07-24T12:00:00+09:00",
@@ -592,12 +634,6 @@
     "first_seen_at": "2026-07-31T12:00:00+09:00",
     "last_seen": "2026-08-08",
     "title": "Belkin MagSafe認証 ワイヤレス充電パッド iPhone15/14/13/12 最大15W急速充電 キックスタンド付き AC電源アダプター付属 ホワイト WIA004dqWH"
-  },
-  "B0D53Z4WX3": {
-    "first_seen": "2026-07-29",
-    "first_seen_at": "2026-07-29T12:00:00+09:00",
-    "last_seen": "2026-08-08",
-    "title": "CIO NovaPort TRIOⅡ 65W 3C PD急速充電器 USB-C×3 3台同時充電 軽量 世界最小級 (ブラック)"
   },
   "B0B38TWKVR": {
     "first_seen": "2026-08-04",
@@ -707,24 +743,6 @@
     "last_seen": "2026-08-08",
     "title": "【Amazon.co.jp限定】Logicool G ラピッドトリガー G515 RAPID ゲーミングキーボード G515-TKL-RTBKd"
   },
-  "B0BZGTFF9L": {
-    "first_seen": "2026-08-04",
-    "first_seen_at": "2026-08-04T18:28:41+09:00",
-    "last_seen": "2026-08-08",
-    "title": "ソニー(SONY) 完全ワイヤレスイヤホン WF-C700N :高性能ノイズキャンセリング搭載/軽量・小型設計/音質アップスケール機能搭載/連続音楽再生時間最長 7.5時間/IPX4防滴性能/急速充電対応/クリアな通話性能/マルチポイント対応 ブラック WF-C700N BZ"
-  },
-  "B0F6NFHB31": {
-    "first_seen": "2026-07-25",
-    "first_seen_at": "2026-07-25T12:00:00+09:00",
-    "last_seen": "2026-08-08",
-    "title": "UGREEN Air モバイルバッテリー マグネット式ワイヤレス充電 超薄型 MagSafe対応 5000mAh PB580 ダークグレー"
-  },
-  "B0F37VLJQW": {
-    "first_seen": "2026-08-07",
-    "first_seen_at": "2026-08-07T21:01:08+09:00",
-    "last_seen": "2026-08-08",
-    "title": "UGREEN MagFlow Qi2 25W認証 モバイルバッテリー Magsafe対応 マグネット式ワイヤレス急速充電 10000mAh 水色"
-  },
   "B0CLGZGXMD": {
     "first_seen": "2026-07-27",
     "first_seen_at": "2026-07-27T12:00:00+09:00",
@@ -802,12 +820,6 @@
     "first_seen_at": "2026-08-07T13:07:32+09:00",
     "last_seen": "2026-08-08",
     "title": "Amazon Echo Show 5 (エコーショー5) 第3世代 - スマートディスプレイ with Alexa、2メガピクセルカメラ付き、チャコール"
-  },
-  "B0CJR8Y56J": {
-    "first_seen": "2026-07-26",
-    "first_seen_at": "2026-07-26T12:00:00+09:00",
-    "last_seen": "2026-08-08",
-    "title": "ロジクール ワイヤレスキーボード PEBBLE KEYS 2 K380sGR 薄型 軽量 415g 小型 Bluetooth Logi Bolt ワイヤレス 無線 キーボード Easy-Switch 日本語配列 電池寿命36ケ月 Windows Mac iPad iOS Android Chrome K380s グラファイト 国内正規品"
   },
   "B0BW3ZS795": {
     "first_seen": "2026-08-05",
