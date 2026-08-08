@@ -101,17 +101,17 @@
     "last_seen": "2026-08-09",
     "title": "Belkin USB充電器 40W iPhone17,16～12 デュアルUSB-C(20W x 2) PD3.0 急速充電対応 ホワイト WCB006dqWHJP"
   },
+  "B0CLGZGXMD": {
+    "first_seen": "2026-07-27",
+    "first_seen_at": "2026-07-27T12:00:00+09:00",
+    "last_seen": "2026-08-09",
+    "title": "UGREEN Nexode【当社比最小】65W PD充電器 USB-C*2+USB-A*1 急速充電器 PSE適合 PD/PPS/QC4+対応"
+  },
   "B0BF9ZYCQ5": {
     "first_seen": "2026-07-31",
     "first_seen_at": "2026-07-31T12:00:00+09:00",
     "last_seen": "2026-08-09",
     "title": "【VGP受賞】Belkin 充電器 USB-C 2ポート PPS規格対応 GaN採用 小型 ACアダプター タイプC 急速充電 軽量【PD3.0対応 /PSE認証/折りたたみ式プラグ】45W(25W+20W) MacBook Windows PC Surface Pro iPad iPhone 17,16～12対応 Galaxy Android スマホ 各種ノートPC対応 WCH011dqWH"
-  },
-  "B0CMQK8CMJ": {
-    "first_seen": "2026-08-05",
-    "first_seen_at": "2026-08-05T21:15:31+09:00",
-    "last_seen": "2026-08-09",
-    "title": "UGREEN NexodeX 100W GaNII充電器 3ポート(USB-C*2+USB-A) タイプC 超小型 急速充電器 PD3.0/PPS/QC4+/QC3.0 対応"
   },
   "B0F9FHXPDF": {
     "first_seen": "2026-07-27",
@@ -137,11 +137,17 @@
     "last_seen": "2026-08-09",
     "title": "CIO NovaPort TRIOⅡ 65W 2C1A PD急速充電器 USB-C×2+USB-A×1 3台同時充電 世界最小級（ブラック）"
   },
-  "B0BF44GF6J": {
-    "first_seen": "2026-08-09",
-    "first_seen_at": "2026-08-09T01:55:23+09:00",
+  "B09MLVRGFG": {
+    "first_seen": "2026-07-31",
+    "first_seen_at": "2026-07-31T12:00:00+09:00",
     "last_seen": "2026-08-09",
-    "title": "Anker 523 Charger (Nano 3, 47W) ブラック"
+    "title": "Belkin MagSafe認証 ワイヤレス充電パッド iPhone15/14/13/12 最大15W急速充電 キックスタンド付き AC電源アダプター付属 ホワイト WIA004dqWH"
+  },
+  "B0BF43HS1G": {
+    "first_seen": "2026-07-27",
+    "first_seen_at": "2026-07-27T12:00:00+09:00",
+    "last_seen": "2026-08-09",
+    "title": "Anker 523 Charger (Nano 3, 47W) ホワイト"
   },
   "B091BGMKYS": {
     "first_seen": "2026-07-27",
@@ -161,11 +167,11 @@
     "last_seen": "2026-08-09",
     "title": "CIO NovaWave SPOT PLUG +C Qi2 ワイヤレス充電器 15W USB-C充電30W スマホホルダー (ホワイト)"
   },
-  "B0FK4P37J1": {
-    "first_seen": "2026-08-09",
-    "first_seen_at": "2026-08-09T01:55:23+09:00",
+  "B0D53VKL36": {
+    "first_seen": "2026-07-29",
+    "first_seen_at": "2026-07-29T12:00:00+09:00",
     "last_seen": "2026-08-09",
-    "title": "UGREEN 30W PD充電器 USB-C*3 急速充電器 PSE技術基準適合 PD3.0対応GaNⅡ type c"
+    "title": "CIO NovaPort DUOⅡ 65W PD急速充電器 USB-C×2 2台同時充電 世界最小級（ブラック）"
   },
   "B0DG93MZCR": {
     "first_seen": "2026-07-27",
@@ -178,12 +184,6 @@
     "first_seen_at": "2026-08-07T00:31:33+09:00",
     "last_seen": "2026-08-09",
     "title": "エレコム ワイヤレス充電器 Qi認証 最大 10W スタンド型 EPP規格対応 3枚コイル 【 iPhone Galaxy AirPods 等対応】 ブラック EC-QS10BK"
-  },
-  "B0D53T41CB": {
-    "first_seen": "2026-08-08",
-    "first_seen_at": "2026-08-08T23:50:56+09:00",
-    "last_seen": "2026-08-09",
-    "title": "CIO NovaPort DUOⅡ 65W PD急速充電器 USB-C×2 2台同時充電 世界最小級（ホワイト）"
   },
   "B0D8RSX6W2": {
     "first_seen": "2026-07-29",
@@ -286,6 +286,12 @@
     "first_seen_at": "2026-07-30T12:00:00+09:00",
     "last_seen": "2026-08-09",
     "title": "【節電対策】SwitchBot サーキュレーター 静音22dB コードレス 最大50時間 - スイッチボット ~30畳 Alexa対応 扇風機 DCモーター 3D首振り 無段階風量調整 充電式バッテリー搭載 リモコン付き 梅雨対策 省エネ"
+  },
+  "B07B7NXV4R": {
+    "first_seen": "2026-07-30",
+    "first_seen_at": "2026-07-30T12:00:00+09:00",
+    "last_seen": "2026-08-09",
+    "title": "SwitchBot スイッチボット スイッチ ボタンに適用 指ロボット スマートスイッチ スマートホーム ワイヤレス タイマー スマホで遠隔操作 Alexa, Google Home, Siri, IFTTTなどに対応(ハブ必要) ホワイト"
   },
   "B09KCF5Z79": {
     "first_seen": "2026-07-30",
@@ -587,6 +593,30 @@
     "last_seen": "2026-08-09",
     "title": "アイリスオーヤマ フライヤー 過熱水蒸気 ノンオイルフライヤー FV-M30A-C アイボリー"
   },
+  "B0CMQK8CMJ": {
+    "first_seen": "2026-08-05",
+    "first_seen_at": "2026-08-05T21:15:31+09:00",
+    "last_seen": "2026-08-09",
+    "title": "UGREEN NexodeX 100W GaNII充電器 3ポート(USB-C*2+USB-A) タイプC 超小型 急速充電器 PD3.0/PPS/QC4+/QC3.0 対応"
+  },
+  "B0BF44GF6J": {
+    "first_seen": "2026-08-09",
+    "first_seen_at": "2026-08-09T01:55:23+09:00",
+    "last_seen": "2026-08-09",
+    "title": "Anker 523 Charger (Nano 3, 47W) ブラック"
+  },
+  "B0FK4P37J1": {
+    "first_seen": "2026-08-09",
+    "first_seen_at": "2026-08-09T01:55:23+09:00",
+    "last_seen": "2026-08-09",
+    "title": "UGREEN 30W PD充電器 USB-C*3 急速充電器 PSE技術基準適合 PD3.0対応GaNⅡ type c"
+  },
+  "B0D53T41CB": {
+    "first_seen": "2026-08-08",
+    "first_seen_at": "2026-08-08T23:50:56+09:00",
+    "last_seen": "2026-08-09",
+    "title": "CIO NovaPort DUOⅡ 65W PD急速充電器 USB-C×2 2台同時充電 世界最小級（ホワイト）"
+  },
   "B0B6DKS2Z2": {
     "first_seen": "2026-08-08",
     "first_seen_at": "2026-08-08T23:50:56+09:00",
@@ -628,12 +658,6 @@
     "first_seen_at": "2026-07-24T12:00:00+09:00",
     "last_seen": "2026-08-08",
     "title": "UGREEN 145W 4-in-1モバイルバッテリー 20000mAh 15Wマグネット式ワイヤレス充電対応 3ポート"
-  },
-  "B09MLVRGFG": {
-    "first_seen": "2026-07-31",
-    "first_seen_at": "2026-07-31T12:00:00+09:00",
-    "last_seen": "2026-08-08",
-    "title": "Belkin MagSafe認証 ワイヤレス充電パッド iPhone15/14/13/12 最大15W急速充電 キックスタンド付き AC電源アダプター付属 ホワイト WIA004dqWH"
   },
   "B0B38TWKVR": {
     "first_seen": "2026-08-04",
@@ -683,23 +707,11 @@
     "last_seen": "2026-08-08",
     "title": "Belkin MagSafe対応 モバイルバッテリー 軽量 5000mAh USB-C 15W 薄型 iPhone対応 ブラック"
   },
-  "B0BF43HS1G": {
-    "first_seen": "2026-07-27",
-    "first_seen_at": "2026-07-27T12:00:00+09:00",
-    "last_seen": "2026-08-08",
-    "title": "Anker 523 Charger (Nano 3, 47W) ホワイト"
-  },
   "B0C3B132D3": {
     "first_seen": "2026-08-04",
     "first_seen_at": "2026-08-04T08:22:12+09:00",
     "last_seen": "2026-08-08",
     "title": "UGREEN Nexode急速充電器 65W Type-C 2C1A 3ポート PD/PPS/QC3.0/SCP/FCP対応 折り畳み式 ホワイト"
-  },
-  "B0D53VKL36": {
-    "first_seen": "2026-07-29",
-    "first_seen_at": "2026-07-29T12:00:00+09:00",
-    "last_seen": "2026-08-08",
-    "title": "CIO NovaPort DUOⅡ 65W PD急速充電器 USB-C×2 2台同時充電 世界最小級（ブラック）"
   },
   "B0D8S1G53W": {
     "first_seen": "2026-08-08",
@@ -743,12 +755,6 @@
     "last_seen": "2026-08-08",
     "title": "【Amazon.co.jp限定】Logicool G ラピッドトリガー G515 RAPID ゲーミングキーボード G515-TKL-RTBKd"
   },
-  "B0CLGZGXMD": {
-    "first_seen": "2026-07-27",
-    "first_seen_at": "2026-07-27T12:00:00+09:00",
-    "last_seen": "2026-08-08",
-    "title": "UGREEN Nexode【当社比最小】65W PD充電器 USB-C*2+USB-A*1 急速充電器 PSE適合 PD/PPS/QC4+対応"
-  },
   "B0CH2X5LBX": {
     "first_seen": "2026-07-30",
     "first_seen_at": "2026-07-30T12:00:00+09:00",
@@ -760,12 +766,6 @@
     "first_seen_at": "2026-08-02T18:25:14+09:00",
     "last_seen": "2026-08-08",
     "title": "LG 有機EL ゲーミング モニター 27GX700A-B 26.5インチ/WQHD@280Hz/タンデムOLED/0.03ms/HDR TB500"
-  },
-  "B07B7NXV4R": {
-    "first_seen": "2026-07-30",
-    "first_seen_at": "2026-07-30T12:00:00+09:00",
-    "last_seen": "2026-08-08",
-    "title": "SwitchBot スイッチボット スイッチ ボタンに適用 指ロボット スマートスイッチ スマートホーム ワイヤレス タイマー スマホで遠隔操作 Alexa, Google Home, Siri, IFTTTなどに対応(ハブ必要) ホワイト"
   },
   "B09B2T3QBN": {
     "first_seen": "2026-08-08",
