@@ -221,11 +221,11 @@
     "last_seen": "2026-08-09",
     "title": "エレコム 充電器 合計65W 3ポート Type-C USB-A USB PD対応 スイング式プラグ採用 ブラック EC-AC10367BK"
   },
-  "B0DMN885ZF": {
-    "first_seen": "2026-08-05",
-    "first_seen_at": "2026-08-05T03:07:44+09:00",
+  "B0FJS3P8NT": {
+    "first_seen": "2026-07-27",
+    "first_seen_at": "2026-07-27T12:00:00+09:00",
     "last_seen": "2026-08-09",
-    "title": "UGREEN 45W USB-C 急速充電器 Type-C PD GaNⅡ充電器 PSE適合タイプc充電器 PD/PPS/SCP/QC3.0"
+    "title": "UGREEN 45W USB-C*4+USB-A*1 急速充電器 Type-C PD GaNⅡ充電器 PSE適合タイプc充電器 PD3.0/PPS/SCP/QC3.0"
   },
   "B0DRP2QYCY": {
     "first_seen": "2026-08-04",
@@ -611,6 +611,12 @@
     "last_seen": "2026-08-09",
     "title": "アイリスオーヤマ フライヤー 過熱水蒸気 ノンオイルフライヤー FV-M30A-C アイボリー"
   },
+  "B0DMN885ZF": {
+    "first_seen": "2026-08-05",
+    "first_seen_at": "2026-08-05T03:07:44+09:00",
+    "last_seen": "2026-08-09",
+    "title": "UGREEN 45W USB-C 急速充電器 Type-C PD GaNⅡ充電器 PSE適合タイプc充電器 PD/PPS/SCP/QC3.0"
+  },
   "B0DL78NHX7": {
     "first_seen": "2026-08-04",
     "first_seen_at": "2026-08-04T08:22:12+09:00",
@@ -628,12 +634,6 @@
     "first_seen_at": "2026-08-09T04:46:00+09:00",
     "last_seen": "2026-08-09",
     "title": "【セット買い】 Echo Show 5 (エコーショー5) クラウドブルー + Ring Indoor Cam Plus (リング インドアカム プラス) - ホワイト"
-  },
-  "B0FJS3P8NT": {
-    "first_seen": "2026-07-27",
-    "first_seen_at": "2026-07-27T12:00:00+09:00",
-    "last_seen": "2026-08-09",
-    "title": "UGREEN 45W USB-C*4+USB-A*1 急速充電器 Type-C PD GaNⅡ充電器 PSE適合タイプc充電器 PD3.0/PPS/SCP/QC3.0"
   },
   "B0H262HBX2": {
     "first_seen": "2026-08-08",
