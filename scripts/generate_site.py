@@ -187,6 +187,8 @@ def hours_since(item: dict, now: datetime.datetime, today: datetime.date):
         return None
 
 
+# AdSenseダッシュボードではvignette(全画面)広告をサブドメイン単位で
+# 無効化できないため、リンクごとにdata-google-vignette="false"を付与する
 def render_book(item: dict, badge: str | None = None, is_new: bool = False) -> str:
     """商品カードを組み立てる。
 
@@ -232,7 +234,7 @@ def render_book(item: dict, badge: str | None = None, is_new: bool = False) -> s
             )
         except ValueError:
             pass
-    return f"""<a class="book" href="{esc(item["url"])}" target="_blank" rel="noopener sponsored">
+    return f"""<a class="book" href="{esc(item["url"])}" data-google-vignette="false" target="_blank" rel="noopener sponsored">
   {img_html}
   <div>
     {badge_html}<div class="t">{esc(shorten_title(item["title"]))}</div>
@@ -360,7 +362,7 @@ def generate_html(data: dict) -> str:
     related_html = ""
     if related:
         links = "\n".join(
-            f'<a href="{esc(s["url"])}">{esc(s["name"])}'
+            f'<a href="{esc(s["url"])}" data-google-vignette="false">{esc(s["name"])}'
             + (f'<span class="lbl"> {esc(s["desc"])}</span>' if s.get("desc") else "")
             + "</a>"
             for s in related
@@ -387,7 +389,7 @@ def generate_html(data: dict) -> str:
     # 各サイトに複製せずリンクで参照する
     policy_url = CONFIG.get("policy_url", "")
     policy_link = (
-        f'｜ <a href="{esc(policy_url)}" style="color:inherit">メディアポリシー</a>\n'
+        f'｜ <a href="{esc(policy_url)}" data-google-vignette="false" style="color:inherit">メディアポリシー</a>\n'
         if policy_url
         else ""
     )
@@ -475,7 +477,7 @@ gtag('config', '{esc(ga_id)}');
 </head>
 <body>
 <header>
-<h1><a href="./"><img src="assets/logo.png" alt="" width="32" height="32">{esc(CONFIG["site_title"])}</a></h1>
+<h1><a href="./" data-google-vignette="false"><img src="assets/logo.png" alt="" width="32" height="32">{esc(CONFIG["site_title"])}</a></h1>
 <p>{esc(CONFIG["site_description"])} ｜ {esc(threshold_note)} ｜ 最終更新: {updated}</p>
 {related_html}
 </header>
@@ -488,7 +490,7 @@ gtag('config', '{esc(ga_id)}');
 価格・割引率は取得時点のものです。購入前にAmazonの商品ページで最新の価格をご確認ください。
 Amazonのアソシエイトとして、当サイトは適格販売により収入を得ています。
 当サイトはアクセス解析のためGoogle Analyticsを利用しています(データは匿名で収集され、Googleに送信されます)。
-{policy_link}｜ <a href="rss.xml" style="color:inherit">RSS</a>
+{policy_link}｜ <a href="rss.xml" data-google-vignette="false" style="color:inherit">RSS</a>
 {related_html}
 </footer>
 <script>
