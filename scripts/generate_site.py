@@ -58,6 +58,11 @@ summary:hover h2 { color: var(--accent); }
 details > .grid, details > .empty { margin-top: 12px; }
 .grid { display: grid; gap: 10px;
   grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); }
+/* Auto ads廃止に伴う手動広告枠。グリッド内ではカードの1つとして、
+   ヘッダー直下では単独の帯として収まるよう幅を960pxに揃える */
+.ad-slot { max-width: 960px; margin: 0 auto; background: var(--card);
+  border: 1px solid var(--line); border-radius: 10px;
+  padding: 12px; text-align: center; overflow: hidden; }
 .book { display: flex; gap: 12px; background: var(--card);
   border: 1px solid var(--line); border-radius: 10px; padding: 12px;
   text-decoration: none; color: var(--text); }
@@ -246,6 +251,43 @@ def render_book(item: dict, badge: str | None = None, is_new: bool = False) -> s
 </a>"""
 
 
+def render_ad_slot() -> str:
+    """手動設置のディスプレイ広告ユニット。
+
+    Auto adsはサブドメイン単位でヴィネット/アンカー広告を無効化できな
+    かったため除外し、代わりにこの広告ユニット1種類をヘッダー直下と
+    カード一覧に手動で配置する。adsense_ad_slotが未設定なら何も出さない
+    """
+    ad_slot = CONFIG.get("adsense_ad_slot", "")
+    adsense_id = CONFIG.get("adsense_client_id", "")
+    if not ad_slot or not adsense_id:
+        return ""
+    return f"""<div class="ad-slot">
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="{esc(adsense_id)}"
+     data-ad-slot="{esc(ad_slot)}"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({{}});
+</script>
+</div>"""
+
+
+def intersperse_ads(cards: list[str], every: int = 8) -> str:
+    """カード一覧に広告枠を8件おきに挟み込む。"""
+    ad = render_ad_slot()
+    if not ad:
+        return "\n".join(cards)
+    out = []
+    for i, c in enumerate(cards, 1):
+        out.append(c)
+        if i % every == 0:
+            out.append(ad)
+    return "\n".join(out)
+
+
 def generate_html(data: dict) -> str:
     fetched = datetime.datetime.fromisoformat(data["fetched_at"]).astimezone(
         datetime.timezone(datetime.timedelta(hours=9))
@@ -290,8 +332,8 @@ def generate_html(data: dict) -> str:
         arrivals.sort(key=lambda x: x[0], reverse=True)
         # ここは新着だけを集めた枠だが、各ジャンルの一覧と印を揃えて
         # 「これは新着だ」と一目で分かるようにする
-        cards = "\n".join(
-            render_book(b, badge=name, is_new=True) for _, name, b in arrivals
+        cards = intersperse_ads(
+            [render_book(b, badge=name, is_new=True) for _, name, b in arrivals]
         )
         sections.append(
             '<details open id="new">\n'
@@ -305,14 +347,16 @@ def generate_html(data: dict) -> str:
     for i, g in enumerate(genres):
         items = g.get("items") or []
         if items:
-            books = "\n".join(
-                render_book(
-                    b,
-                    is_new=(lambda h: h is not None and h <= new_hours)(
-                        hours_since(b, fetched, today)
-                    ),
-                )
-                for b in items
+            books = intersperse_ads(
+                [
+                    render_book(
+                        b,
+                        is_new=(lambda h: h is not None and h <= new_hours)(
+                            hours_since(b, fetched, today)
+                        ),
+                    )
+                    for b in items
+                ]
             )
             body = f'<div class="grid">\n{books}\n</div>'
         else:
@@ -403,6 +447,7 @@ def generate_html(data: dict) -> str:
         if adsense_id
         else ""
     )
+    header_ad = render_ad_slot()
 
     ga_id = CONFIG.get("ga_measurement_id", "")
     ga_tag = (
@@ -481,6 +526,7 @@ gtag('config', '{esc(ga_id)}');
 <p>{esc(CONFIG["site_description"])} ｜ {esc(threshold_note)} ｜ 最終更新: {updated}</p>
 {related_html}
 </header>
+{header_ad}
 {tabs_html}
 <main>
 {chr(10).join(sections)}
