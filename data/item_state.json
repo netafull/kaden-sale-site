@@ -53,6 +53,12 @@
     "last_seen": "2026-08-11",
     "title": "エレコム モバイルバッテリー マグネット式 ワイヤレス充電 5000mAh ワイヤレス出力(5W) Type-C出力(12W) Type-C×1ポート 【Magsafeに対応したiPhone12/13シリーズ】 ブラック DE-C40-5000BK"
   },
+  "B0CX4C1TVK": {
+    "first_seen": "2026-07-27",
+    "first_seen_at": "2026-07-27T12:00:00+09:00",
+    "last_seen": "2026-08-11",
+    "title": "Anker Power Bank (10000mAh, Fusion, Built-In USB-C ケーブル) ブラック"
+  },
   "B0D53XSFR8": {
     "first_seen": "2026-07-29",
     "first_seen_at": "2026-07-29T12:00:00+09:00",
@@ -71,6 +77,18 @@
     "last_seen": "2026-08-11",
     "title": "エレコム モバイルバッテリー 10000mAh 45W リール式 巻き取り式ケーブル 2ポート USB-A/C 【残量表示/PSE技術基準適合/PD対応】 しろちゃん EC-C54LWF"
   },
+  "B0DB17C63X": {
+    "first_seen": "2026-07-29",
+    "first_seen_at": "2026-07-29T12:00:00+09:00",
+    "last_seen": "2026-08-11",
+    "title": "Anker MagGo Power Bank (10000mAh, Slim) ブラック"
+  },
+  "B0CXNY69DC": {
+    "first_seen": "2026-08-07",
+    "first_seen_at": "2026-08-07T21:01:08+09:00",
+    "last_seen": "2026-08-11",
+    "title": "Anker Power Bank (20000mAh, 87W, Built-In USB-C ケーブル) ブラック"
+  },
   "B0FRSR6BVR": {
     "first_seen": "2026-08-07",
     "first_seen_at": "2026-08-07T22:31:51+09:00",
@@ -88,6 +106,12 @@
     "first_seen_at": "2026-08-07T21:01:08+09:00",
     "last_seen": "2026-08-11",
     "title": "UGREEN MagFlow Qi2 25W認証 モバイルバッテリー Magsafe対応 マグネット式ワイヤレス急速充電 10000mAh 水色"
+  },
+  "B0DNLVY85L": {
+    "first_seen": "2026-08-11",
+    "first_seen_at": "2026-08-11T18:18:36+09:00",
+    "last_seen": "2026-08-11",
+    "title": "Anker Nano Power Bank (10000mAh, 45W, 巻取り式 USB-Cケーブル) ブラック"
   },
   "B0DNLTBVSD": {
     "first_seen": "2026-08-07",
@@ -112,6 +136,12 @@
     "first_seen_at": "2026-07-27T12:00:00+09:00",
     "last_seen": "2026-08-11",
     "title": "Anker Power Bank (30W, Fusion, Built-In USB-C ケーブル) ブラック"
+  },
+  "B0CQY7SRTY": {
+    "first_seen": "2026-07-27",
+    "first_seen_at": "2026-07-27T12:00:00+09:00",
+    "last_seen": "2026-08-11",
+    "title": "Anker Power Bank (20000mAh, 30W) ブラック"
   },
   "B0DSPVDYQ9": {
     "first_seen": "2026-07-24",
@@ -221,11 +251,11 @@
     "last_seen": "2026-08-11",
     "title": "Anker MagGo Wireless Charger (Stand) ブラック"
   },
-  "B0FYFDD1WW": {
-    "first_seen": "2026-07-29",
-    "first_seen_at": "2026-07-29T12:00:00+09:00",
+  "B0GSVNFT8T": {
+    "first_seen": "2026-08-11",
+    "first_seen_at": "2026-08-11T18:18:36+09:00",
     "last_seen": "2026-08-11",
-    "title": "UGREEN 160W 5口充電器 カラーディスプレイ搭載 Type-C 4C1A 5ポート PD3.0/PPS/QC4対応 折り畳み式"
+    "title": "UGREEN アップグレード版 100W PD3.0充電器 USB-C×3/USB-A×1 タッチモニター搭載 36*64*64mm"
   },
   "B0CSYVNBZX": {
     "first_seen": "2026-07-31",
@@ -526,6 +556,12 @@
     "first_seen_at": "2026-07-24T12:00:00+09:00",
     "last_seen": "2026-08-11",
     "title": "アイリスオーヤマ 過熱水蒸気 エア フライヤー 3L 2～3人用 ノンオイルフライヤー スチーム機能 ジューシー FV-M30A-C アイボリー"
+  },
+  "B0FYFDD1WW": {
+    "first_seen": "2026-07-29",
+    "first_seen_at": "2026-07-29T12:00:00+09:00",
+    "last_seen": "2026-08-11",
+    "title": "UGREEN 160W 5口充電器 カラーディスプレイ搭載 Type-C 4C1A 5ポート PD3.0/PPS/QC4対応 折り畳み式"
   },
   "B0DL783NXK": {
     "first_seen": "2026-08-11",
@@ -868,12 +904,6 @@
     "first_seen_at": "2026-07-27T12:00:00+09:00",
     "last_seen": "2026-08-10",
     "title": "UGREEN Nexode急速充電器 65W Type-C 2C1A 3ポート PD/PPS/QC3.0/SCP/FCP対応 折り畳み式"
-  },
-  "B0CX4C1TVK": {
-    "first_seen": "2026-07-27",
-    "first_seen_at": "2026-07-27T12:00:00+09:00",
-    "last_seen": "2026-08-10",
-    "title": "Anker Power Bank (10000mAh, Fusion, Built-In USB-C ケーブル) ブラック"
   },
   "B0CFPL6CFY": {
     "first_seen": "2026-08-07",
@@ -1265,18 +1295,6 @@
     "last_seen": "2026-08-07",
     "title": "ロジクール SIGNATURE SLIM ワイヤレス キーボード K950OW 薄型 静かなタイピング Bluetooth Logi Bolt ワイヤレスキーボード テンキー 無線 Easy-Switch 日本語配列 電池寿命36ケ月 Windows Mac Chrome Android K950 オフホワイト 国内正規品"
   },
-  "B0CXNY69DC": {
-    "first_seen": "2026-08-07",
-    "first_seen_at": "2026-08-07T21:01:08+09:00",
-    "last_seen": "2026-08-07",
-    "title": "Anker Power Bank (20000mAh, 87W, Built-In USB-C ケーブル) ブラック"
-  },
-  "B0CQY7SRTY": {
-    "first_seen": "2026-07-27",
-    "first_seen_at": "2026-07-27T12:00:00+09:00",
-    "last_seen": "2026-08-07",
-    "title": "Anker Power Bank (20000mAh, 30W) ブラック"
-  },
   "B0DF2B7TTJ": {
     "first_seen": "2026-08-07",
     "first_seen_at": "2026-08-07T00:31:33+09:00",
@@ -1492,12 +1510,6 @@
     "first_seen_at": "2026-08-04T21:17:38+09:00",
     "last_seen": "2026-08-06",
     "title": "エレコム モバイルバッテリー 5000mAh 22.5W USB-C 直挿し プラグ一体型 ケーブル不要 急速充電 コンパクト 軽量 130g iPhone対応 パススルー充電 PSE認証 スイング式コネクタ Type-C ピンク EC-C28LPN"
-  },
-  "B0DB17C63X": {
-    "first_seen": "2026-07-29",
-    "first_seen_at": "2026-07-29T12:00:00+09:00",
-    "last_seen": "2026-08-06",
-    "title": "Anker MagGo Power Bank (10000mAh, Slim) ブラック"
   },
   "B0GPDBS299": {
     "first_seen": "2026-07-29",
