@@ -251,6 +251,12 @@
     "last_seen": "2026-08-12",
     "title": "UGREEN 100W GaN 卓上急速充電器 (4*USB-C+2*USB-A) コンパクト【PSE技術基準適合/PD3.0/QC4.0/PPS対応】 複数台同時充電 iPhone17/16/15/14/13/Xperia/Pixel Pro/iPad/ノートPC MacBook Pro/Airなどに対応"
   },
+  "B0CD1NVW7R": {
+    "first_seen": "2026-08-04",
+    "first_seen_at": "2026-08-04T21:17:38+09:00",
+    "last_seen": "2026-08-12",
+    "title": "UGREEN 当社比超薄15mm NexodePro充電器 65W Type-C 2C1A 3ポート PD3.0/PPS対応 折り畳み式"
+  },
   "B0FB2F95HY": {
     "first_seen": "2026-08-07",
     "first_seen_at": "2026-08-07T00:31:33+09:00",
@@ -335,17 +341,17 @@
     "last_seen": "2026-08-12",
     "title": "SwitchBot スイッチボット スイッチ ボタンに適用 指ロボット スマートスイッチ スマートホーム ワイヤレス タイマー スマホで遠隔操作 Alexa, Google Home, Siri, IFTTTなどに対応(ハブ必要) ホワイト"
   },
-  "B0D9896MPY": {
-    "first_seen": "2026-08-11",
-    "first_seen_at": "2026-08-11T00:18:46+09:00",
-    "last_seen": "2026-08-12",
-    "title": "SwitchBot サーキュレーター Lite 静音 首振り - スイッチボット 扇風機 ~30畳 DCモーター 省エネ 無段階風量調整 リモコン付き Alexa Google Home Siriに対応"
-  },
   "B0C9TKSP8V": {
     "first_seen": "2026-07-30",
     "first_seen_at": "2026-07-30T12:00:00+09:00",
     "last_seen": "2026-08-12",
     "title": "【節電対策】SwitchBot サーキュレーター 静音22dB コードレス 最大50時間 - スイッチボット ~30畳 Alexa対応 扇風機 DCモーター 3D首振り 無段階風量調整 充電式バッテリー搭載 リモコン付き 梅雨対策 省エネ"
+  },
+  "B0D9896MPY": {
+    "first_seen": "2026-08-11",
+    "first_seen_at": "2026-08-11T00:18:46+09:00",
+    "last_seen": "2026-08-12",
+    "title": "SwitchBot サーキュレーター Lite 静音 首振り - スイッチボット 扇風機 ~30畳 DCモーター 省エネ 無段階風量調整 リモコン付き Alexa Google Home Siriに対応"
   },
   "B0FKH3WQ41": {
     "first_seen": "2026-07-30",
@@ -401,12 +407,6 @@
     "last_seen": "2026-08-12",
     "title": "【New】Amazon Fire TV Stick HD | 手軽にストリーミングをはじめよう | ストリーミングメディアプレイヤー"
   },
-  "B0H262HBX2": {
-    "first_seen": "2026-08-08",
-    "first_seen_at": "2026-08-08T01:13:21+09:00",
-    "last_seen": "2026-08-12",
-    "title": "【セット買い】Amazon Fire TV Stick 4K Max + Amazon Fire TV Soundbar Plus"
-  },
   "B0C7Y1N38H": {
     "first_seen": "2026-08-07",
     "first_seen_at": "2026-08-07T09:18:51+09:00",
@@ -437,11 +437,11 @@
     "last_seen": "2026-08-12",
     "title": "Amazon Kindle Colorsoft | 16GBストレージ、防水、7インチカラーディスプレイ、色調調節ライト、最大8週間持続バッテリー、広告無し、ブラック (2025年発売)"
   },
-  "B0F2FPQ5QM": {
-    "first_seen": "2026-08-11",
-    "first_seen_at": "2026-08-11T22:42:11+09:00",
+  "B0GS7Y3KS9": {
+    "first_seen": "2026-08-09",
+    "first_seen_at": "2026-08-09T04:46:00+09:00",
     "last_seen": "2026-08-12",
-    "title": "【セット買い】Echo Show 5 (第3世代) クラウドブルー + SwitchBot スマートリモコン Hub Mini (温湿度センサー搭載・Matter対応版)"
+    "title": "【セット買い】 Echo Show 5 (エコーショー5) クラウドブルー + Ring Indoor Cam Plus (リング インドアカム プラス) - ホワイト"
   },
   "B0C7K814LB": {
     "first_seen": "2026-08-07",
@@ -521,6 +521,12 @@
     "last_seen": "2026-08-12",
     "title": "ロジクール ワイヤレスキーボード PEBBLE KEYS 2 K380sGR 薄型 軽量 415g 小型 Bluetooth Logi Bolt ワイヤレス 無線 キーボード Easy-Switch 日本語配列 電池寿命36ケ月 Windows Mac iPad iOS Android Chrome K380s グラファイト 国内正規品"
   },
+  "B0C65MQZ65": {
+    "first_seen": "2026-07-26",
+    "first_seen_at": "2026-07-26T12:00:00+09:00",
+    "last_seen": "2026-08-12",
+    "title": "ロジクール MX ANYWHERE 3S MX1800GR 静音 マウス Bluetooth Logi Bolt Unifying非対応 コンパクト Smart Actions 対応 高速スクロールホイール 充電式 ワイヤレスマウス 無線 Windows Mac Chrome iPad OS Android MX1800 グラファイト 国内正規品"
+  },
   "B0CZ8X3DH8": {
     "first_seen": "2026-07-26",
     "first_seen_at": "2026-07-26T12:00:00+09:00",
@@ -533,29 +539,29 @@
     "last_seen": "2026-08-12",
     "title": "ロジクール ワイヤレスマウス キーボード セット MK295GP 静音 耐水 無線 USB接続 Unifying非対応 MK295 グラファイト 国内正規品"
   },
-  "B0C65MQZ65": {
-    "first_seen": "2026-07-26",
-    "first_seen_at": "2026-07-26T12:00:00+09:00",
-    "last_seen": "2026-08-12",
-    "title": "ロジクール MX ANYWHERE 3S MX1800GR 静音 マウス Bluetooth Logi Bolt Unifying非対応 コンパクト Smart Actions 対応 高速スクロールホイール 充電式 ワイヤレスマウス 無線 Windows Mac Chrome iPad OS Android MX1800 グラファイト 国内正規品"
-  },
   "B0G4CC1S2F": {
     "first_seen": "2026-07-24",
     "first_seen_at": "2026-07-24T12:00:00+09:00",
     "last_seen": "2026-08-12",
     "title": "アイリスオーヤマ 過熱水蒸気 エア フライヤー 3L 2～3人用 ノンオイルフライヤー スチーム機能 ジューシー FV-M30A-C アイボリー"
   },
+  "B0H262HBX2": {
+    "first_seen": "2026-08-08",
+    "first_seen_at": "2026-08-08T01:13:21+09:00",
+    "last_seen": "2026-08-12",
+    "title": "【セット買い】Amazon Fire TV Stick 4K Max + Amazon Fire TV Soundbar Plus"
+  },
+  "B0F2FPQ5QM": {
+    "first_seen": "2026-08-11",
+    "first_seen_at": "2026-08-11T22:42:11+09:00",
+    "last_seen": "2026-08-12",
+    "title": "【セット買い】Echo Show 5 (第3世代) クラウドブルー + SwitchBot スマートリモコン Hub Mini (温湿度センサー搭載・Matter対応版)"
+  },
   "B09MLVRGFG": {
     "first_seen": "2026-07-31",
     "first_seen_at": "2026-07-31T12:00:00+09:00",
     "last_seen": "2026-08-12",
     "title": "Belkin MagSafe認証 ワイヤレス充電パッド iPhone15/14/13/12 最大15W急速充電 キックスタンド付き AC電源アダプター付属 ホワイト WIA004dqWH"
-  },
-  "B0CD1NVW7R": {
-    "first_seen": "2026-08-04",
-    "first_seen_at": "2026-08-04T21:17:38+09:00",
-    "last_seen": "2026-08-12",
-    "title": "UGREEN 当社比超薄15mm NexodePro充電器 65W Type-C 2C1A 3ポート PD3.0/PPS対応 折り畳み式"
   },
   "B0FL77NZXM": {
     "first_seen": "2026-07-29",
@@ -1222,12 +1228,6 @@
     "first_seen_at": "2026-08-04T08:22:12+09:00",
     "last_seen": "2026-08-09",
     "title": "Apple 2024 iMac 10 コア CPU、10 コア GPU の M4 チップ搭載オールインワンデスク トップコンピュータ: Apple Intelligence のために設計、24 インチ Retina ディスプレ イ、16GBユニファイドメモリ、256GBの SSD ストレージ、ボディと同じカラーのアクセサリ、iPhone や iPad との連係機能 - シルバー"
-  },
-  "B0GS7Y3KS9": {
-    "first_seen": "2026-08-09",
-    "first_seen_at": "2026-08-09T04:46:00+09:00",
-    "last_seen": "2026-08-09",
-    "title": "【セット買い】 Echo Show 5 (エコーショー5) クラウドブルー + Ring Indoor Cam Plus (リング インドアカム プラス) - ホワイト"
   },
   "B0FK4P37J1": {
     "first_seen": "2026-08-09",
