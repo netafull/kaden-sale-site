@@ -95,12 +95,6 @@
     "last_seen": "2026-08-12",
     "title": "Anker MagGo Power Bank (10000mAh, Slim) ブラック"
   },
-  "B0FRSR6BVR": {
-    "first_seen": "2026-08-07",
-    "first_seen_at": "2026-08-07T22:31:51+09:00",
-    "last_seen": "2026-08-12",
-    "title": "Belkin MagSafe対応 モバイルバッテリー 軽量 5000mAh USB-C 15W 薄型 iPhone対応 ブラック"
-  },
   "B0F6NFHB31": {
     "first_seen": "2026-07-25",
     "first_seen_at": "2026-07-25T12:00:00+09:00",
@@ -185,12 +179,6 @@
     "last_seen": "2026-08-12",
     "title": "UGREEN 100W PD 急速充電器 USB-C×4/USB-A×1 タッチモニター搭載 PSE認証済 36*75*75mm"
   },
-  "B0DMN885ZF": {
-    "first_seen": "2026-08-05",
-    "first_seen_at": "2026-08-05T03:07:44+09:00",
-    "last_seen": "2026-08-12",
-    "title": "UGREEN 45W USB-C 急速充電器 Type-C PD GaNⅡ充電器 PSE適合タイプc充電器 PD/PPS/SCP/QC3.0"
-  },
   "B0FVM1C19Y": {
     "first_seen": "2026-07-31",
     "first_seen_at": "2026-07-31T12:00:00+09:00",
@@ -233,11 +221,23 @@
     "last_seen": "2026-08-12",
     "title": "CIO NovaWave SPOT PLUG +C Qi2 ワイヤレス充電器 15W USB-C充電30W スマホホルダー (ホワイト)"
   },
+  "B0CD1NVW7R": {
+    "first_seen": "2026-08-04",
+    "first_seen_at": "2026-08-04T21:17:38+09:00",
+    "last_seen": "2026-08-12",
+    "title": "UGREEN 当社比超薄15mm NexodePro充電器 65W Type-C 2C1A 3ポート PD3.0/PPS対応 折り畳み式"
+  },
   "B0DG93MZCR": {
     "first_seen": "2026-07-27",
     "first_seen_at": "2026-07-27T12:00:00+09:00",
     "last_seen": "2026-08-12",
     "title": "UGREEN PD充電器 type-c 30W 2*USB-C+1*USB-A GaN PSE適合/PD3.0"
+  },
+  "B0FJS3P8NT": {
+    "first_seen": "2026-07-27",
+    "first_seen_at": "2026-07-27T12:00:00+09:00",
+    "last_seen": "2026-08-12",
+    "title": "UGREEN 45W USB-C*4+USB-A*1 急速充電器 Type-C PD GaNⅡ充電器 PSE適合タイプc充電器 PD3.0/PPS/SCP/QC3.0"
   },
   "B0D53VKL36": {
     "first_seen": "2026-07-29",
@@ -250,12 +250,6 @@
     "first_seen_at": "2026-07-27T12:00:00+09:00",
     "last_seen": "2026-08-12",
     "title": "UGREEN 100W GaN 卓上急速充電器 (4*USB-C+2*USB-A) コンパクト【PSE技術基準適合/PD3.0/QC4.0/PPS対応】 複数台同時充電 iPhone17/16/15/14/13/Xperia/Pixel Pro/iPad/ノートPC MacBook Pro/Airなどに対応"
-  },
-  "B0CD1NVW7R": {
-    "first_seen": "2026-08-04",
-    "first_seen_at": "2026-08-04T21:17:38+09:00",
-    "last_seen": "2026-08-12",
-    "title": "UGREEN 当社比超薄15mm NexodePro充電器 65W Type-C 2C1A 3ポート PD3.0/PPS対応 折り畳み式"
   },
   "B0FB2F95HY": {
     "first_seen": "2026-08-07",
@@ -291,7 +285,7 @@
     "first_seen": "2026-07-31",
     "first_seen_at": "2026-07-31T12:00:00+09:00",
     "last_seen": "2026-08-12",
-    "title": "Belkin Cubic Charger 45W 充電器 USB-C PD3.2 高速充電対応 PPS対応 iPad/iPhone 17,16～12対応/Androidスマホ・タブレット各種対応 旅行や出張に最適 折り畳みプラグ PSE認証 ホワイト WCA013qcWH"
+    "title": "Belkin Cubic Charger 45W 充電器 type-c iphone 充電器 急速充電 PD3.2 PPS対応 ホワイト"
   },
   "B0F43M6SBB": {
     "first_seen": "2026-08-07",
@@ -304,6 +298,12 @@
     "first_seen_at": "2026-08-04T12:38:09+09:00",
     "last_seen": "2026-08-12",
     "title": "Belkin Apple Watch充電器 持ち運び USB-C ドングル ポータブル MFI認証 高速充電 全モデル対応"
+  },
+  "B0CH2X5LBX": {
+    "first_seen": "2026-07-30",
+    "first_seen_at": "2026-07-30T12:00:00+09:00",
+    "last_seen": "2026-08-12",
+    "title": "【 サンディスク 正規品 】 SanDisk microSD カード Ultra SDSQUAB-128G-GH3MA 簡易デザインパッケージ"
   },
   "B0DMN94Q8M": {
     "first_seen": "2026-08-02",
@@ -371,6 +371,12 @@
     "last_seen": "2026-08-12",
     "title": "Fitbit Inspire 3 フィットネストラッカー モーニンググロウ／ブラック スマートウォッチ/iPhone対応/アンドロイド対応/最大10日間のバッテリー/心拍計/睡眠スコア [日本正規品]"
   },
+  "B0H7RJ4THB": {
+    "first_seen": "2026-07-31",
+    "first_seen_at": "2026-07-31T12:00:00+09:00",
+    "last_seen": "2026-08-12",
+    "title": "XREAL xbx a01+とXREAL Beam Pro 5G版(8+256GB) 空間エンタメセット"
+  },
   "B0H7RLPTM7": {
     "first_seen": "2026-07-31",
     "first_seen_at": "2026-07-31T12:00:00+09:00",
@@ -392,6 +398,12 @@
   "B0G3YCRJKX": {
     "first_seen": "2026-08-07",
     "first_seen_at": "2026-08-07T09:18:51+09:00",
+    "last_seen": "2026-08-12",
+    "title": "【New】Amazon Fire TV Stick HD | 手軽にストリーミングをはじめよう | ストリーミングメディアプレイヤー"
+  },
+  "B0DVJ64ZLT": {
+    "first_seen": "2026-08-12",
+    "first_seen_at": "2026-08-12T17:44:12+09:00",
     "last_seen": "2026-08-12",
     "title": "【New】Amazon Fire TV Stick HD | 手軽にストリーミングをはじめよう | ストリーミングメディアプレイヤー"
   },
@@ -509,6 +521,12 @@
     "last_seen": "2026-08-12",
     "title": "ロジクール ワイヤレスキーボード PEBBLE KEYS 2 K380sGR 薄型 軽量 415g 小型 Bluetooth Logi Bolt ワイヤレス 無線 キーボード Easy-Switch 日本語配列 電池寿命36ケ月 Windows Mac iPad iOS Android Chrome K380s グラファイト 国内正規品"
   },
+  "B08L9DS7D4": {
+    "first_seen": "2026-08-12",
+    "first_seen_at": "2026-08-12T17:44:12+09:00",
+    "last_seen": "2026-08-12",
+    "title": "Razer Huntsman Mini JP 小型 ゲーミングキーボード テンキーレス Linear Optical Switch 日本語 JP配列 60%レイアウト 光学スイッチ 超高速1.2mm作動 リニア触感 静音 Chroma RGB 【日本正規代理店保証品】 RZ03-03390800-R3J1"
+  },
   "B0C65MQZ65": {
     "first_seen": "2026-07-26",
     "first_seen_at": "2026-07-26T12:00:00+09:00",
@@ -533,11 +551,17 @@
     "last_seen": "2026-08-12",
     "title": "アイリスオーヤマ 過熱水蒸気 エア フライヤー 3L 2～3人用 ノンオイルフライヤー スチーム機能 ジューシー FV-M30A-C アイボリー"
   },
-  "B0FJS3P8NT": {
-    "first_seen": "2026-07-27",
-    "first_seen_at": "2026-07-27T12:00:00+09:00",
+  "B0FRSR6BVR": {
+    "first_seen": "2026-08-07",
+    "first_seen_at": "2026-08-07T22:31:51+09:00",
     "last_seen": "2026-08-12",
-    "title": "UGREEN 45W USB-C*4+USB-A*1 急速充電器 Type-C PD GaNⅡ充電器 PSE適合タイプc充電器 PD3.0/PPS/SCP/QC3.0"
+    "title": "Belkin MagSafe対応 モバイルバッテリー 軽量 5000mAh USB-C 15W 薄型 iPhone対応 ブラック"
+  },
+  "B0DMN885ZF": {
+    "first_seen": "2026-08-05",
+    "first_seen_at": "2026-08-05T03:07:44+09:00",
+    "last_seen": "2026-08-12",
+    "title": "UGREEN 45W USB-C 急速充電器 Type-C PD GaNⅡ充電器 PSE適合タイプc充電器 PD/PPS/SCP/QC3.0"
   },
   "B0B1Q383WZ": {
     "first_seen": "2026-08-12",
@@ -688,12 +712,6 @@
     "first_seen_at": "2026-07-31T12:00:00+09:00",
     "last_seen": "2026-08-11",
     "title": "Belkin Apple Watch充電器 持ち運び USB-C ドングル ポータブル MFI認証 高速充電 全モデル対応"
-  },
-  "B0CH2X5LBX": {
-    "first_seen": "2026-07-30",
-    "first_seen_at": "2026-07-30T12:00:00+09:00",
-    "last_seen": "2026-08-11",
-    "title": "【 サンディスク 正規品 】 SanDisk microSD カード Ultra SDSQUAB-128G-GH3MA 簡易デザインパッケージ"
   },
   "B0CM8RYF2Q": {
     "first_seen": "2026-08-04",
@@ -1954,12 +1972,6 @@
     "first_seen_at": "2026-08-02T11:58:58+09:00",
     "last_seen": "2026-08-06",
     "title": "Belkin モバイルバッテリー 3c 認証 CCC 大容量 20000mAh iPhone 17,16～12&Android対応 最大15W 最大40時間 3ポート(USB-Cx1 USB-Ax2) スリム&軽量 PSE認証 機内持込可能ケーブル付属 メーカー保証2年 ブラック BPB012btBK"
-  },
-  "B0H7RJ4THB": {
-    "first_seen": "2026-07-31",
-    "first_seen_at": "2026-07-31T12:00:00+09:00",
-    "last_seen": "2026-08-06",
-    "title": "XREAL xbx a01+とXREAL Beam Pro 5G版(8+256GB) 空間エンタメセット"
   },
   "B0DYD1CZHM": {
     "first_seen": "2026-08-04",
