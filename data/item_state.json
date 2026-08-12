@@ -161,12 +161,6 @@
     "last_seen": "2026-08-13",
     "title": "【VGP受賞】Belkin 充電器 USB-C 2ポート PPS規格対応 GaN採用 小型 ACアダプター タイプC 急速充電 軽量【PD3.0対応 /PSE認証/折りたたみ式プラグ】45W(25W+20W) MacBook Windows PC Surface Pro iPad iPhone 17,16～12対応 Galaxy Android スマホ 各種ノートPC対応 WCH011dqWH"
   },
-  "B0DMN885ZF": {
-    "first_seen": "2026-08-05",
-    "first_seen_at": "2026-08-05T03:07:44+09:00",
-    "last_seen": "2026-08-13",
-    "title": "UGREEN 45W USB-C 急速充電器 Type-C PD GaNⅡ充電器 PSE適合タイプc充電器 PD/PPS/SCP/QC3.0"
-  },
   "B0FVM1C19Y": {
     "first_seen": "2026-07-31",
     "first_seen_at": "2026-07-31T12:00:00+09:00",
@@ -214,6 +208,12 @@
     "first_seen_at": "2026-07-27T12:00:00+09:00",
     "last_seen": "2026-08-13",
     "title": "UGREEN PD充電器 type-c 30W 2*USB-C+1*USB-A GaN PSE適合/PD3.0"
+  },
+  "B0FJS3P8NT": {
+    "first_seen": "2026-07-27",
+    "first_seen_at": "2026-07-27T12:00:00+09:00",
+    "last_seen": "2026-08-13",
+    "title": "UGREEN 45W USB-C*4+USB-A*1 急速充電器 Type-C PD GaNⅡ充電器 PSE適合タイプc充電器 PD3.0/PPS/SCP/QC3.0"
   },
   "B0D53VKL36": {
     "first_seen": "2026-07-29",
@@ -539,11 +539,11 @@
     "last_seen": "2026-08-13",
     "title": "アイリスオーヤマ 過熱水蒸気 エア フライヤー 3L 2～3人用 ノンオイルフライヤー スチーム機能 ジューシー FV-M30A-C アイボリー"
   },
-  "B0FJS3P8NT": {
-    "first_seen": "2026-07-27",
-    "first_seen_at": "2026-07-27T12:00:00+09:00",
+  "B0DMN885ZF": {
+    "first_seen": "2026-08-05",
+    "first_seen_at": "2026-08-05T03:07:44+09:00",
     "last_seen": "2026-08-13",
-    "title": "UGREEN 45W USB-C*4+USB-A*1 急速充電器 Type-C PD GaNⅡ充電器 PSE適合タイプc充電器 PD3.0/PPS/SCP/QC3.0"
+    "title": "UGREEN 45W USB-C 急速充電器 Type-C PD GaNⅡ充電器 PSE適合タイプc充電器 PD/PPS/SCP/QC3.0"
   },
   "B0GD85PYK6": {
     "first_seen": "2026-08-13",
