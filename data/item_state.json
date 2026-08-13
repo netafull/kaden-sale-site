@@ -107,6 +107,12 @@
     "last_seen": "2026-08-13",
     "title": "Bose QuietComfort Ultra Earbuds (第2世代) ワイヤレス ノイズキャンセリング Bluetooth イヤホン 最長6時間連続再生 IPX4規格準拠 イマーシブオーディオ 迫力の重低音 ブラック"
   },
+  "B0FL2HYBGJ": {
+    "first_seen": "2026-08-04",
+    "first_seen_at": "2026-08-04T12:38:09+09:00",
+    "last_seen": "2026-08-13",
+    "title": "Bose QuietComfort Ultra Headphones（第2世代） 空間オーディオ 完全 ワイヤレス オーバーイヤー型 ヘッドホン ノイズキャンセリング Bluetooth接続 マイク搭載 最大30時間再生 急速充電 ブラック"
+  },
   "B0F8HWY897": {
     "first_seen": "2026-08-02",
     "first_seen_at": "2026-08-02T02:17:12+09:00",
@@ -124,6 +130,12 @@
     "first_seen_at": "2026-07-27T12:00:00+09:00",
     "last_seen": "2026-08-13",
     "title": "Anker Power Bank (10000mAh, Fusion, Built-In USB-C ケーブル) ブラック"
+  },
+  "B0F37VLJQW": {
+    "first_seen": "2026-08-07",
+    "first_seen_at": "2026-08-07T21:01:08+09:00",
+    "last_seen": "2026-08-13",
+    "title": "UGREEN MagFlow Qi2 25W認証 モバイルバッテリー Magsafe対応 マグネット式ワイヤレス急速充電 10000mAh 水色"
   },
   "B0D53XSFR8": {
     "first_seen": "2026-07-29",
@@ -148,6 +160,12 @@
     "first_seen_at": "2026-07-29T12:00:00+09:00",
     "last_seen": "2026-08-13",
     "title": "Anker MagGo Power Bank (10000mAh, Slim) ブラック"
+  },
+  "B0DT4RGDSJ": {
+    "first_seen": "2026-07-27",
+    "first_seen_at": "2026-07-27T12:00:00+09:00",
+    "last_seen": "2026-08-13",
+    "title": "Anker Power Bank (25000mAh, Built-In & 巻取り式USB-Cケーブル) ブラック"
   },
   "B0FRSR6BVR": {
     "first_seen": "2026-08-07",
@@ -461,11 +479,11 @@
     "last_seen": "2026-08-13",
     "title": "Amazon Echo Show 15 (エコーショー15) 第2世代 (2024年発売) - 15.6インチ フルHDスマートディスプレイ with Alexa、Fire TV機能搭載、Alexa対応音声認識リモコン同梱"
   },
-  "B09B8SZLLG": {
+  "B09B8P3RK1": {
     "first_seen": "2026-08-07",
-    "first_seen_at": "2026-08-07T13:07:32+09:00",
+    "first_seen_at": "2026-08-07T09:18:51+09:00",
     "last_seen": "2026-08-13",
-    "title": "Amazon Echo Dot (エコードット) 第5世代 - Alexa、センサー搭載、鮮やかなサウンド｜チャコール"
+    "title": "Amazon Echo Dot (エコードット) 第5世代 - Alexa、センサー搭載、鮮やかなサウンド｜グレーシャーホワイト"
   },
   "B0DKLWZY2Z": {
     "first_seen": "2026-08-07",
@@ -599,17 +617,11 @@
     "last_seen": "2026-08-13",
     "title": "アイリスオーヤマ 過熱水蒸気 エア フライヤー 3L 2～3人用 ノンオイルフライヤー スチーム機能 ジューシー FV-M30A-C アイボリー"
   },
-  "B0FL2HYBGJ": {
-    "first_seen": "2026-08-04",
-    "first_seen_at": "2026-08-04T12:38:09+09:00",
-    "last_seen": "2026-08-13",
-    "title": "Bose QuietComfort Ultra Headphones（第2世代） 空間オーディオ 完全 ワイヤレス オーバーイヤー型 ヘッドホン ノイズキャンセリング Bluetooth接続 マイク搭載 最大30時間再生 急速充電 ブラック"
-  },
-  "B09B8P3RK1": {
+  "B09B8SZLLG": {
     "first_seen": "2026-08-07",
-    "first_seen_at": "2026-08-07T09:18:51+09:00",
+    "first_seen_at": "2026-08-07T13:07:32+09:00",
     "last_seen": "2026-08-13",
-    "title": "Amazon Echo Dot (エコードット) 第5世代 - Alexa、センサー搭載、鮮やかなサウンド｜グレーシャーホワイト"
+    "title": "Amazon Echo Dot (エコードット) 第5世代 - Alexa、センサー搭載、鮮やかなサウンド｜チャコール"
   },
   "B0FL77NZXM": {
     "first_seen": "2026-07-29",
@@ -796,12 +808,6 @@
     "first_seen_at": "2026-08-12T21:02:21+09:00",
     "last_seen": "2026-08-12",
     "title": "Belkin モバイルバッテリー 軽量 10000mAh 20W USB-Cケーブル内蔵 2台同時充電 ブラック"
-  },
-  "B0F37VLJQW": {
-    "first_seen": "2026-08-07",
-    "first_seen_at": "2026-08-07T21:01:08+09:00",
-    "last_seen": "2026-08-12",
-    "title": "UGREEN MagFlow Qi2 25W認証 モバイルバッテリー Magsafe対応 マグネット式ワイヤレス急速充電 10000mAh 水色"
   },
   "B0D2D9LQP4": {
     "first_seen": "2026-07-31",
@@ -2206,12 +2212,6 @@
     "first_seen_at": "2026-08-04T12:38:09+09:00",
     "last_seen": "2026-08-05",
     "title": "Anker Charger (112W, 6 Ports, GaN)"
-  },
-  "B0DT4RGDSJ": {
-    "first_seen": "2026-07-27",
-    "first_seen_at": "2026-07-27T12:00:00+09:00",
-    "last_seen": "2026-08-05",
-    "title": "Anker Power Bank (25000mAh, Built-In & 巻取り式USB-Cケーブル) ブラック"
   },
   "B0DRJJT13G": {
     "first_seen": "2026-08-04",
