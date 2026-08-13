@@ -33,7 +33,7 @@
   "genres": [
     {
       "name": "Apple製品",
-      "min_saving_percent": 10,
+      "min_saving_percent": 5,
       "keywords": [
         "MacBook Apple",
         "iPad Apple",
