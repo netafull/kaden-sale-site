@@ -161,12 +161,6 @@
     "last_seen": "2026-08-14",
     "title": "Anker MagGo Power Bank (10000mAh, Slim) ブラック"
   },
-  "B0FRSR6BVR": {
-    "first_seen": "2026-08-07",
-    "first_seen_at": "2026-08-07T22:31:51+09:00",
-    "last_seen": "2026-08-14",
-    "title": "Belkin MagSafe対応 モバイルバッテリー 軽量 5000mAh USB-C 15W 薄型 iPhone対応 ブラック"
-  },
   "B0F6NFHB31": {
     "first_seen": "2026-07-25",
     "first_seen_at": "2026-07-25T12:00:00+09:00",
@@ -190,12 +184,6 @@
     "first_seen_at": "2026-07-29T12:00:00+09:00",
     "last_seen": "2026-08-14",
     "title": "Anker Nano Power Bank (22.5W, Built-In USB-C Connector) ブラック"
-  },
-  "B0H1BR61W5": {
-    "first_seen": "2026-08-13",
-    "first_seen_at": "2026-08-13T21:03:23+09:00",
-    "last_seen": "2026-08-14",
-    "title": "エレコム モバイルバッテリー 10000mAh 大容量 軽量 小型 残量表示 LEDパネル 1%単位 15W USB-C USB-A 2ポート パススルー充電 PSE認証 iPhone iPad Android対応 ブラック EC-C64LBK"
   },
   "B0DZ1TGX6T": {
     "first_seen": "2026-07-24",
@@ -431,12 +419,6 @@
     "last_seen": "2026-08-14",
     "title": "Fitbit Inspire 3 フィットネストラッカー モーニンググロウ／ブラック スマートウォッチ/iPhone対応/アンドロイド対応/最大10日間のバッテリー/心拍計/睡眠スコア [日本正規品]"
   },
-  "B0H7RJ4THB": {
-    "first_seen": "2026-07-31",
-    "first_seen_at": "2026-07-31T12:00:00+09:00",
-    "last_seen": "2026-08-14",
-    "title": "XREAL xbx a01+とXREAL Beam Pro 5G版(8+256GB) 空間エンタメセット"
-  },
   "B0H7RLPTM7": {
     "first_seen": "2026-07-31",
     "first_seen_at": "2026-07-31T12:00:00+09:00",
@@ -622,6 +604,24 @@
     "first_seen_at": "2026-08-14T14:04:35+09:00",
     "last_seen": "2026-08-14",
     "title": "【Amazon.co.jp限定】 Ninja ニンジャ Crispi クリスピー FN100JGYNR 自動調理器 3つの調理モード (クリスプ/ベイク・ロースト/リクリスプ) 煮る 焼く 蒸す 炒める 煮込む 炊く 温風調理 エアフライヤー ノンフライヤー FN100J ネイビー"
+  },
+  "B0FRSR6BVR": {
+    "first_seen": "2026-08-07",
+    "first_seen_at": "2026-08-07T22:31:51+09:00",
+    "last_seen": "2026-08-14",
+    "title": "Belkin MagSafe対応 モバイルバッテリー 軽量 5000mAh USB-C 15W 薄型 iPhone対応 ブラック"
+  },
+  "B0H1BR61W5": {
+    "first_seen": "2026-08-13",
+    "first_seen_at": "2026-08-13T21:03:23+09:00",
+    "last_seen": "2026-08-14",
+    "title": "エレコム モバイルバッテリー 10000mAh 大容量 軽量 小型 残量表示 LEDパネル 1%単位 15W USB-C USB-A 2ポート パススルー充電 PSE認証 iPhone iPad Android対応 ブラック EC-C64LBK"
+  },
+  "B0H7RJ4THB": {
+    "first_seen": "2026-07-31",
+    "first_seen_at": "2026-07-31T12:00:00+09:00",
+    "last_seen": "2026-08-14",
+    "title": "XREAL xbx a01+とXREAL Beam Pro 5G版(8+256GB) 空間エンタメセット"
   },
   "B0BF43HS1G": {
     "first_seen": "2026-07-27",
