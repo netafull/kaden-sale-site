@@ -89,6 +89,12 @@
     "last_seen": "2026-08-14",
     "title": "Apple 11インチiPad Air（M4）：Liquid Retinaディスプレイ、256GB、12MPフロント/バックカメラ、Apple N1によるWi-Fi 7、Touch ID、一日中使えるバッテリー — スペースグレイ"
   },
+  "B0GQWJCR4K": {
+    "first_seen": "2026-08-13",
+    "first_seen_at": "2026-08-13T21:03:23+09:00",
+    "last_seen": "2026-08-14",
+    "title": "Apple 11インチiPad Air（M4）：Liquid Retinaディスプレイ、128GB、12MPフロント/バックカメラ、Apple N1によるWi-Fi 7、Touch ID、一日中使えるバッテリー — スペースグレイ"
+  },
   "B0BZGTFF9L": {
     "first_seen": "2026-08-04",
     "first_seen_at": "2026-08-04T18:28:41+09:00",
@@ -257,12 +263,6 @@
     "last_seen": "2026-08-14",
     "title": "CIO NovaPort TRIOⅡ 65W 2C1A PD急速充電器 USB-C×2+USB-A×1 3台同時充電 世界最小級（ブラック）"
   },
-  "B09MLVRGFG": {
-    "first_seen": "2026-07-31",
-    "first_seen_at": "2026-07-31T12:00:00+09:00",
-    "last_seen": "2026-08-14",
-    "title": "Belkin MagSafe認証 ワイヤレス充電パッド iPhone15/14/13/12 最大15W急速充電 キックスタンド付き AC電源アダプター付属 ホワイト WIA004dqWH"
-  },
   "B06ZXXQGZ8": {
     "first_seen": "2026-07-29",
     "first_seen_at": "2026-07-29T12:00:00+09:00",
@@ -280,12 +280,6 @@
     "first_seen_at": "2026-07-27T12:00:00+09:00",
     "last_seen": "2026-08-14",
     "title": "UGREEN Nexode急速充電器 65W Type-C 2C1A 3ポート PD/PPS/QC3.0/SCP/FCP対応 折り畳み式"
-  },
-  "B0D53Z4WX3": {
-    "first_seen": "2026-07-29",
-    "first_seen_at": "2026-07-29T12:00:00+09:00",
-    "last_seen": "2026-08-14",
-    "title": "CIO NovaPort TRIOⅡ 65W 3C PD急速充電器 USB-C×3 3台同時充電 軽量 世界最小級 (ブラック)"
   },
   "B0DG93MZCR": {
     "first_seen": "2026-07-27",
@@ -431,11 +425,17 @@
     "last_seen": "2026-08-14",
     "title": "HUAWEI WATCH FIT 4 スマートウォッチ 薄型軽量 1.82インチ大画面 アウトドアに適した気圧計と測位システム 通知 フィットネス ヘルストラッカー 情緒測定 10日間ロングバッテリー iOS/Android対応 ブラック"
   },
-  "B0B75WHSGR": {
-    "first_seen": "2026-08-04",
-    "first_seen_at": "2026-08-04T12:38:09+09:00",
+  "B0B75STB24": {
+    "first_seen": "2026-08-10",
+    "first_seen_at": "2026-08-10T13:40:56+09:00",
     "last_seen": "2026-08-14",
-    "title": "Fitbit Inspire 3 フィットネストラッカー ライラックブリス／ブラック スマートウォッチ/iPhone対応/アンドロイド対応/最大10日間のバッテリー/心拍計/睡眠スコア [日本正規品]"
+    "title": "Fitbit Inspire 3 フィットネストラッカー モーニンググロウ／ブラック スマートウォッチ/iPhone対応/アンドロイド対応/最大10日間のバッテリー/心拍計/睡眠スコア [日本正規品]"
+  },
+  "B0H7RJ4THB": {
+    "first_seen": "2026-07-31",
+    "first_seen_at": "2026-07-31T12:00:00+09:00",
+    "last_seen": "2026-08-14",
+    "title": "XREAL xbx a01+とXREAL Beam Pro 5G版(8+256GB) 空間エンタメセット"
   },
   "B0H7RLPTM7": {
     "first_seen": "2026-07-31",
@@ -617,11 +617,23 @@
     "last_seen": "2026-08-14",
     "title": "【Amazon.co.jp限定】 Ninja ニンジャ Crispi クリスピー FN100JGYNR 自動調理器 3つの調理モード (クリスプ/ベイク・ロースト/リクリスプ) 煮る 焼く 蒸す 炒める 煮込む 炊く 温風調理 エアフライヤー ノンフライヤー FN100J ネイビー"
   },
-  "B0B75STB24": {
-    "first_seen": "2026-08-10",
-    "first_seen_at": "2026-08-10T13:40:56+09:00",
+  "B09MLVRGFG": {
+    "first_seen": "2026-07-31",
+    "first_seen_at": "2026-07-31T12:00:00+09:00",
     "last_seen": "2026-08-14",
-    "title": "Fitbit Inspire 3 フィットネストラッカー モーニンググロウ／ブラック スマートウォッチ/iPhone対応/アンドロイド対応/最大10日間のバッテリー/心拍計/睡眠スコア [日本正規品]"
+    "title": "Belkin MagSafe認証 ワイヤレス充電パッド iPhone15/14/13/12 最大15W急速充電 キックスタンド付き AC電源アダプター付属 ホワイト WIA004dqWH"
+  },
+  "B0D53Z4WX3": {
+    "first_seen": "2026-07-29",
+    "first_seen_at": "2026-07-29T12:00:00+09:00",
+    "last_seen": "2026-08-14",
+    "title": "CIO NovaPort TRIOⅡ 65W 3C PD急速充電器 USB-C×3 3台同時充電 軽量 世界最小級 (ブラック)"
+  },
+  "B0B75WHSGR": {
+    "first_seen": "2026-08-04",
+    "first_seen_at": "2026-08-04T12:38:09+09:00",
+    "last_seen": "2026-08-14",
+    "title": "Fitbit Inspire 3 フィットネストラッカー ライラックブリス／ブラック スマートウォッチ/iPhone対応/アンドロイド対応/最大10日間のバッテリー/心拍計/睡眠スコア [日本正規品]"
   },
   "B09S3RC9T8": {
     "first_seen": "2026-08-03",
@@ -640,12 +652,6 @@
     "first_seen_at": "2026-08-13T21:03:23+09:00",
     "last_seen": "2026-08-14",
     "title": "エレコム モバイルバッテリー 10000mAh 大容量 軽量 小型 残量表示 LEDパネル 1%単位 15W USB-C USB-A 2ポート パススルー充電 PSE認証 iPhone iPad Android対応 ブラック EC-C64LBK"
-  },
-  "B0H7RJ4THB": {
-    "first_seen": "2026-07-31",
-    "first_seen_at": "2026-07-31T12:00:00+09:00",
-    "last_seen": "2026-08-14",
-    "title": "XREAL xbx a01+とXREAL Beam Pro 5G版(8+256GB) 空間エンタメセット"
   },
   "B0DKLDS8T7": {
     "first_seen": "2026-08-09",
@@ -724,12 +730,6 @@
     "first_seen_at": "2026-08-13T21:03:23+09:00",
     "last_seen": "2026-08-13",
     "title": "Apple 11インチiPad Air（M4）：Liquid Retinaディスプレイ、256GB、12MPフロント/バックカメラ、Apple N1によるWi-Fi 7、Touch ID、一日中使えるバッテリー — スターライト"
-  },
-  "B0GQWJCR4K": {
-    "first_seen": "2026-08-13",
-    "first_seen_at": "2026-08-13T21:03:23+09:00",
-    "last_seen": "2026-08-13",
-    "title": "Apple 11インチiPad Air（M4）：Liquid Retinaディスプレイ、128GB、12MPフロント/バックカメラ、Apple N1によるWi-Fi 7、Touch ID、一日中使えるバッテリー — スペースグレイ"
   },
   "B0B6DKS2Z2": {
     "first_seen": "2026-08-08",
