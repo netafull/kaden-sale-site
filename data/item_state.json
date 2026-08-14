@@ -467,11 +467,11 @@
     "last_seen": "2026-08-15",
     "title": "HUAWEI WATCH FIT 4 スマートウォッチ 薄型軽量 1.82インチ大画面 アウトドアに適した気圧計と測位システム 通知 フィットネス ヘルストラッカー 情緒測定 10日間ロングバッテリー iOS/Android対応 ブラック"
   },
-  "B0B75WHSGR": {
-    "first_seen": "2026-08-04",
-    "first_seen_at": "2026-08-04T12:38:09+09:00",
+  "B0B75STB24": {
+    "first_seen": "2026-08-10",
+    "first_seen_at": "2026-08-10T13:40:56+09:00",
     "last_seen": "2026-08-15",
-    "title": "Fitbit Inspire 3 フィットネストラッカー ライラックブリス／ブラック スマートウォッチ/iPhone対応/アンドロイド対応/最大10日間のバッテリー/心拍計/睡眠スコア [日本正規品]"
+    "title": "Fitbit Inspire 3 フィットネストラッカー モーニンググロウ／ブラック スマートウォッチ/iPhone対応/アンドロイド対応/最大10日間のバッテリー/心拍計/睡眠スコア [日本正規品]"
   },
   "B0H7RLPTM7": {
     "first_seen": "2026-07-31",
@@ -497,17 +497,17 @@
     "last_seen": "2026-08-15",
     "title": "【New】Amazon Fire TV Stick HD | 手軽にストリーミングをはじめよう | ストリーミングメディアプレイヤー"
   },
-  "B0H262HBX2": {
-    "first_seen": "2026-08-08",
-    "first_seen_at": "2026-08-08T01:13:21+09:00",
-    "last_seen": "2026-08-15",
-    "title": "【セット買い】Amazon Fire TV Stick 4K Max + Amazon Fire TV Soundbar Plus"
-  },
   "B0DVJ64ZLT": {
     "first_seen": "2026-08-12",
     "first_seen_at": "2026-08-12T17:44:12+09:00",
     "last_seen": "2026-08-15",
     "title": "【New】Amazon Fire TV Stick HD | 手軽にストリーミングをはじめよう | ストリーミングメディアプレイヤー"
+  },
+  "B09B2PF8S4": {
+    "first_seen": "2026-08-07",
+    "first_seen_at": "2026-08-07T13:07:32+09:00",
+    "last_seen": "2026-08-15",
+    "title": "Amazon Echo Show 5 (エコーショー5) 第3世代 - スマートディスプレイ with Alexa、2メガピクセルカメラ付き、チャコール"
   },
   "B0C7Y1N38H": {
     "first_seen": "2026-08-07",
@@ -539,12 +539,6 @@
     "last_seen": "2026-08-15",
     "title": "Amazon Kindle Colorsoft | 16GBストレージ、防水、7インチカラーディスプレイ、色調調節ライト、最大8週間持続バッテリー、広告無し、ブラック (2025年発売)"
   },
-  "B0F2FLXTZD": {
-    "first_seen": "2026-08-11",
-    "first_seen_at": "2026-08-11T04:18:00+09:00",
-    "last_seen": "2026-08-15",
-    "title": "【セット買い】Echo Show 5 (第3世代) グレーシャーホワイト + SwitchBot スマートリモコン Hub Mini (温湿度センサー搭載・Matter対応版)"
-  },
   "B0C7K814LB": {
     "first_seen": "2026-08-07",
     "first_seen_at": "2026-08-07T09:18:51+09:00",
@@ -574,6 +568,12 @@
     "first_seen_at": "2026-07-29T12:00:00+09:00",
     "last_seen": "2026-08-15",
     "title": "エレコム ワイヤレスキーボード Precisionist プレシジョニスト Bluetooth 無線2.4GHz マルチペアリング4台 充電式 薄型パンタグラフ式 フルサイズ ブラック TK-PN10FMPABK"
+  },
+  "B07PJW2X2F": {
+    "first_seen": "2026-07-26",
+    "first_seen_at": "2026-07-26T12:00:00+09:00",
+    "last_seen": "2026-08-15",
+    "title": "エレコム ワイヤレスキーボード メンブレン 薄型 フルキーボード テンキー ブラック TK-FDM110TXBK"
   },
   "B0B1Q636K7": {
     "first_seen": "2026-07-26",
@@ -653,17 +653,29 @@
     "last_seen": "2026-08-15",
     "title": "【Amazon.co.jp限定】 Ninja ニンジャ Crispi クリスピー FN100JSTNR 自動調理器 3つの調理モード (クリスプ/ベイク・ロースト/リクリスプ) 煮る 焼く 蒸す 炒める 煮込む 炊く 温風調理 エアフライヤー ノンフライヤー FN100J ベージュ"
   },
+  "B0B75WHSGR": {
+    "first_seen": "2026-08-04",
+    "first_seen_at": "2026-08-04T12:38:09+09:00",
+    "last_seen": "2026-08-15",
+    "title": "Fitbit Inspire 3 フィットネストラッカー ライラックブリス／ブラック スマートウォッチ/iPhone対応/アンドロイド対応/最大10日間のバッテリー/心拍計/睡眠スコア [日本正規品]"
+  },
+  "B0H262HBX2": {
+    "first_seen": "2026-08-08",
+    "first_seen_at": "2026-08-08T01:13:21+09:00",
+    "last_seen": "2026-08-15",
+    "title": "【セット買い】Amazon Fire TV Stick 4K Max + Amazon Fire TV Soundbar Plus"
+  },
+  "B0F2FLXTZD": {
+    "first_seen": "2026-08-11",
+    "first_seen_at": "2026-08-11T04:18:00+09:00",
+    "last_seen": "2026-08-15",
+    "title": "【セット買い】Echo Show 5 (第3世代) グレーシャーホワイト + SwitchBot スマートリモコン Hub Mini (温湿度センサー搭載・Matter対応版)"
+  },
   "B0FRZ3JG2C": {
     "first_seen": "2026-08-13",
     "first_seen_at": "2026-08-13T22:45:41+09:00",
     "last_seen": "2026-08-15",
     "title": "Apple Watch SE 3(GPSモデル)- 40mmスターライトアルミニウムケースとスターライトスポーツバンド - S/M + 2年延長 AppleCare+ for Apple Watch SE 第3世代"
-  },
-  "B09B2PF8S4": {
-    "first_seen": "2026-08-07",
-    "first_seen_at": "2026-08-07T13:07:32+09:00",
-    "last_seen": "2026-08-15",
-    "title": "Amazon Echo Show 5 (エコーショー5) 第3世代 - スマートディスプレイ with Alexa、2メガピクセルカメラ付き、チャコール"
   },
   "B0H8DQLFNW": {
     "first_seen": "2026-08-09",
@@ -676,12 +688,6 @@
     "first_seen_at": "2026-08-14T14:04:35+09:00",
     "last_seen": "2026-08-15",
     "title": "【Amazon.co.jp限定】 Ninja ニンジャ Crispi クリスピー FN100JGYNR 自動調理器 3つの調理モード (クリスプ/ベイク・ロースト/リクリスプ) 煮る 焼く 蒸す 炒める 煮込む 炊く 温風調理 エアフライヤー ノンフライヤー FN100J ネイビー"
-  },
-  "B0B75STB24": {
-    "first_seen": "2026-08-10",
-    "first_seen_at": "2026-08-10T13:40:56+09:00",
-    "last_seen": "2026-08-15",
-    "title": "Fitbit Inspire 3 フィットネストラッカー モーニンググロウ／ブラック スマートウォッチ/iPhone対応/アンドロイド対応/最大10日間のバッテリー/心拍計/睡眠スコア [日本正規品]"
   },
   "B0H7RJ4THB": {
     "first_seen": "2026-07-31",
@@ -856,12 +862,6 @@
     "first_seen_at": "2026-07-30T12:00:00+09:00",
     "last_seen": "2026-08-14",
     "title": "HUAWEI WATCH GT 6 Pro 46mm スマートウォッチ 1.47インチ大画面 最長21日間バッテリー サイクリング/登山/進化したゴルフナビ スポーツモード100種類以上 GPS搭載 心電図分析 健康/情緒モニタリング iOS/Android対応 ブラウン"
-  },
-  "B07PJW2X2F": {
-    "first_seen": "2026-07-26",
-    "first_seen_at": "2026-07-26T12:00:00+09:00",
-    "last_seen": "2026-08-14",
-    "title": "エレコム ワイヤレスキーボード メンブレン 薄型 フルキーボード テンキー ブラック TK-FDM110TXBK"
   },
   "B0B1Q383WZ": {
     "first_seen": "2026-08-12",
