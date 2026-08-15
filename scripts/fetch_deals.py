@@ -381,6 +381,36 @@ def parse_items(
     return items, no_discount, irrelevant, unknown_brand
 
 
+def load_state() -> dict:
+    """商品(ASIN)ごとの初検出日を読む。壊れていたら中止する。
+
+    そのまま先に進むと初検出日が全件今日にリセットされ、全商品にNEWの印が
+    付いてしまう。CIがその結果をコミットする前に止める
+    """
+    try:
+        raw = STATE_PATH.read_text(encoding="utf-8")
+    except FileNotFoundError:
+        return {}  # 初回実行時は状態ファイルが無くて当然
+    # gitのコンフリクトマーカーが混入したまま
+    # コミットされた事故が実際に起きたため明示的に検出する
+    if "<<<<<<<" in raw or ">>>>>>>" in raw:
+        print(
+            f"[error] {STATE_PATH.name} にコンフリクトマーカーが混入しています。"
+            "初検出日が失われるため中止します",
+            file=sys.stderr,
+        )
+        sys.exit(1)
+    try:
+        return json.loads(raw)
+    except json.JSONDecodeError as e:
+        print(
+            f"[error] {STATE_PATH.name} が壊れています ({e})。"
+            "初検出日が失われるため中止します",
+            file=sys.stderr,
+        )
+        sys.exit(1)
+
+
 def main() -> int:
     credential_id = os.environ.get("CREATORSAPI_CREDENTIAL_ID")
     credential_secret = os.environ.get("CREATORSAPI_CREDENTIAL_SECRET")
@@ -392,6 +422,10 @@ def main() -> int:
             file=sys.stderr,
         )
         return 1
+
+    # 状態ファイルの検証はAPIを叩く前に済ませる。壊れているまま取得を
+    # 走らせても最後に中止するだけで、API消費が丸ごと無駄になる
+    state = load_state()
 
     try:
         access_token = get_access_token(credential_id, credential_secret)
@@ -546,28 +580,8 @@ def main() -> int:
         print("[error] 全ジャンルとも0件のため中止します", file=sys.stderr)
         return 1
 
-    # 商品(ASIN)ごとの初検出日を状態ファイルで管理し、掲載開始日として表示する
-    state = {}
-    try:
-        raw = STATE_PATH.read_text(encoding="utf-8")
-        # gitのコンフリクトマーカーが混入したまま
-        # コミットされた事故が実際に起きたため明示的に検出する
-        if "<<<<<<<" in raw or ">>>>>>>" in raw:
-            print(
-                f"[warn] {STATE_PATH.name} にコンフリクトマーカーが混入しています。"
-                "全商品の初検出日がリセットされます",
-                file=sys.stderr,
-            )
-        else:
-            state = json.loads(raw)
-    except FileNotFoundError:
-        pass  # 初回実行時は状態ファイルが無くて当然
-    except json.JSONDecodeError as e:
-        print(
-            f"[warn] {STATE_PATH.name} が壊れています ({e})。"
-            "全商品の初検出日がリセットされます",
-            file=sys.stderr,
-        )
+    # 初検出日(stateはAPIを叩く前にload_state()で読んである)を
+    # 掲載開始日として表示する
     today_dt = datetime.datetime.now(
         datetime.timezone(datetime.timedelta(hours=9))
     ).date()

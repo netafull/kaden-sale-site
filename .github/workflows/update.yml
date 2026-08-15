@@ -56,6 +56,7 @@ jobs:
       # pushトリガーは設定していないのでループはしない
       - name: Persist item state
         run: |
+          set -euo pipefail
           git add data/item_state.json
           if ! git diff --cached --quiet; then
             git config user.name "github-actions[bot]"
@@ -64,6 +65,12 @@ jobs:
             # 再生成されたsales.json/docsが未ステージで残っていても
             # rebaseできるようautostashを使う
             git pull --rebase --autostash origin main
+            # マーカーが混入したまま公開されると全商品の初検出日が
+            # 失われるため、push前に必ず確認する(林檎ポチと同じ防御)
+            if git grep -qE '^(<<<<<<<|>>>>>>>)' -- data/; then
+              echo "::error::コンフリクトマーカーを検出したため中止します"
+              exit 1
+            fi
             git push
           fi
 
