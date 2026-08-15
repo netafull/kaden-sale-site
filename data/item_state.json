@@ -83,6 +83,12 @@
     "last_seen": "2026-08-16",
     "title": "Apple 2026 MacBook Air M5チップ搭載13インチノートブック：AIとApple Intelligence、13.6インチLiquid Retinaディスプレイ、24GBユニファイドメモリ、1TB SSDストレージ、12MPセンターフレームカメラ、日本語キーボード、Touch ID - ミッドナイト"
   },
+  "B0GR1TB3TP": {
+    "first_seen": "2026-08-13",
+    "first_seen_at": "2026-08-13T09:31:31+09:00",
+    "last_seen": "2026-08-16",
+    "title": "Apple 2026 MacBook Air M5チップ搭載13インチノートブック：AIとApple Intelligence、13.6インチLiquid Retinaディスプレイ、16GBユニファイドメモリ、1TB SSDストレージ、12MPセンターフレームカメラ、日本語キーボード、Touch ID - ミッドナイト"
+  },
   "B0GQWWWH1T": {
     "first_seen": "2026-08-13",
     "first_seen_at": "2026-08-13T09:31:31+09:00",
@@ -154,12 +160,6 @@
     "first_seen_at": "2026-08-02T02:17:12+09:00",
     "last_seen": "2026-08-16",
     "title": "Belkin BoostCharge モバイルバッテリー ディズプレイ付き (10000mAh 20W USB-Cケーブル内蔵) 最大20W PD高速充電対応 PPS対応 iPhone&Androidスマホ対応 2台同時充電 PSE認証 軽量&コンパクト 機内持込可能 アウトドア/災害/緊急用の便利グッズ メーカー保証2年 ホワイト BPB027fqWH"
-  },
-  "B0F37VLJQW": {
-    "first_seen": "2026-08-07",
-    "first_seen_at": "2026-08-07T21:01:08+09:00",
-    "last_seen": "2026-08-16",
-    "title": "UGREEN MagFlow Qi2 25W認証 モバイルバッテリー Magsafe対応 マグネット式ワイヤレス急速充電 10000mAh 水色"
   },
   "B0D53XSFR8": {
     "first_seen": "2026-07-29",
@@ -263,6 +263,12 @@
     "last_seen": "2026-08-16",
     "title": "Belkin Cubic Charger 45W 充電器 type-c iphone 充電器 急速充電 PD3.2 PPS対応"
   },
+  "B0DMN885ZF": {
+    "first_seen": "2026-08-05",
+    "first_seen_at": "2026-08-05T03:07:44+09:00",
+    "last_seen": "2026-08-16",
+    "title": "UGREEN 45W USB-C 急速充電器 Type-C PD GaNⅡ充電器 PSE適合タイプc充電器 PD/PPS/SCP/QC3.0"
+  },
   "B0B2QSZRCV": {
     "first_seen": "2026-08-04",
     "first_seen_at": "2026-08-04T12:38:09+09:00",
@@ -323,6 +329,12 @@
     "last_seen": "2026-08-16",
     "title": "Anker Prime Charger (100W, 3 Ports, GaN)"
   },
+  "B09MLVRGFG": {
+    "first_seen": "2026-07-31",
+    "first_seen_at": "2026-07-31T12:00:00+09:00",
+    "last_seen": "2026-08-16",
+    "title": "Belkin MagSafe認証 ワイヤレス充電パッド iPhone15/14/13/12 最大15W急速充電 キックスタンド付き AC電源アダプター付属 ホワイト WIA004dqWH"
+  },
   "B0D2D9LQP4": {
     "first_seen": "2026-07-31",
     "first_seen_at": "2026-07-31T12:00:00+09:00",
@@ -334,12 +346,6 @@
     "first_seen_at": "2026-07-27T12:00:00+09:00",
     "last_seen": "2026-08-16",
     "title": "UGREEN PD充電器 type-c 30W 2*USB-C+1*USB-A GaN PSE適合/PD3.0"
-  },
-  "B0FJS3P8NT": {
-    "first_seen": "2026-07-27",
-    "first_seen_at": "2026-07-27T12:00:00+09:00",
-    "last_seen": "2026-08-16",
-    "title": "UGREEN 45W USB-C*4+USB-A*1 急速充電器 Type-C PD GaNⅡ充電器 PSE適合タイプc充電器 PD3.0/PPS/SCP/QC3.0"
   },
   "B0D53VKL36": {
     "first_seen": "2026-07-29",
@@ -725,6 +731,18 @@
     "last_seen": "2026-08-16",
     "title": "【Amazon.co.jp限定】 Ninja ニンジャ Crispi クリスピー FN100JSTNR 自動調理器 3つの調理モード (クリスプ/ベイク・ロースト/リクリスプ) 煮る 焼く 蒸す 炒める 煮込む 炊く 温風調理 エアフライヤー ノンフライヤー FN100J ベージュ"
   },
+  "B0F37VLJQW": {
+    "first_seen": "2026-08-07",
+    "first_seen_at": "2026-08-07T21:01:08+09:00",
+    "last_seen": "2026-08-16",
+    "title": "UGREEN MagFlow Qi2 25W認証 モバイルバッテリー Magsafe対応 マグネット式ワイヤレス急速充電 10000mAh 水色"
+  },
+  "B0FJS3P8NT": {
+    "first_seen": "2026-07-27",
+    "first_seen_at": "2026-07-27T12:00:00+09:00",
+    "last_seen": "2026-08-16",
+    "title": "UGREEN 45W USB-C*4+USB-A*1 急速充電器 Type-C PD GaNⅡ充電器 PSE適合タイプc充電器 PD3.0/PPS/SCP/QC3.0"
+  },
   "B0FLJD3NX4": {
     "first_seen": "2026-08-04",
     "first_seen_at": "2026-08-04T21:17:38+09:00",
@@ -851,12 +869,6 @@
     "last_seen": "2026-08-15",
     "title": "Apple 11インチiPad Pro(M5):Ultra Retina XDR ディスプレイ、256GB、横向きの12MP フロント/バックカメラ、LiDAR スキャナ、Apple N1によるWi-Fi 7、Face ID、一日中使えるバッテリー - シルバー"
   },
-  "B0DMN885ZF": {
-    "first_seen": "2026-08-05",
-    "first_seen_at": "2026-08-05T03:07:44+09:00",
-    "last_seen": "2026-08-15",
-    "title": "UGREEN 45W USB-C 急速充電器 Type-C PD GaNⅡ充電器 PSE適合タイプc充電器 PD/PPS/SCP/QC3.0"
-  },
   "B0F99DFJTK": {
     "first_seen": "2026-08-04",
     "first_seen_at": "2026-08-04T21:17:38+09:00",
@@ -946,12 +958,6 @@
     "first_seen_at": "2026-08-14T21:00:27+09:00",
     "last_seen": "2026-08-15",
     "title": "ロジクール MX KEYS mini KX700GR ミニマリスト ワイヤレス イルミネイテッド キーボード グラファイト 充電式 bluetooth Logi Bolt Unifying非対応 USB-C-A 日本語配列 windows mac chrome ios Android 無線 KX700 国内正規品"
-  },
-  "B0GR1TB3TP": {
-    "first_seen": "2026-08-13",
-    "first_seen_at": "2026-08-13T09:31:31+09:00",
-    "last_seen": "2026-08-15",
-    "title": "Apple 2026 MacBook Air M5チップ搭載13インチノートブック：AIとApple Intelligence、13.6インチLiquid Retinaディスプレイ、16GBユニファイドメモリ、1TB SSDストレージ、12MPセンターフレームカメラ、日本語キーボード、Touch ID - ミッドナイト"
   },
   "B0DQL1SYFT": {
     "first_seen": "2026-08-05",
@@ -1168,12 +1174,6 @@
     "first_seen_at": "2026-07-30T12:00:00+09:00",
     "last_seen": "2026-08-14",
     "title": "【 サンディスク 正規品 】 SanDisk microSD カード Ultra SDSQUAB-128G-GH3MA 簡易デザインパッケージ"
-  },
-  "B09MLVRGFG": {
-    "first_seen": "2026-07-31",
-    "first_seen_at": "2026-07-31T12:00:00+09:00",
-    "last_seen": "2026-08-14",
-    "title": "Belkin MagSafe認証 ワイヤレス充電パッド iPhone15/14/13/12 最大15W急速充電 キックスタンド付き AC電源アダプター付属 ホワイト WIA004dqWH"
   },
   "B0D53Z4WX3": {
     "first_seen": "2026-07-29",
