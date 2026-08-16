@@ -245,6 +245,12 @@
     "last_seen": "2026-08-16",
     "title": "UGREEN NexodeX 100W GaNII充電器 3ポート(USB-C*2+USB-A) タイプC 超小型 急速充電器 PD3.0/PPS/QC4+/QC3.0 対応"
   },
+  "B0FDFC2DDD": {
+    "first_seen": "2026-08-16",
+    "first_seen_at": "2026-08-16T01:43:36+09:00",
+    "last_seen": "2026-08-16",
+    "title": "Belkin Cubic Charger 45W 充電器 type-c iphone 充電器 急速充電 PD3.2 PPS対応"
+  },
   "B0CLGZGXMD": {
     "first_seen": "2026-07-27",
     "first_seen_at": "2026-07-27T12:00:00+09:00",
@@ -256,12 +262,6 @@
     "first_seen_at": "2026-07-31T12:00:00+09:00",
     "last_seen": "2026-08-16",
     "title": "【VGP受賞】Belkin 充電器 USB-C 2ポート PPS規格対応 GaN採用 小型 ACアダプター タイプC 急速充電 軽量【PD3.0対応 /PSE認証/折りたたみ式プラグ】45W(25W+20W) MacBook Windows PC Surface Pro iPad iPhone 17,16～12対応 Galaxy Android スマホ 各種ノートPC対応 WCH011dqWH"
-  },
-  "B0FDFBKXKH": {
-    "first_seen": "2026-08-15",
-    "first_seen_at": "2026-08-15T19:40:40+09:00",
-    "last_seen": "2026-08-16",
-    "title": "Belkin Cubic Charger 45W 充電器 type-c iphone 充電器 急速充電 PD3.2 PPS対応"
   },
   "B0B2QSZRCV": {
     "first_seen": "2026-08-04",
@@ -322,12 +322,6 @@
     "first_seen_at": "2026-08-15T00:10:25+09:00",
     "last_seen": "2026-08-16",
     "title": "Anker Prime Charger (100W, 3 Ports, GaN)"
-  },
-  "B09MLVRGFG": {
-    "first_seen": "2026-07-31",
-    "first_seen_at": "2026-07-31T12:00:00+09:00",
-    "last_seen": "2026-08-16",
-    "title": "Belkin MagSafe認証 ワイヤレス充電パッド iPhone15/14/13/12 最大15W急速充電 キックスタンド付き AC電源アダプター付属 ホワイト WIA004dqWH"
   },
   "B0D2D9LQP4": {
     "first_seen": "2026-07-31",
@@ -713,17 +707,23 @@
     "last_seen": "2026-08-16",
     "title": "【Amazon.co.jp限定】 Ninja ニンジャ Crispi クリスピー FN100JSTNR 自動調理器 3つの調理モード (クリスプ/ベイク・ロースト/リクリスプ) 煮る 焼く 蒸す 炒める 煮込む 炊く 温風調理 エアフライヤー ノンフライヤー FN100J ベージュ"
   },
+  "B0FDFBKXKH": {
+    "first_seen": "2026-08-15",
+    "first_seen_at": "2026-08-15T19:40:40+09:00",
+    "last_seen": "2026-08-16",
+    "title": "Belkin Cubic Charger 45W 充電器 type-c iphone 充電器 急速充電 PD3.2 PPS対応"
+  },
+  "B09MLVRGFG": {
+    "first_seen": "2026-07-31",
+    "first_seen_at": "2026-07-31T12:00:00+09:00",
+    "last_seen": "2026-08-16",
+    "title": "Belkin MagSafe認証 ワイヤレス充電パッド iPhone15/14/13/12 最大15W急速充電 キックスタンド付き AC電源アダプター付属 ホワイト WIA004dqWH"
+  },
   "B0GR1RYD3C": {
     "first_seen": "2026-08-16",
     "first_seen_at": "2026-08-16T13:52:54+09:00",
     "last_seen": "2026-08-16",
     "title": "Apple 2026 MacBook Air M5チップ搭載13インチノートブック：AIとApple Intelligence、13.6インチLiquid Retinaディスプレイ、16GBユニファイドメモリ、1TB SSDストレージ、12MPセンターフレームカメラ、日本語キーボード、Touch ID - シルバー"
-  },
-  "B0FDFC2DDD": {
-    "first_seen": "2026-08-16",
-    "first_seen_at": "2026-08-16T01:43:36+09:00",
-    "last_seen": "2026-08-16",
-    "title": "Belkin Cubic Charger 45W 充電器 type-c iphone 充電器 急速充電 PD3.2 PPS対応"
   },
   "B0DQL1SYFT": {
     "first_seen": "2026-08-05",
