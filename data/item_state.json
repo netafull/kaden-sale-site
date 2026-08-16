@@ -83,6 +83,12 @@
     "last_seen": "2026-08-17",
     "title": "Apple 2026 MacBook Air M5チップ搭載13インチノートブック：AIとApple Intelligence、13.6インチLiquid Retinaディスプレイ、24GBユニファイドメモリ、1TB SSDストレージ、12MPセンターフレームカメラ、日本語キーボード、Touch ID - スカイブルー"
   },
+  "B0GR1TB3TP": {
+    "first_seen": "2026-08-13",
+    "first_seen_at": "2026-08-13T09:31:31+09:00",
+    "last_seen": "2026-08-17",
+    "title": "Apple 2026 MacBook Air M5チップ搭載13インチノートブック：AIとApple Intelligence、13.6インチLiquid Retinaディスプレイ、16GBユニファイドメモリ、1TB SSDストレージ、12MPセンターフレームカメラ、日本語キーボード、Touch ID - ミッドナイト"
+  },
   "B0GQWWWH1T": {
     "first_seen": "2026-08-13",
     "first_seen_at": "2026-08-13T09:31:31+09:00",
@@ -118,18 +124,6 @@
     "first_seen_at": "2026-08-04T12:38:09+09:00",
     "last_seen": "2026-08-17",
     "title": "Bose QuietComfort Ultra Headphones（第2世代） 空間オーディオ 完全 ワイヤレス オーバーイヤー型 ヘッドホン ノイズキャンセリング Bluetooth接続 マイク搭載 最大30時間再生 急速充電 ブラック"
-  },
-  "B0B8YMHKHN": {
-    "first_seen": "2026-08-10",
-    "first_seen_at": "2026-08-10T11:36:04+09:00",
-    "last_seen": "2026-08-17",
-    "title": "エレコム モバイルバッテリー マグネット式 ワイヤレス充電 5000mAh ワイヤレス出力(5W) Type-C出力(12W) Type-C×1ポート 【Magsafeに対応したiPhone12/13シリーズ】 ブラック DE-C40-5000BK"
-  },
-  "B0DFYFT76Z": {
-    "first_seen": "2026-08-05",
-    "first_seen_at": "2026-08-05T21:15:31+09:00",
-    "last_seen": "2026-08-17",
-    "title": "Belkin モバイルバッテリー 軽量 10000mAh 20W USB-Cケーブル内蔵 2台同時充電 ホワイト"
   },
   "B0F4W73L19": {
     "first_seen": "2026-08-16",
@@ -263,12 +257,6 @@
     "last_seen": "2026-08-17",
     "title": "【VGP受賞】Belkin 充電器 USB-C 2ポート PPS規格対応 GaN採用 小型 ACアダプター タイプC 急速充電 軽量【PD3.0対応 /PSE認証/折りたたみ式プラグ】45W(25W+20W) MacBook Windows PC Surface Pro iPad iPhone 17,16～12対応 Galaxy Android スマホ 各種ノートPC対応 WCH011dqWH"
   },
-  "B0DMN885ZF": {
-    "first_seen": "2026-08-05",
-    "first_seen_at": "2026-08-05T03:07:44+09:00",
-    "last_seen": "2026-08-17",
-    "title": "UGREEN 45W USB-C 急速充電器 Type-C PD GaNⅡ充電器 PSE適合タイプc充電器 PD/PPS/SCP/QC3.0"
-  },
   "B0FDFBKXKH": {
     "first_seen": "2026-08-15",
     "first_seen_at": "2026-08-15T19:40:40+09:00",
@@ -340,6 +328,12 @@
     "first_seen_at": "2026-07-27T12:00:00+09:00",
     "last_seen": "2026-08-17",
     "title": "UGREEN PD充電器 type-c 30W 2*USB-C+1*USB-A GaN PSE適合/PD3.0"
+  },
+  "B0FJS3P8NT": {
+    "first_seen": "2026-07-27",
+    "first_seen_at": "2026-07-27T12:00:00+09:00",
+    "last_seen": "2026-08-17",
+    "title": "UGREEN 45W USB-C*4+USB-A*1 急速充電器 Type-C PD GaNⅡ充電器 PSE適合タイプc充電器 PD3.0/PPS/SCP/QC3.0"
   },
   "B0D53VKL36": {
     "first_seen": "2026-07-29",
@@ -466,6 +460,12 @@
     "first_seen_at": "2026-07-30T12:00:00+09:00",
     "last_seen": "2026-08-17",
     "title": "SwitchBot スイッチボット スイッチ ボタンに適用 指ロボット スマートスイッチ スマートホーム ワイヤレス タイマー スマホで遠隔操作 Alexa, Google Home, Siri, IFTTTなどに対応(ハブ必要) ホワイト"
+  },
+  "B0B9QV41TC": {
+    "first_seen": "2026-08-15",
+    "first_seen_at": "2026-08-15T22:44:59+09:00",
+    "last_seen": "2026-08-17",
+    "title": "SwitchBot スマートLED電球2個入り＋スマートLEDテープライト"
   },
   "B0FQBQP9RK": {
     "first_seen": "2026-08-16",
@@ -701,11 +701,23 @@
     "last_seen": "2026-08-17",
     "title": "【Amazon.co.jp限定】 Ninja ニンジャ Crispi クリスピー FN100JSTNR 自動調理器 3つの調理モード (クリスプ/ベイク・ロースト/リクリスプ) 煮る 焼く 蒸す 炒める 煮込む 炊く 温風調理 エアフライヤー ノンフライヤー FN100J ベージュ"
   },
-  "B0FJS3P8NT": {
-    "first_seen": "2026-07-27",
-    "first_seen_at": "2026-07-27T12:00:00+09:00",
+  "B0B8YMHKHN": {
+    "first_seen": "2026-08-10",
+    "first_seen_at": "2026-08-10T11:36:04+09:00",
     "last_seen": "2026-08-17",
-    "title": "UGREEN 45W USB-C*4+USB-A*1 急速充電器 Type-C PD GaNⅡ充電器 PSE適合タイプc充電器 PD3.0/PPS/SCP/QC3.0"
+    "title": "エレコム モバイルバッテリー マグネット式 ワイヤレス充電 5000mAh ワイヤレス出力(5W) Type-C出力(12W) Type-C×1ポート 【Magsafeに対応したiPhone12/13シリーズ】 ブラック DE-C40-5000BK"
+  },
+  "B0DFYFT76Z": {
+    "first_seen": "2026-08-05",
+    "first_seen_at": "2026-08-05T21:15:31+09:00",
+    "last_seen": "2026-08-17",
+    "title": "Belkin モバイルバッテリー 軽量 10000mAh 20W USB-Cケーブル内蔵 2台同時充電 ホワイト"
+  },
+  "B0DMN885ZF": {
+    "first_seen": "2026-08-05",
+    "first_seen_at": "2026-08-05T03:07:44+09:00",
+    "last_seen": "2026-08-17",
+    "title": "UGREEN 45W USB-C 急速充電器 Type-C PD GaNⅡ充電器 PSE適合タイプc充電器 PD/PPS/SCP/QC3.0"
   },
   "B0CH2YWGV9": {
     "first_seen": "2026-08-17",
@@ -1049,12 +1061,6 @@
     "last_seen": "2026-08-16",
     "title": "Apple 2026 MacBook Air M5チップ搭載13インチノートブック：AIとApple Intelligence、13.6インチLiquid Retinaディスプレイ、24GBユニファイドメモリ、1TB SSDストレージ、12MPセンターフレームカメラ、日本語キーボード、Touch ID - ミッドナイト"
   },
-  "B0GR1TB3TP": {
-    "first_seen": "2026-08-13",
-    "first_seen_at": "2026-08-13T09:31:31+09:00",
-    "last_seen": "2026-08-16",
-    "title": "Apple 2026 MacBook Air M5チップ搭載13インチノートブック：AIとApple Intelligence、13.6インチLiquid Retinaディスプレイ、16GBユニファイドメモリ、1TB SSDストレージ、12MPセンターフレームカメラ、日本語キーボード、Touch ID - ミッドナイト"
-  },
   "B0GR1RYD3C": {
     "first_seen": "2026-08-16",
     "first_seen_at": "2026-08-16T13:52:54+09:00",
@@ -1084,12 +1090,6 @@
     "first_seen_at": "2026-08-06T00:31:16+09:00",
     "last_seen": "2026-08-16",
     "title": "【室内温湿度と天気を同時に管理セット】SwitchBot 温湿度計 プロ スマートリモコン ハブ - スイッチボット 温度計 湿度計 快適指数 天気予報 スマートホーム Alexa Google Home Siriに対応(温湿度計 プロ1点+ハブミニ1点)"
-  },
-  "B0B9QV41TC": {
-    "first_seen": "2026-08-15",
-    "first_seen_at": "2026-08-15T22:44:59+09:00",
-    "last_seen": "2026-08-16",
-    "title": "SwitchBot スマートLED電球2個入り＋スマートLEDテープライト"
   },
   "B0B75STB24": {
     "first_seen": "2026-08-10",
