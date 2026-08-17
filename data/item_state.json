@@ -71,17 +71,17 @@
     "last_seen": "2026-08-17",
     "title": "Apple Watch SE 3(GPSモデル)- 40mmスターライトアルミニウムケースとスターライトスポーツバンド - S/M"
   },
-  "B0GQWFB3MV": {
-    "first_seen": "2026-08-14",
-    "first_seen_at": "2026-08-14T21:00:27+09:00",
-    "last_seen": "2026-08-17",
-    "title": "Apple 11インチiPad Air（M4）：Liquid Retinaディスプレイ、256GB、12MPフロント/バックカメラ、Apple N1によるWi-Fi 7、Touch ID、一日中使えるバッテリー — ブルー"
-  },
   "B0BZGTFF9L": {
     "first_seen": "2026-08-04",
     "first_seen_at": "2026-08-04T18:28:41+09:00",
     "last_seen": "2026-08-17",
     "title": "ソニー(SONY) 完全ワイヤレスイヤホン WF-C700N :高性能ノイズキャンセリング搭載/軽量・小型設計/音質アップスケール機能搭載/連続音楽再生時間最長 7.5時間/IPX4防滴性能/急速充電対応/クリアな通話性能/マルチポイント対応 ブラック WF-C700N BZ"
+  },
+  "B0CSKFY1Q2": {
+    "first_seen": "2026-08-13",
+    "first_seen_at": "2026-08-13T22:45:41+09:00",
+    "last_seen": "2026-08-17",
+    "title": "Bose Ultra Open Earbuds 空間オーディオ イヤホン オープンイヤー 完全 ワイヤレス Bluetooth接続 マイク付 最大7.5時間再生 防滴 ブラック"
   },
   "B0DDKHF9XY": {
     "first_seen": "2026-08-16",
@@ -137,6 +137,12 @@
     "last_seen": "2026-08-17",
     "title": "エレコム モバイルバッテリー 10000mAh 45W リール式 巻き取り式ケーブル 2ポート USB-A/C 【残量表示/PSE技術基準適合/PD対応】 しろちゃん EC-C54LWF"
   },
+  "B0DB17C63X": {
+    "first_seen": "2026-07-29",
+    "first_seen_at": "2026-07-29T12:00:00+09:00",
+    "last_seen": "2026-08-17",
+    "title": "Anker MagGo Power Bank (10000mAh, Slim) ブラック"
+  },
   "B0FRSR6BVR": {
     "first_seen": "2026-08-07",
     "first_seen_at": "2026-08-07T22:31:51+09:00",
@@ -148,12 +154,6 @@
     "first_seen_at": "2026-08-11T18:18:36+09:00",
     "last_seen": "2026-08-17",
     "title": "Anker Nano Power Bank (10000mAh, 45W, 巻取り式 USB-Cケーブル) ブラック"
-  },
-  "B0DNLR2NYN": {
-    "first_seen": "2026-08-17",
-    "first_seen_at": "2026-08-17T20:42:41+09:00",
-    "last_seen": "2026-08-17",
-    "title": "Anker Nano Power Bank (10000mAh, 45W, 巻取り式 USB-Cケーブル) ホワイト"
   },
   "B0DNLTBVSD": {
     "first_seen": "2026-08-07",
@@ -173,11 +173,11 @@
     "last_seen": "2026-08-17",
     "title": "Anker Power Bank (30W, Fusion, Built-In ライトニングケーブル) ブラック"
   },
-  "B0CQY7NNHL": {
-    "first_seen": "2026-08-17",
-    "first_seen_at": "2026-08-17T22:08:41+09:00",
+  "B0CQY7SRTY": {
+    "first_seen": "2026-07-27",
+    "first_seen_at": "2026-07-27T12:00:00+09:00",
     "last_seen": "2026-08-17",
-    "title": "Anker Power Bank (20000mAh, 30W) パープル"
+    "title": "Anker Power Bank (20000mAh, 30W) ブラック"
   },
   "B0H38B1MLQ": {
     "first_seen": "2026-08-17",
@@ -245,29 +245,17 @@
     "last_seen": "2026-08-17",
     "title": "UGREEN Nexode急速充電器 65W Type-C 2C1A 3ポート PD/PPS/QC3.0/SCP/FCP対応 折り畳み式"
   },
-  "B0BF44GF6J": {
-    "first_seen": "2026-08-09",
-    "first_seen_at": "2026-08-09T01:55:23+09:00",
+  "B0BF43HS1G": {
+    "first_seen": "2026-07-27",
+    "first_seen_at": "2026-07-27T12:00:00+09:00",
     "last_seen": "2026-08-17",
-    "title": "Anker 523 Charger (Nano 3, 47W) ブラック"
+    "title": "Anker 523 Charger (Nano 3, 47W) ホワイト"
   },
   "B0D73JBJ56": {
     "first_seen": "2026-08-15",
     "first_seen_at": "2026-08-15T00:10:25+09:00",
     "last_seen": "2026-08-17",
     "title": "Anker Prime Charger (100W, 3 Ports, GaN)"
-  },
-  "B099ZNTRL5": {
-    "first_seen": "2026-07-29",
-    "first_seen_at": "2026-07-29T12:00:00+09:00",
-    "last_seen": "2026-08-17",
-    "title": "Anker Nano Charger (20W) ホワイト"
-  },
-  "B09MLVRGFG": {
-    "first_seen": "2026-07-31",
-    "first_seen_at": "2026-07-31T12:00:00+09:00",
-    "last_seen": "2026-08-17",
-    "title": "Belkin MagSafe認証 ワイヤレス充電パッド iPhone15/14/13/12 最大15W急速充電 キックスタンド付き AC電源アダプター付属 ホワイト WIA004dqWH"
   },
   "B0DG93MZCR": {
     "first_seen": "2026-07-27",
@@ -317,12 +305,6 @@
     "last_seen": "2026-08-17",
     "title": "バッファロー 充電器 20W 2ポート USB-C & USB-A PD対応 GaN 折りたたみ式 PSE適合 BSACPD2015C2WH"
   },
-  "B0GF24NN7N": {
-    "first_seen": "2026-08-16",
-    "first_seen_at": "2026-08-16T22:04:14+09:00",
-    "last_seen": "2026-08-17",
-    "title": "Anker Nano Charger (45W, Display, スイングプラグ) ホワイト"
-  },
   "B0D6QQFMCS": {
     "first_seen": "2026-08-07",
     "first_seen_at": "2026-08-07T13:07:32+09:00",
@@ -365,12 +347,6 @@
     "last_seen": "2026-08-17",
     "title": "REGZA ゲーミングモニター 27インチ WQHD 240Hz モンスターハンターワイルズ推奨画質 1ms(GTG) HDR10 Fast IPSパネル Adaptive Sync HDMI対応 RM-G276N"
   },
-  "B0D47LXJBG": {
-    "first_seen": "2026-08-04",
-    "first_seen_at": "2026-08-04T12:38:09+09:00",
-    "last_seen": "2026-08-17",
-    "title": "Xiaomi Mini LED ゲーミングモニター G Pro 27i 27インチ 1152ゾーン Fast IPS 1msGTG高速応答 180Hz ピーク輝度1000nit 2560x1440 2K FreeSyncティアリング防止 sRGB100% DCI-P399% 高さ調整 VESAマウント対応 DP1.4x2、HDMI2.0x2"
-  },
   "B0DJBQLDWP": {
     "first_seen": "2026-08-06",
     "first_seen_at": "2026-08-06T18:54:32+09:00",
@@ -406,6 +382,18 @@
     "first_seen_at": "2026-08-02T11:33:18+09:00",
     "last_seen": "2026-08-17",
     "title": "IODATA GigaCrysta ゲーミングモニター 27型 WQHD 200Hz MiniLED (HDMI/DP) EX-GDQ271JLAQ"
+  },
+  "B0C9TKSP8V": {
+    "first_seen": "2026-07-30",
+    "first_seen_at": "2026-07-30T12:00:00+09:00",
+    "last_seen": "2026-08-17",
+    "title": "【節電対策】SwitchBot サーキュレーター 静音22dB コードレス 最大50時間 - スイッチボット ~30畳 Alexa対応 扇風機 DCモーター 3D首振り 無段階風量調整 充電式バッテリー搭載 リモコン付き 梅雨対策 省エネ"
+  },
+  "B0FQBQP9RK": {
+    "first_seen": "2026-08-16",
+    "first_seen_at": "2026-08-16T22:46:39+09:00",
+    "last_seen": "2026-08-17",
+    "title": "【Amazon.co.jp限定】 SwitchBot スマートリモコン ハブミニ(Matter対応) 温湿度管理 パネル - スイッチボット エアコン操作 赤外線家電を管理 温湿度計 スマートホーム アラート通知 節電·省エネ"
   },
   "B0GQRLL8Q4": {
     "first_seen": "2026-07-30",
@@ -599,6 +587,12 @@
     "last_seen": "2026-08-17",
     "title": "ロジクール ワイヤレスマウス 静音 無線 高速スクロール Signature M650MGR レギュラー グラファイト M650 国内正規品"
   },
+  "B0H8DQLFNW": {
+    "first_seen": "2026-08-09",
+    "first_seen_at": "2026-08-09T23:53:24+09:00",
+    "last_seen": "2026-08-17",
+    "title": "Logicool Signature M550MGR ワイヤレスマウス 静音 Bluetooth レギュラー グラファイト ワイヤレス マウス 無線 Logi Bolt Unifying非対応 windows mac iPad Android Chrome OS スクロールホイール 無線マウス 静音マウス M550 国内正規品 (× 3)"
+  },
   "B0CJR5HBMN": {
     "first_seen": "2026-08-04",
     "first_seen_at": "2026-08-04T21:17:38+09:00",
@@ -647,6 +641,54 @@
     "last_seen": "2026-08-17",
     "title": "【Amazon.co.jp限定】 Ninja ニンジャ Crispi クリスピー FN100JSTNR 自動調理器 3つの調理モード (クリスプ/ベイク・ロースト/リクリスプ) 煮る 焼く 蒸す 炒める 煮込む 炊く 温風調理 エアフライヤー ノンフライヤー FN100J ベージュ"
   },
+  "B0GQWFB3MV": {
+    "first_seen": "2026-08-14",
+    "first_seen_at": "2026-08-14T21:00:27+09:00",
+    "last_seen": "2026-08-17",
+    "title": "Apple 11インチiPad Air（M4）：Liquid Retinaディスプレイ、256GB、12MPフロント/バックカメラ、Apple N1によるWi-Fi 7、Touch ID、一日中使えるバッテリー — ブルー"
+  },
+  "B0DNLR2NYN": {
+    "first_seen": "2026-08-17",
+    "first_seen_at": "2026-08-17T20:42:41+09:00",
+    "last_seen": "2026-08-17",
+    "title": "Anker Nano Power Bank (10000mAh, 45W, 巻取り式 USB-Cケーブル) ホワイト"
+  },
+  "B0CQY7NNHL": {
+    "first_seen": "2026-08-17",
+    "first_seen_at": "2026-08-17T22:08:41+09:00",
+    "last_seen": "2026-08-17",
+    "title": "Anker Power Bank (20000mAh, 30W) パープル"
+  },
+  "B0BF44GF6J": {
+    "first_seen": "2026-08-09",
+    "first_seen_at": "2026-08-09T01:55:23+09:00",
+    "last_seen": "2026-08-17",
+    "title": "Anker 523 Charger (Nano 3, 47W) ブラック"
+  },
+  "B099ZNTRL5": {
+    "first_seen": "2026-07-29",
+    "first_seen_at": "2026-07-29T12:00:00+09:00",
+    "last_seen": "2026-08-17",
+    "title": "Anker Nano Charger (20W) ホワイト"
+  },
+  "B09MLVRGFG": {
+    "first_seen": "2026-07-31",
+    "first_seen_at": "2026-07-31T12:00:00+09:00",
+    "last_seen": "2026-08-17",
+    "title": "Belkin MagSafe認証 ワイヤレス充電パッド iPhone15/14/13/12 最大15W急速充電 キックスタンド付き AC電源アダプター付属 ホワイト WIA004dqWH"
+  },
+  "B0GF24NN7N": {
+    "first_seen": "2026-08-16",
+    "first_seen_at": "2026-08-16T22:04:14+09:00",
+    "last_seen": "2026-08-17",
+    "title": "Anker Nano Charger (45W, Display, スイングプラグ) ホワイト"
+  },
+  "B0D47LXJBG": {
+    "first_seen": "2026-08-04",
+    "first_seen_at": "2026-08-04T12:38:09+09:00",
+    "last_seen": "2026-08-17",
+    "title": "Xiaomi Mini LED ゲーミングモニター G Pro 27i 27インチ 1152ゾーン Fast IPS 1msGTG高速応答 180Hz ピーク輝度1000nit 2560x1440 2K FreeSyncティアリング防止 sRGB100% DCI-P399% 高さ調整 VESAマウント対応 DP1.4x2、HDMI2.0x2"
+  },
   "B0GQW2J67Z": {
     "first_seen": "2026-08-13",
     "first_seen_at": "2026-08-13T21:03:23+09:00",
@@ -682,12 +724,6 @@
     "first_seen_at": "2026-08-15T20:37:29+09:00",
     "last_seen": "2026-08-17",
     "title": "Anker 511 Charger (Nano 3, 30W) パープル"
-  },
-  "B0BF43HS1G": {
-    "first_seen": "2026-07-27",
-    "first_seen_at": "2026-07-27T12:00:00+09:00",
-    "last_seen": "2026-08-17",
-    "title": "Anker 523 Charger (Nano 3, 47W) ホワイト"
   },
   "B0DKLQMN8L": {
     "first_seen": "2026-08-15",
@@ -731,23 +767,11 @@
     "last_seen": "2026-08-17",
     "title": "UGREEN MagFlow Qi2 25W認証 モバイルバッテリー Magsafe対応 マグネット式ワイヤレス急速充電 20000mAh ブラック"
   },
-  "B0DB17C63X": {
-    "first_seen": "2026-07-29",
-    "first_seen_at": "2026-07-29T12:00:00+09:00",
-    "last_seen": "2026-08-17",
-    "title": "Anker MagGo Power Bank (10000mAh, Slim) ブラック"
-  },
   "B0DNLRYJ9X": {
     "first_seen": "2026-08-11",
     "first_seen_at": "2026-08-11T21:00:42+09:00",
     "last_seen": "2026-08-17",
     "title": "Anker Nano Power Bank (22.5W, Built-In USB-C Connector) ピンク"
-  },
-  "B0CQY7SRTY": {
-    "first_seen": "2026-07-27",
-    "first_seen_at": "2026-07-27T12:00:00+09:00",
-    "last_seen": "2026-08-17",
-    "title": "Anker Power Bank (20000mAh, 30W) ブラック"
   },
   "B0F99DFJTK": {
     "first_seen": "2026-08-04",
@@ -887,12 +911,6 @@
     "last_seen": "2026-08-17",
     "title": "Xiaomi G27i 27インチ ゲーミングモニター FHD 1920×1080 165Hz Fast IPS 1ms GTG"
   },
-  "B0C9TKSP8V": {
-    "first_seen": "2026-07-30",
-    "first_seen_at": "2026-07-30T12:00:00+09:00",
-    "last_seen": "2026-08-17",
-    "title": "【節電対策】SwitchBot サーキュレーター 静音22dB コードレス 最大50時間 - スイッチボット ~30畳 Alexa対応 扇風機 DCモーター 3D首振り 無段階風量調整 充電式バッテリー搭載 リモコン付き 梅雨対策 省エネ"
-  },
   "B0FWDCW2VY": {
     "first_seen": "2026-08-13",
     "first_seen_at": "2026-08-13T21:03:23+09:00",
@@ -904,12 +922,6 @@
     "first_seen_at": "2026-08-13T09:31:31+09:00",
     "last_seen": "2026-08-17",
     "title": "Apple 11インチiPad Air（M4）：Liquid Retinaディスプレイ、256GB、12MPフロント/バックカメラ、Apple N1によるWi-Fi 7、Touch ID、一日中使えるバッテリー — スペースグレイ"
-  },
-  "B0CSKFY1Q2": {
-    "first_seen": "2026-08-13",
-    "first_seen_at": "2026-08-13T22:45:41+09:00",
-    "last_seen": "2026-08-17",
-    "title": "Bose Ultra Open Earbuds 空間オーディオ イヤホン オープンイヤー 完全 ワイヤレス Bluetooth接続 マイク付 最大7.5時間再生 防滴 ブラック"
   },
   "B0B2QQDKR8": {
     "first_seen": "2026-07-27",
@@ -995,12 +1007,6 @@
     "last_seen": "2026-08-17",
     "title": "SwitchBot スマートLED電球2個入り＋スマートLEDテープライト"
   },
-  "B0FQBQP9RK": {
-    "first_seen": "2026-08-16",
-    "first_seen_at": "2026-08-16T22:46:39+09:00",
-    "last_seen": "2026-08-17",
-    "title": "【Amazon.co.jp限定】 SwitchBot スマートリモコン ハブミニ(Matter対応) 温湿度管理 パネル - スイッチボット エアコン操作 赤外線家電を管理 温湿度計 スマートホーム アラート通知 節電·省エネ"
-  },
   "B0H262JBF7": {
     "first_seen": "2026-08-07",
     "first_seen_at": "2026-08-07T21:01:08+09:00",
@@ -1012,12 +1018,6 @@
     "first_seen_at": "2026-08-08T01:13:21+09:00",
     "last_seen": "2026-08-17",
     "title": "【セット買い】Amazon Fire TV Stick 4K Max + Amazon Fire TV Soundbar Plus"
-  },
-  "B0H8DQLFNW": {
-    "first_seen": "2026-08-09",
-    "first_seen_at": "2026-08-09T23:53:24+09:00",
-    "last_seen": "2026-08-17",
-    "title": "Logicool Signature M550MGR ワイヤレスマウス 静音 Bluetooth レギュラー グラファイト ワイヤレス マウス 無線 Logi Bolt Unifying非対応 windows mac iPad Android Chrome OS スクロールホイール 無線マウス 静音マウス M550 国内正規品 (× 3)"
   },
   "B0F2FLC7MK": {
     "first_seen": "2026-08-16",
