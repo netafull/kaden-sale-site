@@ -77,12 +77,6 @@
     "last_seen": "2026-08-17",
     "title": "Apple Watch Ultra 3(GPS + Cellularモデル)- 49mmブラックチタニウムケースとブラックオーシャンバンド"
   },
-  "B0GR1LSZ8D": {
-    "first_seen": "2026-08-16",
-    "first_seen_at": "2026-08-16T05:41:25+09:00",
-    "last_seen": "2026-08-17",
-    "title": "Apple 2026 MacBook Air M5チップ搭載13インチノートブック：AIとApple Intelligence、13.6インチLiquid Retinaディスプレイ、24GBユニファイドメモリ、1TB SSDストレージ、12MPセンターフレームカメラ、日本語キーボード、Touch ID - ミッドナイト"
-  },
   "B0GR1LGT2H": {
     "first_seen": "2026-08-13",
     "first_seen_at": "2026-08-13T09:31:31+09:00",
@@ -203,6 +197,12 @@
     "last_seen": "2026-08-17",
     "title": "Anker Nano Power Bank (22.5W, Built-In USB-C Connector) ブラック"
   },
+  "B0H1BR61W5": {
+    "first_seen": "2026-08-13",
+    "first_seen_at": "2026-08-13T21:03:23+09:00",
+    "last_seen": "2026-08-17",
+    "title": "エレコム モバイルバッテリー 10000mAh 大容量 軽量 小型 残量表示 LEDパネル 1%単位 15W USB-C USB-A 2ポート パススルー充電 PSE認証 iPhone iPad Android対応 ブラック EC-C64LBK"
+  },
   "B0CQY7SRTY": {
     "first_seen": "2026-07-27",
     "first_seen_at": "2026-07-27T12:00:00+09:00",
@@ -245,12 +245,6 @@
     "last_seen": "2026-08-17",
     "title": "Belkin Cubic Charger 45W 充電器 type-c iphone 充電器 急速充電 PD3.2 PPS対応"
   },
-  "B0B2QSZRCV": {
-    "first_seen": "2026-08-04",
-    "first_seen_at": "2026-08-04T12:38:09+09:00",
-    "last_seen": "2026-08-17",
-    "title": "Anker 511 Charger (Nano 3, 30W) ブルー"
-  },
   "B0FVM1C19Y": {
     "first_seen": "2026-07-31",
     "first_seen_at": "2026-07-31T12:00:00+09:00",
@@ -268,6 +262,12 @@
     "first_seen_at": "2026-07-27T12:00:00+09:00",
     "last_seen": "2026-08-17",
     "title": "Anker Nano Charger (70W, 3 Ports) ブラック"
+  },
+  "B0B2QQDKR8": {
+    "first_seen": "2026-07-27",
+    "first_seen_at": "2026-07-27T12:00:00+09:00",
+    "last_seen": "2026-08-17",
+    "title": "Anker 511 Charger (Nano 3, 30W) ブラック"
   },
   "B091BGMKYS": {
     "first_seen": "2026-07-27",
@@ -377,17 +377,17 @@
     "last_seen": "2026-08-17",
     "title": "【 サンディスク 正規品 】 SanDisk microSD カード Ultra SDSQUAB-128G-GH3MA 簡易デザインパッケージ"
   },
-  "B0DJBQLDWP": {
-    "first_seen": "2026-08-06",
-    "first_seen_at": "2026-08-06T18:54:32+09:00",
-    "last_seen": "2026-08-17",
-    "title": "LG モニター 27MS530B-B 27インチ/フルHD/100Hz/IPS/HDMI×2、USB-C PD65W/メーカー3年保証"
-  },
   "B0DMN94Q8M": {
     "first_seen": "2026-08-02",
     "first_seen_at": "2026-08-02T11:33:18+09:00",
     "last_seen": "2026-08-17",
     "title": "REGZA ゲーミングモニター 27インチ WQHD 240Hz モンスターハンターワイルズ推奨画質 1ms(GTG) HDR10 Fast IPSパネル Adaptive Sync HDMI対応 RM-G276N"
+  },
+  "B0DJBQLDWP": {
+    "first_seen": "2026-08-06",
+    "first_seen_at": "2026-08-06T18:54:32+09:00",
+    "last_seen": "2026-08-17",
+    "title": "LG モニター 27MS530B-B 27インチ/フルHD/100Hz/IPS/HDMI×2、USB-C PD65W/メーカー3年保証"
   },
   "B0DT3NLNCC": {
     "first_seen": "2026-08-02",
@@ -407,17 +407,23 @@
     "last_seen": "2026-08-17",
     "title": "【Amazon.co.jp限定】MSI ゲーミングモニター MAG 242C 23.6インチ/湾曲/フルHD/VAパネル/180Hz/1ms/HDMI/DPAdaptive-Sync/アンチモーションブラー/HDR/AIビジョン/メーカー3年保証"
   },
-  "B0F7X3VJ99": {
-    "first_seen": "2026-08-02",
-    "first_seen_at": "2026-08-02T11:33:18+09:00",
-    "last_seen": "2026-08-17",
-    "title": "IODATA GigaCrysta ゲーミングモニター 27型 WQHD 200Hz MiniLED (HDMI/DP) EX-GDQ271JLAQ"
-  },
   "B0DNKC8HXP": {
     "first_seen": "2026-08-02",
     "first_seen_at": "2026-08-02T11:33:18+09:00",
     "last_seen": "2026-08-17",
     "title": "INNOCN ゲーミングモニター 24.5インチ 200Hz IPS 1ms(GTG) フルHD 非光沢 フレームレス PS5/Xbox対応 Adaptive-Sync VESA100×100 HDMI2.0/DP1.4接続 25G2G"
+  },
+  "B0DQL1SYFT": {
+    "first_seen": "2026-08-05",
+    "first_seen_at": "2026-08-05T21:15:31+09:00",
+    "last_seen": "2026-08-17",
+    "title": "IODATA ゲーミングモニター 23.8インチ GigaCrysta 240Hz ADSパネル 1ms ヒーラーホワイト 無輝点保証対応(HDMI×2/DisplayPort/VESA対応/土日サポート/日本メーカー) EX-GD242UDW"
+  },
+  "B0F7X3VJ99": {
+    "first_seen": "2026-08-02",
+    "first_seen_at": "2026-08-02T11:33:18+09:00",
+    "last_seen": "2026-08-17",
+    "title": "IODATA GigaCrysta ゲーミングモニター 27型 WQHD 200Hz MiniLED (HDMI/DP) EX-GDQ271JLAQ"
   },
   "B0C9TKSP8V": {
     "first_seen": "2026-07-30",
@@ -665,6 +671,18 @@
     "last_seen": "2026-08-17",
     "title": "アイリスオーヤマ 過熱水蒸気 エア フライヤー 3L 2～3人用 ノンオイルフライヤー スチーム機能 ジューシー FV-M30A-C アイボリー"
   },
+  "B0GR1LSZ8D": {
+    "first_seen": "2026-08-16",
+    "first_seen_at": "2026-08-16T05:41:25+09:00",
+    "last_seen": "2026-08-17",
+    "title": "Apple 2026 MacBook Air M5チップ搭載13インチノートブック：AIとApple Intelligence、13.6インチLiquid Retinaディスプレイ、24GBユニファイドメモリ、1TB SSDストレージ、12MPセンターフレームカメラ、日本語キーボード、Touch ID - ミッドナイト"
+  },
+  "B0B2QSZRCV": {
+    "first_seen": "2026-08-04",
+    "first_seen_at": "2026-08-04T12:38:09+09:00",
+    "last_seen": "2026-08-17",
+    "title": "Anker 511 Charger (Nano 3, 30W) ブルー"
+  },
   "B0H33X4142": {
     "first_seen": "2026-08-15",
     "first_seen_at": "2026-08-15T06:42:05+09:00",
@@ -676,12 +694,6 @@
     "first_seen_at": "2026-08-16T00:38:29+09:00",
     "last_seen": "2026-08-17",
     "title": "【Amazon.co.jp限定】 Belkin モバイルバッテリー(20000mAh, 30W, USB-Cケーブル内蔵) 最大30W PD高速充電対応 PPS対応iPhone 17,16～12対応&Androidスマホ対応 2台同時充電 PSE認証 軽量&コンパクト 機内持込可能 メーカー保証2年 ピンク BPB024fqPK-A ※Amazon.co.jp限定 壁紙ダウンロード付き"
-  },
-  "B0DQL1SYFT": {
-    "first_seen": "2026-08-05",
-    "first_seen_at": "2026-08-05T21:15:31+09:00",
-    "last_seen": "2026-08-17",
-    "title": "IODATA ゲーミングモニター 23.8インチ GigaCrysta 240Hz ADSパネル 1ms ヒーラーホワイト 無輝点保証対応(HDMI×2/DisplayPort/VESA対応/土日サポート/日本メーカー) EX-GD242UDW"
   },
   "B0FLPSS5FS": {
     "first_seen": "2026-08-17",
@@ -1379,12 +1391,6 @@
     "last_seen": "2026-08-14",
     "title": "サンワサプライ(Sanwa Supply) USBキーボード(ホワイト) SKB-L1UN"
   },
-  "B0H1BR61W5": {
-    "first_seen": "2026-08-13",
-    "first_seen_at": "2026-08-13T21:03:23+09:00",
-    "last_seen": "2026-08-14",
-    "title": "エレコム モバイルバッテリー 10000mAh 大容量 軽量 小型 残量表示 LEDパネル 1%単位 15W USB-C USB-A 2ポート パススルー充電 PSE認証 iPhone iPad Android対応 ブラック EC-C64LBK"
-  },
   "B0GQW2939K": {
     "first_seen": "2026-08-14",
     "first_seen_at": "2026-08-14T00:15:54+09:00",
@@ -1642,12 +1648,6 @@
     "first_seen_at": "2026-08-11T08:54:07+09:00",
     "last_seen": "2026-08-11",
     "title": "Apple 2024 iMac 10 コア CPU、10 コア GPU の M4 チップ搭載オールインワンデスク トップコンピュータ: Apple Intelligence のために設計、24 インチ Retina ディスプレ イ、16GBユニファイドメモリ、256GBの SSD ストレージ、ボディと同じカラーのアクセサリ、iPhone や iPad との連係機能 - グリーン"
-  },
-  "B0B2QQDKR8": {
-    "first_seen": "2026-07-27",
-    "first_seen_at": "2026-07-27T12:00:00+09:00",
-    "last_seen": "2026-08-11",
-    "title": "Anker 511 Charger (Nano 3, 30W) ブラック"
   },
   "B0DQKY19KV": {
     "first_seen": "2026-08-10",
