@@ -65,11 +65,11 @@
     "last_seen": "2026-08-17",
     "title": "Apple Watch SE 3(GPSモデル)- 40mmスターライトアルミニウムケースとスターライトスポーツバンド - S/M"
   },
-  "B0FWDC2FKB": {
+  "B0FWDCW2VY": {
     "first_seen": "2026-08-13",
-    "first_seen_at": "2026-08-13T09:31:31+09:00",
+    "first_seen_at": "2026-08-13T21:03:23+09:00",
     "last_seen": "2026-08-17",
-    "title": "Apple 11インチiPad Pro(M5):Ultra Retina XDR ディスプレイ、256GB、横向きの12MP フロント/バックカメラ、LiDAR スキャナ、Apple N1によるWi-Fi 7、Face ID、一日中使えるバッテリー - スペースブラック"
+    "title": "Apple 11インチiPad Pro(M5):Ultra Retina XDR ディスプレイ、256GB、横向きの12MP フロント/バックカメラ、LiDAR スキャナ、Apple N1によるWi-Fi 7、Face ID、一日中使えるバッテリー - シルバー"
   },
   "B0FQFWV3SK": {
     "first_seen": "2026-08-13",
@@ -94,6 +94,12 @@
     "first_seen_at": "2026-08-04T18:28:41+09:00",
     "last_seen": "2026-08-17",
     "title": "ソニー(SONY) 完全ワイヤレスイヤホン WF-C700N :高性能ノイズキャンセリング搭載/軽量・小型設計/音質アップスケール機能搭載/連続音楽再生時間最長 7.5時間/IPX4防滴性能/急速充電対応/クリアな通話性能/マルチポイント対応 ブラック WF-C700N BZ"
+  },
+  "B0CSKFY1Q2": {
+    "first_seen": "2026-08-13",
+    "first_seen_at": "2026-08-13T22:45:41+09:00",
+    "last_seen": "2026-08-17",
+    "title": "Bose Ultra Open Earbuds 空間オーディオ イヤホン オープンイヤー 完全 ワイヤレス Bluetooth接続 マイク付 最大7.5時間再生 防滴 ブラック"
   },
   "B0DDKHF9XY": {
     "first_seen": "2026-08-16",
@@ -233,12 +239,6 @@
     "last_seen": "2026-08-17",
     "title": "UGREEN Nexode【当社比最小】65W PD充電器 USB-C*2+USB-A*1 急速充電器 PSE適合 PD/PPS/QC4+対応"
   },
-  "B0BF9ZYCQ5": {
-    "first_seen": "2026-07-31",
-    "first_seen_at": "2026-07-31T12:00:00+09:00",
-    "last_seen": "2026-08-17",
-    "title": "【VGP受賞】Belkin 充電器 USB-C 2ポート PPS規格対応 GaN採用 小型 ACアダプター タイプC 急速充電 軽量【PD3.0対応 /PSE認証/折りたたみ式プラグ】45W(25W+20W) MacBook Windows PC Surface Pro iPad iPhone 17,16～12対応 Galaxy Android スマホ 各種ノートPC対応 WCH011dqWH"
-  },
   "B0FDFBKXKH": {
     "first_seen": "2026-08-15",
     "first_seen_at": "2026-08-15T19:40:40+09:00",
@@ -377,17 +377,17 @@
     "last_seen": "2026-08-17",
     "title": "【 サンディスク 正規品 】 SanDisk microSD カード Ultra SDSQUAB-128G-GH3MA 簡易デザインパッケージ"
   },
-  "B0DMN94Q8M": {
-    "first_seen": "2026-08-02",
-    "first_seen_at": "2026-08-02T11:33:18+09:00",
-    "last_seen": "2026-08-17",
-    "title": "REGZA ゲーミングモニター 27インチ WQHD 240Hz モンスターハンターワイルズ推奨画質 1ms(GTG) HDR10 Fast IPSパネル Adaptive Sync HDMI対応 RM-G276N"
-  },
   "B0DJBQLDWP": {
     "first_seen": "2026-08-06",
     "first_seen_at": "2026-08-06T18:54:32+09:00",
     "last_seen": "2026-08-17",
     "title": "LG モニター 27MS530B-B 27インチ/フルHD/100Hz/IPS/HDMI×2、USB-C PD65W/メーカー3年保証"
+  },
+  "B0DMN94Q8M": {
+    "first_seen": "2026-08-02",
+    "first_seen_at": "2026-08-02T11:33:18+09:00",
+    "last_seen": "2026-08-17",
+    "title": "REGZA ゲーミングモニター 27インチ WQHD 240Hz モンスターハンターワイルズ推奨画質 1ms(GTG) HDR10 Fast IPSパネル Adaptive Sync HDMI対応 RM-G276N"
   },
   "B0DT3NLNCC": {
     "first_seen": "2026-08-02",
@@ -671,6 +671,18 @@
     "last_seen": "2026-08-17",
     "title": "アイリスオーヤマ 過熱水蒸気 エア フライヤー 3L 2～3人用 ノンオイルフライヤー スチーム機能 ジューシー FV-M30A-C アイボリー"
   },
+  "B0FWDC2FKB": {
+    "first_seen": "2026-08-13",
+    "first_seen_at": "2026-08-13T09:31:31+09:00",
+    "last_seen": "2026-08-17",
+    "title": "Apple 11インチiPad Pro(M5):Ultra Retina XDR ディスプレイ、256GB、横向きの12MP フロント/バックカメラ、LiDAR スキャナ、Apple N1によるWi-Fi 7、Face ID、一日中使えるバッテリー - スペースブラック"
+  },
+  "B0BF9ZYCQ5": {
+    "first_seen": "2026-07-31",
+    "first_seen_at": "2026-07-31T12:00:00+09:00",
+    "last_seen": "2026-08-17",
+    "title": "【VGP受賞】Belkin 充電器 USB-C 2ポート PPS規格対応 GaN採用 小型 ACアダプター タイプC 急速充電 軽量【PD3.0対応 /PSE認証/折りたたみ式プラグ】45W(25W+20W) MacBook Windows PC Surface Pro iPad iPhone 17,16～12対応 Galaxy Android スマホ 各種ノートPC対応 WCH011dqWH"
+  },
   "B0GR1LSZ8D": {
     "first_seen": "2026-08-16",
     "first_seen_at": "2026-08-16T05:41:25+09:00",
@@ -712,12 +724,6 @@
     "first_seen_at": "2026-08-13T09:31:31+09:00",
     "last_seen": "2026-08-17",
     "title": "Apple 2026 MacBook Air M5チップ搭載13インチノートブック：AIとApple Intelligence、13.6インチLiquid Retinaディスプレイ、16GBユニファイドメモリ、1TB SSDストレージ、12MPセンターフレームカメラ、日本語キーボード、Touch ID - ミッドナイト"
-  },
-  "B0CSKFY1Q2": {
-    "first_seen": "2026-08-13",
-    "first_seen_at": "2026-08-13T22:45:41+09:00",
-    "last_seen": "2026-08-17",
-    "title": "Bose Ultra Open Earbuds 空間オーディオ イヤホン オープンイヤー 完全 ワイヤレス Bluetooth接続 マイク付 最大7.5時間再生 防滴 ブラック"
   },
   "B0CL8S3WMX": {
     "first_seen": "2026-07-27",
@@ -1114,12 +1120,6 @@
     "first_seen_at": "2026-08-16T13:52:54+09:00",
     "last_seen": "2026-08-16",
     "title": "Apple 2026 MacBook Air M5チップ搭載13インチノートブック：AIとApple Intelligence、13.6インチLiquid Retinaディスプレイ、16GBユニファイドメモリ、1TB SSDストレージ、12MPセンターフレームカメラ、日本語キーボード、Touch ID - シルバー"
-  },
-  "B0FWDCW2VY": {
-    "first_seen": "2026-08-13",
-    "first_seen_at": "2026-08-13T21:03:23+09:00",
-    "last_seen": "2026-08-16",
-    "title": "Apple 11インチiPad Pro(M5):Ultra Retina XDR ディスプレイ、256GB、横向きの12MP フロント/バックカメラ、LiDAR スキャナ、Apple N1によるWi-Fi 7、Face ID、一日中使えるバッテリー - シルバー"
   },
   "B0DV5BQYR1": {
     "first_seen": "2026-08-16",
