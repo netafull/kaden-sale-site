@@ -23,12 +23,6 @@
     "last_seen": "2026-08-18",
     "title": "Appleシリコン搭載Macモデル用Touch ID搭載Magic Keyboard(テンキー付き)- 中国語(注音)- ホワイトキー ​​​​​​​"
   },
-  "B0DGJBNYVY": {
-    "first_seen": "2026-08-12",
-    "first_seen_at": "2026-08-12T02:16:12+09:00",
-    "last_seen": "2026-08-18",
-    "title": "Apple AirPods 4 アクティブノイズ キャンセリング搭載、ワイヤレスイヤホン、Bluetooth 5.3、ライブ翻訳、適応型オーディオ、外部音取り込みモード、パーソナライズされた空間オーディオ、USB-C充電ケース、ワイヤレス充電、H2チップ、防塵性能と耐汗耐水性能、「探す」対応、Qi充電"
-  },
   "B0D3J7HJYN": {
     "first_seen": "2026-07-31",
     "first_seen_at": "2026-07-31T12:00:00+09:00",
@@ -46,6 +40,12 @@
     "first_seen_at": "2026-07-29T12:00:00+09:00",
     "last_seen": "2026-08-18",
     "title": "Apple AirPods Pro 3 ワイヤレスイヤホン、アクティブノイズキャンセリング、ライブ翻訳、心拍センサー、補聴機能、Bluetoothヘッドホン、空間オーディオ サウンド、USB-C充電ケース、防塵性能と耐汗耐水性能、「探す」対応、Qi充電"
+  },
+  "B0DGJBNYVY": {
+    "first_seen": "2026-08-12",
+    "first_seen_at": "2026-08-12T02:16:12+09:00",
+    "last_seen": "2026-08-18",
+    "title": "Apple AirPods 4 アクティブノイズ キャンセリング搭載、ワイヤレスイヤホン、Bluetooth 5.3、ライブ翻訳、適応型オーディオ、外部音取り込みモード、パーソナライズされた空間オーディオ、USB-C充電ケース、ワイヤレス充電、H2チップ、防塵性能と耐汗耐水性能、「探す」対応、Qi充電"
   },
   "B0FQFHZ5KH": {
     "first_seen": "2026-07-31",
@@ -65,11 +65,11 @@
     "last_seen": "2026-08-18",
     "title": "Apple AirPods 4 ワイヤレスイヤーバッド、Bluetooth ヘッドフォン、パーソナライズさ れた空間オーディオ、耐汗耐水性能、USB-C 充電ケース、H2 チップ、最大 30 時間の バッテリー駆動時間、iPhone で簡単に設定 + 延長2年 AppleCare+ for Headphones - AirPods"
   },
-  "B0FWDCW2VY": {
+  "B0FWDC2FKB": {
     "first_seen": "2026-08-13",
-    "first_seen_at": "2026-08-13T21:03:23+09:00",
+    "first_seen_at": "2026-08-13T09:31:31+09:00",
     "last_seen": "2026-08-18",
-    "title": "Apple 11インチiPad Pro(M5):Ultra Retina XDR ディスプレイ、256GB、横向きの12MP フロント/バックカメラ、LiDAR スキャナ、Apple N1によるWi-Fi 7、Face ID、一日中使えるバッテリー - シルバー"
+    "title": "Apple 11インチiPad Pro(M5):Ultra Retina XDR ディスプレイ、256GB、横向きの12MP フロント/バックカメラ、LiDAR スキャナ、Apple N1によるWi-Fi 7、Face ID、一日中使えるバッテリー - スペースブラック"
   },
   "B0FQFWV3SK": {
     "first_seen": "2026-08-13",
@@ -215,6 +215,12 @@
     "last_seen": "2026-08-18",
     "title": "【VGP受賞】Belkin 充電器 USB-C 2ポート PPS規格対応 GaN採用 小型 ACアダプター タイプC 急速充電 軽量【PD3.0対応 /PSE認証/折りたたみ式プラグ】45W(25W+20W) MacBook Windows PC Surface Pro iPad iPhone 17,16～12対応 Galaxy Android スマホ 各種ノートPC対応 WCH011dqWH"
   },
+  "B0DMN885ZF": {
+    "first_seen": "2026-08-05",
+    "first_seen_at": "2026-08-05T03:07:44+09:00",
+    "last_seen": "2026-08-18",
+    "title": "UGREEN 45W USB-C 急速充電器 Type-C PD GaNⅡ充電器 PSE適合タイプc充電器 PD/PPS/SCP/QC3.0"
+  },
   "B0FDFBKXKH": {
     "first_seen": "2026-08-15",
     "first_seen_at": "2026-08-15T19:40:40+09:00",
@@ -226,6 +232,12 @@
     "first_seen_at": "2026-07-31T12:00:00+09:00",
     "last_seen": "2026-08-18",
     "title": "Belkin Qi2 車載ワイヤレス充電器 15W急速充電 MagSafe対応 スマホホルダー エアコン吹き出し口用"
+  },
+  "B0F9FHXPDF": {
+    "first_seen": "2026-07-27",
+    "first_seen_at": "2026-07-27T12:00:00+09:00",
+    "last_seen": "2026-08-18",
+    "title": "UGREEN 100W PD 急速充電器 USB-C×4/USB-A×1 タッチモニター搭載 PSE認証済 36*75*75mm"
   },
   "B0F99FCSX7": {
     "first_seen": "2026-07-27",
@@ -257,23 +269,11 @@
     "last_seen": "2026-08-18",
     "title": "Anker Prime Charger (100W, 3 Ports, GaN)"
   },
-  "B0FYFDD1WW": {
-    "first_seen": "2026-07-29",
-    "first_seen_at": "2026-07-29T12:00:00+09:00",
-    "last_seen": "2026-08-18",
-    "title": "UGREEN 160W 5口充電器 カラーディスプレイ搭載 Type-C 4C1A 5ポート PD3.0/PPS/QC4対応 折り畳み式"
-  },
   "B0DG93MZCR": {
     "first_seen": "2026-07-27",
     "first_seen_at": "2026-07-27T12:00:00+09:00",
     "last_seen": "2026-08-18",
     "title": "UGREEN PD充電器 type-c 30W 2*USB-C+1*USB-A GaN PSE適合/PD3.0"
-  },
-  "B0FJS3P8NT": {
-    "first_seen": "2026-07-27",
-    "first_seen_at": "2026-07-27T12:00:00+09:00",
-    "last_seen": "2026-08-18",
-    "title": "UGREEN 45W USB-C*4+USB-A*1 急速充電器 Type-C PD GaNⅡ充電器 PSE適合タイプc充電器 PD3.0/PPS/SCP/QC3.0"
   },
   "B0DNT9Z2HS": {
     "first_seen": "2026-07-27",
@@ -304,12 +304,6 @@
     "first_seen_at": "2026-07-31T12:00:00+09:00",
     "last_seen": "2026-08-18",
     "title": "Belkin USB充電器 42W (30W USB-C + 12W USB-A) PPS対応 PD3.1 急速充電 iPhone17,16～12/ iPad/Androidスマホ・タブレット各種対応 折り畳みプラグ ホワイト WCB009dqWHJP"
-  },
-  "B0GF24NN7N": {
-    "first_seen": "2026-08-16",
-    "first_seen_at": "2026-08-16T22:04:14+09:00",
-    "last_seen": "2026-08-18",
-    "title": "Anker Nano Charger (45W, Display, スイングプラグ) ホワイト"
   },
   "B0D6QQFMCS": {
     "first_seen": "2026-08-07",
@@ -370,12 +364,6 @@
     "first_seen_at": "2026-08-02T11:33:18+09:00",
     "last_seen": "2026-08-18",
     "title": "INNOCN ゲーミングモニター 24.5インチ 200Hz IPS 1ms(GTG) フルHD 非光沢 フレームレス PS5/Xbox対応 Adaptive-Sync VESA100×100 HDMI2.0/DP1.4接続 25G2G"
-  },
-  "B0DQL1SYFT": {
-    "first_seen": "2026-08-05",
-    "first_seen_at": "2026-08-05T21:15:31+09:00",
-    "last_seen": "2026-08-18",
-    "title": "IODATA ゲーミングモニター 23.8インチ GigaCrysta 240Hz ADSパネル 1ms ヒーラーホワイト 無輝点保証対応(HDMI×2/DisplayPort/VESA対応/土日サポート/日本メーカー) EX-GD242UDW"
   },
   "B0F7X3VJ99": {
     "first_seen": "2026-08-02",
@@ -449,17 +437,23 @@
     "last_seen": "2026-08-18",
     "title": "HUAWEI WATCH GT 6 Pro 46mm スマートウォッチ 1.47インチ大画面 最長21日間バッテリー サイクリング/登山/進化したゴルフナビ スポーツモード100種類以上 GPS搭載 心電図分析 健康/情緒モニタリング iOS/Android対応 ブラウン"
   },
+  "B0B75WHSGR": {
+    "first_seen": "2026-08-04",
+    "first_seen_at": "2026-08-04T12:38:09+09:00",
+    "last_seen": "2026-08-18",
+    "title": "Fitbit Inspire 3 フィットネストラッカー ライラックブリス／ブラック スマートウォッチ/iPhone対応/アンドロイド対応/最大10日間のバッテリー/心拍計/睡眠スコア [日本正規品]"
+  },
   "B0H7RJ4THB": {
     "first_seen": "2026-07-31",
     "first_seen_at": "2026-07-31T12:00:00+09:00",
     "last_seen": "2026-08-18",
     "title": "XREAL xbx a01+とXREAL Beam Pro 5G版(8+256GB) 空間エンタメセット"
   },
-  "B0GYF753F1": {
-    "first_seen": "2026-08-18",
-    "first_seen_at": "2026-08-18T12:12:28+09:00",
+  "B0G34SQSDD": {
+    "first_seen": "2026-07-31",
+    "first_seen_at": "2026-07-31T12:00:00+09:00",
     "last_seen": "2026-08-18",
-    "title": "DPVR G3 AIスマートグラス 800万画素 カメラ付きメガネ 録画 翻訳 AI画像認識 メガネ型カメラ オーディオグラス クリアレンズ"
+    "title": "DPVR G1 AIスマートグラス 800万画素 カメラ付きメガネ 録画 翻訳 AI画像認識 メガネ型カメラ オーディオグラス 調光レンズ"
   },
   "B0H7RLPTM7": {
     "first_seen": "2026-07-31",
@@ -569,12 +563,6 @@
     "last_seen": "2026-08-18",
     "title": "ロジクール ワイヤレスマウス PEBBLE MOUSE2 M350sGR 薄型 静音 Bluetooth Logi Bolt マウス 無線 ワイヤレス 左右対称 Easy-Switch 4000dpi 電池寿命24ケ月 windows mac Chrome Android iPad M350 グラファイト 国内正規品"
   },
-  "B0FL77NZXM": {
-    "first_seen": "2026-07-29",
-    "first_seen_at": "2026-07-29T12:00:00+09:00",
-    "last_seen": "2026-08-18",
-    "title": "エレコム ワイヤレスキーボード Precisionist プレシジョニスト Bluetooth 無線2.4GHz マルチペアリング4台 充電式 薄型パンタグラフ式 ミニサイズ ブラック TK-PN1075MPABK"
-  },
   "B08K2CHMWK": {
     "first_seen": "2026-08-04",
     "first_seen_at": "2026-08-04T18:28:41+09:00",
@@ -611,6 +599,54 @@
     "last_seen": "2026-08-18",
     "title": "アイリスオーヤマ 過熱水蒸気 エア フライヤー 3L 2～3人用 ノンオイルフライヤー スチーム機能 ジューシー FV-M30A-C アイボリー"
   },
+  "B0H33X4142": {
+    "first_seen": "2026-08-15",
+    "first_seen_at": "2026-08-15T06:42:05+09:00",
+    "last_seen": "2026-08-18",
+    "title": "【Amazon.co.jp限定】 Ninja ニンジャ Crispi クリスピー FN100JSTNR 自動調理器 3つの調理モード (クリスプ/ベイク・ロースト/リクリスプ) 煮る 焼く 蒸す 炒める 煮込む 炊く 温風調理 エアフライヤー ノンフライヤー FN100J ベージュ"
+  },
+  "B0FWDCW2VY": {
+    "first_seen": "2026-08-13",
+    "first_seen_at": "2026-08-13T21:03:23+09:00",
+    "last_seen": "2026-08-18",
+    "title": "Apple 11インチiPad Pro(M5):Ultra Retina XDR ディスプレイ、256GB、横向きの12MP フロント/バックカメラ、LiDAR スキャナ、Apple N1によるWi-Fi 7、Face ID、一日中使えるバッテリー - シルバー"
+  },
+  "B0FYFDD1WW": {
+    "first_seen": "2026-07-29",
+    "first_seen_at": "2026-07-29T12:00:00+09:00",
+    "last_seen": "2026-08-18",
+    "title": "UGREEN 160W 5口充電器 カラーディスプレイ搭載 Type-C 4C1A 5ポート PD3.0/PPS/QC4対応 折り畳み式"
+  },
+  "B0FJS3P8NT": {
+    "first_seen": "2026-07-27",
+    "first_seen_at": "2026-07-27T12:00:00+09:00",
+    "last_seen": "2026-08-18",
+    "title": "UGREEN 45W USB-C*4+USB-A*1 急速充電器 Type-C PD GaNⅡ充電器 PSE適合タイプc充電器 PD3.0/PPS/SCP/QC3.0"
+  },
+  "B0GF24NN7N": {
+    "first_seen": "2026-08-16",
+    "first_seen_at": "2026-08-16T22:04:14+09:00",
+    "last_seen": "2026-08-18",
+    "title": "Anker Nano Charger (45W, Display, スイングプラグ) ホワイト"
+  },
+  "B0DQL1SYFT": {
+    "first_seen": "2026-08-05",
+    "first_seen_at": "2026-08-05T21:15:31+09:00",
+    "last_seen": "2026-08-18",
+    "title": "IODATA ゲーミングモニター 23.8インチ GigaCrysta 240Hz ADSパネル 1ms ヒーラーホワイト 無輝点保証対応(HDMI×2/DisplayPort/VESA対応/土日サポート/日本メーカー) EX-GD242UDW"
+  },
+  "B0GYF753F1": {
+    "first_seen": "2026-08-18",
+    "first_seen_at": "2026-08-18T12:12:28+09:00",
+    "last_seen": "2026-08-18",
+    "title": "DPVR G3 AIスマートグラス 800万画素 カメラ付きメガネ 録画 翻訳 AI画像認識 メガネ型カメラ オーディオグラス クリアレンズ"
+  },
+  "B0FL77NZXM": {
+    "first_seen": "2026-07-29",
+    "first_seen_at": "2026-07-29T12:00:00+09:00",
+    "last_seen": "2026-08-18",
+    "title": "エレコム ワイヤレスキーボード Precisionist プレシジョニスト Bluetooth 無線2.4GHz マルチペアリング4台 充電式 薄型パンタグラフ式 ミニサイズ ブラック TK-PN1075MPABK"
+  },
   "B0F6NC41DZ": {
     "first_seen": "2026-08-06",
     "first_seen_at": "2026-08-06T21:18:24+09:00",
@@ -628,12 +664,6 @@
     "first_seen_at": "2026-08-11T22:42:11+09:00",
     "last_seen": "2026-08-18",
     "title": "UGREEN Air 65W PD 急速充電器 USB-C 超小型 GaNII"
-  },
-  "B0FWDC2FKB": {
-    "first_seen": "2026-08-13",
-    "first_seen_at": "2026-08-13T09:31:31+09:00",
-    "last_seen": "2026-08-18",
-    "title": "Apple 11インチiPad Pro(M5):Ultra Retina XDR ディスプレイ、256GB、横向きの12MP フロント/バックカメラ、LiDAR スキャナ、Apple N1によるWi-Fi 7、Face ID、一日中使えるバッテリー - スペースブラック"
   },
   "B0CSKFY1Q2": {
     "first_seen": "2026-08-13",
@@ -653,12 +683,6 @@
     "last_seen": "2026-08-18",
     "title": "Anker MagGo Power Bank (10000mAh, Slim) ブラック"
   },
-  "B0F9FHXPDF": {
-    "first_seen": "2026-07-27",
-    "first_seen_at": "2026-07-27T12:00:00+09:00",
-    "last_seen": "2026-08-18",
-    "title": "UGREEN 100W PD 急速充電器 USB-C×4/USB-A×1 タッチモニター搭載 PSE認証済 36*75*75mm"
-  },
   "B0DHTT13KN": {
     "first_seen": "2026-07-31",
     "first_seen_at": "2026-07-31T12:00:00+09:00",
@@ -670,18 +694,6 @@
     "first_seen_at": "2026-08-04T12:38:09+09:00",
     "last_seen": "2026-08-18",
     "title": "Belkin Apple Watch充電器 持ち運び USB-C ドングル ポータブル MFI認証 高速充電 全モデル対応"
-  },
-  "B0B75WHSGR": {
-    "first_seen": "2026-08-04",
-    "first_seen_at": "2026-08-04T12:38:09+09:00",
-    "last_seen": "2026-08-18",
-    "title": "Fitbit Inspire 3 フィットネストラッカー ライラックブリス／ブラック スマートウォッチ/iPhone対応/アンドロイド対応/最大10日間のバッテリー/心拍計/睡眠スコア [日本正規品]"
-  },
-  "B0G34SQSDD": {
-    "first_seen": "2026-07-31",
-    "first_seen_at": "2026-07-31T12:00:00+09:00",
-    "last_seen": "2026-08-18",
-    "title": "DPVR G1 AIスマートグラス 800万画素 カメラ付きメガネ 録画 翻訳 AI画像認識 メガネ型カメラ オーディオグラス 調光レンズ"
   },
   "B0FQBLK5NC": {
     "first_seen": "2026-08-18",
@@ -802,12 +814,6 @@
     "first_seen_at": "2026-08-07T09:18:51+09:00",
     "last_seen": "2026-08-17",
     "title": "Amazon Fire TV Cube(キューブ) | 究極の体験をハンズフリーで | ストリーミングメディアプレイヤー"
-  },
-  "B0H33X4142": {
-    "first_seen": "2026-08-15",
-    "first_seen_at": "2026-08-15T06:42:05+09:00",
-    "last_seen": "2026-08-17",
-    "title": "【Amazon.co.jp限定】 Ninja ニンジャ Crispi クリスピー FN100JSTNR 自動調理器 3つの調理モード (クリスプ/ベイク・ロースト/リクリスプ) 煮る 焼く 蒸す 炒める 煮込む 炊く 温風調理 エアフライヤー ノンフライヤー FN100J ベージュ"
   },
   "B0GQWFB3MV": {
     "first_seen": "2026-08-14",
@@ -1030,12 +1036,6 @@
     "first_seen_at": "2026-08-17T03:49:11+09:00",
     "last_seen": "2026-08-17",
     "title": "【Amazon.co.jp限定】Belkin BoostCharge モバイルバッテリー ディズプレイ付き (10000mAh 20W USB-Cケーブル内蔵) 最大20W PD高速充電対応 PPS対応 iPhone&Androidスマホ対応 2台同時充電 PSE認証 軽量&コンパクト 機内持込可能 保証2年 ピンク BPB027fqPK-A ※Amazon.co.jp限定 壁紙ダウンロード付き"
-  },
-  "B0DMN885ZF": {
-    "first_seen": "2026-08-05",
-    "first_seen_at": "2026-08-05T03:07:44+09:00",
-    "last_seen": "2026-08-17",
-    "title": "UGREEN 45W USB-C 急速充電器 Type-C PD GaNⅡ充電器 PSE適合タイプc充電器 PD/PPS/SCP/QC3.0"
   },
   "B0GR1TB3TP": {
     "first_seen": "2026-08-13",
