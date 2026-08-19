@@ -381,6 +381,32 @@ def parse_items(
     return items, no_discount, irrelevant, unknown_brand
 
 
+def notify_ntfy(topic: str, title: str, message: str, click_url: str = "") -> None:
+    """新着商品をntfy(https://ntfy.sh/)でプッシュ通知する。
+
+    トピック名はGitHub Secretsで管理し、リポジトリには書かない(公開
+    リポジトリなので、トピック名が漏れると誰でも通知を送りつけられる)。
+    ジャンルをまたいで同時に何件も新着が見つかることがあるため、
+    商品ごとではなく1回の実行につき1通にまとめて送る
+    """
+    if not topic:
+        return
+    payload: dict[str, str] = {"topic": topic, "title": title, "message": message}
+    if click_url:
+        payload["click"] = click_url
+    req = urllib.request.Request(
+        "https://ntfy.sh/",
+        data=json.dumps(payload).encode("utf-8"),
+        method="POST",
+        headers={"Content-Type": "application/json"},
+    )
+    try:
+        with urllib.request.urlopen(req, timeout=10):
+            pass
+    except (urllib.error.URLError, OSError) as e:
+        print(f"[warn] ntfy通知に失敗しました: {e}", file=sys.stderr)
+
+
 def load_state() -> dict:
     """商品(ASIN)ごとの初検出日を読む。壊れていたら中止する。
 
@@ -590,9 +616,12 @@ def main() -> int:
         datetime.timezone(datetime.timedelta(hours=9))
     ).isoformat(timespec="seconds")
     new_state = {}
+    new_items: list[str] = []
     for g in genres:
         for item in g["items"]:
             asin = item["asin"]
+            if asin not in state:
+                new_items.append(item["title"])
             prev = state.get(asin) or {}
             first_seen = prev.get("first_seen") or today
             # 「新着セール」を時間単位で出せるよう初検出の時刻も残す。
@@ -648,6 +677,18 @@ def main() -> int:
         encoding="utf-8",
     )
     print(f"saved: {OUTPUT_PATH}")
+
+    if new_items:
+        shown = new_items[:5]
+        rest = len(new_items) - len(shown)
+        summary = "、".join(shown) + (f"(ほか{rest}件)" if rest > 0 else "")
+        notify_ntfy(
+            os.environ.get("NTFY_TOPIC", ""),
+            f"家電ポチ: 新着{len(new_items)}件",
+            summary,
+            click_url=config.get("site_url", ""),
+        )
+
     return 0
 
 
