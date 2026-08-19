@@ -1,10 +1,4 @@
 {
-  "B0GRTJ7DZK": {
-    "first_seen": "2026-08-01",
-    "first_seen_at": "2026-08-01T09:01:16+09:00",
-    "last_seen": "2026-08-19",
-    "title": "Apple 13インチiPad Air（M4）：Liquid Retinaディスプレイ、1TB、12MPフロント/バックカメラ、Apple N1によるWi-Fi 7 + 5Gモバイル通信、Touch ID、一日中使えるバッテリー — スペースグレイ + 2年延長 AppleCare+ for iPad Air 13-inch (M4)|ダウンロード版"
-  },
   "B0GJTW9CL8": {
     "first_seen": "2026-08-07",
     "first_seen_at": "2026-08-07T09:18:51+09:00",
@@ -47,12 +41,6 @@
     "last_seen": "2026-08-19",
     "title": "Apple iPhone Air 512GB (SIMフリー)：史上最薄のiPhone、最大120HzのProMotionを採用した6.5インチディスプレイ、パワフルなA19 Proチップ、センターフレームフロントカメラ、一日中使えるバッテリー；スカイブルー"
   },
-  "B0FWDC2FKB": {
-    "first_seen": "2026-08-13",
-    "first_seen_at": "2026-08-13T09:31:31+09:00",
-    "last_seen": "2026-08-19",
-    "title": "Apple 11インチiPad Pro(M5):Ultra Retina XDR ディスプレイ、256GB、横向きの12MP フロント/バックカメラ、LiDAR スキャナ、Apple N1によるWi-Fi 7、Face ID、一日中使えるバッテリー - スペースブラック"
-  },
   "B0FWF4HS1R": {
     "first_seen": "2026-08-18",
     "first_seen_at": "2026-08-18T12:12:28+09:00",
@@ -64,12 +52,6 @@
     "first_seen_at": "2026-08-04T18:28:41+09:00",
     "last_seen": "2026-08-19",
     "title": "ソニー(SONY) 完全ワイヤレスイヤホン WF-C700N :高性能ノイズキャンセリング搭載/軽量・小型設計/音質アップスケール機能搭載/連続音楽再生時間最長 7.5時間/IPX4防滴性能/急速充電対応/クリアな通話性能/マルチポイント対応 ブラック WF-C700N BZ"
-  },
-  "B0CSKG1M9P": {
-    "first_seen": "2026-08-14",
-    "first_seen_at": "2026-08-14T21:00:27+09:00",
-    "last_seen": "2026-08-19",
-    "title": "Bose Ultra Open Earbuds 空間オーディオ イヤホン オープンイヤー 完全 ワイヤレス Bluetooth接続 マイク付 最大7.5時間再生 防滴 ホワイトスモーク"
   },
   "B0DDKHF9XY": {
     "first_seen": "2026-08-16",
@@ -89,17 +71,29 @@
     "last_seen": "2026-08-19",
     "title": "Bose QuietComfort Ultra Headphones（第2世代） 空間オーディオ 完全 ワイヤレス オーバーイヤー型 ヘッドホン ノイズキャンセリング Bluetooth接続 マイク搭載 最大30時間再生 急速充電 ブラック"
   },
+  "B0FL2HX17Q": {
+    "first_seen": "2026-08-19",
+    "first_seen_at": "2026-08-19T22:11:30+09:00",
+    "last_seen": "2026-08-19",
+    "title": "Bose Ultra Open Earbuds LE 空間オーディオ イヤホン オープンイヤー 完全 ワイヤレス Bluetooth接続 マイク付 最大7.5時間再生 防滴 デザートゴールド"
+  },
   "B0D4F34SB4": {
     "first_seen": "2026-07-24",
     "first_seen_at": "2026-07-24T12:00:00+09:00",
     "last_seen": "2026-08-19",
     "title": "UGREEN 145W 4-in-1モバイルバッテリー 20000mAh 15Wマグネット式ワイヤレス充電対応 3ポート"
   },
-  "B0CX4C1TVK": {
-    "first_seen": "2026-07-27",
-    "first_seen_at": "2026-07-27T12:00:00+09:00",
+  "B0F6NFHB31": {
+    "first_seen": "2026-07-25",
+    "first_seen_at": "2026-07-25T12:00:00+09:00",
     "last_seen": "2026-08-19",
-    "title": "Anker Power Bank (10000mAh, Fusion, Built-In USB-C ケーブル) ブラック"
+    "title": "UGREEN Air モバイルバッテリー マグネット式ワイヤレス充電 超薄型 MagSafe対応 5000mAh PB580 ダークグレー"
+  },
+  "B0CX4FKYCS": {
+    "first_seen": "2026-08-09",
+    "first_seen_at": "2026-08-09T22:18:05+09:00",
+    "last_seen": "2026-08-19",
+    "title": "Anker Power Bank (10000mAh, Fusion, Built-In USB-C ケーブル) ホワイト"
   },
   "B0F8HWR4Y9": {
     "first_seen": "2026-08-12",
@@ -107,29 +101,17 @@
     "last_seen": "2026-08-19",
     "title": "Belkin BoostCharge モバイルバッテリー ディズプレイ付き (10000mAh 20W USB-Cケーブル内蔵) 最大20W PD高速充電対応 PPS対応 iPhone 17,16～12対応&Androidスマホ対応 2台同時充電 PSE認証 軽量&コンパクト 機内持込可能 アウトドア/災害/緊急用の便利グッズ メーカー保証2年 ブルー BPB027fqBL"
   },
-  "B0DPQP8L9S": {
-    "first_seen": "2026-08-19",
-    "first_seen_at": "2026-08-19T20:42:45+09:00",
+  "B0F37VLJQW": {
+    "first_seen": "2026-08-07",
+    "first_seen_at": "2026-08-07T21:01:08+09:00",
     "last_seen": "2026-08-19",
-    "title": "UGREEN Qi2 15W ストラップ型 モバイルバッテリー マグネット式ワイヤレス充電 20000mAh USB-Cケーブル付き PB567"
-  },
-  "B0FF9L4ZH2": {
-    "first_seen": "2026-08-18",
-    "first_seen_at": "2026-08-18T00:43:27+09:00",
-    "last_seen": "2026-08-19",
-    "title": "エレコム モバイルバッテリー Qi2 ワイヤレス 10000mAh 20W USB-C USB-A 【機内持ち込み可/PSE技術基準適合/iPhone 16シリーズ対応】 ブラック EC-C38BK"
+    "title": "UGREEN MagFlow Qi2 25W認証 モバイルバッテリー Magsafe対応 マグネット式ワイヤレス急速充電 10000mAh 水色"
   },
   "B0D53XSFR8": {
     "first_seen": "2026-07-29",
     "first_seen_at": "2026-07-29T12:00:00+09:00",
     "last_seen": "2026-08-19",
     "title": "CIO モバイルバッテリー USB-Cケーブル内蔵 軽量 10000mAh SMARTCOBY Pro SLIM CABLE 35W (ブラック)"
-  },
-  "B0GSVP1PFB": {
-    "first_seen": "2026-08-13",
-    "first_seen_at": "2026-08-13T22:45:41+09:00",
-    "last_seen": "2026-08-19",
-    "title": "UGREEN×崩壊：スターレイル【爻光限定モデル】マグネット式モバイルバッテリー 10000mAh Qi2認証 15W MagSafe対応 PB570"
   },
   "B0G4Q8ZDF3": {
     "first_seen": "2026-07-31",
@@ -143,23 +125,11 @@
     "last_seen": "2026-08-19",
     "title": "Anker MagGo Power Bank (10000mAh, Slim) ブラック"
   },
-  "B0FRSR6BVR": {
-    "first_seen": "2026-08-07",
-    "first_seen_at": "2026-08-07T22:31:51+09:00",
-    "last_seen": "2026-08-19",
-    "title": "Belkin MagSafe対応 モバイルバッテリー 軽量 5000mAh USB-C 15W 薄型 iPhone対応 ブラック"
-  },
   "B0DNLVY85L": {
     "first_seen": "2026-08-11",
     "first_seen_at": "2026-08-11T18:18:36+09:00",
     "last_seen": "2026-08-19",
     "title": "Anker Nano Power Bank (10000mAh, 45W, 巻取り式 USB-Cケーブル) ブラック"
-  },
-  "B0DNLVPZ7J": {
-    "first_seen": "2026-08-16",
-    "first_seen_at": "2026-08-16T20:37:46+09:00",
-    "last_seen": "2026-08-19",
-    "title": "Anker Nano Power Bank (10000mAh, 45W, 巻取り式 USB-Cケーブル) ミントブルー"
   },
   "B0DNLTBVSD": {
     "first_seen": "2026-08-07",
@@ -167,17 +137,17 @@
     "last_seen": "2026-08-19",
     "title": "Anker Nano Power Bank (22.5W, Built-In USB-C Connector) ブルー"
   },
-  "B0CCJFY2V4": {
-    "first_seen": "2026-07-29",
-    "first_seen_at": "2026-07-29T12:00:00+09:00",
-    "last_seen": "2026-08-19",
-    "title": "Anker Nano Power Bank (22.5W, Built-In USB-C Connector) ブラック"
-  },
   "B0H38B1MLQ": {
     "first_seen": "2026-08-17",
     "first_seen_at": "2026-08-17T20:42:41+09:00",
     "last_seen": "2026-08-19",
     "title": "エレコム モバイルバッテリー 20000mAh 大容量 半固体電池 67W USB-C 2ポート USB-A PD対応 PPS対応 急速充電 3台同時充電 約2000回 長寿命 ノートパソコン対応 iPhone対応 PSE認証 ミッドナイト EC-C62MN"
+  },
+  "B0FRSSGMG9": {
+    "first_seen": "2026-08-19",
+    "first_seen_at": "2026-08-19T22:11:30+09:00",
+    "last_seen": "2026-08-19",
+    "title": "Belkin MagSafe対応 モバイルバッテリー 軽量 5000mAh USB-C 15W 薄型 iPhone対応 サンド"
   },
   "B098SQSRRV": {
     "first_seen": "2026-07-31",
@@ -203,17 +173,17 @@
     "last_seen": "2026-08-19",
     "title": "Belkin Cubic Charger 45W 充電器 type-c iphone 充電器 急速充電 PD3.2 PPS対応"
   },
-  "B0FVLXBXKR": {
-    "first_seen": "2026-08-16",
-    "first_seen_at": "2026-08-16T22:04:14+09:00",
+  "B0BN688W42": {
+    "first_seen": "2026-08-07",
+    "first_seen_at": "2026-08-07T22:31:51+09:00",
     "last_seen": "2026-08-19",
-    "title": "Belkin Qi2 車載ワイヤレス充電器 15W急速充電 MagSafe対応 スマホホルダー ダッシュボード用"
+    "title": "UGREEN Nexode急速充電器 65W Type-C 2C1A 3ポートPD/PPS/QC3.0/SCP/FCP対応 折り畳み式 ブルー"
   },
-  "B0B57H4FD3": {
-    "first_seen": "2026-08-15",
-    "first_seen_at": "2026-08-15T20:37:29+09:00",
+  "B0B2QR2VC9": {
+    "first_seen": "2026-08-06",
+    "first_seen_at": "2026-08-06T21:18:24+09:00",
     "last_seen": "2026-08-19",
-    "title": "Anker 511 Charger (Nano 3, 30W) パープル"
+    "title": "Anker 511 Charger (Nano 3, 30W) グリーン"
   },
   "B091BGMKYS": {
     "first_seen": "2026-07-27",
@@ -227,11 +197,11 @@
     "last_seen": "2026-08-19",
     "title": "Anker 523 Charger (Nano 3, 47W) ホワイト"
   },
-  "B0G7HPMG6C": {
-    "first_seen": "2026-08-14",
-    "first_seen_at": "2026-08-14T21:00:27+09:00",
+  "B0B38TWKVR": {
+    "first_seen": "2026-08-04",
+    "first_seen_at": "2026-08-04T08:22:12+09:00",
     "last_seen": "2026-08-19",
-    "title": "UGREEN Air急速充電器 65W Type-C 薄型設計 2C1A 3ポート 当社比67%小型化超薄モデル 折り畳み式"
+    "title": "UGREEN Nexode 45W PD充電器 タイプc USB-C*2 PD3.0/PPS急速充電器 PSE適合 GaNII"
   },
   "B0FYFDD1WW": {
     "first_seen": "2026-07-29",
@@ -244,12 +214,6 @@
     "first_seen_at": "2026-08-15T16:01:07+09:00",
     "last_seen": "2026-08-19",
     "title": "エレコム ワイヤレス充電器 Magsafe 3in1 15W iPhone/Apple Watch/AirPods 【Made for MagSafe/Apple Watch 正規認証】 ホワイト EC-MS07WH"
-  },
-  "B0FJMD3Y45": {
-    "first_seen": "2026-08-08",
-    "first_seen_at": "2026-08-08T23:50:56+09:00",
-    "last_seen": "2026-08-19",
-    "title": "UGREEN 充電器 type-c 30W (2*USB-C+1*USB-A) 【PSE技術基準適合/PD3.0対応/30W急速充電/コンパクト】 GaN アダプター iphone17/16/15/14/13/iPad/GalaxyS25-S10/Google Pixel/AirPodsなどに対応（ブルー）"
   },
   "B0DG93MZCR": {
     "first_seen": "2026-07-27",
@@ -275,23 +239,11 @@
     "last_seen": "2026-08-19",
     "title": "CIO NovaWave SPOT PLUG +C Qi2 ワイヤレス充電器 15W USB-C充電30W スマホホルダー (ホワイト)"
   },
-  "B0DMFFK5LV": {
-    "first_seen": "2026-07-29",
-    "first_seen_at": "2026-07-29T12:00:00+09:00",
-    "last_seen": "2026-08-19",
-    "title": "UGREEN 45W USB-C*2+USB-A*1 急速充電器 Type-C PD GaNⅡ充電器 PSE適合タイプc充電器 PD/PPS/SCP/QC3.0"
-  },
   "B0CSYVNBZX": {
     "first_seen": "2026-07-31",
     "first_seen_at": "2026-07-31T12:00:00+09:00",
     "last_seen": "2026-08-19",
     "title": "Belkin USB充電器 42W (30W USB-C + 12W USB-A) PPS対応 PD3.1 急速充電 iPhone17,16～12/ iPad/Androidスマホ・タブレット各種対応 折り畳みプラグ ホワイト WCB009dqWHJP"
-  },
-  "B0DHTT13KN": {
-    "first_seen": "2026-07-31",
-    "first_seen_at": "2026-07-31T12:00:00+09:00",
-    "last_seen": "2026-08-19",
-    "title": "Belkin Cubic Charger 45W 充電器 type-c iphone 充電器 急速充電 PD3.2 PPS対応 ホワイト"
   },
   "B0D6QQFMCS": {
     "first_seen": "2026-08-07",
@@ -323,6 +275,12 @@
     "last_seen": "2026-08-19",
     "title": "REGZA ゲーミングモニター 27インチ WQHD 240Hz モンスターハンターワイルズ推奨画質 1ms(GTG) HDR10 Fast IPSパネル Adaptive Sync HDMI対応 RM-G276N"
   },
+  "B0D47LXJBG": {
+    "first_seen": "2026-08-04",
+    "first_seen_at": "2026-08-04T12:38:09+09:00",
+    "last_seen": "2026-08-19",
+    "title": "Xiaomi Mini LED ゲーミングモニター G Pro 27i 27インチ 1152ゾーン Fast IPS 1msGTG高速応答 180Hz ピーク輝度1000nit 2560x1440 2K FreeSyncティアリング防止 sRGB100% DCI-P399% 高さ調整 VESAマウント対応 DP1.4x2、HDMI2.0x2"
+  },
   "B0DJBQLDWP": {
     "first_seen": "2026-08-06",
     "first_seen_at": "2026-08-06T18:54:32+09:00",
@@ -340,6 +298,12 @@
     "first_seen_at": "2026-08-11T00:18:46+09:00",
     "last_seen": "2026-08-19",
     "title": "【Amazon.co.jp限定】MSI ゲーミングモニター MAG 242C 23.6インチ/湾曲/フルHD/VAパネル/180Hz/1ms/HDMI/DPAdaptive-Sync/アンチモーションブラー/HDR/AIビジョン/メーカー3年保証"
+  },
+  "B0CHMD2LB6": {
+    "first_seen": "2026-08-04",
+    "first_seen_at": "2026-08-04T21:17:38+09:00",
+    "last_seen": "2026-08-19",
+    "title": "Dell AW2724HF 27インチ Alienware ゲーミングモニター"
   },
   "B0F8NPWRKK": {
     "first_seen": "2026-08-19",
@@ -371,17 +335,17 @@
     "last_seen": "2026-08-19",
     "title": "SwitchBot スイッチボット スイッチ ボタンに適用 指ロボット スマートスイッチ スマートホーム ワイヤレス タイマー スマホで遠隔操作 Alexa, Google Home, Siri, IFTTTなどに対応(ハブ必要) ホワイト"
   },
-  "B0FLJD3NX4": {
-    "first_seen": "2026-08-04",
-    "first_seen_at": "2026-08-04T21:17:38+09:00",
-    "last_seen": "2026-08-19",
-    "title": "【セット買い】SwitchBot ハブミニ(Matter対応) 学習リモコン リモコンセット スイッチボット スマートリモコン 赤外線家電・SwitchBotデバイスをまとめて管理・操作 シーンでデバイスを一括操作 オートメーション スマートホーム Echo Google Home Siri IFTTT SmartThings対応"
-  },
   "B0GQRLL8Q4": {
     "first_seen": "2026-07-30",
     "first_seen_at": "2026-07-30T12:00:00+09:00",
     "last_seen": "2026-08-19",
     "title": "【セット買い】SwitchBot スマートリモコン ハブ2 スマートデイリーステーション 温湿度計 - スイッチボット 天気ステーション 遠隔確認 スマートホーム Alexa Google Home Siriに対応(ハブ2 1点+スマートデイリーステーション 1点)"
+  },
+  "B0FQBQP9RK": {
+    "first_seen": "2026-08-16",
+    "first_seen_at": "2026-08-16T22:46:39+09:00",
+    "last_seen": "2026-08-19",
+    "title": "【Amazon.co.jp限定】 SwitchBot スマートリモコン ハブミニ(Matter対応) 温湿度管理 パネル - スイッチボット エアコン操作 赤外線家電を管理 温湿度計 スマートホーム アラート通知 節電·省エネ"
   },
   "B0FKH3WQ41": {
     "first_seen": "2026-07-30",
@@ -389,17 +353,23 @@
     "last_seen": "2026-08-19",
     "title": "HUAWEI WATCH GT 6 Pro 46mm スマートウォッチ 1.47インチ大画面 最長21日間バッテリー サイクリング/登山/進化したゴルフナビ スポーツモード100種類以上 GPS搭載 心電図分析 健康/情緒モニタリング iOS/Android対応 ブラック"
   },
-  "B0F5WN8DWD": {
-    "first_seen": "2026-08-08",
-    "first_seen_at": "2026-08-08T20:45:39+09:00",
+  "B0FKH268LS": {
+    "first_seen": "2026-07-30",
+    "first_seen_at": "2026-07-30T12:00:00+09:00",
     "last_seen": "2026-08-19",
-    "title": "HUAWEI WATCH FIT 4 スマートウォッチ 薄型軽量 1.82インチ大画面 アウトドアに適した気圧計と測位システム 通知 フィットネス ヘルストラッカー 情緒測定 10日間ロングバッテリー iOS/Android ホワイト"
+    "title": "HUAWEI WATCH GT 6 46mm スマートウォッチ 1.47インチ大画面 最長21日間バッテリー ゴルフ/サイクリング/登山 スポーツモード100種類以上 GPS搭載 情緒/健康モニタリング iOS & Android対応 ブラック"
   },
   "B0GZ294HH3": {
     "first_seen": "2026-08-16",
     "first_seen_at": "2026-08-16T00:38:29+09:00",
     "last_seen": "2026-08-19",
     "title": "GARMIN(ガーミン)スマートウォッチ Forerunner 170 Black/Amp Yellow スマートウォッチモード 約 10 日間 高精度GPS ランニングウォッチ iOS/Android AMOLEDディスプレイ1.2インチ マラソン 軽量 防水 心拍数 睡眠スコア 健康管理 Suicaタッチ決済 Garmin Pay"
+  },
+  "B0F5WNVHH7": {
+    "first_seen": "2026-07-30",
+    "first_seen_at": "2026-07-30T12:00:00+09:00",
+    "last_seen": "2026-08-19",
+    "title": "HUAWEI WATCH FIT 4 スマートウォッチ 薄型軽量 1.82インチ大画面 アウトドアに適した気圧計と測位システム 通知 フィットネス ヘルストラッカー 情緒測定 10日間ロングバッテリー iOS/Android対応 ブラック"
   },
   "B0G529YNFK": {
     "first_seen": "2026-08-17",
@@ -431,11 +401,11 @@
     "last_seen": "2026-08-19",
     "title": "XREAL xbx a01+とXREAL Beam Pro 5G版(8+256GB) 空間エンタメセット"
   },
-  "B0G34SQSDD": {
-    "first_seen": "2026-07-31",
-    "first_seen_at": "2026-07-31T12:00:00+09:00",
+  "B0GYF753F1": {
+    "first_seen": "2026-08-18",
+    "first_seen_at": "2026-08-18T12:12:28+09:00",
     "last_seen": "2026-08-19",
-    "title": "DPVR G1 AIスマートグラス 800万画素 カメラ付きメガネ 録画 翻訳 AI画像認識 メガネ型カメラ オーディオグラス 調光レンズ"
+    "title": "DPVR G3 AIスマートグラス 800万画素 カメラ付きメガネ 録画 翻訳 AI画像認識 メガネ型カメラ オーディオグラス クリアレンズ"
   },
   "B0H7RLPTM7": {
     "first_seen": "2026-07-31",
@@ -461,12 +431,6 @@
     "last_seen": "2026-08-19",
     "title": "【リニューアル】 エレコム ワイヤレスマウス 静音 充電式 OSMOD Six Bluetooth 無線2.4GHz両対応 2台まで接続 マルチペアリング 6ボタン ブラック M-MY35MBSABK"
   },
-  "B0B2ZT2HRJ": {
-    "first_seen": "2026-07-26",
-    "first_seen_at": "2026-07-26T12:00:00+09:00",
-    "last_seen": "2026-08-19",
-    "title": "ロジクール SIGNATURE K855GR 無線 メカニカルキーボード TTC製 赤軸 リニア Bluetooth Logi Bolt Unifying非対応 コンパクト 日本語配列 小型 テンキーレス メカニカル ワイヤレス キーボード グラファイト windows mac Chrome Android K855 国内正規品"
-  },
   "B0B8NLL6B6": {
     "first_seen": "2026-08-02",
     "first_seen_at": "2026-08-02T18:25:14+09:00",
@@ -491,23 +455,11 @@
     "last_seen": "2026-08-19",
     "title": "ロジクール ワイヤレスマウス 静音 無線 高速スクロール Signature M750MGR レギュラー グラファイト M750 国内正規品"
   },
-  "B0GL1FYWQ5": {
-    "first_seen": "2026-08-04",
-    "first_seen_at": "2026-08-04T21:17:38+09:00",
-    "last_seen": "2026-08-19",
-    "title": "東プレ REALFORCE GX1 Plus νガンダム (ニューガンダム) 英語配列 ゲーミングキーボード X1PDN1 KB0938"
-  },
   "B08K2RGTHY": {
     "first_seen": "2026-07-26",
     "first_seen_at": "2026-07-26T12:00:00+09:00",
     "last_seen": "2026-08-19",
     "title": "ロジクール ワイヤレスマウス キーボード セット MK295GP 静音 耐水 無線 USB接続 Unifying非対応 MK295 グラファイト 国内正規品"
-  },
-  "B0BKP5R91F": {
-    "first_seen": "2026-08-04",
-    "first_seen_at": "2026-08-04T12:38:09+09:00",
-    "last_seen": "2026-08-19",
-    "title": "ロジクール ワイヤレスマウス 静音 無線 高速スクロール Signature M550MGR レギュラー グラファイト 国内正規品"
   },
   "B09Q5SHDR3": {
     "first_seen": "2026-07-26",
@@ -515,11 +467,11 @@
     "last_seen": "2026-08-19",
     "title": "ロジクール ワイヤレスマウス 静音 無線 高速スクロール Signature M650MGR レギュラー グラファイト M650 国内正規品"
   },
-  "B0CJR7N5MG": {
-    "first_seen": "2026-08-07",
-    "first_seen_at": "2026-08-07T22:31:51+09:00",
+  "B0CJR74NF3": {
+    "first_seen": "2026-08-13",
+    "first_seen_at": "2026-08-13T22:45:41+09:00",
     "last_seen": "2026-08-19",
-    "title": "ロジクール ワイヤレスマウス PEBBLE MOUSE2 M350sBL 薄型 静音 Bluetooth Logi Bolt マウス 無線 ワイヤレス 左右対称 Easy-Switch 4000dpi 電池寿命24ケ月 windows mac Chrome Android iPad M350 ブルー 国内正規品"
+    "title": "ロジクール ワイヤレスマウス PEBBLE MOUSE2 M350sGY 薄型 静音 Bluetooth Logi Bolt マウス 無線 ワイヤレス 左右対称 Easy-Switch 4000dpi 電池寿命24ケ月 windows mac Chrome Android iPad M350 グレージュ 国内正規品"
   },
   "B08K2CHMWK": {
     "first_seen": "2026-08-04",
@@ -527,23 +479,11 @@
     "last_seen": "2026-08-19",
     "title": "ロジクール ワイヤレスキーボード K295GP 静音 耐水 キーボード 無線 Unifying K295 グラファイト 国内正規品"
   },
-  "B07DVC25R2": {
-    "first_seen": "2026-07-26",
-    "first_seen_at": "2026-07-26T12:00:00+09:00",
+  "B0CJR82M5M": {
+    "first_seen": "2026-08-04",
+    "first_seen_at": "2026-08-04T21:17:38+09:00",
     "last_seen": "2026-08-19",
-    "title": "Logicool G ゲーミングマウス G304 LIGHTSPEED ワイヤレス ゲーミング マウス 軽量 99g HERO 12Kセンサー 6個プログラムボタン 250時間連続使用可能 ブラック PC windows mac 国内正規品 【 ファイナルファンタジー XIV 推奨モデル 】"
-  },
-  "B0CJR8MJTK": {
-    "first_seen": "2026-08-06",
-    "first_seen_at": "2026-08-06T21:18:24+09:00",
-    "last_seen": "2026-08-19",
-    "title": "ロジクール ワイヤレスキーボード PEBBLE KEYS 2 K380sBL 薄型 軽量 415g 小型 Bluetooth Logi Bolt ワイヤレス 無線 キーボード Easy-Switch 日本語配列 電池寿命36ケ月 Windows Mac iPad iOS Android Chrome K380s ブルー 国内正規品"
-  },
-  "B0C65MQZ65": {
-    "first_seen": "2026-07-26",
-    "first_seen_at": "2026-07-26T12:00:00+09:00",
-    "last_seen": "2026-08-19",
-    "title": "ロジクール MX ANYWHERE 3S MX1800GR 静音 マウス Bluetooth Logi Bolt Unifying非対応 コンパクト Smart Actions 対応 高速スクロールホイール 充電式 ワイヤレスマウス 無線 Windows Mac Chrome iPad OS Android MX1800 グラファイト 国内正規品"
+    "title": "ロジクール ワイヤレスキーボード PEBBLE KEYS 2 K380sOW 薄型 軽量 415g 小型 Bluetooth Logi Bolt ワイヤレス 無線 キーボード Easy-Switch 日本語配列 電池寿命36ケ月 Windows Mac iPad iOS Android Chrome K380s オフホワイト 国内正規品"
   },
   "B0CZ8X3DH8": {
     "first_seen": "2026-07-26",
@@ -551,11 +491,17 @@
     "last_seen": "2026-08-19",
     "title": "ロジクール SIGNATURE SLIM ワイヤレス キーボード K950GR 薄型 静かなタイピング Bluetooth Logi Bolt ワイヤレスキーボード テンキー 無線 Easy-Switch 日本語配列 電池寿命36ケ月 Windows Mac Chrome Android K950 グラファイト 国内正規品"
   },
-  "B0FP24CSYK": {
-    "first_seen": "2026-08-09",
-    "first_seen_at": "2026-08-09T19:54:50+09:00",
+  "B0FR8M3WS8": {
+    "first_seen": "2026-08-14",
+    "first_seen_at": "2026-08-14T21:00:27+09:00",
     "last_seen": "2026-08-19",
-    "title": "Logicool G ラピッドトリガー G515 RAPID TKL 薄型 ゲーミングキーボード G515-TKL-RTBK アクチュエーションポイント 調整可能 日本語配列 押下圧 35g 有線 テンキーレス 磁気式アナログスイッチ ロープロファイル LIGHTSYNC RGB ゲーミング キーボード メカニカルキーボード ラピトリ ブラック windows 国内正規品"
+    "title": "ロジクール MX MASTER 4 アドバンスド ワイヤレス マウス 触覚フィードバック 静音 MX2400GR Logi Bolt Bluetooth Unifying非対応 8000dpi 高速スクロールホイール USB-C 充電式 無線 MX2400 グラファイト 国内正規品"
+  },
+  "B0C65MQZ65": {
+    "first_seen": "2026-07-26",
+    "first_seen_at": "2026-07-26T12:00:00+09:00",
+    "last_seen": "2026-08-19",
+    "title": "ロジクール MX ANYWHERE 3S MX1800GR 静音 マウス Bluetooth Logi Bolt Unifying非対応 コンパクト Smart Actions 対応 高速スクロールホイール 充電式 ワイヤレスマウス 無線 Windows Mac Chrome iPad OS Android MX1800 グラファイト 国内正規品"
   },
   "B0G4CC1S2F": {
     "first_seen": "2026-07-24",
@@ -569,23 +515,167 @@
     "last_seen": "2026-08-19",
     "title": "【Amazon.co.jp限定】 Ninja ニンジャ Crispi クリスピー FN100JGYNR 自動調理器 3つの調理モード (クリスプ/ベイク・ロースト/リクリスプ) 煮る 焼く 蒸す 炒める 煮込む 炊く 温風調理 エアフライヤー ノンフライヤー FN100J ネイビー"
   },
+  "B0GRTJ7DZK": {
+    "first_seen": "2026-08-01",
+    "first_seen_at": "2026-08-01T09:01:16+09:00",
+    "last_seen": "2026-08-19",
+    "title": "Apple 13インチiPad Air（M4）：Liquid Retinaディスプレイ、1TB、12MPフロント/バックカメラ、Apple N1によるWi-Fi 7 + 5Gモバイル通信、Touch ID、一日中使えるバッテリー — スペースグレイ + 2年延長 AppleCare+ for iPad Air 13-inch (M4)|ダウンロード版"
+  },
+  "B0FWDC2FKB": {
+    "first_seen": "2026-08-13",
+    "first_seen_at": "2026-08-13T09:31:31+09:00",
+    "last_seen": "2026-08-19",
+    "title": "Apple 11インチiPad Pro(M5):Ultra Retina XDR ディスプレイ、256GB、横向きの12MP フロント/バックカメラ、LiDAR スキャナ、Apple N1によるWi-Fi 7、Face ID、一日中使えるバッテリー - スペースブラック"
+  },
+  "B0CSKG1M9P": {
+    "first_seen": "2026-08-14",
+    "first_seen_at": "2026-08-14T21:00:27+09:00",
+    "last_seen": "2026-08-19",
+    "title": "Bose Ultra Open Earbuds 空間オーディオ イヤホン オープンイヤー 完全 ワイヤレス Bluetooth接続 マイク付 最大7.5時間再生 防滴 ホワイトスモーク"
+  },
+  "B0CX4C1TVK": {
+    "first_seen": "2026-07-27",
+    "first_seen_at": "2026-07-27T12:00:00+09:00",
+    "last_seen": "2026-08-19",
+    "title": "Anker Power Bank (10000mAh, Fusion, Built-In USB-C ケーブル) ブラック"
+  },
+  "B0DPQP8L9S": {
+    "first_seen": "2026-08-19",
+    "first_seen_at": "2026-08-19T20:42:45+09:00",
+    "last_seen": "2026-08-19",
+    "title": "UGREEN Qi2 15W ストラップ型 モバイルバッテリー マグネット式ワイヤレス充電 20000mAh USB-Cケーブル付き PB567"
+  },
+  "B0FF9L4ZH2": {
+    "first_seen": "2026-08-18",
+    "first_seen_at": "2026-08-18T00:43:27+09:00",
+    "last_seen": "2026-08-19",
+    "title": "エレコム モバイルバッテリー Qi2 ワイヤレス 10000mAh 20W USB-C USB-A 【機内持ち込み可/PSE技術基準適合/iPhone 16シリーズ対応】 ブラック EC-C38BK"
+  },
+  "B0GSVP1PFB": {
+    "first_seen": "2026-08-13",
+    "first_seen_at": "2026-08-13T22:45:41+09:00",
+    "last_seen": "2026-08-19",
+    "title": "UGREEN×崩壊：スターレイル【爻光限定モデル】マグネット式モバイルバッテリー 10000mAh Qi2認証 15W MagSafe対応 PB570"
+  },
+  "B0FRSR6BVR": {
+    "first_seen": "2026-08-07",
+    "first_seen_at": "2026-08-07T22:31:51+09:00",
+    "last_seen": "2026-08-19",
+    "title": "Belkin MagSafe対応 モバイルバッテリー 軽量 5000mAh USB-C 15W 薄型 iPhone対応 ブラック"
+  },
+  "B0DNLVPZ7J": {
+    "first_seen": "2026-08-16",
+    "first_seen_at": "2026-08-16T20:37:46+09:00",
+    "last_seen": "2026-08-19",
+    "title": "Anker Nano Power Bank (10000mAh, 45W, 巻取り式 USB-Cケーブル) ミントブルー"
+  },
+  "B0CCJFY2V4": {
+    "first_seen": "2026-07-29",
+    "first_seen_at": "2026-07-29T12:00:00+09:00",
+    "last_seen": "2026-08-19",
+    "title": "Anker Nano Power Bank (22.5W, Built-In USB-C Connector) ブラック"
+  },
+  "B0FVLXBXKR": {
+    "first_seen": "2026-08-16",
+    "first_seen_at": "2026-08-16T22:04:14+09:00",
+    "last_seen": "2026-08-19",
+    "title": "Belkin Qi2 車載ワイヤレス充電器 15W急速充電 MagSafe対応 スマホホルダー ダッシュボード用"
+  },
+  "B0B57H4FD3": {
+    "first_seen": "2026-08-15",
+    "first_seen_at": "2026-08-15T20:37:29+09:00",
+    "last_seen": "2026-08-19",
+    "title": "Anker 511 Charger (Nano 3, 30W) パープル"
+  },
+  "B0G7HPMG6C": {
+    "first_seen": "2026-08-14",
+    "first_seen_at": "2026-08-14T21:00:27+09:00",
+    "last_seen": "2026-08-19",
+    "title": "UGREEN Air急速充電器 65W Type-C 薄型設計 2C1A 3ポート 当社比67%小型化超薄モデル 折り畳み式"
+  },
+  "B0FJMD3Y45": {
+    "first_seen": "2026-08-08",
+    "first_seen_at": "2026-08-08T23:50:56+09:00",
+    "last_seen": "2026-08-19",
+    "title": "UGREEN 充電器 type-c 30W (2*USB-C+1*USB-A) 【PSE技術基準適合/PD3.0対応/30W急速充電/コンパクト】 GaN アダプター iphone17/16/15/14/13/iPad/GalaxyS25-S10/Google Pixel/AirPodsなどに対応（ブルー）"
+  },
+  "B0DMFFK5LV": {
+    "first_seen": "2026-07-29",
+    "first_seen_at": "2026-07-29T12:00:00+09:00",
+    "last_seen": "2026-08-19",
+    "title": "UGREEN 45W USB-C*2+USB-A*1 急速充電器 Type-C PD GaNⅡ充電器 PSE適合タイプc充電器 PD/PPS/SCP/QC3.0"
+  },
+  "B0DHTT13KN": {
+    "first_seen": "2026-07-31",
+    "first_seen_at": "2026-07-31T12:00:00+09:00",
+    "last_seen": "2026-08-19",
+    "title": "Belkin Cubic Charger 45W 充電器 type-c iphone 充電器 急速充電 PD3.2 PPS対応 ホワイト"
+  },
+  "B0FLJD3NX4": {
+    "first_seen": "2026-08-04",
+    "first_seen_at": "2026-08-04T21:17:38+09:00",
+    "last_seen": "2026-08-19",
+    "title": "【セット買い】SwitchBot ハブミニ(Matter対応) 学習リモコン リモコンセット スイッチボット スマートリモコン 赤外線家電・SwitchBotデバイスをまとめて管理・操作 シーンでデバイスを一括操作 オートメーション スマートホーム Echo Google Home Siri IFTTT SmartThings対応"
+  },
+  "B0F5WN8DWD": {
+    "first_seen": "2026-08-08",
+    "first_seen_at": "2026-08-08T20:45:39+09:00",
+    "last_seen": "2026-08-19",
+    "title": "HUAWEI WATCH FIT 4 スマートウォッチ 薄型軽量 1.82インチ大画面 アウトドアに適した気圧計と測位システム 通知 フィットネス ヘルストラッカー 情緒測定 10日間ロングバッテリー iOS/Android ホワイト"
+  },
+  "B0G34SQSDD": {
+    "first_seen": "2026-07-31",
+    "first_seen_at": "2026-07-31T12:00:00+09:00",
+    "last_seen": "2026-08-19",
+    "title": "DPVR G1 AIスマートグラス 800万画素 カメラ付きメガネ 録画 翻訳 AI画像認識 メガネ型カメラ オーディオグラス 調光レンズ"
+  },
+  "B0B2ZT2HRJ": {
+    "first_seen": "2026-07-26",
+    "first_seen_at": "2026-07-26T12:00:00+09:00",
+    "last_seen": "2026-08-19",
+    "title": "ロジクール SIGNATURE K855GR 無線 メカニカルキーボード TTC製 赤軸 リニア Bluetooth Logi Bolt Unifying非対応 コンパクト 日本語配列 小型 テンキーレス メカニカル ワイヤレス キーボード グラファイト windows mac Chrome Android K855 国内正規品"
+  },
+  "B0GL1FYWQ5": {
+    "first_seen": "2026-08-04",
+    "first_seen_at": "2026-08-04T21:17:38+09:00",
+    "last_seen": "2026-08-19",
+    "title": "東プレ REALFORCE GX1 Plus νガンダム (ニューガンダム) 英語配列 ゲーミングキーボード X1PDN1 KB0938"
+  },
+  "B0BKP5R91F": {
+    "first_seen": "2026-08-04",
+    "first_seen_at": "2026-08-04T12:38:09+09:00",
+    "last_seen": "2026-08-19",
+    "title": "ロジクール ワイヤレスマウス 静音 無線 高速スクロール Signature M550MGR レギュラー グラファイト 国内正規品"
+  },
+  "B0CJR7N5MG": {
+    "first_seen": "2026-08-07",
+    "first_seen_at": "2026-08-07T22:31:51+09:00",
+    "last_seen": "2026-08-19",
+    "title": "ロジクール ワイヤレスマウス PEBBLE MOUSE2 M350sBL 薄型 静音 Bluetooth Logi Bolt マウス 無線 ワイヤレス 左右対称 Easy-Switch 4000dpi 電池寿命24ケ月 windows mac Chrome Android iPad M350 ブルー 国内正規品"
+  },
+  "B07DVC25R2": {
+    "first_seen": "2026-07-26",
+    "first_seen_at": "2026-07-26T12:00:00+09:00",
+    "last_seen": "2026-08-19",
+    "title": "Logicool G ゲーミングマウス G304 LIGHTSPEED ワイヤレス ゲーミング マウス 軽量 99g HERO 12Kセンサー 6個プログラムボタン 250時間連続使用可能 ブラック PC windows mac 国内正規品 【 ファイナルファンタジー XIV 推奨モデル 】"
+  },
+  "B0CJR8MJTK": {
+    "first_seen": "2026-08-06",
+    "first_seen_at": "2026-08-06T21:18:24+09:00",
+    "last_seen": "2026-08-19",
+    "title": "ロジクール ワイヤレスキーボード PEBBLE KEYS 2 K380sBL 薄型 軽量 415g 小型 Bluetooth Logi Bolt ワイヤレス 無線 キーボード Easy-Switch 日本語配列 電池寿命36ケ月 Windows Mac iPad iOS Android Chrome K380s ブルー 国内正規品"
+  },
+  "B0FP24CSYK": {
+    "first_seen": "2026-08-09",
+    "first_seen_at": "2026-08-09T19:54:50+09:00",
+    "last_seen": "2026-08-19",
+    "title": "Logicool G ラピッドトリガー G515 RAPID TKL 薄型 ゲーミングキーボード G515-TKL-RTBK アクチュエーションポイント 調整可能 日本語配列 押下圧 35g 有線 テンキーレス 磁気式アナログスイッチ ロープロファイル LIGHTSYNC RGB ゲーミング キーボード メカニカルキーボード ラピトリ ブラック windows 国内正規品"
+  },
   "B0CSKFY1Q2": {
     "first_seen": "2026-08-13",
     "first_seen_at": "2026-08-13T22:45:41+09:00",
     "last_seen": "2026-08-19",
     "title": "Bose Ultra Open Earbuds 空間オーディオ イヤホン オープンイヤー 完全 ワイヤレス Bluetooth接続 マイク付 最大7.5時間再生 防滴 ブラック"
-  },
-  "B0F6NFHB31": {
-    "first_seen": "2026-07-25",
-    "first_seen_at": "2026-07-25T12:00:00+09:00",
-    "last_seen": "2026-08-19",
-    "title": "UGREEN Air モバイルバッテリー マグネット式ワイヤレス充電 超薄型 MagSafe対応 5000mAh PB580 ダークグレー"
-  },
-  "B0F37VLJQW": {
-    "first_seen": "2026-08-07",
-    "first_seen_at": "2026-08-07T21:01:08+09:00",
-    "last_seen": "2026-08-19",
-    "title": "UGREEN MagFlow Qi2 25W認証 モバイルバッテリー Magsafe対応 マグネット式ワイヤレス急速充電 10000mAh 水色"
   },
   "B0FKGYZYZZ": {
     "first_seen": "2026-07-31",
@@ -616,18 +706,6 @@
     "first_seen_at": "2026-08-05T21:15:31+09:00",
     "last_seen": "2026-08-19",
     "title": "IODATA ゲーミングモニター 23.8インチ GigaCrysta 240Hz ADSパネル 1ms ヒーラーホワイト 無輝点保証対応(HDMI×2/DisplayPort/VESA対応/土日サポート/日本メーカー) EX-GD242UDW"
-  },
-  "B0FKH268LS": {
-    "first_seen": "2026-07-30",
-    "first_seen_at": "2026-07-30T12:00:00+09:00",
-    "last_seen": "2026-08-19",
-    "title": "HUAWEI WATCH GT 6 46mm スマートウォッチ 1.47インチ大画面 最長21日間バッテリー ゴルフ/サイクリング/登山 スポーツモード100種類以上 GPS搭載 情緒/健康モニタリング iOS & Android対応 ブラック"
-  },
-  "B0F5WNVHH7": {
-    "first_seen": "2026-07-30",
-    "first_seen_at": "2026-07-30T12:00:00+09:00",
-    "last_seen": "2026-08-19",
-    "title": "HUAWEI WATCH FIT 4 スマートウォッチ 薄型軽量 1.82インチ大画面 アウトドアに適した気圧計と測位システム 通知 フィットネス ヘルストラッカー 情緒測定 10日間ロングバッテリー iOS/Android対応 ブラック"
   },
   "B0H7RTQQ4H": {
     "first_seen": "2026-07-31",
@@ -670,12 +748,6 @@
     "first_seen_at": "2026-07-31T12:00:00+09:00",
     "last_seen": "2026-08-19",
     "title": "【VGP受賞】Belkin 充電器 USB-C 2ポート PPS規格対応 GaN採用 小型 ACアダプター タイプC 急速充電 軽量【PD3.0対応 /PSE認証/折りたたみ式プラグ】45W(25W+20W) MacBook Windows PC Surface Pro iPad iPhone 17,16～12対応 Galaxy Android スマホ 各種ノートPC対応 WCH011dqWH"
-  },
-  "B0GYF753F1": {
-    "first_seen": "2026-08-18",
-    "first_seen_at": "2026-08-18T12:12:28+09:00",
-    "last_seen": "2026-08-19",
-    "title": "DPVR G3 AIスマートグラス 800万画素 カメラ付きメガネ 録画 翻訳 AI画像認識 メガネ型カメラ オーディオグラス クリアレンズ"
   },
   "B0CH2X5LBX": {
     "first_seen": "2026-07-30",
@@ -767,12 +839,6 @@
     "last_seen": "2026-08-19",
     "title": "SwitchBot スマートLED電球2個入り＋スマートLEDテープライト"
   },
-  "B0FQBQP9RK": {
-    "first_seen": "2026-08-16",
-    "first_seen_at": "2026-08-16T22:46:39+09:00",
-    "last_seen": "2026-08-19",
-    "title": "【Amazon.co.jp限定】 SwitchBot スマートリモコン ハブミニ(Matter対応) 温湿度管理 パネル - スイッチボット エアコン操作 赤外線家電を管理 温湿度計 スマートホーム アラート通知 節電·省エネ"
-  },
   "B0F4VTYV9H": {
     "first_seen": "2026-08-19",
     "first_seen_at": "2026-08-19T00:48:17+09:00",
@@ -827,12 +893,6 @@
     "last_seen": "2026-08-18",
     "title": "【 サンディスク 正規品 】 SanDisk microSD カード Ultra SDSQUAC-512G-GH3MA 簡易デザインパッケージ"
   },
-  "B0CHMD2LB6": {
-    "first_seen": "2026-08-04",
-    "first_seen_at": "2026-08-04T21:17:38+09:00",
-    "last_seen": "2026-08-18",
-    "title": "Dell AW2724HF 27インチ Alienware ゲーミングモニター"
-  },
   "B099MXK6P8": {
     "first_seen": "2026-08-16",
     "first_seen_at": "2026-08-16T20:37:46+09:00",
@@ -869,12 +929,6 @@
     "last_seen": "2026-08-18",
     "title": "UGREEN 充電器 type-c 30W (2*USB-C+1*USB-A) 【PSE技術基準適合/PD3.0対応/30W急速充電/コンパクト】 GaN アダプター iphone17/16/15/14/13/iPad/GalaxyS25-S10/Google Pixel/AirPodsなどに対応（ピンク）"
   },
-  "B0D47LXJBG": {
-    "first_seen": "2026-08-04",
-    "first_seen_at": "2026-08-04T12:38:09+09:00",
-    "last_seen": "2026-08-18",
-    "title": "Xiaomi Mini LED ゲーミングモニター G Pro 27i 27インチ 1152ゾーン Fast IPS 1msGTG高速応答 180Hz ピーク輝度1000nit 2560x1440 2K FreeSyncティアリング防止 sRGB100% DCI-P399% 高さ調整 VESAマウント対応 DP1.4x2、HDMI2.0x2"
-  },
   "B0CM8RYF2Q": {
     "first_seen": "2026-08-04",
     "first_seen_at": "2026-08-04T21:17:38+09:00",
@@ -892,12 +946,6 @@
     "first_seen_at": "2026-08-06T21:18:24+09:00",
     "last_seen": "2026-08-18",
     "title": "ロジクール ワイヤレスマウス キーボード セット MK295OW 静音 耐水 無線 USB接続 Unifying非対応 MK295 オフホワイト 国内正規品"
-  },
-  "B0CJR74NF3": {
-    "first_seen": "2026-08-13",
-    "first_seen_at": "2026-08-13T22:45:41+09:00",
-    "last_seen": "2026-08-18",
-    "title": "ロジクール ワイヤレスマウス PEBBLE MOUSE2 M350sGY 薄型 静音 Bluetooth Logi Bolt マウス 無線 ワイヤレス 左右対称 Easy-Switch 4000dpi 電池寿命24ケ月 windows mac Chrome Android iPad M350 グレージュ 国内正規品"
   },
   "B08K2V1B28": {
     "first_seen": "2026-08-06",
@@ -1157,12 +1205,6 @@
     "last_seen": "2026-08-17",
     "title": "Anker Nano Charger (70W, 3 Ports) ピンク"
   },
-  "B0BN688W42": {
-    "first_seen": "2026-08-07",
-    "first_seen_at": "2026-08-07T22:31:51+09:00",
-    "last_seen": "2026-08-17",
-    "title": "UGREEN Nexode急速充電器 65W Type-C 2C1A 3ポートPD/PPS/QC3.0/SCP/FCP対応 折り畳み式 ブルー"
-  },
   "B0DG8Z9Y1R": {
     "first_seen": "2026-08-11",
     "first_seen_at": "2026-08-11T21:00:42+09:00",
@@ -1180,12 +1222,6 @@
     "first_seen_at": "2026-08-06T21:18:24+09:00",
     "last_seen": "2026-08-17",
     "title": "Logicool G ゲーミングマウス G304 LIGHTSPEED ワイヤレス マウス G304-LC 軽量 99g HERO 12Kセンサー 6個プログラムボタン 250時間連続使用可能 ライラック PC windows mac 国内正規品 【 ファイナルファンタジーXIV 推奨周辺機器 】"
-  },
-  "B0CJR82M5M": {
-    "first_seen": "2026-08-04",
-    "first_seen_at": "2026-08-04T21:17:38+09:00",
-    "last_seen": "2026-08-17",
-    "title": "ロジクール ワイヤレスキーボード PEBBLE KEYS 2 K380sOW 薄型 軽量 415g 小型 Bluetooth Logi Bolt ワイヤレス 無線 キーボード Easy-Switch 日本語配列 電池寿命36ケ月 Windows Mac iPad iOS Android Chrome K380s オフホワイト 国内正規品"
   },
   "B093PRWJPY": {
     "first_seen": "2026-08-11",
@@ -1433,12 +1469,6 @@
     "last_seen": "2026-08-16",
     "title": "Apple 2024 iMac 10 コア CPU、10 コア GPU の M4 チップ搭載オールインワンデスク トップコンピュータ: Apple Intelligence のために設計、24 インチ Retina ディスプレ イ、16GBユニファイドメモリ、512GBの SSD ストレージ、ボディと同じカラーのアクセサリ、iPhone や iPad との連係機能 - グリーン"
   },
-  "B0B38TWKVR": {
-    "first_seen": "2026-08-04",
-    "first_seen_at": "2026-08-04T08:22:12+09:00",
-    "last_seen": "2026-08-16",
-    "title": "UGREEN Nexode 45W PD充電器 タイプc USB-C*2 PD3.0/PPS急速充電器 PSE適合 GaNII"
-  },
   "B0CGJC8GRZ": {
     "first_seen": "2026-08-16",
     "first_seen_at": "2026-08-16T20:37:46+09:00",
@@ -1588,18 +1618,6 @@
     "first_seen_at": "2026-08-14T21:00:27+09:00",
     "last_seen": "2026-08-14",
     "title": "Apple Watch SE 3(GPSモデル)- 40mmミッドナイトアルミニウムケースとミッドナイトスポーツバンド - M/L"
-  },
-  "B0CX4FKYCS": {
-    "first_seen": "2026-08-09",
-    "first_seen_at": "2026-08-09T22:18:05+09:00",
-    "last_seen": "2026-08-14",
-    "title": "Anker Power Bank (10000mAh, Fusion, Built-In USB-C ケーブル) ホワイト"
-  },
-  "B0FR8M3WS8": {
-    "first_seen": "2026-08-14",
-    "first_seen_at": "2026-08-14T21:00:27+09:00",
-    "last_seen": "2026-08-14",
-    "title": "ロジクール MX MASTER 4 アドバンスド ワイヤレス マウス 触覚フィードバック 静音 MX2400GR Logi Bolt Bluetooth Unifying非対応 8000dpi 高速スクロールホイール USB-C 充電式 無線 MX2400 グラファイト 国内正規品"
   },
   "B0D53Z4WX3": {
     "first_seen": "2026-07-29",
@@ -2332,12 +2350,6 @@
     "first_seen_at": "2026-07-29T12:00:00+09:00",
     "last_seen": "2026-08-06",
     "title": "エレコム 半固体電池 モバイルバッテリー 10000mAh PD35W Type-C USB-A 燃えにくい 安全設計 長寿命 2000回サイクル 3台同時充電 残量表示 軽量220g PSE認証 機内持ち込み可 iPhone対応 ミッドナイト EC-C61MN"
-  },
-  "B0B2QR2VC9": {
-    "first_seen": "2026-08-06",
-    "first_seen_at": "2026-08-06T21:18:24+09:00",
-    "last_seen": "2026-08-06",
-    "title": "Anker 511 Charger (Nano 3, 30W) グリーン"
   },
   "B0DXF6V2ZW": {
     "first_seen": "2026-08-04",
