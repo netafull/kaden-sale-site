@@ -71,12 +71,6 @@
     "last_seen": "2026-08-20",
     "title": "Bose QuietComfort Ultra Headphones（第2世代） 空間オーディオ 完全 ワイヤレス オーバーイヤー型 ヘッドホン ノイズキャンセリング Bluetooth接続 マイク搭載 最大30時間再生 急速充電 ブラック"
   },
-  "B0FL2HX17Q": {
-    "first_seen": "2026-08-19",
-    "first_seen_at": "2026-08-19T22:11:30+09:00",
-    "last_seen": "2026-08-20",
-    "title": "Bose Ultra Open Earbuds LE 空間オーディオ イヤホン オープンイヤー 完全 ワイヤレス Bluetooth接続 マイク付 最大7.5時間再生 防滴 デザートゴールド"
-  },
   "B0D4F34SB4": {
     "first_seen": "2026-07-24",
     "first_seen_at": "2026-07-24T12:00:00+09:00",
@@ -197,12 +191,6 @@
     "last_seen": "2026-08-20",
     "title": "UGREEN 100W PD 急速充電器 USB-C×4/USB-A×1 タッチモニター搭載 PSE認証済 36*75*75mm"
   },
-  "B0BN688W42": {
-    "first_seen": "2026-08-07",
-    "first_seen_at": "2026-08-07T22:31:51+09:00",
-    "last_seen": "2026-08-20",
-    "title": "UGREEN Nexode急速充電器 65W Type-C 2C1A 3ポートPD/PPS/QC3.0/SCP/FCP対応 折り畳み式 ブルー"
-  },
   "B0B57H4FD3": {
     "first_seen": "2026-08-15",
     "first_seen_at": "2026-08-15T20:37:29+09:00",
@@ -220,6 +208,12 @@
     "first_seen_at": "2026-07-27T12:00:00+09:00",
     "last_seen": "2026-08-20",
     "title": "Anker 523 Charger (Nano 3, 47W) ホワイト"
+  },
+  "B09MLVRGFG": {
+    "first_seen": "2026-07-31",
+    "first_seen_at": "2026-07-31T12:00:00+09:00",
+    "last_seen": "2026-08-20",
+    "title": "Belkin MagSafe認証 ワイヤレス充電パッド iPhone15/14/13/12 最大15W急速充電 キックスタンド付き AC電源アダプター付属 ホワイト WIA004dqWH"
   },
   "B0F991H632": {
     "first_seen": "2026-08-15",
@@ -533,6 +527,18 @@
     "last_seen": "2026-08-20",
     "title": "【Amazon.co.jp限定】 Ninja ニンジャ Crispi クリスピー FN100JGYNR 自動調理器 3つの調理モード (クリスプ/ベイク・ロースト/リクリスプ) 煮る 焼く 蒸す 炒める 煮込む 炊く 温風調理 エアフライヤー ノンフライヤー FN100J ネイビー"
   },
+  "B0FL2HX17Q": {
+    "first_seen": "2026-08-19",
+    "first_seen_at": "2026-08-19T22:11:30+09:00",
+    "last_seen": "2026-08-20",
+    "title": "Bose Ultra Open Earbuds LE 空間オーディオ イヤホン オープンイヤー 完全 ワイヤレス Bluetooth接続 マイク付 最大7.5時間再生 防滴 デザートゴールド"
+  },
+  "B0BN688W42": {
+    "first_seen": "2026-08-07",
+    "first_seen_at": "2026-08-07T22:31:51+09:00",
+    "last_seen": "2026-08-20",
+    "title": "UGREEN Nexode急速充電器 65W Type-C 2C1A 3ポートPD/PPS/QC3.0/SCP/FCP対応 折り畳み式 ブルー"
+  },
   "B0F37VLJQW": {
     "first_seen": "2026-08-07",
     "first_seen_at": "2026-08-07T21:01:08+09:00",
@@ -802,12 +808,6 @@
     "first_seen_at": "2026-08-15T00:10:25+09:00",
     "last_seen": "2026-08-19",
     "title": "Anker Prime Charger (100W, 3 Ports, GaN)"
-  },
-  "B09MLVRGFG": {
-    "first_seen": "2026-07-31",
-    "first_seen_at": "2026-07-31T12:00:00+09:00",
-    "last_seen": "2026-08-19",
-    "title": "Belkin MagSafe認証 ワイヤレス充電パッド iPhone15/14/13/12 最大15W急速充電 キックスタンド付き AC電源アダプター付属 ホワイト WIA004dqWH"
   },
   "B0CKFHB9P3": {
     "first_seen": "2026-08-04",
