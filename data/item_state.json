@@ -65,6 +65,12 @@
     "last_seen": "2026-08-20",
     "title": "Apple 2025 MacBook Pro 10 コアCPU、10 コアGPU のM5 チップ搭載ノートパソコン：Apple Intelligence のために設計、14.2 インチLiquid Retina XDR ディスプレイ、16GB ユニファイドメモリ、1TBのSSD ストレージ - シルバー"
   },
+  "B0FWF4M2HP": {
+    "first_seen": "2026-08-20",
+    "first_seen_at": "2026-08-20T17:59:03+09:00",
+    "last_seen": "2026-08-20",
+    "title": "Apple 2025 MacBook Pro 10 コアCPU、10 コアGPU のM5 チップ搭載ノートパソコン：Apple Intelligence のために設計、14.2 インチLiquid Retina XDR ディスプレイ、16GB ユニファイドメモリ、1TBのSSD ストレージ - スペースブラック"
+  },
   "B0GR1RF3K9": {
     "first_seen": "2026-08-20",
     "first_seen_at": "2026-08-20T06:42:31+09:00",
@@ -209,12 +215,6 @@
     "last_seen": "2026-08-20",
     "title": "【VGP受賞】Belkin 充電器 USB-C 2ポート PPS規格対応 GaN採用 小型 ACアダプター タイプC 急速充電 軽量【PD3.0対応 /PSE認証/折りたたみ式プラグ】45W(25W+20W) MacBook Windows PC Surface Pro iPad iPhone 17,16～12対応 Galaxy Android スマホ 各種ノートPC対応 WCH011dqWH"
   },
-  "B0FDFBKXKH": {
-    "first_seen": "2026-08-15",
-    "first_seen_at": "2026-08-15T19:40:40+09:00",
-    "last_seen": "2026-08-20",
-    "title": "Belkin Cubic Charger 45W 充電器 type-c iphone 充電器 急速充電 PD3.2 PPS対応"
-  },
   "B0FVM1C19Y": {
     "first_seen": "2026-07-31",
     "first_seen_at": "2026-07-31T12:00:00+09:00",
@@ -292,6 +292,12 @@
     "first_seen_at": "2026-07-29T12:00:00+09:00",
     "last_seen": "2026-08-20",
     "title": "CIO NovaPort DUOⅡ 65W PD急速充電器 USB-C×2 2台同時充電 世界最小級（ブラック）"
+  },
+  "B0DHTT13KN": {
+    "first_seen": "2026-07-31",
+    "first_seen_at": "2026-07-31T12:00:00+09:00",
+    "last_seen": "2026-08-20",
+    "title": "Belkin Cubic Charger 45W 充電器 type-c iphone 充電器 急速充電 PD3.2 PPS対応 ホワイト"
   },
   "B0D6QQFMCS": {
     "first_seen": "2026-08-07",
@@ -527,12 +533,6 @@
     "last_seen": "2026-08-20",
     "title": "ロジクール ワイヤレスキーボード PEBBLE KEYS 2 K380sGR 薄型 軽量 415g 小型 Bluetooth Logi Bolt ワイヤレス 無線 キーボード Easy-Switch 日本語配列 電池寿命36ケ月 Windows Mac iPad iOS Android Chrome K380s グラファイト 国内正規品"
   },
-  "B078YH856D": {
-    "first_seen": "2026-08-17",
-    "first_seen_at": "2026-08-17T20:42:41+09:00",
-    "last_seen": "2026-08-20",
-    "title": "ロジクール M705m ワイヤレスマウス 無線 Unifying 7ボタン 高速スクロール 電池寿命最大36ケ月 ワイヤレス マウス チャコール windows mac chrome 国内正規品"
-  },
   "B0CZ8X3DH8": {
     "first_seen": "2026-07-26",
     "first_seen_at": "2026-07-26T12:00:00+09:00",
@@ -556,6 +556,18 @@
     "first_seen_at": "2026-08-14T14:04:35+09:00",
     "last_seen": "2026-08-20",
     "title": "【Amazon.co.jp限定】 Ninja ニンジャ Crispi クリスピー FN100JGYNR 自動調理器 3つの調理モード (クリスプ/ベイク・ロースト/リクリスプ) 煮る 焼く 蒸す 炒める 煮込む 炊く 温風調理 エアフライヤー ノンフライヤー FN100J ネイビー"
+  },
+  "B0FDFBKXKH": {
+    "first_seen": "2026-08-15",
+    "first_seen_at": "2026-08-15T19:40:40+09:00",
+    "last_seen": "2026-08-20",
+    "title": "Belkin Cubic Charger 45W 充電器 type-c iphone 充電器 急速充電 PD3.2 PPS対応"
+  },
+  "B078YH856D": {
+    "first_seen": "2026-08-17",
+    "first_seen_at": "2026-08-17T20:42:41+09:00",
+    "last_seen": "2026-08-20",
+    "title": "ロジクール M705m ワイヤレスマウス 無線 Unifying 7ボタン 高速スクロール 電池寿命最大36ケ月 ワイヤレス マウス チャコール windows mac chrome 国内正規品"
   },
   "B0CHMD2LB6": {
     "first_seen": "2026-08-04",
@@ -802,12 +814,6 @@
     "first_seen_at": "2026-07-29T12:00:00+09:00",
     "last_seen": "2026-08-19",
     "title": "UGREEN 45W USB-C*2+USB-A*1 急速充電器 Type-C PD GaNⅡ充電器 PSE適合タイプc充電器 PD/PPS/SCP/QC3.0"
-  },
-  "B0DHTT13KN": {
-    "first_seen": "2026-07-31",
-    "first_seen_at": "2026-07-31T12:00:00+09:00",
-    "last_seen": "2026-08-19",
-    "title": "Belkin Cubic Charger 45W 充電器 type-c iphone 充電器 急速充電 PD3.2 PPS対応 ホワイト"
   },
   "B0FLJD3NX4": {
     "first_seen": "2026-08-04",
