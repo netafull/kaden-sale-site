@@ -263,23 +263,29 @@
     "last_seen": "2026-08-20",
     "title": "Belkin USB充電器 42W (30W USB-C + 12W USB-A) PPS対応 PD3.1 急速充電 iPhone17,16～12/ iPad/Androidスマホ・タブレット各種対応 折り畳みプラグ ホワイト WCB009dqWHJP"
   },
-  "B0DMN885ZF": {
-    "first_seen": "2026-08-05",
-    "first_seen_at": "2026-08-05T03:07:44+09:00",
-    "last_seen": "2026-08-20",
-    "title": "UGREEN 45W USB-C 急速充電器 Type-C PD GaNⅡ充電器 PSE適合タイプc充電器 PD/PPS/SCP/QC3.0"
-  },
   "B0D53VKL36": {
     "first_seen": "2026-07-29",
     "first_seen_at": "2026-07-29T12:00:00+09:00",
     "last_seen": "2026-08-20",
     "title": "CIO NovaPort DUOⅡ 65W PD急速充電器 USB-C×2 2台同時充電 世界最小級（ブラック）"
   },
+  "B0DHTT13KN": {
+    "first_seen": "2026-07-31",
+    "first_seen_at": "2026-07-31T12:00:00+09:00",
+    "last_seen": "2026-08-20",
+    "title": "Belkin Cubic Charger 45W 充電器 type-c iphone 充電器 急速充電 PD3.2 PPS対応 ホワイト"
+  },
   "B0F43M6SBB": {
     "first_seen": "2026-08-07",
     "first_seen_at": "2026-08-07T00:31:33+09:00",
     "last_seen": "2026-08-20",
     "title": "エレコム 充電器 合計65W 3ポート Type-C USB-A USB PD対応 スイング式プラグ採用 ブラック EC-AC10367BK"
+  },
+  "B0DRP4ZN3Z": {
+    "first_seen": "2026-07-31",
+    "first_seen_at": "2026-07-31T12:00:00+09:00",
+    "last_seen": "2026-08-20",
+    "title": "Belkin Apple Watch充電器 持ち運び USB-C ドングル ポータブル MFI認証 高速充電 全モデル対応"
   },
   "B08N4JHGJL": {
     "first_seen": "2026-07-30",
@@ -310,12 +316,6 @@
     "first_seen_at": "2026-08-20T20:44:13+09:00",
     "last_seen": "2026-08-20",
     "title": "LG モニター 27U730A-B 27インチ/4K/IPS/約10.7億色表示(8bit+FRC)/USB-C PD90W/多機能スタンド"
-  },
-  "B0CHMD2LB6": {
-    "first_seen": "2026-08-04",
-    "first_seen_at": "2026-08-04T21:17:38+09:00",
-    "last_seen": "2026-08-20",
-    "title": "Dell AW2724HF 27インチ Alienware ゲーミングモニター"
   },
   "B0F23V7KK5": {
     "first_seen": "2026-08-11",
@@ -473,17 +473,23 @@
     "last_seen": "2026-08-20",
     "title": "ロジクール ワイヤレスマウス キーボード セット MK295GP 静音 耐水 無線 USB接続 Unifying非対応 MK295 グラファイト 国内正規品"
   },
-  "B09Q5KKBP3": {
-    "first_seen": "2026-08-05",
-    "first_seen_at": "2026-08-05T21:15:31+09:00",
+  "B0GL15Y5X4": {
+    "first_seen": "2026-08-16",
+    "first_seen_at": "2026-08-16T23:40:53+09:00",
     "last_seen": "2026-08-20",
-    "title": "ロジクール ワイヤレスマウス 静音 無線 高速スクロール Signature M650MOW レギュラー オフホワイト M650 国内正規品"
+    "title": "東プレ REALFORCE GX1 Plus Zガンダム 英語配列 ゲーミングキーボード X1PDZ1 KB0942"
   },
-  "B0BKPH2KSH": {
-    "first_seen": "2026-08-20",
-    "first_seen_at": "2026-08-20T22:13:35+09:00",
+  "B09Q5SHDR3": {
+    "first_seen": "2026-07-26",
+    "first_seen_at": "2026-07-26T12:00:00+09:00",
     "last_seen": "2026-08-20",
-    "title": "ロジクール ワイヤレスマウス 静音 無線 高速スクロール Signature M550LRO ラージ ローズ 国内正規品"
+    "title": "ロジクール ワイヤレスマウス 静音 無線 高速スクロール Signature M650MGR レギュラー グラファイト M650 国内正規品"
+  },
+  "B0H8DQLFNW": {
+    "first_seen": "2026-08-09",
+    "first_seen_at": "2026-08-09T23:53:24+09:00",
+    "last_seen": "2026-08-20",
+    "title": "Logicool Signature M550MGR ワイヤレスマウス 静音 Bluetooth レギュラー グラファイト ワイヤレス マウス 無線 Logi Bolt Unifying非対応 windows mac iPad Android Chrome OS スクロールホイール 無線マウス 静音マウス M550 国内正規品 (× 3)"
   },
   "B0CJR5HBMN": {
     "first_seen": "2026-08-04",
@@ -491,17 +497,17 @@
     "last_seen": "2026-08-20",
     "title": "ロジクール ワイヤレスマウス PEBBLE MOUSE2 M350sGR 薄型 静音 Bluetooth Logi Bolt マウス 無線 ワイヤレス 左右対称 Easy-Switch 4000dpi 電池寿命24ケ月 windows mac Chrome Android iPad M350 グラファイト 国内正規品"
   },
-  "B0GL1FYWQ5": {
-    "first_seen": "2026-08-04",
-    "first_seen_at": "2026-08-04T21:17:38+09:00",
-    "last_seen": "2026-08-20",
-    "title": "東プレ REALFORCE GX1 Plus νガンダム (ニューガンダム) 英語配列 ゲーミングキーボード X1PDN1 KB0938"
-  },
   "B08K2CHMWK": {
     "first_seen": "2026-08-04",
     "first_seen_at": "2026-08-04T18:28:41+09:00",
     "last_seen": "2026-08-20",
     "title": "ロジクール ワイヤレスキーボード K295GP 静音 耐水 キーボード 無線 Unifying K295 グラファイト 国内正規品"
+  },
+  "B09HQCRPHW": {
+    "first_seen": "2026-08-20",
+    "first_seen_at": "2026-08-20T23:04:29+09:00",
+    "last_seen": "2026-08-20",
+    "title": "ロジクール MX KEYS mini KX700RO ミニマリスト ワイヤレス イルミネイテッド キーボード ローズ 充電式 bluetooth Logi Bolt Unifying非対応 USB-C-A 日本語配列 windows mac chrome ios Android 無線 ワイヤレスキーボード KX700 国内正規品"
   },
   "B0CJR8Y56J": {
     "first_seen": "2026-07-26",
@@ -515,12 +521,6 @@
     "last_seen": "2026-08-20",
     "title": "ロジクール SIGNATURE SLIM ワイヤレス キーボード K950GR 薄型 静かなタイピング Bluetooth Logi Bolt ワイヤレスキーボード テンキー 無線 Easy-Switch 日本語配列 電池寿命36ケ月 Windows Mac Chrome Android K950 グラファイト 国内正規品"
   },
-  "B0FR8M3WS8": {
-    "first_seen": "2026-08-14",
-    "first_seen_at": "2026-08-14T21:00:27+09:00",
-    "last_seen": "2026-08-20",
-    "title": "ロジクール MX MASTER 4 アドバンスド ワイヤレス マウス 触覚フィードバック 静音 MX2400GR Logi Bolt Bluetooth Unifying非対応 8000dpi 高速スクロールホイール USB-C 充電式 無線 MX2400 グラファイト 国内正規品"
-  },
   "B0C65MQZ65": {
     "first_seen": "2026-07-26",
     "first_seen_at": "2026-07-26T12:00:00+09:00",
@@ -532,6 +532,48 @@
     "first_seen_at": "2026-07-24T12:00:00+09:00",
     "last_seen": "2026-08-20",
     "title": "アイリスオーヤマ 過熱水蒸気 エア フライヤー 3L 2～3人用 ノンオイルフライヤー スチーム機能 ジューシー FV-M30A-C アイボリー"
+  },
+  "B0H33S3D6P": {
+    "first_seen": "2026-08-20",
+    "first_seen_at": "2026-08-20T23:04:29+09:00",
+    "last_seen": "2026-08-20",
+    "title": "【Amazon.co.jp限定】 Ninja ニンジャ Crispi クリスピー FN100JPKNR 自動調理器 3つの調理モード (クリスプ/ベイク・ロースト/リクリスプ) 煮る 焼く 蒸す 炒める 煮込む 炊く 温風調理 エアフライヤー ノンフライヤー FN100J ピンク"
+  },
+  "B0DMN885ZF": {
+    "first_seen": "2026-08-05",
+    "first_seen_at": "2026-08-05T03:07:44+09:00",
+    "last_seen": "2026-08-20",
+    "title": "UGREEN 45W USB-C 急速充電器 Type-C PD GaNⅡ充電器 PSE適合タイプc充電器 PD/PPS/SCP/QC3.0"
+  },
+  "B0CHMD2LB6": {
+    "first_seen": "2026-08-04",
+    "first_seen_at": "2026-08-04T21:17:38+09:00",
+    "last_seen": "2026-08-20",
+    "title": "Dell AW2724HF 27インチ Alienware ゲーミングモニター"
+  },
+  "B09Q5KKBP3": {
+    "first_seen": "2026-08-05",
+    "first_seen_at": "2026-08-05T21:15:31+09:00",
+    "last_seen": "2026-08-20",
+    "title": "ロジクール ワイヤレスマウス 静音 無線 高速スクロール Signature M650MOW レギュラー オフホワイト M650 国内正規品"
+  },
+  "B0BKPH2KSH": {
+    "first_seen": "2026-08-20",
+    "first_seen_at": "2026-08-20T22:13:35+09:00",
+    "last_seen": "2026-08-20",
+    "title": "ロジクール ワイヤレスマウス 静音 無線 高速スクロール Signature M550LRO ラージ ローズ 国内正規品"
+  },
+  "B0GL1FYWQ5": {
+    "first_seen": "2026-08-04",
+    "first_seen_at": "2026-08-04T21:17:38+09:00",
+    "last_seen": "2026-08-20",
+    "title": "東プレ REALFORCE GX1 Plus νガンダム (ニューガンダム) 英語配列 ゲーミングキーボード X1PDN1 KB0938"
+  },
+  "B0FR8M3WS8": {
+    "first_seen": "2026-08-14",
+    "first_seen_at": "2026-08-14T21:00:27+09:00",
+    "last_seen": "2026-08-20",
+    "title": "ロジクール MX MASTER 4 アドバンスド ワイヤレス マウス 触覚フィードバック 静音 MX2400GR Logi Bolt Bluetooth Unifying非対応 8000dpi 高速スクロールホイール USB-C 充電式 無線 MX2400 グラファイト 国内正規品"
   },
   "B0FCSGGHLL": {
     "first_seen": "2026-07-24",
@@ -653,23 +695,11 @@
     "last_seen": "2026-08-20",
     "title": "UGREEN 100W GaN 卓上急速充電器 (4*USB-C+2*USB-A) コンパクト【PSE技術基準適合/PD3.0/QC4.0/PPS対応】 複数台同時充電 iPhone17/16/15/14/13/Xperia/Pixel Pro/iPad/ノートPC MacBook Pro/Airなどに対応"
   },
-  "B0DHTT13KN": {
-    "first_seen": "2026-07-31",
-    "first_seen_at": "2026-07-31T12:00:00+09:00",
-    "last_seen": "2026-08-20",
-    "title": "Belkin Cubic Charger 45W 充電器 type-c iphone 充電器 急速充電 PD3.2 PPS対応 ホワイト"
-  },
   "B0BKP5R91F": {
     "first_seen": "2026-08-04",
     "first_seen_at": "2026-08-04T12:38:09+09:00",
     "last_seen": "2026-08-20",
     "title": "ロジクール ワイヤレスマウス 静音 無線 高速スクロール Signature M550MGR レギュラー グラファイト 国内正規品"
-  },
-  "B09Q5SHDR3": {
-    "first_seen": "2026-07-26",
-    "first_seen_at": "2026-07-26T12:00:00+09:00",
-    "last_seen": "2026-08-20",
-    "title": "ロジクール ワイヤレスマウス 静音 無線 高速スクロール Signature M650MGR レギュラー グラファイト M650 国内正規品"
   },
   "B0H33R37MZ": {
     "first_seen": "2026-08-14",
@@ -760,12 +790,6 @@
     "first_seen_at": "2026-08-16T05:41:25+09:00",
     "last_seen": "2026-08-20",
     "title": "【セット買い】SwitchBot スマートリモコン ハブミニ(Matter対応) スマートデイリーステーション 温湿度計 - スイッチボット 天気ステーション 遠隔確認 スマートホーム Alexa Google Home Siriに対応(ハブミニ(Matter対応) 1点+スマートデイリーステーション 1点)"
-  },
-  "B0H8DQLFNW": {
-    "first_seen": "2026-08-09",
-    "first_seen_at": "2026-08-09T23:53:24+09:00",
-    "last_seen": "2026-08-20",
-    "title": "Logicool Signature M550MGR ワイヤレスマウス 静音 Bluetooth レギュラー グラファイト ワイヤレス マウス 無線 Logi Bolt Unifying非対応 windows mac iPad Android Chrome OS スクロールホイール 無線マウス 静音マウス M550 国内正規品 (× 3)"
   },
   "B09MLVRGFG": {
     "first_seen": "2026-07-31",
@@ -1481,12 +1505,6 @@
     "last_seen": "2026-08-16",
     "title": "SwitchBot サーキュレーター コードレス 木目調 スタンド型 - スイッチボット 扇風機 首振り 静音22dB DCモーター ~30畳 高さ3段階 充電式バッテリー搭載 無段階風量調整 Alexa対応 リモコン付き ベビーモード ライト付き 省エネ"
   },
-  "B0GL15Y5X4": {
-    "first_seen": "2026-08-16",
-    "first_seen_at": "2026-08-16T23:40:53+09:00",
-    "last_seen": "2026-08-16",
-    "title": "東プレ REALFORCE GX1 Plus Zガンダム 英語配列 ゲーミングキーボード X1PDZ1 KB0942"
-  },
   "B0FQGC2P3Y": {
     "first_seen": "2026-08-15",
     "first_seen_at": "2026-08-15T22:02:05+09:00",
@@ -1852,12 +1870,6 @@
     "first_seen_at": "2026-08-11T21:00:42+09:00",
     "last_seen": "2026-08-11",
     "title": "Belkin Qi2 25W Ultra Charge 2in1 ワイヤレス充電器 折りたたみ式充電スタンド MagSafe対応 急速充電対応"
-  },
-  "B0DRP4ZN3Z": {
-    "first_seen": "2026-07-31",
-    "first_seen_at": "2026-07-31T12:00:00+09:00",
-    "last_seen": "2026-08-11",
-    "title": "Belkin Apple Watch充電器 持ち運び USB-C ドングル ポータブル MFI認証 高速充電 全モデル対応"
   },
   "B09Q5GNCRS": {
     "first_seen": "2026-08-04",
