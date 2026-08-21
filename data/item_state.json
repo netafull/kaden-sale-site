@@ -317,12 +317,6 @@
     "last_seen": "2026-08-21",
     "title": "UGREEN NexodeX 100W GaNII充電器 (USB-C*2+USB-A) タイプC 超小型 急速充電器 PD3.0/PPS/QC4+"
   },
-  "B0BF9ZYCQ5": {
-    "first_seen": "2026-07-31",
-    "first_seen_at": "2026-07-31T12:00:00+09:00",
-    "last_seen": "2026-08-21",
-    "title": "【VGP受賞】Belkin 充電器 USB-C 2ポート PPS規格対応 GaN採用 小型 ACアダプター タイプC 急速充電 軽量【PD3.0対応 /PSE認証/折りたたみ式プラグ】45W(25W+20W) MacBook Windows PC Surface Pro iPad iPhone 17,16～12対応 Galaxy Android スマホ 各種ノートPC対応 WCH011dqWH"
-  },
   "B0CLGZGXMD": {
     "first_seen": "2026-07-27",
     "first_seen_at": "2026-07-27T12:00:00+09:00",
@@ -389,11 +383,23 @@
     "last_seen": "2026-08-21",
     "title": "UGREEN 100W PD 急速充電器 USB-C×4/USB-A×1 タッチモニター搭載 PSE認証済 36*75*75mm"
   },
+  "B0F991H632": {
+    "first_seen": "2026-08-15",
+    "first_seen_at": "2026-08-15T16:01:07+09:00",
+    "last_seen": "2026-08-21",
+    "title": "エレコム ワイヤレス充電器 Magsafe 3in1 15W iPhone/Apple Watch/AirPods 【Made for MagSafe/Apple Watch 正規認証】 ホワイト EC-MS07WH"
+  },
   "B0DG93MZCR": {
     "first_seen": "2026-07-27",
     "first_seen_at": "2026-07-27T12:00:00+09:00",
     "last_seen": "2026-08-21",
     "title": "UGREEN PD充電器 type-c 30W 2*USB-C+1*USB-A GaN PSE適合/PD3.0"
+  },
+  "B0GF26RSYQ": {
+    "first_seen": "2026-07-27",
+    "first_seen_at": "2026-07-27T12:00:00+09:00",
+    "last_seen": "2026-08-21",
+    "title": "Anker Nano Charger (45W, Display, スイングプラグ) ブラック"
   },
   "B0FJS3P8NT": {
     "first_seen": "2026-07-27",
@@ -545,12 +551,6 @@
     "last_seen": "2026-08-21",
     "title": "Xiaomi A27Ui 27インチ 4K モニター UHD 3840×2160 90W USB-C給電対応 IPS"
   },
-  "B0DQL1SYFT": {
-    "first_seen": "2026-08-05",
-    "first_seen_at": "2026-08-05T21:15:31+09:00",
-    "last_seen": "2026-08-21",
-    "title": "IODATA ゲーミングモニター 23.8インチ GigaCrysta 240Hz ADSパネル 1ms ヒーラーホワイト 無輝点保証対応(HDMI×2/DisplayPort/VESA対応/土日サポート/日本メーカー) EX-GD242UDW"
-  },
   "B0F7X3VJ99": {
     "first_seen": "2026-08-02",
     "first_seen_at": "2026-08-02T11:33:18+09:00",
@@ -568,6 +568,12 @@
     "first_seen_at": "2026-08-02T11:33:18+09:00",
     "last_seen": "2026-08-21",
     "title": "Pixio モバイルモニター PX160Wave ブラック 15.6インチ Type-C ミニHDMI 60Hz モバイル ディスプレイ 黒 ピクシオ"
+  },
+  "B0DNKC8HXP": {
+    "first_seen": "2026-08-02",
+    "first_seen_at": "2026-08-02T11:33:18+09:00",
+    "last_seen": "2026-08-21",
+    "title": "INNOCN ゲーミングモニター 24.5インチ 200Hz IPS 1ms(GTG) フルHD 非光沢 フレームレス PS5/Xbox対応 Adaptive-Sync VESA100×100 HDMI2.0/DP1.4接続 25G2G"
   },
   "B0DYD1R49S": {
     "first_seen": "2026-07-30",
@@ -634,12 +640,6 @@
     "first_seen_at": "2026-08-16T00:38:29+09:00",
     "last_seen": "2026-08-21",
     "title": "GARMIN(ガーミン)スマートウォッチ Forerunner 170 Black/Amp Yellow スマートウォッチモード 約 10 日間 高精度GPS ランニングウォッチ iOS/Android AMOLEDディスプレイ1.2インチ マラソン 軽量 防水 心拍数 睡眠スコア 健康管理 Suicaタッチ決済 Garmin Pay"
-  },
-  "B0G529YNFK": {
-    "first_seen": "2026-08-17",
-    "first_seen_at": "2026-08-17T12:16:04+09:00",
-    "last_seen": "2026-08-21",
-    "title": "Amazfit Active Max 48mm スマートウォッチ ハイブリッドトレーニング HYROX ヤマレコ ヤマップ 3000nit高輝度 GPS 5衛星 オフラインマップ AIによる音声操作と睡眠/運動管理 心拍 睡眠 健康管理 170+スポーツモード ナビゲーション ルートインポート5ATM防水 Max 25日間バッテリー持続 丸型"
   },
   "B0GCZMGP1T": {
     "first_seen": "2026-07-31",
@@ -731,12 +731,6 @@
     "last_seen": "2026-08-21",
     "title": "ロジクール ワイヤレスマウス キーボード セット MK295GP 静音 耐水 無線 USB接続 Unifying非対応 MK295 グラファイト 国内正規品"
   },
-  "B0BKP5R91F": {
-    "first_seen": "2026-08-04",
-    "first_seen_at": "2026-08-04T12:38:09+09:00",
-    "last_seen": "2026-08-21",
-    "title": "ロジクール ワイヤレスマウス 静音 無線 高速スクロール Signature M550MGR レギュラー グラファイト 国内正規品"
-  },
   "B09Q5SHDR3": {
     "first_seen": "2026-07-26",
     "first_seen_at": "2026-07-26T12:00:00+09:00",
@@ -784,12 +778,6 @@
     "first_seen_at": "2026-07-26T12:00:00+09:00",
     "last_seen": "2026-08-21",
     "title": "Logicool G ゲーミングマウス G304 LIGHTSPEED ワイヤレス ゲーミング マウス 軽量 99g HERO 12Kセンサー 6個プログラムボタン 250時間連続使用可能 ブラック PC windows mac 国内正規品 【 ファイナルファンタジー XIV 推奨モデル 】"
-  },
-  "B0DC5X912P": {
-    "first_seen": "2026-08-04",
-    "first_seen_at": "2026-08-04T21:17:38+09:00",
-    "last_seen": "2026-08-21",
-    "title": "ロジクール 静音 ワイヤレス トラックボール マウス MXTB2 MX ERGO S Bluetooth Logibolt 無線 windows mac iPad OS Chrome Android トラックボールマウス グラファイト 国内正規品"
   },
   "B0CJR8Y56J": {
     "first_seen": "2026-07-26",
@@ -839,11 +827,35 @@
     "last_seen": "2026-08-21",
     "title": "【Amazon.co.jp限定】 Ninja ニンジャ Crispi クリスピー FN100JGYNR 自動調理器 3つの調理モード (クリスプ/ベイク・ロースト/リクリスプ) 煮る 焼く 蒸す 炒める 煮込む 炊く 温風調理 エアフライヤー ノンフライヤー FN100J ネイビー"
   },
-  "B0F991H632": {
-    "first_seen": "2026-08-15",
-    "first_seen_at": "2026-08-15T16:01:07+09:00",
+  "B0BF9ZYCQ5": {
+    "first_seen": "2026-07-31",
+    "first_seen_at": "2026-07-31T12:00:00+09:00",
     "last_seen": "2026-08-21",
-    "title": "エレコム ワイヤレス充電器 Magsafe 3in1 15W iPhone/Apple Watch/AirPods 【Made for MagSafe/Apple Watch 正規認証】 ホワイト EC-MS07WH"
+    "title": "【VGP受賞】Belkin 充電器 USB-C 2ポート PPS規格対応 GaN採用 小型 ACアダプター タイプC 急速充電 軽量【PD3.0対応 /PSE認証/折りたたみ式プラグ】45W(25W+20W) MacBook Windows PC Surface Pro iPad iPhone 17,16～12対応 Galaxy Android スマホ 各種ノートPC対応 WCH011dqWH"
+  },
+  "B0DQL1SYFT": {
+    "first_seen": "2026-08-05",
+    "first_seen_at": "2026-08-05T21:15:31+09:00",
+    "last_seen": "2026-08-21",
+    "title": "IODATA ゲーミングモニター 23.8インチ GigaCrysta 240Hz ADSパネル 1ms ヒーラーホワイト 無輝点保証対応(HDMI×2/DisplayPort/VESA対応/土日サポート/日本メーカー) EX-GD242UDW"
+  },
+  "B0G529YNFK": {
+    "first_seen": "2026-08-17",
+    "first_seen_at": "2026-08-17T12:16:04+09:00",
+    "last_seen": "2026-08-21",
+    "title": "Amazfit Active Max 48mm スマートウォッチ ハイブリッドトレーニング HYROX ヤマレコ ヤマップ 3000nit高輝度 GPS 5衛星 オフラインマップ AIによる音声操作と睡眠/運動管理 心拍 睡眠 健康管理 170+スポーツモード ナビゲーション ルートインポート5ATM防水 Max 25日間バッテリー持続 丸型"
+  },
+  "B0BKP5R91F": {
+    "first_seen": "2026-08-04",
+    "first_seen_at": "2026-08-04T12:38:09+09:00",
+    "last_seen": "2026-08-21",
+    "title": "ロジクール ワイヤレスマウス 静音 無線 高速スクロール Signature M550MGR レギュラー グラファイト 国内正規品"
+  },
+  "B0DC5X912P": {
+    "first_seen": "2026-08-04",
+    "first_seen_at": "2026-08-04T21:17:38+09:00",
+    "last_seen": "2026-08-21",
+    "title": "ロジクール 静音 ワイヤレス トラックボール マウス MXTB2 MX ERGO S Bluetooth Logibolt 無線 windows mac iPad OS Chrome Android トラックボールマウス グラファイト 国内正規品"
   },
   "B0FP26QZ7B": {
     "first_seen": "2026-08-04",
@@ -856,12 +868,6 @@
     "first_seen_at": "2026-08-05T03:07:44+09:00",
     "last_seen": "2026-08-21",
     "title": "UGREEN 45W USB-C 急速充電器 Type-C PD GaNⅡ充電器 PSE適合タイプc充電器 PD/PPS/SCP/QC3.0"
-  },
-  "B0GF26RSYQ": {
-    "first_seen": "2026-07-27",
-    "first_seen_at": "2026-07-27T12:00:00+09:00",
-    "last_seen": "2026-08-21",
-    "title": "Anker Nano Charger (45W, Display, スイングプラグ) ブラック"
   },
   "B0CSYVNBZX": {
     "first_seen": "2026-07-31",
@@ -1030,12 +1036,6 @@
     "first_seen_at": "2026-08-19T00:48:17+09:00",
     "last_seen": "2026-08-20",
     "title": "【アマゾン限定】Belkin MagSafe対応 ワイヤレスモバイルバッテリー 5000mAh 最大7.5W キックスタンド付き ホワイト"
-  },
-  "B0DNKC8HXP": {
-    "first_seen": "2026-08-02",
-    "first_seen_at": "2026-08-02T11:33:18+09:00",
-    "last_seen": "2026-08-20",
-    "title": "INNOCN ゲーミングモニター 24.5インチ 200Hz IPS 1ms(GTG) フルHD 非光沢 フレームレス PS5/Xbox対応 Adaptive-Sync VESA100×100 HDMI2.0/DP1.4接続 25G2G"
   },
   "B09HQCRPHW": {
     "first_seen": "2026-08-20",
