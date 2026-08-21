@@ -227,17 +227,17 @@
     "last_seen": "2026-08-21",
     "title": "Anker Power Bank (10000mAh, Fusion, Built-In USB-C ケーブル) ホワイト"
   },
-  "B0CHVZHLZ1": {
-    "first_seen": "2026-08-21",
-    "first_seen_at": "2026-08-21T22:12:16+09:00",
-    "last_seen": "2026-08-21",
-    "title": "CIO モバイルバッテリー PD USB-C×2 USB-A×1 10000mAh SMARTCOBY Pro SLIM 35W (ブラック)"
-  },
   "B0G2S9LVS4": {
     "first_seen": "2026-08-04",
     "first_seen_at": "2026-08-04T08:22:12+09:00",
     "last_seen": "2026-08-21",
     "title": "UGREEN MagFlow Qi2 25W認証 モバイルバッテリー Magsafe対応 マグネット式ワイヤレス急速充電 10000mAh ブラック"
+  },
+  "B0F6LBT3ZX": {
+    "first_seen": "2026-08-21",
+    "first_seen_at": "2026-08-21T00:51:29+09:00",
+    "last_seen": "2026-08-21",
+    "title": "Anker Nano Power Bank (5000mAh, MagGo, Slim) ブラック"
   },
   "B0CL8S3WMX": {
     "first_seen": "2026-07-27",
@@ -251,11 +251,11 @@
     "last_seen": "2026-08-21",
     "title": "Anker Zolo Power Bank (10K, 30W, Built-In USB-C Cable)ブラック"
   },
-  "B0DB17C63X": {
-    "first_seen": "2026-07-29",
-    "first_seen_at": "2026-07-29T12:00:00+09:00",
+  "B0DB1HFZLK": {
+    "first_seen": "2026-08-12",
+    "first_seen_at": "2026-08-12T22:45:34+09:00",
     "last_seen": "2026-08-21",
-    "title": "Anker MagGo Power Bank (10000mAh, Slim) ブラック"
+    "title": "Anker MagGo Power Bank (10000mAh, Slim) ホワイト"
   },
   "B0FRSR6BVR": {
     "first_seen": "2026-08-07",
@@ -329,11 +329,17 @@
     "last_seen": "2026-08-21",
     "title": "Anker Prime Wall Charger (67W, 3 ports, GaN) (ブラック)"
   },
-  "B0B2QSZRCV": {
-    "first_seen": "2026-08-04",
-    "first_seen_at": "2026-08-04T12:38:09+09:00",
+  "B0F99FCSX7": {
+    "first_seen": "2026-07-27",
+    "first_seen_at": "2026-07-27T12:00:00+09:00",
     "last_seen": "2026-08-21",
-    "title": "Anker 511 Charger (Nano 3, 30W) ブルー"
+    "title": "Anker Nano Charger (70W, 3 Ports) ブラック"
+  },
+  "B0B2QQDKR8": {
+    "first_seen": "2026-07-27",
+    "first_seen_at": "2026-07-27T12:00:00+09:00",
+    "last_seen": "2026-08-21",
+    "title": "Anker 511 Charger (Nano 3, 30W) ブラック"
   },
   "B0D6QQFMCS": {
     "first_seen": "2026-08-07",
@@ -346,12 +352,6 @@
     "first_seen_at": "2026-07-27T12:00:00+09:00",
     "last_seen": "2026-08-21",
     "title": "UGREEN Nexode急速充電器 65W Type-C 2C1A 3ポート PD/PPS/QC3.0/SCP/FCP対応 折り畳み式"
-  },
-  "B0GD7WBPHS": {
-    "first_seen": "2026-08-09",
-    "first_seen_at": "2026-08-09T19:54:50+09:00",
-    "last_seen": "2026-08-21",
-    "title": "UGREEN Air 100W PD3.0急速充電器 超小型 GaNII USB-C充電器"
   },
   "B0D73JBJ56": {
     "first_seen": "2026-08-15",
@@ -383,11 +383,23 @@
     "last_seen": "2026-08-21",
     "title": "UGREEN 100W GaN 卓上急速充電器 (4*USB-C+2*USB-A) コンパクト【PSE技術基準適合/PD3.0/QC4.0/PPS対応】 複数台同時充電 iPhone17/16/15/14/13/Xperia/Pixel Pro/iPad/ノートPC MacBook Pro/Airなどに対応"
   },
+  "B0FBM6X15S": {
+    "first_seen": "2026-08-21",
+    "first_seen_at": "2026-08-21T00:51:29+09:00",
+    "last_seen": "2026-08-21",
+    "title": "Belkin Cubic Charger 67W 充電器 type-c PD充電器 USB-C*2 急速充電 ZSP技術を搭載(待機消費0) ホワイト"
+  },
   "B0FKMXL7BS": {
     "first_seen": "2026-08-21",
     "first_seen_at": "2026-08-21T13:56:56+09:00",
     "last_seen": "2026-08-21",
     "title": "Belkin Cubic Charger 50W 充電器 type-c PD充電器 USB-C*2 急速充電 ZSP技術を搭載(待機消費0) ホワイト"
+  },
+  "B0DW2SYD5H": {
+    "first_seen": "2026-08-15",
+    "first_seen_at": "2026-08-15T20:37:29+09:00",
+    "last_seen": "2026-08-21",
+    "title": "Anker Zolo Wireless Charger (Magnetic, Pad) ブラック"
   },
   "B0DXF6V2ZW": {
     "first_seen": "2026-08-04",
@@ -419,12 +431,6 @@
     "last_seen": "2026-08-21",
     "title": "Anker Prime Charger (160W, 3 Ports) シルバー"
   },
-  "B0DW2LPCFY": {
-    "first_seen": "2026-08-21",
-    "first_seen_at": "2026-08-21T22:12:16+09:00",
-    "last_seen": "2026-08-21",
-    "title": "Anker Zolo Wireless Charger (Magnetic, Pad) 2個セット ホワイト"
-  },
   "B0GMGHTNBB": {
     "first_seen": "2026-08-21",
     "first_seen_at": "2026-08-21T12:19:55+09:00",
@@ -443,11 +449,11 @@
     "last_seen": "2026-08-21",
     "title": "【 サンディスク 正規品 】 SanDisk microSD カード Ultra SDSQUAB-064G-GH3MA 簡易デザインパッケージ"
   },
-  "B0D2M5G98N": {
-    "first_seen": "2026-07-30",
-    "first_seen_at": "2026-07-30T12:00:00+09:00",
+  "B0D2M7GXGL": {
+    "first_seen": "2026-08-21",
+    "first_seen_at": "2026-08-21T23:55:32+09:00",
     "last_seen": "2026-08-21",
-    "title": "エレコム microSD 32GB マイクロSDカード UHS-1 U1 microSDHC IPX7 MF-AMS032GU11"
+    "title": "エレコム microSD 64GB マイクロSDカード UHS-1 U1 microSDXC IPX7 MF-AMS064GU11"
   },
   "B08P45YTTL": {
     "first_seen": "2026-08-21",
@@ -545,11 +551,17 @@
     "last_seen": "2026-08-21",
     "title": "SwitchBot 空気清浄機Table スマートリモコン ハブ2 アレクサ - スイッチボット 25畳 小型 省エネ 大風量 360度全方位 浄化 消臭 除菌 集じん HEPA フィルター 花粉 ニオイ対策 タイマー機能 Alexa Google Home Siriに対応 (空気清浄機Table 1点+ハブ2 1点)"
   },
-  "B0F7GGN94D": {
-    "first_seen": "2026-07-28",
-    "first_seen_at": "2026-07-28T12:00:00+09:00",
+  "B0DFWFXKT4": {
+    "first_seen": "2026-08-21",
+    "first_seen_at": "2026-08-21T23:55:32+09:00",
     "last_seen": "2026-08-21",
-    "title": "【2025進化】 SwitchBot ロボット掃除機 K11+ 超小型 - 高精度マッピング 6000pa強力吸引 水拭き 使い捨て掃除シート30枚付き 禁止エリア 静音設計 遠隔操作 自動充電 落下防止 2.4GWi-Fi対応 Alexa Google Home IFTTT Siriに対応"
+    "title": "【3in1、超小型】 SwitchBot ロボット掃除機 K10+ProCombo コードレス掃除機 - 軽量 20000pa 自動ゴミ収集 水拭き応"
+  },
+  "B0BM8VS13P": {
+    "first_seen": "2026-08-21",
+    "first_seen_at": "2026-08-21T12:19:55+09:00",
+    "last_seen": "2026-08-21",
+    "title": "スイッチボット(SwitchBot) SwitchBot スマートリモコン ハブ2 赤外線家電を管理 スマートホーム Alexa スイッチボット 学習リモコン 温湿度計機能付き 光センサー付き リモートボタン スケジュール シーンで家電一括操作 遠隔操作 節電·省エネ Google Home IFTTT Siri SmartThingsに対応 Hub2"
   },
   "B09Z68BVSK": {
     "first_seen": "2026-08-21",
@@ -635,12 +647,6 @@
     "last_seen": "2026-08-21",
     "title": "VITURE Beast ARグラス 【家電批評Best Buy・VGP金賞・企画賞】 174インチ 光学技術で映像を鮮明に 3DoF対応"
   },
-  "B0DR2D2Z34": {
-    "first_seen": "2026-08-21",
-    "first_seen_at": "2026-08-21T12:19:55+09:00",
-    "last_seen": "2026-08-21",
-    "title": "XREAL Beam Pro 5G版(8+256GB) XREAL ARグラス空間コンピューティングコンパニオン 3Dカメラ Android 14 すべてのGoogle Playストアアプリをサポート 映画、テレビ、ゲームのための3DoF 空間体験 FHD 1080"
-  },
   "B0H7RLPTM7": {
     "first_seen": "2026-07-31",
     "first_seen_at": "2026-07-31T12:00:00+09:00",
@@ -694,12 +700,6 @@
     "first_seen_at": "2026-07-26T12:00:00+09:00",
     "last_seen": "2026-08-21",
     "title": "【リニューアル】 エレコム ワイヤレスマウス 静音 充電式 OSMOD Six Bluetooth 無線2.4GHz両対応 2台まで接続 マルチペアリング 6ボタン ブラック M-MY35MBSABK"
-  },
-  "B0DRJJT13G": {
-    "first_seen": "2026-08-21",
-    "first_seen_at": "2026-08-21T23:02:27+09:00",
-    "last_seen": "2026-08-21",
-    "title": "REALFORCE リアルフォース ラピッドトリガー キーボードGX1 ホワイト 静音 30ｇ TKLサイズ 静電容量無接点方式 最速0.1mm作動 Windows かな無し 日本語配列 日本製 ゲーミングキーボード 91キー X1UC23"
   },
   "B08K2RGTHY": {
     "first_seen": "2026-07-26",
@@ -785,12 +785,6 @@
     "last_seen": "2026-08-21",
     "title": "ロジクール MX ANYWHERE 3S MX1800GR 静音 マウス Bluetooth Logi Bolt Unifying非対応 コンパクト Smart Actions 対応 高速スクロールホイール 充電式 ワイヤレスマウス 無線 Windows Mac Chrome iPad OS Android MX1800 グラファイト 国内正規品"
   },
-  "B0FP24CSYK": {
-    "first_seen": "2026-08-09",
-    "first_seen_at": "2026-08-09T19:54:50+09:00",
-    "last_seen": "2026-08-21",
-    "title": "Logicool G ラピッドトリガー G515 RAPID TKL 薄型 ゲーミングキーボード G515-TKL-RTBK アクチュエーションポイント 調整可能 日本語配列 押下圧 35g 有線 テンキーレス 磁気式アナログスイッチ ロープロファイル LIGHTSYNC RGB ゲーミング キーボード メカニカルキーボード ラピトリ ブラック windows 国内正規品"
-  },
   "B0G4CC1S2F": {
     "first_seen": "2026-07-24",
     "first_seen_at": "2026-07-24T12:00:00+09:00",
@@ -802,6 +796,66 @@
     "first_seen_at": "2026-08-14T14:04:35+09:00",
     "last_seen": "2026-08-21",
     "title": "【Amazon.co.jp限定】 Ninja ニンジャ Crispi クリスピー FN100JGYNR 自動調理器 3つの調理モード (クリスプ/ベイク・ロースト/リクリスプ) 煮る 焼く 蒸す 炒める 煮込む 炊く 温風調理 エアフライヤー ノンフライヤー FN100J ネイビー"
+  },
+  "B0CHVZHLZ1": {
+    "first_seen": "2026-08-21",
+    "first_seen_at": "2026-08-21T22:12:16+09:00",
+    "last_seen": "2026-08-21",
+    "title": "CIO モバイルバッテリー PD USB-C×2 USB-A×1 10000mAh SMARTCOBY Pro SLIM 35W (ブラック)"
+  },
+  "B0DB17C63X": {
+    "first_seen": "2026-07-29",
+    "first_seen_at": "2026-07-29T12:00:00+09:00",
+    "last_seen": "2026-08-21",
+    "title": "Anker MagGo Power Bank (10000mAh, Slim) ブラック"
+  },
+  "B0B2QSZRCV": {
+    "first_seen": "2026-08-04",
+    "first_seen_at": "2026-08-04T12:38:09+09:00",
+    "last_seen": "2026-08-21",
+    "title": "Anker 511 Charger (Nano 3, 30W) ブルー"
+  },
+  "B0GD7WBPHS": {
+    "first_seen": "2026-08-09",
+    "first_seen_at": "2026-08-09T19:54:50+09:00",
+    "last_seen": "2026-08-21",
+    "title": "UGREEN Air 100W PD3.0急速充電器 超小型 GaNII USB-C充電器"
+  },
+  "B0DW2LPCFY": {
+    "first_seen": "2026-08-21",
+    "first_seen_at": "2026-08-21T22:12:16+09:00",
+    "last_seen": "2026-08-21",
+    "title": "Anker Zolo Wireless Charger (Magnetic, Pad) 2個セット ホワイト"
+  },
+  "B0D2M5G98N": {
+    "first_seen": "2026-07-30",
+    "first_seen_at": "2026-07-30T12:00:00+09:00",
+    "last_seen": "2026-08-21",
+    "title": "エレコム microSD 32GB マイクロSDカード UHS-1 U1 microSDHC IPX7 MF-AMS032GU11"
+  },
+  "B0F7GGN94D": {
+    "first_seen": "2026-07-28",
+    "first_seen_at": "2026-07-28T12:00:00+09:00",
+    "last_seen": "2026-08-21",
+    "title": "【2025進化】 SwitchBot ロボット掃除機 K11+ 超小型 - 高精度マッピング 6000pa強力吸引 水拭き 使い捨て掃除シート30枚付き 禁止エリア 静音設計 遠隔操作 自動充電 落下防止 2.4GWi-Fi対応 Alexa Google Home IFTTT Siriに対応"
+  },
+  "B0DR2D2Z34": {
+    "first_seen": "2026-08-21",
+    "first_seen_at": "2026-08-21T12:19:55+09:00",
+    "last_seen": "2026-08-21",
+    "title": "XREAL Beam Pro 5G版(8+256GB) XREAL ARグラス空間コンピューティングコンパニオン 3Dカメラ Android 14 すべてのGoogle Playストアアプリをサポート 映画、テレビ、ゲームのための3DoF 空間体験 FHD 1080"
+  },
+  "B0DRJJT13G": {
+    "first_seen": "2026-08-21",
+    "first_seen_at": "2026-08-21T23:02:27+09:00",
+    "last_seen": "2026-08-21",
+    "title": "REALFORCE リアルフォース ラピッドトリガー キーボードGX1 ホワイト 静音 30ｇ TKLサイズ 静電容量無接点方式 最速0.1mm作動 Windows かな無し 日本語配列 日本製 ゲーミングキーボード 91キー X1UC23"
+  },
+  "B0FP24CSYK": {
+    "first_seen": "2026-08-09",
+    "first_seen_at": "2026-08-09T19:54:50+09:00",
+    "last_seen": "2026-08-21",
+    "title": "Logicool G ラピッドトリガー G515 RAPID TKL 薄型 ゲーミングキーボード G515-TKL-RTBK アクチュエーションポイント 調整可能 日本語配列 押下圧 35g 有線 テンキーレス 磁気式アナログスイッチ ロープロファイル LIGHTSYNC RGB ゲーミング キーボード メカニカルキーボード ラピトリ ブラック windows 国内正規品"
   },
   "B0FQG5LKM2": {
     "first_seen": "2026-08-21",
@@ -905,29 +959,11 @@
     "last_seen": "2026-08-21",
     "title": "Anker Power Bank (10000mAh, Fusion, Built-In USB-C ケーブル) ブラック"
   },
-  "B0F6LBT3ZX": {
-    "first_seen": "2026-08-21",
-    "first_seen_at": "2026-08-21T00:51:29+09:00",
-    "last_seen": "2026-08-21",
-    "title": "Anker Nano Power Bank (5000mAh, MagGo, Slim) ブラック"
-  },
   "B0DNLRYJ9X": {
     "first_seen": "2026-08-11",
     "first_seen_at": "2026-08-11T21:00:42+09:00",
     "last_seen": "2026-08-21",
     "title": "Anker Nano Power Bank (22.5W, Built-In USB-C Connector) ピンク"
-  },
-  "B0F99FCSX7": {
-    "first_seen": "2026-07-27",
-    "first_seen_at": "2026-07-27T12:00:00+09:00",
-    "last_seen": "2026-08-21",
-    "title": "Anker Nano Charger (70W, 3 Ports) ブラック"
-  },
-  "B0B2QQDKR8": {
-    "first_seen": "2026-07-27",
-    "first_seen_at": "2026-07-27T12:00:00+09:00",
-    "last_seen": "2026-08-21",
-    "title": "Anker 511 Charger (Nano 3, 30W) ブラック"
   },
   "B0G7HPMG6C": {
     "first_seen": "2026-08-14",
@@ -947,18 +983,6 @@
     "last_seen": "2026-08-21",
     "title": "UGREEN 45W USB-C*4+USB-A*1 急速充電器 Type-C PD GaNⅡ充電器 PSE適合タイプc充電器 PD3.0/PPS/SCP/QC3.0"
   },
-  "B0FBM6X15S": {
-    "first_seen": "2026-08-21",
-    "first_seen_at": "2026-08-21T00:51:29+09:00",
-    "last_seen": "2026-08-21",
-    "title": "Belkin Cubic Charger 67W 充電器 type-c PD充電器 USB-C*2 急速充電 ZSP技術を搭載(待機消費0) ホワイト"
-  },
-  "B0DW2SYD5H": {
-    "first_seen": "2026-08-15",
-    "first_seen_at": "2026-08-15T20:37:29+09:00",
-    "last_seen": "2026-08-21",
-    "title": "Anker Zolo Wireless Charger (Magnetic, Pad) ブラック"
-  },
   "B0CH2WM7QY": {
     "first_seen": "2026-08-21",
     "first_seen_at": "2026-08-21T20:43:23+09:00",
@@ -976,12 +1000,6 @@
     "first_seen_at": "2026-08-21T20:43:23+09:00",
     "last_seen": "2026-08-21",
     "title": "SwitchBot LEDシーリングライトプロ 12畳 スマートリモコン機能付き Alexa 無段階 調光調色 スイッチボット 天井 照明器具 5499lm リモコン付き ハブ機能付き 電球色 昼白色 昼光色 取付簡単 防虫 防塵 省エネ 節電対策 2.4GHzWi-Fi Bluetoothに対応 5年保証 W2612250"
-  },
-  "B0BM8VS13P": {
-    "first_seen": "2026-08-21",
-    "first_seen_at": "2026-08-21T12:19:55+09:00",
-    "last_seen": "2026-08-21",
-    "title": "スイッチボット(SwitchBot) SwitchBot スマートリモコン ハブ2 赤外線家電を管理 スマートホーム Alexa スイッチボット 学習リモコン 温湿度計機能付き 光センサー付き リモートボタン スケジュール シーンで家電一括操作 遠隔操作 節電·省エネ Google Home IFTTT Siri SmartThingsに対応 Hub2"
   },
   "B0F4RDKGJ4": {
     "first_seen": "2026-08-21",
@@ -1180,12 +1198,6 @@
     "first_seen_at": "2026-08-09T23:53:24+09:00",
     "last_seen": "2026-08-21",
     "title": "Logicool Signature M550MGR ワイヤレスマウス 静音 Bluetooth レギュラー グラファイト ワイヤレス マウス 無線 Logi Bolt Unifying非対応 windows mac iPad Android Chrome OS スクロールホイール 無線マウス 静音マウス M550 国内正規品 (× 3)"
-  },
-  "B0DB1HFZLK": {
-    "first_seen": "2026-08-12",
-    "first_seen_at": "2026-08-12T22:45:34+09:00",
-    "last_seen": "2026-08-21",
-    "title": "Anker MagGo Power Bank (10000mAh, Slim) ホワイト"
   },
   "B0DNLR2NYN": {
     "first_seen": "2026-08-17",
