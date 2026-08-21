@@ -89,12 +89,6 @@
     "last_seen": "2026-08-22",
     "title": "Apple Watch Series 11(GPSモデル)- 46mmジェットブラックアルミニウムケースとブラックスポーツバンド - M/L + 2年延長 AppleCare+ for Apple Watch Series 11"
   },
-  "B0FRZ3SZWX": {
-    "first_seen": "2026-08-04",
-    "first_seen_at": "2026-08-04T12:38:09+09:00",
-    "last_seen": "2026-08-22",
-    "title": "Apple AirPods Pro 3 ワイヤレスイヤホン、アクティブノイズキャンセリング、心拍センサー、補聴機能、Bluetoothヘッドホン、空間オーディオ サウンド、USB-C充電ケース、防塵性能と耐汗耐水性能、「探す」対応、Qi充電 + 2年延長 AppleCare+ for AIRPODS PRO 3"
-  },
   "B0DL6WJMN9": {
     "first_seen": "2026-08-18",
     "first_seen_at": "2026-08-18T05:45:21+09:00",
@@ -371,12 +365,6 @@
     "last_seen": "2026-08-22",
     "title": "UGREEN PD充電器 type-c 30W 2*USB-C+1*USB-A GaN PSE適合/PD3.0"
   },
-  "B0GF26RSYQ": {
-    "first_seen": "2026-07-27",
-    "first_seen_at": "2026-07-27T12:00:00+09:00",
-    "last_seen": "2026-08-22",
-    "title": "Anker Nano Charger (45W, Display, スイングプラグ) ブラック"
-  },
   "B0FJS3P8NT": {
     "first_seen": "2026-07-27",
     "first_seen_at": "2026-07-27T12:00:00+09:00",
@@ -443,17 +431,23 @@
     "last_seen": "2026-08-22",
     "title": "Belkin Apple Watch充電器 持ち運び USB-C ドングル ポータブル MFI認証 高速充電 全モデル対応"
   },
+  "B08N4JHGJL": {
+    "first_seen": "2026-07-30",
+    "first_seen_at": "2026-07-30T12:00:00+09:00",
+    "last_seen": "2026-08-22",
+    "title": "Amazon限定 バッファロー ポータブルSSD 1.0TB コンパクト USB3.2Gen1 ブラック SSD-PUT1.0U3-B/N"
+  },
   "B0CZKZ8Q66": {
     "first_seen": "2026-07-30",
     "first_seen_at": "2026-07-30T12:00:00+09:00",
     "last_seen": "2026-08-22",
     "title": "Lexar Silver Plus 128GB Micro SDカード 最大205MB/s MicroSDXC UHS-Iフラッシュメモリーカード アダプター付き C10 U3 A2 V30対応 フルHD 4K UHD 高速TFカード ドローン アクションカメラ 携帯型ゲーム機対応"
   },
-  "B0H8DGSS5L": {
-    "first_seen": "2026-08-22",
-    "first_seen_at": "2026-08-22T02:45:36+09:00",
+  "B0D2M5G98N": {
+    "first_seen": "2026-07-30",
+    "first_seen_at": "2026-07-30T12:00:00+09:00",
     "last_seen": "2026-08-22",
-    "title": "【 サンディスク 正規品 】 SanDisk microSD カード 128GB UHS-I U1 Class10 Nintendo Switch メーカー動作確認済 Ultra SDSQUAB-128G-GH3MA 簡易デザインパッケージ 10年間限定保証 (× 5)"
+    "title": "エレコム microSD 32GB マイクロSDカード UHS-1 U1 microSDHC IPX7 MF-AMS032GU11"
   },
   "B08P45YTTL": {
     "first_seen": "2026-08-21",
@@ -803,6 +797,24 @@
     "last_seen": "2026-08-22",
     "title": "【Amazon.co.jp限定】 Ninja ニンジャ Crispi クリスピー FN100JGYNR 自動調理器 3つの調理モード (クリスプ/ベイク・ロースト/リクリスプ) 煮る 焼く 蒸す 炒める 煮込む 炊く 温風調理 エアフライヤー ノンフライヤー FN100J ネイビー"
   },
+  "B0FRZ3SZWX": {
+    "first_seen": "2026-08-04",
+    "first_seen_at": "2026-08-04T12:38:09+09:00",
+    "last_seen": "2026-08-22",
+    "title": "Apple AirPods Pro 3 ワイヤレスイヤホン、アクティブノイズキャンセリング、心拍センサー、補聴機能、Bluetoothヘッドホン、空間オーディオ サウンド、USB-C充電ケース、防塵性能と耐汗耐水性能、「探す」対応、Qi充電 + 2年延長 AppleCare+ for AIRPODS PRO 3"
+  },
+  "B0GF26RSYQ": {
+    "first_seen": "2026-07-27",
+    "first_seen_at": "2026-07-27T12:00:00+09:00",
+    "last_seen": "2026-08-22",
+    "title": "Anker Nano Charger (45W, Display, スイングプラグ) ブラック"
+  },
+  "B0H8DGSS5L": {
+    "first_seen": "2026-08-22",
+    "first_seen_at": "2026-08-22T02:45:36+09:00",
+    "last_seen": "2026-08-22",
+    "title": "【 サンディスク 正規品 】 SanDisk microSD カード 128GB UHS-I U1 Class10 Nintendo Switch メーカー動作確認済 Ultra SDSQUAB-128G-GH3MA 簡易デザインパッケージ 10年間限定保証 (× 5)"
+  },
   "B0DFWFXKT4": {
     "first_seen": "2026-08-21",
     "first_seen_at": "2026-08-21T23:55:32+09:00",
@@ -923,12 +935,6 @@
     "last_seen": "2026-08-21",
     "title": "Anker Zolo Wireless Charger (Magnetic, Pad) 2個セット ホワイト"
   },
-  "B0D2M5G98N": {
-    "first_seen": "2026-07-30",
-    "first_seen_at": "2026-07-30T12:00:00+09:00",
-    "last_seen": "2026-08-21",
-    "title": "エレコム microSD 32GB マイクロSDカード UHS-1 U1 microSDHC IPX7 MF-AMS032GU11"
-  },
   "B0DR2D2Z34": {
     "first_seen": "2026-08-21",
     "first_seen_at": "2026-08-21T12:19:55+09:00",
@@ -988,12 +994,6 @@
     "first_seen_at": "2026-07-29T12:00:00+09:00",
     "last_seen": "2026-08-21",
     "title": "Anker Nano Charger (20W) ホワイト"
-  },
-  "B08N4JHGJL": {
-    "first_seen": "2026-07-30",
-    "first_seen_at": "2026-07-30T12:00:00+09:00",
-    "last_seen": "2026-08-21",
-    "title": "Amazon限定 バッファロー ポータブルSSD 1.0TB コンパクト USB3.2Gen1 ブラック SSD-PUT1.0U3-B/N"
   },
   "B0CH2XS4CL": {
     "first_seen": "2026-08-21",
