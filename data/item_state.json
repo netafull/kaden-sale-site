@@ -209,6 +209,12 @@
     "last_seen": "2026-08-22",
     "title": "UGREEN 145W 4-in-1モバイルバッテリー 20000mAh 15Wマグネット式ワイヤレス充電対応 3ポート"
   },
+  "B0CX4C1TVK": {
+    "first_seen": "2026-07-27",
+    "first_seen_at": "2026-07-27T12:00:00+09:00",
+    "last_seen": "2026-08-22",
+    "title": "Anker Power Bank (10000mAh, Fusion, Built-In USB-C ケーブル) ブラック"
+  },
   "B0F6NFHB31": {
     "first_seen": "2026-07-25",
     "first_seen_at": "2026-07-25T12:00:00+09:00",
@@ -220,12 +226,6 @@
     "first_seen_at": "2026-07-29T12:00:00+09:00",
     "last_seen": "2026-08-22",
     "title": "CIO モバイルバッテリー USB-Cケーブル内蔵 軽量 10000mAh SMARTCOBY Pro SLIM CABLE 35W (ブラック)"
-  },
-  "B0CX4FKYCS": {
-    "first_seen": "2026-08-09",
-    "first_seen_at": "2026-08-09T22:18:05+09:00",
-    "last_seen": "2026-08-22",
-    "title": "Anker Power Bank (10000mAh, Fusion, Built-In USB-C ケーブル) ホワイト"
   },
   "B0F6LBT3ZX": {
     "first_seen": "2026-08-21",
@@ -251,11 +251,11 @@
     "last_seen": "2026-08-22",
     "title": "Belkin Apple Watch充電器一体型 モバイルバッテリー 3C認証 10000mAh 45W USB-Cケーブル内蔵 3台同時充電"
   },
-  "B0DB1HFZLK": {
-    "first_seen": "2026-08-12",
-    "first_seen_at": "2026-08-12T22:45:34+09:00",
+  "B0DB17C63X": {
+    "first_seen": "2026-07-29",
+    "first_seen_at": "2026-07-29T12:00:00+09:00",
     "last_seen": "2026-08-22",
-    "title": "Anker MagGo Power Bank (10000mAh, Slim) ホワイト"
+    "title": "Anker MagGo Power Bank (10000mAh, Slim) ブラック"
   },
   "B0FRSR6BVR": {
     "first_seen": "2026-08-07",
@@ -280,6 +280,12 @@
     "first_seen_at": "2026-08-21T12:19:55+09:00",
     "last_seen": "2026-08-22",
     "title": "エレコム 半固体電池 モバイルバッテリー 10000mAh PD35W Type-C USB-A 燃えにくい 安全設計 長寿命 2000回サイクル 3台同時充電 残量表示 軽量220g PSE認証 機内持ち込み可 iPhone対応 ミッドナイト EC-C61MN"
+  },
+  "B0CQY7SRTY": {
+    "first_seen": "2026-07-27",
+    "first_seen_at": "2026-07-27T12:00:00+09:00",
+    "last_seen": "2026-08-22",
+    "title": "Anker Power Bank (20000mAh, 30W) ブラック"
   },
   "B0CCJFY2V4": {
     "first_seen": "2026-07-29",
@@ -311,17 +317,17 @@
     "last_seen": "2026-08-22",
     "title": "UGREEN Nexode【当社比最小】65W PD充電器 USB-C*2+USB-A*1 急速充電器 PSE適合 PD/PPS/QC4+対応"
   },
-  "B0FVM1C19Y": {
-    "first_seen": "2026-07-31",
-    "first_seen_at": "2026-07-31T12:00:00+09:00",
-    "last_seen": "2026-08-22",
-    "title": "Belkin Qi2 車載ワイヤレス充電器 15W急速充電 MagSafe対応 スマホホルダー エアコン吹き出し口用"
-  },
   "B0FDFBKXKH": {
     "first_seen": "2026-08-15",
     "first_seen_at": "2026-08-15T19:40:40+09:00",
     "last_seen": "2026-08-22",
     "title": "Belkin Cubic Charger 45W 充電器 type-c iphone 充電器 急速充電 PD3.2 PPS対応"
+  },
+  "B0FVM1C19Y": {
+    "first_seen": "2026-07-31",
+    "first_seen_at": "2026-07-31T12:00:00+09:00",
+    "last_seen": "2026-08-22",
+    "title": "Belkin Qi2 車載ワイヤレス充電器 15W急速充電 MagSafe対応 スマホホルダー エアコン吹き出し口用"
   },
   "B0C5CBV6L3": {
     "first_seen": "2026-07-29",
@@ -359,23 +365,11 @@
     "last_seen": "2026-08-22",
     "title": "Anker Prime Charger (100W, 3 Ports, GaN)"
   },
-  "B0BF43HS1G": {
-    "first_seen": "2026-07-27",
-    "first_seen_at": "2026-07-27T12:00:00+09:00",
-    "last_seen": "2026-08-22",
-    "title": "Anker 523 Charger (Nano 3, 47W) ホワイト"
-  },
   "B0F9FHXPDF": {
     "first_seen": "2026-07-27",
     "first_seen_at": "2026-07-27T12:00:00+09:00",
     "last_seen": "2026-08-22",
     "title": "UGREEN 100W PD 急速充電器 USB-C×4/USB-A×1 タッチモニター搭載 PSE認証済 36*75*75mm"
-  },
-  "B0F9CZD8NV": {
-    "first_seen": "2026-08-22",
-    "first_seen_at": "2026-08-22T00:50:58+09:00",
-    "last_seen": "2026-08-22",
-    "title": "Belkin ベルキン BoostCharge Pro 100W GaN 急速充電器 3ポート USB-C×2 USB-A×1 PD 3.1 PPS対応 海外対応 US/EU/UKプラグ付 iPhone 17/16/15 MacBook iPad Galaxy対応 折りたたみ式 PSE認証 トラベルポーチ付 ホワイト WCH016fqWH"
   },
   "B0DG93MZCR": {
     "first_seen": "2026-07-27",
@@ -436,6 +430,12 @@
     "first_seen_at": "2026-08-21T00:51:29+09:00",
     "last_seen": "2026-08-22",
     "title": "Anker Prime Charger (160W, 3 Ports) シルバー"
+  },
+  "B0GMGHTNBB": {
+    "first_seen": "2026-08-21",
+    "first_seen_at": "2026-08-21T12:19:55+09:00",
+    "last_seen": "2026-08-22",
+    "title": "エレコム 65W 充電器 Type-C コンセント 急速 PD対応 スイング式プラグ採用 PSE技術基準適合 ブラック EC-AC12465BK"
   },
   "B0DRP2QYCY": {
     "first_seen": "2026-08-04",
@@ -545,11 +545,17 @@
     "last_seen": "2026-08-22",
     "title": "SwitchBot 空気清浄機Table スマートリモコン ハブ2 アレクサ - スイッチボット 25畳 小型 省エネ 大風量 360度全方位 浄化 消臭 除菌 集じん HEPA フィルター 花粉 ニオイ対策 タイマー機能 Alexa Google Home Siriに対応 (空気清浄機Table 1点+ハブ2 1点)"
   },
-  "B0DFWFXKT4": {
-    "first_seen": "2026-08-21",
-    "first_seen_at": "2026-08-21T23:55:32+09:00",
+  "B0C9TKSP8V": {
+    "first_seen": "2026-07-30",
+    "first_seen_at": "2026-07-30T12:00:00+09:00",
     "last_seen": "2026-08-22",
-    "title": "【3in1、超小型】 SwitchBot ロボット掃除機 K10+ProCombo コードレス掃除機 - 軽量 20000pa 自動ゴミ収集 水拭き応"
+    "title": "【節電対策】SwitchBot サーキュレーター 静音22dB コードレス 最大50時間 - スイッチボット ~30畳 Alexa対応 扇風機 DCモーター 3D首振り 無段階風量調整 充電式バッテリー搭載 リモコン付き 梅雨対策 省エネ"
+  },
+  "B0F7GGN94D": {
+    "first_seen": "2026-07-28",
+    "first_seen_at": "2026-07-28T12:00:00+09:00",
+    "last_seen": "2026-08-22",
+    "title": "【2025進化】 SwitchBot ロボット掃除機 K11+ 超小型 - 高精度マッピング 6000pa強力吸引 水拭き 使い捨て掃除シート30枚付き 禁止エリア 静音設計 遠隔操作 自動充電 落下防止 2.4GWi-Fi対応 Alexa Google Home IFTTT Siriに対応"
   },
   "B0BM8VS13P": {
     "first_seen": "2026-08-21",
@@ -658,12 +664,6 @@
     "first_seen_at": "2026-07-26T12:00:00+09:00",
     "last_seen": "2026-08-22",
     "title": "ロジクール KX850FT MX MECHANICAL ワイヤレス メカニカル パフォーマンス キーボード 茶軸 タクタイル テンキー 静かな打鍵感 特に静か Logi Bolt bluetooth Unifying非対応 薄型 無線 メカニカルキーボード windows mac chrome Android ワイヤレスキーボード KX850 国内正規品 グラファイト"
-  },
-  "B0B1Q5T5TQ": {
-    "first_seen": "2026-07-29",
-    "first_seen_at": "2026-07-29T12:00:00+09:00",
-    "last_seen": "2026-08-22",
-    "title": "ロジクール KX850CT MX MECHANICAL MINI ミニマリスト ワイヤレス メカニカル パフォーマンス キーボード 茶軸 タクタイル テンキーレス 静かな打鍵感 特に静か Logi Bolt bluetooth Unifying非対応 薄型 無線 メカニカルキーボード windows mac chrome Android ワイヤレスキーボード KX850 国内正規品 グラファイト"
   },
   "B07PJW2X2F": {
     "first_seen": "2026-07-26",
@@ -803,6 +803,42 @@
     "last_seen": "2026-08-22",
     "title": "【Amazon.co.jp限定】 Ninja ニンジャ Crispi クリスピー FN100JGYNR 自動調理器 3つの調理モード (クリスプ/ベイク・ロースト/リクリスプ) 煮る 焼く 蒸す 炒める 煮込む 炊く 温風調理 エアフライヤー ノンフライヤー FN100J ネイビー"
   },
+  "B0CX4FKYCS": {
+    "first_seen": "2026-08-09",
+    "first_seen_at": "2026-08-09T22:18:05+09:00",
+    "last_seen": "2026-08-22",
+    "title": "Anker Power Bank (10000mAh, Fusion, Built-In USB-C ケーブル) ホワイト"
+  },
+  "B0DB1HFZLK": {
+    "first_seen": "2026-08-12",
+    "first_seen_at": "2026-08-12T22:45:34+09:00",
+    "last_seen": "2026-08-22",
+    "title": "Anker MagGo Power Bank (10000mAh, Slim) ホワイト"
+  },
+  "B0BF43HS1G": {
+    "first_seen": "2026-07-27",
+    "first_seen_at": "2026-07-27T12:00:00+09:00",
+    "last_seen": "2026-08-22",
+    "title": "Anker 523 Charger (Nano 3, 47W) ホワイト"
+  },
+  "B0F9CZD8NV": {
+    "first_seen": "2026-08-22",
+    "first_seen_at": "2026-08-22T00:50:58+09:00",
+    "last_seen": "2026-08-22",
+    "title": "Belkin ベルキン BoostCharge Pro 100W GaN 急速充電器 3ポート USB-C×2 USB-A×1 PD 3.1 PPS対応 海外対応 US/EU/UKプラグ付 iPhone 17/16/15 MacBook iPad Galaxy対応 折りたたみ式 PSE認証 トラベルポーチ付 ホワイト WCH016fqWH"
+  },
+  "B0DFWFXKT4": {
+    "first_seen": "2026-08-21",
+    "first_seen_at": "2026-08-21T23:55:32+09:00",
+    "last_seen": "2026-08-22",
+    "title": "【3in1、超小型】 SwitchBot ロボット掃除機 K10+ProCombo コードレス掃除機 - 軽量 20000pa 自動ゴミ収集 水拭き応"
+  },
+  "B0B1Q5T5TQ": {
+    "first_seen": "2026-07-29",
+    "first_seen_at": "2026-07-29T12:00:00+09:00",
+    "last_seen": "2026-08-22",
+    "title": "ロジクール KX850CT MX MECHANICAL MINI ミニマリスト ワイヤレス メカニカル パフォーマンス キーボード 茶軸 タクタイル テンキーレス 静かな打鍵感 特に静か Logi Bolt bluetooth Unifying非対応 薄型 無線 メカニカルキーボード windows mac chrome Android ワイヤレスキーボード KX850 国内正規品 グラファイト"
+  },
   "B0FQFJ1XJN": {
     "first_seen": "2026-08-21",
     "first_seen_at": "2026-08-21T22:12:16+09:00",
@@ -821,23 +857,11 @@
     "last_seen": "2026-08-21",
     "title": "UGREEN MagFlow Qi2 25W認証 モバイルバッテリー Magsafe対応 マグネット式ワイヤレス急速充電 10000mAh ブラック"
   },
-  "B0CQY7SRTY": {
-    "first_seen": "2026-07-27",
-    "first_seen_at": "2026-07-27T12:00:00+09:00",
-    "last_seen": "2026-08-21",
-    "title": "Anker Power Bank (20000mAh, 30W) ブラック"
-  },
   "B0DMFFK5LV": {
     "first_seen": "2026-07-29",
     "first_seen_at": "2026-07-29T12:00:00+09:00",
     "last_seen": "2026-08-21",
     "title": "UGREEN 45W USB-C*2+USB-A*1 急速充電器 Type-C PD GaNⅡ充電器 PSE適合タイプc充電器 PD/PPS/SCP/QC3.0"
-  },
-  "B0GMGHTNBB": {
-    "first_seen": "2026-08-21",
-    "first_seen_at": "2026-08-21T12:19:55+09:00",
-    "last_seen": "2026-08-21",
-    "title": "エレコム 65W 充電器 Type-C コンセント 急速 PD対応 スイング式プラグ採用 PSE技術基準適合 ブラック EC-AC12465BK"
   },
   "B0D2M7GXGL": {
     "first_seen": "2026-08-21",
@@ -863,12 +887,6 @@
     "last_seen": "2026-08-21",
     "title": "CIO モバイルバッテリー PD USB-C×2 USB-A×1 10000mAh SMARTCOBY Pro SLIM 35W (ブラック)"
   },
-  "B0DB17C63X": {
-    "first_seen": "2026-07-29",
-    "first_seen_at": "2026-07-29T12:00:00+09:00",
-    "last_seen": "2026-08-21",
-    "title": "Anker MagGo Power Bank (10000mAh, Slim) ブラック"
-  },
   "B0B2QSZRCV": {
     "first_seen": "2026-08-04",
     "first_seen_at": "2026-08-04T12:38:09+09:00",
@@ -892,12 +910,6 @@
     "first_seen_at": "2026-07-30T12:00:00+09:00",
     "last_seen": "2026-08-21",
     "title": "エレコム microSD 32GB マイクロSDカード UHS-1 U1 microSDHC IPX7 MF-AMS032GU11"
-  },
-  "B0F7GGN94D": {
-    "first_seen": "2026-07-28",
-    "first_seen_at": "2026-07-28T12:00:00+09:00",
-    "last_seen": "2026-08-21",
-    "title": "【2025進化】 SwitchBot ロボット掃除機 K11+ 超小型 - 高精度マッピング 6000pa強力吸引 水拭き 使い捨て掃除シート30枚付き 禁止エリア 静音設計 遠隔操作 自動充電 落下防止 2.4GWi-Fi対応 Alexa Google Home IFTTT Siriに対応"
   },
   "B0DR2D2Z34": {
     "first_seen": "2026-08-21",
@@ -1001,12 +1013,6 @@
     "last_seen": "2026-08-21",
     "title": "Bose QuietComfort Ultra Earbuds (第2世代) ワイヤレス ノイズキャンセリング Bluetooth イヤホン 最長6時間連続再生 IPX4規格準拠 イマーシブオーディオ 迫力の重低音 ホワイトスモーク"
   },
-  "B0CX4C1TVK": {
-    "first_seen": "2026-07-27",
-    "first_seen_at": "2026-07-27T12:00:00+09:00",
-    "last_seen": "2026-08-21",
-    "title": "Anker Power Bank (10000mAh, Fusion, Built-In USB-C ケーブル) ブラック"
-  },
   "B0DNLRYJ9X": {
     "first_seen": "2026-08-11",
     "first_seen_at": "2026-08-11T21:00:42+09:00",
@@ -1030,12 +1036,6 @@
     "first_seen_at": "2026-08-21T20:43:23+09:00",
     "last_seen": "2026-08-21",
     "title": "【 サンディスク 正規品 】 SanDisk microSD カード Ultra SDSQUA4-032G-GH3MA 簡易デザインパッケージ"
-  },
-  "B0C9TKSP8V": {
-    "first_seen": "2026-07-30",
-    "first_seen_at": "2026-07-30T12:00:00+09:00",
-    "last_seen": "2026-08-21",
-    "title": "【節電対策】SwitchBot サーキュレーター 静音22dB コードレス 最大50時間 - スイッチボット ~30畳 Alexa対応 扇風機 DCモーター 3D首振り 無段階風量調整 充電式バッテリー搭載 リモコン付き 梅雨対策 省エネ"
   },
   "B0BN5ZG2T8": {
     "first_seen": "2026-08-21",
