@@ -293,12 +293,6 @@
     "last_seen": "2026-08-22",
     "title": "【VGP受賞】Belkin 充電器 USB-C 2ポート PPS規格対応 GaN採用 小型 ACアダプター タイプC 急速充電 軽量【PD3.0対応 /PSE認証/折りたたみ式プラグ】45W(25W+20W) MacBook Windows PC Surface Pro iPad iPhone 17,16～12対応 Galaxy Android スマホ 各種ノートPC対応 WCH011dqWH"
   },
-  "B0DMN885ZF": {
-    "first_seen": "2026-08-05",
-    "first_seen_at": "2026-08-05T03:07:44+09:00",
-    "last_seen": "2026-08-22",
-    "title": "UGREEN 45W USB-C 急速充電器 Type-C PD GaNⅡ充電器 PSE適合タイプc充電器 PD/PPS/SCP/QC3.0"
-  },
   "B0FVM1C19Y": {
     "first_seen": "2026-07-31",
     "first_seen_at": "2026-07-31T12:00:00+09:00",
@@ -377,6 +371,12 @@
     "last_seen": "2026-08-22",
     "title": "Anker Nano Charger (45W, Display, スイングプラグ) ブラック"
   },
+  "B0FJS3P8NT": {
+    "first_seen": "2026-07-27",
+    "first_seen_at": "2026-07-27T12:00:00+09:00",
+    "last_seen": "2026-08-22",
+    "title": "UGREEN 45W USB-C*4+USB-A*1 急速充電器 Type-C GaNⅡ タイプc PSE適合/PD3.0/PPS/SCP/QC3.0"
+  },
   "B0DNT9Z2HS": {
     "first_seen": "2026-07-27",
     "first_seen_at": "2026-07-27T12:00:00+09:00",
@@ -424,6 +424,12 @@
     "first_seen_at": "2026-08-21T00:51:29+09:00",
     "last_seen": "2026-08-22",
     "title": "Anker Prime Charger (160W, 3 Ports) シルバー"
+  },
+  "B0GMGHTNBB": {
+    "first_seen": "2026-08-21",
+    "first_seen_at": "2026-08-21T12:19:55+09:00",
+    "last_seen": "2026-08-22",
+    "title": "エレコム 65W 充電器 Type-C コンセント 急速 PD対応 スイング式プラグ採用 PSE技術基準適合 ブラック EC-AC12465BK"
   },
   "B0CZKZ8Q66": {
     "first_seen": "2026-07-30",
@@ -761,12 +767,6 @@
     "last_seen": "2026-08-22",
     "title": "Logicool G ゲーミングマウス G304 LIGHTSPEED ワイヤレス ゲーミング マウス 軽量 99g HERO 12Kセンサー 6個プログラムボタン 250時間連続使用可能 ブラック PC windows mac 国内正規品 【 ファイナルファンタジー XIV 推奨モデル 】"
   },
-  "B0DC5X912P": {
-    "first_seen": "2026-08-04",
-    "first_seen_at": "2026-08-04T21:17:38+09:00",
-    "last_seen": "2026-08-22",
-    "title": "ロジクール 静音 ワイヤレス トラックボール マウス MXTB2 MX ERGO S Bluetooth Logibolt 無線 windows mac iPad OS Chrome Android トラックボールマウス グラファイト 国内正規品"
-  },
   "B09HQCW3P8": {
     "first_seen": "2026-08-14",
     "first_seen_at": "2026-08-14T21:00:27+09:00",
@@ -833,11 +833,17 @@
     "last_seen": "2026-08-22",
     "title": "【Amazon.co.jp限定】 Ninja ニンジャ Crispi クリスピー FN100JGYNR 自動調理器 3つの調理モード (クリスプ/ベイク・ロースト/リクリスプ) 煮る 焼く 蒸す 炒める 煮込む 炊く 温風調理 エアフライヤー ノンフライヤー FN100J ネイビー"
   },
-  "B0GMGHTNBB": {
-    "first_seen": "2026-08-21",
-    "first_seen_at": "2026-08-21T12:19:55+09:00",
+  "B0DMN885ZF": {
+    "first_seen": "2026-08-05",
+    "first_seen_at": "2026-08-05T03:07:44+09:00",
     "last_seen": "2026-08-22",
-    "title": "エレコム 65W 充電器 Type-C コンセント 急速 PD対応 スイング式プラグ採用 PSE技術基準適合 ブラック EC-AC12465BK"
+    "title": "UGREEN 45W USB-C 急速充電器 Type-C PD GaNⅡ充電器 PSE適合タイプc充電器 PD/PPS/SCP/QC3.0"
+  },
+  "B0DC5X912P": {
+    "first_seen": "2026-08-04",
+    "first_seen_at": "2026-08-04T21:17:38+09:00",
+    "last_seen": "2026-08-22",
+    "title": "ロジクール 静音 ワイヤレス トラックボール マウス MXTB2 MX ERGO S Bluetooth Logibolt 無線 windows mac iPad OS Chrome Android トラックボールマウス グラファイト 国内正規品"
   },
   "B0F7GGN94D": {
     "first_seen": "2026-07-28",
@@ -886,12 +892,6 @@
     "first_seen_at": "2026-07-29T12:00:00+09:00",
     "last_seen": "2026-08-22",
     "title": "Anker MagGo Power Bank (10000mAh, Slim) ブラック"
-  },
-  "B0FJS3P8NT": {
-    "first_seen": "2026-07-27",
-    "first_seen_at": "2026-07-27T12:00:00+09:00",
-    "last_seen": "2026-08-22",
-    "title": "UGREEN 45W USB-C*4+USB-A*1 急速充電器 Type-C GaNⅡ タイプc PSE適合/PD3.0/PPS/SCP/QC3.0"
   },
   "B0BVYT1T74": {
     "first_seen": "2026-08-21",
