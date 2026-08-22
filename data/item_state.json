@@ -119,11 +119,11 @@
     "last_seen": "2026-08-22",
     "title": "Apple 2026 MacBook Pro 18コアCPU、32コアGPUのM5 Maxチップ搭載ノートパソコン：AIのために設計、14.2インチLiquid Retina XDRディスプレイ、36GBユニファイドメモリ、2TBのSSDストレージ - スペースブラック + 3年延長 AppleCare+ for 14インチMacBook Pro(M5 Pro/M5 Max)|ダウンロード版"
   },
-  "B0FQG5PN5S": {
-    "first_seen": "2026-08-22",
-    "first_seen_at": "2026-08-22T06:41:20+09:00",
+  "B0FQFWV3SK": {
+    "first_seen": "2026-08-13",
+    "first_seen_at": "2026-08-13T09:31:31+09:00",
     "last_seen": "2026-08-22",
-    "title": "Apple Watch Ultra 3(GPS + Cellularモデル)- 49mmナチュラルチタニウムケースとアンカーブルーオーシャンバンド"
+    "title": "Apple Watch Ultra 3(GPS + Cellularモデル)- 49mmブラックチタニウムケースとブラックオーシャンバンド"
   },
   "B0FWF4HS1R": {
     "first_seen": "2026-08-18",
@@ -341,17 +341,17 @@
     "last_seen": "2026-08-22",
     "title": "UGREEN 100W PD 急速充電器 USB-C×4/USB-A×1 タッチモニター搭載 PSE認証済 36*75*75mm"
   },
-  "B0F9CZD8NV": {
-    "first_seen": "2026-08-22",
-    "first_seen_at": "2026-08-22T00:50:58+09:00",
-    "last_seen": "2026-08-22",
-    "title": "Belkin ベルキン BoostCharge Pro 100W GaN 急速充電器 3ポート USB-C×2 USB-A×1 PD 3.1 PPS対応 海外対応 US/EU/UKプラグ付 iPhone 17/16/15 MacBook iPad Galaxy対応 折りたたみ式 PSE認証 トラベルポーチ付 ホワイト WCH016fqWH"
-  },
   "B0DG93MZCR": {
     "first_seen": "2026-07-27",
     "first_seen_at": "2026-07-27T12:00:00+09:00",
     "last_seen": "2026-08-22",
     "title": "UGREEN PD充電器 type-c 30W 2*USB-C+1*USB-A GaN PSE適合/PD3.0"
+  },
+  "B0GF26RSYQ": {
+    "first_seen": "2026-07-27",
+    "first_seen_at": "2026-07-27T12:00:00+09:00",
+    "last_seen": "2026-08-22",
+    "title": "Anker Nano Charger (45W, Display, スイングプラグ) ブラック"
   },
   "B0FJS3P8NT": {
     "first_seen": "2026-07-27",
@@ -503,6 +503,12 @@
     "last_seen": "2026-08-22",
     "title": "INNOCN ゲーミングモニター 24.5インチ 200Hz IPS 1ms(GTG) フルHD 非光沢 フレームレス PS5/Xbox対応 Adaptive-Sync VESA100×100 HDMI2.0/DP1.4接続 25G2G"
   },
+  "B0DYD1R49S": {
+    "first_seen": "2026-07-30",
+    "first_seen_at": "2026-07-30T12:00:00+09:00",
+    "last_seen": "2026-08-22",
+    "title": "SwitchBot 空気清浄機Table スマートリモコン ハブ2 アレクサ - スイッチボット 25畳 小型 省エネ 大風量 360度全方位 浄化 消臭 除菌 集じん HEPA フィルター 花粉 ニオイ対策 タイマー機能 Alexa Google Home Siriに対応 (空気清浄機Table 1点+ハブ2 1点)"
+  },
   "B0C9TKSP8V": {
     "first_seen": "2026-07-30",
     "first_seen_at": "2026-07-30T12:00:00+09:00",
@@ -514,12 +520,6 @@
     "first_seen_at": "2026-07-28T12:00:00+09:00",
     "last_seen": "2026-08-22",
     "title": "【2025進化】 SwitchBot ロボット掃除機 K11+ 超小型 - 高精度マッピング 6000pa強力吸引 水拭き 使い捨て掃除シート30枚付き 禁止エリア 静音設計 遠隔操作 自動充電 落下防止 2.4GWi-Fi対応 Alexa Google Home IFTTT Siriに対応"
-  },
-  "B0DYD1CZHM": {
-    "first_seen": "2026-08-22",
-    "first_seen_at": "2026-08-22T06:41:20+09:00",
-    "last_seen": "2026-08-22",
-    "title": "SwitchBot 空気清浄機 スマートリモコン ハブ2 アレクサ - スイッチボット 25畳 小型 省エネ 大風量 360度全方位 浄化 消臭 除菌 集じん HEPA フィルター 花粉 ニオイ対策 抜け毛対策 タイマー機能 Alexa Google Home Siriに対応 (空気清浄機 1点+ハブ2 1点)"
   },
   "B0BM8VS13P": {
     "first_seen": "2026-08-21",
@@ -767,6 +767,24 @@
     "last_seen": "2026-08-22",
     "title": "【Amazon.co.jp限定】 Ninja ニンジャ Crispi クリスピー FN100JGYNR 自動調理器 3つの調理モード (クリスプ/ベイク・ロースト/リクリスプ) 煮る 焼く 蒸す 炒める 煮込む 炊く 温風調理 エアフライヤー ノンフライヤー FN100J ネイビー"
   },
+  "B0FQG5PN5S": {
+    "first_seen": "2026-08-22",
+    "first_seen_at": "2026-08-22T06:41:20+09:00",
+    "last_seen": "2026-08-22",
+    "title": "Apple Watch Ultra 3(GPS + Cellularモデル)- 49mmナチュラルチタニウムケースとアンカーブルーオーシャンバンド"
+  },
+  "B0F9CZD8NV": {
+    "first_seen": "2026-08-22",
+    "first_seen_at": "2026-08-22T00:50:58+09:00",
+    "last_seen": "2026-08-22",
+    "title": "Belkin ベルキン BoostCharge Pro 100W GaN 急速充電器 3ポート USB-C×2 USB-A×1 PD 3.1 PPS対応 海外対応 US/EU/UKプラグ付 iPhone 17/16/15 MacBook iPad Galaxy対応 折りたたみ式 PSE認証 トラベルポーチ付 ホワイト WCH016fqWH"
+  },
+  "B0DYD1CZHM": {
+    "first_seen": "2026-08-22",
+    "first_seen_at": "2026-08-22T06:41:20+09:00",
+    "last_seen": "2026-08-22",
+    "title": "SwitchBot 空気清浄機 スマートリモコン ハブ2 アレクサ - スイッチボット 25畳 小型 省エネ 大風量 360度全方位 浄化 消臭 除菌 集じん HEPA フィルター 花粉 ニオイ対策 抜け毛対策 タイマー機能 Alexa Google Home Siriに対応 (空気清浄機 1点+ハブ2 1点)"
+  },
   "B0FQGJTXYQ": {
     "first_seen": "2026-08-21",
     "first_seen_at": "2026-08-21T09:04:46+09:00",
@@ -827,12 +845,6 @@
     "last_seen": "2026-08-22",
     "title": "Apple Watch Series 11(GPSモデル)- 46mmジェットブラックアルミニウムケースとブラックスポーツバンド - M/L + 2年延長 AppleCare+ for Apple Watch Series 11"
   },
-  "B0DYD1R49S": {
-    "first_seen": "2026-07-30",
-    "first_seen_at": "2026-07-30T12:00:00+09:00",
-    "last_seen": "2026-08-22",
-    "title": "SwitchBot 空気清浄機Table スマートリモコン ハブ2 アレクサ - スイッチボット 25畳 小型 省エネ 大風量 360度全方位 浄化 消臭 除菌 集じん HEPA フィルター 花粉 ニオイ対策 タイマー機能 Alexa Google Home Siriに対応 (空気清浄機Table 1点+ハブ2 1点)"
-  },
   "B0H8F13G13": {
     "first_seen": "2026-08-21",
     "first_seen_at": "2026-08-21T23:02:27+09:00",
@@ -856,12 +868,6 @@
     "first_seen_at": "2026-08-04T12:38:09+09:00",
     "last_seen": "2026-08-22",
     "title": "Apple AirPods Pro 3 ワイヤレスイヤホン、アクティブノイズキャンセリング、心拍センサー、補聴機能、Bluetoothヘッドホン、空間オーディオ サウンド、USB-C充電ケース、防塵性能と耐汗耐水性能、「探す」対応、Qi充電 + 2年延長 AppleCare+ for AIRPODS PRO 3"
-  },
-  "B0GF26RSYQ": {
-    "first_seen": "2026-07-27",
-    "first_seen_at": "2026-07-27T12:00:00+09:00",
-    "last_seen": "2026-08-22",
-    "title": "Anker Nano Charger (45W, Display, スイングプラグ) ブラック"
   },
   "B0DFWFXKT4": {
     "first_seen": "2026-08-21",
@@ -1150,12 +1156,6 @@
     "first_seen_at": "2026-08-04T08:22:12+09:00",
     "last_seen": "2026-08-21",
     "title": "ロジクール MX ANYWHERE 3S MX1800PG 静音 マウス Bluetooth Logi Bolt Unifying非対応 コンパクト Smart Actions 対応 高速スクロールホイール 充電式 ワイヤレスマウス 無線 Windows Mac Chrome iPad OS Android MX1800 ペイルグレー 国内正規品"
-  },
-  "B0FQFWV3SK": {
-    "first_seen": "2026-08-13",
-    "first_seen_at": "2026-08-13T09:31:31+09:00",
-    "last_seen": "2026-08-21",
-    "title": "Apple Watch Ultra 3(GPS + Cellularモデル)- 49mmブラックチタニウムケースとブラックオーシャンバンド"
   },
   "B0FL2HYBGJ": {
     "first_seen": "2026-08-04",
