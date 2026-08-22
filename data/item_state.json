@@ -317,11 +317,11 @@
     "last_seen": "2026-08-22",
     "title": "Anker Nano Charger (70W, 3 Ports) ブラック"
   },
-  "B0B2QR8HN9": {
-    "first_seen": "2026-08-09",
-    "first_seen_at": "2026-08-09T19:54:50+09:00",
+  "B0B2QQDKR8": {
+    "first_seen": "2026-07-27",
+    "first_seen_at": "2026-07-27T12:00:00+09:00",
     "last_seen": "2026-08-22",
-    "title": "Anker 511 Charger (Nano 3, 30W) ホワイト"
+    "title": "Anker 511 Charger (Nano 3, 30W) ブラック"
   },
   "B0D6QQFMCS": {
     "first_seen": "2026-08-07",
@@ -358,12 +358,6 @@
     "first_seen_at": "2026-07-31T12:00:00+09:00",
     "last_seen": "2026-08-22",
     "title": "Belkin Apple Watch充電器 持ち運び USB-C ドングル ポータブル MFI認証 高速充電 全モデル対応"
-  },
-  "B0F9CZD8NV": {
-    "first_seen": "2026-08-22",
-    "first_seen_at": "2026-08-22T00:50:58+09:00",
-    "last_seen": "2026-08-22",
-    "title": "Belkin ベルキン BoostCharge Pro 100W GaN 急速充電器 3ポート USB-C×2 USB-A×1 PD 3.1 PPS対応 海外対応 US/EU/UKプラグ付 iPhone 17/16/15 MacBook iPad Galaxy対応 折りたたみ式 PSE認証 トラベルポーチ付 ホワイト WCH016fqWH"
   },
   "B0DG93MZCR": {
     "first_seen": "2026-07-27",
@@ -424,12 +418,6 @@
     "first_seen_at": "2026-08-21T00:51:29+09:00",
     "last_seen": "2026-08-22",
     "title": "Anker Prime Charger (160W, 3 Ports) シルバー"
-  },
-  "B0GMGHTNBB": {
-    "first_seen": "2026-08-21",
-    "first_seen_at": "2026-08-21T12:19:55+09:00",
-    "last_seen": "2026-08-22",
-    "title": "エレコム 65W 充電器 Type-C コンセント 急速 PD対応 スイング式プラグ採用 PSE技術基準適合 ブラック EC-AC12465BK"
   },
   "B0CZKZ8Q66": {
     "first_seen": "2026-07-30",
@@ -502,6 +490,12 @@
     "first_seen_at": "2026-08-19T00:48:17+09:00",
     "last_seen": "2026-08-22",
     "title": "Xiaomi A27Ui 27インチ 4K モニター UHD 3840×2160 90W USB-C給電対応 IPS"
+  },
+  "B0DQL1SYFT": {
+    "first_seen": "2026-08-05",
+    "first_seen_at": "2026-08-05T21:15:31+09:00",
+    "last_seen": "2026-08-22",
+    "title": "IODATA ゲーミングモニター 23.8インチ GigaCrysta 240Hz ADSパネル 1ms ヒーラーホワイト 無輝点保証対応(HDMI×2/DisplayPort/VESA対応/土日サポート/日本メーカー) EX-GD242UDW"
   },
   "B0F7X3VJ99": {
     "first_seen": "2026-08-02",
@@ -640,12 +634,6 @@
     "first_seen_at": "2026-08-19T16:07:39+09:00",
     "last_seen": "2026-08-22",
     "title": "VITURE Beast ARグラス 【家電批評Best Buy・VGP金賞・企画賞】 174インチ 光学技術で映像を鮮明に 3DoF対応"
-  },
-  "B0DR2D2Z34": {
-    "first_seen": "2026-08-21",
-    "first_seen_at": "2026-08-21T12:19:55+09:00",
-    "last_seen": "2026-08-22",
-    "title": "XREAL Beam Pro 5G版(8+256GB) XREAL ARグラス空間コンピューティングコンパニオン 3Dカメラ Android 14 すべてのGoogle Playストアアプリをサポート 映画、テレビ、ゲームのための3DoF 空間体験 FHD 1080"
   },
   "B0H7RLPTM7": {
     "first_seen": "2026-07-31",
@@ -827,6 +815,30 @@
     "last_seen": "2026-08-22",
     "title": "【Amazon.co.jp限定】 Ninja ニンジャ Crispi クリスピー FN100JGYNR 自動調理器 3つの調理モード (クリスプ/ベイク・ロースト/リクリスプ) 煮る 焼く 蒸す 炒める 煮込む 炊く 温風調理 エアフライヤー ノンフライヤー FN100J ネイビー"
   },
+  "B0B2QR8HN9": {
+    "first_seen": "2026-08-09",
+    "first_seen_at": "2026-08-09T19:54:50+09:00",
+    "last_seen": "2026-08-22",
+    "title": "Anker 511 Charger (Nano 3, 30W) ホワイト"
+  },
+  "B0F9CZD8NV": {
+    "first_seen": "2026-08-22",
+    "first_seen_at": "2026-08-22T00:50:58+09:00",
+    "last_seen": "2026-08-22",
+    "title": "Belkin ベルキン BoostCharge Pro 100W GaN 急速充電器 3ポート USB-C×2 USB-A×1 PD 3.1 PPS対応 海外対応 US/EU/UKプラグ付 iPhone 17/16/15 MacBook iPad Galaxy対応 折りたたみ式 PSE認証 トラベルポーチ付 ホワイト WCH016fqWH"
+  },
+  "B0GMGHTNBB": {
+    "first_seen": "2026-08-21",
+    "first_seen_at": "2026-08-21T12:19:55+09:00",
+    "last_seen": "2026-08-22",
+    "title": "エレコム 65W 充電器 Type-C コンセント 急速 PD対応 スイング式プラグ採用 PSE技術基準適合 ブラック EC-AC12465BK"
+  },
+  "B0DR2D2Z34": {
+    "first_seen": "2026-08-21",
+    "first_seen_at": "2026-08-21T12:19:55+09:00",
+    "last_seen": "2026-08-22",
+    "title": "XREAL Beam Pro 5G版(8+256GB) XREAL ARグラス空間コンピューティングコンパニオン 3Dカメラ Android 14 すべてのGoogle Playストアアプリをサポート 映画、テレビ、ゲームのための3DoF 空間体験 FHD 1080"
+  },
   "B0CKFHB9P3": {
     "first_seen": "2026-08-04",
     "first_seen_at": "2026-08-04T08:22:12+09:00",
@@ -844,12 +856,6 @@
     "first_seen_at": "2026-07-29T12:00:00+09:00",
     "last_seen": "2026-08-22",
     "title": "Anker MagGo Power Bank (10000mAh, Slim) ブラック"
-  },
-  "B0B2QQDKR8": {
-    "first_seen": "2026-07-27",
-    "first_seen_at": "2026-07-27T12:00:00+09:00",
-    "last_seen": "2026-08-22",
-    "title": "Anker 511 Charger (Nano 3, 30W) ブラック"
   },
   "B0FJS3P8NT": {
     "first_seen": "2026-07-27",
@@ -1210,12 +1216,6 @@
     "first_seen_at": "2026-08-15T16:01:07+09:00",
     "last_seen": "2026-08-21",
     "title": "エレコム ワイヤレス充電器 Magsafe 3in1 15W iPhone/Apple Watch/AirPods 【Made for MagSafe/Apple Watch 正規認証】 ホワイト EC-MS07WH"
-  },
-  "B0DQL1SYFT": {
-    "first_seen": "2026-08-05",
-    "first_seen_at": "2026-08-05T21:15:31+09:00",
-    "last_seen": "2026-08-21",
-    "title": "IODATA ゲーミングモニター 23.8インチ GigaCrysta 240Hz ADSパネル 1ms ヒーラーホワイト 無輝点保証対応(HDMI×2/DisplayPort/VESA対応/土日サポート/日本メーカー) EX-GD242UDW"
   },
   "B0G529YNFK": {
     "first_seen": "2026-08-17",
