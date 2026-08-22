@@ -221,12 +221,6 @@
     "last_seen": "2026-08-23",
     "title": "CIO モバイルバッテリー USB-Cケーブル内蔵 軽量 10000mAh SMARTCOBY Pro SLIM CABLE 35W (ブラック)"
   },
-  "B0G2S9LVS4": {
-    "first_seen": "2026-08-04",
-    "first_seen_at": "2026-08-04T08:22:12+09:00",
-    "last_seen": "2026-08-23",
-    "title": "UGREEN MagFlow Qi2 25W認証 モバイルバッテリー Magsafe対応 マグネット式ワイヤレス急速充電 10000mAh ブラック"
-  },
   "B0F6LBT3ZX": {
     "first_seen": "2026-08-21",
     "first_seen_at": "2026-08-21T00:51:29+09:00",
@@ -292,6 +286,12 @@
     "first_seen_at": "2026-07-31T12:00:00+09:00",
     "last_seen": "2026-08-23",
     "title": "【VGP受賞】Belkin 充電器 USB-C 2ポート PPS規格対応 GaN採用 小型 ACアダプター タイプC 急速充電 軽量【PD3.0対応 /PSE認証/折りたたみ式プラグ】45W(25W+20W) MacBook Windows PC Surface Pro iPad iPhone 17,16～12対応 Galaxy Android スマホ 各種ノートPC対応 WCH011dqWH"
+  },
+  "B0DMN885ZF": {
+    "first_seen": "2026-08-05",
+    "first_seen_at": "2026-08-05T03:07:44+09:00",
+    "last_seen": "2026-08-23",
+    "title": "UGREEN 45W USB-C 急速充電器 Type-C PD GaNⅡ充電器 PSE適合タイプc充電器 PD/PPS/SCP/QC3.0"
   },
   "B0FVM1C19Y": {
     "first_seen": "2026-07-31",
@@ -376,12 +376,6 @@
     "first_seen_at": "2026-07-27T12:00:00+09:00",
     "last_seen": "2026-08-23",
     "title": "Anker Nano Charger (45W, Display, スイングプラグ) ブラック"
-  },
-  "B0FJS3P8NT": {
-    "first_seen": "2026-07-27",
-    "first_seen_at": "2026-07-27T12:00:00+09:00",
-    "last_seen": "2026-08-23",
-    "title": "UGREEN 45W USB-C*4+USB-A*1 急速充電器 Type-C GaNⅡ タイプc PSE適合/PD3.0/PPS/SCP/QC3.0"
   },
   "B0DNT9Z2HS": {
     "first_seen": "2026-07-27",
@@ -809,6 +803,18 @@
     "last_seen": "2026-08-23",
     "title": "【Amazon.co.jp限定】 Ninja ニンジャ Crispi クリスピー FN100JGYNR 自動調理器 3つの調理モード (クリスプ/ベイク・ロースト/リクリスプ) 煮る 焼く 蒸す 炒める 煮込む 炊く 温風調理 エアフライヤー ノンフライヤー FN100J ネイビー"
   },
+  "B0G2S9LVS4": {
+    "first_seen": "2026-08-04",
+    "first_seen_at": "2026-08-04T08:22:12+09:00",
+    "last_seen": "2026-08-23",
+    "title": "UGREEN MagFlow Qi2 25W認証 モバイルバッテリー Magsafe対応 マグネット式ワイヤレス急速充電 10000mAh ブラック"
+  },
+  "B0FJS3P8NT": {
+    "first_seen": "2026-07-27",
+    "first_seen_at": "2026-07-27T12:00:00+09:00",
+    "last_seen": "2026-08-23",
+    "title": "UGREEN 45W USB-C*4+USB-A*1 急速充電器 Type-C GaNⅡ タイプc PSE適合/PD3.0/PPS/SCP/QC3.0"
+  },
   "B0DB1HFZLK": {
     "first_seen": "2026-08-12",
     "first_seen_at": "2026-08-12T22:45:34+09:00",
@@ -838,12 +844,6 @@
     "first_seen_at": "2026-08-14T23:33:30+09:00",
     "last_seen": "2026-08-22",
     "title": "Belkin モバイルバッテリー 軽量 10000mAh 20W USB-Cケーブル内蔵 2台同時充電 ピンク"
-  },
-  "B0DMN885ZF": {
-    "first_seen": "2026-08-05",
-    "first_seen_at": "2026-08-05T03:07:44+09:00",
-    "last_seen": "2026-08-22",
-    "title": "UGREEN 45W USB-C 急速充電器 Type-C PD GaNⅡ充電器 PSE適合タイプc充電器 PD/PPS/SCP/QC3.0"
   },
   "B0B2QR8HN9": {
     "first_seen": "2026-08-09",
