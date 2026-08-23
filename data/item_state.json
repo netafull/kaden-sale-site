@@ -281,12 +281,6 @@
     "last_seen": "2026-08-24",
     "title": "UGREEN NexodeX 100W GaNII充電器 USB-C*2+USB-A タイプC Type-C 急速充電器 PD3.0/PPS/QC4+"
   },
-  "B0BF9ZYCQ5": {
-    "first_seen": "2026-07-31",
-    "first_seen_at": "2026-07-31T12:00:00+09:00",
-    "last_seen": "2026-08-24",
-    "title": "【VGP受賞】Belkin 充電器 USB-C 2ポート PPS規格対応 GaN採用 小型 ACアダプター タイプC 急速充電 軽量【PD3.0対応 /PSE認証/折りたたみ式プラグ】45W(25W+20W) MacBook Windows PC Surface Pro iPad iPhone 17,16～12対応 Galaxy Android スマホ 各種ノートPC対応 WCH011dqWH"
-  },
   "B0DMN885ZF": {
     "first_seen": "2026-08-05",
     "first_seen_at": "2026-08-05T03:07:44+09:00",
@@ -317,11 +311,11 @@
     "last_seen": "2026-08-24",
     "title": "Anker Nano Charger (70W, 3 Ports) ブラック"
   },
-  "B0B2QQDKR8": {
-    "first_seen": "2026-07-27",
-    "first_seen_at": "2026-07-27T12:00:00+09:00",
+  "B0B2QR8HN9": {
+    "first_seen": "2026-08-09",
+    "first_seen_at": "2026-08-09T19:54:50+09:00",
     "last_seen": "2026-08-24",
-    "title": "Anker 511 Charger (Nano 3, 30W) ブラック"
+    "title": "Anker 511 Charger (Nano 3, 30W) ホワイト"
   },
   "B0D6QQFMCS": {
     "first_seen": "2026-08-07",
@@ -436,6 +430,12 @@
     "first_seen_at": "2026-07-29T12:00:00+09:00",
     "last_seen": "2026-08-24",
     "title": "CIO NovaPort DUOⅡ 65W PD急速充電器 USB-C×2 2台同時充電 世界最小級（ブラック）"
+  },
+  "B08N4JHGJL": {
+    "first_seen": "2026-07-30",
+    "first_seen_at": "2026-07-30T12:00:00+09:00",
+    "last_seen": "2026-08-24",
+    "title": "Amazon限定 バッファロー ポータブルSSD 1.0TB コンパクト USB3.2Gen1 ブラック SSD-PUT1.0U3-B/N"
   },
   "B0CZKZ8Q66": {
     "first_seen": "2026-07-30",
@@ -659,11 +659,11 @@
     "last_seen": "2026-08-24",
     "title": "VITURE Beast ARグラス 【家電批評Best Buy・VGP金賞・企画賞】 174インチ 光学技術で映像を鮮明に 3DoF対応"
   },
-  "B0D86ZL4L1": {
-    "first_seen": "2026-08-23",
-    "first_seen_at": "2026-08-23T06:38:52+09:00",
+  "B0DR2D2Z34": {
+    "first_seen": "2026-08-21",
+    "first_seen_at": "2026-08-21T12:19:55+09:00",
     "last_seen": "2026-08-24",
-    "title": "XREAL Beam Pro(6+128GB) XREAL ARグラス空間コンピューティングコンパニオン 3Dカメラ Android 14 すべてのGoogle Playストアアプリをサポート 映画、テレビ、ゲームのための3DoF 空間体験 FHD 1080"
+    "title": "XREAL Beam Pro 5G版(8+256GB) XREAL ARグラス空間コンピューティングコンパニオン 3Dカメラ Android 14 すべてのGoogle Playストアアプリをサポート 映画、テレビ、ゲームのための3DoF 空間体験 FHD 1080"
   },
   "B0H7RLPTM7": {
     "first_seen": "2026-07-31",
@@ -833,6 +833,24 @@
     "last_seen": "2026-08-24",
     "title": "【Amazon.co.jp限定】 Ninja ニンジャ Crispi クリスピー FN100JGYNR 自動調理器 3つの調理モード (クリスプ/ベイク・ロースト/リクリスプ) 煮る 焼く 蒸す 炒める 煮込む 炊く 温風調理 エアフライヤー ノンフライヤー FN100J ネイビー"
   },
+  "B0BF9ZYCQ5": {
+    "first_seen": "2026-07-31",
+    "first_seen_at": "2026-07-31T12:00:00+09:00",
+    "last_seen": "2026-08-24",
+    "title": "【VGP受賞】Belkin 充電器 USB-C 2ポート PPS規格対応 GaN採用 小型 ACアダプター タイプC 急速充電 軽量【PD3.0対応 /PSE認証/折りたたみ式プラグ】45W(25W+20W) MacBook Windows PC Surface Pro iPad iPhone 17,16～12対応 Galaxy Android スマホ 各種ノートPC対応 WCH011dqWH"
+  },
+  "B0B2QQDKR8": {
+    "first_seen": "2026-07-27",
+    "first_seen_at": "2026-07-27T12:00:00+09:00",
+    "last_seen": "2026-08-24",
+    "title": "Anker 511 Charger (Nano 3, 30W) ブラック"
+  },
+  "B0D86ZL4L1": {
+    "first_seen": "2026-08-23",
+    "first_seen_at": "2026-08-23T06:38:52+09:00",
+    "last_seen": "2026-08-24",
+    "title": "XREAL Beam Pro(6+128GB) XREAL ARグラス空間コンピューティングコンパニオン 3Dカメラ Android 14 すべてのGoogle Playストアアプリをサポート 映画、テレビ、ゲームのための3DoF 空間体験 FHD 1080"
+  },
   "B0CLGVK6WS": {
     "first_seen": "2026-08-11",
     "first_seen_at": "2026-08-11T21:00:42+09:00",
@@ -880,18 +898,6 @@
     "first_seen_at": "2026-08-23T22:47:33+09:00",
     "last_seen": "2026-08-23",
     "title": "UGREEN Nexode急速充電器 65W Type-C 2C1A 3ポート PD/PPS/QC3.0/SCP/FCP対応 折り畳み式 ホワイト"
-  },
-  "B0B2QR8HN9": {
-    "first_seen": "2026-08-09",
-    "first_seen_at": "2026-08-09T19:54:50+09:00",
-    "last_seen": "2026-08-23",
-    "title": "Anker 511 Charger (Nano 3, 30W) ホワイト"
-  },
-  "B0DR2D2Z34": {
-    "first_seen": "2026-08-21",
-    "first_seen_at": "2026-08-21T12:19:55+09:00",
-    "last_seen": "2026-08-23",
-    "title": "XREAL Beam Pro 5G版(8+256GB) XREAL ARグラス空間コンピューティングコンパニオン 3Dカメラ Android 14 すべてのGoogle Playストアアプリをサポート 映画、テレビ、ゲームのための3DoF 空間体験 FHD 1080"
   },
   "B0BKPBD1R3": {
     "first_seen": "2026-08-04",
@@ -1288,12 +1294,6 @@
     "first_seen_at": "2026-07-27T12:00:00+09:00",
     "last_seen": "2026-08-22",
     "title": "Anker Power Bank (20000mAh, 30W) ブラック"
-  },
-  "B08N4JHGJL": {
-    "first_seen": "2026-07-30",
-    "first_seen_at": "2026-07-30T12:00:00+09:00",
-    "last_seen": "2026-08-22",
-    "title": "Amazon限定 バッファロー ポータブルSSD 1.0TB コンパクト USB3.2Gen1 ブラック SSD-PUT1.0U3-B/N"
   },
   "B0F9CZD8NV": {
     "first_seen": "2026-08-22",
