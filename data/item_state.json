@@ -311,12 +311,6 @@
     "last_seen": "2026-08-26",
     "title": "UGREEN NexodeX 100W GaNII充電器 USB-C*2+USB-A タイプC Type-C 急速充電器 PD3.0/PPS/QC4+"
   },
-  "B0DMN885ZF": {
-    "first_seen": "2026-08-05",
-    "first_seen_at": "2026-08-05T03:07:44+09:00",
-    "last_seen": "2026-08-26",
-    "title": "UGREEN 45W USB-C 急速充電器 Type-C PD GaNⅡ充電器 PSE適合タイプc充電器 PD/PPS/SCP/QC3.0"
-  },
   "B0FVM1C19Y": {
     "first_seen": "2026-07-31",
     "first_seen_at": "2026-07-31T12:00:00+09:00",
@@ -346,6 +340,12 @@
     "first_seen_at": "2026-08-09T19:54:50+09:00",
     "last_seen": "2026-08-26",
     "title": "Anker 511 Charger (Nano 3, 30W) ホワイト"
+  },
+  "B0D8RSX6W2": {
+    "first_seen": "2026-07-29",
+    "first_seen_at": "2026-07-29T12:00:00+09:00",
+    "last_seen": "2026-08-26",
+    "title": "Anker MagGo Wireless Charger (Stand) ブラック"
   },
   "B0D6QQFMCS": {
     "first_seen": "2026-08-07",
@@ -388,6 +388,12 @@
     "first_seen_at": "2026-07-27T12:00:00+09:00",
     "last_seen": "2026-08-26",
     "title": "Anker Nano Charger (45W, Display, スイングプラグ) ブラック"
+  },
+  "B0FJS3P8NT": {
+    "first_seen": "2026-07-27",
+    "first_seen_at": "2026-07-27T12:00:00+09:00",
+    "last_seen": "2026-08-26",
+    "title": "UGREEN 45W USB-C*4+USB-A*1 急速充電器 Type-C GaNⅡ タイプc PSE適合/PD3.0/PPS/SCP/QC3.0"
   },
   "B0DNT9Z2HS": {
     "first_seen": "2026-07-27",
@@ -905,11 +911,11 @@
     "last_seen": "2026-08-26",
     "title": "【Amazon.co.jp限定】 Ninja ニンジャ Crispi クリスピー FN100JGYNR 自動調理器 3つの調理モード (クリスプ/ベイク・ロースト/リクリスプ) 煮る 焼く 蒸す 炒める 煮込む 炊く 温風調理 エアフライヤー ノンフライヤー FN100J ネイビー"
   },
-  "B0FJS3P8NT": {
-    "first_seen": "2026-07-27",
-    "first_seen_at": "2026-07-27T12:00:00+09:00",
+  "B0DMN885ZF": {
+    "first_seen": "2026-08-05",
+    "first_seen_at": "2026-08-05T03:07:44+09:00",
     "last_seen": "2026-08-26",
-    "title": "UGREEN 45W USB-C*4+USB-A*1 急速充電器 Type-C GaNⅡ タイプc PSE適合/PD3.0/PPS/SCP/QC3.0"
+    "title": "UGREEN 45W USB-C 急速充電器 Type-C PD GaNⅡ充電器 PSE適合タイプc充電器 PD/PPS/SCP/QC3.0"
   },
   "B0H8DM7WPF": {
     "first_seen": "2026-08-26",
@@ -928,12 +934,6 @@
     "first_seen_at": "2026-08-21T13:56:56+09:00",
     "last_seen": "2026-08-26",
     "title": "REALFORCE リアルフォース ラピッドトリガー キーボード 東プレ GX1 静音 45ｇ TKLサイズ 静電容量無接点方式 最速0.1mm作動 Windows 英語配列 日本製 ゲーミングキーボード 87キー X1UD11【ファイナルファンタジーXIV 推奨周辺機器】"
-  },
-  "B0D8RSX6W2": {
-    "first_seen": "2026-07-29",
-    "first_seen_at": "2026-07-29T12:00:00+09:00",
-    "last_seen": "2026-08-26",
-    "title": "Anker MagGo Wireless Charger (Stand) ブラック"
   },
   "B0CTMRXLM7": {
     "first_seen": "2026-08-26",
