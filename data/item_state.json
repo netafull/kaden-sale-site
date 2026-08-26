@@ -215,24 +215,6 @@
     "last_seen": "2026-08-26",
     "title": "Anker Nano Power Bank (5000mAh, MagGo, Slim) ブラック"
   },
-  "B0D7TQ9JWL": {
-    "first_seen": "2026-08-23",
-    "first_seen_at": "2026-08-23T22:05:10+09:00",
-    "last_seen": "2026-08-26",
-    "title": "Anker MagGo Power Bank (10000mAh, 35W, For Apple Watch) ブラック"
-  },
-  "B0B6DLWMJF": {
-    "first_seen": "2026-08-25",
-    "first_seen_at": "2026-08-25T13:56:30+09:00",
-    "last_seen": "2026-08-26",
-    "title": "Belkin MagSafe対応 ワイヤレスモバイルバッテリー 5000mAh 最大7.5W キックスタンド付き ブラック"
-  },
-  "B0F6NC41DZ": {
-    "first_seen": "2026-08-06",
-    "first_seen_at": "2026-08-06T21:18:24+09:00",
-    "last_seen": "2026-08-26",
-    "title": "UGREEN Air モバイルバッテリー マグネット式ワイヤレス充電 薄型 MagSafe対応 10000mAh ケーブル内蔵 PB570 グレー"
-  },
   "B0CFTT82RH": {
     "first_seen": "2026-08-22",
     "first_seen_at": "2026-08-22T20:37:40+09:00",
@@ -250,6 +232,18 @@
     "first_seen_at": "2026-07-27T12:00:00+09:00",
     "last_seen": "2026-08-26",
     "title": "Anker Power Bank (30W, Fusion, Built-In USB-C ケーブル) ブラック"
+  },
+  "B0DRFQNPDQ": {
+    "first_seen": "2026-08-22",
+    "first_seen_at": "2026-08-22T22:03:54+09:00",
+    "last_seen": "2026-08-26",
+    "title": "Anker Zolo Power Bank (20000mAh, 30W, Built-In USB-Cケーブル) ブラック"
+  },
+  "B0FRSR6BVR": {
+    "first_seen": "2026-08-07",
+    "first_seen_at": "2026-08-07T22:31:51+09:00",
+    "last_seen": "2026-08-26",
+    "title": "Belkin MagSafe対応 モバイルバッテリー 軽量 5000mAh USB-C 15W 薄型 iPhone対応 ブラック"
   },
   "B0DNLVY85L": {
     "first_seen": "2026-08-11",
@@ -653,6 +647,12 @@
     "last_seen": "2026-08-26",
     "title": "VITURE Beast ARグラス 【家電批評Best Buy・VGP金賞・企画賞】 174インチ 光学技術で映像を鮮明に 3DoF対応"
   },
+  "B0D876RN9C": {
+    "first_seen": "2026-08-21",
+    "first_seen_at": "2026-08-21T04:02:13+09:00",
+    "last_seen": "2026-08-26",
+    "title": "XREAL Beam Pro(8+256GB) XREAL ARグラス空間コンピューティングコンパニオン 3Dカメラ Android 14 すべてのGoogle Playストアアプリをサポート 映画、テレビ、ゲームのための3DoF 空間体験 FHD 1080"
+  },
   "B0H7RLPTM7": {
     "first_seen": "2026-07-31",
     "first_seen_at": "2026-07-31T12:00:00+09:00",
@@ -893,6 +893,24 @@
     "last_seen": "2026-08-26",
     "title": "【Amazon.co.jp限定】 Ninja ニンジャ Crispi クリスピー FN100JGYNR 自動調理器 3つの調理モード (クリスプ/ベイク・ロースト/リクリスプ) 煮る 焼く 蒸す 炒める 煮込む 炊く 温風調理 エアフライヤー ノンフライヤー FN100J ネイビー"
   },
+  "B0D7TQ9JWL": {
+    "first_seen": "2026-08-23",
+    "first_seen_at": "2026-08-23T22:05:10+09:00",
+    "last_seen": "2026-08-26",
+    "title": "Anker MagGo Power Bank (10000mAh, 35W, For Apple Watch) ブラック"
+  },
+  "B0B6DLWMJF": {
+    "first_seen": "2026-08-25",
+    "first_seen_at": "2026-08-25T13:56:30+09:00",
+    "last_seen": "2026-08-26",
+    "title": "Belkin MagSafe対応 ワイヤレスモバイルバッテリー 5000mAh 最大7.5W キックスタンド付き ブラック"
+  },
+  "B0F6NC41DZ": {
+    "first_seen": "2026-08-06",
+    "first_seen_at": "2026-08-06T21:18:24+09:00",
+    "last_seen": "2026-08-26",
+    "title": "UGREEN Air モバイルバッテリー マグネット式ワイヤレス充電 薄型 MagSafe対応 10000mAh ケーブル内蔵 PB570 グレー"
+  },
   "B0FWF4M2HP": {
     "first_seen": "2026-08-20",
     "first_seen_at": "2026-08-20T17:59:03+09:00",
@@ -904,12 +922,6 @@
     "first_seen_at": "2026-08-20T10:54:36+09:00",
     "last_seen": "2026-08-26",
     "title": "ソニー ゲーミングイヤホン INZONE Buds:WF-G700N Fnatic監修/ワイヤレス / 低遅延2.4GHzワイヤレス接続 USBType-Cトランシーバー同梱/LE Audio対応/アクティブノイズキャンセリング/立体音響 / 最大約24時間バッテリー / 急速充電/マイク付き / PS5 スマホ PC Switch グラスパープル"
-  },
-  "B0DRFQNPDQ": {
-    "first_seen": "2026-08-22",
-    "first_seen_at": "2026-08-22T22:03:54+09:00",
-    "last_seen": "2026-08-26",
-    "title": "Anker Zolo Power Bank (20000mAh, 30W, Built-In USB-Cケーブル) ブラック"
   },
   "B0GVJG7D7K": {
     "first_seen": "2026-07-31",
@@ -1054,12 +1066,6 @@
     "first_seen_at": "2026-08-19T00:48:17+09:00",
     "last_seen": "2026-08-25",
     "title": "Xiaomi A27Ui 27インチ 4K モニター UHD 3840×2160 90W USB-C給電対応 IPS"
-  },
-  "B0D876RN9C": {
-    "first_seen": "2026-08-21",
-    "first_seen_at": "2026-08-21T04:02:13+09:00",
-    "last_seen": "2026-08-25",
-    "title": "XREAL Beam Pro(8+256GB) XREAL ARグラス空間コンピューティングコンパニオン 3Dカメラ Android 14 すべてのGoogle Playストアアプリをサポート 映画、テレビ、ゲームのための3DoF 空間体験 FHD 1080"
   },
   "B0DF2B7TTJ": {
     "first_seen": "2026-08-07",
@@ -1246,12 +1252,6 @@
     "first_seen_at": "2026-08-25T12:15:47+09:00",
     "last_seen": "2026-08-25",
     "title": "Apple 2026 MacBook Air M5チップ搭載13インチノートブック：AIとApple Intelligence、13.6インチLiquid Retinaディスプレイ、16GBユニファイドメモリ、512GB SSDストレージ、12MPセンターフレームカメラ、日本語キーボード、Touch ID - ミッドナイト"
-  },
-  "B0FRSR6BVR": {
-    "first_seen": "2026-08-07",
-    "first_seen_at": "2026-08-07T22:31:51+09:00",
-    "last_seen": "2026-08-25",
-    "title": "Belkin MagSafe対応 モバイルバッテリー 軽量 5000mAh USB-C 15W 薄型 iPhone対応 ブラック"
   },
   "B0F1SY6KYC": {
     "first_seen": "2026-08-25",
