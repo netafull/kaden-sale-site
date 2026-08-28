@@ -615,14 +615,29 @@ def main() -> int:
     now_iso = datetime.datetime.now(
         datetime.timezone(datetime.timedelta(hours=9))
     ).isoformat(timespec="seconds")
+    # 既にセール中の商品がさらに値下げされても「新着」には出てこない
+    # (asinはstateに既存のため)。割引率の深掘りだけを別枠で検知する。
+    # 数十円単位の揺れで誤検知しないよう5pt以上の深掘りだけを対象にする
+    PRICE_DROP_THRESHOLD = 5
     new_state = {}
     new_items: list[str] = []
+    price_drops: list[str] = []
     for g in genres:
         for item in g["items"]:
             asin = item["asin"]
+            prev = state.get(asin) or {}
             if asin not in state:
                 new_items.append(item["title"])
-            prev = state.get(asin) or {}
+            else:
+                prev_off, cur_off = prev.get("percent_off"), item.get("percent_off")
+                if (
+                    isinstance(prev_off, (int, float))
+                    and isinstance(cur_off, (int, float))
+                    and cur_off - prev_off >= PRICE_DROP_THRESHOLD
+                ):
+                    price_drops.append(
+                        f"{item['title']}({prev_off}%→{cur_off}%)"
+                    )
             first_seen = prev.get("first_seen") or today
             # 「新着セール」を時間単位で出せるよう初検出の時刻も残す。
             # 日付だけだと深夜0時をまたいだ瞬間に新着が消えてしまう
@@ -634,6 +649,7 @@ def main() -> int:
                 "first_seen_at": first_seen_at,
                 "last_seen": today,
                 "title": item["title"],
+                "percent_off": item.get("percent_off"),
             }
 
     # 今回検出されなかった商品も猶予期間内は状態を保持する。
@@ -685,6 +701,17 @@ def main() -> int:
         notify_ntfy(
             os.environ.get("NTFY_TOPIC", ""),
             f"家電ポチ: 新着{len(new_items)}件",
+            summary,
+            click_url=config.get("site_url", ""),
+        )
+
+    if price_drops:
+        shown = price_drops[:5]
+        rest = len(price_drops) - len(shown)
+        summary = "、".join(shown) + (f"(ほか{rest}件)" if rest > 0 else "")
+        notify_ntfy(
+            os.environ.get("NTFY_TOPIC", ""),
+            f"家電ポチ: 値下げ{len(price_drops)}件",
             summary,
             click_url=config.get("site_url", ""),
         )
