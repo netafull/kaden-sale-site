@@ -132,19 +132,12 @@
     "title": "Apple Watch Ultra 3(GPS + Cellularモデル)- 49mmブラックチタニウムケースとブラックオーシャンバンド",
     "percent_off": 5
   },
-  "B0FWF4HS1R": {
-    "first_seen": "2026-08-18",
-    "first_seen_at": "2026-08-18T12:12:28+09:00",
-    "last_seen": "2026-08-29",
-    "title": "Apple 2025 MacBook Pro 10 コアCPU、10 コアGPU のM5 チップ搭載ノートパソコン：Apple Intelligence のために設計、14.2 インチLiquid Retina XDR ディスプレイ、16GB ユニファイドメモリ、1TBのSSD ストレージ - シルバー",
-    "percent_off": 5
-  },
   "B0BZGTFF9L": {
     "first_seen": "2026-08-04",
     "first_seen_at": "2026-08-04T18:28:41+09:00",
     "last_seen": "2026-08-29",
     "title": "ソニー(SONY) 完全ワイヤレスイヤホン WF-C700N :高性能ノイズキャンセリング搭載/軽量・小型設計/音質アップスケール機能搭載/連続音楽再生時間最長 7.5時間/IPX4防滴性能/急速充電対応/クリアな通話性能/マルチポイント対応 ブラック WF-C700N BZ",
-    "percent_off": 57
+    "percent_off": 55
   },
   "B0FCSGGHLL": {
     "first_seen": "2026-07-24",
@@ -158,7 +151,7 @@
     "first_seen_at": "2026-08-16T23:40:53+09:00",
     "last_seen": "2026-08-29",
     "title": "ソニー(SONY) 完全ワイヤレスイヤホン WF-C510 / 軽量小型4.6g / 高精度通話品質/外音取り込み対応/マルチポイント対応 / IPX4防滴性能 / ブラック/WF-C510 BC",
-    "percent_off": 18
+    "percent_off": 17
   },
   "B0FRSCXWSV": {
     "first_seen": "2026-07-29",
@@ -300,13 +293,6 @@
     "title": "Anker Nano Power Bank (22.5W, Built-In USB-C Connector) ブルー",
     "percent_off": null
   },
-  "B0GPDBS299": {
-    "first_seen": "2026-08-21",
-    "first_seen_at": "2026-08-21T12:19:55+09:00",
-    "last_seen": "2026-08-29",
-    "title": "エレコム 半固体電池 モバイルバッテリー 10000mAh PD35W Type-C USB-A 燃えにくい 安全設計 長寿命 2000回サイクル 3台同時充電 残量表示 軽量220g PSE認証 機内持ち込み可 iPhone対応 ミッドナイト EC-C61MN",
-    "percent_off": 17
-  },
   "B0CCJFY2V4": {
     "first_seen": "2026-07-29",
     "first_seen_at": "2026-07-29T12:00:00+09:00",
@@ -334,20 +320,6 @@
     "last_seen": "2026-08-29",
     "title": "【VGP受賞】Belkin 充電器 USB-C 2ポート PPS規格対応 GaN採用 小型 ACアダプター タイプC 急速充電 軽量【PD3.0対応 /PSE認証/折りたたみ式プラグ】45W(25W+20W) MacBook Windows PC Surface Pro iPad iPhone 17,16～12対応 Galaxy Android スマホ 各種ノートPC対応 WCH011dqWH",
     "percent_off": 42
-  },
-  "B0GSVNFT8T": {
-    "first_seen": "2026-08-11",
-    "first_seen_at": "2026-08-11T18:18:36+09:00",
-    "last_seen": "2026-08-29",
-    "title": "UGREEN アップグレード版 100W充電器 USB-C×3/USB-A×1 4ポート充電器 PD3.0/PPS/QC4対応 36*64*64mm",
-    "percent_off": 40
-  },
-  "B0DMN885ZF": {
-    "first_seen": "2026-08-05",
-    "first_seen_at": "2026-08-05T03:07:44+09:00",
-    "last_seen": "2026-08-29",
-    "title": "UGREEN 45W USB-C 急速充電器 Type-C PD GaNⅡ充電器 PSE適合タイプc充電器 PD/PPS/SCP/QC3.0",
-    "percent_off": 37
   },
   "B0FVM1C19Y": {
     "first_seen": "2026-07-31",
@@ -419,6 +391,13 @@
     "title": "Anker 523 Charger (Nano 3, 47W) ホワイト",
     "percent_off": 30
   },
+  "B0F9FHXPDF": {
+    "first_seen": "2026-07-27",
+    "first_seen_at": "2026-07-27T12:00:00+09:00",
+    "last_seen": "2026-08-29",
+    "title": "UGREEN 100W PD 急速充電器 USB-C×4/USB-A×1 タッチモニター搭載 PSE認証済 36*75*75mm",
+    "percent_off": 30
+  },
   "B0DHTT13KN": {
     "first_seen": "2026-07-31",
     "first_seen_at": "2026-07-31T12:00:00+09:00",
@@ -447,6 +426,13 @@
     "title": "Anker Nano Charger (45W, Display, スイングプラグ) ブラック",
     "percent_off": 25
   },
+  "B0FJS3P8NT": {
+    "first_seen": "2026-07-27",
+    "first_seen_at": "2026-07-27T12:00:00+09:00",
+    "last_seen": "2026-08-29",
+    "title": "UGREEN 45W USB-C*4+USB-A*1 急速充電器 Type-C GaNⅡ タイプc PSE適合/PD3.0/PPS/SCP/QC3.0",
+    "percent_off": 25
+  },
   "B0DNT9Z2HS": {
     "first_seen": "2026-07-27",
     "first_seen_at": "2026-07-27T12:00:00+09:00",
@@ -459,13 +445,6 @@
     "first_seen_at": "2026-08-21T00:51:29+09:00",
     "last_seen": "2026-08-29",
     "title": "Belkin Cubic Charger 67W 充電器 type-c PD充電器 USB-C*2 急速充電 ZSP技術を搭載(待機消費0) ホワイト",
-    "percent_off": 23
-  },
-  "B0F1SY6KYC": {
-    "first_seen": "2026-08-25",
-    "first_seen_at": "2026-08-25T04:01:19+09:00",
-    "last_seen": "2026-08-29",
-    "title": "Belkin MagSafe充電器 Qi2 15W ワイヤレス充電器 iPhone 12-17・AirPods対応 スタンド付き",
     "percent_off": 23
   },
   "B0FKMXL7BS": {
@@ -741,6 +720,13 @@
     "title": "VITURE Beast ARグラス 【家電批評Best Buy・VGP金賞・企画賞】 174インチ 光学技術で映像を鮮明に 3DoF対応",
     "percent_off": 16
   },
+  "B0GVJG7D7K": {
+    "first_seen": "2026-07-31",
+    "first_seen_at": "2026-07-31T12:00:00+09:00",
+    "last_seen": "2026-08-29",
+    "title": "VITURE Luma Ultra XR グラス & Pro ネックバンド 12GBメモリ＆256GB内蔵ストレージ セット マルチスクリーン/6DoF/ハンドジェスチャー/スムーズフォロー/アンビエントモード搭載 PXPlay & XBXPlay 公式対応ワイヤレスゲームストリーミングメガネ",
+    "percent_off": 18
+  },
   "B0GCN66DC6": {
     "first_seen": "2026-08-22",
     "first_seen_at": "2026-08-22T06:41:20+09:00",
@@ -789,6 +775,13 @@
     "last_seen": "2026-08-29",
     "title": "ロジクール KX850FT MX MECHANICAL ワイヤレス メカニカル パフォーマンス キーボード 茶軸 タクタイル テンキー 静かな打鍵感 特に静か Logi Bolt bluetooth Unifying非対応 薄型 無線 メカニカルキーボード windows mac chrome Android ワイヤレスキーボード KX850 国内正規品 グラファイト",
     "percent_off": 44
+  },
+  "B07PJW2X2F": {
+    "first_seen": "2026-07-26",
+    "first_seen_at": "2026-07-26T12:00:00+09:00",
+    "last_seen": "2026-08-29",
+    "title": "エレコム ワイヤレスキーボード メンブレン 薄型 フルキーボード テンキー ブラック TK-FDM110TXBK",
+    "percent_off": 37
   },
   "B0F1FD99K8": {
     "first_seen": "2026-07-29",
@@ -993,6 +986,20 @@
     "title": "【Amazon.co.jp限定】 ロジクール Bluetooth ワイヤレスキーボード 無線 K250GRd 日本語配列 グラファイト 国内正規品",
     "percent_off": 15
   },
+  "B0FGCDSH1J": {
+    "first_seen": "2026-07-28",
+    "first_seen_at": "2026-07-28T12:00:00+09:00",
+    "last_seen": "2026-08-29",
+    "title": "【Amazon.co.jp限定】Logicool G ラピッドトリガー G515 RAPID ゲーミングキーボード G515-TKL-RTBKd",
+    "percent_off": 15
+  },
+  "B08TMK8GSC": {
+    "first_seen": "2026-08-21",
+    "first_seen_at": "2026-08-21T12:19:55+09:00",
+    "last_seen": "2026-08-29",
+    "title": "エレコム ワイヤレスキーボード Bluetooth フルキーボード テンキー付 薄型 メンブレン 抗菌 最大3台マルチペアリング対応 iPad/Surface/テンキー付 ブラック TK-FBM120KBK/EC",
+    "percent_off": 15
+  },
   "B0CZ8X3DH8": {
     "first_seen": "2026-07-26",
     "first_seen_at": "2026-07-26T12:00:00+09:00",
@@ -1006,6 +1013,41 @@
     "last_seen": "2026-08-29",
     "title": "アイリスオーヤマ 過熱水蒸気 エア フライヤー 3L 2～3人用 ノンオイルフライヤー スチーム機能 ジューシー FV-M30A-C アイボリー",
     "percent_off": 35
+  },
+  "B0FWF4HS1R": {
+    "first_seen": "2026-08-18",
+    "first_seen_at": "2026-08-18T12:12:28+09:00",
+    "last_seen": "2026-08-29",
+    "title": "Apple 2025 MacBook Pro 10 コアCPU、10 コアGPU のM5 チップ搭載ノートパソコン：Apple Intelligence のために設計、14.2 インチLiquid Retina XDR ディスプレイ、16GB ユニファイドメモリ、1TBのSSD ストレージ - シルバー",
+    "percent_off": 5
+  },
+  "B0GPDBS299": {
+    "first_seen": "2026-08-21",
+    "first_seen_at": "2026-08-21T12:19:55+09:00",
+    "last_seen": "2026-08-29",
+    "title": "エレコム 半固体電池 モバイルバッテリー 10000mAh PD35W Type-C USB-A 燃えにくい 安全設計 長寿命 2000回サイクル 3台同時充電 残量表示 軽量220g PSE認証 機内持ち込み可 iPhone対応 ミッドナイト EC-C61MN",
+    "percent_off": 17
+  },
+  "B0GSVNFT8T": {
+    "first_seen": "2026-08-11",
+    "first_seen_at": "2026-08-11T18:18:36+09:00",
+    "last_seen": "2026-08-29",
+    "title": "UGREEN アップグレード版 100W充電器 USB-C×3/USB-A×1 4ポート充電器 PD3.0/PPS/QC4対応 36*64*64mm",
+    "percent_off": 40
+  },
+  "B0DMN885ZF": {
+    "first_seen": "2026-08-05",
+    "first_seen_at": "2026-08-05T03:07:44+09:00",
+    "last_seen": "2026-08-29",
+    "title": "UGREEN 45W USB-C 急速充電器 Type-C PD GaNⅡ充電器 PSE適合タイプc充電器 PD/PPS/SCP/QC3.0",
+    "percent_off": 37
+  },
+  "B0F1SY6KYC": {
+    "first_seen": "2026-08-25",
+    "first_seen_at": "2026-08-25T04:01:19+09:00",
+    "last_seen": "2026-08-29",
+    "title": "Belkin MagSafe充電器 Qi2 15W ワイヤレス充電器 iPhone 12-17・AirPods対応 スタンド付き",
+    "percent_off": 23
   },
   "B0GR1RF3K9": {
     "first_seen": "2026-08-20",
@@ -1042,13 +1084,6 @@
     "title": "UGREEN 160W 5口充電器 カラーディスプレイ搭載 Type-C 4C1A 5ポート PD3.2/PPS5A/QC4対応 折り畳み式",
     "percent_off": 27
   },
-  "B0FJS3P8NT": {
-    "first_seen": "2026-07-27",
-    "first_seen_at": "2026-07-27T12:00:00+09:00",
-    "last_seen": "2026-08-28",
-    "title": "UGREEN 45W USB-C*4+USB-A*1 急速充電器 Type-C GaNⅡ タイプc PSE適合/PD3.0/PPS/SCP/QC3.0",
-    "percent_off": 25
-  },
   "B0F8TZV7ST": {
     "first_seen": "2026-08-28",
     "first_seen_at": "2026-08-28T05:27:59+09:00",
@@ -1077,33 +1112,12 @@
     "title": "Amazon Kindle Colorsoft | 16GBストレージ、防水、7インチカラーディスプレイ、色調調節ライト、最大8週間持続バッテリー、広告無し、ブラック (2025年発売)",
     "percent_off": 10
   },
-  "B07PJW2X2F": {
-    "first_seen": "2026-07-26",
-    "first_seen_at": "2026-07-26T12:00:00+09:00",
-    "last_seen": "2026-08-28",
-    "title": "エレコム ワイヤレスキーボード メンブレン 薄型 フルキーボード テンキー ブラック TK-FDM110TXBK",
-    "percent_off": 37
-  },
   "B0FL6ZD3WL": {
     "first_seen": "2026-07-29",
     "first_seen_at": "2026-07-29T12:00:00+09:00",
     "last_seen": "2026-08-28",
     "title": "エレコム ワイヤレスキーボード Precisionist プレシジョニスト Bluetooth 無線2.4GHz マルチペアリング4台 充電式 薄型パンタグラフ式 フルサイズ ブラック TK-PN10FMPABK",
     "percent_off": 22
-  },
-  "B0FGCDSH1J": {
-    "first_seen": "2026-07-28",
-    "first_seen_at": "2026-07-28T12:00:00+09:00",
-    "last_seen": "2026-08-28",
-    "title": "【Amazon.co.jp限定】Logicool G ラピッドトリガー G515 RAPID ゲーミングキーボード G515-TKL-RTBKd",
-    "percent_off": 15
-  },
-  "B08TMK8GSC": {
-    "first_seen": "2026-08-21",
-    "first_seen_at": "2026-08-21T12:19:55+09:00",
-    "last_seen": "2026-08-28",
-    "title": "エレコム ワイヤレスキーボード Bluetooth フルキーボード テンキー付 薄型 メンブレン 抗菌 最大3台マルチペアリング対応 iPad/Surface/テンキー付 ブラック TK-FBM120KBK/EC",
-    "percent_off": 15
   },
   "B0DCJZH3QH": {
     "first_seen": "2026-07-29",
@@ -1122,12 +1136,6 @@
     "first_seen_at": "2026-08-21T00:51:29+09:00",
     "last_seen": "2026-08-28",
     "title": "Apple 2026 MacBook Air M5チップ搭載15インチノートブック：AIとApple Intelligence、15.3インチLiquid Retinaディスプレイ、16GBユニファイドメモリ、1TB SSD、12MPセンターフレームカメラ、Touch ID - スカイブルー + 3年延長 AppleCare+ for 15インチMacBook Air(M5)|ダウンロード版"
-  },
-  "B0F9FHXPDF": {
-    "first_seen": "2026-07-27",
-    "first_seen_at": "2026-07-27T12:00:00+09:00",
-    "last_seen": "2026-08-28",
-    "title": "UGREEN 100W PD 急速充電器 USB-C×4/USB-A×1 タッチモニター搭載 PSE認証済 36*75*75mm"
   },
   "B0FKH268LS": {
     "first_seen": "2026-07-30",
@@ -1350,12 +1358,6 @@
     "first_seen_at": "2026-08-20T10:54:36+09:00",
     "last_seen": "2026-08-26",
     "title": "ソニー ゲーミングイヤホン INZONE Buds:WF-G700N Fnatic監修/ワイヤレス / 低遅延2.4GHzワイヤレス接続 USBType-Cトランシーバー同梱/LE Audio対応/アクティブノイズキャンセリング/立体音響 / 最大約24時間バッテリー / 急速充電/マイク付き / PS5 スマホ PC Switch グラスパープル"
-  },
-  "B0GVJG7D7K": {
-    "first_seen": "2026-07-31",
-    "first_seen_at": "2026-07-31T12:00:00+09:00",
-    "last_seen": "2026-08-26",
-    "title": "VITURE Luma Ultra XR グラス & Pro ネックバンド 12GBメモリ＆256GB内蔵ストレージ セット マルチスクリーン/6DoF/ハンドジェスチャー/スムーズフォロー/アンビエントモード搭載 PXPlay & XBXPlay 公式対応ワイヤレスゲームストリーミングメガネ"
   },
   "B0H8DM7WPF": {
     "first_seen": "2026-08-26",
