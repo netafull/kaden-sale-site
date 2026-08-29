@@ -300,6 +300,13 @@
     "title": "Belkin USB充電器 40W iPhone17,16～12 デュアルUSB-C(20W x 2) PD3.0 急速充電対応 ホワイト WCB006dqWHJP",
     "percent_off": 47
   },
+  "B0BF9ZYCQ5": {
+    "first_seen": "2026-07-31",
+    "first_seen_at": "2026-07-31T12:00:00+09:00",
+    "last_seen": "2026-08-29",
+    "title": "【VGP受賞】Belkin 充電器 USB-C 2ポート PPS規格対応 GaN採用 小型 ACアダプター タイプC 急速充電 軽量【PD3.0対応 /PSE認証/折りたたみ式プラグ】45W(25W+20W) MacBook Windows PC Surface Pro iPad iPhone 17,16～12対応 Galaxy Android スマホ 各種ノートPC対応 WCH011dqWH",
+    "percent_off": 42
+  },
   "B0CLGZGXMD": {
     "first_seen": "2026-07-27",
     "first_seen_at": "2026-07-27T12:00:00+09:00",
@@ -342,11 +349,11 @@
     "title": "Anker Nano Charger (70W, 3 Ports) ブラック",
     "percent_off": 33
   },
-  "B0B2QR8HN9": {
-    "first_seen": "2026-08-09",
-    "first_seen_at": "2026-08-09T19:54:50+09:00",
+  "B0B2QQDKR8": {
+    "first_seen": "2026-07-27",
+    "first_seen_at": "2026-07-27T12:00:00+09:00",
     "last_seen": "2026-08-29",
-    "title": "Anker 511 Charger (Nano 3, 30W) ホワイト",
+    "title": "Anker 511 Charger (Nano 3, 30W) ブラック",
     "percent_off": 32
   },
   "B0D8RSX6W2": {
@@ -453,6 +460,13 @@
     "last_seen": "2026-08-29",
     "title": "Anker Charger (112W, 6 Ports, GaN) ブラック",
     "percent_off": 20
+  },
+  "B0CSYVNBZX": {
+    "first_seen": "2026-07-31",
+    "first_seen_at": "2026-07-31T12:00:00+09:00",
+    "last_seen": "2026-08-29",
+    "title": "Belkin USB充電器 42W (30W USB-C + 12W USB-A) PPS対応 PD3.1 急速充電 iPhone17,16～12/ iPad/Androidスマホ・タブレット各種対応 折り畳みプラグ ホワイト WCB009dqWHJP",
+    "percent_off": 18
   },
   "B0FWJK8GV9": {
     "first_seen": "2026-07-29",
@@ -676,7 +690,7 @@
     "first_seen_at": "2026-07-30T12:00:00+09:00",
     "last_seen": "2026-08-29",
     "title": "HUAWEI WATCH GT 6 Pro 46mm スマートウォッチ 1.47インチ大画面 最長21日間バッテリー サイクリング/登山/進化したゴルフナビ スポーツモード100種類以上 GPS搭載 心電図分析 健康/情緒モニタリング iOS/Android対応 ブラック",
-    "percent_off": 23
+    "percent_off": 25
   },
   "B0DQ7MJ8P3": {
     "first_seen": "2026-08-22",
@@ -1014,6 +1028,13 @@
     "title": "アイリスオーヤマ 過熱水蒸気 エア フライヤー 3L 2～3人用 ノンオイルフライヤー スチーム機能 ジューシー FV-M30A-C アイボリー",
     "percent_off": 34
   },
+  "B0B2QR8HN9": {
+    "first_seen": "2026-08-09",
+    "first_seen_at": "2026-08-09T19:54:50+09:00",
+    "last_seen": "2026-08-29",
+    "title": "Anker 511 Charger (Nano 3, 30W) ホワイト",
+    "percent_off": 32
+  },
   "B0DMN885ZF": {
     "first_seen": "2026-08-05",
     "first_seen_at": "2026-08-05T03:07:44+09:00",
@@ -1027,13 +1048,6 @@
     "last_seen": "2026-08-29",
     "title": "Belkin BoostCharge モバイルバッテリー ディズプレイ付き (10000mAh 20W USB-Cケーブル内蔵) 最大20W PD高速充電対応 PPS対応 iPhone 17,16～12対応&Androidスマホ対応 2台同時充電 PSE認証 軽量&コンパクト 機内持込可能 アウトドア/災害/緊急用の便利グッズ メーカー保証2年 ブルー BPB027fqBL",
     "percent_off": 32
-  },
-  "B0BF9ZYCQ5": {
-    "first_seen": "2026-07-31",
-    "first_seen_at": "2026-07-31T12:00:00+09:00",
-    "last_seen": "2026-08-29",
-    "title": "【VGP受賞】Belkin 充電器 USB-C 2ポート PPS規格対応 GaN採用 小型 ACアダプター タイプC 急速充電 軽量【PD3.0対応 /PSE認証/折りたたみ式プラグ】45W(25W+20W) MacBook Windows PC Surface Pro iPad iPhone 17,16～12対応 Galaxy Android スマホ 各種ノートPC対応 WCH011dqWH",
-    "percent_off": 42
   },
   "B0GR1TB3TP": {
     "first_seen": "2026-08-13",
@@ -1210,12 +1224,6 @@
     "first_seen_at": "2026-08-26T01:57:28+09:00",
     "last_seen": "2026-08-27",
     "title": "UGREEN Air急速充電器 100W Type-C 薄型設計 2C1A 3ポート 当社比25%小型化超薄モデル 折り畳み式"
-  },
-  "B0B2QQDKR8": {
-    "first_seen": "2026-07-27",
-    "first_seen_at": "2026-07-27T12:00:00+09:00",
-    "last_seen": "2026-08-27",
-    "title": "Anker 511 Charger (Nano 3, 30W) ブラック"
   },
   "B0FRSR6BVR": {
     "first_seen": "2026-08-07",
@@ -1594,12 +1602,6 @@
     "first_seen_at": "2026-08-22T22:03:54+09:00",
     "last_seen": "2026-08-25",
     "title": "エレコム 充電器 合計65W 3ポート Type-C USB PD対応 スイング式プラグ採用 しろちゃん EC-AC11267WF"
-  },
-  "B0CSYVNBZX": {
-    "first_seen": "2026-07-31",
-    "first_seen_at": "2026-07-31T12:00:00+09:00",
-    "last_seen": "2026-08-25",
-    "title": "Belkin USB充電器 42W (30W USB-C + 12W USB-A) PPS対応 PD3.1 急速充電 iPhone17,16～12/ iPad/Androidスマホ・タブレット各種対応 折り畳みプラグ ホワイト WCB009dqWHJP"
   },
   "B0F4VQBYN4": {
     "first_seen": "2026-08-23",
