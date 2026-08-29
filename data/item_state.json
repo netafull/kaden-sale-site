@@ -6,18 +6,18 @@
     "title": "Apple iPhone Air 1TB (SIMフリー)：史上最薄のiPhone、最大120HzのProMotionを採用した6.5インチディスプレイ、パワフルなA19 Proチップ、センターフレームフロントカメラ、一日中使えるバッテリー；スカイブルー",
     "percent_off": 22
   },
-  "B0FQFPZW9G": {
-    "first_seen": "2026-07-31",
-    "first_seen_at": "2026-07-31T12:00:00+09:00",
-    "last_seen": "2026-08-29",
-    "title": "Apple iPhone Air 512GB (SIMフリー)：史上最薄のiPhone、最大120HzのProMotionを採用した6.5インチディスプレイ、パワフルなA19 Proチップ、センターフレームフロントカメラ、一日中使えるバッテリー；スカイブルー",
-    "percent_off": 17
-  },
   "B0FQFHZ5KH": {
     "first_seen": "2026-07-31",
     "first_seen_at": "2026-07-31T12:00:00+09:00",
     "last_seen": "2026-08-29",
     "title": "Apple iPhone Air 512GB (SIMフリー)：史上最薄のiPhone、最大120HzのProMotionを採用した6.5インチディスプレイ、パワフルなA19 Proチップ、センターフレームフロントカメラ、一日中使えるバッテリー；スペースブラック",
+    "percent_off": 17
+  },
+  "B0FQFPZW9G": {
+    "first_seen": "2026-07-31",
+    "first_seen_at": "2026-07-31T12:00:00+09:00",
+    "last_seen": "2026-08-29",
+    "title": "Apple iPhone Air 512GB (SIMフリー)：史上最薄のiPhone、最大120HzのProMotionを採用した6.5インチディスプレイ、パワフルなA19 Proチップ、センターフレームフロントカメラ、一日中使えるバッテリー；スカイブルー",
     "percent_off": 17
   },
   "B0GJTW9CL8": {
@@ -244,6 +244,13 @@
     "title": "UGREEN Zapix【小型・軽量／10000mAh／USB－C＆USB－A／PD20W／2台同時充電】モバイルバッテリー 灰色 PB507",
     "percent_off": 21
   },
+  "B0DRFQNPDQ": {
+    "first_seen": "2026-08-22",
+    "first_seen_at": "2026-08-22T22:03:54+09:00",
+    "last_seen": "2026-08-29",
+    "title": "Anker Zolo Power Bank (20000mAh, 30W, Built-In USB-Cケーブル) ブラック",
+    "percent_off": 20
+  },
   "B0DNLVY85L": {
     "first_seen": "2026-08-11",
     "first_seen_at": "2026-08-11T18:18:36+09:00",
@@ -307,13 +314,6 @@
     "title": "Belkin Qi2 車載ワイヤレス充電器 15W急速充電 MagSafe対応 スマホホルダー エアコン吹き出し口用",
     "percent_off": 37
   },
-  "B0982VFYYJ": {
-    "first_seen": "2026-08-29",
-    "first_seen_at": "2026-08-29T22:14:57+09:00",
-    "last_seen": "2026-08-29",
-    "title": "UGREEN Nexode急速充電器 100W Type-C 3C1A 4ポート PD3.0/PPS/QC3.0対応 折り畳み式 PSE適合",
-    "percent_off": 35
-  },
   "B0DW2SYD5H": {
     "first_seen": "2026-08-15",
     "first_seen_at": "2026-08-15T20:37:29+09:00",
@@ -327,6 +327,13 @@
     "last_seen": "2026-08-29",
     "title": "Anker Prime Wall Charger (67W, 3 ports, GaN) (ブラック)",
     "percent_off": 35
+  },
+  "B0CYZJCJV1": {
+    "first_seen": "2026-08-22",
+    "first_seen_at": "2026-08-22T23:39:51+09:00",
+    "last_seen": "2026-08-29",
+    "title": "UGREEN 急速充電器 65W Type-C 3C 3ポート PD3.1/PPS/QC4規格対応 GaN窒化ガリウム 折り畳み式",
+    "percent_off": 34
   },
   "B0D53VJJ7F": {
     "first_seen": "2026-07-28",
@@ -433,6 +440,13 @@
     "title": "Belkin Cubic Charger 67W 充電器 type-c PD充電器 USB-C*2 急速充電 ZSP技術を搭載(待機消費0) ホワイト",
     "percent_off": 23
   },
+  "B0F1SY6KYC": {
+    "first_seen": "2026-08-25",
+    "first_seen_at": "2026-08-25T04:01:19+09:00",
+    "last_seen": "2026-08-29",
+    "title": "Belkin MagSafe充電器 Qi2 15W ワイヤレス充電器 iPhone 12-17・AirPods対応 スタンド付き",
+    "percent_off": 23
+  },
   "B0FKMXL7BS": {
     "first_seen": "2026-08-21",
     "first_seen_at": "2026-08-21T13:56:56+09:00",
@@ -503,11 +517,11 @@
     "title": "【Amazon.co.jp限定】 SanDisk microSD カード Ultra SDSQUAB-128G-GH3MA 簡易デザインパッケージ",
     "percent_off": 23
   },
-  "B0D2M7GXGL": {
-    "first_seen": "2026-08-21",
-    "first_seen_at": "2026-08-21T23:55:32+09:00",
+  "B0D2M5G98N": {
+    "first_seen": "2026-07-30",
+    "first_seen_at": "2026-07-30T12:00:00+09:00",
     "last_seen": "2026-08-29",
-    "title": "エレコム microSD 64GB マイクロSDカード UHS-1 U1 microSDXC IPX7 MF-AMS064GU11",
+    "title": "エレコム microSD 32GB マイクロSDカード UHS-1 U1 microSDHC IPX7 MF-AMS032GU11",
     "percent_off": 19
   },
   "B08P45YTTL": {
@@ -683,7 +697,7 @@
     "first_seen_at": "2026-07-30T12:00:00+09:00",
     "last_seen": "2026-08-29",
     "title": "HUAWEI WATCH GT 6 Pro 46mm スマートウォッチ 1.47インチ大画面 最長21日間バッテリー サイクリング/登山/進化したゴルフナビ スポーツモード100種類以上 GPS搭載 心電図分析 健康/情緒モニタリング iOS/Android対応 ブラック",
-    "percent_off": 25
+    "percent_off": 23
   },
   "B0DQ7MJ8P3": {
     "first_seen": "2026-08-22",
@@ -733,6 +747,13 @@
     "last_seen": "2026-08-29",
     "title": "VITURE Luma AR/XRグラス 近視-6.0Dまで対応 146型 1200p 120Hz",
     "percent_off": 16
+  },
+  "B0G34SQSDD": {
+    "first_seen": "2026-07-31",
+    "first_seen_at": "2026-07-31T12:00:00+09:00",
+    "last_seen": "2026-08-29",
+    "title": "DPVR G1 AIスマートグラス 800万画素 カメラ付きメガネ 録画 翻訳 AI画像認識 メガネ型カメラ オーディオグラス 調光レンズ",
+    "percent_off": 17
   },
   "B0D876RN9C": {
     "first_seen": "2026-08-21",
@@ -858,13 +879,6 @@
     "first_seen_at": "2026-08-25T00:58:08+09:00",
     "last_seen": "2026-08-29",
     "title": "【Amazon.co.jp限定】 ロジクール ワイヤレスキーボード 無線 MX KEYS mini KX700GRd 日本語配列 国内正規品",
-    "percent_off": 22
-  },
-  "B0FL6ZD3WL": {
-    "first_seen": "2026-07-29",
-    "first_seen_at": "2026-07-29T12:00:00+09:00",
-    "last_seen": "2026-08-29",
-    "title": "エレコム ワイヤレスキーボード Precisionist プレシジョニスト Bluetooth 無線2.4GHz マルチペアリング4台 充電式 薄型パンタグラフ式 フルサイズ ブラック TK-PN10FMPABK",
     "percent_off": 22
   },
   "B08GP2H88M": {
@@ -1028,6 +1042,27 @@
     "title": "[山善] ノンフライヤー 2.2L 電気フライヤー 食洗器対応可能 1~3人用 油なし エアーフライヤー 「油で揚げないヘルシー調理」 卓上 レシピブック付き ブラック YAF-C120(B)",
     "percent_off": 18
   },
+  "B0982VFYYJ": {
+    "first_seen": "2026-08-29",
+    "first_seen_at": "2026-08-29T22:14:57+09:00",
+    "last_seen": "2026-08-29",
+    "title": "UGREEN Nexode急速充電器 100W Type-C 3C1A 4ポート PD3.0/PPS/QC3.0対応 折り畳み式 PSE適合",
+    "percent_off": 35
+  },
+  "B0D2M7GXGL": {
+    "first_seen": "2026-08-21",
+    "first_seen_at": "2026-08-21T23:55:32+09:00",
+    "last_seen": "2026-08-29",
+    "title": "エレコム microSD 64GB マイクロSDカード UHS-1 U1 microSDXC IPX7 MF-AMS064GU11",
+    "percent_off": 19
+  },
+  "B0FL6ZD3WL": {
+    "first_seen": "2026-07-29",
+    "first_seen_at": "2026-07-29T12:00:00+09:00",
+    "last_seen": "2026-08-29",
+    "title": "エレコム ワイヤレスキーボード Precisionist プレシジョニスト Bluetooth 無線2.4GHz マルチペアリング4台 充電式 薄型パンタグラフ式 フルサイズ ブラック TK-PN10FMPABK",
+    "percent_off": 22
+  },
   "B0FCSHC5H1": {
     "first_seen": "2026-08-21",
     "first_seen_at": "2026-08-21T20:43:23+09:00",
@@ -1055,13 +1090,6 @@
     "last_seen": "2026-08-29",
     "title": "Anker MagGo Power Bank (10,000mAh, 15W)",
     "percent_off": 25
-  },
-  "B0DRFQNPDQ": {
-    "first_seen": "2026-08-22",
-    "first_seen_at": "2026-08-22T22:03:54+09:00",
-    "last_seen": "2026-08-29",
-    "title": "Anker Zolo Power Bank (20000mAh, 30W, Built-In USB-Cケーブル) ブラック",
-    "percent_off": 20
   },
   "B0FKTL1CPV": {
     "first_seen": "2026-08-11",
@@ -1196,26 +1224,12 @@
     "title": "Belkin USB充電器 42W (30W USB-C + 12W USB-A) PPS対応 PD3.1 急速充電 iPhone17,16～12/ iPad/Androidスマホ・タブレット各種対応 折り畳みプラグ ホワイト WCB009dqWHJP",
     "percent_off": 18
   },
-  "B0D2M5G98N": {
-    "first_seen": "2026-07-30",
-    "first_seen_at": "2026-07-30T12:00:00+09:00",
-    "last_seen": "2026-08-29",
-    "title": "エレコム microSD 32GB マイクロSDカード UHS-1 U1 microSDHC IPX7 MF-AMS032GU11",
-    "percent_off": 19
-  },
   "B0H6BLVBDC": {
     "first_seen": "2026-08-19",
     "first_seen_at": "2026-08-19T16:07:39+09:00",
     "last_seen": "2026-08-29",
     "title": "VITURE Beast ARグラス 【家電批評Best Buy・VGP金賞・企画賞】 174インチ 光学技術で映像を鮮明に 3DoF対応",
     "percent_off": 16
-  },
-  "B0G34SQSDD": {
-    "first_seen": "2026-07-31",
-    "first_seen_at": "2026-07-31T12:00:00+09:00",
-    "last_seen": "2026-08-29",
-    "title": "DPVR G1 AIスマートグラス 800万画素 カメラ付きメガネ 録画 翻訳 AI画像認識 メガネ型カメラ オーディオグラス 調光レンズ",
-    "percent_off": 17
   },
   "B0DMN885ZF": {
     "first_seen": "2026-08-05",
@@ -1244,13 +1258,6 @@
     "last_seen": "2026-08-29",
     "title": "UGREEN Air モバイルバッテリー 5000mAh 8.6mm超薄型 Qi2 15W MagSafe対応",
     "percent_off": 35
-  },
-  "B0F1SY6KYC": {
-    "first_seen": "2026-08-25",
-    "first_seen_at": "2026-08-25T04:01:19+09:00",
-    "last_seen": "2026-08-29",
-    "title": "Belkin MagSafe充電器 Qi2 15W ワイヤレス充電器 iPhone 12-17・AirPods対応 スタンド付き",
-    "percent_off": 23
   },
   "B0DJBQLDWP": {
     "first_seen": "2026-08-06",
@@ -2027,12 +2034,6 @@
     "first_seen_at": "2026-08-11T21:00:42+09:00",
     "last_seen": "2026-08-23",
     "title": "Anker Nano Power Bank (22.5W, Built-In USB-C Connector) ピンク"
-  },
-  "B0CYZJCJV1": {
-    "first_seen": "2026-08-22",
-    "first_seen_at": "2026-08-22T23:39:51+09:00",
-    "last_seen": "2026-08-23",
-    "title": "UGREEN 急速充電器 65W Type-C 3C 3ポート PD3.1/PPS/QC4規格対応 GaN窒化ガリウム 折り畳み式"
   },
   "B0DFYCFW19": {
     "first_seen": "2026-08-14",
