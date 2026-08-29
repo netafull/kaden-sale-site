@@ -1,14 +1,25 @@
 name: Update Kaden sale site
 
 on:
-  schedule:
-    # ジャンル追加でAPI消費が増えたため毎時1回に戻した。
-    # Creators APIの上限は8,640req/日、本ワークフローは170req/回なので
-    # 24回/日 = 4,080reqで半分以下に収まる
-    # (GitHubのスケジューラーは高負荷時に発火をスキップすることがあり、
-    #  実測の中央値は52分間隔。2本立てにしても効果は限定的だった)
-    - cron: "7 * * * *"  # 毎時7分に実行 (UTC)
-  # 人手でconfig.jsonやスクリプトを変えたとき、次の定時実行(最大1時間後)を
+  # 定期実行は GitHub の schedule をやめ、Google Cloud Scheduler から
+  # workflow_dispatch API を叩く方式に移行した (2026-08-29)。
+  #
+  # 理由: GitHub の schedule は高負荷時に発火そのものをスキップする。
+  # 2026-08-22〜29 の実測で、公称「毎時」に対し中央値は60分と近いものの
+  # 最長13.3時間の欠測があり、3サイト(家電/電書/林檎ポチ)で同時刻に
+  # 同じ穴が空いていた。ワークフロー自体の失敗は0件で、GitHub側の間引きが
+  # 原因と確定している。workflow_dispatch はこの間引きの対象外。
+  #
+  # 発火元: Cloud Scheduler ジョブ kaden-pochi-update
+  #         (GCPプロジェクト manga-rss / asia-northeast1 / cron "7 */2 * * *" UTC)
+  # 間隔を毎時から2時間に変えたのは、Creators API の上限8,640req/日を
+  # 電書ポチ(Partner Tag は natafull-22 で共通)と共有しているため。
+  # 本ワークフローは170req/回なので 12回/日 = 2,040req。電書ポチ(6時間間隔)
+  # と合算しても約3,000req/日で上限の35%に収まる。
+  # ※ schedule を消したので、間隔を変えたいときはこのファイルではなく
+  #   Cloud Scheduler 側のジョブを直すこと。
+  #
+  # 人手でconfig.jsonやスクリプトを変えたとき、次の定時実行(最大2時間後)を
   # 待たずに公開されるようにする。docsはアーティファクトで配信しており
   # コミットしていないため、pushトリガーを付けても本ワークフロー自身の
   # コミット(data/item_state.jsonのみ)では発火せずループしない
