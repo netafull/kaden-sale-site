@@ -279,12 +279,19 @@
     "title": "Belkin USB充電器 40W iPhone17,16～12 デュアルUSB-C(20W x 2) PD3.0 急速充電対応 ホワイト WCB006dqWHJP",
     "percent_off": 47
   },
-  "B0CLGZGXMD": {
-    "first_seen": "2026-07-27",
-    "first_seen_at": "2026-07-27T12:00:00+09:00",
+  "B0CMQK8CMJ": {
+    "first_seen": "2026-08-05",
+    "first_seen_at": "2026-08-05T21:15:31+09:00",
     "last_seen": "2026-08-30",
-    "title": "UGREEN Nexode【当社比最小】65W PD充電器 USB-C*2+USB-A*1 急速充電器 PSE適合 PD/PPS/QC4+対応",
-    "percent_off": 40
+    "title": "UGREEN NexodeX 100W GaNII充電器 USB-C*2+USB-A タイプC Type-C 急速充電器 PD3.0/PPS/QC4+",
+    "percent_off": 44
+  },
+  "B0BF9ZYCQ5": {
+    "first_seen": "2026-07-31",
+    "first_seen_at": "2026-07-31T12:00:00+09:00",
+    "last_seen": "2026-08-30",
+    "title": "【VGP受賞】Belkin 充電器 USB-C 2ポート PPS規格対応 GaN採用 小型 ACアダプター タイプC 急速充電 軽量【PD3.0対応 /PSE認証/折りたたみ式プラグ】45W(25W+20W) MacBook Windows PC Surface Pro iPad iPhone 17,16～12対応 Galaxy Android スマホ 各種ノートPC対応 WCH011dqWH",
+    "percent_off": 42
   },
   "B0GSVNFT8T": {
     "first_seen": "2026-08-11",
@@ -439,13 +446,6 @@
     "last_seen": "2026-08-30",
     "title": "Anker Charger (112W, 6 Ports, GaN) ブラック",
     "percent_off": 20
-  },
-  "B0CSYVNBZX": {
-    "first_seen": "2026-07-31",
-    "first_seen_at": "2026-07-31T12:00:00+09:00",
-    "last_seen": "2026-08-30",
-    "title": "Belkin USB充電器 42W (30W USB-C + 12W USB-A) PPS対応 PD3.1 急速充電 iPhone17,16～12/ iPad/Androidスマホ・タブレット各種対応 折り畳みプラグ ホワイト WCB009dqWHJP",
-    "percent_off": 18
   },
   "B0FWJK8GV9": {
     "first_seen": "2026-07-29",
@@ -804,13 +804,6 @@
     "title": "【Amazon.co.jp限定】 Logicool G PRO ゲーミングキーボード G-PKB-002LNd テンキーレス リニア 赤軸 日本語配列",
     "percent_off": 25
   },
-  "B0DRJK6JMM": {
-    "first_seen": "2026-08-23",
-    "first_seen_at": "2026-08-23T22:05:10+09:00",
-    "last_seen": "2026-08-30",
-    "title": "REALFORCE リアルフォース ラピッドトリガー キーボードGX1 ホワイト 静音 45ｇ TKLサイズ 静電容量無接点方式 最速0.1mm作動 Windows かな無し 日本語配列 日本製 ゲーミングキーボード 91キー X1UC21",
-    "percent_off": 25
-  },
   "B0B8NLL6B6": {
     "first_seen": "2026-08-02",
     "first_seen_at": "2026-08-02T18:25:14+09:00",
@@ -986,6 +979,27 @@
     "title": "アイリスオーヤマ 過熱水蒸気 エア フライヤー 3L 2～3人用 ノンオイルフライヤー スチーム機能 ジューシー FV-M30A-C アイボリー",
     "percent_off": 40
   },
+  "B0CLGZGXMD": {
+    "first_seen": "2026-07-27",
+    "first_seen_at": "2026-07-27T12:00:00+09:00",
+    "last_seen": "2026-08-30",
+    "title": "UGREEN Nexode【当社比最小】65W PD充電器 USB-C*2+USB-A*1 急速充電器 PSE適合 PD/PPS/QC4+対応",
+    "percent_off": 40
+  },
+  "B0CSYVNBZX": {
+    "first_seen": "2026-07-31",
+    "first_seen_at": "2026-07-31T12:00:00+09:00",
+    "last_seen": "2026-08-30",
+    "title": "Belkin USB充電器 42W (30W USB-C + 12W USB-A) PPS対応 PD3.1 急速充電 iPhone17,16～12/ iPad/Androidスマホ・タブレット各種対応 折り畳みプラグ ホワイト WCB009dqWHJP",
+    "percent_off": 18
+  },
+  "B0DRJK6JMM": {
+    "first_seen": "2026-08-23",
+    "first_seen_at": "2026-08-23T22:05:10+09:00",
+    "last_seen": "2026-08-30",
+    "title": "REALFORCE リアルフォース ラピッドトリガー キーボードGX1 ホワイト 静音 45ｇ TKLサイズ 静電容量無接点方式 最速0.1mm作動 Windows かな無し 日本語配列 日本製 ゲーミングキーボード 91キー X1UC21",
+    "percent_off": 25
+  },
   "B0GR1K6TPF": {
     "first_seen": "2026-08-11",
     "first_seen_at": "2026-08-11T13:48:28+09:00",
@@ -999,20 +1013,6 @@
     "last_seen": "2026-08-30",
     "title": "Apple 2026 MacBook Air M5チップ搭載15インチノートブック：AIとApple Intelligence、15.3インチLiquid Retinaディスプレイ、16GBユニファイドメモリ、1TB SSD、12MPセンターフレームカメラ、Touch ID - スカイブルー + 3年延長 AppleCare+ for 15インチMacBook Air(M5)|ダウンロード版",
     "percent_off": 13
-  },
-  "B0BF9ZYCQ5": {
-    "first_seen": "2026-07-31",
-    "first_seen_at": "2026-07-31T12:00:00+09:00",
-    "last_seen": "2026-08-30",
-    "title": "【VGP受賞】Belkin 充電器 USB-C 2ポート PPS規格対応 GaN採用 小型 ACアダプター タイプC 急速充電 軽量【PD3.0対応 /PSE認証/折りたたみ式プラグ】45W(25W+20W) MacBook Windows PC Surface Pro iPad iPhone 17,16～12対応 Galaxy Android スマホ 各種ノートPC対応 WCH011dqWH",
-    "percent_off": 42
-  },
-  "B0CMQK8CMJ": {
-    "first_seen": "2026-08-05",
-    "first_seen_at": "2026-08-05T21:15:31+09:00",
-    "last_seen": "2026-08-30",
-    "title": "UGREEN NexodeX 100W GaNII充電器 USB-C*2+USB-A タイプC Type-C 急速充電器 PD3.0/PPS/QC4+",
-    "percent_off": 44
   },
   "B0F8TZV7ST": {
     "first_seen": "2026-08-28",
