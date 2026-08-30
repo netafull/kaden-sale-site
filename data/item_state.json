@@ -97,13 +97,6 @@
     "title": "Apple iPhone Air 256GB (SIMフリー)：史上最薄のiPhone、最大120HzのProMotionを採用した6.5インチディスプレイ、パワフルなA19 Proチップ、センターフレームフロントカメラ、一日中使えるバッテリー；クラウドホワイト",
     "percent_off": 8
   },
-  "B0GR1RYD3C": {
-    "first_seen": "2026-08-16",
-    "first_seen_at": "2026-08-16T13:52:54+09:00",
-    "last_seen": "2026-08-31",
-    "title": "Apple 2026 MacBook Air M5チップ搭載13インチノートブック：AIとApple Intelligence、13.6インチLiquid Retinaディスプレイ、16GBユニファイドメモリ、1TB SSDストレージ、12MPセンターフレームカメラ、日本語キーボード、Touch ID - シルバー",
-    "percent_off": 6
-  },
   "B0FQFWV3SK": {
     "first_seen": "2026-08-13",
     "first_seen_at": "2026-08-13T09:31:31+09:00",
@@ -116,7 +109,7 @@
     "first_seen_at": "2026-08-04T18:28:41+09:00",
     "last_seen": "2026-08-31",
     "title": "ソニー(SONY) 完全ワイヤレスイヤホン WF-C700N :高性能ノイズキャンセリング搭載/軽量・小型設計/音質アップスケール機能搭載/連続音楽再生時間最長 7.5時間/IPX4防滴性能/急速充電対応/クリアな通話性能/マルチポイント対応 ブラック WF-C700N BZ",
-    "percent_off": 56
+    "percent_off": 55
   },
   "B0DDKHF9XY": {
     "first_seen": "2026-08-16",
@@ -1062,6 +1055,13 @@
     "last_seen": "2026-08-31",
     "title": "アイリスオーヤマ 過熱水蒸気 エア フライヤー 3L 2～3人用 ノンオイルフライヤー スチーム機能 ジューシー FV-M30A-C アイボリー",
     "percent_off": 40
+  },
+  "B0GR1RYD3C": {
+    "first_seen": "2026-08-16",
+    "first_seen_at": "2026-08-16T13:52:54+09:00",
+    "last_seen": "2026-08-31",
+    "title": "Apple 2026 MacBook Air M5チップ搭載13インチノートブック：AIとApple Intelligence、13.6インチLiquid Retinaディスプレイ、16GBユニファイドメモリ、1TB SSDストレージ、12MPセンターフレームカメラ、日本語キーボード、Touch ID - シルバー",
+    "percent_off": 6
   },
   "B0FQJ1LWCQ": {
     "first_seen": "2026-08-29",
