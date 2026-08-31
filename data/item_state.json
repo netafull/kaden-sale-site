@@ -279,13 +279,6 @@
     "title": "Belkin USB充電器 40W iPhone17,16～12 デュアルUSB-C(20W x 2) PD3.0 急速充電対応 ホワイト WCB006dqWHJP",
     "percent_off": 47
   },
-  "B0BF9ZYCQ5": {
-    "first_seen": "2026-07-31",
-    "first_seen_at": "2026-07-31T12:00:00+09:00",
-    "last_seen": "2026-09-01",
-    "title": "【VGP受賞】Belkin 充電器 USB-C 2ポート PPS規格対応 GaN採用 小型 ACアダプター タイプC 急速充電 軽量【PD3.0対応 /PSE認証/折りたたみ式プラグ】45W(25W+20W) MacBook Windows PC Surface Pro iPad iPhone 17,16～12対応 Galaxy Android スマホ 各種ノートPC対応 WCH011dqWH",
-    "percent_off": 42
-  },
   "B0CLGZGXMD": {
     "first_seen": "2026-07-27",
     "first_seen_at": "2026-07-27T12:00:00+09:00",
@@ -692,13 +685,6 @@
     "title": "GARMIN(ガーミン)スマートウォッチ Forerunner 170 Black/Amp Yellow スマートウォッチモード 約 10 日間 高精度GPS ランニングウォッチ iOS/Android AMOLEDディスプレイ1.2インチ マラソン 軽量 防水 心拍数 睡眠スコア 健康管理 Suicaタッチ決済 Garmin Pay",
     "percent_off": 17
   },
-  "B0GJSCGFTP": {
-    "first_seen": "2026-08-28",
-    "first_seen_at": "2026-08-28T13:20:27+09:00",
-    "last_seen": "2026-09-01",
-    "title": "HUAWEI Band 11 Pro GPS搭載 スマートウォッチ 8.99mm/18g薄型軽量ボディ 高輝度 2000nits 1.62大画面 24時間睡眠管理 14日間持続バッテリー ランニングモード 情緒モニタリング LINE通知 ブラック",
-    "percent_off": 15
-  },
   "B0H6BLVBDC": {
     "first_seen": "2026-08-19",
     "first_seen_at": "2026-08-19T16:07:39+09:00",
@@ -1013,6 +999,20 @@
     "last_seen": "2026-09-01",
     "title": "アイリスオーヤマ 過熱水蒸気 エア フライヤー 3L 2～3人用 ノンオイルフライヤー スチーム機能 ジューシー FV-M30A-C アイボリー",
     "percent_off": 40
+  },
+  "B0BF9ZYCQ5": {
+    "first_seen": "2026-07-31",
+    "first_seen_at": "2026-07-31T12:00:00+09:00",
+    "last_seen": "2026-09-01",
+    "title": "【VGP受賞】Belkin 充電器 USB-C 2ポート PPS規格対応 GaN採用 小型 ACアダプター タイプC 急速充電 軽量【PD3.0対応 /PSE認証/折りたたみ式プラグ】45W(25W+20W) MacBook Windows PC Surface Pro iPad iPhone 17,16～12対応 Galaxy Android スマホ 各種ノートPC対応 WCH011dqWH",
+    "percent_off": 42
+  },
+  "B0GJSCGFTP": {
+    "first_seen": "2026-08-28",
+    "first_seen_at": "2026-08-28T13:20:27+09:00",
+    "last_seen": "2026-09-01",
+    "title": "HUAWEI Band 11 Pro GPS搭載 スマートウォッチ 8.99mm/18g薄型軽量ボディ 高輝度 2000nits 1.62大画面 24時間睡眠管理 14日間持続バッテリー ランニングモード 情緒モニタリング LINE通知 ブラック",
+    "percent_off": 15
   },
   "B0D21Q6QG4": {
     "first_seen": "2026-08-31",
