@@ -95,7 +95,7 @@
     "first_seen_at": "2026-08-04T18:28:41+09:00",
     "last_seen": "2026-09-02",
     "title": "ソニー(SONY) 完全ワイヤレスイヤホン WF-C700N :高性能ノイズキャンセリング搭載/軽量・小型設計/音質アップスケール機能搭載/連続音楽再生時間最長 7.5時間/IPX4防滴性能/急速充電対応/クリアな通話性能/マルチポイント対応 ブラック WF-C700N BZ",
-    "percent_off": 56
+    "percent_off": 50
   },
   "B0FRSCXWSV": {
     "first_seen": "2026-07-29",
@@ -573,13 +573,6 @@
     "title": "IODATA GCFX ゲーミングモニター 24.5型 240Hz 1ms (HDMI/DP/VESA/チルト角調整) EX-GD251UH",
     "percent_off": 25
   },
-  "B0CM8RYF2Q": {
-    "first_seen": "2026-08-04",
-    "first_seen_at": "2026-08-04T21:17:38+09:00",
-    "last_seen": "2026-09-02",
-    "title": "INNOCN 40インチワイドモニター WR40 PRO WQHD(3440x1440) HDR600@144hzゲーミングモニター HDMI Display Port USB-C 90W Freesync 高さ調整 スピーカー内蔵 VESA (40インチ HDR600)",
-    "percent_off": 23
-  },
   "B00CWXRT98": {
     "first_seen": "2026-08-02",
     "first_seen_at": "2026-08-02T11:33:18+09:00",
@@ -592,6 +585,13 @@
     "first_seen_at": "2026-08-02T11:33:18+09:00",
     "last_seen": "2026-09-02",
     "title": "Pixio ゲーミングモニター PX248Wave ブラック 24インチ 200hz FHD Fast IPS ゲーミング モニター 黒 ピクシオ",
+    "percent_off": 20
+  },
+  "B0DNKC8HXP": {
+    "first_seen": "2026-08-02",
+    "first_seen_at": "2026-08-02T11:33:18+09:00",
+    "last_seen": "2026-09-02",
+    "title": "INNOCN ゲーミングモニター 24.5インチ 200Hz IPS 1ms(GTG) フルHD 非光沢 フレームレス PS5/Xbox対応 Adaptive-Sync VESA100×100 HDMI2.0/DP1.4接続 25G2G",
     "percent_off": 20
   },
   "B0DT3NLNCC": {
@@ -769,13 +769,6 @@
     "title": "ロジクール KX850FT MX MECHANICAL ワイヤレス メカニカル パフォーマンス キーボード 茶軸 タクタイル テンキー 静かな打鍵感 特に静か Logi Bolt bluetooth Unifying非対応 薄型 無線 メカニカルキーボード windows mac chrome Android ワイヤレスキーボード KX850 国内正規品 グラファイト",
     "percent_off": 44
   },
-  "B0F1FD99K8": {
-    "first_seen": "2026-07-29",
-    "first_seen_at": "2026-07-29T12:00:00+09:00",
-    "last_seen": "2026-09-02",
-    "title": "ラピッドトリガー 搭載 Razer レイザー Huntsman V3 Pro Mini JP (White Edition) ラピッドトリガーと調整可能なアクチュエーション搭載のアナログ ゲーミングキーボード アナログオプティカルスイッチ 調整可能なアクチュエーション 押下圧 40G 日本語配列 ハンツマン ブイスリー プロ ミニ ジェイピー ホワイト エディション【日本正規代理店保証品】",
-    "percent_off": 41
-  },
   "B07PJW2X2F": {
     "first_seen": "2026-07-26",
     "first_seen_at": "2026-07-26T12:00:00+09:00",
@@ -789,6 +782,13 @@
     "last_seen": "2026-09-02",
     "title": "エレコム ワイヤレスキーボード Precisionist プレシジョニスト Bluetooth 無線2.4GHz マルチペアリング4台 充電式 薄型パンタグラフ式 フルサイズ ブラック TK-PN10FMPABK",
     "percent_off": 26
+  },
+  "B0F1FD99K8": {
+    "first_seen": "2026-07-29",
+    "first_seen_at": "2026-07-29T12:00:00+09:00",
+    "last_seen": "2026-09-02",
+    "title": "ラピッドトリガー 搭載 Razer レイザー Huntsman V3 Pro Mini JP (White Edition) ラピッドトリガーと調整可能なアクチュエーション搭載のアナログ ゲーミングキーボード アナログオプティカルスイッチ 調整可能なアクチュエーション 押下圧 40G 日本語配列 ハンツマン ブイスリー プロ ミニ ジェイピー ホワイト エディション【日本正規代理店保証品】",
+    "percent_off": 35
   },
   "B0D9Y1J4NH": {
     "first_seen": "2026-07-28",
@@ -1021,6 +1021,13 @@
     "title": "アイリスオーヤマ 過熱水蒸気 エア フライヤー 3L 2～3人用 ノンオイルフライヤー スチーム機能 ジューシー FV-M30A-C アイボリー",
     "percent_off": 40
   },
+  "B0CM8RYF2Q": {
+    "first_seen": "2026-08-04",
+    "first_seen_at": "2026-08-04T21:17:38+09:00",
+    "last_seen": "2026-09-02",
+    "title": "INNOCN 40インチワイドモニター WR40 PRO WQHD(3440x1440) HDR600@144hzゲーミングモニター HDMI Display Port USB-C 90W Freesync 高さ調整 スピーカー内蔵 VESA (40インチ HDR600)",
+    "percent_off": 23
+  },
   "B0CFTQXTS2": {
     "first_seen": "2026-08-25",
     "first_seen_at": "2026-08-25T22:13:25+09:00",
@@ -1181,13 +1188,6 @@
     "last_seen": "2026-09-01",
     "title": "Anker Zolo Wireless Charger (Magnetic, Pad) 2個セット ブラック",
     "percent_off": 16
-  },
-  "B0DNKC8HXP": {
-    "first_seen": "2026-08-02",
-    "first_seen_at": "2026-08-02T11:33:18+09:00",
-    "last_seen": "2026-09-01",
-    "title": "INNOCN ゲーミングモニター 24.5インチ 200Hz IPS 1ms(GTG) フルHD 非光沢 フレームレス PS5/Xbox対応 Adaptive-Sync VESA100×100 HDMI2.0/DP1.4接続 25G2G",
-    "percent_off": 20
   },
   "B0F8VWZ2J6": {
     "first_seen": "2026-08-30",
