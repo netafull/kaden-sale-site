@@ -62,18 +62,18 @@
     "title": "Apple 2026 MacBook Air M5チップ搭載15インチノートブック：AIとApple Intelligence、15.3インチLiquid Retinaディスプレイ、16GBユニファイドメモリ、1TB SSDストレージ、12MPセンターフレームカメラ、日本語キーボード、Touch ID - スターライト",
     "percent_off": 10
   },
-  "B0FQG1QPLW": {
-    "first_seen": "2026-07-30",
-    "first_seen_at": "2026-07-30T12:00:00+09:00",
-    "last_seen": "2026-09-01",
-    "title": "Apple iPhone Air 256GB (SIMフリー)：史上最薄のiPhone、最大120HzのProMotionを採用した6.5インチディスプレイ、パワフルなA19 Proチップ、センターフレームフロントカメラ、一日中使えるバッテリー；スカイブルー",
-    "percent_off": 13
-  },
   "B0FQFLWSWZ": {
     "first_seen": "2026-07-29",
     "first_seen_at": "2026-07-29T12:00:00+09:00",
     "last_seen": "2026-09-01",
     "title": "Apple iPhone Air 256GB (SIMフリー)：史上最薄のiPhone、最大120HzのProMotionを採用した6.5インチディスプレイ、パワフルなA19 Proチップ、センターフレームフロントカメラ、一日中使えるバッテリー；スペースブラック",
+    "percent_off": 13
+  },
+  "B0FQG1QPLW": {
+    "first_seen": "2026-07-30",
+    "first_seen_at": "2026-07-30T12:00:00+09:00",
+    "last_seen": "2026-09-01",
+    "title": "Apple iPhone Air 256GB (SIMフリー)：史上最薄のiPhone、最大120HzのProMotionを採用した6.5インチディスプレイ、パワフルなA19 Proチップ、センターフレームフロントカメラ、一日中使えるバッテリー；スカイブルー",
     "percent_off": 13
   },
   "B0FQG5SZS9": {
@@ -272,6 +272,13 @@
     "title": "Belkin USB充電器 40W iPhone17,16～12 デュアルUSB-C(20W x 2) PD3.0 急速充電対応 ホワイト WCB006dqWHJP",
     "percent_off": 47
   },
+  "B0BF9ZYCQ5": {
+    "first_seen": "2026-07-31",
+    "first_seen_at": "2026-07-31T12:00:00+09:00",
+    "last_seen": "2026-09-01",
+    "title": "【VGP受賞】Belkin 充電器 USB-C 2ポート PPS規格対応 GaN採用 小型 ACアダプター タイプC 急速充電 軽量【PD3.0対応 /PSE認証/折りたたみ式プラグ】45W(25W+20W) MacBook Windows PC Surface Pro iPad iPhone 17,16～12対応 Galaxy Android スマホ 各種ノートPC対応 WCH011dqWH",
+    "percent_off": 42
+  },
   "B0CLGZGXMD": {
     "first_seen": "2026-07-27",
     "first_seen_at": "2026-07-27T12:00:00+09:00",
@@ -460,6 +467,13 @@
     "last_seen": "2026-09-01",
     "title": "エレコム 65W 充電器 Type-C コンセント 急速 PD対応 スイング式プラグ採用 PSE技術基準適合 ブラック EC-AC12465BK",
     "percent_off": 15
+  },
+  "B0F43N4Z21": {
+    "first_seen": "2026-08-25",
+    "first_seen_at": "2026-08-25T18:54:53+09:00",
+    "last_seen": "2026-09-01",
+    "title": "エレコム 充電器 合計65W 3ポート Type-C USB-A USB PD対応 スイング式プラグ採用 しろちゃん EC-AC10367WF",
+    "percent_off": 14
   },
   "B0CZKZ8Q66": {
     "first_seen": "2026-07-30",
@@ -678,6 +692,13 @@
     "title": "GARMIN(ガーミン)スマートウォッチ Forerunner 170 Black/Amp Yellow スマートウォッチモード 約 10 日間 高精度GPS ランニングウォッチ iOS/Android AMOLEDディスプレイ1.2インチ マラソン 軽量 防水 心拍数 睡眠スコア 健康管理 Suicaタッチ決済 Garmin Pay",
     "percent_off": 17
   },
+  "B0GX8BVR4L": {
+    "first_seen": "2026-09-01",
+    "first_seen_at": "2026-09-01T12:14:40+09:00",
+    "last_seen": "2026-09-01",
+    "title": "HUAWEI WATCH FIT 5 スマートウォッチ 薄型軽量 1.82インチ大画面 2500nits高輝度 10日間ロングバッテリー ワークアウト GPS内蔵 転倒検知 健康管理 心拍数 睡眠 情緒測定 iOS/アンドロイド対応 ホワイト",
+    "percent_off": 17
+  },
   "B0H6BLVBDC": {
     "first_seen": "2026-08-19",
     "first_seen_at": "2026-08-19T16:07:39+09:00",
@@ -816,13 +837,6 @@
     "first_seen_at": "2026-07-28T12:00:00+09:00",
     "last_seen": "2026-09-01",
     "title": "【Amazon.co.jp限定】 Logicool G PRO ゲーミングキーボード G-PKB-002LNd テンキーレス リニア 赤軸 日本語配列",
-    "percent_off": 25
-  },
-  "B0DRJK6JMM": {
-    "first_seen": "2026-08-23",
-    "first_seen_at": "2026-08-23T22:05:10+09:00",
-    "last_seen": "2026-09-01",
-    "title": "REALFORCE リアルフォース ラピッドトリガー キーボードGX1 ホワイト 静音 45ｇ TKLサイズ 静電容量無接点方式 最速0.1mm作動 Windows かな無し 日本語配列 日本製 ゲーミングキーボード 91キー X1UC21",
     "percent_off": 25
   },
   "B0B8NLL6B6": {
@@ -1000,6 +1014,13 @@
     "title": "アイリスオーヤマ 過熱水蒸気 エア フライヤー 3L 2～3人用 ノンオイルフライヤー スチーム機能 ジューシー FV-M30A-C アイボリー",
     "percent_off": 40
   },
+  "B0DRJK6JMM": {
+    "first_seen": "2026-08-23",
+    "first_seen_at": "2026-08-23T22:05:10+09:00",
+    "last_seen": "2026-09-01",
+    "title": "REALFORCE リアルフォース ラピッドトリガー キーボードGX1 ホワイト 静音 45ｇ TKLサイズ 静電容量無接点方式 最速0.1mm作動 Windows かな無し 日本語配列 日本製 ゲーミングキーボード 91キー X1UC21",
+    "percent_off": 25
+  },
   "B0FQFWV3SK": {
     "first_seen": "2026-08-13",
     "first_seen_at": "2026-08-13T09:31:31+09:00",
@@ -1013,13 +1034,6 @@
     "last_seen": "2026-09-01",
     "title": "Amazon限定 バッファロー ポータブルSSD 1.0TB コンパクト USB3.2Gen1 ブラック SSD-PUT1.0U3-B/N",
     "percent_off": 51
-  },
-  "B0BF9ZYCQ5": {
-    "first_seen": "2026-07-31",
-    "first_seen_at": "2026-07-31T12:00:00+09:00",
-    "last_seen": "2026-09-01",
-    "title": "【VGP受賞】Belkin 充電器 USB-C 2ポート PPS規格対応 GaN採用 小型 ACアダプター タイプC 急速充電 軽量【PD3.0対応 /PSE認証/折りたたみ式プラグ】45W(25W+20W) MacBook Windows PC Surface Pro iPad iPhone 17,16～12対応 Galaxy Android スマホ 各種ノートPC対応 WCH011dqWH",
-    "percent_off": 42
   },
   "B0GJSCGFTP": {
     "first_seen": "2026-08-28",
@@ -2039,12 +2053,6 @@
     "first_seen_at": "2026-08-15T06:42:05+09:00",
     "last_seen": "2026-08-25",
     "title": "【Amazon.co.jp限定】 Ninja ニンジャ Crispi クリスピー FN100JSTNR 自動調理器 3つの調理モード (クリスプ/ベイク・ロースト/リクリスプ) 煮る 焼く 蒸す 炒める 煮込む 炊く 温風調理 エアフライヤー ノンフライヤー FN100J ベージュ"
-  },
-  "B0F43N4Z21": {
-    "first_seen": "2026-08-25",
-    "first_seen_at": "2026-08-25T18:54:53+09:00",
-    "last_seen": "2026-08-25",
-    "title": "エレコム 充電器 合計65W 3ポート Type-C USB-A USB PD対応 スイング式プラグ採用 しろちゃん EC-AC10367WF"
   },
   "B0F43S7J2N": {
     "first_seen": "2026-08-22",
