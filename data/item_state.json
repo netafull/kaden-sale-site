@@ -286,12 +286,26 @@
     "title": "UGREEN NexodeX 100W GaNII充電器 USB-C*2+USB-A タイプC Type-C 急速充電器 PD3.0/PPS/QC4+",
     "percent_off": 44
   },
+  "B0BF9ZYCQ5": {
+    "first_seen": "2026-07-31",
+    "first_seen_at": "2026-07-31T12:00:00+09:00",
+    "last_seen": "2026-09-01",
+    "title": "【VGP受賞】Belkin 充電器 USB-C 2ポート PPS規格対応 GaN採用 小型 ACアダプター タイプC 急速充電 軽量【PD3.0対応 /PSE認証/折りたたみ式プラグ】45W(25W+20W) MacBook Windows PC Surface Pro iPad iPhone 17,16～12対応 Galaxy Android スマホ 各種ノートPC対応 WCH011dqWH",
+    "percent_off": 42
+  },
   "B0GSVNFT8T": {
     "first_seen": "2026-08-11",
     "first_seen_at": "2026-08-11T18:18:36+09:00",
     "last_seen": "2026-09-01",
     "title": "UGREEN アップグレード版 100W充電器 USB-C×3/USB-A×1 4ポート充電器 PD3.0/PPS/QC4対応 36*64*64mm",
     "percent_off": 40
+  },
+  "B0DMN885ZF": {
+    "first_seen": "2026-08-05",
+    "first_seen_at": "2026-08-05T03:07:44+09:00",
+    "last_seen": "2026-09-01",
+    "title": "UGREEN 45W USB-C 急速充電器 Type-C PD GaNⅡ充電器 PSE適合タイプc充電器 PD/PPS/SCP/QC3.0",
+    "percent_off": 37
   },
   "B0FVM1C19Y": {
     "first_seen": "2026-07-31",
@@ -396,13 +410,6 @@
     "first_seen_at": "2026-07-27T12:00:00+09:00",
     "last_seen": "2026-09-01",
     "title": "Anker Nano Charger (45W, Display, スイングプラグ) ブラック",
-    "percent_off": 25
-  },
-  "B0FJS3P8NT": {
-    "first_seen": "2026-07-27",
-    "first_seen_at": "2026-07-27T12:00:00+09:00",
-    "last_seen": "2026-09-01",
-    "title": "UGREEN 45W USB-C*4+USB-A*1 急速充電器 Type-C GaNⅡ タイプc PSE適合/PD3.0/PPS/SCP/QC3.0",
     "percent_off": 25
   },
   "B0DNT9Z2HS": {
@@ -804,13 +811,6 @@
     "title": "【Amazon.co.jp限定】 Logicool G PRO X TKL RAPID ゲーミングキーボード",
     "percent_off": 29
   },
-  "B08L9DS7D4": {
-    "first_seen": "2026-08-30",
-    "first_seen_at": "2026-08-30T22:14:41+09:00",
-    "last_seen": "2026-09-01",
-    "title": "Razer Huntsman Mini JP 小型 ゲーミングキーボード テンキーレス Linear Optical Switch 日本語 JP配列 60%レイアウト 光学スイッチ 超高速1.2mm作動 リニア触感 静音 Chroma RGB 【日本正規代理店保証品】 RZ03-03390800-R3J1",
-    "percent_off": 28
-  },
   "B0BKPL1VKW": {
     "first_seen": "2026-07-26",
     "first_seen_at": "2026-07-26T12:00:00+09:00",
@@ -860,19 +860,19 @@
     "title": "【Amazon.co.jp限定】 ロジクール ワイヤレスキーボード 無線 MX KEYS mini KX700GRd 日本語配列 国内正規品",
     "percent_off": 22
   },
-  "B08GP2H88M": {
-    "first_seen": "2026-07-28",
-    "first_seen_at": "2026-07-28T12:00:00+09:00",
-    "last_seen": "2026-09-01",
-    "title": "ロジクール ワイヤレスマウス 無線 高速スクロール 7ボタン マウス Unifying SEB-M705 ブラック 国内正規品",
-    "percent_off": 21
-  },
   "B0DCJXV7DB": {
     "first_seen": "2026-07-29",
     "first_seen_at": "2026-07-29T12:00:00+09:00",
     "last_seen": "2026-09-01",
     "title": "【国内正規品】Keychron B6 Pro ウルトラスリム ワイヤレスキーボード、フルサイズ、テンキー付、ZMKカスタマイズ、シザースイッチ、2.4 GHz/Bluetooth 5.2/有線接続、ロングバッテリーライフ、Mac Windows Linux対応 (スペースグレー, USレイアウト)",
     "percent_off": 20
+  },
+  "B08L9DS7D4": {
+    "first_seen": "2026-08-30",
+    "first_seen_at": "2026-08-30T22:14:41+09:00",
+    "last_seen": "2026-09-01",
+    "title": "Razer Huntsman Mini JP 小型 ゲーミングキーボード テンキーレス Linear Optical Switch 日本語 JP配列 60%レイアウト 光学スイッチ 超高速1.2mm作動 リニア触感 静音 Chroma RGB 【日本正規代理店保証品】 RZ03-03390800-R3J1",
+    "percent_off": 21
   },
   "B088P8QYWN": {
     "first_seen": "2026-08-21",
@@ -1007,12 +1007,19 @@
     "title": "アイリスオーヤマ 過熱水蒸気 エア フライヤー 3L 2～3人用 ノンオイルフライヤー スチーム機能 ジューシー FV-M30A-C アイボリー",
     "percent_off": 40
   },
-  "B0BF9ZYCQ5": {
-    "first_seen": "2026-07-31",
-    "first_seen_at": "2026-07-31T12:00:00+09:00",
+  "B0FJS3P8NT": {
+    "first_seen": "2026-07-27",
+    "first_seen_at": "2026-07-27T12:00:00+09:00",
     "last_seen": "2026-09-01",
-    "title": "【VGP受賞】Belkin 充電器 USB-C 2ポート PPS規格対応 GaN採用 小型 ACアダプター タイプC 急速充電 軽量【PD3.0対応 /PSE認証/折りたたみ式プラグ】45W(25W+20W) MacBook Windows PC Surface Pro iPad iPhone 17,16～12対応 Galaxy Android スマホ 各種ノートPC対応 WCH011dqWH",
-    "percent_off": 42
+    "title": "UGREEN 45W USB-C*4+USB-A*1 急速充電器 Type-C GaNⅡ タイプc PSE適合/PD3.0/PPS/SCP/QC3.0",
+    "percent_off": 25
+  },
+  "B08GP2H88M": {
+    "first_seen": "2026-07-28",
+    "first_seen_at": "2026-07-28T12:00:00+09:00",
+    "last_seen": "2026-09-01",
+    "title": "ロジクール ワイヤレスマウス 無線 高速スクロール 7ボタン マウス Unifying SEB-M705 ブラック 国内正規品",
+    "percent_off": 21
   },
   "B0CSYVNBZX": {
     "first_seen": "2026-07-31",
@@ -1335,13 +1342,6 @@
     "last_seen": "2026-08-31",
     "title": "エレコム ワイヤレスマウス Bluetooth EX-G 握りの極み 静音設計 5ボタン マルチペアリング Mサイズ ホワイト フェイス M-XGM15BBSWF/EC",
     "percent_off": 15
-  },
-  "B0DMN885ZF": {
-    "first_seen": "2026-08-05",
-    "first_seen_at": "2026-08-05T03:07:44+09:00",
-    "last_seen": "2026-08-31",
-    "title": "UGREEN 45W USB-C 急速充電器 Type-C PD GaNⅡ充電器 PSE適合タイプc充電器 PD/PPS/SCP/QC3.0",
-    "percent_off": 37
   },
   "B0FKH268LS": {
     "first_seen": "2026-07-30",
