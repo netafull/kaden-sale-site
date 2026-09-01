@@ -62,18 +62,18 @@
     "title": "Apple 2026 MacBook Air M5チップ搭載15インチノートブック：AIとApple Intelligence、15.3インチLiquid Retinaディスプレイ、16GBユニファイドメモリ、1TB SSDストレージ、12MPセンターフレームカメラ、日本語キーボード、Touch ID - スターライト",
     "percent_off": 10
   },
-  "B0FQFLWSWZ": {
-    "first_seen": "2026-07-29",
-    "first_seen_at": "2026-07-29T12:00:00+09:00",
-    "last_seen": "2026-09-01",
-    "title": "Apple iPhone Air 256GB (SIMフリー)：史上最薄のiPhone、最大120HzのProMotionを採用した6.5インチディスプレイ、パワフルなA19 Proチップ、センターフレームフロントカメラ、一日中使えるバッテリー；スペースブラック",
-    "percent_off": 13
-  },
   "B0FQG1QPLW": {
     "first_seen": "2026-07-30",
     "first_seen_at": "2026-07-30T12:00:00+09:00",
     "last_seen": "2026-09-01",
     "title": "Apple iPhone Air 256GB (SIMフリー)：史上最薄のiPhone、最大120HzのProMotionを採用した6.5インチディスプレイ、パワフルなA19 Proチップ、センターフレームフロントカメラ、一日中使えるバッテリー；スカイブルー",
+    "percent_off": 13
+  },
+  "B0FQFLWSWZ": {
+    "first_seen": "2026-07-29",
+    "first_seen_at": "2026-07-29T12:00:00+09:00",
+    "last_seen": "2026-09-01",
+    "title": "Apple iPhone Air 256GB (SIMフリー)：史上最薄のiPhone、最大120HzのProMotionを採用した6.5インチディスプレイ、パワフルなA19 Proチップ、センターフレームフロントカメラ、一日中使えるバッテリー；スペースブラック",
     "percent_off": 13
   },
   "B0FQG5SZS9": {
@@ -95,7 +95,7 @@
     "first_seen_at": "2026-08-04T18:28:41+09:00",
     "last_seen": "2026-09-01",
     "title": "ソニー(SONY) 完全ワイヤレスイヤホン WF-C700N :高性能ノイズキャンセリング搭載/軽量・小型設計/音質アップスケール機能搭載/連続音楽再生時間最長 7.5時間/IPX4防滴性能/急速充電対応/クリアな通話性能/マルチポイント対応 ブラック WF-C700N BZ",
-    "percent_off": 55
+    "percent_off": 54
   },
   "B0FCSGGHLL": {
     "first_seen": "2026-07-24",
@@ -272,19 +272,12 @@
     "title": "Belkin USB充電器 40W iPhone17,16～12 デュアルUSB-C(20W x 2) PD3.0 急速充電対応 ホワイト WCB006dqWHJP",
     "percent_off": 47
   },
-  "B0BF9ZYCQ5": {
-    "first_seen": "2026-07-31",
-    "first_seen_at": "2026-07-31T12:00:00+09:00",
+  "B0CMQK8CMJ": {
+    "first_seen": "2026-08-05",
+    "first_seen_at": "2026-08-05T21:15:31+09:00",
     "last_seen": "2026-09-01",
-    "title": "【VGP受賞】Belkin 充電器 USB-C 2ポート PPS規格対応 GaN採用 小型 ACアダプター タイプC 急速充電 軽量【PD3.0対応 /PSE認証/折りたたみ式プラグ】45W(25W+20W) MacBook Windows PC Surface Pro iPad iPhone 17,16～12対応 Galaxy Android スマホ 各種ノートPC対応 WCH011dqWH",
-    "percent_off": 42
-  },
-  "B0CLGZGXMD": {
-    "first_seen": "2026-07-27",
-    "first_seen_at": "2026-07-27T12:00:00+09:00",
-    "last_seen": "2026-09-01",
-    "title": "UGREEN Nexode【当社比最小】65W PD充電器 USB-C*2+USB-A*1 急速充電器 PSE適合 PD/PPS/QC4+対応",
-    "percent_off": 40
+    "title": "UGREEN NexodeX 100W GaNII充電器 USB-C*2+USB-A タイプC Type-C 急速充電器 PD3.0/PPS/QC4+",
+    "percent_off": 44
   },
   "B0GSVNFT8T": {
     "first_seen": "2026-08-11",
@@ -440,6 +433,13 @@
     "title": "Anker Charger (112W, 6 Ports, GaN) ブラック",
     "percent_off": 20
   },
+  "B0CSYVNBZX": {
+    "first_seen": "2026-07-31",
+    "first_seen_at": "2026-07-31T12:00:00+09:00",
+    "last_seen": "2026-09-01",
+    "title": "Belkin USB充電器 42W (30W USB-C + 12W USB-A) PPS対応 PD3.1 急速充電 iPhone17,16～12/ iPad/Androidスマホ・タブレット各種対応 折り畳みプラグ ホワイト WCB009dqWHJP",
+    "percent_off": 18
+  },
   "B0FWJK8GV9": {
     "first_seen": "2026-07-29",
     "first_seen_at": "2026-07-29T12:00:00+09:00",
@@ -559,26 +559,12 @@
     "title": "【Amazon.co.jp限定】INNOCN QD-MiniLED 4k モニター 27インチ ゲーミングモニター 4K＠160Hz/フルHD＠320Hz切り替え デュアルモニター ホワイト 0.5ms MPCS 非光沢 広色域 無輝点保証対応 (量子ドット/HDR1000/HDMI 2.1×2/DP 1.4×2/USBハブ/Type-C 90W/VESA対応/スピーカー) GA27V1M",
     "percent_off": 33
   },
-  "B0DJBQLDWP": {
-    "first_seen": "2026-08-06",
-    "first_seen_at": "2026-08-06T18:54:32+09:00",
-    "last_seen": "2026-09-01",
-    "title": "LG モニター 27MS530B-B 27インチ/フルHD/100Hz/IPS/HDMI×2、USB-C PD65W/メーカー3年保証",
-    "percent_off": 32
-  },
   "B0FLC2Y42B": {
     "first_seen": "2026-08-21",
     "first_seen_at": "2026-08-21T12:19:55+09:00",
     "last_seen": "2026-09-01",
     "title": "IODATA GCFX ゲーミングモニター 24.5型 240Hz 1ms (HDMI/DP/VESA/チルト角調整) EX-GD251UH",
     "percent_off": 25
-  },
-  "B0DQL1SYFT": {
-    "first_seen": "2026-08-05",
-    "first_seen_at": "2026-08-05T21:15:31+09:00",
-    "last_seen": "2026-09-01",
-    "title": "IODATA ゲーミングモニター 23.8インチ GigaCrysta 240Hz ADSパネル 1ms ヒーラーホワイト 無輝点保証対応(HDMI×2/DisplayPort/VESA対応/土日サポート/日本メーカー) EX-GD242UDW",
-    "percent_off": 21
   },
   "B00CWXRT98": {
     "first_seen": "2026-08-02",
@@ -1014,6 +1000,34 @@
     "title": "アイリスオーヤマ 過熱水蒸気 エア フライヤー 3L 2～3人用 ノンオイルフライヤー スチーム機能 ジューシー FV-M30A-C アイボリー",
     "percent_off": 40
   },
+  "B0BF9ZYCQ5": {
+    "first_seen": "2026-07-31",
+    "first_seen_at": "2026-07-31T12:00:00+09:00",
+    "last_seen": "2026-09-01",
+    "title": "【VGP受賞】Belkin 充電器 USB-C 2ポート PPS規格対応 GaN採用 小型 ACアダプター タイプC 急速充電 軽量【PD3.0対応 /PSE認証/折りたたみ式プラグ】45W(25W+20W) MacBook Windows PC Surface Pro iPad iPhone 17,16～12対応 Galaxy Android スマホ 各種ノートPC対応 WCH011dqWH",
+    "percent_off": 42
+  },
+  "B0CLGZGXMD": {
+    "first_seen": "2026-07-27",
+    "first_seen_at": "2026-07-27T12:00:00+09:00",
+    "last_seen": "2026-09-01",
+    "title": "UGREEN Nexode【当社比最小】65W PD充電器 USB-C*2+USB-A*1 急速充電器 PSE適合 PD/PPS/QC4+対応",
+    "percent_off": 40
+  },
+  "B0DJBQLDWP": {
+    "first_seen": "2026-08-06",
+    "first_seen_at": "2026-08-06T18:54:32+09:00",
+    "last_seen": "2026-09-01",
+    "title": "LG モニター 27MS530B-B 27インチ/フルHD/100Hz/IPS/HDMI×2、USB-C PD65W/メーカー3年保証",
+    "percent_off": 32
+  },
+  "B0DQL1SYFT": {
+    "first_seen": "2026-08-05",
+    "first_seen_at": "2026-08-05T21:15:31+09:00",
+    "last_seen": "2026-09-01",
+    "title": "IODATA ゲーミングモニター 23.8インチ GigaCrysta 240Hz ADSパネル 1ms ヒーラーホワイト 無輝点保証対応(HDMI×2/DisplayPort/VESA対応/土日サポート/日本メーカー) EX-GD242UDW",
+    "percent_off": 21
+  },
   "B0DRJK6JMM": {
     "first_seen": "2026-08-23",
     "first_seen_at": "2026-08-23T22:05:10+09:00",
@@ -1231,13 +1245,6 @@
     "title": "Anker MagGo Power Bank (10,000mAh, 15W)",
     "percent_off": 25
   },
-  "B0CMQK8CMJ": {
-    "first_seen": "2026-08-05",
-    "first_seen_at": "2026-08-05T21:15:31+09:00",
-    "last_seen": "2026-08-31",
-    "title": "UGREEN NexodeX 100W GaNII充電器 USB-C*2+USB-A タイプC Type-C 急速充電器 PD3.0/PPS/QC4+",
-    "percent_off": 44
-  },
   "B0BN688W42": {
     "first_seen": "2026-08-07",
     "first_seen_at": "2026-08-07T22:31:51+09:00",
@@ -1426,13 +1433,6 @@
     "last_seen": "2026-08-31",
     "title": "Anker Nano Power Bank (22.5W, Built-In USB-C Connector) ブラック",
     "percent_off": 14
-  },
-  "B0CSYVNBZX": {
-    "first_seen": "2026-07-31",
-    "first_seen_at": "2026-07-31T12:00:00+09:00",
-    "last_seen": "2026-08-31",
-    "title": "Belkin USB充電器 42W (30W USB-C + 12W USB-A) PPS対応 PD3.1 急速充電 iPhone17,16～12/ iPad/Androidスマホ・タブレット各種対応 折り畳みプラグ ホワイト WCB009dqWHJP",
-    "percent_off": 18
   },
   "B0DNLVPZ7J": {
     "first_seen": "2026-08-16",
