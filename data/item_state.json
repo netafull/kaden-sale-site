@@ -293,6 +293,13 @@
     "title": "Anker Nano Power Bank (22.5W, Built-In USB-C Connector) ブルー",
     "percent_off": null
   },
+  "B0FTYZXTMK": {
+    "first_seen": "2026-09-01",
+    "first_seen_at": "2026-09-01T19:14:45+09:00",
+    "last_seen": "2026-09-03",
+    "title": "CIO SMARTCOBY SLIM II Wireless2.2 Pro 10K モバイルバッテリー ワイヤレス充電 10000mAh (ブラック)",
+    "percent_off": 16
+  },
   "B098SQSRRV": {
     "first_seen": "2026-07-31",
     "first_seen_at": "2026-07-31T12:00:00+09:00",
@@ -328,6 +335,13 @@
     "title": "Belkin Qi2 車載ワイヤレス充電器 15W急速充電 MagSafe対応 スマホホルダー エアコン吹き出し口用",
     "percent_off": 37
   },
+  "B0DW2SYD5H": {
+    "first_seen": "2026-08-15",
+    "first_seen_at": "2026-08-15T20:37:29+09:00",
+    "last_seen": "2026-09-03",
+    "title": "Anker Zolo Wireless Charger (Magnetic, Pad) ブラック",
+    "percent_off": 20
+  },
   "B0C5CBV6L3": {
     "first_seen": "2026-07-29",
     "first_seen_at": "2026-07-29T12:00:00+09:00",
@@ -347,6 +361,13 @@
     "first_seen_at": "2026-07-27T12:00:00+09:00",
     "last_seen": "2026-09-03",
     "title": "Anker 511 Charger (Nano 3, 30W) ブラック",
+    "percent_off": 32
+  },
+  "B0D8RSX6W2": {
+    "first_seen": "2026-07-29",
+    "first_seen_at": "2026-07-29T12:00:00+09:00",
+    "last_seen": "2026-09-03",
+    "title": "Anker MagGo Wireless Charger (Stand) ブラック",
     "percent_off": 32
   },
   "B0D9QP375K": {
@@ -405,18 +426,18 @@
     "title": "Belkin Apple Watch充電器 持ち運び USB-C ドングル ポータブル MFI認証 高速充電 全モデル対応",
     "percent_off": 26
   },
-  "B0F99GKMZH": {
-    "first_seen": "2026-09-03",
-    "first_seen_at": "2026-09-03T00:15:10+09:00",
-    "last_seen": "2026-09-03",
-    "title": "Anker Nano Charger (70W, 3 Ports) ブルー",
-    "percent_off": null
-  },
   "B0DG93MZCR": {
     "first_seen": "2026-07-27",
     "first_seen_at": "2026-07-27T12:00:00+09:00",
     "last_seen": "2026-09-03",
     "title": "UGREEN PD充電器 type-c 30W 2*USB-C+1*USB-A GaN PSE適合/PD3.0 タイプc充電器 GaNⅡ type c",
+    "percent_off": 25
+  },
+  "B0GF26RSYQ": {
+    "first_seen": "2026-07-27",
+    "first_seen_at": "2026-07-27T12:00:00+09:00",
+    "last_seen": "2026-09-03",
+    "title": "Anker Nano Charger (45W, Display, スイングプラグ) ブラック",
     "percent_off": 25
   },
   "B0FJS3P8NT": {
@@ -1056,33 +1077,19 @@
     "title": "[山善] ノンフライヤー 4.5L 大容量 電気フライヤー ノンオイル エアフライヤー 3~5人用 家庭用 卓上 揚げ物 惣菜 タイマー 温度調節 レシピブック付き ブラック YAH-AC120(B)",
     "percent_off": 18
   },
+  "B0F99GKMZH": {
+    "first_seen": "2026-09-03",
+    "first_seen_at": "2026-09-03T00:15:10+09:00",
+    "last_seen": "2026-09-03",
+    "title": "Anker Nano Charger (70W, 3 Ports) ブルー",
+    "percent_off": null
+  },
   "B0B6DLWMJF": {
     "first_seen": "2026-08-25",
     "first_seen_at": "2026-08-25T13:56:30+09:00",
     "last_seen": "2026-09-03",
     "title": "Belkin MagSafe対応 ワイヤレスモバイルバッテリー 5000mAh 最大7.5W キックスタンド付き ブラック",
     "percent_off": 29
-  },
-  "B0DW2SYD5H": {
-    "first_seen": "2026-08-15",
-    "first_seen_at": "2026-08-15T20:37:29+09:00",
-    "last_seen": "2026-09-03",
-    "title": "Anker Zolo Wireless Charger (Magnetic, Pad) ブラック",
-    "percent_off": 20
-  },
-  "B0D8RSX6W2": {
-    "first_seen": "2026-07-29",
-    "first_seen_at": "2026-07-29T12:00:00+09:00",
-    "last_seen": "2026-09-03",
-    "title": "Anker MagGo Wireless Charger (Stand) ブラック",
-    "percent_off": 32
-  },
-  "B0GF26RSYQ": {
-    "first_seen": "2026-07-27",
-    "first_seen_at": "2026-07-27T12:00:00+09:00",
-    "last_seen": "2026-09-03",
-    "title": "Anker Nano Charger (45W, Display, スイングプラグ) ブラック",
-    "percent_off": 25
   },
   "B0DQKY19KV": {
     "first_seen": "2026-09-02",
@@ -1391,13 +1398,6 @@
     "last_seen": "2026-09-02",
     "title": "SwitchBot LEDシーリングライト 8畳 Alexa 無段階 調光調色 スイッチボット 天井 照明器具 4000lm リモコン付き ハブ機能付き 電球色 昼白色 昼光色 取付簡単 防虫 防塵 省エネ 節電対策 2.4GHzWi-Fi Bluetoothに対応 5年保証 W2612240",
     "percent_off": 15
-  },
-  "B0FTYZXTMK": {
-    "first_seen": "2026-09-01",
-    "first_seen_at": "2026-09-01T19:14:45+09:00",
-    "last_seen": "2026-09-02",
-    "title": "CIO SMARTCOBY SLIM II Wireless2.2 Pro 10K モバイルバッテリー ワイヤレス充電 10000mAh (ブラック)",
-    "percent_off": 16
   },
   "B0FWJK8GV9": {
     "first_seen": "2026-07-29",
