@@ -137,7 +137,7 @@
     "first_seen_at": "2026-08-04T18:28:41+09:00",
     "last_seen": "2026-09-03",
     "title": "ソニー(SONY) 完全ワイヤレスイヤホン WF-C700N :高性能ノイズキャンセリング搭載/軽量・小型設計/音質アップスケール機能搭載/連続音楽再生時間最長 7.5時間/IPX4防滴性能/急速充電対応/クリアな通話性能/マルチポイント対応 ブラック WF-C700N BZ",
-    "percent_off": 52
+    "percent_off": 49
   },
   "B0FRSCXWSV": {
     "first_seen": "2026-07-29",
@@ -517,13 +517,6 @@
     "title": "【Amazon.co.jp限定】 SanDisk microSD カード Ultra SDSQUAB-128G-GH3MA 簡易デザインパッケージ",
     "percent_off": 24
   },
-  "B0H8DM7WPF": {
-    "first_seen": "2026-08-26",
-    "first_seen_at": "2026-08-26T11:00:29+09:00",
-    "last_seen": "2026-09-03",
-    "title": "【 サンディスク 正規品 】 SanDisk microSD 32GB UHS-I U3 V30 書込最大60MB/s Full HD & 4KExtreme SDSQXAT-032G-GH3MA 新パッケージ (× 5)",
-    "percent_off": 25
-  },
   "B0D2M5G98N": {
     "first_seen": "2026-07-30",
     "first_seen_at": "2026-07-30T12:00:00+09:00",
@@ -774,13 +767,6 @@
     "first_seen_at": "2026-07-31T12:00:00+09:00",
     "last_seen": "2026-09-03",
     "title": "DPVR G1 AIスマートグラス 800万画素 カメラ付きメガネ 録画 翻訳 AI画像認識 メガネ型カメラ オーディオグラス 調光レンズ",
-    "percent_off": 17
-  },
-  "B0GS285D8M": {
-    "first_seen": "2026-09-01",
-    "first_seen_at": "2026-09-01T16:14:59+09:00",
-    "last_seen": "2026-09-03",
-    "title": "VITURE Luma Ultra × 8BitDo Ultimate モバイルゲーミングセット XRグラス対応、Android向けプロ性能、どこでも軽々勝利を",
     "percent_off": 17
   },
   "B0H7RLPTM7": {
@@ -1069,6 +1055,20 @@
     "last_seen": "2026-09-03",
     "title": "[山善] ノンフライヤー 4.5L 大容量 電気フライヤー ノンオイル エアフライヤー 3~5人用 家庭用 卓上 揚げ物 惣菜 タイマー 温度調節 レシピブック付き ブラック YAH-AC120(B)",
     "percent_off": 18
+  },
+  "B0H8DM7WPF": {
+    "first_seen": "2026-08-26",
+    "first_seen_at": "2026-08-26T11:00:29+09:00",
+    "last_seen": "2026-09-03",
+    "title": "【 サンディスク 正規品 】 SanDisk microSD 32GB UHS-I U3 V30 書込最大60MB/s Full HD & 4KExtreme SDSQXAT-032G-GH3MA 新パッケージ (× 5)",
+    "percent_off": 25
+  },
+  "B0GS285D8M": {
+    "first_seen": "2026-09-01",
+    "first_seen_at": "2026-09-01T16:14:59+09:00",
+    "last_seen": "2026-09-03",
+    "title": "VITURE Luma Ultra × 8BitDo Ultimate モバイルゲーミングセット XRグラス対応、Android向けプロ性能、どこでも軽々勝利を",
+    "percent_off": 17
   },
   "B0CSYVNBZX": {
     "first_seen": "2026-07-31",
