@@ -9,3 +9,6 @@ __pycache__/
 
 # macOS
 .DS_Store
+
+# 通知の受け渡しに使う一時ファイル(コミットしない)
+data/pending_notification.json
