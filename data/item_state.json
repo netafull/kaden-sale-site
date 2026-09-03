@@ -55,18 +55,18 @@
     "title": "Apple Watch Series 11(GPSモデル)- 42mmローズゴールドアルミニウムケースとライトブラッシュスポーツバンド - M/L、睡眠時無呼吸、高血圧パターン、血中酸素、心電図、排卵推定、心拍数、服薬、マインドフルネス、ノイズ、睡眠スコア、転倒検出、IPX6X防塵、泳げる耐水、Suica対応、高速充電対応",
     "percent_off": 14
   },
-  "B0FQG1QPLW": {
-    "first_seen": "2026-07-30",
-    "first_seen_at": "2026-07-30T12:00:00+09:00",
-    "last_seen": "2026-09-03",
-    "title": "Apple iPhone Air 256GB (SIMフリー)：史上最薄のiPhone、最大120HzのProMotionを採用した6.5インチディスプレイ、パワフルなA19 Proチップ、センターフレームフロントカメラ、一日中使えるバッテリー；スカイブルー",
-    "percent_off": 13
-  },
   "B0FQFLWSWZ": {
     "first_seen": "2026-07-29",
     "first_seen_at": "2026-07-29T12:00:00+09:00",
     "last_seen": "2026-09-03",
     "title": "Apple iPhone Air 256GB (SIMフリー)：史上最薄のiPhone、最大120HzのProMotionを採用した6.5インチディスプレイ、パワフルなA19 Proチップ、センターフレームフロントカメラ、一日中使えるバッテリー；スペースブラック",
+    "percent_off": 13
+  },
+  "B0FQG1QPLW": {
+    "first_seen": "2026-07-30",
+    "first_seen_at": "2026-07-30T12:00:00+09:00",
+    "last_seen": "2026-09-03",
+    "title": "Apple iPhone Air 256GB (SIMフリー)：史上最薄のiPhone、最大120HzのProMotionを採用した6.5インチディスプレイ、パワフルなA19 Proチップ、センターフレームフロントカメラ、一日中使えるバッテリー；スカイブルー",
     "percent_off": 13
   },
   "B0FQG5SZS9": {
@@ -174,11 +174,11 @@
     "title": "CIO モバイルバッテリー USB-Cケーブル内蔵 軽量 10000mAh SMARTCOBY Pro SLIM CABLE 35W (ブラック)",
     "percent_off": 33
   },
-  "B0FQJ1LWCQ": {
-    "first_seen": "2026-08-29",
-    "first_seen_at": "2026-08-29T21:14:43+09:00",
+  "B0FQJ21XS8": {
+    "first_seen": "2026-08-30",
+    "first_seen_at": "2026-08-30T19:14:53+09:00",
     "last_seen": "2026-09-03",
-    "title": "CIO SMARTCOBY SLIM 5K 薄型 モバイルバッテリー Qi2 ワイヤレス 5000mAh PD20W (シルバー, セーフティモデル)",
+    "title": "CIO SMARTCOBY SLIM 5K 薄型 モバイルバッテリー Qi2 ワイヤレス 5000mAh PD20W(ブラック, セーフティモデル)",
     "percent_off": 33
   },
   "B0F8HWY897": {
@@ -307,19 +307,19 @@
     "title": "Belkin USB充電器 40W iPhone17,16～12 デュアルUSB-C(20W x 2) PD3.0 急速充電対応 ホワイト WCB006dqWHJP",
     "percent_off": 47
   },
-  "B0CMQK8CMJ": {
-    "first_seen": "2026-08-05",
-    "first_seen_at": "2026-08-05T21:15:31+09:00",
-    "last_seen": "2026-09-03",
-    "title": "UGREEN NexodeX 100W GaNII充電器 USB-C*2+USB-A タイプC Type-C 急速充電器 PD3.0/PPS/QC4+",
-    "percent_off": 44
-  },
   "B0BF9ZYCQ5": {
     "first_seen": "2026-07-31",
     "first_seen_at": "2026-07-31T12:00:00+09:00",
     "last_seen": "2026-09-03",
     "title": "【VGP受賞】Belkin 充電器 USB-C 2ポート PPS規格対応 GaN採用 小型 ACアダプター タイプC 急速充電 軽量【PD3.0対応 /PSE認証/折りたたみ式プラグ】45W(25W+20W) MacBook Windows PC Surface Pro iPad iPhone 17,16～12対応 Galaxy Android スマホ 各種ノートPC対応 WCH011dqWH",
     "percent_off": 42
+  },
+  "B0CLGZGXMD": {
+    "first_seen": "2026-07-27",
+    "first_seen_at": "2026-07-27T12:00:00+09:00",
+    "last_seen": "2026-09-03",
+    "title": "UGREEN Nexode【当社比最小】65W PD充電器 USB-C*2+USB-A*1 急速充電器 PSE適合 PD/PPS/QC4+対応",
+    "percent_off": 40
   },
   "B0GSVNFT8T": {
     "first_seen": "2026-08-11",
@@ -496,19 +496,19 @@
     "title": "エレコム 65W 充電器 Type-C コンセント 急速 PD対応 スイング式プラグ採用 PSE技術基準適合 ブラック EC-AC12465BK",
     "percent_off": 15
   },
+  "B0F43N4Z21": {
+    "first_seen": "2026-08-25",
+    "first_seen_at": "2026-08-25T18:54:53+09:00",
+    "last_seen": "2026-09-03",
+    "title": "エレコム 充電器 合計65W 3ポート Type-C USB-A USB PD対応 スイング式プラグ採用 しろちゃん EC-AC10367WF",
+    "percent_off": 14
+  },
   "B0D2D9LQP4": {
     "first_seen": "2026-07-31",
     "first_seen_at": "2026-07-31T12:00:00+09:00",
     "last_seen": "2026-09-03",
     "title": "CIO NovaWave SPOT PLUG +C Qi2 ワイヤレス充電器 15W USB-C充電30W スマホホルダー (ホワイト)",
     "percent_off": 14
-  },
-  "B08N4JHGJL": {
-    "first_seen": "2026-07-30",
-    "first_seen_at": "2026-07-30T12:00:00+09:00",
-    "last_seen": "2026-09-03",
-    "title": "Amazon限定 バッファロー ポータブルSSD 1.0TB コンパクト USB3.2Gen1 ブラック SSD-PUT1.0U3-B/N",
-    "percent_off": 51
   },
   "B0CZKZ8Q66": {
     "first_seen": "2026-07-30",
@@ -594,11 +594,11 @@
     "title": "BenQ MOBIUZ EX251 24.5インチ IPS フルHD 220Hz 1ms ゲーミングモニター",
     "percent_off": 23
   },
-  "B0DQL1SYFT": {
-    "first_seen": "2026-08-05",
-    "first_seen_at": "2026-08-05T21:15:31+09:00",
+  "B0DQKY19KV": {
+    "first_seen": "2026-09-02",
+    "first_seen_at": "2026-09-02T16:14:55+09:00",
     "last_seen": "2026-09-03",
-    "title": "IODATA ゲーミングモニター 23.8インチ GigaCrysta 240Hz ADSパネル 1ms ヒーラーホワイト 無輝点保証対応(HDMI×2/DisplayPort/VESA対応/土日サポート/日本メーカー) EX-GD242UDW",
+    "title": "IODATA ゲーミングモニター 23.8インチ GigaCrysta 240Hz ADSパネル 1ms シャドウブラック 無輝点保証対応(HDMI×2/DisplayPort/VESA対応/土日サポート/日本メーカー) EX-GD242UDB",
     "percent_off": 21
   },
   "B00CWXRT98": {
@@ -699,13 +699,6 @@
     "title": "HUAWEI WATCH GT 6 Pro 46mm スマートウォッチ 1.47インチ大画面 最長21日間バッテリー サイクリング/登山/進化したゴルフナビ スポーツモード100種類以上 GPS搭載 心電図分析 健康/情緒モニタリング iOS/Android対応 ブラック",
     "percent_off": 23
   },
-  "B0BWF463MW": {
-    "first_seen": "2026-08-04",
-    "first_seen_at": "2026-08-04T12:38:09+09:00",
-    "last_seen": "2026-09-03",
-    "title": "GARMIN（ガーミン）GPSランニングウォッチ Forerunner 965 Amp Yellow 【日本正規品】",
-    "percent_off": 19
-  },
   "B0DQ7MJ8P3": {
     "first_seen": "2026-08-22",
     "first_seen_at": "2026-08-22T00:50:58+09:00",
@@ -720,11 +713,11 @@
     "title": "GARMIN(ガーミン)スマートウォッチ Forerunner 170 Black/Amp Yellow スマートウォッチモード 約 10 日間 高精度GPS ランニングウォッチ iOS/Android AMOLEDディスプレイ1.2インチ マラソン 軽量 防水 心拍数 睡眠スコア 健康管理 Suicaタッチ決済 Garmin Pay",
     "percent_off": 17
   },
-  "B0GX8BVR4L": {
-    "first_seen": "2026-09-01",
-    "first_seen_at": "2026-09-01T12:14:40+09:00",
+  "B0GX8DRYCX": {
+    "first_seen": "2026-09-03",
+    "first_seen_at": "2026-09-03T12:14:47+09:00",
     "last_seen": "2026-09-03",
-    "title": "HUAWEI WATCH FIT 5 スマートウォッチ 薄型軽量 1.82インチ大画面 2500nits高輝度 10日間ロングバッテリー ワークアウト GPS内蔵 転倒検知 健康管理 心拍数 睡眠 情緒測定 iOS/アンドロイド対応 ホワイト",
+    "title": "HUAWEI WATCH FIT 5 スマートウォッチ 薄型軽量 1.82インチ大画面 2500nits高輝度 10日間ロングバッテリー ワークアウト GPS内蔵 転倒検知 健康管理 心拍数 睡眠 情緒測定 iOS/アンドロイド対応 ブラック",
     "percent_off": 17
   },
   "B0GJSCGFTP": {
@@ -1063,6 +1056,48 @@
     "title": "[山善] ノンフライヤー 4.5L 大容量 電気フライヤー ノンオイル エアフライヤー 3~5人用 家庭用 卓上 揚げ物 惣菜 タイマー 温度調節 レシピブック付き ブラック YAH-AC120(B)",
     "percent_off": 18
   },
+  "B0FQJ1LWCQ": {
+    "first_seen": "2026-08-29",
+    "first_seen_at": "2026-08-29T21:14:43+09:00",
+    "last_seen": "2026-09-03",
+    "title": "CIO SMARTCOBY SLIM 5K 薄型 モバイルバッテリー Qi2 ワイヤレス 5000mAh PD20W (シルバー, セーフティモデル)",
+    "percent_off": 33
+  },
+  "B0CMQK8CMJ": {
+    "first_seen": "2026-08-05",
+    "first_seen_at": "2026-08-05T21:15:31+09:00",
+    "last_seen": "2026-09-03",
+    "title": "UGREEN NexodeX 100W GaNII充電器 USB-C*2+USB-A タイプC Type-C 急速充電器 PD3.0/PPS/QC4+",
+    "percent_off": 44
+  },
+  "B08N4JHGJL": {
+    "first_seen": "2026-07-30",
+    "first_seen_at": "2026-07-30T12:00:00+09:00",
+    "last_seen": "2026-09-03",
+    "title": "Amazon限定 バッファロー ポータブルSSD 1.0TB コンパクト USB3.2Gen1 ブラック SSD-PUT1.0U3-B/N",
+    "percent_off": 51
+  },
+  "B0DQL1SYFT": {
+    "first_seen": "2026-08-05",
+    "first_seen_at": "2026-08-05T21:15:31+09:00",
+    "last_seen": "2026-09-03",
+    "title": "IODATA ゲーミングモニター 23.8インチ GigaCrysta 240Hz ADSパネル 1ms ヒーラーホワイト 無輝点保証対応(HDMI×2/DisplayPort/VESA対応/土日サポート/日本メーカー) EX-GD242UDW",
+    "percent_off": 21
+  },
+  "B0BWF463MW": {
+    "first_seen": "2026-08-04",
+    "first_seen_at": "2026-08-04T12:38:09+09:00",
+    "last_seen": "2026-09-03",
+    "title": "GARMIN（ガーミン）GPSランニングウォッチ Forerunner 965 Amp Yellow 【日本正規品】",
+    "percent_off": 19
+  },
+  "B0GX8BVR4L": {
+    "first_seen": "2026-09-01",
+    "first_seen_at": "2026-09-01T12:14:40+09:00",
+    "last_seen": "2026-09-03",
+    "title": "HUAWEI WATCH FIT 5 スマートウォッチ 薄型軽量 1.82インチ大画面 2500nits高輝度 10日間ロングバッテリー ワークアウト GPS内蔵 転倒検知 健康管理 心拍数 睡眠 情緒測定 iOS/アンドロイド対応 ホワイト",
+    "percent_off": 17
+  },
   "B0DYD1CZHM": {
     "first_seen": "2026-08-22",
     "first_seen_at": "2026-08-22T06:41:20+09:00",
@@ -1098,13 +1133,6 @@
     "title": "Belkin USB充電器 42W (30W USB-C + 12W USB-A) PPS対応 PD3.1 急速充電 iPhone17,16～12/ iPad/Androidスマホ・タブレット各種対応 折り畳みプラグ ホワイト WCB009dqWHJP",
     "percent_off": 18
   },
-  "B0F43N4Z21": {
-    "first_seen": "2026-08-25",
-    "first_seen_at": "2026-08-25T18:54:53+09:00",
-    "last_seen": "2026-09-03",
-    "title": "エレコム 充電器 合計65W 3ポート Type-C USB-A USB PD対応 スイング式プラグ採用 しろちゃん EC-AC10367WF",
-    "percent_off": 14
-  },
   "B0FTYZXTMK": {
     "first_seen": "2026-09-01",
     "first_seen_at": "2026-09-01T19:14:45+09:00",
@@ -1125,13 +1153,6 @@
     "last_seen": "2026-09-03",
     "title": "Belkin MagSafe対応 ワイヤレスモバイルバッテリー 5000mAh 最大7.5W キックスタンド付き ブラック",
     "percent_off": 29
-  },
-  "B0DQKY19KV": {
-    "first_seen": "2026-09-02",
-    "first_seen_at": "2026-09-02T16:14:55+09:00",
-    "last_seen": "2026-09-03",
-    "title": "IODATA ゲーミングモニター 23.8インチ GigaCrysta 240Hz ADSパネル 1ms シャドウブラック 無輝点保証対応(HDMI×2/DisplayPort/VESA対応/土日サポート/日本メーカー) EX-GD242UDB",
-    "percent_off": 21
   },
   "B0FRSRVPT6": {
     "first_seen": "2026-08-15",
@@ -1209,13 +1230,6 @@
     "last_seen": "2026-09-02",
     "title": "UGREEN Air モバイルバッテリー 10000mAh 薄型 Qi2 15W MagSafe対応 ケーブル内蔵",
     "percent_off": 30
-  },
-  "B0CLGZGXMD": {
-    "first_seen": "2026-07-27",
-    "first_seen_at": "2026-07-27T12:00:00+09:00",
-    "last_seen": "2026-09-02",
-    "title": "UGREEN Nexode【当社比最小】65W PD充電器 USB-C*2+USB-A*1 急速充電器 PSE適合 PD/PPS/QC4+対応",
-    "percent_off": 40
   },
   "B0FVLXBXKR": {
     "first_seen": "2026-08-16",
@@ -1300,13 +1314,6 @@
     "last_seen": "2026-09-02",
     "title": "COSORI スマホ対応機種 ノンフライヤースマートノンオイル フライヤー 最高温230℃ 日本語レシピ付き 揚げ物 ポテト 惣菜 料理 電気フライヤー LEDディスプレイ タッチパネル タイマー 自動電源オフ みどり",
     "percent_off": 15
-  },
-  "B0FQJ21XS8": {
-    "first_seen": "2026-08-30",
-    "first_seen_at": "2026-08-30T19:14:53+09:00",
-    "last_seen": "2026-09-02",
-    "title": "CIO SMARTCOBY SLIM 5K 薄型 モバイルバッテリー Qi2 ワイヤレス 5000mAh PD20W(ブラック, セーフティモデル)",
-    "percent_off": 33
   },
   "B0CHVZHLZ1": {
     "first_seen": "2026-08-21",
