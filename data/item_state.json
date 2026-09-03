@@ -76,26 +76,12 @@
     "title": "Apple iPhone Air 256GB (SIMフリー)：史上最薄のiPhone、最大120HzのProMotionを採用した6.5インチディスプレイ、パワフルなA19 Proチップ、センターフレームフロントカメラ、一日中使えるバッテリー；ライトゴールド",
     "percent_off": 13
   },
-  "B0GR1KNBX2": {
-    "first_seen": "2026-08-20",
-    "first_seen_at": "2026-08-20T06:42:31+09:00",
-    "last_seen": "2026-09-03",
-    "title": "Apple 2026 MacBook Pro 18コアCPU、32コアGPUのM5 Maxチップ搭載ノートパソコン：AIのために設計、14.2インチLiquid Retina XDRディスプレイ、36GBユニファイドメモリ、2TBのSSDストレージ - スペースブラック",
-    "percent_off": 12
-  },
   "B0GR1SSMXT": {
     "first_seen": "2026-08-21",
     "first_seen_at": "2026-08-21T00:51:29+09:00",
     "last_seen": "2026-09-03",
     "title": "Apple 2026 MacBook Air M5チップ搭載15インチノートブック：AIとApple Intelligence、15.3インチLiquid Retinaディスプレイ、16GBユニファイドメモリ、1TB SSDストレージ、12MPセンターフレームカメラ、日本語キーボード、Touch ID - スターライト",
     "percent_off": 10
-  },
-  "B0GRTQ2RQH": {
-    "first_seen": "2026-08-20",
-    "first_seen_at": "2026-08-20T06:42:31+09:00",
-    "last_seen": "2026-09-03",
-    "title": "Apple 2026 MacBook Pro 18コアCPU、32コアGPUのM5 Maxチップ搭載ノートパソコン：AIのために設計、14.2インチLiquid Retina XDRディスプレイ、36GBユニファイドメモリ、2TBのSSDストレージ - スペースブラック + 3年延長 AppleCare+ for 14インチMacBook Pro(M5 Pro/M5 Max)|ダウンロード版",
-    "percent_off": 11
   },
   "B0GR1NTKL9": {
     "first_seen": "2026-08-20",
@@ -314,19 +300,19 @@
     "title": "UGREEN NexodeX 100W GaNII充電器 USB-C*2+USB-A タイプC Type-C 急速充電器 PD3.0/PPS/QC4+",
     "percent_off": 44
   },
-  "B0BF9ZYCQ5": {
-    "first_seen": "2026-07-31",
-    "first_seen_at": "2026-07-31T12:00:00+09:00",
-    "last_seen": "2026-09-03",
-    "title": "【VGP受賞】Belkin 充電器 USB-C 2ポート PPS規格対応 GaN採用 小型 ACアダプター タイプC 急速充電 軽量【PD3.0対応 /PSE認証/折りたたみ式プラグ】45W(25W+20W) MacBook Windows PC Surface Pro iPad iPhone 17,16～12対応 Galaxy Android スマホ 各種ノートPC対応 WCH011dqWH",
-    "percent_off": 42
-  },
   "B0GSVNFT8T": {
     "first_seen": "2026-08-11",
     "first_seen_at": "2026-08-11T18:18:36+09:00",
     "last_seen": "2026-09-03",
     "title": "UGREEN アップグレード版 100W充電器 USB-C×3/USB-A×1 4ポート充電器 PD3.0/PPS/QC4対応 36*64*64mm",
     "percent_off": 40
+  },
+  "B0DMN885ZF": {
+    "first_seen": "2026-08-05",
+    "first_seen_at": "2026-08-05T03:07:44+09:00",
+    "last_seen": "2026-09-03",
+    "title": "UGREEN 45W USB-C 急速充電器 Type-C PD GaNⅡ充電器 PSE適合タイプc充電器 PD/PPS/SCP/QC3.0",
+    "percent_off": 37
   },
   "B0FVM1C19Y": {
     "first_seen": "2026-07-31",
@@ -440,13 +426,6 @@
     "title": "Anker Nano Charger (45W, Display, スイングプラグ) ブラック",
     "percent_off": 25
   },
-  "B0FJS3P8NT": {
-    "first_seen": "2026-07-27",
-    "first_seen_at": "2026-07-27T12:00:00+09:00",
-    "last_seen": "2026-09-03",
-    "title": "UGREEN 45W USB-C*4+USB-A*1 急速充電器 Type-C GaNⅡ タイプc PSE適合/PD3.0/PPS/SCP/QC3.0",
-    "percent_off": 25
-  },
   "B0DNT9Z2HS": {
     "first_seen": "2026-07-27",
     "first_seen_at": "2026-07-27T12:00:00+09:00",
@@ -509,6 +488,13 @@
     "last_seen": "2026-09-03",
     "title": "CIO NovaWave SPOT PLUG +C Qi2 ワイヤレス充電器 15W USB-C充電30W スマホホルダー (ホワイト)",
     "percent_off": 14
+  },
+  "B08N4JHGJL": {
+    "first_seen": "2026-07-30",
+    "first_seen_at": "2026-07-30T12:00:00+09:00",
+    "last_seen": "2026-09-03",
+    "title": "Amazon限定 バッファロー ポータブルSSD 1.0TB コンパクト USB3.2Gen1 ブラック SSD-PUT1.0U3-B/N",
+    "percent_off": 51
   },
   "B0CZKZ8Q66": {
     "first_seen": "2026-07-30",
@@ -762,12 +748,12 @@
     "title": "VITURE Luma AR/XRグラス 近視-6.0Dまで対応 146型 1200p 120Hz",
     "percent_off": 16
   },
-  "B0D876RN9C": {
-    "first_seen": "2026-08-21",
-    "first_seen_at": "2026-08-21T04:02:13+09:00",
+  "B0G34SQSDD": {
+    "first_seen": "2026-07-31",
+    "first_seen_at": "2026-07-31T12:00:00+09:00",
     "last_seen": "2026-09-03",
-    "title": "XREAL Beam Pro(8+256GB) XREAL ARグラス空間コンピューティングコンパニオン 3Dカメラ Android 14 すべてのGoogle Playストアアプリをサポート 映画、テレビ、ゲームのための3DoF 空間体験 FHD 1080",
-    "percent_off": 15
+    "title": "DPVR G1 AIスマートグラス 800万画素 カメラ付きメガネ 録画 翻訳 AI画像認識 メガネ型カメラ オーディオグラス 調光レンズ",
+    "percent_off": 17
   },
   "B0H7RLPTM7": {
     "first_seen": "2026-07-31",
@@ -1042,19 +1028,40 @@
     "title": "[山善] ノンフライヤー 4.5L 大容量 電気フライヤー ノンオイル エアフライヤー 3~5人用 家庭用 卓上 揚げ物 惣菜 タイマー 温度調節 レシピブック付き ブラック YAH-AC120(B)",
     "percent_off": 18
   },
-  "B0DMN885ZF": {
-    "first_seen": "2026-08-05",
-    "first_seen_at": "2026-08-05T03:07:44+09:00",
+  "B0GR1KNBX2": {
+    "first_seen": "2026-08-20",
+    "first_seen_at": "2026-08-20T06:42:31+09:00",
     "last_seen": "2026-09-03",
-    "title": "UGREEN 45W USB-C 急速充電器 Type-C PD GaNⅡ充電器 PSE適合タイプc充電器 PD/PPS/SCP/QC3.0",
-    "percent_off": 37
+    "title": "Apple 2026 MacBook Pro 18コアCPU、32コアGPUのM5 Maxチップ搭載ノートパソコン：AIのために設計、14.2インチLiquid Retina XDRディスプレイ、36GBユニファイドメモリ、2TBのSSDストレージ - スペースブラック",
+    "percent_off": 12
   },
-  "B0G34SQSDD": {
+  "B0GRTQ2RQH": {
+    "first_seen": "2026-08-20",
+    "first_seen_at": "2026-08-20T06:42:31+09:00",
+    "last_seen": "2026-09-03",
+    "title": "Apple 2026 MacBook Pro 18コアCPU、32コアGPUのM5 Maxチップ搭載ノートパソコン：AIのために設計、14.2インチLiquid Retina XDRディスプレイ、36GBユニファイドメモリ、2TBのSSDストレージ - スペースブラック + 3年延長 AppleCare+ for 14インチMacBook Pro(M5 Pro/M5 Max)|ダウンロード版",
+    "percent_off": 11
+  },
+  "B0BF9ZYCQ5": {
     "first_seen": "2026-07-31",
     "first_seen_at": "2026-07-31T12:00:00+09:00",
     "last_seen": "2026-09-03",
-    "title": "DPVR G1 AIスマートグラス 800万画素 カメラ付きメガネ 録画 翻訳 AI画像認識 メガネ型カメラ オーディオグラス 調光レンズ",
-    "percent_off": 17
+    "title": "【VGP受賞】Belkin 充電器 USB-C 2ポート PPS規格対応 GaN採用 小型 ACアダプター タイプC 急速充電 軽量【PD3.0対応 /PSE認証/折りたたみ式プラグ】45W(25W+20W) MacBook Windows PC Surface Pro iPad iPhone 17,16～12対応 Galaxy Android スマホ 各種ノートPC対応 WCH011dqWH",
+    "percent_off": 42
+  },
+  "B0FJS3P8NT": {
+    "first_seen": "2026-07-27",
+    "first_seen_at": "2026-07-27T12:00:00+09:00",
+    "last_seen": "2026-09-03",
+    "title": "UGREEN 45W USB-C*4+USB-A*1 急速充電器 Type-C GaNⅡ タイプc PSE適合/PD3.0/PPS/SCP/QC3.0",
+    "percent_off": 25
+  },
+  "B0D876RN9C": {
+    "first_seen": "2026-08-21",
+    "first_seen_at": "2026-08-21T04:02:13+09:00",
+    "last_seen": "2026-09-03",
+    "title": "XREAL Beam Pro(8+256GB) XREAL ARグラス空間コンピューティングコンパニオン 3Dカメラ Android 14 すべてのGoogle Playストアアプリをサポート 映画、テレビ、ゲームのための3DoF 空間体験 FHD 1080",
+    "percent_off": 15
   },
   "B09Q5SHDR3": {
     "first_seen": "2026-07-26",
@@ -1090,13 +1097,6 @@
     "last_seen": "2026-09-03",
     "title": "CIO SMARTCOBY SLIM 5K 薄型 モバイルバッテリー Qi2 ワイヤレス 5000mAh PD20W (シルバー, セーフティモデル)",
     "percent_off": 33
-  },
-  "B08N4JHGJL": {
-    "first_seen": "2026-07-30",
-    "first_seen_at": "2026-07-30T12:00:00+09:00",
-    "last_seen": "2026-09-03",
-    "title": "Amazon限定 バッファロー ポータブルSSD 1.0TB コンパクト USB3.2Gen1 ブラック SSD-PUT1.0U3-B/N",
-    "percent_off": 51
   },
   "B0DQL1SYFT": {
     "first_seen": "2026-08-05",
