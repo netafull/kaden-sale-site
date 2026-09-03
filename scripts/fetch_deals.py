@@ -55,6 +55,9 @@ STATE_PATH = ROOT / "data" / "item_state.json"
 # 検出されなくなった商品の状態を保持する日数。検索の取りこぼしによる
 # 一時的な消失で初検出日がリセットされるのを防ぐための猶予期間
 STATE_GRACE_DAYS = 14
+# 送信予定の通知の置き場。実際の送信はサイトが公開されたあとに
+# scripts/notify.py が行う。コミットしない一時ファイル
+NOTIFY_PATH = ROOT / "data" / "pending_notification.json"
 
 RESOURCES = [
     "itemInfo.title",
@@ -143,6 +146,21 @@ def search_items(
         return json.loads(res.read().decode("utf-8"))
 
 
+# リトライを使い切って取得を諦めた回数。ジャンルが0件になったとき
+# 「本当にセール品が無い」のか「APIが落ちて取れなかった」のかを区別する
+# ために数える。区別できないと、障害のときに空のセクションだらけのサイトで
+# 正常だった前回の公開内容を上書きしてしまう
+GIVE_UPS = 0
+
+
+def give_up(label: str, reason: str) -> dict:
+    """リトライ上限に達したことを記録する。戻り値は従来どおり空のdict。"""
+    global GIVE_UPS
+    GIVE_UPS += 1
+    print(f"[warn] {label}: {reason}", file=sys.stderr)
+    return {}
+
+
 def search_with_retry(
     auth: dict,
     partner_tag: str,
@@ -180,19 +198,16 @@ def search_with_retry(
             if e.code == 429 and attempt < 2:
                 time.sleep(5 * (attempt + 1))
                 continue
-            print(
-                f"[warn] {label}: HTTP {e.code} "
-                f"{e.read().decode('utf-8', 'replace')[:300]}",
-                file=sys.stderr,
+            return give_up(
+                label,
+                f"HTTP {e.code} {e.read().decode('utf-8', 'replace')[:300]}",
             )
-            return {}
         except (urllib.error.URLError, TimeoutError, OSError) as e:
             if attempt < 2:
                 time.sleep(5 * (attempt + 1))
                 continue
-            print(f"[warn] {label}: {e}", file=sys.stderr)
-            return {}
-    return {}
+            return give_up(label, str(e))
+    return give_up(label, "リトライ上限に達しました")
 
 
 def get_items(access_token: str, partner_tag: str, asins: list[str]) -> dict:
@@ -237,19 +252,16 @@ def get_items_with_retry(
             if e.code == 429 and attempt < 2:
                 time.sleep(5 * (attempt + 1))
                 continue
-            print(
-                f"[warn] {label}: HTTP {e.code} "
-                f"{e.read().decode('utf-8', 'replace')[:300]}",
-                file=sys.stderr,
+            return give_up(
+                label,
+                f"HTTP {e.code} {e.read().decode('utf-8', 'replace')[:300]}",
             )
-            return {}
         except (urllib.error.URLError, TimeoutError, OSError) as e:
             if attempt < 2:
                 time.sleep(5 * (attempt + 1))
                 continue
-            print(f"[warn] {label}: {e}", file=sys.stderr)
-            return {}
-    return {}
+            return give_up(label, str(e))
+    return give_up(label, "リトライ上限に達しました")
 
 
 def parse_items(
@@ -381,30 +393,23 @@ def parse_items(
     return items, no_discount, irrelevant, unknown_brand
 
 
-def notify_ntfy(topic: str, title: str, message: str, click_url: str = "") -> None:
-    """新着商品をntfy(https://ntfy.sh/)でプッシュ通知する。
+def write_pending_notifications(notifications: list[dict]) -> None:
+    """送信予定の通知を書き出す。送信するのはデプロイ後のscripts/notify.py。
 
-    トピック名はGitHub Secretsで管理し、リポジトリには書かない(公開
-    リポジトリなので、トピック名が漏れると誰でも通知を送りつけられる)。
-    ジャンルをまたいで同時に何件も新着が見つかることがあるため、
-    商品ごとではなく1回の実行につき1通にまとめて送る
+    以前はここで直接ntfyへ送っていたが、この後に控えるサイト生成・状態の
+    コミット・Pagesデプロイのどれかが失敗すると「通知は届いたのにサイトは
+    前回のまま」になっていた。なお、ジャンルをまたいで同時に何件も新着が
+    見つかることがあるため、商品ごとではなく1回の実行につき1通にまとめる
+    方針は変えていない(新着と値下げで各1通)。送るものが無いときは前回の
+    残骸を送ってしまわないようファイルごと消す
     """
-    if not topic:
+    if not notifications:
+        NOTIFY_PATH.unlink(missing_ok=True)
         return
-    payload: dict[str, str] = {"topic": topic, "title": title, "message": message}
-    if click_url:
-        payload["click"] = click_url
-    req = urllib.request.Request(
-        "https://ntfy.sh/",
-        data=json.dumps(payload).encode("utf-8"),
-        method="POST",
-        headers={"Content-Type": "application/json"},
+    NOTIFY_PATH.parent.mkdir(parents=True, exist_ok=True)
+    NOTIFY_PATH.write_text(
+        json.dumps(notifications, ensure_ascii=False, indent=2), encoding="utf-8"
     )
-    try:
-        with urllib.request.urlopen(req, timeout=10):
-            pass
-    except (urllib.error.URLError, OSError) as e:
-        print(f"[warn] ntfy通知に失敗しました: {e}", file=sys.stderr)
 
 
 def load_state() -> dict:
@@ -475,9 +480,14 @@ def main() -> int:
     sort_key = lambda x: (x["percent_off"] or 0) + (x["points_percent"] or 0)  # noqa: E731
 
     genres = []
+    # 取得に失敗したせいで0件になったジャンルを控える。合計件数だけを見る
+    # 従来のガードでは、1ジャンルでも生き残っていれば素通りしてしまい、
+    # 「現在セール中の商品はありません」が並ぶサイトを公開してしまう
+    genre_failures = []
     for genre in config["genres"]:
         seen = set()
         items = []
+        give_ups_before = GIVE_UPS
         dropped = 0
         irrelevant_total = 0
         unknown_brand_total = 0
@@ -585,6 +595,12 @@ def main() -> int:
 
         items.sort(key=sort_key, reverse=True)
         genres.append({"name": genre["name"], "items": items})
+        # 0件でも、取得が全部成功しているなら本当にセールが無いだけ
+        # (エアフライヤーのように元々件数の少ないジャンルでは普通に起きる)。
+        # 取得を諦めた回数が1回でもあるなら、取りこぼしを疑う
+        genre_give_ups = GIVE_UPS - give_ups_before
+        if not items and genre_give_ups:
+            genre_failures.append(f"{genre['name']}({genre_give_ups}回失敗)")
         msg = (
             f"{genre['name']}スキャン: セール品{len(items)}件 "
             f"(割引不足で{dropped}件, 関連性フィルタで{irrelevant_total}件, "
@@ -599,9 +615,21 @@ def main() -> int:
         if watch_misses:
             print(f"  {genre['name']}の未掲載ASIN: {' '.join(watch_misses)}")
 
+    if genre_failures:
+        # 障害はジャンル単位で起きる(ジャンルごとに別々の検索を投げているため)。
+        # 空のセクションを並べて公開するより、前回の公開内容を残す方がマシ。
+        # 「最終更新」の時刻が古いままになるので、読者からも古さは分かる
+        print(
+            "[error] 取得に失敗してセール品が0件になったジャンルがあります: "
+            + " / ".join(genre_failures)
+            + "。空のセクションで前回の公開内容を上書きしないよう中止します",
+            file=sys.stderr,
+        )
+        return 1
+
     total = sum(len(g["items"]) for g in genres)
     if total == 0:
-        # 全ジャンル0件はAPI障害・キー失効の可能性が高い。
+        # 取得はすべて成功したのに全ジャンル0件、というのも通常ありえない。
         # 空サイトで前回のデプロイを上書きしないよう失敗させる
         print("[error] 全ジャンルとも0件のため中止します", file=sys.stderr)
         return 1
@@ -694,27 +722,32 @@ def main() -> int:
     )
     print(f"saved: {OUTPUT_PATH}")
 
+    notifications = []
     if new_items:
         shown = new_items[:5]
         rest = len(new_items) - len(shown)
         summary = "、".join(shown) + (f"(ほか{rest}件)" if rest > 0 else "")
-        notify_ntfy(
-            os.environ.get("NTFY_TOPIC", ""),
-            f"家電ポチ: 新着{len(new_items)}件",
-            summary,
-            click_url=config.get("site_url", ""),
+        notifications.append(
+            {
+                "title": f"家電ポチ: 新着{len(new_items)}件",
+                "message": summary,
+                "click": config.get("site_url", ""),
+            }
         )
 
     if price_drops:
         shown = price_drops[:5]
         rest = len(price_drops) - len(shown)
         summary = "、".join(shown) + (f"(ほか{rest}件)" if rest > 0 else "")
-        notify_ntfy(
-            os.environ.get("NTFY_TOPIC", ""),
-            f"家電ポチ: 値下げ{len(price_drops)}件",
-            summary,
-            click_url=config.get("site_url", ""),
+        notifications.append(
+            {
+                "title": f"家電ポチ: 値下げ{len(price_drops)}件",
+                "message": summary,
+                "click": config.get("site_url", ""),
+            }
         )
+
+    write_pending_notifications(notifications)
 
     return 0
 
