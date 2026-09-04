@@ -209,13 +209,6 @@
     "title": "Belkin Qi2 車載ワイヤレス充電器 15W急速充電 MagSafe対応 スマホホルダー エアコン吹き出し口用",
     "percent_off": 36
   },
-  "B0D53Z4WX3": {
-    "first_seen": "2026-09-04",
-    "first_seen_at": "2026-09-04T22:14:48+09:00",
-    "last_seen": "2026-09-05",
-    "title": "CIO NovaPort TRIOⅡ 65W 3C PD急速充電器 USB-C×3 3台同時充電 軽量 世界最小級 (ブラック)",
-    "percent_off": null
-  },
   "B0D53VJJ7F": {
     "first_seen": "2026-07-28",
     "first_seen_at": "2026-07-28T12:00:00+09:00",
@@ -349,6 +342,13 @@
     "title": "Belkin Apple Watch充電器 持ち運び USB-C ドングル ポータブル MFI認証 高速充電 全モデル対応",
     "percent_off": 14
   },
+  "B0D6QQFMCS": {
+    "first_seen": "2026-08-07",
+    "first_seen_at": "2026-08-07T13:07:32+09:00",
+    "last_seen": "2026-09-05",
+    "title": "Anker MagGo Wireless Charger (2-in-1, Stand) ブラック",
+    "percent_off": 14
+  },
   "B08N4JHGJL": {
     "first_seen": "2026-07-30",
     "first_seen_at": "2026-07-30T12:00:00+09:00",
@@ -480,7 +480,7 @@
     "first_seen_at": "2026-09-03T12:14:47+09:00",
     "last_seen": "2026-09-05",
     "title": "HUAWEI WATCH FIT 5 スマートウォッチ 薄型軽量 1.82インチ大画面 2500nits高輝度 10日間ロングバッテリー ワークアウト GPS内蔵 転倒検知 健康管理 心拍数 睡眠 情緒測定 iOS/アンドロイド対応 ブラック",
-    "percent_off": 17
+    "percent_off": 16
   },
   "B0GVJG7D7K": {
     "first_seen": "2026-07-31",
@@ -726,6 +726,13 @@
     "last_seen": "2026-09-05",
     "title": "アイリスオーヤマ 過熱水蒸気 エア フライヤー 3L 2～3人用 ノンオイルフライヤー スチーム機能 ジューシー FV-M30A-C アイボリー",
     "percent_off": 40
+  },
+  "B0D53Z4WX3": {
+    "first_seen": "2026-09-04",
+    "first_seen_at": "2026-09-04T22:14:48+09:00",
+    "last_seen": "2026-09-05",
+    "title": "CIO NovaPort TRIOⅡ 65W 3C PD急速充電器 USB-C×3 3台同時充電 軽量 世界最小級 (ブラック)",
+    "percent_off": null
   },
   "B0CMQK8CMJ": {
     "first_seen": "2026-08-05",
@@ -1174,13 +1181,6 @@
     "last_seen": "2026-09-03",
     "title": "Anker 511 Charger (Nano 3, 30W) ブラック",
     "percent_off": 32
-  },
-  "B0D6QQFMCS": {
-    "first_seen": "2026-08-07",
-    "first_seen_at": "2026-08-07T13:07:32+09:00",
-    "last_seen": "2026-09-03",
-    "title": "Anker MagGo Wireless Charger (2-in-1, Stand) ブラック",
-    "percent_off": 31
   },
   "B0F99DF9RQ": {
     "first_seen": "2026-08-26",
