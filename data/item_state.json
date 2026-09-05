@@ -1,4 +1,11 @@
 {
+  "B0FX46NSHB": {
+    "first_seen": "2026-09-05",
+    "first_seen_at": "2026-09-05T10:15:01+09:00",
+    "last_seen": "2026-09-05",
+    "title": "11インチiPad Pro Wi‑Fiモデル 2TB（標準ガラス搭載）- シルバー + AppleCare+ for 11インチiPad Pro（M5）",
+    "percent_off": 31
+  },
   "B0GJTW9CL8": {
     "first_seen": "2026-08-07",
     "first_seen_at": "2026-08-07T09:18:51+09:00",
@@ -102,7 +109,7 @@
     "first_seen_at": "2026-08-04T18:28:41+09:00",
     "last_seen": "2026-09-05",
     "title": "ソニー(SONY) 完全ワイヤレスイヤホン WF-C700N :高性能ノイズキャンセリング搭載/軽量・小型設計/音質アップスケール機能搭載/連続音楽再生時間最長 7.5時間/IPX4防滴性能/急速充電対応/クリアな通話性能/マルチポイント対応 ブラック WF-C700N BZ",
-    "percent_off": 56
+    "percent_off": 49
   },
   "B0FCSGGHLL": {
     "first_seen": "2026-07-24",
@@ -188,13 +195,6 @@
     "title": "Anker Nano Power Bank (22.5W, Built-In USB-C Connector) ブラック",
     "percent_off": null
   },
-  "B0FTZ46NF8": {
-    "first_seen": "2026-09-04",
-    "first_seen_at": "2026-09-04T01:14:59+09:00",
-    "last_seen": "2026-09-05",
-    "title": "CIO SMARTCOBY Ex04 Wireless2.2 CABLE SS5K 半固体モバイルバッテリー Qi2.2 5000mAh (ブラック)",
-    "percent_off": null
-  },
   "B098SQSRRV": {
     "first_seen": "2026-07-31",
     "first_seen_at": "2026-07-31T12:00:00+09:00",
@@ -222,13 +222,6 @@
     "last_seen": "2026-09-05",
     "title": "Belkin Qi2 車載ワイヤレス充電器 15W急速充電 MagSafe対応 スマホホルダー エアコン吹き出し口用",
     "percent_off": 36
-  },
-  "B0D53VJJ7F": {
-    "first_seen": "2026-07-28",
-    "first_seen_at": "2026-07-28T12:00:00+09:00",
-    "last_seen": "2026-09-05",
-    "title": "CIO NovaPort TRIOⅡ 65W 2C1A PD急速充電器 USB-C×2+USB-A×1 3台同時充電 世界最小級（ブラック）",
-    "percent_off": null
   },
   "B0D9QP375K": {
     "first_seen": "2026-08-31",
@@ -263,6 +256,13 @@
     "first_seen_at": "2026-07-29T12:00:00+09:00",
     "last_seen": "2026-09-05",
     "title": "CIO NovaPort DUOⅡ 65W PD急速充電器 USB-C×2 2台同時充電 世界最小級（ブラック）",
+    "percent_off": null
+  },
+  "B0D53VJJ7F": {
+    "first_seen": "2026-07-28",
+    "first_seen_at": "2026-07-28T12:00:00+09:00",
+    "last_seen": "2026-09-05",
+    "title": "CIO NovaPort TRIOⅡ 65W 2C1A PD急速充電器 USB-C×2+USB-A×1 3台同時充電 世界最小級（ブラック）",
     "percent_off": null
   },
   "B0F99FCSX7": {
@@ -335,13 +335,6 @@
     "title": "エレコム ワイヤレス充電器 Qi認証 最大 10W スタンド型 EPP規格対応 3枚コイル 【 iPhone Galaxy AirPods 等対応】 ブラック EC-QS10BK",
     "percent_off": 15
   },
-  "B0D2D9LQP4": {
-    "first_seen": "2026-07-31",
-    "first_seen_at": "2026-07-31T12:00:00+09:00",
-    "last_seen": "2026-09-05",
-    "title": "CIO NovaWave SPOT PLUG +C Qi2 ワイヤレス充電器 15W USB-C充電30W スマホホルダー (ホワイト)",
-    "percent_off": null
-  },
   "B0F43M6SBB": {
     "first_seen": "2026-08-07",
     "first_seen_at": "2026-08-07T00:31:33+09:00",
@@ -354,13 +347,6 @@
     "first_seen_at": "2026-07-31T12:00:00+09:00",
     "last_seen": "2026-09-05",
     "title": "Belkin Apple Watch充電器 持ち運び USB-C ドングル ポータブル MFI認証 高速充電 全モデル対応",
-    "percent_off": 14
-  },
-  "B0D6QQFMCS": {
-    "first_seen": "2026-08-07",
-    "first_seen_at": "2026-08-07T13:07:32+09:00",
-    "last_seen": "2026-09-05",
-    "title": "Anker MagGo Wireless Charger (2-in-1, Stand) ブラック",
     "percent_off": 14
   },
   "B08N4JHGJL": {
@@ -733,6 +719,27 @@
     "last_seen": "2026-09-05",
     "title": "アイリスオーヤマ 過熱水蒸気 エア フライヤー 3L 2～3人用 ノンオイルフライヤー スチーム機能 ジューシー FV-M30A-C アイボリー",
     "percent_off": 40
+  },
+  "B0FTZ46NF8": {
+    "first_seen": "2026-09-04",
+    "first_seen_at": "2026-09-04T01:14:59+09:00",
+    "last_seen": "2026-09-05",
+    "title": "CIO SMARTCOBY Ex04 Wireless2.2 CABLE SS5K 半固体モバイルバッテリー Qi2.2 5000mAh (ブラック)",
+    "percent_off": null
+  },
+  "B0D2D9LQP4": {
+    "first_seen": "2026-07-31",
+    "first_seen_at": "2026-07-31T12:00:00+09:00",
+    "last_seen": "2026-09-05",
+    "title": "CIO NovaWave SPOT PLUG +C Qi2 ワイヤレス充電器 15W USB-C充電30W スマホホルダー (ホワイト)",
+    "percent_off": null
+  },
+  "B0D6QQFMCS": {
+    "first_seen": "2026-08-07",
+    "first_seen_at": "2026-08-07T13:07:32+09:00",
+    "last_seen": "2026-09-05",
+    "title": "Anker MagGo Wireless Charger (2-in-1, Stand) ブラック",
+    "percent_off": 14
   },
   "B0FKH268LS": {
     "first_seen": "2026-07-30",
