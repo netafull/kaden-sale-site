@@ -125,13 +125,6 @@
     "title": "Anker Power Bank (25000mAh, Built-In & 巻取り式USB-Cケーブル) ブラック",
     "percent_off": null
   },
-  "B0CL8S3WMX": {
-    "first_seen": "2026-07-27",
-    "first_seen_at": "2026-07-27T12:00:00+09:00",
-    "last_seen": "2026-09-05",
-    "title": "Anker Power Bank (30W, Fusion, Built-In USB-C ケーブル) ブラック",
-    "percent_off": null
-  },
   "B0CX4C1TVK": {
     "first_seen": "2026-07-27",
     "first_seen_at": "2026-07-27T12:00:00+09:00",
@@ -159,6 +152,13 @@
     "last_seen": "2026-09-05",
     "title": "Anker Nano Power Bank (5000mAh, MagGo, Slim) ブラック",
     "percent_off": null
+  },
+  "B0CL8S3WMX": {
+    "first_seen": "2026-07-27",
+    "first_seen_at": "2026-07-27T12:00:00+09:00",
+    "last_seen": "2026-09-05",
+    "title": "Anker Power Bank (30W, Fusion, Built-In USB-C ケーブル) ブラック",
+    "percent_off": 28
   },
   "B0FKH14VSL": {
     "first_seen": "2026-08-31",
@@ -355,13 +355,6 @@
     "last_seen": "2026-09-05",
     "title": "Amazon限定 バッファロー ポータブルSSD 1.0TB コンパクト USB3.2Gen1 ブラック SSD-PUT1.0U3-B/N",
     "percent_off": 51
-  },
-  "B0CH2X5LBX": {
-    "first_seen": "2026-07-30",
-    "first_seen_at": "2026-07-30T12:00:00+09:00",
-    "last_seen": "2026-09-05",
-    "title": "【Amazon.co.jp限定】 SanDisk microSD カード Ultra SDSQUAB-128G-GH3MA 簡易デザインパッケージ",
-    "percent_off": 21
   },
   "B0DMN94Q8M": {
     "first_seen": "2026-08-02",
@@ -713,12 +706,26 @@
     "title": "ロジクール SIGNATURE SLIM ワイヤレス キーボード K950GR 薄型 静かなタイピング Bluetooth Logi Bolt ワイヤレスキーボード テンキー 無線 Easy-Switch 日本語配列 電池寿命36ケ月 Windows Mac Chrome Android K950 グラファイト 国内正規品",
     "percent_off": 15
   },
+  "B0161YPB8Y": {
+    "first_seen": "2026-09-05",
+    "first_seen_at": "2026-09-05T11:14:58+09:00",
+    "last_seen": "2026-09-05",
+    "title": "エレコム マウス ワイヤレス (レシーバー付属) Lサイズ 5ボタン (戻る・進むボタン搭載) BlueLED 握りの極み ブラック M-XGL10DBBK",
+    "percent_off": 15
+  },
   "B0G4CC1S2F": {
     "first_seen": "2026-07-24",
     "first_seen_at": "2026-07-24T12:00:00+09:00",
     "last_seen": "2026-09-05",
     "title": "アイリスオーヤマ 過熱水蒸気 エア フライヤー 3L 2～3人用 ノンオイルフライヤー スチーム機能 ジューシー FV-M30A-C アイボリー",
     "percent_off": 40
+  },
+  "B0CH2X5LBX": {
+    "first_seen": "2026-07-30",
+    "first_seen_at": "2026-07-30T12:00:00+09:00",
+    "last_seen": "2026-09-05",
+    "title": "【Amazon.co.jp限定】 SanDisk microSD カード Ultra SDSQUAB-128G-GH3MA 簡易デザインパッケージ",
+    "percent_off": 21
   },
   "B0FTZ46NF8": {
     "first_seen": "2026-09-04",
