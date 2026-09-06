@@ -41,13 +41,6 @@
     "title": "Apple 2026 MacBook Pro 18コアCPU、20コアGPUのM5 Proチップ搭載ノートパソコン：AIのために設計、14.2インチLiquid Retina XDRディスプレイ、24GBユニファイドメモリ、2TBのSSDストレージ - シルバー",
     "percent_off": 8
   },
-  "B0DT3XJKH9": {
-    "first_seen": "2026-09-05",
-    "first_seen_at": "2026-09-05T21:15:05+09:00",
-    "last_seen": "2026-09-07",
-    "title": "Apple AirPods 4ワイヤレスイヤーバッド、Bluetoothヘッドフォン、アクティブノイズ キャンセリング搭載、適応型オーディオ、外部音取り込みモード、パーソナライズされ た空間オーディオ、USB-C充電ケース、ワイヤレス充電、H2チップ + 延長2年 AppleCare+ for Headphones - AirPods",
-    "percent_off": 7
-  },
   "B0GRTST8MJ": {
     "first_seen": "2026-08-20",
     "first_seen_at": "2026-08-20T06:42:31+09:00",
@@ -314,13 +307,6 @@
     "title": "Anker MagGo Wireless Charger (Stand) ブラック",
     "percent_off": null
   },
-  "B0DMN885ZF": {
-    "first_seen": "2026-08-05",
-    "first_seen_at": "2026-08-05T03:07:44+09:00",
-    "last_seen": "2026-09-07",
-    "title": "UGREEN 45W USB-C 急速充電器 Type-C PD GaNⅡ充電器 PSE適合タイプc充電器 PD/PPS/SCP/QC3.0",
-    "percent_off": null
-  },
   "B0DNT9Z2HS": {
     "first_seen": "2026-07-27",
     "first_seen_at": "2026-07-27T12:00:00+09:00",
@@ -342,6 +328,13 @@
     "title": "Belkin USB充電器 42W (30W USB-C + 12W USB-A) PPS対応 PD3.1 急速充電 iPhone17,16～12/ iPad/Androidスマホ・タブレット各種対応 折り畳みプラグ ホワイト WCB009dqWHJP",
     "percent_off": 18
   },
+  "B0FJS3P8NT": {
+    "first_seen": "2026-07-27",
+    "first_seen_at": "2026-07-27T12:00:00+09:00",
+    "last_seen": "2026-09-07",
+    "title": "UGREEN 45W USB-C*4+USB-A*1 急速充電器 Type-C GaNⅡ タイプc PSE適合/PD3.0/PPS/SCP/QC3.0",
+    "percent_off": null
+  },
   "B0DMCPT5PV": {
     "first_seen": "2026-09-04",
     "first_seen_at": "2026-09-04T00:15:11+09:00",
@@ -349,18 +342,18 @@
     "title": "バッファロー 充電器 20W 2ポート USB-C & USB-A PD対応 GaN 折りたたみ式 PSE適合 BSACPD2015C2WH",
     "percent_off": 16
   },
-  "B0DHTT13KN": {
-    "first_seen": "2026-07-31",
-    "first_seen_at": "2026-07-31T12:00:00+09:00",
-    "last_seen": "2026-09-07",
-    "title": "Belkin Cubic Charger 45W 充電器 type-c iphone 充電器 急速充電 PD3.2 PPS対応 ホワイト",
-    "percent_off": 15
-  },
   "B0FB2F95HY": {
     "first_seen": "2026-08-07",
     "first_seen_at": "2026-08-07T00:31:33+09:00",
     "last_seen": "2026-09-07",
     "title": "エレコム ワイヤレス充電器 Qi認証 最大 10W スタンド型 EPP規格対応 3枚コイル 【 iPhone Galaxy AirPods 等対応】 ブラック EC-QS10BK",
+    "percent_off": 15
+  },
+  "B0DHTT13KN": {
+    "first_seen": "2026-07-31",
+    "first_seen_at": "2026-07-31T12:00:00+09:00",
+    "last_seen": "2026-09-07",
+    "title": "Belkin Cubic Charger 45W 充電器 type-c iphone 充電器 急速充電 PD3.2 PPS対応 ホワイト",
     "percent_off": 15
   },
   "B0F43M6SBB": {
@@ -755,11 +748,18 @@
     "title": "アイリスオーヤマ 過熱水蒸気 エア フライヤー 3L 2～3人用 ノンオイルフライヤー スチーム機能 ジューシー FV-M30A-C アイボリー",
     "percent_off": 42
   },
-  "B0FJS3P8NT": {
-    "first_seen": "2026-07-27",
-    "first_seen_at": "2026-07-27T12:00:00+09:00",
+  "B0DT3XJKH9": {
+    "first_seen": "2026-09-05",
+    "first_seen_at": "2026-09-05T21:15:05+09:00",
     "last_seen": "2026-09-07",
-    "title": "UGREEN 45W USB-C*4+USB-A*1 急速充電器 Type-C GaNⅡ タイプc PSE適合/PD3.0/PPS/SCP/QC3.0",
+    "title": "Apple AirPods 4ワイヤレスイヤーバッド、Bluetoothヘッドフォン、アクティブノイズ キャンセリング搭載、適応型オーディオ、外部音取り込みモード、パーソナライズされ た空間オーディオ、USB-C充電ケース、ワイヤレス充電、H2チップ + 延長2年 AppleCare+ for Headphones - AirPods",
+    "percent_off": 7
+  },
+  "B0DMN885ZF": {
+    "first_seen": "2026-08-05",
+    "first_seen_at": "2026-08-05T03:07:44+09:00",
+    "last_seen": "2026-09-07",
+    "title": "UGREEN 45W USB-C 急速充電器 Type-C PD GaNⅡ充電器 PSE適合タイプc充電器 PD/PPS/SCP/QC3.0",
     "percent_off": null
   },
   "B0CMQK8CMJ": {
