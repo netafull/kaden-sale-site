@@ -74,7 +74,7 @@
     "first_seen_at": "2026-08-04T18:28:41+09:00",
     "last_seen": "2026-09-07",
     "title": "ソニー(SONY) 完全ワイヤレスイヤホン WF-C700N :高性能ノイズキャンセリング搭載/軽量・小型設計/音質アップスケール機能搭載/連続音楽再生時間最長 7.5時間/IPX4防滴性能/急速充電対応/クリアな通話性能/マルチポイント対応 ブラック WF-C700N BZ",
-    "percent_off": 49
+    "percent_off": 47
   },
   "B0DDKHF9XY": {
     "first_seen": "2026-08-16",
@@ -202,13 +202,6 @@
     "title": "UGREEN Nexode【当社比最小】65W PD充電器 USB-C*2+USB-A*1 急速充電器 PSE適合 PD/PPS/QC4+対応",
     "percent_off": 40
   },
-  "B0GSVNFT8T": {
-    "first_seen": "2026-08-11",
-    "first_seen_at": "2026-08-11T18:18:36+09:00",
-    "last_seen": "2026-09-07",
-    "title": "UGREEN アップグレード版 100W充電器 USB-C×3/USB-A×1 4ポート充電器 PD3.0/PPS/QC4対応 36*64*64mm",
-    "percent_off": null
-  },
   "B0DW2SYD5H": {
     "first_seen": "2026-08-15",
     "first_seen_at": "2026-08-15T20:37:29+09:00",
@@ -293,12 +286,12 @@
     "title": "Anker Nano Charger (45W, Display, スイングプラグ) ブラック",
     "percent_off": null
   },
-  "B0F1SY6KYC": {
-    "first_seen": "2026-08-25",
-    "first_seen_at": "2026-08-25T04:01:19+09:00",
+  "B0D8RSX6W2": {
+    "first_seen": "2026-07-29",
+    "first_seen_at": "2026-07-29T12:00:00+09:00",
     "last_seen": "2026-09-07",
-    "title": "Belkin MagSafe充電器 Qi2 15W ワイヤレス充電器 iPhone 12-17・AirPods対応 スタンド付き",
-    "percent_off": 23
+    "title": "Anker MagGo Wireless Charger (Stand) ブラック",
+    "percent_off": null
   },
   "B0DNT9Z2HS": {
     "first_seen": "2026-07-27",
@@ -369,13 +362,6 @@
     "last_seen": "2026-09-07",
     "title": "Amazon限定 バッファロー ポータブルSSD 1.0TB コンパクト USB3.2Gen1 ブラック SSD-PUT1.0U3-B/N",
     "percent_off": 51
-  },
-  "B08PTPTMH5": {
-    "first_seen": "2026-08-28",
-    "first_seen_at": "2026-08-28T13:20:27+09:00",
-    "last_seen": "2026-09-07",
-    "title": "KIOXIA(キオクシア) 旧東芝メモリ microSD 128GB UHS-I Class10 (最大読出速度100MB/s) Nintendo Switch動作確認済 国内サポート正規品 メーカー保証5年 KLMEA128G",
-    "percent_off": 19
   },
   "B0DMN94Q8M": {
     "first_seen": "2026-08-02",
@@ -467,6 +453,13 @@
     "last_seen": "2026-09-07",
     "title": "HUAWEI WATCH FIT 4 スマートウォッチ 薄型軽量 1.82インチ大画面 アウトドアに適した気圧計と測位システム 通知 フィットネス ヘルストラッカー 情緒測定 10日間ロングバッテリー iOS/Android対応 ブラック",
     "percent_off": 22
+  },
+  "B0FKH3WQ41": {
+    "first_seen": "2026-07-30",
+    "first_seen_at": "2026-07-30T12:00:00+09:00",
+    "last_seen": "2026-09-07",
+    "title": "HUAWEI WATCH GT 6 Pro 46mm スマートウォッチ 1.47インチ大画面 最長21日間バッテリー サイクリング/登山/進化したゴルフナビ スポーツモード100種類以上 GPS搭載 心電図分析 健康/情緒モニタリング iOS/Android対応 ブラック",
+    "percent_off": 24
   },
   "B0G529YNFK": {
     "first_seen": "2026-09-05",
@@ -762,12 +755,26 @@
     "title": "アイリスオーヤマ 過熱水蒸気 エア フライヤー 3L 2～3人用 ノンオイルフライヤー スチーム機能 ジューシー FV-M30A-C アイボリー",
     "percent_off": 42
   },
-  "B0D8RSX6W2": {
-    "first_seen": "2026-07-29",
-    "first_seen_at": "2026-07-29T12:00:00+09:00",
+  "B0GSVNFT8T": {
+    "first_seen": "2026-08-11",
+    "first_seen_at": "2026-08-11T18:18:36+09:00",
     "last_seen": "2026-09-07",
-    "title": "Anker MagGo Wireless Charger (Stand) ブラック",
+    "title": "UGREEN アップグレード版 100W充電器 USB-C×3/USB-A×1 4ポート充電器 PD3.0/PPS/QC4対応 36*64*64mm",
     "percent_off": null
+  },
+  "B0F1SY6KYC": {
+    "first_seen": "2026-08-25",
+    "first_seen_at": "2026-08-25T04:01:19+09:00",
+    "last_seen": "2026-09-07",
+    "title": "Belkin MagSafe充電器 Qi2 15W ワイヤレス充電器 iPhone 12-17・AirPods対応 スタンド付き",
+    "percent_off": 23
+  },
+  "B08PTPTMH5": {
+    "first_seen": "2026-08-28",
+    "first_seen_at": "2026-08-28T13:20:27+09:00",
+    "last_seen": "2026-09-07",
+    "title": "KIOXIA(キオクシア) 旧東芝メモリ microSD 128GB UHS-I Class10 (最大読出速度100MB/s) Nintendo Switch動作確認済 国内サポート正規品 メーカー保証5年 KLMEA128G",
+    "percent_off": 19
   },
   "B0GHP2D9YF": {
     "first_seen": "2026-09-06",
@@ -1034,13 +1041,6 @@
     "last_seen": "2026-09-06",
     "title": "Logicool G 8000Hz ポーリングレート PRO X SUPERLIGHT 2 ワイヤレス ゲーミングマウス G-PPD-004WL-BK",
     "percent_off": 17
-  },
-  "B0FKH3WQ41": {
-    "first_seen": "2026-07-30",
-    "first_seen_at": "2026-07-30T12:00:00+09:00",
-    "last_seen": "2026-09-06",
-    "title": "HUAWEI WATCH GT 6 Pro 46mm スマートウォッチ 1.47インチ大画面 最長21日間バッテリー サイクリング/登山/進化したゴルフナビ スポーツモード100種類以上 GPS搭載 心電図分析 健康/情緒モニタリング iOS/Android対応 ブラック",
-    "percent_off": 24
   },
   "B00CRVXR14": {
     "first_seen": "2026-08-31",
