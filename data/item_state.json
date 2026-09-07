@@ -62,13 +62,6 @@
     "title": "Apple 13インチiPad Air（M4）：Liquid Retinaディスプレイ、1TB、12MPフロント/バックカメラ、Apple N1によるWi-Fi 7 + 5Gモバイル通信、Touch ID、一日中使えるバッテリー — スペースグレイ + 2年延長 AppleCare+ for iPad Air 13-inch (M4)|ダウンロード版",
     "percent_off": 5
   },
-  "B0GR1RF3K9": {
-    "first_seen": "2026-08-20",
-    "first_seen_at": "2026-08-20T06:42:31+09:00",
-    "last_seen": "2026-09-08",
-    "title": "Apple 2026 MacBook Pro 18コアCPU、20コアGPUのM5 Proチップ搭載ノートパソコン：AIのために設計、14.2インチLiquid Retina XDRディスプレイ、24GBユニファイドメモリ、2TBのSSDストレージ - スペースブラック",
-    "percent_off": 5
-  },
   "B0BZGTFF9L": {
     "first_seen": "2026-08-04",
     "first_seen_at": "2026-08-04T18:28:41+09:00",
@@ -173,6 +166,13 @@
     "last_seen": "2026-09-08",
     "title": "Belkin Qi2 車載ワイヤレス充電器 15W急速充電 MagSafe対応 スマホホルダー エアコン吹き出し口用",
     "percent_off": 36
+  },
+  "B0D53Z4WX3": {
+    "first_seen": "2026-09-04",
+    "first_seen_at": "2026-09-04T22:14:48+09:00",
+    "last_seen": "2026-09-08",
+    "title": "CIO NovaPort TRIOⅡ 65W 3C PD急速充電器 USB-C×3 3台同時充電 軽量 世界最小級 (ブラック)",
+    "percent_off": null
   },
   "B0D53VJJ7F": {
     "first_seen": "2026-07-28",
@@ -299,13 +299,6 @@
     "last_seen": "2026-09-08",
     "title": "Amazon限定 バッファロー ポータブルSSD 1.0TB コンパクト USB3.2Gen1 ブラック SSD-PUT1.0U3-B/N",
     "percent_off": 51
-  },
-  "B088KGD4L7": {
-    "first_seen": "2026-09-08",
-    "first_seen_at": "2026-09-08T03:15:02+09:00",
-    "last_seen": "2026-09-08",
-    "title": "KIOXIA(キオクシア) 旧東芝メモリ microSD 32GB UHS-I対応 Class10 microSDHC (転送速度50MB/s) 国内サポート正規品 メーカー保証3年 KTHN-MW032G",
-    "percent_off": 15
   },
   "B0DMN94Q8M": {
     "first_seen": "2026-08-02",
@@ -587,6 +580,20 @@
     "title": "アイリスオーヤマ 過熱水蒸気 エア フライヤー 3L 2～3人用 ノンオイルフライヤー スチーム機能 ジューシー FV-M30A-C アイボリー",
     "percent_off": 43
   },
+  "B0GR1RF3K9": {
+    "first_seen": "2026-08-20",
+    "first_seen_at": "2026-08-20T06:42:31+09:00",
+    "last_seen": "2026-09-08",
+    "title": "Apple 2026 MacBook Pro 18コアCPU、20コアGPUのM5 Proチップ搭載ノートパソコン：AIのために設計、14.2インチLiquid Retina XDRディスプレイ、24GBユニファイドメモリ、2TBのSSDストレージ - スペースブラック",
+    "percent_off": 5
+  },
+  "B088KGD4L7": {
+    "first_seen": "2026-09-08",
+    "first_seen_at": "2026-09-08T03:15:02+09:00",
+    "last_seen": "2026-09-08",
+    "title": "KIOXIA(キオクシア) 旧東芝メモリ microSD 32GB UHS-I対応 Class10 microSDHC (転送速度50MB/s) 国内サポート正規品 メーカー保証3年 KTHN-MW032G",
+    "percent_off": 15
+  },
   "B0GRTRXH5Z": {
     "first_seen": "2026-08-20",
     "first_seen_at": "2026-08-20T06:42:31+09:00",
@@ -635,13 +642,6 @@
     "last_seen": "2026-09-07",
     "title": "UGREEN Air モバイルバッテリー 5000mAh 8.6mm超薄型 Qi2 15W MagSafe対応",
     "percent_off": 25
-  },
-  "B0D53Z4WX3": {
-    "first_seen": "2026-09-04",
-    "first_seen_at": "2026-09-04T22:14:48+09:00",
-    "last_seen": "2026-09-07",
-    "title": "CIO NovaPort TRIOⅡ 65W 3C PD急速充電器 USB-C×3 3台同時充電 軽量 世界最小級 (ブラック)",
-    "percent_off": null
   },
   "B0G7HPMG6C": {
     "first_seen": "2026-08-14",
