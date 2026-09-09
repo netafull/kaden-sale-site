@@ -146,11 +146,11 @@
     "title": "Belkin MagSafe対応 モバイルバッテリー 軽量 5000mAh USB-C 15W 薄型 iPhone対応 ブラック",
     "percent_off": 19
   },
-  "B0H1BYKWRV": {
-    "first_seen": "2026-09-08",
-    "first_seen_at": "2026-09-08T22:15:08+09:00",
+  "B0H1BTP834": {
+    "first_seen": "2026-09-09",
+    "first_seen_at": "2026-09-09T02:14:40+09:00",
     "last_seen": "2026-09-09",
-    "title": "エレコム モバイルバッテリー 10000mAh 大容量 急速充電 軽量 小型 残量表示 LEDパネル 22.5W PD対応 PPS対応 USB-C USB-A 2ポート パススルー充電 PSE認証 iPhone iPad しろちゃん EC-C65LWF",
+    "title": "エレコム モバイルバッテリー 10000mAh 大容量 急速充電 軽量 小型 残量表示 LEDパネル 22.5W PD対応 PPS対応 USB-C USB-A 2ポート パススルー充電 PSE認証 iPhone iPad ブラック EC-C65LBK",
     "percent_off": 15
   },
   "B098SQSRRV": {
@@ -482,12 +482,12 @@
     "title": "ロジクール ワイヤレスマウス 静音 無線 高速スクロール Signature M750MGR レギュラー グラファイト M750 国内正規品",
     "percent_off": 36
   },
-  "B0FJRGKP9F": {
-    "first_seen": "2026-09-04",
-    "first_seen_at": "2026-09-04T20:14:57+09:00",
+  "B0FL77NZXM": {
+    "first_seen": "2026-07-29",
+    "first_seen_at": "2026-07-29T12:00:00+09:00",
     "last_seen": "2026-09-09",
-    "title": "【リニューアル】 エレコム ワイヤレスマウス 静音 充電式 OSMOD Six Bluetooth 無線2.4GHz両対応 2台まで接続 マルチペアリング 6ボタン ブルー M-MY35MBSABU",
-    "percent_off": 33
+    "title": "エレコム ワイヤレスキーボード Precisionist プレシジョニスト Bluetooth 無線2.4GHz マルチペアリング4台 充電式 薄型パンタグラフ式 ミニサイズ ブラック TK-PN1075MPABK",
+    "percent_off": 23
   },
   "B0FL6ZD3WL": {
     "first_seen": "2026-07-29",
@@ -566,6 +566,13 @@
     "title": "エレコム ワイヤレスキーボード 静音 フルサイズ テンキー付 無線2.4GHz Windows macOS ChromeOS メンブレン式 ブラック TK-QT11FDMABK",
     "percent_off": 11
   },
+  "B0GL1782KS": {
+    "first_seen": "2026-09-08",
+    "first_seen_at": "2026-09-08T22:15:08+09:00",
+    "last_seen": "2026-09-09",
+    "title": "東プレ REALFORCE GX1 Plus Zガンダム 日本語配列 ゲーミングキーボード X1PCZ1 KB0941",
+    "percent_off": 16
+  },
   "B0C65MQZ65": {
     "first_seen": "2026-07-26",
     "first_seen_at": "2026-07-26T12:00:00+09:00",
@@ -585,14 +592,21 @@
     "first_seen_at": "2026-07-24T12:00:00+09:00",
     "last_seen": "2026-09-09",
     "title": "アイリスオーヤマ 過熱水蒸気 エア フライヤー 3L 2～3人用 ノンオイルフライヤー スチーム機能 ジューシー FV-M30A-C アイボリー",
-    "percent_off": 42
+    "percent_off": 43
   },
-  "B0H1BTP834": {
-    "first_seen": "2026-09-09",
-    "first_seen_at": "2026-09-09T02:14:40+09:00",
+  "B0H1BYKWRV": {
+    "first_seen": "2026-09-08",
+    "first_seen_at": "2026-09-08T22:15:08+09:00",
     "last_seen": "2026-09-09",
-    "title": "エレコム モバイルバッテリー 10000mAh 大容量 急速充電 軽量 小型 残量表示 LEDパネル 22.5W PD対応 PPS対応 USB-C USB-A 2ポート パススルー充電 PSE認証 iPhone iPad ブラック EC-C65LBK",
+    "title": "エレコム モバイルバッテリー 10000mAh 大容量 急速充電 軽量 小型 残量表示 LEDパネル 22.5W PD対応 PPS対応 USB-C USB-A 2ポート パススルー充電 PSE認証 iPhone iPad しろちゃん EC-C65LWF",
     "percent_off": 15
+  },
+  "B0FJRGKP9F": {
+    "first_seen": "2026-09-04",
+    "first_seen_at": "2026-09-04T20:14:57+09:00",
+    "last_seen": "2026-09-09",
+    "title": "【リニューアル】 エレコム ワイヤレスマウス 静音 充電式 OSMOD Six Bluetooth 無線2.4GHz両対応 2台まで接続 マルチペアリング 6ボタン ブルー M-MY35MBSABU",
+    "percent_off": 33
   },
   "B0DMN885ZF": {
     "first_seen": "2026-08-05",
@@ -628,13 +642,6 @@
     "last_seen": "2026-09-09",
     "title": "【Amazon.co.jp限定】 SwitchBot スマートリモコン ハブミニ(Matter対応) 温湿度管理 パネル - スイッチボット エアコン操作 赤外線家電を管理 温湿度計 スマートホーム アラート通知 節電·省エネ",
     "percent_off": 14
-  },
-  "B0FL77NZXM": {
-    "first_seen": "2026-07-29",
-    "first_seen_at": "2026-07-29T12:00:00+09:00",
-    "last_seen": "2026-09-09",
-    "title": "エレコム ワイヤレスキーボード Precisionist プレシジョニスト Bluetooth 無線2.4GHz マルチペアリング4台 充電式 薄型パンタグラフ式 ミニサイズ ブラック TK-PN1075MPABK",
-    "percent_off": 23
   },
   "B0C9TKSP8V": {
     "first_seen": "2026-07-30",
@@ -782,13 +789,6 @@
     "last_seen": "2026-09-08",
     "title": "ロジクール ワイヤレスマウス PEBBLE MOUSE2 M350sBL 薄型 静音 Bluetooth Logi Bolt マウス 無線 ワイヤレス 左右対称 Easy-Switch 4000dpi 電池寿命24ケ月 windows mac Chrome Android iPad M350 ブルー 国内正規品",
     "percent_off": 19
-  },
-  "B0GL1782KS": {
-    "first_seen": "2026-09-08",
-    "first_seen_at": "2026-09-08T22:15:08+09:00",
-    "last_seen": "2026-09-08",
-    "title": "東プレ REALFORCE GX1 Plus Zガンダム 日本語配列 ゲーミングキーボード X1PCZ1 KB0941",
-    "percent_off": 16
   },
   "B0FP24CSYK": {
     "first_seen": "2026-09-08",
