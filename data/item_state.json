@@ -251,6 +251,13 @@
     "title": "Anker Nano Charger (45W, Display, スイングプラグ) ブラック",
     "percent_off": null
   },
+  "B0DMN885ZF": {
+    "first_seen": "2026-08-05",
+    "first_seen_at": "2026-08-05T03:07:44+09:00",
+    "last_seen": "2026-09-09",
+    "title": "UGREEN 45W USB-C 急速充電器 Type-C PD GaNⅡ充電器 PSE適合タイプc充電器 PD/PPS/SCP/QC3.0",
+    "percent_off": null
+  },
   "B0DNT9Z2HS": {
     "first_seen": "2026-07-27",
     "first_seen_at": "2026-07-27T12:00:00+09:00",
@@ -278,13 +285,6 @@
     "last_seen": "2026-09-09",
     "title": "Belkin USB充電器 42W (30W USB-C + 12W USB-A) PPS対応 PD3.1 急速充電 iPhone17,16～12/ iPad/Androidスマホ・タブレット各種対応 折り畳みプラグ ホワイト WCB009dqWHJP",
     "percent_off": 18
-  },
-  "B0FJS3P8NT": {
-    "first_seen": "2026-07-27",
-    "first_seen_at": "2026-07-27T12:00:00+09:00",
-    "last_seen": "2026-09-09",
-    "title": "UGREEN 45W USB-C*4+USB-A*1 急速充電器 Type-C GaNⅡ タイプc PSE適合/PD3.0/PPS/SCP/QC3.0",
-    "percent_off": null
   },
   "B0DMCPT5PV": {
     "first_seen": "2026-09-04",
@@ -314,12 +314,12 @@
     "title": "エレコム 充電器 合計65W 3ポート Type-C USB-A USB PD対応 スイング式プラグ採用 ブラック EC-AC10367BK",
     "percent_off": 14
   },
-  "B088KGD4L7": {
-    "first_seen": "2026-09-08",
-    "first_seen_at": "2026-09-08T03:15:02+09:00",
+  "B0CH2X5LBX": {
+    "first_seen": "2026-07-30",
+    "first_seen_at": "2026-07-30T12:00:00+09:00",
     "last_seen": "2026-09-09",
-    "title": "KIOXIA(キオクシア) 旧東芝メモリ microSD 32GB UHS-I対応 Class10 microSDHC (転送速度50MB/s) 国内サポート正規品 メーカー保証3年 KTHN-MW032G",
-    "percent_off": 15
+    "title": "【Amazon.co.jp限定】 SanDisk microSD カード Ultra SDSQUAB-128G-GH3MA 簡易デザインパッケージ",
+    "percent_off": 17
   },
   "B0DMN94Q8M": {
     "first_seen": "2026-08-02",
@@ -405,11 +405,11 @@
     "title": "SwitchBot スイッチボット スイッチ ボタンに適用 指ロボット スマートスイッチ スマートホーム ワイヤレス タイマー スマホで遠隔操作 Alexa, Google Home, Siri, IFTTTなどに対応(ハブ必要) ホワイト",
     "percent_off": 14
   },
-  "B0FQBQP9RK": {
-    "first_seen": "2026-09-08",
-    "first_seen_at": "2026-09-08T22:15:08+09:00",
+  "B0GQRT3L1B": {
+    "first_seen": "2026-09-07",
+    "first_seen_at": "2026-09-07T07:14:36+09:00",
     "last_seen": "2026-09-09",
-    "title": "【Amazon.co.jp限定】 SwitchBot スマートリモコン ハブミニ(Matter対応) 温湿度管理 パネル - スイッチボット エアコン操作 赤外線家電を管理 温湿度計 スマートホーム アラート通知 節電·省エネ",
+    "title": "【セット買い】SwitchBot スマートリモコン ハブミニ(Matter対応) スマートデイリーステーション 温湿度計 - スイッチボット 天気ステーション 遠隔確認 スマートホーム Alexa Google Home Siriに対応(ハブミニ(Matter対応) 1点+スマートデイリーステーション 1点)",
     "percent_off": 14
   },
   "B0F5WNVHH7": {
@@ -495,6 +495,13 @@
     "last_seen": "2026-09-09",
     "title": "ロジクール ワイヤレスマウス 静音 無線 高速スクロール Signature M750MGR レギュラー グラファイト M750 国内正規品",
     "percent_off": 36
+  },
+  "B0FJRGKP9F": {
+    "first_seen": "2026-09-04",
+    "first_seen_at": "2026-09-04T20:14:57+09:00",
+    "last_seen": "2026-09-09",
+    "title": "【リニューアル】 エレコム ワイヤレスマウス 静音 充電式 OSMOD Six Bluetooth 無線2.4GHz両対応 2台まで接続 マルチペアリング 6ボタン ブルー M-MY35MBSABU",
+    "percent_off": 33
   },
   "B0FL6ZD3WL": {
     "first_seen": "2026-07-29",
@@ -594,6 +601,27 @@
     "title": "アイリスオーヤマ 過熱水蒸気 エア フライヤー 3L 2～3人用 ノンオイルフライヤー スチーム機能 ジューシー FV-M30A-C アイボリー",
     "percent_off": 42
   },
+  "B0FJS3P8NT": {
+    "first_seen": "2026-07-27",
+    "first_seen_at": "2026-07-27T12:00:00+09:00",
+    "last_seen": "2026-09-09",
+    "title": "UGREEN 45W USB-C*4+USB-A*1 急速充電器 Type-C GaNⅡ タイプc PSE適合/PD3.0/PPS/SCP/QC3.0",
+    "percent_off": null
+  },
+  "B088KGD4L7": {
+    "first_seen": "2026-09-08",
+    "first_seen_at": "2026-09-08T03:15:02+09:00",
+    "last_seen": "2026-09-09",
+    "title": "KIOXIA(キオクシア) 旧東芝メモリ microSD 32GB UHS-I対応 Class10 microSDHC (転送速度50MB/s) 国内サポート正規品 メーカー保証3年 KTHN-MW032G",
+    "percent_off": 15
+  },
+  "B0FQBQP9RK": {
+    "first_seen": "2026-09-08",
+    "first_seen_at": "2026-09-08T22:15:08+09:00",
+    "last_seen": "2026-09-09",
+    "title": "【Amazon.co.jp限定】 SwitchBot スマートリモコン ハブミニ(Matter対応) 温湿度管理 パネル - スイッチボット エアコン操作 赤外線家電を管理 温湿度計 スマートホーム アラート通知 節電·省エネ",
+    "percent_off": 14
+  },
   "B0FL77NZXM": {
     "first_seen": "2026-07-29",
     "first_seen_at": "2026-07-29T12:00:00+09:00",
@@ -635,13 +663,6 @@
     "last_seen": "2026-09-09",
     "title": "【セット販売】【超小型】SwitchBot ロボット掃除機 K11+ ホワイト＋サイドブラシ（4個セット）",
     "percent_off": 18
-  },
-  "B0FJRGKP9F": {
-    "first_seen": "2026-09-04",
-    "first_seen_at": "2026-09-04T20:14:57+09:00",
-    "last_seen": "2026-09-09",
-    "title": "【リニューアル】 エレコム ワイヤレスマウス 静音 充電式 OSMOD Six Bluetooth 無線2.4GHz両対応 2台まで接続 マルチペアリング 6ボタン ブルー M-MY35MBSABU",
-    "percent_off": 33
   },
   "B0FGNQRYPK": {
     "first_seen": "2026-09-07",
@@ -832,13 +853,6 @@
     "title": "ロジクール SIGNATURE SLIM ワイヤレス キーボード K950OW 薄型 静かなタイピング Bluetooth Logi Bolt ワイヤレスキーボード テンキー 無線 Easy-Switch 日本語配列 電池寿命36ケ月 Windows Mac Chrome Android K950 オフホワイト 国内正規品",
     "percent_off": 15
   },
-  "B0DMN885ZF": {
-    "first_seen": "2026-08-05",
-    "first_seen_at": "2026-08-05T03:07:44+09:00",
-    "last_seen": "2026-09-08",
-    "title": "UGREEN 45W USB-C 急速充電器 Type-C PD GaNⅡ充電器 PSE適合タイプc充電器 PD/PPS/SCP/QC3.0",
-    "percent_off": null
-  },
   "B0F1SY6KYC": {
     "first_seen": "2026-08-25",
     "first_seen_at": "2026-08-25T04:01:19+09:00",
@@ -859,13 +873,6 @@
     "last_seen": "2026-09-08",
     "title": "Apple 13インチiPad Air（M4）：Liquid Retinaディスプレイ、1TB、12MPフロント/バックカメラ、Apple N1によるWi-Fi 7 + 5Gモバイル通信、Touch ID、一日中使えるバッテリー — スペースグレイ + 2年延長 AppleCare+ for iPad Air 13-inch (M4)|ダウンロード版",
     "percent_off": 5
-  },
-  "B0CH2X5LBX": {
-    "first_seen": "2026-07-30",
-    "first_seen_at": "2026-07-30T12:00:00+09:00",
-    "last_seen": "2026-09-08",
-    "title": "【Amazon.co.jp限定】 SanDisk microSD カード Ultra SDSQUAB-128G-GH3MA 簡易デザインパッケージ",
-    "percent_off": 17
   },
   "B0H8DQLFNW": {
     "first_seen": "2026-08-09",
@@ -1300,13 +1307,6 @@
     "last_seen": "2026-09-07",
     "title": "Anker Nano Power Bank (22.5W, Built-In USB-C Connector) ブラック",
     "percent_off": null
-  },
-  "B0GQRT3L1B": {
-    "first_seen": "2026-09-07",
-    "first_seen_at": "2026-09-07T07:14:36+09:00",
-    "last_seen": "2026-09-07",
-    "title": "【セット買い】SwitchBot スマートリモコン ハブミニ(Matter対応) スマートデイリーステーション 温湿度計 - スイッチボット 天気ステーション 遠隔確認 スマートホーム Alexa Google Home Siriに対応(ハブミニ(Matter対応) 1点+スマートデイリーステーション 1点)",
-    "percent_off": 14
   },
   "B08PTPTMH5": {
     "first_seen": "2026-08-28",
