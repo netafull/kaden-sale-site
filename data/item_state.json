@@ -237,13 +237,6 @@
     "title": "Anker Nano Charger (45W, Display, スイングプラグ) ブラック",
     "percent_off": null
   },
-  "B0DNT9Z2HS": {
-    "first_seen": "2026-07-27",
-    "first_seen_at": "2026-07-27T12:00:00+09:00",
-    "last_seen": "2026-09-10",
-    "title": "UGREEN 100W GaN 卓上急速充電器 (4*USB-C+2*USB-A) コンパクト【PSE技術基準適合/PD3.0/QC4.0/PPS対応】 複数台同時充電 iPhone17/16/15/14/13/Xperia/Pixel Pro/iPad/ノートPC MacBook Pro/Airなどに対応",
-    "percent_off": null
-  },
   "B0DG93MZCR": {
     "first_seen": "2026-07-27",
     "first_seen_at": "2026-07-27T12:00:00+09:00",
@@ -412,13 +405,6 @@
     "title": "HUAWEI WATCH GT 6 Pro 46mm スマートウォッチ 1.47インチ大画面 最長21日間バッテリー サイクリング/登山/進化したゴルフナビ スポーツモード100種類以上 GPS搭載 心電図分析 健康/情緒モニタリング iOS/Android対応 ブラック",
     "percent_off": 17
   },
-  "B0GX8DRYCX": {
-    "first_seen": "2026-09-03",
-    "first_seen_at": "2026-09-03T12:14:47+09:00",
-    "last_seen": "2026-09-10",
-    "title": "HUAWEI WATCH FIT 5 スマートウォッチ 薄型軽量 1.82インチ大画面 2500nits高輝度 10日間ロングバッテリー ワークアウト GPS内蔵 転倒検知 健康管理 心拍数 睡眠 情緒測定 iOS/アンドロイド対応 ブラック",
-    "percent_off": 16
-  },
   "B0GVJG7D7K": {
     "first_seen": "2026-07-31",
     "first_seen_at": "2026-07-31T12:00:00+09:00",
@@ -453,13 +439,6 @@
     "last_seen": "2026-09-10",
     "title": "ロジクール ワイヤレスマウス 静音 無線 高速スクロール Signature M750MGR レギュラー グラファイト M750 国内正規品",
     "percent_off": 36
-  },
-  "B0FJRGKP9F": {
-    "first_seen": "2026-09-04",
-    "first_seen_at": "2026-09-04T20:14:57+09:00",
-    "last_seen": "2026-09-10",
-    "title": "【リニューアル】 エレコム ワイヤレスマウス 静音 充電式 OSMOD Six Bluetooth 無線2.4GHz両対応 2台まで接続 マルチペアリング 6ボタン ブルー M-MY35MBSABU",
-    "percent_off": 33
   },
   "B0FL6ZD3WL": {
     "first_seen": "2026-07-29",
@@ -558,6 +537,27 @@
     "last_seen": "2026-09-10",
     "title": "アイリスオーヤマ 過熱水蒸気 エア フライヤー 3L 2～3人用 ノンオイルフライヤー スチーム機能 ジューシー FV-M30A-C アイボリー",
     "percent_off": 42
+  },
+  "B0DNT9Z2HS": {
+    "first_seen": "2026-07-27",
+    "first_seen_at": "2026-07-27T12:00:00+09:00",
+    "last_seen": "2026-09-10",
+    "title": "UGREEN 100W GaN 卓上急速充電器 (4*USB-C+2*USB-A) コンパクト【PSE技術基準適合/PD3.0/QC4.0/PPS対応】 複数台同時充電 iPhone17/16/15/14/13/Xperia/Pixel Pro/iPad/ノートPC MacBook Pro/Airなどに対応",
+    "percent_off": null
+  },
+  "B0GX8DRYCX": {
+    "first_seen": "2026-09-03",
+    "first_seen_at": "2026-09-03T12:14:47+09:00",
+    "last_seen": "2026-09-10",
+    "title": "HUAWEI WATCH FIT 5 スマートウォッチ 薄型軽量 1.82インチ大画面 2500nits高輝度 10日間ロングバッテリー ワークアウト GPS内蔵 転倒検知 健康管理 心拍数 睡眠 情緒測定 iOS/アンドロイド対応 ブラック",
+    "percent_off": 16
+  },
+  "B0FJRGKP9F": {
+    "first_seen": "2026-09-04",
+    "first_seen_at": "2026-09-04T20:14:57+09:00",
+    "last_seen": "2026-09-10",
+    "title": "【リニューアル】 エレコム ワイヤレスマウス 静音 充電式 OSMOD Six Bluetooth 無線2.4GHz両対応 2台まで接続 マルチペアリング 6ボタン ブルー M-MY35MBSABU",
+    "percent_off": 33
   },
   "B0DMN885ZF": {
     "first_seen": "2026-08-05",
