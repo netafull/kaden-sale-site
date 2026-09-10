@@ -13,13 +13,6 @@
     "title": "Apple AirTag 4個入り（第2世代）：紛失防止タグ、音で探せる、耐水 防塵 iPhone/iPad「探す」ネットワーク対応 、探せる範囲が最大1.5 倍に広がった「正確な場所を見つける」機能搭載",
     "percent_off": 15
   },
-  "B0FQFHZ5KH": {
-    "first_seen": "2026-07-31",
-    "first_seen_at": "2026-07-31T12:00:00+09:00",
-    "last_seen": "2026-09-10",
-    "title": "Apple iPhone Air 512GB (SIMフリー)：史上最薄のiPhone、最大120HzのProMotionを採用した6.5インチディスプレイ、パワフルなA19 Proチップ、センターフレームフロントカメラ、一日中使えるバッテリー；スペースブラック",
-    "percent_off": null
-  },
   "B0FQFPZW9G": {
     "first_seen": "2026-07-31",
     "first_seen_at": "2026-07-31T12:00:00+09:00",
@@ -76,13 +69,6 @@
     "title": "Bose QuietComfort Ultra Earbuds (第2世代) ワイヤレス ノイズキャンセリング Bluetooth イヤホン 最長6時間連続再生 IPX4規格準拠 イマーシブオーディオ 迫力の重低音 ブラック",
     "percent_off": 14
   },
-  "B0F6NC41DZ": {
-    "first_seen": "2026-08-06",
-    "first_seen_at": "2026-08-06T21:18:24+09:00",
-    "last_seen": "2026-09-10",
-    "title": "UGREEN Air モバイルバッテリー 10000mAh 薄型 Qi2 15W MagSafe対応 ケーブル内蔵",
-    "percent_off": 25
-  },
   "B0D4F34SB4": {
     "first_seen": "2026-07-24",
     "first_seen_at": "2026-07-24T12:00:00+09:00",
@@ -103,6 +89,13 @@
     "last_seen": "2026-09-10",
     "title": "Belkin Apple Watch充電器一体型 モバイルバッテリー 3C 認証 10000mAh 45W USB-Cケーブル内蔵 3台同時充電",
     "percent_off": 19
+  },
+  "B0F6NC41DZ": {
+    "first_seen": "2026-08-06",
+    "first_seen_at": "2026-08-06T21:18:24+09:00",
+    "last_seen": "2026-09-10",
+    "title": "UGREEN Air モバイルバッテリー 10000mAh 薄型 Qi2 15W MagSafe ケーブル内蔵 iPhone18Pro対応",
+    "percent_off": null
   },
   "B0G4Q8ZDF3": {
     "first_seen": "2026-07-31",
@@ -237,6 +230,13 @@
     "title": "Anker Nano Charger (45W, Display, スイングプラグ) ブラック",
     "percent_off": null
   },
+  "B0DNT9Z2HS": {
+    "first_seen": "2026-07-27",
+    "first_seen_at": "2026-07-27T12:00:00+09:00",
+    "last_seen": "2026-09-10",
+    "title": "UGREEN 100W GaN 卓上急速充電器 (4*USB-C+2*USB-A) コンパクト【PSE技術基準適合/PD3.0/QC4.0/PPS対応】 複数台同時充電 iPhone17/16/15/14/13/Xperia/Pixel Pro/iPad/ノートPC MacBook Pro/Airなどに対応",
+    "percent_off": null
+  },
   "B0DG93MZCR": {
     "first_seen": "2026-07-27",
     "first_seen_at": "2026-07-27T12:00:00+09:00",
@@ -269,7 +269,7 @@
     "first_seen": "2026-07-31",
     "first_seen_at": "2026-07-31T12:00:00+09:00",
     "last_seen": "2026-09-10",
-    "title": "Belkin Cubic Charger 45W 充電器 type-c iphone 充電器 急速充電 PD3.2 PPS対応 ホワイト",
+    "title": "Belkin Cubic Charger 45W 充電器 type-c iphone18対応 充電器 急速充電 PD3.2 PPS対応 ホワイト",
     "percent_off": 15
   },
   "B0FB2F95HY": {
@@ -349,6 +349,13 @@
     "title": "SwitchBot サーキュレーター Lite 静音 首振り - スイッチボット 扇風機 ~30畳 DCモーター 省エネ 無段階風量調整 リモコン付き Alexa Google Home Siriに対応",
     "percent_off": 18
   },
+  "B0C9TKSP8V": {
+    "first_seen": "2026-07-30",
+    "first_seen_at": "2026-07-30T12:00:00+09:00",
+    "last_seen": "2026-09-10",
+    "title": "【節電対策】SwitchBot サーキュレーター 静音22dB コードレス 最大50時間 - スイッチボット ~30畳 Alexa対応 扇風機 DCモーター 3D首振り 無段階風量調整 充電式バッテリー搭載 リモコン付き 梅雨対策 省エネ",
+    "percent_off": 15
+  },
   "B0GQRLL8Q4": {
     "first_seen": "2026-07-30",
     "first_seen_at": "2026-07-30T12:00:00+09:00",
@@ -377,6 +384,13 @@
     "title": "Amazfit Active Max 48mm スマートウォッチ ハイブリッドトレーニング HYROX ヤマレコ ヤマップ 3000nit高輝度 GPS 5衛星 オフラインマップ AIによる音声操作と睡眠/運動管理 心拍 睡眠 健康管理 170+スポーツモード ナビゲーション ルートインポート5ATM防水 Max 25日間バッテリー持続 丸型",
     "percent_off": null
   },
+  "B0BWF463MW": {
+    "first_seen": "2026-08-04",
+    "first_seen_at": "2026-08-04T12:38:09+09:00",
+    "last_seen": "2026-09-10",
+    "title": "GARMIN（ガーミン）GPSランニングウォッチ Forerunner 965 Amp Yellow 【日本正規品】",
+    "percent_off": 19
+  },
   "B0DQ7MJ8P3": {
     "first_seen": "2026-08-22",
     "first_seen_at": "2026-08-22T00:50:58+09:00",
@@ -384,12 +398,19 @@
     "title": "HUAWEI WATCH D2 ウェアラブル血圧計LCA-B10:ブラック",
     "percent_off": 18
   },
+  "B0GZ294HH3": {
+    "first_seen": "2026-08-16",
+    "first_seen_at": "2026-08-16T00:38:29+09:00",
+    "last_seen": "2026-09-10",
+    "title": "GARMIN(ガーミン)スマートウォッチ Forerunner 170 Black/Amp Yellow スマートウォッチモード 約 10 日間 高精度GPS ランニングウォッチ iOS/Android AMOLEDディスプレイ1.2インチ マラソン 軽量 防水 心拍数 睡眠スコア 健康管理 Suicaタッチ決済 Garmin Pay",
+    "percent_off": 17
+  },
   "B0FKH3WQ41": {
     "first_seen": "2026-07-30",
     "first_seen_at": "2026-07-30T12:00:00+09:00",
     "last_seen": "2026-09-10",
     "title": "HUAWEI WATCH GT 6 Pro 46mm スマートウォッチ 1.47インチ大画面 最長21日間バッテリー サイクリング/登山/進化したゴルフナビ スポーツモード100種類以上 GPS搭載 心電図分析 健康/情緒モニタリング iOS/Android対応 ブラック",
-    "percent_off": 17
+    "percent_off": 18
   },
   "B0GX8DRYCX": {
     "first_seen": "2026-09-03",
@@ -419,13 +440,6 @@
     "title": "XREAL xbx a01+とXREAL Beam Pro Wi-Fi版(6+128GB) 空間エンタメセット",
     "percent_off": 15
   },
-  "B0CTMRXLM7": {
-    "first_seen": "2026-09-10",
-    "first_seen_at": "2026-09-10T11:14:54+09:00",
-    "last_seen": "2026-09-10",
-    "title": "Kindle Paperwhite シグニチャーエディション (32GB) 7インチディスプレイ、明るさ自動調整、色調調節ライト、12週間持続バッテリー、広告なし、メタリックジェード + Kindle Unlimited（3ヵ月分。以降自動更新）",
-    "percent_off": 27
-  },
   "B0B1Q636K7": {
     "first_seen": "2026-07-26",
     "first_seen_at": "2026-07-26T12:00:00+09:00",
@@ -439,6 +453,13 @@
     "last_seen": "2026-09-10",
     "title": "ロジクール ワイヤレスマウス 静音 無線 高速スクロール Signature M750MGR レギュラー グラファイト M750 国内正規品",
     "percent_off": 36
+  },
+  "B0FJRGKP9F": {
+    "first_seen": "2026-09-04",
+    "first_seen_at": "2026-09-04T20:14:57+09:00",
+    "last_seen": "2026-09-10",
+    "title": "【リニューアル】 エレコム ワイヤレスマウス 静音 充電式 OSMOD Six Bluetooth 無線2.4GHz両対応 2台まで接続 マルチペアリング 6ボタン ブルー M-MY35MBSABU",
+    "percent_off": 33
   },
   "B0FL6ZD3WL": {
     "first_seen": "2026-07-29",
@@ -538,6 +559,20 @@
     "title": "アイリスオーヤマ 過熱水蒸気 エア フライヤー 3L 2～3人用 ノンオイルフライヤー スチーム機能 ジューシー FV-M30A-C アイボリー",
     "percent_off": 42
   },
+  "B0FQFHZ5KH": {
+    "first_seen": "2026-07-31",
+    "first_seen_at": "2026-07-31T12:00:00+09:00",
+    "last_seen": "2026-09-10",
+    "title": "Apple iPhone Air 512GB (SIMフリー)：史上最薄のiPhone、最大120HzのProMotionを採用した6.5インチディスプレイ、パワフルなA19 Proチップ、センターフレームフロントカメラ、一日中使えるバッテリー；スペースブラック",
+    "percent_off": null
+  },
+  "B0CTMRXLM7": {
+    "first_seen": "2026-09-10",
+    "first_seen_at": "2026-09-10T11:14:54+09:00",
+    "last_seen": "2026-09-10",
+    "title": "Kindle Paperwhite シグニチャーエディション (32GB) 7インチディスプレイ、明るさ自動調整、色調調節ライト、12週間持続バッテリー、広告なし、メタリックジェード + Kindle Unlimited（3ヵ月分。以降自動更新）",
+    "percent_off": 27
+  },
   "B0CX4C1TVK": {
     "first_seen": "2026-07-27",
     "first_seen_at": "2026-07-27T12:00:00+09:00",
@@ -558,34 +593,6 @@
     "last_seen": "2026-09-10",
     "title": "SwitchBot 空気清浄機Table スマートリモコン ハブ2 アレクサ - スイッチボット 25畳 小型 省エネ 大風量 360度全方位 浄化 消臭 除菌 集じん HEPA フィルター 花粉 ニオイ対策 タイマー機能 Alexa Google Home Siriに対応 (空気清浄機Table 1点+ハブ2 1点)",
     "percent_off": 28
-  },
-  "B0BWF463MW": {
-    "first_seen": "2026-08-04",
-    "first_seen_at": "2026-08-04T12:38:09+09:00",
-    "last_seen": "2026-09-10",
-    "title": "GARMIN（ガーミン）GPSランニングウォッチ Forerunner 965 Amp Yellow 【日本正規品】",
-    "percent_off": 19
-  },
-  "B0GZ294HH3": {
-    "first_seen": "2026-08-16",
-    "first_seen_at": "2026-08-16T00:38:29+09:00",
-    "last_seen": "2026-09-10",
-    "title": "GARMIN(ガーミン)スマートウォッチ Forerunner 170 Black/Amp Yellow スマートウォッチモード 約 10 日間 高精度GPS ランニングウォッチ iOS/Android AMOLEDディスプレイ1.2インチ マラソン 軽量 防水 心拍数 睡眠スコア 健康管理 Suicaタッチ決済 Garmin Pay",
-    "percent_off": 17
-  },
-  "B0DNT9Z2HS": {
-    "first_seen": "2026-07-27",
-    "first_seen_at": "2026-07-27T12:00:00+09:00",
-    "last_seen": "2026-09-10",
-    "title": "UGREEN 100W GaN 卓上急速充電器 (4*USB-C+2*USB-A) コンパクト【PSE技術基準適合/PD3.0/QC4.0/PPS対応】 複数台同時充電 iPhone17/16/15/14/13/Xperia/Pixel Pro/iPad/ノートPC MacBook Pro/Airなどに対応",
-    "percent_off": null
-  },
-  "B0FJRGKP9F": {
-    "first_seen": "2026-09-04",
-    "first_seen_at": "2026-09-04T20:14:57+09:00",
-    "last_seen": "2026-09-10",
-    "title": "【リニューアル】 エレコム ワイヤレスマウス 静音 充電式 OSMOD Six Bluetooth 無線2.4GHz両対応 2台まで接続 マルチペアリング 6ボタン ブルー M-MY35MBSABU",
-    "percent_off": 33
   },
   "B0DMN885ZF": {
     "first_seen": "2026-08-05",
@@ -915,13 +922,6 @@
     "last_seen": "2026-09-09",
     "title": "KIOXIA(キオクシア) 旧東芝メモリ microSD 32GB UHS-I対応 Class10 microSDHC (転送速度50MB/s) 国内サポート正規品 メーカー保証3年 KTHN-MW032G",
     "percent_off": 15
-  },
-  "B0C9TKSP8V": {
-    "first_seen": "2026-07-30",
-    "first_seen_at": "2026-07-30T12:00:00+09:00",
-    "last_seen": "2026-09-09",
-    "title": "【節電対策】SwitchBot サーキュレーター 静音22dB コードレス 最大50時間 - スイッチボット ~30畳 Alexa対応 扇風機 DCモーター 3D首振り 無段階風量調整 充電式バッテリー搭載 リモコン付き 梅雨対策 省エネ",
-    "percent_off": 27
   },
   "B0D53Z4WX3": {
     "first_seen": "2026-09-04",
