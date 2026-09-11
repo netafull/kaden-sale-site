@@ -118,13 +118,6 @@
     "title": "エレコム モバイルバッテリー 10000mAh 大容量 急速充電 軽量 小型 残量表示 LEDパネル 22.5W PD対応 PPS対応 USB-C USB-A 2ポート パススルー充電 PSE認証 iPhone iPad ブラック EC-C65LBK",
     "percent_off": 15
   },
-  "B0DVSXP3V7": {
-    "first_seen": "2026-09-03",
-    "first_seen_at": "2026-09-03T23:14:55+09:00",
-    "last_seen": "2026-09-12",
-    "title": "Belkin モバイルバッテリー 軽量 10000mAh 20W USB-Cケーブル内蔵 2台同時充電 ディズニーズートピア",
-    "percent_off": 7
-  },
   "B0CLGZGXMD": {
     "first_seen": "2026-07-27",
     "first_seen_at": "2026-07-27T12:00:00+09:00",
@@ -138,13 +131,6 @@
     "last_seen": "2026-09-12",
     "title": "Belkin USB充電器 40W iPhone17,16～12 デュアルUSB-C(20W x 2) PD3.0 急速充電対応 ホワイト WCB006dqWHJP",
     "percent_off": 47
-  },
-  "B0BF9ZYCQ5": {
-    "first_seen": "2026-07-31",
-    "first_seen_at": "2026-07-31T12:00:00+09:00",
-    "last_seen": "2026-09-12",
-    "title": "【VGP受賞】Belkin 充電器 USB-C 2ポート PPS規格対応 GaN採用 小型 ACアダプター タイプC 急速充電 軽量【PD3.0対応 /PSE認証/折りたたみ式プラグ】45W(25W+20W) MacBook Windows PC Surface Pro iPad iPhone 17,16～12対応 Galaxy Android スマホ 各種ノートPC対応 WCH011dqWH",
-    "percent_off": 41
   },
   "B0FL1S48XY": {
     "first_seen": "2026-09-08",
@@ -593,6 +579,20 @@
     "last_seen": "2026-09-12",
     "title": "アイリスオーヤマ 過熱水蒸気 エア フライヤー 3L 2～3人用 ノンオイルフライヤー スチーム機能 ジューシー FV-M30A-C アイボリー",
     "percent_off": 42
+  },
+  "B0DVSXP3V7": {
+    "first_seen": "2026-09-03",
+    "first_seen_at": "2026-09-03T23:14:55+09:00",
+    "last_seen": "2026-09-12",
+    "title": "Belkin モバイルバッテリー 軽量 10000mAh 20W USB-Cケーブル内蔵 2台同時充電 ディズニーズートピア",
+    "percent_off": 7
+  },
+  "B0BF9ZYCQ5": {
+    "first_seen": "2026-07-31",
+    "first_seen_at": "2026-07-31T12:00:00+09:00",
+    "last_seen": "2026-09-12",
+    "title": "【VGP受賞】Belkin 充電器 USB-C 2ポート PPS規格対応 GaN採用 小型 ACアダプター タイプC 急速充電 軽量【PD3.0対応 /PSE認証/折りたたみ式プラグ】45W(25W+20W) MacBook Windows PC Surface Pro iPad iPhone 17,16～12対応 Galaxy Android スマホ 各種ノートPC対応 WCH011dqWH",
+    "percent_off": 41
   },
   "B0B2QR8HN9": {
     "first_seen": "2026-08-09",
