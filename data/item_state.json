@@ -167,13 +167,6 @@
     "title": "CIO NovaPort TRIOⅡ 65W 2C1A PD急速充電器 USB-C×2+USB-A×1 3台同時充電 世界最小級（ブラック）",
     "percent_off": null
   },
-  "B0B2QQDKR8": {
-    "first_seen": "2026-07-27",
-    "first_seen_at": "2026-07-27T12:00:00+09:00",
-    "last_seen": "2026-09-13",
-    "title": "Anker 511 Charger (Nano 3, 30W) ブラック",
-    "percent_off": null
-  },
   "B0D9QP375K": {
     "first_seen": "2026-08-31",
     "first_seen_at": "2026-08-31T01:14:33+09:00",
@@ -187,13 +180,6 @@
     "last_seen": "2026-09-13",
     "title": "Anker Prime Charger (100W, 3 Ports, GaN)",
     "percent_off": 30
-  },
-  "B0BF43HS1G": {
-    "first_seen": "2026-07-27",
-    "first_seen_at": "2026-07-27T12:00:00+09:00",
-    "last_seen": "2026-09-13",
-    "title": "Anker 523 Charger (Nano 3, 47W) ホワイト",
-    "percent_off": null
   },
   "B091BGMKYS": {
     "first_seen": "2026-07-27",
@@ -214,13 +200,6 @@
     "first_seen_at": "2026-07-27T12:00:00+09:00",
     "last_seen": "2026-09-13",
     "title": "UGREEN PD充電器 type-c 30W 2*USB-C+1*USB-A GaN PSE適合/PD3.0 タイプc充電器 GaNⅡ type c",
-    "percent_off": 25
-  },
-  "B0GF24NN7N": {
-    "first_seen": "2026-09-08",
-    "first_seen_at": "2026-09-08T21:14:34+09:00",
-    "last_seen": "2026-09-13",
-    "title": "Anker Nano Charger (45W, Display, スイングプラグ) ホワイト",
     "percent_off": 25
   },
   "B0F99FCSX7": {
@@ -586,6 +565,27 @@
     "last_seen": "2026-09-13",
     "title": "アイリスオーヤマ 過熱水蒸気 エア フライヤー 3L 2～3人用 ノンオイルフライヤー スチーム機能 ジューシー FV-M30A-C アイボリー",
     "percent_off": 42
+  },
+  "B0B2QQDKR8": {
+    "first_seen": "2026-07-27",
+    "first_seen_at": "2026-07-27T12:00:00+09:00",
+    "last_seen": "2026-09-13",
+    "title": "Anker 511 Charger (Nano 3, 30W) ブラック",
+    "percent_off": null
+  },
+  "B0BF43HS1G": {
+    "first_seen": "2026-07-27",
+    "first_seen_at": "2026-07-27T12:00:00+09:00",
+    "last_seen": "2026-09-13",
+    "title": "Anker 523 Charger (Nano 3, 47W) ホワイト",
+    "percent_off": null
+  },
+  "B0GF24NN7N": {
+    "first_seen": "2026-09-08",
+    "first_seen_at": "2026-09-08T21:14:34+09:00",
+    "last_seen": "2026-09-13",
+    "title": "Anker Nano Charger (45W, Display, スイングプラグ) ホワイト",
+    "percent_off": 25
   },
   "B0FL77NZXM": {
     "first_seen": "2026-07-29",
