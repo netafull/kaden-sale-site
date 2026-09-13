@@ -209,6 +209,13 @@
     "title": "CIO NovaPort DUOⅡ 65W PD急速充電器 USB-C×2 2台同時充電 世界最小級（ブラック）",
     "percent_off": null
   },
+  "B0FYFDD1WW": {
+    "first_seen": "2026-09-14",
+    "first_seen_at": "2026-09-14T07:14:41+09:00",
+    "last_seen": "2026-09-14",
+    "title": "UGREEN 160W 5口充電器 カラーディスプレイ搭載 Type-C 4C1A 5ポート PD3.2/PPS5A/QC4対応 折り畳み式",
+    "percent_off": 27
+  },
   "B0DG93MZCR": {
     "first_seen": "2026-07-27",
     "first_seen_at": "2026-07-27T12:00:00+09:00",
@@ -243,13 +250,6 @@
     "last_seen": "2026-09-14",
     "title": "UGREEN 100W GaN 卓上急速充電器 (4*USB-C+2*USB-A) コンパクト【PSE技術基準適合/PD3.0/QC4.0/PPS対応】 複数台同時充電 iPhone17/16/15/14/13/Xperia/Pixel Pro/iPad/ノートPC MacBook Pro/Airなどに対応",
     "percent_off": 25
-  },
-  "B0FH28F7SJ": {
-    "first_seen": "2026-09-13",
-    "first_seen_at": "2026-09-13T19:14:35+09:00",
-    "last_seen": "2026-09-14",
-    "title": "Belkin Qi2 25W ワイヤレス充電器 MagSafe対応 3in1充電スタンド iPhone 18・Apple Watch対応 3台同時充電",
-    "percent_off": 19
   },
   "B0DMCPT5PV": {
     "first_seen": "2026-09-04",
@@ -291,7 +291,7 @@
     "first_seen_at": "2026-08-29T03:42:48+09:00",
     "last_seen": "2026-09-14",
     "title": "LG 有機EL ゲーミング モニター 27GX700A-B 26.5インチ/WQHD@280Hz/タンデムOLED/0.03ms/HDR TB500",
-    "percent_off": 28
+    "percent_off": 29
   },
   "B0DT3NLNCC": {
     "first_seen": "2026-08-02",
@@ -496,13 +496,6 @@
     "title": "ロジクール ワイヤレスマウス 静音 無線 高速スクロール Signature M750MGR レギュラー グラファイト M750 国内正規品",
     "percent_off": 36
   },
-  "B0FJRGKP9F": {
-    "first_seen": "2026-09-04",
-    "first_seen_at": "2026-09-04T20:14:57+09:00",
-    "last_seen": "2026-09-14",
-    "title": "【リニューアル】 エレコム ワイヤレスマウス 静音 充電式 OSMOD Six Bluetooth 無線2.4GHz両対応 2台まで接続 マルチペアリング 6ボタン ブルー M-MY35MBSABU",
-    "percent_off": 33
-  },
   "B0FL6ZD3WL": {
     "first_seen": "2026-07-29",
     "first_seen_at": "2026-07-29T12:00:00+09:00",
@@ -600,6 +593,20 @@
     "last_seen": "2026-09-14",
     "title": "アイリスオーヤマ 過熱水蒸気 エア フライヤー 3L 2～3人用 ノンオイルフライヤー スチーム機能 ジューシー FV-M30A-C アイボリー",
     "percent_off": 42
+  },
+  "B0FH28F7SJ": {
+    "first_seen": "2026-09-13",
+    "first_seen_at": "2026-09-13T19:14:35+09:00",
+    "last_seen": "2026-09-14",
+    "title": "Belkin Qi2 25W ワイヤレス充電器 MagSafe対応 3in1充電スタンド iPhone 18・Apple Watch対応 3台同時充電",
+    "percent_off": 19
+  },
+  "B0FJRGKP9F": {
+    "first_seen": "2026-09-04",
+    "first_seen_at": "2026-09-04T20:14:57+09:00",
+    "last_seen": "2026-09-14",
+    "title": "【リニューアル】 エレコム ワイヤレスマウス 静音 充電式 OSMOD Six Bluetooth 無線2.4GHz両対応 2台まで接続 マルチペアリング 6ボタン ブルー M-MY35MBSABU",
+    "percent_off": 33
   },
   "B0H8DQLFNW": {
     "first_seen": "2026-08-09",
