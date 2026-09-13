@@ -111,12 +111,12 @@
     "title": "Belkin MagSafe対応 モバイルバッテリー 軽量 5000mAh USB-C 15W 薄型 iPhone対応 ブラック",
     "percent_off": 19
   },
-  "B0H1C39K7X": {
+  "B0H1BTP834": {
     "first_seen": "2026-09-09",
-    "first_seen_at": "2026-09-09T21:14:51+09:00",
+    "first_seen_at": "2026-09-09T02:14:40+09:00",
     "last_seen": "2026-09-13",
-    "title": "エレコム モバイルバッテリー 10000mAh 大容量 軽量 小型 残量表示 LEDパネル 1%単位 15W USB-C USB-A 2ポート パススルー充電 PSE認証 iPhone iPad Android対応 しろちゃん EC-C64LWF",
-    "percent_off": 17
+    "title": "エレコム モバイルバッテリー 10000mAh 大容量 急速充電 軽量 小型 残量表示 LEDパネル 22.5W PD対応 PPS対応 USB-C USB-A 2ポート パススルー充電 PSE認証 iPhone iPad ブラック EC-C65LBK",
+    "percent_off": 15
   },
   "B0H38B1MLQ": {
     "first_seen": "2026-09-12",
@@ -132,13 +132,6 @@
     "title": "Belkin USB充電器 40W iPhone17,16～12 デュアルUSB-C(20W x 2) PD3.0 急速充電対応 ホワイト WCB006dqWHJP",
     "percent_off": 47
   },
-  "B0CMQK8CMJ": {
-    "first_seen": "2026-08-05",
-    "first_seen_at": "2026-08-05T21:15:31+09:00",
-    "last_seen": "2026-09-13",
-    "title": "UGREEN NexodeX 100W GaNII充電器 USB-C*2+USB-A タイプC Type-C 急速充電器 PD3.0/PPS/QC4+",
-    "percent_off": 45
-  },
   "B0BF9ZYCQ5": {
     "first_seen": "2026-07-31",
     "first_seen_at": "2026-07-31T12:00:00+09:00",
@@ -152,6 +145,13 @@
     "last_seen": "2026-09-13",
     "title": "Anker Zolo Charger (70W, 4 Ports) ブラック",
     "percent_off": 39
+  },
+  "B0CLGZGXMD": {
+    "first_seen": "2026-07-27",
+    "first_seen_at": "2026-07-27T12:00:00+09:00",
+    "last_seen": "2026-09-13",
+    "title": "UGREEN Nexode【当社比最小】65W PD充電器 USB-C*2+USB-A*1 急速充電器 PSE適合 PD/PPS/QC4+対応",
+    "percent_off": null
   },
   "B0FVM1C19Y": {
     "first_seen": "2026-07-31",
@@ -328,12 +328,12 @@
     "title": "Dell S2725DC 27インチ モニター",
     "percent_off": 14
   },
-  "B0DYD1CZHM": {
-    "first_seen": "2026-08-22",
-    "first_seen_at": "2026-08-22T06:41:20+09:00",
+  "B0DYD1R49S": {
+    "first_seen": "2026-07-30",
+    "first_seen_at": "2026-07-30T12:00:00+09:00",
     "last_seen": "2026-09-13",
-    "title": "SwitchBot 空気清浄機 スマートリモコン ハブ2 アレクサ - スイッチボット 25畳 小型 省エネ 大風量 360度全方位 浄化 消臭 除菌 集じん HEPA フィルター 花粉 ニオイ対策 抜け毛対策 タイマー機能 Alexa Google Home Siriに対応 (空気清浄機 1点+ハブ2 1点)",
-    "percent_off": 23
+    "title": "SwitchBot 空気清浄機Table スマートリモコン ハブ2 アレクサ - スイッチボット 25畳 小型 省エネ 大風量 360度全方位 浄化 消臭 除菌 集じん HEPA フィルター 花粉 ニオイ対策 タイマー機能 Alexa Google Home Siriに対応 (空気清浄機Table 1点+ハブ2 1点)",
+    "percent_off": 28
   },
   "B0D9896MPY": {
     "first_seen": "2026-08-11",
@@ -461,6 +461,13 @@
     "title": "エレコム ワイヤレスキーボード Precisionist プレシジョニスト Bluetooth 無線2.4GHz マルチペアリング4台 充電式 薄型パンタグラフ式 ミニサイズ ブラック TK-PN1075MPABK",
     "percent_off": 23
   },
+  "B0FJRGKP9F": {
+    "first_seen": "2026-09-04",
+    "first_seen_at": "2026-09-04T20:14:57+09:00",
+    "last_seen": "2026-09-13",
+    "title": "【リニューアル】 エレコム ワイヤレスマウス 静音 充電式 OSMOD Six Bluetooth 無線2.4GHz両対応 2台まで接続 マルチペアリング 6ボタン ブルー M-MY35MBSABU",
+    "percent_off": 33
+  },
   "B0FL6ZD3WL": {
     "first_seen": "2026-07-29",
     "first_seen_at": "2026-07-29T12:00:00+09:00",
@@ -573,19 +580,26 @@
     "title": "アイリスオーヤマ 過熱水蒸気 エア フライヤー 3L 2～3人用 ノンオイルフライヤー スチーム機能 ジューシー FV-M30A-C アイボリー",
     "percent_off": 42
   },
-  "B0H1BTP834": {
+  "B0H1C39K7X": {
     "first_seen": "2026-09-09",
-    "first_seen_at": "2026-09-09T02:14:40+09:00",
+    "first_seen_at": "2026-09-09T21:14:51+09:00",
     "last_seen": "2026-09-13",
-    "title": "エレコム モバイルバッテリー 10000mAh 大容量 急速充電 軽量 小型 残量表示 LEDパネル 22.5W PD対応 PPS対応 USB-C USB-A 2ポート パススルー充電 PSE認証 iPhone iPad ブラック EC-C65LBK",
-    "percent_off": 15
+    "title": "エレコム モバイルバッテリー 10000mAh 大容量 軽量 小型 残量表示 LEDパネル 1%単位 15W USB-C USB-A 2ポート パススルー充電 PSE認証 iPhone iPad Android対応 しろちゃん EC-C64LWF",
+    "percent_off": 17
   },
-  "B0CLGZGXMD": {
-    "first_seen": "2026-07-27",
-    "first_seen_at": "2026-07-27T12:00:00+09:00",
+  "B0CMQK8CMJ": {
+    "first_seen": "2026-08-05",
+    "first_seen_at": "2026-08-05T21:15:31+09:00",
     "last_seen": "2026-09-13",
-    "title": "UGREEN Nexode【当社比最小】65W PD充電器 USB-C*2+USB-A*1 急速充電器 PSE適合 PD/PPS/QC4+対応",
-    "percent_off": null
+    "title": "UGREEN NexodeX 100W GaNII充電器 USB-C*2+USB-A タイプC Type-C 急速充電器 PD3.0/PPS/QC4+",
+    "percent_off": 45
+  },
+  "B0DYD1CZHM": {
+    "first_seen": "2026-08-22",
+    "first_seen_at": "2026-08-22T06:41:20+09:00",
+    "last_seen": "2026-09-13",
+    "title": "SwitchBot 空気清浄機 スマートリモコン ハブ2 アレクサ - スイッチボット 25畳 小型 省エネ 大風量 360度全方位 浄化 消臭 除菌 集じん HEPA フィルター 花粉 ニオイ対策 抜け毛対策 タイマー機能 Alexa Google Home Siriに対応 (空気清浄機 1点+ハブ2 1点)",
+    "percent_off": 23
   },
   "B0GHP2D9YF": {
     "first_seen": "2026-09-06",
@@ -593,20 +607,6 @@
     "last_seen": "2026-09-13",
     "title": "【セット販売】【超小型】SwitchBot ロボット掃除機 K11+ ホワイト＋サイドブラシ（4個セット）",
     "percent_off": 18
-  },
-  "B0DYD1R49S": {
-    "first_seen": "2026-07-30",
-    "first_seen_at": "2026-07-30T12:00:00+09:00",
-    "last_seen": "2026-09-13",
-    "title": "SwitchBot 空気清浄機Table スマートリモコン ハブ2 アレクサ - スイッチボット 25畳 小型 省エネ 大風量 360度全方位 浄化 消臭 除菌 集じん HEPA フィルター 花粉 ニオイ対策 タイマー機能 Alexa Google Home Siriに対応 (空気清浄機Table 1点+ハブ2 1点)",
-    "percent_off": 28
-  },
-  "B0FJRGKP9F": {
-    "first_seen": "2026-09-04",
-    "first_seen_at": "2026-09-04T20:14:57+09:00",
-    "last_seen": "2026-09-13",
-    "title": "【リニューアル】 エレコム ワイヤレスマウス 静音 充電式 OSMOD Six Bluetooth 無線2.4GHz両対応 2台まで接続 マルチペアリング 6ボタン ブルー M-MY35MBSABU",
-    "percent_off": 33
   },
   "B0DMN885ZF": {
     "first_seen": "2026-08-05",
