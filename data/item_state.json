@@ -167,11 +167,11 @@
     "title": "Anker Power Bank (20000mAh, 87W, Built-In USB-C ケーブル) ブラック",
     "percent_off": 32
   },
-  "B0G2S9LVS4": {
+  "B0F37VLJQW": {
     "first_seen": "2026-09-15",
-    "first_seen_at": "2026-09-15T00:14:54+09:00",
+    "first_seen_at": "2026-09-15T02:14:33+09:00",
     "last_seen": "2026-09-15",
-    "title": "UGREEN MagFlow Qi2 25W認証 モバイルバッテリー Magsafe マグネット式ワイヤレス急速充電 10000mAh ブラック",
+    "title": "UGREEN MagFlow Qi2 25W認証 モバイルバッテリー Magsafe マグネット式ワイヤレス急速充電 10000mAh 水色",
     "percent_off": 30
   },
   "B0G4Q8ZDF3": {
@@ -265,6 +265,13 @@
     "title": "Anker Prime Charger (100W, 3 Ports, GaN)",
     "percent_off": 33
   },
+  "B0B2QQDKR8": {
+    "first_seen": "2026-07-27",
+    "first_seen_at": "2026-07-27T12:00:00+09:00",
+    "last_seen": "2026-09-15",
+    "title": "Anker 511 Charger (Nano 3, 30W) ブラック",
+    "percent_off": null
+  },
   "B0BF43HS1G": {
     "first_seen": "2026-07-27",
     "first_seen_at": "2026-07-27T12:00:00+09:00",
@@ -349,12 +356,12 @@
     "title": "エレコム 充電器 合計65W 3ポート Type-C USB-A USB PD対応 スイング式プラグ採用 ブラック EC-AC10367BK",
     "percent_off": 14
   },
-  "B0B2QR2VC9": {
-    "first_seen": "2026-09-03",
-    "first_seen_at": "2026-09-03T21:15:01+09:00",
+  "B00CRVXR14": {
+    "first_seen": "2026-08-31",
+    "first_seen_at": "2026-08-31T06:14:59+09:00",
     "last_seen": "2026-09-15",
-    "title": "Anker 511 Charger (Nano 3, 30W) グリーン",
-    "percent_off": null
+    "title": "BUFFALO microSDカード->SDカード変換アダプター BSCRMSDA",
+    "percent_off": 49
   },
   "B0DMN94Q8M": {
     "first_seen": "2026-08-02",
@@ -664,12 +671,19 @@
     "title": "アイリスオーヤマ 過熱水蒸気 エア フライヤー 3L 2～3人用 ノンオイルフライヤー スチーム機能 ジューシー FV-M30A-C アイボリー",
     "percent_off": 42
   },
-  "B0F37VLJQW": {
+  "B0G2S9LVS4": {
     "first_seen": "2026-09-15",
-    "first_seen_at": "2026-09-15T02:14:33+09:00",
+    "first_seen_at": "2026-09-15T00:14:54+09:00",
     "last_seen": "2026-09-15",
-    "title": "UGREEN MagFlow Qi2 25W認証 モバイルバッテリー Magsafe マグネット式ワイヤレス急速充電 10000mAh 水色",
+    "title": "UGREEN MagFlow Qi2 25W認証 モバイルバッテリー Magsafe マグネット式ワイヤレス急速充電 10000mAh ブラック",
     "percent_off": 30
+  },
+  "B0B2QR2VC9": {
+    "first_seen": "2026-09-03",
+    "first_seen_at": "2026-09-03T21:15:01+09:00",
+    "last_seen": "2026-09-15",
+    "title": "Anker 511 Charger (Nano 3, 30W) グリーン",
+    "percent_off": null
   },
   "B0H1BYKWRV": {
     "first_seen": "2026-09-08",
@@ -923,13 +937,6 @@
     "title": "KIOXIA(キオクシア) 旧東芝メモリ microSD 32GB UHS-I対応 Class10 microSDHC (転送速度50MB/s) 国内サポート正規品 メーカー保証3年 KTHN-MW032G",
     "percent_off": 17
   },
-  "B0B2QQDKR8": {
-    "first_seen": "2026-07-27",
-    "first_seen_at": "2026-07-27T12:00:00+09:00",
-    "last_seen": "2026-09-14",
-    "title": "Anker 511 Charger (Nano 3, 30W) ブラック",
-    "percent_off": null
-  },
   "B0D53VKL36": {
     "first_seen": "2026-07-29",
     "first_seen_at": "2026-07-29T12:00:00+09:00",
@@ -957,13 +964,6 @@
     "last_seen": "2026-09-14",
     "title": "エレコム モバイルバッテリー 10000mAh 大容量 軽量 小型 残量表示 LEDパネル 1%単位 15W USB-C USB-A 2ポート パススルー充電 PSE認証 iPhone iPad Android対応 しろちゃん EC-C64LWF",
     "percent_off": 17
-  },
-  "B00CRVXR14": {
-    "first_seen": "2026-08-31",
-    "first_seen_at": "2026-08-31T06:14:59+09:00",
-    "last_seen": "2026-09-14",
-    "title": "BUFFALO microSDカード->SDカード変換アダプター BSCRMSDA",
-    "percent_off": 49
   },
   "B0FYFDD1WW": {
     "first_seen": "2026-09-14",
