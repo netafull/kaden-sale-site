@@ -160,13 +160,6 @@
     "title": "Anker Power Bank (20000mAh, 87W, Built-In USB-C ケーブル) ブラック",
     "percent_off": 32
   },
-  "B0F37VLJQW": {
-    "first_seen": "2026-09-15",
-    "first_seen_at": "2026-09-15T02:14:33+09:00",
-    "last_seen": "2026-09-15",
-    "title": "UGREEN MagFlow Qi2 25W認証 モバイルバッテリー Magsafe マグネット式ワイヤレス急速充電 10000mAh 水色",
-    "percent_off": 30
-  },
   "B0G4Q8ZDF3": {
     "first_seen": "2026-07-31",
     "first_seen_at": "2026-07-31T12:00:00+09:00",
@@ -222,6 +215,13 @@
     "last_seen": "2026-09-15",
     "title": "UGREEN NexodeX 100W GaNII充電器 USB-C*2+USB-A タイプC Type-C 急速充電器 PD3.0/PPS/QC4+",
     "percent_off": 45
+  },
+  "B0BF9ZYCQ5": {
+    "first_seen": "2026-07-31",
+    "first_seen_at": "2026-07-31T12:00:00+09:00",
+    "last_seen": "2026-09-15",
+    "title": "【VGP受賞】Belkin 充電器 USB-C 2ポート PPS規格対応 GaN採用 小型 ACアダプター タイプC 急速充電 軽量【PD3.0対応 /PSE認証/折りたたみ式プラグ】45W(25W+20W) MacBook Windows PC Surface Pro iPad iPhone 17,16～12対応 Galaxy Android スマホ 各種ノートPC対応 WCH011dqWH",
+    "percent_off": 41
   },
   "B0FL1S48XY": {
     "first_seen": "2026-09-08",
@@ -426,13 +426,6 @@
     "title": "HUAWEI WATCH FIT 4 スマートウォッチ 薄型軽量 1.82インチ大画面 アウトドアに適した気圧計と測位システム 通知 フィットネス ヘルストラッカー 情緒測定 10日間ロングバッテリー iOS/Android対応 ブラック",
     "percent_off": 22
   },
-  "B0BWF463MW": {
-    "first_seen": "2026-08-04",
-    "first_seen_at": "2026-08-04T12:38:09+09:00",
-    "last_seen": "2026-09-15",
-    "title": "GARMIN（ガーミン）GPSランニングウォッチ Forerunner 965 Amp Yellow 【日本正規品】",
-    "percent_off": 19
-  },
   "B0FKH3WQ41": {
     "first_seen": "2026-07-30",
     "first_seen_at": "2026-07-30T12:00:00+09:00",
@@ -538,12 +531,12 @@
     "title": "ロジクール ワイヤレスマウス 静音 無線 高速スクロール Signature M750MGR レギュラー グラファイト M750 国内正規品",
     "percent_off": 36
   },
-  "B0FL77NZXM": {
-    "first_seen": "2026-07-29",
-    "first_seen_at": "2026-07-29T12:00:00+09:00",
+  "B0FJRGKP9F": {
+    "first_seen": "2026-09-04",
+    "first_seen_at": "2026-09-04T20:14:57+09:00",
     "last_seen": "2026-09-15",
-    "title": "エレコム ワイヤレスキーボード Precisionist プレシジョニスト Bluetooth 無線2.4GHz マルチペアリング4台 充電式 薄型パンタグラフ式 ミニサイズ ブラック TK-PN1075MPABK",
-    "percent_off": 23
+    "title": "【リニューアル】 エレコム ワイヤレスマウス 静音 充電式 OSMOD Six Bluetooth 無線2.4GHz両対応 2台まで接続 マルチペアリング 6ボタン ブルー M-MY35MBSABU",
+    "percent_off": 33
   },
   "B0FL6ZD3WL": {
     "first_seen": "2026-07-29",
@@ -657,26 +650,33 @@
     "title": "アイリスオーヤマ 過熱水蒸気 エア フライヤー 3L 2～3人用 ノンオイルフライヤー スチーム機能 ジューシー FV-M30A-C アイボリー",
     "percent_off": 42
   },
+  "B0F37VLJQW": {
+    "first_seen": "2026-09-15",
+    "first_seen_at": "2026-09-15T02:14:33+09:00",
+    "last_seen": "2026-09-15",
+    "title": "UGREEN MagFlow Qi2 25W認証 モバイルバッテリー Magsafe マグネット式ワイヤレス急速充電 10000mAh 水色",
+    "percent_off": 30
+  },
+  "B0BWF463MW": {
+    "first_seen": "2026-08-04",
+    "first_seen_at": "2026-08-04T12:38:09+09:00",
+    "last_seen": "2026-09-15",
+    "title": "GARMIN（ガーミン）GPSランニングウォッチ Forerunner 965 Amp Yellow 【日本正規品】",
+    "percent_off": 19
+  },
+  "B0FL77NZXM": {
+    "first_seen": "2026-07-29",
+    "first_seen_at": "2026-07-29T12:00:00+09:00",
+    "last_seen": "2026-09-15",
+    "title": "エレコム ワイヤレスキーボード Precisionist プレシジョニスト Bluetooth 無線2.4GHz マルチペアリング4台 充電式 薄型パンタグラフ式 ミニサイズ ブラック TK-PN1075MPABK",
+    "percent_off": 23
+  },
   "B0B2QQDKR8": {
     "first_seen": "2026-07-27",
     "first_seen_at": "2026-07-27T12:00:00+09:00",
     "last_seen": "2026-09-15",
     "title": "Anker 511 Charger (Nano 3, 30W) ブラック",
     "percent_off": null
-  },
-  "B0FJRGKP9F": {
-    "first_seen": "2026-09-04",
-    "first_seen_at": "2026-09-04T20:14:57+09:00",
-    "last_seen": "2026-09-15",
-    "title": "【リニューアル】 エレコム ワイヤレスマウス 静音 充電式 OSMOD Six Bluetooth 無線2.4GHz両対応 2台まで接続 マルチペアリング 6ボタン ブルー M-MY35MBSABU",
-    "percent_off": 33
-  },
-  "B0BF9ZYCQ5": {
-    "first_seen": "2026-07-31",
-    "first_seen_at": "2026-07-31T12:00:00+09:00",
-    "last_seen": "2026-09-15",
-    "title": "【VGP受賞】Belkin 充電器 USB-C 2ポート PPS規格対応 GaN採用 小型 ACアダプター タイプC 急速充電 軽量【PD3.0対応 /PSE認証/折りたたみ式プラグ】45W(25W+20W) MacBook Windows PC Surface Pro iPad iPhone 17,16～12対応 Galaxy Android スマホ 各種ノートPC対応 WCH011dqWH",
-    "percent_off": 41
   },
   "B0H8DQLFNW": {
     "first_seen": "2026-08-09",
