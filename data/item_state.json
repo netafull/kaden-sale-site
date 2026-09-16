@@ -132,13 +132,6 @@
     "title": "Anker Power Bank (20000mAh, 87W, Built-In USB-C ケーブル) ブラック",
     "percent_off": 32
   },
-  "B0G2S9LVS4": {
-    "first_seen": "2026-09-15",
-    "first_seen_at": "2026-09-15T00:14:54+09:00",
-    "last_seen": "2026-09-16",
-    "title": "UGREEN MagFlow Qi2 25W認証 モバイルバッテリー Magsafe マグネット式ワイヤレス急速充電 10000mAh ブラック",
-    "percent_off": 30
-  },
   "B0FKH14VSL": {
     "first_seen": "2026-08-31",
     "first_seen_at": "2026-08-31T21:14:49+09:00",
@@ -187,13 +180,6 @@
     "last_seen": "2026-09-16",
     "title": "Belkin USB充電器 40W iPhone17,16～12 デュアルUSB-C(20W x 2) PD3.0 急速充電対応 ホワイト WCB006dqWHJP",
     "percent_off": 47
-  },
-  "B0CMQK8CMJ": {
-    "first_seen": "2026-08-05",
-    "first_seen_at": "2026-08-05T21:15:31+09:00",
-    "last_seen": "2026-09-16",
-    "title": "UGREEN NexodeX 100W GaNII充電器 USB-C*2+USB-A タイプC Type-C 急速充電器 PD3.0/PPS/QC4+",
-    "percent_off": 45
   },
   "B0BF9ZYCQ5": {
     "first_seen": "2026-07-31",
@@ -286,13 +272,6 @@
     "title": "Anker Nano Charger (70W, 3 Ports) ブラック",
     "percent_off": null
   },
-  "B0CTJDLWV4": {
-    "first_seen": "2026-09-16",
-    "first_seen_at": "2026-09-16T00:14:48+09:00",
-    "last_seen": "2026-09-16",
-    "title": "エレコム 充電器 65W USB PD対応 小型 Type-C 1ポート PPS対応 GaN II採用 PSE認証 ブラック 【iPhone 16 15 iPad Macbook 等対応】 EC-AC8565BK",
-    "percent_off": 5
-  },
   "B0DG93MZCR": {
     "first_seen": "2026-07-27",
     "first_seen_at": "2026-07-27T12:00:00+09:00",
@@ -303,13 +282,6 @@
   "B0G64K1H7N": {
     "first_seen": "2026-09-02",
     "first_seen_at": "2026-09-02T22:14:55+09:00",
-    "last_seen": "2026-09-16",
-    "title": "UGREEN Air 45W USB-C 当社最小充電器 GaNII 急速充電器",
-    "percent_off": 25
-  },
-  "B0GLF7M97W": {
-    "first_seen": "2026-09-11",
-    "first_seen_at": "2026-09-11T23:14:54+09:00",
     "last_seen": "2026-09-16",
     "title": "UGREEN Air 45W USB-C 当社最小充電器 GaNII 急速充電器",
     "percent_off": 25
@@ -510,6 +482,13 @@
     "title": "VITURE Luma Ultra XR グラス & Pro ネックバンド 12GBメモリ＆256GB内蔵ストレージ セット マルチスクリーン/6DoF/ハンドジェスチャー/スムーズフォロー/アンビエントモード搭載 PXPlay & XBXPlay 公式対応ワイヤレスゲームストリーミングメガネ",
     "percent_off": 18
   },
+  "B0GCN66DC6": {
+    "first_seen": "2026-08-22",
+    "first_seen_at": "2026-08-22T06:41:20+09:00",
+    "last_seen": "2026-09-16",
+    "title": "VITURE Luma AR/XR グラス & Pro ネックバンド セット｜146型1200p超鮮明・120Hz スマートグラス + PSPlay連携 3DoF/マルチスクリーン AI音声操作 ネックバンド｜iPhone/Android/Mac/PC/Switch/Steam Deck対応",
+    "percent_off": 18
+  },
   "B0GS285D8M": {
     "first_seen": "2026-09-01",
     "first_seen_at": "2026-09-01T16:14:59+09:00",
@@ -566,11 +545,11 @@
     "title": "エレコム ワイヤレスキーボード メンブレン 薄型 フルキーボード テンキー ブラック TK-FDM110TXBK",
     "percent_off": 29
   },
-  "B0FJRGKP9F": {
-    "first_seen": "2026-09-04",
-    "first_seen_at": "2026-09-04T20:14:57+09:00",
+  "B0FJRCJ1SN": {
+    "first_seen": "2026-07-26",
+    "first_seen_at": "2026-07-26T12:00:00+09:00",
     "last_seen": "2026-09-16",
-    "title": "【リニューアル】 エレコム ワイヤレスマウス 静音 充電式 OSMOD Six Bluetooth 無線2.4GHz両対応 2台まで接続 マルチペアリング 6ボタン ブルー M-MY35MBSABU",
+    "title": "【リニューアル】 エレコム ワイヤレスマウス 静音 充電式 OSMOD Six Bluetooth 無線2.4GHz両対応 2台まで接続 マルチペアリング 6ボタン ブラック M-MY35MBSABK",
     "percent_off": 25
   },
   "B0B8NLL6B6": {
@@ -636,6 +615,13 @@
     "title": "ロジクール MX ANYWHERE 3S MX1800GR 静音 マウス Bluetooth Logi Bolt Unifying非対応 コンパクト Smart Actions 対応 高速スクロールホイール 充電式 ワイヤレスマウス 無線 Windows Mac Chrome iPad OS Android MX1800 グラファイト 国内正規品",
     "percent_off": 15
   },
+  "B078YH856D": {
+    "first_seen": "2026-08-17",
+    "first_seen_at": "2026-08-17T20:42:41+09:00",
+    "last_seen": "2026-09-16",
+    "title": "ロジクール M705m ワイヤレスマウス 無線 Unifying 7ボタン 高速スクロール 電池寿命最大36ケ月 ワイヤレス マウス チャコール windows mac chrome 国内正規品",
+    "percent_off": 16
+  },
   "B016QCPNUW": {
     "first_seen": "2026-09-15",
     "first_seen_at": "2026-09-15T10:14:33+09:00",
@@ -657,12 +643,40 @@
     "title": "アイリスオーヤマ 過熱水蒸気 エア フライヤー 3L 2～3人用 ノンオイルフライヤー スチーム機能 ジューシー FV-M30A-C アイボリー",
     "percent_off": 43
   },
-  "B078YH856D": {
-    "first_seen": "2026-08-17",
-    "first_seen_at": "2026-08-17T20:42:41+09:00",
+  "B0G2S9LVS4": {
+    "first_seen": "2026-09-15",
+    "first_seen_at": "2026-09-15T00:14:54+09:00",
     "last_seen": "2026-09-16",
-    "title": "ロジクール M705m ワイヤレスマウス 無線 Unifying 7ボタン 高速スクロール 電池寿命最大36ケ月 ワイヤレス マウス チャコール windows mac chrome 国内正規品",
-    "percent_off": 16
+    "title": "UGREEN MagFlow Qi2 25W認証 モバイルバッテリー Magsafe マグネット式ワイヤレス急速充電 10000mAh ブラック",
+    "percent_off": 30
+  },
+  "B0CMQK8CMJ": {
+    "first_seen": "2026-08-05",
+    "first_seen_at": "2026-08-05T21:15:31+09:00",
+    "last_seen": "2026-09-16",
+    "title": "UGREEN NexodeX 100W GaNII充電器 USB-C*2+USB-A タイプC Type-C 急速充電器 PD3.0/PPS/QC4+",
+    "percent_off": 45
+  },
+  "B0CTJDLWV4": {
+    "first_seen": "2026-09-16",
+    "first_seen_at": "2026-09-16T00:14:48+09:00",
+    "last_seen": "2026-09-16",
+    "title": "エレコム 充電器 65W USB PD対応 小型 Type-C 1ポート PPS対応 GaN II採用 PSE認証 ブラック 【iPhone 16 15 iPad Macbook 等対応】 EC-AC8565BK",
+    "percent_off": 5
+  },
+  "B0GLF7M97W": {
+    "first_seen": "2026-09-11",
+    "first_seen_at": "2026-09-11T23:14:54+09:00",
+    "last_seen": "2026-09-16",
+    "title": "UGREEN Air 45W USB-C 当社最小充電器 GaNII 急速充電器",
+    "percent_off": 25
+  },
+  "B0FJRGKP9F": {
+    "first_seen": "2026-09-04",
+    "first_seen_at": "2026-09-04T20:14:57+09:00",
+    "last_seen": "2026-09-16",
+    "title": "【リニューアル】 エレコム ワイヤレスマウス 静音 充電式 OSMOD Six Bluetooth 無線2.4GHz両対応 2台まで接続 マルチペアリング 6ボタン ブルー M-MY35MBSABU",
+    "percent_off": 25
   },
   "B0GHP2D9YF": {
     "first_seen": "2026-09-06",
@@ -705,13 +719,6 @@
     "last_seen": "2026-09-16",
     "title": "エレコム ワイヤレスキーボード Precisionist プレシジョニスト Bluetooth 無線2.4GHz マルチペアリング4台 充電式 薄型パンタグラフ式 フルサイズ ブラック TK-PN10FMPABK",
     "percent_off": 28
-  },
-  "B0FJRCJ1SN": {
-    "first_seen": "2026-07-26",
-    "first_seen_at": "2026-07-26T12:00:00+09:00",
-    "last_seen": "2026-09-16",
-    "title": "【リニューアル】 エレコム ワイヤレスマウス 静音 充電式 OSMOD Six Bluetooth 無線2.4GHz両対応 2台まで接続 マルチペアリング 6ボタン ブラック M-MY35MBSABK",
-    "percent_off": 25
   },
   "B0B3W3G46T": {
     "first_seen": "2026-09-16",
@@ -908,13 +915,6 @@
     "last_seen": "2026-09-15",
     "title": "Anker Nano Charger (70W, 3 Ports) ホワイト",
     "percent_off": null
-  },
-  "B0GCN66DC6": {
-    "first_seen": "2026-08-22",
-    "first_seen_at": "2026-08-22T06:41:20+09:00",
-    "last_seen": "2026-09-15",
-    "title": "VITURE Luma AR/XR グラス & Pro ネックバンド セット｜146型1200p超鮮明・120Hz スマートグラス + PSPlay連携 3DoF/マルチスクリーン AI音声操作 ネックバンド｜iPhone/Android/Mac/PC/Switch/Steam Deck対応",
-    "percent_off": 18
   },
   "B0GL1782KS": {
     "first_seen": "2026-09-08",
