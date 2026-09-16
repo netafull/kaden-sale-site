@@ -195,26 +195,12 @@
     "title": "Belkin MagSafe対応 モバイルバッテリー 軽量 5000mAh USB-C 15W 薄型 iPhone対応 ブラック",
     "percent_off": 19
   },
-  "B0CQY7SRTY": {
-    "first_seen": "2026-09-13",
-    "first_seen_at": "2026-09-13T21:14:47+09:00",
-    "last_seen": "2026-09-17",
-    "title": "Anker Power Bank (20000mAh, 30W) ブラック",
-    "percent_off": null
-  },
   "B098SQSRRV": {
     "first_seen": "2026-07-31",
     "first_seen_at": "2026-07-31T12:00:00+09:00",
     "last_seen": "2026-09-17",
     "title": "Belkin USB充電器 40W iPhone17,16～12 デュアルUSB-C(20W x 2) PD3.0 急速充電対応 ホワイト WCB006dqWHJP",
     "percent_off": 47
-  },
-  "B0BF9ZYCQ5": {
-    "first_seen": "2026-07-31",
-    "first_seen_at": "2026-07-31T12:00:00+09:00",
-    "last_seen": "2026-09-17",
-    "title": "【VGP受賞】Belkin 充電器 USB-C 2ポート PPS規格対応 GaN採用 小型 ACアダプター タイプC 急速充電 軽量【PD3.0対応 /PSE認証/折りたたみ式プラグ】45W(25W+20W) MacBook Windows PC Surface Pro iPad iPhone 17,16～12対応 Galaxy Android スマホ 各種ノートPC対応 WCH011dqWH",
-    "percent_off": 41
   },
   "B0FL1S48XY": {
     "first_seen": "2026-09-08",
@@ -300,13 +286,6 @@
     "title": "Anker Nano Charger (70W, 3 Ports) ブラック",
     "percent_off": null
   },
-  "B0CTJDLWV4": {
-    "first_seen": "2026-09-16",
-    "first_seen_at": "2026-09-16T00:14:48+09:00",
-    "last_seen": "2026-09-17",
-    "title": "エレコム 充電器 65W USB PD対応 小型 Type-C 1ポート PPS対応 GaN II採用 PSE認証 ブラック 【iPhone 16 15 iPad Macbook 等対応】 EC-AC8565BK",
-    "percent_off": 5
-  },
   "B0DG93MZCR": {
     "first_seen": "2026-07-27",
     "first_seen_at": "2026-07-27T12:00:00+09:00",
@@ -370,13 +349,6 @@
     "title": "REGZA ゲーミングモニター 27インチ WQHD 240Hz モンスターハンターワイルズ推奨画質 1ms(GTG) HDR10 Fast IPSパネル Adaptive Sync HDMI対応 RM-G276N",
     "percent_off": 34
   },
-  "B0FJYGH18X": {
-    "first_seen": "2026-08-25",
-    "first_seen_at": "2026-08-25T22:13:25+09:00",
-    "last_seen": "2026-09-17",
-    "title": "INNOCN QD-MiniLED 4k モニター 27インチ ゲーミングモニター 4K＠160Hz/フルHD＠320Hz切り替え デュアルモニター ホワイト 0.5ms MPCS 非光沢 広色域 無輝点保証対応 (量子ドット/HDR1000/HDMI 2.1×2/DP 1.4×2/USBハブ/Type-C 90W/VESA対応/スピーカー) GA27V1M",
-    "percent_off": 33
-  },
   "B0FMY19G96": {
     "first_seen": "2026-08-29",
     "first_seen_at": "2026-08-29T03:42:48+09:00",
@@ -403,13 +375,6 @@
     "first_seen_at": "2026-08-02T11:33:18+09:00",
     "last_seen": "2026-09-17",
     "title": "INNOCN ゲーミングモニター 24.5インチ 200Hz IPS 1ms(GTG) フルHD 非光沢 フレームレス PS5/Xbox対応 Adaptive-Sync VESA100×100 HDMI2.0/DP1.4接続 25G2G",
-    "percent_off": 22
-  },
-  "B0CHMD2LB6": {
-    "first_seen": "2026-08-04",
-    "first_seen_at": "2026-08-04T21:17:38+09:00",
-    "last_seen": "2026-09-17",
-    "title": "Dell AW2724HF 27インチ Alienware ゲーミングモニター",
     "percent_off": 22
   },
   "B0F7X3VJ99": {
@@ -487,7 +452,7 @@
     "first_seen_at": "2026-08-22T00:50:58+09:00",
     "last_seen": "2026-09-17",
     "title": "HUAWEI WATCH D2 ウェアラブル血圧計LCA-B10:ブラック",
-    "percent_off": 18
+    "percent_off": 19
   },
   "B0GZ294HH3": {
     "first_seen": "2026-08-16",
@@ -691,6 +656,41 @@
     "last_seen": "2026-09-17",
     "title": "アイリスオーヤマ 過熱水蒸気 エア フライヤー 3L 2～3人用 ノンオイルフライヤー スチーム機能 ジューシー FV-M30A-C アイボリー",
     "percent_off": 43
+  },
+  "B0CQY7SRTY": {
+    "first_seen": "2026-09-13",
+    "first_seen_at": "2026-09-13T21:14:47+09:00",
+    "last_seen": "2026-09-17",
+    "title": "Anker Power Bank (20000mAh, 30W) ブラック",
+    "percent_off": null
+  },
+  "B0BF9ZYCQ5": {
+    "first_seen": "2026-07-31",
+    "first_seen_at": "2026-07-31T12:00:00+09:00",
+    "last_seen": "2026-09-17",
+    "title": "【VGP受賞】Belkin 充電器 USB-C 2ポート PPS規格対応 GaN採用 小型 ACアダプター タイプC 急速充電 軽量【PD3.0対応 /PSE認証/折りたたみ式プラグ】45W(25W+20W) MacBook Windows PC Surface Pro iPad iPhone 17,16～12対応 Galaxy Android スマホ 各種ノートPC対応 WCH011dqWH",
+    "percent_off": 41
+  },
+  "B0CTJDLWV4": {
+    "first_seen": "2026-09-16",
+    "first_seen_at": "2026-09-16T00:14:48+09:00",
+    "last_seen": "2026-09-17",
+    "title": "エレコム 充電器 65W USB PD対応 小型 Type-C 1ポート PPS対応 GaN II採用 PSE認証 ブラック 【iPhone 16 15 iPad Macbook 等対応】 EC-AC8565BK",
+    "percent_off": 5
+  },
+  "B0FJYGH18X": {
+    "first_seen": "2026-08-25",
+    "first_seen_at": "2026-08-25T22:13:25+09:00",
+    "last_seen": "2026-09-17",
+    "title": "INNOCN QD-MiniLED 4k モニター 27インチ ゲーミングモニター 4K＠160Hz/フルHD＠320Hz切り替え デュアルモニター ホワイト 0.5ms MPCS 非光沢 広色域 無輝点保証対応 (量子ドット/HDR1000/HDMI 2.1×2/DP 1.4×2/USBハブ/Type-C 90W/VESA対応/スピーカー) GA27V1M",
+    "percent_off": 33
+  },
+  "B0CHMD2LB6": {
+    "first_seen": "2026-08-04",
+    "first_seen_at": "2026-08-04T21:17:38+09:00",
+    "last_seen": "2026-09-17",
+    "title": "Dell AW2724HF 27インチ Alienware ゲーミングモニター",
+    "percent_off": 22
   },
   "B0D1QSQWVP": {
     "first_seen": "2026-09-09",
