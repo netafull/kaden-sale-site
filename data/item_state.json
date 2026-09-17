@@ -34,13 +34,6 @@
     "title": "Apple iPhone Air 256GB (SIMフリー)：史上最薄のiPhone、最大120HzのProMotionを採用した6.5インチディスプレイ、パワフルなA19 Proチップ、センターフレームフロントカメラ、一日中使えるバッテリー；スペースブラック",
     "percent_off": 6
   },
-  "B0GR1NTKL9": {
-    "first_seen": "2026-08-20",
-    "first_seen_at": "2026-08-20T06:42:31+09:00",
-    "last_seen": "2026-09-17",
-    "title": "Apple 2026 MacBook Pro 18コアCPU、20コアGPUのM5 Proチップ搭載ノートパソコン：AIのために設計、14.2インチLiquid Retina XDRディスプレイ、24GBユニファイドメモリ、2TBのSSDストレージ - シルバー",
-    "percent_off": 7
-  },
   "B0FQGTZLWX": {
     "first_seen": "2026-07-31",
     "first_seen_at": "2026-07-31T12:00:00+09:00",
@@ -61,13 +54,6 @@
     "last_seen": "2026-09-17",
     "title": "Apple 2026 MacBook Air M5チップ搭載15インチノートブック：AIとApple Intelligence、15.3インチLiquid Retinaディスプレイ、16GBユニファイドメモリ、1TB SSDストレージ、12MPセンターフレームカメラ、日本語キーボード、Touch ID - スターライト",
     "percent_off": 5
-  },
-  "B0GRTST8MJ": {
-    "first_seen": "2026-08-20",
-    "first_seen_at": "2026-08-20T06:42:31+09:00",
-    "last_seen": "2026-09-17",
-    "title": "Apple 2026 MacBook Pro 18コアCPU、20コアGPUのM5 Proチップ搭載ノートパソコン：AIのために設計、14.2インチLiquid Retina XDRディスプレイ、24GBユニファイドメモリ、2TBのSSDストレージ - シルバー + 3年延長 AppleCare+ for 14インチMacBook Pro(M5 Pro/M5 Max)|ダウンロード版",
-    "percent_off": 6
   },
   "B0GRTRHHDK": {
     "first_seen": "2026-09-15",
@@ -139,11 +125,11 @@
     "title": "Anker Power Bank (20000mAh, 87W, Built-In USB-C ケーブル) ブラック",
     "percent_off": 32
   },
-  "B0G2S9LVS4": {
+  "B0F37VLJQW": {
     "first_seen": "2026-09-15",
-    "first_seen_at": "2026-09-15T00:14:54+09:00",
+    "first_seen_at": "2026-09-15T02:14:33+09:00",
     "last_seen": "2026-09-17",
-    "title": "UGREEN MagFlow Qi2 25W認証 モバイルバッテリー Magsafe マグネット式ワイヤレス急速充電 10000mAh ブラック",
+    "title": "UGREEN MagFlow Qi2 25W認証 モバイルバッテリー Magsafe マグネット式ワイヤレス急速充電 10000mAh 水色",
     "percent_off": 30
   },
   "B0FKH14VSL": {
@@ -291,13 +277,6 @@
     "first_seen_at": "2026-07-27T12:00:00+09:00",
     "last_seen": "2026-09-17",
     "title": "UGREEN PD充電器 type-c 30W 2*USB-C+1*USB-A GaN PSE適合/PD3.0 タイプc充電器 GaNⅡ type c",
-    "percent_off": 25
-  },
-  "B0G64K1H7N": {
-    "first_seen": "2026-09-02",
-    "first_seen_at": "2026-09-02T22:14:55+09:00",
-    "last_seen": "2026-09-17",
-    "title": "UGREEN Air 45W USB-C 当社最小充電器 GaNII 急速充電器",
     "percent_off": 25
   },
   "B0DNT9Z2HS": {
@@ -664,6 +643,34 @@
     "title": "アイリスオーヤマ 過熱水蒸気 エア フライヤー 3L 2～3人用 ノンオイルフライヤー スチーム機能 ジューシー FV-M30A-C アイボリー",
     "percent_off": 43
   },
+  "B0GR1NTKL9": {
+    "first_seen": "2026-08-20",
+    "first_seen_at": "2026-08-20T06:42:31+09:00",
+    "last_seen": "2026-09-17",
+    "title": "Apple 2026 MacBook Pro 18コアCPU、20コアGPUのM5 Proチップ搭載ノートパソコン：AIのために設計、14.2インチLiquid Retina XDRディスプレイ、24GBユニファイドメモリ、2TBのSSDストレージ - シルバー",
+    "percent_off": 7
+  },
+  "B0GRTST8MJ": {
+    "first_seen": "2026-08-20",
+    "first_seen_at": "2026-08-20T06:42:31+09:00",
+    "last_seen": "2026-09-17",
+    "title": "Apple 2026 MacBook Pro 18コアCPU、20コアGPUのM5 Proチップ搭載ノートパソコン：AIのために設計、14.2インチLiquid Retina XDRディスプレイ、24GBユニファイドメモリ、2TBのSSDストレージ - シルバー + 3年延長 AppleCare+ for 14インチMacBook Pro(M5 Pro/M5 Max)|ダウンロード版",
+    "percent_off": 6
+  },
+  "B0G2S9LVS4": {
+    "first_seen": "2026-09-15",
+    "first_seen_at": "2026-09-15T00:14:54+09:00",
+    "last_seen": "2026-09-17",
+    "title": "UGREEN MagFlow Qi2 25W認証 モバイルバッテリー Magsafe マグネット式ワイヤレス急速充電 10000mAh ブラック",
+    "percent_off": 30
+  },
+  "B0G64K1H7N": {
+    "first_seen": "2026-09-02",
+    "first_seen_at": "2026-09-02T22:14:55+09:00",
+    "last_seen": "2026-09-17",
+    "title": "UGREEN Air 45W USB-C 当社最小充電器 GaNII 急速充電器",
+    "percent_off": 25
+  },
   "B0FQG5SZS9": {
     "first_seen": "2026-07-31",
     "first_seen_at": "2026-07-31T12:00:00+09:00",
@@ -964,13 +971,6 @@
     "last_seen": "2026-09-15",
     "title": "Bose QuietComfort Ultra Earbuds LE (第2世代) ワイヤレス ノイズキャンセリング Bluetooth イヤホン 最長6時間連続再生 IPX4規格準拠 イマーシブオーディオ 迫力の重低音 デザートゴールド",
     "percent_off": 14
-  },
-  "B0F37VLJQW": {
-    "first_seen": "2026-09-15",
-    "first_seen_at": "2026-09-15T02:14:33+09:00",
-    "last_seen": "2026-09-15",
-    "title": "UGREEN MagFlow Qi2 25W認証 モバイルバッテリー Magsafe マグネット式ワイヤレス急速充電 10000mAh 水色",
-    "percent_off": 30
   },
   "B0FJS3P8NT": {
     "first_seen": "2026-07-27",
