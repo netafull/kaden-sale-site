@@ -265,18 +265,18 @@
     "title": "Anker Nano Charger (70W, 3 Ports) ブラック",
     "percent_off": null
   },
-  "B0CTJDLWV4": {
-    "first_seen": "2026-09-16",
-    "first_seen_at": "2026-09-16T00:14:48+09:00",
-    "last_seen": "2026-09-18",
-    "title": "エレコム 充電器 65W USB PD対応 小型 Type-C 1ポート PPS対応 GaN II採用 PSE認証 ブラック 【iPhone 16 15 iPad Macbook 等対応】 EC-AC8565BK",
-    "percent_off": 11
-  },
   "B0DG93MZCR": {
     "first_seen": "2026-07-27",
     "first_seen_at": "2026-07-27T12:00:00+09:00",
     "last_seen": "2026-09-18",
     "title": "UGREEN PD充電器 type-c 30W 2*USB-C+1*USB-A GaN PSE適合/PD3.0 タイプc充電器 GaNⅡ type c",
+    "percent_off": 25
+  },
+  "B0DNT9Z2HS": {
+    "first_seen": "2026-07-27",
+    "first_seen_at": "2026-07-27T12:00:00+09:00",
+    "last_seen": "2026-09-18",
+    "title": "UGREEN 100W GaN 卓上急速充電器 (4*USB-C+2*USB-A) コンパクト【PSE技術基準適合/PD3.0/QC4.0/PPS対応】 複数台同時充電 iPhone17/16/15/14/13/Xperia/Pixel Pro/iPad/ノートPC MacBook Pro/Airなどに対応",
     "percent_off": 25
   },
   "B0FH28F7SJ": {
@@ -538,6 +538,13 @@
     "title": "ロジクール ワイヤレスマウス キーボード セット MK295GP 静音 耐水 国内正規品",
     "percent_off": 23
   },
+  "B0BKP5R91F": {
+    "first_seen": "2026-08-04",
+    "first_seen_at": "2026-08-04T12:38:09+09:00",
+    "last_seen": "2026-09-18",
+    "title": "ロジクール ワイヤレスマウス 静音 無線 高速スクロール Signature M550MGR レギュラー グラファイト 国内正規品",
+    "percent_off": 23
+  },
   "B09Q5SHDR3": {
     "first_seen": "2026-07-26",
     "first_seen_at": "2026-07-26T12:00:00+09:00",
@@ -608,6 +615,13 @@
     "title": "ロジクール SIGNATURE SLIM ワイヤレス キーボード K950GR 薄型 静かなタイピング Bluetooth Logi Bolt ワイヤレスキーボード テンキー 無線 Easy-Switch 日本語配列 電池寿命36ケ月 Windows Mac Chrome Android K950 グラファイト 国内正規品",
     "percent_off": 15
   },
+  "B078YH856D": {
+    "first_seen": "2026-08-17",
+    "first_seen_at": "2026-08-17T20:42:41+09:00",
+    "last_seen": "2026-09-18",
+    "title": "ロジクール M705m ワイヤレスマウス 無線 Unifying 7ボタン 高速スクロール 電池寿命最大36ケ月 ワイヤレス マウス チャコール windows mac chrome 国内正規品",
+    "percent_off": 14
+  },
   "B0G4CC1S2F": {
     "first_seen": "2026-07-24",
     "first_seen_at": "2026-07-24T12:00:00+09:00",
@@ -615,12 +629,12 @@
     "title": "アイリスオーヤマ 過熱水蒸気 エア フライヤー 3L 2～3人用 ノンオイルフライヤー スチーム機能 ジューシー FV-M30A-C アイボリー",
     "percent_off": 33
   },
-  "B0DNT9Z2HS": {
-    "first_seen": "2026-07-27",
-    "first_seen_at": "2026-07-27T12:00:00+09:00",
+  "B0CTJDLWV4": {
+    "first_seen": "2026-09-16",
+    "first_seen_at": "2026-09-16T00:14:48+09:00",
     "last_seen": "2026-09-18",
-    "title": "UGREEN 100W GaN 卓上急速充電器 (4*USB-C+2*USB-A) コンパクト【PSE技術基準適合/PD3.0/QC4.0/PPS対応】 複数台同時充電 iPhone17/16/15/14/13/Xperia/Pixel Pro/iPad/ノートPC MacBook Pro/Airなどに対応",
-    "percent_off": 25
+    "title": "エレコム 充電器 65W USB PD対応 小型 Type-C 1ポート PPS対応 GaN II採用 PSE認証 ブラック 【iPhone 16 15 iPad Macbook 等対応】 EC-AC8565BK",
+    "percent_off": 11
   },
   "B0DT2X3TKG": {
     "first_seen": "2026-09-15",
@@ -824,13 +838,6 @@
     "last_seen": "2026-09-17",
     "title": "UGREEN MagFlow Qi2 25W認証 モバイルバッテリー Magsafe マグネット式ワイヤレス急速充電 10000mAh ブラック",
     "percent_off": 30
-  },
-  "B078YH856D": {
-    "first_seen": "2026-08-17",
-    "first_seen_at": "2026-08-17T20:42:41+09:00",
-    "last_seen": "2026-09-17",
-    "title": "ロジクール M705m ワイヤレスマウス 無線 Unifying 7ボタン 高速スクロール 電池寿命最大36ケ月 ワイヤレス マウス チャコール windows mac chrome 国内正規品",
-    "percent_off": 16
   },
   "B0CTMRXLM7": {
     "first_seen": "2026-09-10",
@@ -1195,13 +1202,6 @@
     "last_seen": "2026-09-15",
     "title": "SwitchBot 空気清浄機 CO2センサー スマートリモコン ハブ - スイッチボット 25畳 小型 省エネ 大風量 360度全方位 浄化 消臭 除菌 集じん HEPA フィルター 花粉 ニオイ対策 抜け毛対策 タイマー機能 Alexa Google Home Siriに対応 (空気清浄機1点+CO2センサー1点+ハブミニ1点)",
     "percent_off": 22
-  },
-  "B0BKP5R91F": {
-    "first_seen": "2026-08-04",
-    "first_seen_at": "2026-08-04T12:38:09+09:00",
-    "last_seen": "2026-09-15",
-    "title": "ロジクール ワイヤレスマウス 静音 無線 高速スクロール Signature M550MGR レギュラー グラファイト 国内正規品",
-    "percent_off": 23
   },
   "B0BWF463MW": {
     "first_seen": "2026-08-04",
