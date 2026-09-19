@@ -20,6 +20,13 @@
     "title": "Apple AirPods 4 ワイヤレスイヤホン、Bluetooth5.3、パーソナライズされた空間オーディオ、耐汗耐水性能、USB-C 充電ケース、H2 チップ、最大 30 時間の バッテリー駆動時間、「探す」対応、iPhoneで簡単に設定",
     "percent_off": 17
   },
+  "B0FRZ3SZWX": {
+    "first_seen": "2026-08-04",
+    "first_seen_at": "2026-08-04T12:38:09+09:00",
+    "last_seen": "2026-09-19",
+    "title": "Apple AirPods Pro 3 ワイヤレスイヤホン、アクティブノイズキャンセリング、心拍センサー、補聴機能、Bluetoothヘッドホン、空間オーディオ サウンド、USB-C充電ケース、防塵性能と耐汗耐水性能、「探す」対応、Qi充電 + 2年延長 AppleCare+ for AIRPODS PRO 3",
+    "percent_off": 17
+  },
   "B0GJTW9CL8": {
     "first_seen": "2026-08-07",
     "first_seen_at": "2026-08-07T09:18:51+09:00",
@@ -123,7 +130,7 @@
     "first_seen_at": "2026-08-16T23:40:53+09:00",
     "last_seen": "2026-09-19",
     "title": "ソニー(SONY) 完全ワイヤレスイヤホン WF-C510 / 軽量小型4.6g / 高精度通話品質/外音取り込み対応/マルチポイント対応 / IPX4防滴性能 / ブラック/WF-C510 BC",
-    "percent_off": 23
+    "percent_off": 24
   },
   "B0DT4RGDSJ": {
     "first_seen": "2026-07-27",
@@ -165,6 +172,13 @@
     "first_seen_at": "2026-08-07T21:01:08+09:00",
     "last_seen": "2026-09-19",
     "title": "Anker Power Bank (20000mAh, 87W, Built-In USB-C ケーブル) ブラック",
+    "percent_off": 32
+  },
+  "B0DFYCSRB2": {
+    "first_seen": "2026-09-19",
+    "first_seen_at": "2026-09-19T23:14:46+09:00",
+    "last_seen": "2026-09-19",
+    "title": "Belkin モバイルバッテリー 軽量 10000mAh 20W USB-Cケーブル内蔵 2台同時充電 ブラック",
     "percent_off": 32
   },
   "B0F8HWR4Y9": {
@@ -272,11 +286,11 @@
     "title": "Belkin Qi2 車載ワイヤレス充電器 15W急速充電 MagSafe対応 スマホホルダー エアコン吹き出し口用",
     "percent_off": 36
   },
-  "B0D53WHQD6": {
-    "first_seen": "2026-09-01",
-    "first_seen_at": "2026-09-01T22:14:34+09:00",
+  "B0D53VJJ7F": {
+    "first_seen": "2026-07-28",
+    "first_seen_at": "2026-07-28T12:00:00+09:00",
     "last_seen": "2026-09-19",
-    "title": "CIO NovaPort TRIOⅡ 65W 2C1A PD急速充電器 USB-C×2+USB-A×1 3台同時充電 世界最小級（ホワイト）",
+    "title": "CIO NovaPort TRIOⅡ 65W 2C1A PD急速充電器 USB-C×2+USB-A×1 3台同時充電 世界最小級（ブラック）",
     "percent_off": 34
   },
   "B0D73JBJ56": {
@@ -286,18 +300,18 @@
     "title": "Anker Prime Charger (100W, 3 Ports, GaN)",
     "percent_off": 33
   },
-  "B0B2QQDKR8": {
-    "first_seen": "2026-07-27",
-    "first_seen_at": "2026-07-27T12:00:00+09:00",
-    "last_seen": "2026-09-19",
-    "title": "Anker 511 Charger (Nano 3, 30W) ブラック",
-    "percent_off": null
-  },
   "B091BGMKYS": {
     "first_seen": "2026-07-27",
     "first_seen_at": "2026-07-27T12:00:00+09:00",
     "last_seen": "2026-09-19",
     "title": "UGREEN Nexode急速充電器 65W Type-C 2C1A 3ポート PD/PPS 4.5A/QC3.0/SCP/FCP対応 折り畳み式",
+    "percent_off": 30
+  },
+  "B0GD7WBPHS": {
+    "first_seen": "2026-08-09",
+    "first_seen_at": "2026-08-09T19:54:50+09:00",
+    "last_seen": "2026-09-19",
+    "title": "UGREEN Air 100W PD3.0急速充電器 超小型 GaNII USB-C充電器",
     "percent_off": 30
   },
   "B0G64NF1FQ": {
@@ -320,6 +334,13 @@
     "last_seen": "2026-09-19",
     "title": "CIO NovaPort DUOⅡ 65W PD急速充電器 USB-C×2 2台同時充電 世界最小級（ブラック）",
     "percent_off": 27
+  },
+  "B0F99GKMZH": {
+    "first_seen": "2026-09-19",
+    "first_seen_at": "2026-09-19T23:14:46+09:00",
+    "last_seen": "2026-09-19",
+    "title": "Anker Nano Charger (70W, 3 Ports) ブルー",
+    "percent_off": null
   },
   "B0GF24NN7N": {
     "first_seen": "2026-09-08",
@@ -348,13 +369,6 @@
     "last_seen": "2026-09-19",
     "title": "UGREEN 100W GaN 卓上急速充電器 (4*USB-C+2*USB-A) コンパクト【PSE技術基準適合/PD3.0/QC4.0/PPS対応】 複数台同時充電 iPhone17/16/15/14/13/Xperia/Pixel Pro/iPad/ノートPC MacBook Pro/Airなどに対応",
     "percent_off": 25
-  },
-  "B00VTJS58U": {
-    "first_seen": "2026-08-22",
-    "first_seen_at": "2026-08-22T20:37:40+09:00",
-    "last_seen": "2026-09-19",
-    "title": "Anker PowerPort 4 (USB充電器 40W 4ポート) 【PSE認証済 / PowerIQ搭載 / 折りたたみ式プラグ搭載】iPhone&Android各種対応 (ホワイト)",
-    "percent_off": 21
   },
   "B0FH28F7SJ": {
     "first_seen": "2026-09-13",
@@ -496,12 +510,33 @@
     "title": "HUAWEI WATCH D2 ウェアラブル血圧計LCA-B10:ブラック",
     "percent_off": 18
   },
+  "B0GZ294HH3": {
+    "first_seen": "2026-08-16",
+    "first_seen_at": "2026-08-16T00:38:29+09:00",
+    "last_seen": "2026-09-19",
+    "title": "GARMIN(ガーミン)スマートウォッチ Forerunner 170 Black/Amp Yellow スマートウォッチモード 約 10 日間 高精度GPS ランニングウォッチ iOS/Android AMOLEDディスプレイ1.2インチ マラソン 軽量 防水 心拍数 睡眠スコア 健康管理 Suicaタッチ決済 Garmin Pay",
+    "percent_off": 17
+  },
+  "B0FKH3WQ41": {
+    "first_seen": "2026-07-30",
+    "first_seen_at": "2026-07-30T12:00:00+09:00",
+    "last_seen": "2026-09-19",
+    "title": "HUAWEI WATCH GT 6 Pro 46mm スマートウォッチ 大画面 GPS搭載 21日間バッテリー 心電図 ゴルフ GPS 通知 ブラック",
+    "percent_off": 17
+  },
   "B0G529YNFK": {
     "first_seen": "2026-09-05",
     "first_seen_at": "2026-09-05T15:14:47+09:00",
     "last_seen": "2026-09-19",
     "title": "Amazfit Active Max 48mm スマートウォッチ ハイブリッドトレーニング HYROX ヤマレコ ヤマップ 3000nit高輝度 GPS 5衛星 オフラインマップ AIによる音声操作と睡眠/運動管理 心拍 睡眠 健康管理 170+スポーツモード ナビゲーション ルートインポート5ATM防水 Max 25日間バッテリー持続 丸型",
     "percent_off": null
+  },
+  "B0GX8DRYCX": {
+    "first_seen": "2026-09-03",
+    "first_seen_at": "2026-09-03T12:14:47+09:00",
+    "last_seen": "2026-09-19",
+    "title": "HUAWEI WATCH FIT 5 スマートウォッチ 薄型軽量 大画面 GPS内蔵 10日間ロングバッテリー 通知 健康管理 心拍数 睡眠 ブラック",
+    "percent_off": 16
   },
   "B0GCMVLDG4": {
     "first_seen": "2026-09-12",
@@ -545,12 +580,12 @@
     "title": "Kindle Paperwhite (16GB) 7インチディスプレイ、色調調節ライト、12週間持続バッテリー、広告なし、ブラック + Kindle Unlimited（3ヵ月分。以降自動更新）",
     "percent_off": 30
   },
-  "B07NDLV8M9": {
-    "first_seen": "2026-09-10",
-    "first_seen_at": "2026-09-10T20:14:59+09:00",
+  "B0B1Q636K7": {
+    "first_seen": "2026-07-26",
+    "first_seen_at": "2026-07-26T12:00:00+09:00",
     "last_seen": "2026-09-19",
-    "title": "エレコム キーボード 【マウスセット】 ワイヤレス (レシーバー付属) メンブレン フルキーボード ブラック TK-FDM106MBK",
-    "percent_off": 42
+    "title": "ロジクール KX850FT MX MECHANICAL ワイヤレス メカニカル パフォーマンス キーボード 茶軸 タクタイル テンキー 静かな打鍵感 特に静か Logi Bolt bluetooth Unifying非対応 薄型 無線 メカニカルキーボード windows mac chrome Android ワイヤレスキーボード KX850 国内正規品 グラファイト",
+    "percent_off": 44
   },
   "B0CLGVLBMV": {
     "first_seen": "2026-08-23",
@@ -579,13 +614,6 @@
     "last_seen": "2026-09-19",
     "title": "エレコム ワイヤレスキーボード Precisionist プレシジョニスト Bluetooth 無線2.4GHz マルチペアリング4台 充電式 薄型パンタグラフ式 ミニサイズ ブラック TK-PN1075MPABK",
     "percent_off": 31
-  },
-  "B0B1Q383WZ": {
-    "first_seen": "2026-08-12",
-    "first_seen_at": "2026-08-12T14:03:29+09:00",
-    "last_seen": "2026-09-19",
-    "title": "ロジクール KX850FL MX MECHANICAL ワイヤレス メカニカル パフォーマンス キーボード 赤軸 リニア テンキー 静かな打鍵感 Logi Bolt bluetooth Unifying非対応 薄型 無線 メカニカルキーボード windows mac chrome Android ワイヤレスキーボード KX850 国内正規品 グラファイト",
-    "percent_off": 28
   },
   "B0FJRCJ1SN": {
     "first_seen": "2026-07-26",
@@ -636,12 +664,19 @@
     "title": "ロジクール ワイヤレスキーボード K295GP 静音 耐水 キーボード 無線 Unifying K295 グラファイト 国内正規品",
     "percent_off": 18
   },
-  "B0CJR82M5M": {
-    "first_seen": "2026-08-04",
-    "first_seen_at": "2026-08-04T21:17:38+09:00",
+  "B0CJR7JYGJ": {
+    "first_seen": "2026-09-09",
+    "first_seen_at": "2026-09-09T22:14:53+09:00",
     "last_seen": "2026-09-19",
-    "title": "ロジクール ワイヤレスキーボード PEBBLE KEYS 2 K380sOW 薄型 軽量 415g 小型 Bluetooth Logi Bolt ワイヤレス 無線 キーボード Easy-Switch 日本語配列 電池寿命36ケ月 Windows Mac iPad iOS Android Chrome K380s オフホワイト 国内正規品",
+    "title": "ロジクール ワイヤレスキーボード PEBBLE KEYS 2 K380sRO 薄型 軽量 415g 小型 Bluetooth Logi Bolt ワイヤレス 無線 キーボード Easy-Switch 日本語配列 電池寿命36ケ月 Windows Mac iPad iOS Android Chrome K380s ローズ 国内正規品",
     "percent_off": 17
+  },
+  "B0GL26M6Z2": {
+    "first_seen": "2026-08-21",
+    "first_seen_at": "2026-08-21T12:19:55+09:00",
+    "last_seen": "2026-09-19",
+    "title": "エレコム ワイヤレスキーボード 静音 フルサイズ テンキー付 無線2.4GHz Windows macOS ChromeOS メンブレン式 ブラック TK-QT11FDMABK",
+    "percent_off": 16
   },
   "B0C65MQZ65": {
     "first_seen": "2026-07-26",
@@ -671,6 +706,48 @@
     "title": "アイリスオーヤマ 過熱水蒸気 エア フライヤー 3L 2～3人用 ノンオイルフライヤー スチーム機能 ジューシー FV-M30A-C アイボリー",
     "percent_off": 42
   },
+  "B0D53WHQD6": {
+    "first_seen": "2026-09-01",
+    "first_seen_at": "2026-09-01T22:14:34+09:00",
+    "last_seen": "2026-09-19",
+    "title": "CIO NovaPort TRIOⅡ 65W 2C1A PD急速充電器 USB-C×2+USB-A×1 3台同時充電 世界最小級（ホワイト）",
+    "percent_off": 34
+  },
+  "B0B2QQDKR8": {
+    "first_seen": "2026-07-27",
+    "first_seen_at": "2026-07-27T12:00:00+09:00",
+    "last_seen": "2026-09-19",
+    "title": "Anker 511 Charger (Nano 3, 30W) ブラック",
+    "percent_off": null
+  },
+  "B00VTJS58U": {
+    "first_seen": "2026-08-22",
+    "first_seen_at": "2026-08-22T20:37:40+09:00",
+    "last_seen": "2026-09-19",
+    "title": "Anker PowerPort 4 (USB充電器 40W 4ポート) 【PSE認証済 / PowerIQ搭載 / 折りたたみ式プラグ搭載】iPhone&Android各種対応 (ホワイト)",
+    "percent_off": 21
+  },
+  "B07NDLV8M9": {
+    "first_seen": "2026-09-10",
+    "first_seen_at": "2026-09-10T20:14:59+09:00",
+    "last_seen": "2026-09-19",
+    "title": "エレコム キーボード 【マウスセット】 ワイヤレス (レシーバー付属) メンブレン フルキーボード ブラック TK-FDM106MBK",
+    "percent_off": 42
+  },
+  "B0B1Q383WZ": {
+    "first_seen": "2026-08-12",
+    "first_seen_at": "2026-08-12T14:03:29+09:00",
+    "last_seen": "2026-09-19",
+    "title": "ロジクール KX850FL MX MECHANICAL ワイヤレス メカニカル パフォーマンス キーボード 赤軸 リニア テンキー 静かな打鍵感 Logi Bolt bluetooth Unifying非対応 薄型 無線 メカニカルキーボード windows mac chrome Android ワイヤレスキーボード KX850 国内正規品 グラファイト",
+    "percent_off": 28
+  },
+  "B0CJR82M5M": {
+    "first_seen": "2026-08-04",
+    "first_seen_at": "2026-08-04T21:17:38+09:00",
+    "last_seen": "2026-09-19",
+    "title": "ロジクール ワイヤレスキーボード PEBBLE KEYS 2 K380sOW 薄型 軽量 415g 小型 Bluetooth Logi Bolt ワイヤレス 無線 キーボード Easy-Switch 日本語配列 電池寿命36ケ月 Windows Mac iPad iOS Android Chrome K380s オフホワイト 国内正規品",
+    "percent_off": 17
+  },
   "B0F6NC41DZ": {
     "first_seen": "2026-08-06",
     "first_seen_at": "2026-08-06T21:18:24+09:00",
@@ -691,13 +768,6 @@
     "last_seen": "2026-09-19",
     "title": "Anker Zolo Power Bank (20000mAh, 30W, Built-In USB-Cケーブル) ブラック",
     "percent_off": 20
-  },
-  "B0D53VJJ7F": {
-    "first_seen": "2026-07-28",
-    "first_seen_at": "2026-07-28T12:00:00+09:00",
-    "last_seen": "2026-09-19",
-    "title": "CIO NovaPort TRIOⅡ 65W 2C1A PD急速充電器 USB-C×2+USB-A×1 3台同時充電 世界最小級（ブラック）",
-    "percent_off": 34
   },
   "B0DW2LFVBB": {
     "first_seen": "2026-08-24",
@@ -734,20 +804,6 @@
     "title": "【Forerunner265後継モデル】 GARMIN(ガーミン) GPSランニングウォッチ Forerunner 570 42mm Black 最大約10日間の長時間バッテリー 超軽量 色鮮やかなAMOLED大画面ディスプレイ 80種類以上のマルチスポーツ対応 スピーカー＆マイク内蔵でランニング中の心拍数やペース・距離などの情報を音声通知 睡眠スコア 光学式心拍計搭載",
     "percent_off": 18
   },
-  "B0FKH3WQ41": {
-    "first_seen": "2026-07-30",
-    "first_seen_at": "2026-07-30T12:00:00+09:00",
-    "last_seen": "2026-09-19",
-    "title": "HUAWEI WATCH GT 6 Pro 46mm スマートウォッチ 大画面 GPS搭載 21日間バッテリー 心電図 ゴルフ GPS 通知 ブラック",
-    "percent_off": 19
-  },
-  "B0GX8DRYCX": {
-    "first_seen": "2026-09-03",
-    "first_seen_at": "2026-09-03T12:14:47+09:00",
-    "last_seen": "2026-09-19",
-    "title": "HUAWEI WATCH FIT 5 スマートウォッチ 薄型軽量 大画面 GPS内蔵 10日間ロングバッテリー 通知 健康管理 心拍数 睡眠 ブラック",
-    "percent_off": 16
-  },
   "B07PJW2X2F": {
     "first_seen": "2026-07-26",
     "first_seen_at": "2026-07-26T12:00:00+09:00",
@@ -783,13 +839,6 @@
     "title": "ロジクール ワイヤレスキーボード PEBBLE KEYS 2 K380sGR 薄型 軽量 415g 小型 Bluetooth Logi Bolt ワイヤレス 無線 キーボード Easy-Switch 日本語配列 電池寿命36ケ月 Windows Mac iPad iOS Android Chrome K380s グラファイト 国内正規品",
     "percent_off": 17
   },
-  "B0GL26M6Z2": {
-    "first_seen": "2026-08-21",
-    "first_seen_at": "2026-08-21T12:19:55+09:00",
-    "last_seen": "2026-09-19",
-    "title": "エレコム ワイヤレスキーボード 静音 フルサイズ テンキー付 無線2.4GHz Windows macOS ChromeOS メンブレン式 ブラック TK-QT11FDMABK",
-    "percent_off": 16
-  },
   "B0C65LK1BM": {
     "first_seen": "2026-08-04",
     "first_seen_at": "2026-08-04T08:22:12+09:00",
@@ -811,26 +860,12 @@
     "title": "Anker Zolo Power Bank (10K, 30W, Built-In USB-C Cable)ブラック",
     "percent_off": 25
   },
-  "B0GZ294HH3": {
-    "first_seen": "2026-08-16",
-    "first_seen_at": "2026-08-16T00:38:29+09:00",
-    "last_seen": "2026-09-19",
-    "title": "GARMIN(ガーミン)スマートウォッチ Forerunner 170 Black/Amp Yellow スマートウォッチモード 約 10 日間 高精度GPS ランニングウォッチ iOS/Android AMOLEDディスプレイ1.2インチ マラソン 軽量 防水 心拍数 睡眠スコア 健康管理 Suicaタッチ決済 Garmin Pay",
-    "percent_off": 17
-  },
   "B0GVJG7D7K": {
     "first_seen": "2026-07-31",
     "first_seen_at": "2026-07-31T12:00:00+09:00",
     "last_seen": "2026-09-19",
     "title": "VITURE Luma Ultra XR グラス & Pro ネックバンド 12GBメモリ＆256GB内蔵ストレージ セット マルチスクリーン/6DoF/ハンドジェスチャー/スムーズフォロー/アンビエントモード搭載 PXPlay & XBXPlay 公式対応ワイヤレスゲームストリーミングメガネ",
     "percent_off": 18
-  },
-  "B0B1Q636K7": {
-    "first_seen": "2026-07-26",
-    "first_seen_at": "2026-07-26T12:00:00+09:00",
-    "last_seen": "2026-09-19",
-    "title": "ロジクール KX850FT MX MECHANICAL ワイヤレス メカニカル パフォーマンス キーボード 茶軸 タクタイル テンキー 静かな打鍵感 特に静か Logi Bolt bluetooth Unifying非対応 薄型 無線 メカニカルキーボード windows mac chrome Android ワイヤレスキーボード KX850 国内正規品 グラファイト",
-    "percent_off": 44
   },
   "B078YH856D": {
     "first_seen": "2026-08-17",
@@ -964,13 +999,6 @@
     "last_seen": "2026-09-18",
     "title": "ロジクール ワイヤレスマウス 静音 無線 高速スクロール Signature M650LGR ラージ グラファイト M650 国内正規品",
     "percent_off": 21
-  },
-  "B0GD7WBPHS": {
-    "first_seen": "2026-08-09",
-    "first_seen_at": "2026-08-09T19:54:50+09:00",
-    "last_seen": "2026-09-18",
-    "title": "UGREEN Air 100W PD3.0急速充電器 超小型 GaNII USB-C充電器",
-    "percent_off": 30
   },
   "B0FJS3P8NT": {
     "first_seen": "2026-07-27",
@@ -1931,13 +1959,6 @@
     "title": "ロジクール MX KEYS mini for Mac ワイヤレス キーボード KX700MSG US配列 Bluetooth Smart Actions 対応 Mac iPad iOS 無線 薄型 USB TYPE-C 充電式 ワイヤレスキーボード KX700 スペースグレー 国内正規品",
     "percent_off": 21
   },
-  "B0CJR7JYGJ": {
-    "first_seen": "2026-09-09",
-    "first_seen_at": "2026-09-09T22:14:53+09:00",
-    "last_seen": "2026-09-09",
-    "title": "ロジクール ワイヤレスキーボード PEBBLE KEYS 2 K380sRO 薄型 軽量 415g 小型 Bluetooth Logi Bolt ワイヤレス 無線 キーボード Easy-Switch 日本語配列 電池寿命36ケ月 Windows Mac iPad iOS Android Chrome K380s ローズ 国内正規品",
-    "percent_off": 17
-  },
   "B0BKPR1SPC": {
     "first_seen": "2026-08-11",
     "first_seen_at": "2026-08-11T20:07:30+09:00",
@@ -2070,13 +2091,6 @@
     "last_seen": "2026-09-08",
     "title": "Apple 13インチiPad Air（M4）：Liquid Retinaディスプレイ、1TB、12MPフロント/バックカメラ、Apple N1によるWi-Fi 7 + 5Gモバイル通信、Touch ID、一日中使えるバッテリー — スペースグレイ + 2年延長 AppleCare+ for iPad Air 13-inch (M4)|ダウンロード版",
     "percent_off": 5
-  },
-  "B0FRZ3SZWX": {
-    "first_seen": "2026-08-04",
-    "first_seen_at": "2026-08-04T12:38:09+09:00",
-    "last_seen": "2026-09-08",
-    "title": "Apple AirPods Pro 3 ワイヤレスイヤホン、アクティブノイズキャンセリング、心拍センサー、補聴機能、Bluetoothヘッドホン、空間オーディオ サウンド、USB-C充電ケース、防塵性能と耐汗耐水性能、「探す」対応、Qi充電 + 2年延長 AppleCare+ for AIRPODS PRO 3",
-    "percent_off": 6
   },
   "B0D3J7HJYN": {
     "first_seen": "2026-07-31",
