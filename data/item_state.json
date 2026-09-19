@@ -1,4 +1,11 @@
 {
+  "B0DGJBNYVY": {
+    "first_seen": "2026-09-05",
+    "first_seen_at": "2026-09-05T08:14:38+09:00",
+    "last_seen": "2026-09-20",
+    "title": "Apple AirPods 4 アクティブノイズ キャンセリング搭載、ワイヤレスイヤホン、Bluetooth 5.3、ライブ翻訳、適応型オーディオ、外部音取り込みモード、パーソナライズされた空間オーディオ、USB-C充電ケース、ワイヤレス充電、H2チップ、防塵性能と耐汗耐水性能、「探す」対応、Qi充電",
+    "percent_off": 21
+  },
   "B0DT3XJKH9": {
     "first_seen": "2026-09-05",
     "first_seen_at": "2026-09-05T21:15:05+09:00",
@@ -33,13 +40,6 @@
     "last_seen": "2026-09-20",
     "title": "Apple AirTag（第2世代）：紛失防止タグ、音で探せる、耐水 防塵 iPhone/iPad「探す」ネットワーク対応、探せる範囲が最大1.5 倍に広がった「正確な場所を見つける」機能搭載",
     "percent_off": 15
-  },
-  "B0DT2X3TKG": {
-    "first_seen": "2026-09-15",
-    "first_seen_at": "2026-09-15T20:14:39+09:00",
-    "last_seen": "2026-09-20",
-    "title": "Apple AirPods 4 ワイヤレスイヤーバッド、Bluetooth ヘッドフォン、パーソナライズさ れた空間オーディオ、耐汗耐水性能、USB-C 充電ケース、H2 チップ、最大 30 時間の バッテリー駆動時間、iPhone で簡単に設定 + 延長2年 AppleCare+ for Headphones - AirPods",
-    "percent_off": 16
   },
   "B0GJTXZHDX": {
     "first_seen": "2026-08-07",
@@ -244,18 +244,18 @@
     "title": "Anker Zolo Power Bank (20000mAh, 30W, Built-In USB-Cケーブル) ブラック",
     "percent_off": 20
   },
+  "B0FRSR6BVR": {
+    "first_seen": "2026-08-07",
+    "first_seen_at": "2026-08-07T22:31:51+09:00",
+    "last_seen": "2026-09-20",
+    "title": "Belkin MagSafe対応 モバイルバッテリー 軽量 5000mAh USB-C 15W 薄型 iPhone対応 ブラック",
+    "percent_off": 19
+  },
   "B0FTZ46NF8": {
     "first_seen": "2026-09-04",
     "first_seen_at": "2026-09-04T01:14:59+09:00",
     "last_seen": "2026-09-20",
     "title": "CIO SMARTCOBY Ex04 Wireless2.2 CABLE SS5K 半固体モバイルバッテリー Qi2.2 5000mAh (ブラック)",
-    "percent_off": 16
-  },
-  "B0FRSRVPT6": {
-    "first_seen": "2026-08-15",
-    "first_seen_at": "2026-08-15T18:42:49+09:00",
-    "last_seen": "2026-09-20",
-    "title": "Belkin MagSafe対応 モバイルバッテリー 軽量 5000mAh USB-C 15W 薄型 iPhone対応 ホワイト",
     "percent_off": 16
   },
   "B0CQY7SRTY": {
@@ -377,13 +377,6 @@
     "title": "UGREEN PD充電器 type-c 30W 2*USB-C+1*USB-A GaN PSE適合/PD3.0 タイプc充電器 GaNⅡ type c",
     "percent_off": 25
   },
-  "B0DNT9Z2HS": {
-    "first_seen": "2026-07-27",
-    "first_seen_at": "2026-07-27T12:00:00+09:00",
-    "last_seen": "2026-09-20",
-    "title": "UGREEN 100W GaN 卓上急速充電器 (4*USB-C+2*USB-A) コンパクト【PSE技術基準適合/PD3.0/QC4.0/PPS対応】 複数台同時充電 iPhone17/16/15/14/13/Xperia/Pixel Pro/iPad/ノートPC MacBook Pro/Airなどに対応",
-    "percent_off": 25
-  },
   "B0FH28F7SJ": {
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T19:14:35+09:00",
@@ -474,6 +467,13 @@
     "last_seen": "2026-09-20",
     "title": "【世界最小級掃除機】 SwitchBot ロボット掃除機 K11+ 超小型 - 高精度マッピング 6000pa強力吸引 水拭き 使い捨て掃除シート30枚付き 禁止エリア 静音設計 遠隔操作 自動充電 落下防止 2.4GWi-Fi対応 Alexa Google Home IFTTT Siriに対応",
     "percent_off": 19
+  },
+  "B0C9TKSP8V": {
+    "first_seen": "2026-07-30",
+    "first_seen_at": "2026-07-30T12:00:00+09:00",
+    "last_seen": "2026-09-20",
+    "title": "【節電対策】SwitchBot サーキュレーター 静音22dB コードレス 最大50時間 - スイッチボット ~30畳 Alexa対応 扇風機 DCモーター 3D首振り 無段階風量調整 充電式バッテリー搭載 リモコン付き 梅雨対策 省エネ",
+    "percent_off": 15
   },
   "B0BM8VS13P": {
     "first_seen": "2026-09-18",
@@ -727,12 +727,40 @@
     "title": "ロジクール SIGNATURE SLIM ワイヤレス キーボード K950GR 薄型 静かなタイピング Bluetooth Logi Bolt ワイヤレスキーボード テンキー 無線 Easy-Switch 日本語配列 電池寿命36ケ月 Windows Mac Chrome Android K950 グラファイト 国内正規品",
     "percent_off": 15
   },
+  "B078YH856D": {
+    "first_seen": "2026-08-17",
+    "first_seen_at": "2026-08-17T20:42:41+09:00",
+    "last_seen": "2026-09-20",
+    "title": "ロジクール M705m ワイヤレスマウス 無線 Unifying 7ボタン 高速スクロール 電池寿命最大36ケ月 ワイヤレス マウス チャコール windows mac chrome 国内正規品",
+    "percent_off": 14
+  },
   "B0G4CC1S2F": {
     "first_seen": "2026-07-24",
     "first_seen_at": "2026-07-24T12:00:00+09:00",
     "last_seen": "2026-09-20",
     "title": "アイリスオーヤマ 過熱水蒸気 エア フライヤー 3L 2～3人用 ノンオイルフライヤー スチーム機能 ジューシー FV-M30A-C アイボリー",
     "percent_off": 42
+  },
+  "B0DT2X3TKG": {
+    "first_seen": "2026-09-15",
+    "first_seen_at": "2026-09-15T20:14:39+09:00",
+    "last_seen": "2026-09-20",
+    "title": "Apple AirPods 4 ワイヤレスイヤーバッド、Bluetooth ヘッドフォン、パーソナライズさ れた空間オーディオ、耐汗耐水性能、USB-C 充電ケース、H2 チップ、最大 30 時間の バッテリー駆動時間、iPhone で簡単に設定 + 延長2年 AppleCare+ for Headphones - AirPods",
+    "percent_off": 16
+  },
+  "B0FRSRVPT6": {
+    "first_seen": "2026-08-15",
+    "first_seen_at": "2026-08-15T18:42:49+09:00",
+    "last_seen": "2026-09-20",
+    "title": "Belkin MagSafe対応 モバイルバッテリー 軽量 5000mAh USB-C 15W 薄型 iPhone対応 ホワイト",
+    "percent_off": 16
+  },
+  "B0DNT9Z2HS": {
+    "first_seen": "2026-07-27",
+    "first_seen_at": "2026-07-27T12:00:00+09:00",
+    "last_seen": "2026-09-20",
+    "title": "UGREEN 100W GaN 卓上急速充電器 (4*USB-C+2*USB-A) コンパクト【PSE技術基準適合/PD3.0/QC4.0/PPS対応】 複数台同時充電 iPhone17/16/15/14/13/Xperia/Pixel Pro/iPad/ノートPC MacBook Pro/Airなどに対応",
+    "percent_off": 25
   },
   "B0DFYCSRB2": {
     "first_seen": "2026-09-19",
@@ -741,26 +769,12 @@
     "title": "Belkin モバイルバッテリー 軽量 10000mAh 20W USB-Cケーブル内蔵 2台同時充電 ブラック",
     "percent_off": 32
   },
-  "B0FRSR6BVR": {
-    "first_seen": "2026-08-07",
-    "first_seen_at": "2026-08-07T22:31:51+09:00",
-    "last_seen": "2026-09-19",
-    "title": "Belkin MagSafe対応 モバイルバッテリー 軽量 5000mAh USB-C 15W 薄型 iPhone対応 ブラック",
-    "percent_off": 19
-  },
   "B0F99GKMZH": {
     "first_seen": "2026-09-19",
     "first_seen_at": "2026-09-19T23:14:46+09:00",
     "last_seen": "2026-09-19",
     "title": "Anker Nano Charger (70W, 3 Ports) ブルー",
     "percent_off": null
-  },
-  "B0C9TKSP8V": {
-    "first_seen": "2026-07-30",
-    "first_seen_at": "2026-07-30T12:00:00+09:00",
-    "last_seen": "2026-09-19",
-    "title": "【節電対策】SwitchBot サーキュレーター 静音22dB コードレス 最大50時間 - スイッチボット ~30畳 Alexa対応 扇風機 DCモーター 3D首振り 無段階風量調整 充電式バッテリー搭載 リモコン付き 梅雨対策 省エネ",
-    "percent_off": 15
   },
   "B0GL1G8PQZ": {
     "first_seen": "2026-09-19",
@@ -873,20 +887,6 @@
     "last_seen": "2026-09-19",
     "title": "ロジクール MX ANYWHERE 3S MX1800PG 静音 マウス Bluetooth Logi Bolt Unifying非対応 コンパクト Smart Actions 対応 高速スクロールホイール 充電式 ワイヤレスマウス 無線 Windows Mac Chrome iPad OS Android MX1800 ペイルグレー 国内正規品",
     "percent_off": 15
-  },
-  "B0DGJBNYVY": {
-    "first_seen": "2026-09-05",
-    "first_seen_at": "2026-09-05T08:14:38+09:00",
-    "last_seen": "2026-09-19",
-    "title": "Apple AirPods 4 アクティブノイズ キャンセリング搭載、ワイヤレスイヤホン、Bluetooth 5.3、ライブ翻訳、適応型オーディオ、外部音取り込みモード、パーソナライズされた空間オーディオ、USB-C充電ケース、ワイヤレス充電、H2チップ、防塵性能と耐汗耐水性能、「探す」対応、Qi充電",
-    "percent_off": 21
-  },
-  "B078YH856D": {
-    "first_seen": "2026-08-17",
-    "first_seen_at": "2026-08-17T20:42:41+09:00",
-    "last_seen": "2026-09-19",
-    "title": "ロジクール M705m ワイヤレスマウス 無線 Unifying 7ボタン 高速スクロール 電池寿命最大36ケ月 ワイヤレス マウス チャコール windows mac chrome 国内正規品",
-    "percent_off": 17
   },
   "B0H8DQLFNW": {
     "first_seen": "2026-08-09",
