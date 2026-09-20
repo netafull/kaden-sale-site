@@ -123,7 +123,7 @@
     "first_seen_at": "2026-08-16T23:40:53+09:00",
     "last_seen": "2026-09-20",
     "title": "ソニー(SONY) 完全ワイヤレスイヤホン WF-C510 / 軽量小型4.6g / 高精度通話品質/外音取り込み対応/マルチポイント対応 / IPX4防滴性能 / ブラック/WF-C510 BC",
-    "percent_off": 23
+    "percent_off": 24
   },
   "B0DT4RGDSJ": {
     "first_seen": "2026-07-27",
@@ -286,6 +286,13 @@
     "title": "UGREEN 45W USB-C 急速充電器 Type-C PD GaNⅡ充電器 PSE適合タイプc充電器 PD/PPS/SCP/QC3.0",
     "percent_off": 37
   },
+  "B0FVM1C19Y": {
+    "first_seen": "2026-07-31",
+    "first_seen_at": "2026-07-31T12:00:00+09:00",
+    "last_seen": "2026-09-20",
+    "title": "Belkin Qi2 車載ワイヤレス充電器 15W急速充電 MagSafe対応 スマホホルダー エアコン吹き出し口用",
+    "percent_off": 36
+  },
   "B0D53VJJ7F": {
     "first_seen": "2026-07-28",
     "first_seen_at": "2026-07-28T12:00:00+09:00",
@@ -314,25 +321,11 @@
     "title": "Anker 511 Charger (Nano 3, 30W) ブラック",
     "percent_off": null
   },
-  "B0FVLXRFMV": {
-    "first_seen": "2026-09-20",
-    "first_seen_at": "2026-09-20T22:14:59+09:00",
-    "last_seen": "2026-09-20",
-    "title": "Belkin Qi2 車載ワイヤレス充電器 15W急速充電 MagSafe対応 スマホホルダー 吹き出し口・ダッシュ用",
-    "percent_off": 32
-  },
   "B091BGMKYS": {
     "first_seen": "2026-07-27",
     "first_seen_at": "2026-07-27T12:00:00+09:00",
     "last_seen": "2026-09-20",
     "title": "UGREEN Nexode急速充電器 65W Type-C 2C1A 3ポート PD/PPS 4.5A/QC3.0/SCP/FCP対応 折り畳み式",
-    "percent_off": 30
-  },
-  "B0GD7WBPHS": {
-    "first_seen": "2026-08-09",
-    "first_seen_at": "2026-08-09T19:54:50+09:00",
-    "last_seen": "2026-09-20",
-    "title": "UGREEN Air 100W PD3.0急速充電器 超小型 GaNII USB-C充電器",
     "percent_off": 30
   },
   "B0G64NF1FQ": {
@@ -349,11 +342,11 @@
     "title": "Belkin Cubic Charger 45W 充電器 type-c iphone18対応 充電器 急速充電 PD3.2 PPS対応 ホワイト",
     "percent_off": 28
   },
-  "B0D53T41CB": {
-    "first_seen": "2026-09-01",
-    "first_seen_at": "2026-09-01T20:14:58+09:00",
+  "B0D53VKL36": {
+    "first_seen": "2026-07-29",
+    "first_seen_at": "2026-07-29T12:00:00+09:00",
     "last_seen": "2026-09-20",
-    "title": "CIO NovaPort DUOⅡ 65W PD急速充電器 USB-C×2 2台同時充電 世界最小級（ホワイト）",
+    "title": "CIO NovaPort DUOⅡ 65W PD急速充電器 USB-C×2 2台同時充電 世界最小級（ブラック）",
     "percent_off": 27
   },
   "B0GF24NN7N": {
@@ -384,19 +377,19 @@
     "title": "UGREEN 100W GaN 卓上急速充電器 (4*USB-C+2*USB-A) コンパクト【PSE技術基準適合/PD3.0/QC4.0/PPS対応】 複数台同時充電 iPhone17/16/15/14/13/Xperia/Pixel Pro/iPad/ノートPC MacBook Pro/Airなどに対応",
     "percent_off": 25
   },
+  "B0FH28F7SJ": {
+    "first_seen": "2026-09-13",
+    "first_seen_at": "2026-09-13T19:14:35+09:00",
+    "last_seen": "2026-09-20",
+    "title": "Belkin Qi2 25W ワイヤレス充電器 MagSafe対応 3in1充電スタンド iPhone 18・Apple Watch対応 3台同時充電",
+    "percent_off": 9
+  },
   "B0F2MRRKH7": {
     "first_seen": "2026-08-21",
     "first_seen_at": "2026-08-21T00:51:29+09:00",
     "last_seen": "2026-09-20",
     "title": "Anker Prime Charger (160W, 3 Ports) シルバー",
     "percent_off": 17
-  },
-  "B0FH2981XZ": {
-    "first_seen": "2026-09-14",
-    "first_seen_at": "2026-09-14T21:14:43+09:00",
-    "last_seen": "2026-09-20",
-    "title": "Belkin Qi2 25W ワイヤレス充電器 MagSafe対応 3in1充電スタンド iPhone 18・Apple Watch対応 3台同時充電",
-    "percent_off": 16
   },
   "B0D6QQFMCS": {
     "first_seen": "2026-08-07",
@@ -433,12 +426,12 @@
     "title": "BenQ MOBIUZ EX251 24.5インチ IPS フルHD 220Hz 1ms ゲーミングモニター",
     "percent_off": 23
   },
-  "B0DNKC8HXP": {
-    "first_seen": "2026-08-02",
-    "first_seen_at": "2026-08-02T11:33:18+09:00",
+  "B0CM8RYF2Q": {
+    "first_seen": "2026-08-04",
+    "first_seen_at": "2026-08-04T21:17:38+09:00",
     "last_seen": "2026-09-20",
-    "title": "INNOCN ゲーミングモニター 24.5インチ 200Hz IPS 1ms(GTG) フルHD 非光沢 フレームレス PS5/Xbox対応 Adaptive-Sync VESA100×100 HDMI2.0/DP1.4接続 25G2G",
-    "percent_off": 22
+    "title": "INNOCN 40インチワイドモニター WR40 PRO WQHD(3440x1440) HDR600@144hzゲーミングモニター HDMI Display Port USB-C 90W Freesync 高さ調整 スピーカー内蔵 VESA (40インチ HDR600)",
+    "percent_off": 23
   },
   "B0F7X3VJ99": {
     "first_seen": "2026-08-02",
@@ -489,6 +482,13 @@
     "title": "SwitchBot LEDシーリングライト 6畳 Alexa 無段階 調光調色 スイッチボット 天井 照明器具 3500lm リモコン付き ハブ機能付き 電球色 昼白色 昼光色 取付簡単 防虫 防塵 省エネ 節電対策 2.4GHzWi-Fi Bluetoothに対応 5年保証 W2612230",
     "percent_off": 15
   },
+  "B07B7NXV4R": {
+    "first_seen": "2026-07-30",
+    "first_seen_at": "2026-07-30T12:00:00+09:00",
+    "last_seen": "2026-09-20",
+    "title": "SwitchBot スイッチボット スイッチ ボタンに適用 指ロボット スマートスイッチ スマートホーム ワイヤレス タイマー スマホで遠隔操作 Alexa, Google Home, Siri, IFTTTなどに対応(ハブ必要) ホワイト",
+    "percent_off": 14
+  },
   "B0F5WNVHH7": {
     "first_seen": "2026-07-30",
     "first_seen_at": "2026-07-30T12:00:00+09:00",
@@ -496,12 +496,12 @@
     "title": "HUAWEI WATCH FIT 4 スマートウォッチ 薄型軽量 1.82インチ大画面 アウトドアに適した気圧計と測位システム 通知 フィットネス ヘルストラッカー 情緒測定 10日間ロングバッテリー iOS/Android対応 ブラック",
     "percent_off": 31
   },
-  "B0F9L8D3CL": {
-    "first_seen": "2026-09-19",
-    "first_seen_at": "2026-09-19T21:14:41+09:00",
+  "B0F9LB5PQF": {
+    "first_seen": "2026-09-18",
+    "first_seen_at": "2026-09-18T21:14:31+09:00",
     "last_seen": "2026-09-20",
-    "title": "【Forerunner265後継モデル】 GARMIN(ガーミン) GPSランニングウォッチ Forerunner 570 42mm Black 最大約10日間の長時間バッテリー 超軽量 色鮮やかなAMOLED大画面ディスプレイ 80種類以上のマルチスポーツ対応 スピーカー＆マイク内蔵でランニング中の心拍数やペース・距離などの情報を音声通知 睡眠スコア 光学式心拍計搭載",
-    "percent_off": 18
+    "title": "【Forerunner265後継モデル】GARMIN(ガーミン) GPSランニングウォッチ Forerunner 570 47mm Black 【ロングバッテリー/超軽量/高精度GPS/色鮮やかなAMOLEDタッチディスプレイ/スピーカー＆マイク内蔵/ボイスコントロール/睡眠スコア・Body Battery計測/Music保存機能 有・無/Android/iOS対応/Suica機能搭載/防水】",
+    "percent_off": 16
   },
   "B0DQ7MJ8P3": {
     "first_seen": "2026-08-22",
@@ -586,6 +586,13 @@
     "last_seen": "2026-09-20",
     "title": "ロジクール KX850FT MX MECHANICAL ワイヤレス メカニカル パフォーマンス キーボード 茶軸 タクタイル テンキー 静かな打鍵感 特に静か Logi Bolt bluetooth Unifying非対応 薄型 無線 メカニカルキーボード windows mac chrome Android ワイヤレスキーボード KX850 国内正規品 グラファイト",
     "percent_off": 44
+  },
+  "B07NDLV8M9": {
+    "first_seen": "2026-09-10",
+    "first_seen_at": "2026-09-10T20:14:59+09:00",
+    "last_seen": "2026-09-20",
+    "title": "エレコム キーボード 【マウスセット】 ワイヤレス (レシーバー付属) メンブレン フルキーボード ブラック TK-FDM106MBK",
+    "percent_off": 42
   },
   "B0CLGVLBMV": {
     "first_seen": "2026-08-23",
@@ -713,6 +720,48 @@
     "title": "アイリスオーヤマ 過熱水蒸気 エア フライヤー 3L 2～3人用 ノンオイルフライヤー スチーム機能 ジューシー FV-M30A-C アイボリー",
     "percent_off": 42
   },
+  "B0FVLXRFMV": {
+    "first_seen": "2026-09-20",
+    "first_seen_at": "2026-09-20T22:14:59+09:00",
+    "last_seen": "2026-09-20",
+    "title": "Belkin Qi2 車載ワイヤレス充電器 15W急速充電 MagSafe対応 スマホホルダー 吹き出し口・ダッシュ用",
+    "percent_off": 32
+  },
+  "B0GD7WBPHS": {
+    "first_seen": "2026-08-09",
+    "first_seen_at": "2026-08-09T19:54:50+09:00",
+    "last_seen": "2026-09-20",
+    "title": "UGREEN Air 100W PD3.0急速充電器 超小型 GaNII USB-C充電器",
+    "percent_off": 30
+  },
+  "B0D53T41CB": {
+    "first_seen": "2026-09-01",
+    "first_seen_at": "2026-09-01T20:14:58+09:00",
+    "last_seen": "2026-09-20",
+    "title": "CIO NovaPort DUOⅡ 65W PD急速充電器 USB-C×2 2台同時充電 世界最小級（ホワイト）",
+    "percent_off": 27
+  },
+  "B0FH2981XZ": {
+    "first_seen": "2026-09-14",
+    "first_seen_at": "2026-09-14T21:14:43+09:00",
+    "last_seen": "2026-09-20",
+    "title": "Belkin Qi2 25W ワイヤレス充電器 MagSafe対応 3in1充電スタンド iPhone 18・Apple Watch対応 3台同時充電",
+    "percent_off": 16
+  },
+  "B0DNKC8HXP": {
+    "first_seen": "2026-08-02",
+    "first_seen_at": "2026-08-02T11:33:18+09:00",
+    "last_seen": "2026-09-20",
+    "title": "INNOCN ゲーミングモニター 24.5インチ 200Hz IPS 1ms(GTG) フルHD 非光沢 フレームレス PS5/Xbox対応 Adaptive-Sync VESA100×100 HDMI2.0/DP1.4接続 25G2G",
+    "percent_off": 22
+  },
+  "B0F9L8D3CL": {
+    "first_seen": "2026-09-19",
+    "first_seen_at": "2026-09-19T21:14:41+09:00",
+    "last_seen": "2026-09-20",
+    "title": "【Forerunner265後継モデル】 GARMIN(ガーミン) GPSランニングウォッチ Forerunner 570 42mm Black 最大約10日間の長時間バッテリー 超軽量 色鮮やかなAMOLED大画面ディスプレイ 80種類以上のマルチスポーツ対応 スピーカー＆マイク内蔵でランニング中の心拍数やペース・距離などの情報を音声通知 睡眠スコア 光学式心拍計搭載",
+    "percent_off": 18
+  },
   "B0DGJBNYVY": {
     "first_seen": "2026-09-05",
     "first_seen_at": "2026-09-05T08:14:38+09:00",
@@ -783,20 +832,6 @@
     "title": "ロジクール MX ANYWHERE 3S MX1800PG 静音 マウス Bluetooth Logi Bolt Unifying非対応 コンパクト Smart Actions 対応 高速スクロールホイール 充電式 ワイヤレスマウス 無線 Windows Mac Chrome iPad OS Android MX1800 ペイルグレー 国内正規品",
     "percent_off": 15
   },
-  "B0FVM1C19Y": {
-    "first_seen": "2026-07-31",
-    "first_seen_at": "2026-07-31T12:00:00+09:00",
-    "last_seen": "2026-09-20",
-    "title": "Belkin Qi2 車載ワイヤレス充電器 15W急速充電 MagSafe対応 スマホホルダー エアコン吹き出し口用",
-    "percent_off": 36
-  },
-  "B0D53VKL36": {
-    "first_seen": "2026-07-29",
-    "first_seen_at": "2026-07-29T12:00:00+09:00",
-    "last_seen": "2026-09-20",
-    "title": "CIO NovaPort DUOⅡ 65W PD急速充電器 USB-C×2 2台同時充電 世界最小級（ブラック）",
-    "percent_off": 27
-  },
   "B0CTJDLWV4": {
     "first_seen": "2026-09-16",
     "first_seen_at": "2026-09-16T00:14:48+09:00",
@@ -804,40 +839,12 @@
     "title": "エレコム 充電器 65W USB PD対応 小型 Type-C 1ポート PPS対応 GaN II採用 PSE認証 ブラック 【iPhone 16 15 iPad Macbook 等対応】 EC-AC8565BK",
     "percent_off": 11
   },
-  "B0FH28F7SJ": {
-    "first_seen": "2026-09-13",
-    "first_seen_at": "2026-09-13T19:14:35+09:00",
-    "last_seen": "2026-09-20",
-    "title": "Belkin Qi2 25W ワイヤレス充電器 MagSafe対応 3in1充電スタンド iPhone 18・Apple Watch対応 3台同時充電",
-    "percent_off": 9
-  },
-  "B07B7NXV4R": {
-    "first_seen": "2026-07-30",
-    "first_seen_at": "2026-07-30T12:00:00+09:00",
-    "last_seen": "2026-09-20",
-    "title": "SwitchBot スイッチボット スイッチ ボタンに適用 指ロボット スマートスイッチ スマートホーム ワイヤレス タイマー スマホで遠隔操作 Alexa, Google Home, Siri, IFTTTなどに対応(ハブ必要) ホワイト",
-    "percent_off": 14
-  },
-  "B0F9LB5PQF": {
-    "first_seen": "2026-09-18",
-    "first_seen_at": "2026-09-18T21:14:31+09:00",
-    "last_seen": "2026-09-20",
-    "title": "【Forerunner265後継モデル】GARMIN(ガーミン) GPSランニングウォッチ Forerunner 570 47mm Black 【ロングバッテリー/超軽量/高精度GPS/色鮮やかなAMOLEDタッチディスプレイ/スピーカー＆マイク内蔵/ボイスコントロール/睡眠スコア・Body Battery計測/Music保存機能 有・無/Android/iOS対応/Suica機能搭載/防水】",
-    "percent_off": 16
-  },
   "B0FKH3WQ41": {
     "first_seen": "2026-07-30",
     "first_seen_at": "2026-07-30T12:00:00+09:00",
     "last_seen": "2026-09-20",
     "title": "HUAWEI WATCH GT 6 Pro 46mm スマートウォッチ 大画面 GPS搭載 21日間バッテリー 心電図 ゴルフ GPS 通知 ブラック",
     "percent_off": 16
-  },
-  "B07NDLV8M9": {
-    "first_seen": "2026-09-10",
-    "first_seen_at": "2026-09-10T20:14:59+09:00",
-    "last_seen": "2026-09-20",
-    "title": "エレコム キーボード 【マウスセット】 ワイヤレス (レシーバー付属) メンブレン フルキーボード ブラック TK-FDM106MBK",
-    "percent_off": 42
   },
   "B0BKP5R91F": {
     "first_seen": "2026-08-04",
@@ -1762,13 +1769,6 @@
     "last_seen": "2026-09-12",
     "title": "IODATA GigaCrysta ゲーミングモニター 27インチ WQHD 240Hz (HDMI/DP/USB-C) EX-GCQ271UD",
     "percent_off": 21
-  },
-  "B0CM8RYF2Q": {
-    "first_seen": "2026-08-04",
-    "first_seen_at": "2026-08-04T21:17:38+09:00",
-    "last_seen": "2026-09-12",
-    "title": "INNOCN 40インチワイドモニター WR40 PRO WQHD(3440x1440) HDR600@144hzゲーミングモニター HDMI Display Port USB-C 90W Freesync 高さ調整 スピーカー内蔵 VESA (40インチ HDR600)",
-    "percent_off": 23
   },
   "B0B2ZT2HRJ": {
     "first_seen": "2026-09-05",
