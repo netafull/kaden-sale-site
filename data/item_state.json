@@ -41,6 +41,13 @@
     "title": "iPad(A16と第10世代)用Magic Keyboard Folio - 日本語",
     "percent_off": 8
   },
+  "B0FQGTZLWX": {
+    "first_seen": "2026-07-31",
+    "first_seen_at": "2026-07-31T12:00:00+09:00",
+    "last_seen": "2026-09-21",
+    "title": "Apple iPhone Air 256GB (SIMフリー)：史上最薄のiPhone、最大120HzのProMotionを採用した6.5インチディスプレイ、パワフルなA19 Proチップ、センターフレームフロントカメラ、一日中使えるバッテリー；クラウドホワイト",
+    "percent_off": 5
+  },
   "B0GR1JD976": {
     "first_seen": "2026-09-15",
     "first_seen_at": "2026-09-15T00:14:54+09:00",
@@ -111,13 +118,6 @@
     "title": "UGREEN 100W モバイルバッテリー 20000mAh 大容量 3ポート USB-C×2Type-A×1 iPhone 18 Pro/Duo対応",
     "percent_off": 36
   },
-  "B0F6NFHB31": {
-    "first_seen": "2026-07-25",
-    "first_seen_at": "2026-07-25T12:00:00+09:00",
-    "last_seen": "2026-09-21",
-    "title": "UGREEN Air モバイルバッテリー 5000mAh 8.6mm超薄型 Qi2 15W MagSafe iPhone18Pro対応",
-    "percent_off": 35
-  },
   "B0G4Q8ZDF3": {
     "first_seen": "2026-07-31",
     "first_seen_at": "2026-07-31T12:00:00+09:00",
@@ -130,7 +130,7 @@
     "first_seen_at": "2026-08-07T21:01:08+09:00",
     "last_seen": "2026-09-21",
     "title": "Anker Power Bank (20000mAh, 87W, Built-In USB-C ケーブル) ブラック",
-    "percent_off": 32
+    "percent_off": 33
   },
   "B0F8HWR4Y9": {
     "first_seen": "2026-09-18",
@@ -139,12 +139,26 @@
     "title": "Belkin BoostCharge モバイルバッテリー ディズプレイ付き (10000mAh 20W USB-Cケーブル内蔵) 最大20W PD高速充電対応 PPS対応 iPhone 17,16～12対応&Androidスマホ対応 2台同時充電 PSE認証 軽量&コンパクト 機内持込可能 アウトドア/災害/緊急用の便利グッズ メーカー保証2年 ブルー BPB027fqBL",
     "percent_off": 32
   },
+  "B0F6NC41DZ": {
+    "first_seen": "2026-08-06",
+    "first_seen_at": "2026-08-06T21:18:24+09:00",
+    "last_seen": "2026-09-21",
+    "title": "UGREEN Air モバイルバッテリー 10000mAh 薄型 Qi2 15W MagSafe ケーブル内蔵 iPhone18Pro対応",
+    "percent_off": 30
+  },
   "B0G2S9LVS4": {
     "first_seen": "2026-09-15",
     "first_seen_at": "2026-09-15T00:14:54+09:00",
     "last_seen": "2026-09-21",
     "title": "UGREEN MagFlow Qi2 25W認証 モバイルバッテリー Magsafe マグネット式ワイヤレス急速充電 10000mAh ブラック",
     "percent_off": 30
+  },
+  "B0B6DLWMJF": {
+    "first_seen": "2026-08-25",
+    "first_seen_at": "2026-08-25T13:56:30+09:00",
+    "last_seen": "2026-09-21",
+    "title": "Belkin MagSafe対応 ワイヤレスモバイルバッテリー 5000mAh 最大7.5W キックスタンド付き ブラック",
+    "percent_off": 29
   },
   "B0CX4C1TVK": {
     "first_seen": "2026-07-27",
@@ -194,13 +208,6 @@
     "last_seen": "2026-09-21",
     "title": "Anker Zolo Power Bank (20000mAh, 30W, Built-In USB-Cケーブル) ブラック",
     "percent_off": 20
-  },
-  "B0FRSR6BVR": {
-    "first_seen": "2026-08-07",
-    "first_seen_at": "2026-08-07T22:31:51+09:00",
-    "last_seen": "2026-09-21",
-    "title": "Belkin MagSafe対応 モバイルバッテリー 軽量 5000mAh USB-C 15W 薄型 iPhone対応 ブラック",
-    "percent_off": 19
   },
   "B0FTZ46NF8": {
     "first_seen": "2026-09-04",
@@ -335,19 +342,19 @@
     "title": "UGREEN 100W GaN 卓上急速充電器 (4*USB-C+2*USB-A) コンパクト【PSE技術基準適合/PD3.0/QC4.0/PPS対応】 複数台同時充電 iPhone17/16/15/14/13/Xperia/Pixel Pro/iPad/ノートPC MacBook Pro/Airなどに対応",
     "percent_off": 25
   },
-  "B0FH28F7SJ": {
-    "first_seen": "2026-09-13",
-    "first_seen_at": "2026-09-13T19:14:35+09:00",
-    "last_seen": "2026-09-21",
-    "title": "Belkin Qi2 25W ワイヤレス充電器 MagSafe対応 3in1充電スタンド iPhone 18・Apple Watch対応 3台同時充電",
-    "percent_off": 9
-  },
   "B0F2MRRKH7": {
     "first_seen": "2026-08-21",
     "first_seen_at": "2026-08-21T00:51:29+09:00",
     "last_seen": "2026-09-21",
     "title": "Anker Prime Charger (160W, 3 Ports) シルバー",
     "percent_off": 17
+  },
+  "B0FH2981XZ": {
+    "first_seen": "2026-09-14",
+    "first_seen_at": "2026-09-14T21:14:43+09:00",
+    "last_seen": "2026-09-21",
+    "title": "Belkin Qi2 25W ワイヤレス充電器 MagSafe対応 3in1充電スタンド iPhone 18・Apple Watch対応 3台同時充電",
+    "percent_off": 16
   },
   "B0D6QQFMCS": {
     "first_seen": "2026-08-07",
@@ -720,6 +727,27 @@
     "title": "アイリスオーヤマ 過熱水蒸気 エア フライヤー 3L 2～3人用 ノンオイルフライヤー スチーム機能 ジューシー FV-M30A-C アイボリー",
     "percent_off": 42
   },
+  "B0F6NFHB31": {
+    "first_seen": "2026-07-25",
+    "first_seen_at": "2026-07-25T12:00:00+09:00",
+    "last_seen": "2026-09-21",
+    "title": "UGREEN Air モバイルバッテリー 5000mAh 8.6mm超薄型 Qi2 15W MagSafe iPhone18Pro対応",
+    "percent_off": 35
+  },
+  "B0FRSR6BVR": {
+    "first_seen": "2026-08-07",
+    "first_seen_at": "2026-08-07T22:31:51+09:00",
+    "last_seen": "2026-09-21",
+    "title": "Belkin MagSafe対応 モバイルバッテリー 軽量 5000mAh USB-C 15W 薄型 iPhone対応 ブラック",
+    "percent_off": 19
+  },
+  "B0FH28F7SJ": {
+    "first_seen": "2026-09-13",
+    "first_seen_at": "2026-09-13T19:14:35+09:00",
+    "last_seen": "2026-09-21",
+    "title": "Belkin Qi2 25W ワイヤレス充電器 MagSafe対応 3in1充電スタンド iPhone 18・Apple Watch対応 3台同時充電",
+    "percent_off": 9
+  },
   "B0FRSRVPT6": {
     "first_seen": "2026-08-15",
     "first_seen_at": "2026-08-15T18:42:49+09:00",
@@ -768,13 +796,6 @@
     "last_seen": "2026-09-21",
     "title": "Apple 11 インチ iPad Air (M3):1TB、12MP フロント/バックカメラ、Wi-Fi 6E + 5G 携帯電話通信- スペースグレイ + 2年延長保証 AppleCare+ for 11インチiPad Air(M3)",
     "percent_off": 10
-  },
-  "B0FQGTZLWX": {
-    "first_seen": "2026-07-31",
-    "first_seen_at": "2026-07-31T12:00:00+09:00",
-    "last_seen": "2026-09-21",
-    "title": "Apple iPhone Air 256GB (SIMフリー)：史上最薄のiPhone、最大120HzのProMotionを採用した6.5インチディスプレイ、パワフルなA19 Proチップ、センターフレームフロントカメラ、一日中使えるバッテリー；クラウドホワイト",
-    "percent_off": 5
   },
   "B0D1QSQWVP": {
     "first_seen": "2026-09-09",
@@ -846,13 +867,6 @@
     "title": "CIO NovaPort DUOⅡ 65W PD急速充電器 USB-C×2 2台同時充電 世界最小級（ホワイト）",
     "percent_off": 27
   },
-  "B0FH2981XZ": {
-    "first_seen": "2026-09-14",
-    "first_seen_at": "2026-09-14T21:14:43+09:00",
-    "last_seen": "2026-09-20",
-    "title": "Belkin Qi2 25W ワイヤレス充電器 MagSafe対応 3in1充電スタンド iPhone 18・Apple Watch対応 3台同時充電",
-    "percent_off": 16
-  },
   "B0F9L8D3CL": {
     "first_seen": "2026-09-19",
     "first_seen_at": "2026-09-19T21:14:41+09:00",
@@ -922,13 +936,6 @@
     "last_seen": "2026-09-20",
     "title": "GARMIN（ガーミン）GPSランニングウォッチ Forerunner 965 Amp Yellow 【日本正規品】",
     "percent_off": 20
-  },
-  "B0F6NC41DZ": {
-    "first_seen": "2026-08-06",
-    "first_seen_at": "2026-08-06T21:18:24+09:00",
-    "last_seen": "2026-09-20",
-    "title": "UGREEN Air モバイルバッテリー 10000mAh 薄型 Qi2 15W MagSafe ケーブル内蔵 iPhone18Pro対応",
-    "percent_off": 30
   },
   "B0G529YNFK": {
     "first_seen": "2026-09-05",
@@ -1069,13 +1076,6 @@
     "last_seen": "2026-09-18",
     "title": "SwitchBot 学習リモコン エアコンリモコン 家電自動化 Alexa ‐ スイッチボット デバイスまとめて操作 エアコン・テレビ・照明など家電をまとめて管理 ストリーミングデバイス対応 直感的な操作 オートメーション スマートホーム(ハブ必要)",
     "percent_off": 14
-  },
-  "B0B6DLWMJF": {
-    "first_seen": "2026-08-25",
-    "first_seen_at": "2026-08-25T13:56:30+09:00",
-    "last_seen": "2026-09-18",
-    "title": "Belkin MagSafe対応 ワイヤレスモバイルバッテリー 5000mAh 最大7.5W キックスタンド付き ブラック",
-    "percent_off": 29
   },
   "B0C8HQJN84": {
     "first_seen": "2026-09-06",
