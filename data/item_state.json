@@ -132,12 +132,12 @@
     "title": "エレコム モバイルバッテリー 10000mAh 45W リール式 巻き取り式ケーブル 2ポート USB-A/C 【残量表示/PSE技術基準適合/PD対応】 しろちゃん EC-C54LWF",
     "percent_off": 21
   },
-  "B0F8HWR4Y9": {
-    "first_seen": "2026-09-18",
-    "first_seen_at": "2026-09-18T01:14:31+09:00",
+  "B0F8HWY897": {
+    "first_seen": "2026-08-02",
+    "first_seen_at": "2026-08-02T02:17:12+09:00",
     "last_seen": "2026-09-21",
-    "title": "Belkin BoostCharge モバイルバッテリー ディズプレイ付き (10000mAh 20W USB-Cケーブル内蔵) 最大20W PD高速充電対応 PPS対応 iPhone 17,16～12対応&Androidスマホ対応 2台同時充電 PSE認証 軽量&コンパクト 機内持込可能 アウトドア/災害/緊急用の便利グッズ メーカー保証2年 ブルー BPB027fqBL",
-    "percent_off": 32
+    "title": "Belkin BoostCharge モバイルバッテリー ディズプレイ付き (10000mAh 20W USB-Cケーブル内蔵) 最大20W PD高速充電対応 PPS対応 iPhone&Androidスマホ対応 2台同時充電 PSE認証 軽量&コンパクト 機内持込可能 アウトドア/災害/緊急用の便利グッズ メーカー保証2年 ホワイト BPB027fqWH",
+    "percent_off": 33
   },
   "B0G2S9LVS4": {
     "first_seen": "2026-09-15",
@@ -222,13 +222,6 @@
     "last_seen": "2026-09-21",
     "title": "Belkin USB充電器 40W iPhone17,16～12 デュアルUSB-C(20W x 2) PD3.0 急速充電対応 ホワイト WCB006dqWHJP",
     "percent_off": 47
-  },
-  "B0BF9ZYCQ5": {
-    "first_seen": "2026-07-31",
-    "first_seen_at": "2026-07-31T12:00:00+09:00",
-    "last_seen": "2026-09-21",
-    "title": "【VGP受賞】Belkin 充電器 USB-C 2ポート PPS規格対応 GaN採用 小型 ACアダプター タイプC 急速充電 軽量【PD3.0対応 /PSE認証/折りたたみ式プラグ】45W(25W+20W) MacBook Windows PC Surface Pro iPad iPhone 17,16～12対応 Galaxy Android スマホ 各種ノートPC対応 WCH011dqWH",
-    "percent_off": 42
   },
   "B0CD1NVW7R": {
     "first_seen": "2026-09-15",
@@ -321,6 +314,13 @@
     "title": "UGREEN PD充電器 type-c 30W 2*USB-C+1*USB-A GaN PSE適合/PD3.0 タイプc充電器 GaNⅡ type c",
     "percent_off": 25
   },
+  "B0GGGMH2M2": {
+    "first_seen": "2026-09-13",
+    "first_seen_at": "2026-09-13T20:14:44+09:00",
+    "last_seen": "2026-09-21",
+    "title": "UGREEN Air 65W USB-C*2 PD 急速充電器 超小型 GaNII Type-C充電器 PSE技術基準適合",
+    "percent_off": 25
+  },
   "B0FJS3P8NT": {
     "first_seen": "2026-07-27",
     "first_seen_at": "2026-07-27T12:00:00+09:00",
@@ -335,19 +335,19 @@
     "title": "UGREEN 100W GaN 卓上急速充電器 (4*USB-C+2*USB-A) コンパクト【PSE技術基準適合/PD3.0/QC4.0/PPS対応】 複数台同時充電 iPhone17/16/15/14/13/Xperia/Pixel Pro/iPad/ノートPC MacBook Pro/Airなどに対応",
     "percent_off": 25
   },
-  "B0FH28F7SJ": {
-    "first_seen": "2026-09-13",
-    "first_seen_at": "2026-09-13T19:14:35+09:00",
-    "last_seen": "2026-09-21",
-    "title": "Belkin Qi2 25W ワイヤレス充電器 MagSafe対応 3in1充電スタンド iPhone 18・Apple Watch対応 3台同時充電",
-    "percent_off": 9
-  },
   "B0F2MRRKH7": {
     "first_seen": "2026-08-21",
     "first_seen_at": "2026-08-21T00:51:29+09:00",
     "last_seen": "2026-09-21",
     "title": "Anker Prime Charger (160W, 3 Ports) シルバー",
     "percent_off": 17
+  },
+  "B0FH2981XZ": {
+    "first_seen": "2026-09-14",
+    "first_seen_at": "2026-09-14T21:14:43+09:00",
+    "last_seen": "2026-09-21",
+    "title": "Belkin Qi2 25W ワイヤレス充電器 MagSafe対応 3in1充電スタンド iPhone 18・Apple Watch対応 3台同時充電",
+    "percent_off": 16
   },
   "B0D6QQFMCS": {
     "first_seen": "2026-08-07",
@@ -727,6 +727,27 @@
     "title": "アイリスオーヤマ 過熱水蒸気 エア フライヤー 3L 2～3人用 ノンオイルフライヤー スチーム機能 ジューシー FV-M30A-C アイボリー",
     "percent_off": 42
   },
+  "B0F8HWR4Y9": {
+    "first_seen": "2026-09-18",
+    "first_seen_at": "2026-09-18T01:14:31+09:00",
+    "last_seen": "2026-09-21",
+    "title": "Belkin BoostCharge モバイルバッテリー ディズプレイ付き (10000mAh 20W USB-Cケーブル内蔵) 最大20W PD高速充電対応 PPS対応 iPhone 17,16～12対応&Androidスマホ対応 2台同時充電 PSE認証 軽量&コンパクト 機内持込可能 アウトドア/災害/緊急用の便利グッズ メーカー保証2年 ブルー BPB027fqBL",
+    "percent_off": 32
+  },
+  "B0BF9ZYCQ5": {
+    "first_seen": "2026-07-31",
+    "first_seen_at": "2026-07-31T12:00:00+09:00",
+    "last_seen": "2026-09-21",
+    "title": "【VGP受賞】Belkin 充電器 USB-C 2ポート PPS規格対応 GaN採用 小型 ACアダプター タイプC 急速充電 軽量【PD3.0対応 /PSE認証/折りたたみ式プラグ】45W(25W+20W) MacBook Windows PC Surface Pro iPad iPhone 17,16～12対応 Galaxy Android スマホ 各種ノートPC対応 WCH011dqWH",
+    "percent_off": 42
+  },
+  "B0FH28F7SJ": {
+    "first_seen": "2026-09-13",
+    "first_seen_at": "2026-09-13T19:14:35+09:00",
+    "last_seen": "2026-09-21",
+    "title": "Belkin Qi2 25W ワイヤレス充電器 MagSafe対応 3in1充電スタンド iPhone 18・Apple Watch対応 3台同時充電",
+    "percent_off": 9
+  },
   "B0D73JBJ56": {
     "first_seen": "2026-08-15",
     "first_seen_at": "2026-08-15T00:10:25+09:00",
@@ -761,13 +782,6 @@
     "last_seen": "2026-09-21",
     "title": "Anker Power Bank (20000mAh, 87W, Built-In USB-C ケーブル) ブラック",
     "percent_off": 33
-  },
-  "B0FH2981XZ": {
-    "first_seen": "2026-09-14",
-    "first_seen_at": "2026-09-14T21:14:43+09:00",
-    "last_seen": "2026-09-21",
-    "title": "Belkin Qi2 25W ワイヤレス充電器 MagSafe対応 3in1充電スタンド iPhone 18・Apple Watch対応 3台同時充電",
-    "percent_off": 16
   },
   "B0GL17FPP3": {
     "first_seen": "2026-09-20",
@@ -1181,13 +1195,6 @@
     "last_seen": "2026-09-18",
     "title": "Apple 2026 MacBook Air M5チップ搭載15インチノートブック：AIとApple Intelligence、15.3インチLiquid Retinaディスプレイ、16GBユニファイドメモリ、512GB SSD、12MPセンターフレームカメラ、Touch ID - スカイブルー + 3年延長 AppleCare+ for 15インチMacBook Air(M5)|ダウンロード版",
     "percent_off": 5
-  },
-  "B0F8HWY897": {
-    "first_seen": "2026-08-02",
-    "first_seen_at": "2026-08-02T02:17:12+09:00",
-    "last_seen": "2026-09-18",
-    "title": "Belkin BoostCharge モバイルバッテリー ディズプレイ付き (10000mAh 20W USB-Cケーブル内蔵) 最大20W PD高速充電対応 PPS対応 iPhone&Androidスマホ対応 2台同時充電 PSE認証 軽量&コンパクト 機内持込可能 アウトドア/災害/緊急用の便利グッズ メーカー保証2年 ホワイト BPB027fqWH",
-    "percent_off": 33
   },
   "B0BKPNYNKW": {
     "first_seen": "2026-09-09",
@@ -1755,13 +1762,6 @@
     "last_seen": "2026-09-13",
     "title": "ロジクール ワイヤレスマウス 静音 無線 高速スクロール Signature M650MBL レギュラー ブルー M650 国内正規品",
     "percent_off": 21
-  },
-  "B0GGGMH2M2": {
-    "first_seen": "2026-09-13",
-    "first_seen_at": "2026-09-13T20:14:44+09:00",
-    "last_seen": "2026-09-13",
-    "title": "UGREEN Air 65W USB-C*2 PD 急速充電器 超小型 GaNII Type-C充電器 PSE技術基準適合",
-    "percent_off": 25
   },
   "B0BKP5MVL5": {
     "first_seen": "2026-09-10",
