@@ -62,13 +62,6 @@
     "title": "Apple 2026 MacBook Air M5チップ搭載15インチノートブック：AIとApple Intelligence、15.3インチLiquid Retinaディスプレイ、16GBユニファイドメモリ、1TB SSDストレージ、12MPセンターフレームカメラ、日本語キーボード、Touch ID - スターライト",
     "percent_off": 5
   },
-  "B0HJB2HN1R": {
-    "first_seen": "2026-09-18",
-    "first_seen_at": "2026-09-18T10:14:31+09:00",
-    "last_seen": "2026-09-21",
-    "title": "ワイヤレス充電ケース付きApple AirPods 5ワイヤレスイヤーバッド",
-    "percent_off": null
-  },
   "B0HJ9VNBZ8": {
     "first_seen": "2026-09-19",
     "first_seen_at": "2026-09-19T08:14:46+09:00",
@@ -208,13 +201,6 @@
     "last_seen": "2026-09-21",
     "title": "CIO SMARTCOBY Ex04 Wireless2.2 CABLE SS5K 半固体モバイルバッテリー Qi2.2 5000mAh (ブラック)",
     "percent_off": 16
-  },
-  "B0CQY7SRTY": {
-    "first_seen": "2026-09-13",
-    "first_seen_at": "2026-09-13T21:14:47+09:00",
-    "last_seen": "2026-09-21",
-    "title": "Anker Power Bank (20000mAh, 30W) ブラック",
-    "percent_off": null
   },
   "B098SQSRRV": {
     "first_seen": "2026-07-31",
@@ -501,7 +487,7 @@
     "first_seen_at": "2026-08-22T00:50:58+09:00",
     "last_seen": "2026-09-21",
     "title": "HUAWEI WATCH D2 ウェアラブル血圧計LCA-B10:ブラック",
-    "percent_off": 18
+    "percent_off": 20
   },
   "B0GZ294HH3": {
     "first_seen": "2026-08-16",
@@ -733,6 +719,20 @@
     "last_seen": "2026-09-21",
     "title": "アイリスオーヤマ 過熱水蒸気 エア フライヤー 3L 2～3人用 ノンオイルフライヤー スチーム機能 ジューシー FV-M30A-C アイボリー",
     "percent_off": 42
+  },
+  "B0HJB2HN1R": {
+    "first_seen": "2026-09-18",
+    "first_seen_at": "2026-09-18T10:14:31+09:00",
+    "last_seen": "2026-09-21",
+    "title": "ワイヤレス充電ケース付きApple AirPods 5ワイヤレスイヤーバッド",
+    "percent_off": null
+  },
+  "B0CQY7SRTY": {
+    "first_seen": "2026-09-13",
+    "first_seen_at": "2026-09-13T21:14:47+09:00",
+    "last_seen": "2026-09-21",
+    "title": "Anker Power Bank (20000mAh, 30W) ブラック",
+    "percent_off": null
   },
   "B0FH2981XZ": {
     "first_seen": "2026-09-14",
