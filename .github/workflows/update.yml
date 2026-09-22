@@ -42,6 +42,7 @@ permissions:
   contents: write  # item_state.json(商品の初検出日)のコミットに必要
   pages: write
   id-token: write
+  actions: read  # notify.pyが連続失敗の判定にワークフロー実行履歴を読むため
 
 concurrency:
   group: pages
@@ -113,13 +114,27 @@ jobs:
           NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
         run: python scripts/notify.py
 
+      # 障害が長引くと失敗のたびに通知が連打されるのを防ぐため、成功した
+      # ときは直前が失敗だった場合にだけ「復旧しました」を1通送る。
+      # 実例: 2026-09-09〜12にApple公式サイトの負荷で林檎ポチだけで28通
+      # (うち15通は30分おき)飛んだことへの対策(3サイト共通で導入)
+      - name: Notify on recovery
+        if: success()
+        env:
+          NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python scripts/notify.py --recovered
+
       # 取得に失敗するとサイトは前回の内容のまま据え置かれる。1回なら実害は
       # ないが、止まったことに気づけないと古い内容が何時間も放置される。
       # Cloud SchedulerのPAT期限切れのように3サイトが同時に静かに止まる事故も
       # あるため、失敗したときだけ鳴らす。必ず最後のステップに置くこと
-      # (前のどのステップが落ちても拾えるようにするため)
+      # (前のどのステップが落ちても拾えるようにするため)。
+      # ただし障害が長引いても毎回は鳴らさず、連続失敗が3時間を超えた
+      # 瞬間の1回だけ鳴るようnotify.py側でエッジトリガーにしてある
       - name: Notify on failure
         if: failure()
         env:
           NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: python scripts/notify.py --failure
