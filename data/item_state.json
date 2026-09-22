@@ -34,13 +34,6 @@
     "title": "iPad(A16と第10世代)用Magic Keyboard Folio - 日本語",
     "percent_off": 8
   },
-  "B0FQFWNSB8": {
-    "first_seen": "2026-09-22",
-    "first_seen_at": "2026-09-22T06:14:53+09:00",
-    "last_seen": "2026-09-22",
-    "title": "Apple iPhone 17 512GB (SIMフリー)：ProMotionを採用した6.3インチディスプレイ、A19チップ、グループセルフィーを一段とスマートに撮れるセンターフレームフロントカメラ、向上した耐擦傷性能、一日中使えるバッテリー；セージ",
-    "percent_off": 5
-  },
   "B0FQGTZLWX": {
     "first_seen": "2026-07-31",
     "first_seen_at": "2026-07-31T12:00:00+09:00",
@@ -62,6 +55,13 @@
     "title": "Apple 2026 MacBook Air M5チップ搭載15インチノートブック：AIとApple Intelligence、15.3インチLiquid Retinaディスプレイ、16GBユニファイドメモリ、1TB SSDストレージ、12MPセンターフレームカメラ、日本語キーボード、Touch ID - スターライト",
     "percent_off": 5
   },
+  "B0GR1W6K3P": {
+    "first_seen": "2026-09-15",
+    "first_seen_at": "2026-09-15T00:14:54+09:00",
+    "last_seen": "2026-09-22",
+    "title": "Apple 2026 MacBook Air M5チップ搭載15インチノートブック：AIとApple Intelligence、15.3インチLiquid Retinaディスプレイ、16GBユニファイドメモリ、512GB SSDストレージ、12MPセンターフレームカメラ、日本語キーボード、Touch ID - スカイブルー",
+    "percent_off": 5
+  },
   "B0HJB2HN1R": {
     "first_seen": "2026-09-18",
     "first_seen_at": "2026-09-18T10:14:31+09:00",
@@ -74,6 +74,13 @@
     "first_seen_at": "2026-09-15T01:14:43+09:00",
     "last_seen": "2026-09-22",
     "title": "Apple 2026 MacBook Air M5チップ搭載15インチノートブック：AIとApple Intelligence、15.3インチLiquid Retinaディスプレイ、16GBユニファイドメモリ、1TB SSD、12MPセンターフレームカメラ、Touch ID - シルバー + 3年延長 AppleCare+ for 15インチMacBook Air(M5)|ダウンロード版",
+    "percent_off": 5
+  },
+  "B0GRV3PVNB": {
+    "first_seen": "2026-09-15",
+    "first_seen_at": "2026-09-15T01:14:43+09:00",
+    "last_seen": "2026-09-22",
+    "title": "Apple 2026 MacBook Air M5チップ搭載15インチノートブック：AIとApple Intelligence、15.3インチLiquid Retinaディスプレイ、16GBユニファイドメモリ、512GB SSD、12MPセンターフレームカメラ、Touch ID - スカイブルー + 3年延長 AppleCare+ for 15インチMacBook Air(M5)|ダウンロード版",
     "percent_off": 5
   },
   "B0F3XFNHCW": {
@@ -95,7 +102,7 @@
     "first_seen_at": "2026-08-16T23:40:53+09:00",
     "last_seen": "2026-09-22",
     "title": "ソニー(SONY) 完全ワイヤレスイヤホン WF-C510 / 軽量小型4.6g / 高精度通話品質/外音取り込み対応/マルチポイント対応 / IPX4防滴性能 / ブラック/WF-C510 BC",
-    "percent_off": 23
+    "percent_off": 24
   },
   "B0DT4RGDSJ": {
     "first_seen": "2026-07-27",
@@ -349,13 +356,6 @@
     "title": "UGREEN 100W GaN 卓上急速充電器 (4*USB-C+2*USB-A) コンパクト【PSE技術基準適合/PD3.0/QC4.0/PPS対応】 複数台同時充電 iPhone17/16/15/14/13/Xperia/Pixel Pro/iPad/ノートPC MacBook Pro/Airなどに対応",
     "percent_off": 25
   },
-  "B0FH28F7SJ": {
-    "first_seen": "2026-09-13",
-    "first_seen_at": "2026-09-13T19:14:35+09:00",
-    "last_seen": "2026-09-22",
-    "title": "Belkin Qi2 25W ワイヤレス充電器 MagSafe対応 3in1充電スタンド iPhone 18・Apple Watch対応 3台同時充電",
-    "percent_off": 9
-  },
   "B0F2MRRKH7": {
     "first_seen": "2026-08-21",
     "first_seen_at": "2026-08-21T00:51:29+09:00",
@@ -501,7 +501,7 @@
     "first_seen_at": "2026-07-30T12:00:00+09:00",
     "last_seen": "2026-09-22",
     "title": "HUAWEI WATCH GT 6 Pro 46mm スマートウォッチ 大画面 GPS搭載 21日間バッテリー 心電図 ゴルフ GPS 通知 ブラック",
-    "percent_off": 15
+    "percent_off": 16
   },
   "B0GX8DRYCX": {
     "first_seen": "2026-09-03",
@@ -712,6 +712,20 @@
     "last_seen": "2026-09-22",
     "title": "アイリスオーヤマ 過熱水蒸気 エア フライヤー 3L 2～3人用 ノンオイルフライヤー スチーム機能 ジューシー FV-M30A-C アイボリー",
     "percent_off": 42
+  },
+  "B0FQFWNSB8": {
+    "first_seen": "2026-09-22",
+    "first_seen_at": "2026-09-22T06:14:53+09:00",
+    "last_seen": "2026-09-22",
+    "title": "Apple iPhone 17 512GB (SIMフリー)：ProMotionを採用した6.3インチディスプレイ、A19チップ、グループセルフィーを一段とスマートに撮れるセンターフレームフロントカメラ、向上した耐擦傷性能、一日中使えるバッテリー；セージ",
+    "percent_off": 5
+  },
+  "B0FH28F7SJ": {
+    "first_seen": "2026-09-13",
+    "first_seen_at": "2026-09-13T19:14:35+09:00",
+    "last_seen": "2026-09-22",
+    "title": "Belkin Qi2 25W ワイヤレス充電器 MagSafe対応 3in1充電スタンド iPhone 18・Apple Watch対応 3台同時充電",
+    "percent_off": 9
   },
   "B0FH2981XZ": {
     "first_seen": "2026-09-14",
@@ -1272,20 +1286,6 @@
     "last_seen": "2026-09-18",
     "title": "Belkin MagSafe対応 ワイヤレスモバイルバッテリー 5000mAh 最大7.5W キックスタンド付き ホワイト",
     "percent_off": 29
-  },
-  "B0GR1W6K3P": {
-    "first_seen": "2026-09-15",
-    "first_seen_at": "2026-09-15T00:14:54+09:00",
-    "last_seen": "2026-09-18",
-    "title": "Apple 2026 MacBook Air M5チップ搭載15インチノートブック：AIとApple Intelligence、15.3インチLiquid Retinaディスプレイ、16GBユニファイドメモリ、512GB SSDストレージ、12MPセンターフレームカメラ、日本語キーボード、Touch ID - スカイブルー",
-    "percent_off": 5
-  },
-  "B0GRV3PVNB": {
-    "first_seen": "2026-09-15",
-    "first_seen_at": "2026-09-15T01:14:43+09:00",
-    "last_seen": "2026-09-18",
-    "title": "Apple 2026 MacBook Air M5チップ搭載15インチノートブック：AIとApple Intelligence、15.3インチLiquid Retinaディスプレイ、16GBユニファイドメモリ、512GB SSD、12MPセンターフレームカメラ、Touch ID - スカイブルー + 3年延長 AppleCare+ for 15インチMacBook Air(M5)|ダウンロード版",
-    "percent_off": 5
   },
   "B0BKPNYNKW": {
     "first_seen": "2026-09-09",
