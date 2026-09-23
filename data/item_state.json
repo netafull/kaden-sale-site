@@ -69,13 +69,6 @@
     "title": "Apple 2026 MacBook Air M5チップ搭載15インチノートブック：AIとApple Intelligence、15.3インチLiquid Retinaディスプレイ、16GBユニファイドメモリ、1TB SSDストレージ、12MPセンターフレームカメラ、日本語キーボード、Touch ID - スターライト",
     "percent_off": 5
   },
-  "B0HJ9VNBZ8": {
-    "first_seen": "2026-09-19",
-    "first_seen_at": "2026-09-19T08:14:46+09:00",
-    "last_seen": "2026-09-23",
-    "title": "Apple AirPods 5ワイヤレスイヤーバッド",
-    "percent_off": null
-  },
   "B0GRTRHHDK": {
     "first_seen": "2026-09-15",
     "first_seen_at": "2026-09-15T01:14:43+09:00",
@@ -375,7 +368,7 @@
     "first_seen_at": "2026-09-22T21:59:36+09:00",
     "last_seen": "2026-09-23",
     "title": "Xiaomi Mini LED ゲーミングモニター G Pro 27i 27インチ 1152ゾーン Fast IPS 1msGTG高速応答 180Hz ピーク輝度1000nit 2560x1440 2K FreeSyncティアリング防止 sRGB100% DCI-P399% 高さ調整 VESAマウント対応 DP1.4x2、HDMI2.0x2",
-    "percent_off": 32
+    "percent_off": 34
   },
   "B0FMY19G96": {
     "first_seen": "2026-08-29",
@@ -468,11 +461,11 @@
     "title": "【Forerunner265後継モデル】GARMIN(ガーミン) GPSランニングウォッチ Forerunner 570 47mm Black 【ロングバッテリー/超軽量/高精度GPS/色鮮やかなAMOLEDタッチディスプレイ/スピーカー＆マイク内蔵/ボイスコントロール/睡眠スコア・Body Battery計測/Music保存機能 有・無/Android/iOS対応/Suica機能搭載/防水】",
     "percent_off": 16
   },
-  "B0BWF2SW7B": {
-    "first_seen": "2026-09-22",
-    "first_seen_at": "2026-09-22T13:14:48+09:00",
+  "B0BWF2TM8R": {
+    "first_seen": "2026-09-21",
+    "first_seen_at": "2026-09-21T22:15:01+09:00",
     "last_seen": "2026-09-23",
-    "title": "GARMIN（ガーミン）GPSランニングウォッチ Forerunner 265S Music White 【日本正規品】",
+    "title": "GARMIN（ガーミン）GPSランニングウォッチ Forerunner 265S Music Black 【日本正規品】",
     "percent_off": 18
   },
   "B0DQ7MJ8P3": {
@@ -713,6 +706,20 @@
     "title": "アイリスオーヤマ 過熱水蒸気 エア フライヤー 3L 2～3人用 ノンオイルフライヤー スチーム機能 ジューシー FV-M30A-C アイボリー",
     "percent_off": 42
   },
+  "B0HJ9VNBZ8": {
+    "first_seen": "2026-09-19",
+    "first_seen_at": "2026-09-19T08:14:46+09:00",
+    "last_seen": "2026-09-23",
+    "title": "Apple AirPods 5ワイヤレスイヤーバッド",
+    "percent_off": null
+  },
+  "B0BWF2SW7B": {
+    "first_seen": "2026-09-22",
+    "first_seen_at": "2026-09-22T13:14:48+09:00",
+    "last_seen": "2026-09-23",
+    "title": "GARMIN（ガーミン）GPSランニングウォッチ Forerunner 265S Music White 【日本正規品】",
+    "percent_off": 18
+  },
   "B0HJB2HN1R": {
     "first_seen": "2026-09-18",
     "first_seen_at": "2026-09-18T10:14:31+09:00",
@@ -733,13 +740,6 @@
     "last_seen": "2026-09-23",
     "title": "Belkin Qi2 25W ワイヤレス充電器 MagSafe対応 3in1充電スタンド iPhone 18・Apple Watch対応 3台同時充電",
     "percent_off": 9
-  },
-  "B0BWF2TM8R": {
-    "first_seen": "2026-09-21",
-    "first_seen_at": "2026-09-21T22:15:01+09:00",
-    "last_seen": "2026-09-23",
-    "title": "GARMIN（ガーミン）GPSランニングウォッチ Forerunner 265S Music Black 【日本正規品】",
-    "percent_off": 18
   },
   "B0GR1W6K3P": {
     "first_seen": "2026-09-15",
