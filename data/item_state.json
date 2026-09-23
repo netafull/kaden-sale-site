@@ -1,11 +1,4 @@
 {
-  "B0DGJBNYVY": {
-    "first_seen": "2026-09-05",
-    "first_seen_at": "2026-09-05T08:14:38+09:00",
-    "last_seen": "2026-09-23",
-    "title": "Apple AirPods 4 アクティブノイズ キャンセリング搭載、ワイヤレスイヤホン、Bluetooth 5.3、ライブ翻訳、適応型オーディオ、外部音取り込みモード、パーソナライズされた空間オーディオ、USB-C充電ケース、ワイヤレス充電、H2チップ、防塵性能と耐汗耐水性能、「探す」対応、Qi充電",
-    "percent_off": 21
-  },
   "B0GJTW9CL8": {
     "first_seen": "2026-08-07",
     "first_seen_at": "2026-08-07T09:18:51+09:00",
@@ -40,6 +33,13 @@
     "last_seen": "2026-09-23",
     "title": "Apple 13インチiPad Air（M4）：Liquid Retinaディスプレイ、1TB、12MPフロント/バックカメラ、Apple N1によるWi-Fi 7、Touch ID、一日中使えるバッテリー — スターライト",
     "percent_off": 9
+  },
+  "B0FQGTZLWX": {
+    "first_seen": "2026-07-31",
+    "first_seen_at": "2026-07-31T12:00:00+09:00",
+    "last_seen": "2026-09-23",
+    "title": "Apple iPhone Air 256GB (SIMフリー)",
+    "percent_off": null
   },
   "B0GR1JD976": {
     "first_seen": "2026-09-15",
@@ -391,19 +391,19 @@
     "title": "BenQ MOBIUZ EX251 24.5インチ IPS フルHD 220Hz 1ms ゲーミングモニター",
     "percent_off": 23
   },
-  "B0DNKC8HXP": {
-    "first_seen": "2026-08-02",
-    "first_seen_at": "2026-08-02T11:33:18+09:00",
-    "last_seen": "2026-09-23",
-    "title": "INNOCN ゲーミングモニター 24.5インチ 200Hz IPS 1ms(GTG) フルHD 非光沢 フレームレス PS5/Xbox対応 Adaptive-Sync VESA100×100 HDMI2.0/DP1.4接続 25G2G",
-    "percent_off": 5
-  },
   "B0F7X3VJ99": {
     "first_seen": "2026-08-02",
     "first_seen_at": "2026-08-02T11:33:18+09:00",
     "last_seen": "2026-09-23",
     "title": "IODATA GigaCrysta ゲーミングモニター 27型 WQHD 200Hz MiniLED (HDMI/DP) EX-GDQ271JLAQ",
     "percent_off": 17
+  },
+  "B0DNKC8HXP": {
+    "first_seen": "2026-08-02",
+    "first_seen_at": "2026-08-02T11:33:18+09:00",
+    "last_seen": "2026-09-23",
+    "title": "INNOCN ゲーミングモニター 24.5インチ 200Hz IPS 1ms(GTG) フルHD 非光沢 フレームレス PS5/Xbox対応 Adaptive-Sync VESA100×100 HDMI2.0/DP1.4接続 25G2G",
+    "percent_off": 15
   },
   "B0C9TKSP8V": {
     "first_seen": "2026-07-30",
@@ -461,11 +461,11 @@
     "title": "【Forerunner265後継モデル】GARMIN(ガーミン) GPSランニングウォッチ Forerunner 570 47mm Black 【ロングバッテリー/超軽量/高精度GPS/色鮮やかなAMOLEDタッチディスプレイ/スピーカー＆マイク内蔵/ボイスコントロール/睡眠スコア・Body Battery計測/Music保存機能 有・無/Android/iOS対応/Suica機能搭載/防水】",
     "percent_off": 16
   },
-  "B0BWF2TM8R": {
-    "first_seen": "2026-09-21",
-    "first_seen_at": "2026-09-21T22:15:01+09:00",
+  "B0BWF2SW7B": {
+    "first_seen": "2026-09-22",
+    "first_seen_at": "2026-09-22T13:14:48+09:00",
     "last_seen": "2026-09-23",
-    "title": "GARMIN（ガーミン）GPSランニングウォッチ Forerunner 265S Music Black 【日本正規品】",
+    "title": "GARMIN（ガーミン）GPSランニングウォッチ Forerunner 265S Music White 【日本正規品】",
     "percent_off": 18
   },
   "B0DQ7MJ8P3": {
@@ -629,13 +629,6 @@
     "title": "ロジクール ワイヤレスマウス 静音 無線 高速スクロール Signature M650MGR レギュラー グラファイト M650 国内正規品",
     "percent_off": 21
   },
-  "B07DVC25R2": {
-    "first_seen": "2026-07-26",
-    "first_seen_at": "2026-07-26T12:00:00+09:00",
-    "last_seen": "2026-09-23",
-    "title": "Logicool G ゲーミングマウス G304 LIGHTSPEED ワイヤレス ゲーミング マウス 軽量 99g HERO 12Kセンサー 6個プログラムボタン 250時間連続使用可能 ブラック PC windows mac 国内正規品 【 ファイナルファンタジー XIV 推奨モデル 】",
-    "percent_off": 20
-  },
   "B0CJR5HBMN": {
     "first_seen": "2026-08-04",
     "first_seen_at": "2026-08-04T21:17:38+09:00",
@@ -648,6 +641,13 @@
     "first_seen_at": "2026-08-04T18:28:41+09:00",
     "last_seen": "2026-09-23",
     "title": "ロジクール ワイヤレスキーボード K295GP 静音 耐水 キーボード 無線 Unifying K295 グラファイト 国内正規品",
+    "percent_off": 18
+  },
+  "B07DVC25R2": {
+    "first_seen": "2026-07-26",
+    "first_seen_at": "2026-07-26T12:00:00+09:00",
+    "last_seen": "2026-09-23",
+    "title": "Logicool G ゲーミングマウス G304 LIGHTSPEED ワイヤレス ゲーミング マウス 軽量 99g HERO 12Kセンサー 6個プログラムボタン 250時間連続使用可能 ブラック PC windows mac 国内正規品 【 ファイナルファンタジー XIV 推奨モデル 】",
     "percent_off": 18
   },
   "B0CJR8Y56J": {
@@ -706,6 +706,20 @@
     "title": "アイリスオーヤマ 過熱水蒸気 エア フライヤー 3L 2～3人用 ノンオイルフライヤー スチーム機能 ジューシー FV-M30A-C アイボリー",
     "percent_off": 42
   },
+  "B0DGJBNYVY": {
+    "first_seen": "2026-09-05",
+    "first_seen_at": "2026-09-05T08:14:38+09:00",
+    "last_seen": "2026-09-23",
+    "title": "Apple AirPods 4 アクティブノイズ キャンセリング搭載、ワイヤレスイヤホン、Bluetooth 5.3、ライブ翻訳、適応型オーディオ、外部音取り込みモード、パーソナライズされた空間オーディオ、USB-C充電ケース、ワイヤレス充電、H2チップ、防塵性能と耐汗耐水性能、「探す」対応、Qi充電",
+    "percent_off": 21
+  },
+  "B0BWF2TM8R": {
+    "first_seen": "2026-09-21",
+    "first_seen_at": "2026-09-21T22:15:01+09:00",
+    "last_seen": "2026-09-23",
+    "title": "GARMIN（ガーミン）GPSランニングウォッチ Forerunner 265S Music Black 【日本正規品】",
+    "percent_off": 18
+  },
   "B0GR1W6K3P": {
     "first_seen": "2026-09-15",
     "first_seen_at": "2026-09-15T00:14:54+09:00",
@@ -754,13 +768,6 @@
     "last_seen": "2026-09-23",
     "title": "UGREEN 160W 5口充電器 カラーディスプレイ搭載 Type-C 4C1A 5ポート PD3.2/PPS5A/QC4対応 折り畳み式",
     "percent_off": 27
-  },
-  "B0FQGTZLWX": {
-    "first_seen": "2026-07-31",
-    "first_seen_at": "2026-07-31T12:00:00+09:00",
-    "last_seen": "2026-09-23",
-    "title": "Apple iPhone Air 256GB (SIMフリー)：史上最薄のiPhone、最大120HzのProMotionを採用した6.5インチディスプレイ、パワフルなA19 Proチップ、センターフレームフロントカメラ、一日中使えるバッテリー；クラウドホワイト",
-    "percent_off": null
   },
   "B09SYV3P5B": {
     "first_seen": "2026-09-09",
@@ -950,13 +957,6 @@
     "last_seen": "2026-09-22",
     "title": "Apple iPhone 17 512GB (SIMフリー)：ProMotionを採用した6.3インチディスプレイ、A19チップ、グループセルフィーを一段とスマートに撮れるセンターフレームフロントカメラ、向上した耐擦傷性能、一日中使えるバッテリー；セージ",
     "percent_off": 5
-  },
-  "B0BWF2SW7B": {
-    "first_seen": "2026-09-22",
-    "first_seen_at": "2026-09-22T13:14:48+09:00",
-    "last_seen": "2026-09-22",
-    "title": "GARMIN（ガーミン）GPSランニングウォッチ Forerunner 265S Music White 【日本正規品】",
-    "percent_off": 18
   },
   "B0FQFQDN6K": {
     "first_seen": "2026-07-29",
