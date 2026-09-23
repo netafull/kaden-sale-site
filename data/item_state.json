@@ -41,13 +41,6 @@
     "title": "Apple iPhone Air 512GB (SIMフリー)",
     "percent_off": null
   },
-  "B0FQFPZW9G": {
-    "first_seen": "2026-07-31",
-    "first_seen_at": "2026-07-31T12:00:00+09:00",
-    "last_seen": "2026-09-24",
-    "title": "Apple iPhone Air 512GB (SIMフリー)",
-    "percent_off": null
-  },
   "B0FQGJTXYQ": {
     "first_seen": "2026-09-19",
     "first_seen_at": "2026-09-19T04:14:48+09:00",
@@ -83,6 +76,13 @@
     "title": "Apple iPhone Air 256GB (SIMフリー)",
     "percent_off": 6
   },
+  "B0FQFWNSB8": {
+    "first_seen": "2026-09-22",
+    "first_seen_at": "2026-09-22T06:14:53+09:00",
+    "last_seen": "2026-09-24",
+    "title": "Apple iPhone 17 512GB (SIMフリー)：ProMotionを採用した6.3インチディスプレイ、A19チップ、グループセルフィーを一段とスマートに撮れるセンターフレームフロントカメラ、向上した耐擦傷性能、一日中使えるバッテリー；セージ",
+    "percent_off": 5
+  },
   "B0GR1JD976": {
     "first_seen": "2026-09-15",
     "first_seen_at": "2026-09-15T00:14:54+09:00",
@@ -116,6 +116,13 @@
     "first_seen_at": "2026-09-18T10:14:31+09:00",
     "last_seen": "2026-09-24",
     "title": "ワイヤレス充電ケース付きApple AirPods 5ワイヤレスイヤーバッド",
+    "percent_off": null
+  },
+  "B0HJ9VNBZ8": {
+    "first_seen": "2026-09-19",
+    "first_seen_at": "2026-09-19T08:14:46+09:00",
+    "last_seen": "2026-09-24",
+    "title": "Apple AirPods 5ワイヤレスイヤーバッド",
     "percent_off": null
   },
   "B0GRTRHHDK": {
@@ -342,6 +349,13 @@
     "title": "CIO NovaPort DUOⅡ 65W PD急速充電器 USB-C×2 2台同時充電 世界最小級（ブラック）",
     "percent_off": 27
   },
+  "B0FYFDD1WW": {
+    "first_seen": "2026-09-14",
+    "first_seen_at": "2026-09-14T07:14:41+09:00",
+    "last_seen": "2026-09-24",
+    "title": "UGREEN 160W 5口充電器 カラーディスプレイ搭載 Type-C 4C1A 5ポート PD3.2/PPS5A/QC4対応 折り畳み式",
+    "percent_off": 27
+  },
   "B0F99FCSX7": {
     "first_seen": "2026-07-27",
     "first_seen_at": "2026-07-27T12:00:00+09:00",
@@ -376,6 +390,13 @@
     "last_seen": "2026-09-24",
     "title": "UGREEN 100W GaN 卓上急速充電器 (4*USB-C+2*USB-A) コンパクト【PSE技術基準適合/PD3.0/QC4.0/PPS対応】 複数台同時充電 iPhone17/16/15/14/13/Xperia/Pixel Pro/iPad/ノートPC MacBook Pro/Airなどに対応",
     "percent_off": 25
+  },
+  "B0FH28F7SJ": {
+    "first_seen": "2026-09-13",
+    "first_seen_at": "2026-09-13T19:14:35+09:00",
+    "last_seen": "2026-09-24",
+    "title": "Belkin Qi2 25W ワイヤレス充電器 MagSafe対応 3in1充電スタンド iPhone 18・Apple Watch対応 3台同時充電",
+    "percent_off": 9
   },
   "B0F2MRRKH7": {
     "first_seen": "2026-08-21",
@@ -720,19 +741,19 @@
     "title": "アイリスオーヤマ 過熱水蒸気 エア フライヤー 3L 2～3人用 ノンオイルフライヤー スチーム機能 ジューシー FV-M30A-C アイボリー",
     "percent_off": 42
   },
+  "B0FQFPZW9G": {
+    "first_seen": "2026-07-31",
+    "first_seen_at": "2026-07-31T12:00:00+09:00",
+    "last_seen": "2026-09-24",
+    "title": "Apple iPhone Air 512GB (SIMフリー)",
+    "percent_off": null
+  },
   "B0FH2981XZ": {
     "first_seen": "2026-09-14",
     "first_seen_at": "2026-09-14T21:14:43+09:00",
     "last_seen": "2026-09-24",
     "title": "Belkin Qi2 25W ワイヤレス充電器 MagSafe対応 3in1充電スタンド iPhone 18・Apple Watch対応 3台同時充電",
     "percent_off": 16
-  },
-  "B0FH28F7SJ": {
-    "first_seen": "2026-09-13",
-    "first_seen_at": "2026-09-13T19:14:35+09:00",
-    "last_seen": "2026-09-24",
-    "title": "Belkin Qi2 25W ワイヤレス充電器 MagSafe対応 3in1充電スタンド iPhone 18・Apple Watch対応 3台同時充電",
-    "percent_off": 9
   },
   "B0FQGTZLWX": {
     "first_seen": "2026-07-31",
@@ -768,13 +789,6 @@
     "last_seen": "2026-09-24",
     "title": "Belkin モバイルバッテリー 軽量 10000mAh 20W USB-Cケーブル内蔵 2台同時充電 ホワイト",
     "percent_off": 37
-  },
-  "B0FYFDD1WW": {
-    "first_seen": "2026-09-14",
-    "first_seen_at": "2026-09-14T07:14:41+09:00",
-    "last_seen": "2026-09-24",
-    "title": "UGREEN 160W 5口充電器 カラーディスプレイ搭載 Type-C 4C1A 5ポート PD3.2/PPS5A/QC4対応 折り畳み式",
-    "percent_off": 27
   },
   "B0GF26RSYQ": {
     "first_seen": "2026-07-27",
@@ -1028,13 +1042,6 @@
     "title": "東プレ GX1 Keyboard 獅白ぼたん モデル 日本語配列 REALFORCE ゲーミングキーボード TKL 91キー X1UCS1 KB0911",
     "percent_off": 38
   },
-  "B0HJ9VNBZ8": {
-    "first_seen": "2026-09-19",
-    "first_seen_at": "2026-09-19T08:14:46+09:00",
-    "last_seen": "2026-09-23",
-    "title": "Apple AirPods 5ワイヤレスイヤーバッド",
-    "percent_off": null
-  },
   "B0BWF2SW7B": {
     "first_seen": "2026-09-22",
     "first_seen_at": "2026-09-22T13:14:48+09:00",
@@ -1188,13 +1195,6 @@
     "last_seen": "2026-09-22",
     "title": "Anker Power Bank (10000mAh, Fusion, Built-In USB-C ケーブル) ブラック",
     "percent_off": 28
-  },
-  "B0FQFWNSB8": {
-    "first_seen": "2026-09-22",
-    "first_seen_at": "2026-09-22T06:14:53+09:00",
-    "last_seen": "2026-09-22",
-    "title": "Apple iPhone 17 512GB (SIMフリー)：ProMotionを採用した6.3インチディスプレイ、A19チップ、グループセルフィーを一段とスマートに撮れるセンターフレームフロントカメラ、向上した耐擦傷性能、一日中使えるバッテリー；セージ",
-    "percent_off": 5
   },
   "B0FQFQDN6K": {
     "first_seen": "2026-07-29",
