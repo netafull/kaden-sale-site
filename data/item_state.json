@@ -27,6 +27,13 @@
     "title": "Apple Watch Series 11(GPSモデル)- 42mmローズゴールドアルミニウムケースとライトブラッシュスポーツバンド - M/L、睡眠時無呼吸、高血圧パターン、血中酸素、心電図、排卵推定、心拍数、服薬、マインドフルネス、ノイズ、睡眠スコア、転倒検出、IPX6X防塵、泳げる耐水、Suica対応、高速充電対応",
     "percent_off": null
   },
+  "B0FQFHZ5KH": {
+    "first_seen": "2026-07-31",
+    "first_seen_at": "2026-07-31T12:00:00+09:00",
+    "last_seen": "2026-09-23",
+    "title": "Apple iPhone Air 512GB (SIMフリー)",
+    "percent_off": null
+  },
   "B0FQFPZW9G": {
     "first_seen": "2026-07-31",
     "first_seen_at": "2026-07-31T12:00:00+09:00",
@@ -102,7 +109,7 @@
     "first_seen_at": "2026-08-16T23:40:53+09:00",
     "last_seen": "2026-09-23",
     "title": "ソニー(SONY) 完全ワイヤレスイヤホン WF-C510 / 軽量小型4.6g / 高精度通話品質/外音取り込み対応/マルチポイント対応 / IPX4防滴性能 / ブラック/WF-C510 BC",
-    "percent_off": 23
+    "percent_off": 24
   },
   "B0DT4RGDSJ": {
     "first_seen": "2026-07-27",
@@ -363,19 +370,19 @@
     "title": "REGZA ゲーミングモニター 27インチ WQHD 240Hz モンスターハンターワイルズ推奨画質 1ms(GTG) HDR10 Fast IPSパネル Adaptive Sync HDMI対応 RM-G276N",
     "percent_off": 38
   },
+  "B0D47LXJBG": {
+    "first_seen": "2026-09-22",
+    "first_seen_at": "2026-09-22T21:59:36+09:00",
+    "last_seen": "2026-09-23",
+    "title": "Xiaomi Mini LED ゲーミングモニター G Pro 27i 27インチ 1152ゾーン Fast IPS 1msGTG高速応答 180Hz ピーク輝度1000nit 2560x1440 2K FreeSyncティアリング防止 sRGB100% DCI-P399% 高さ調整 VESAマウント対応 DP1.4x2、HDMI2.0x2",
+    "percent_off": 38
+  },
   "B0FJYGH18X": {
     "first_seen": "2026-08-25",
     "first_seen_at": "2026-08-25T22:13:25+09:00",
     "last_seen": "2026-09-23",
     "title": "INNOCN QD-MiniLED 4k モニター 27インチ ゲーミングモニター 4K＠160Hz/フルHD＠320Hz切り替え デュアルモニター ホワイト 0.5ms MPCS 非光沢 広色域 無輝点保証対応 (量子ドット/HDR1000/HDMI 2.1×2/DP 1.4×2/USBハブ/Type-C 90W/VESA対応/スピーカー) GA27V1M",
     "percent_off": 28
-  },
-  "B0D47LXJBG": {
-    "first_seen": "2026-09-22",
-    "first_seen_at": "2026-09-22T21:59:36+09:00",
-    "last_seen": "2026-09-23",
-    "title": "Xiaomi Mini LED ゲーミングモニター G Pro 27i 27インチ 1152ゾーン Fast IPS 1msGTG高速応答 180Hz ピーク輝度1000nit 2560x1440 2K FreeSyncティアリング防止 sRGB100% DCI-P399% 高さ調整 VESAマウント対応 DP1.4x2、HDMI2.0x2",
-    "percent_off": 34
   },
   "B0FMY19G96": {
     "first_seen": "2026-08-29",
@@ -580,13 +587,6 @@
     "title": "Razer ラピッドトリガー 搭載 Huntsman V3 Pro Mini JP ラピッドトリガーと調整可能なアクチュエーション搭載のアナログ ゲーミングキーボード アナログオプティカルスイッチ 調整可能なアクチュエーション 押下圧 40G 日本語配列 ハンツマン ブイスリー プロ ミニ ジェイピー【日本正規代理店保証品】 ブラック",
     "percent_off": 42
   },
-  "B0DPF33WVV": {
-    "first_seen": "2026-09-17",
-    "first_seen_at": "2026-09-17T00:14:58+09:00",
-    "last_seen": "2026-09-23",
-    "title": "東プレ GX1 Keyboard 獅白ぼたん モデル 日本語配列 REALFORCE ゲーミングキーボード TKL 91キー X1UCS1 KB0911",
-    "percent_off": 38
-  },
   "B0BKP5R91F": {
     "first_seen": "2026-08-04",
     "first_seen_at": "2026-08-04T12:38:09+09:00",
@@ -712,6 +712,13 @@
     "last_seen": "2026-09-23",
     "title": "アイリスオーヤマ 過熱水蒸気 エア フライヤー 3L 2～3人用 ノンオイルフライヤー スチーム機能 ジューシー FV-M30A-C アイボリー",
     "percent_off": 42
+  },
+  "B0DPF33WVV": {
+    "first_seen": "2026-09-17",
+    "first_seen_at": "2026-09-17T00:14:58+09:00",
+    "last_seen": "2026-09-23",
+    "title": "東プレ GX1 Keyboard 獅白ぼたん モデル 日本語配列 REALFORCE ゲーミングキーボード TKL 91キー X1UCS1 KB0911",
+    "percent_off": 38
   },
   "B0HJ9VNBZ8": {
     "first_seen": "2026-09-19",
@@ -2091,13 +2098,6 @@
     "last_seen": "2026-09-10",
     "title": "HUAWEI WATCH FIT 4 スマートウォッチ 薄型軽量 1.82インチ大画面 アウトドアに適した気圧計と測位システム 通知 フィットネス ヘルストラッカー 情緒測定 10日間ロングバッテリー iOS/Android ホワイト",
     "percent_off": 30
-  },
-  "B0FQFHZ5KH": {
-    "first_seen": "2026-07-31",
-    "first_seen_at": "2026-07-31T12:00:00+09:00",
-    "last_seen": "2026-09-10",
-    "title": "Apple iPhone Air 512GB (SIMフリー)：史上最薄のiPhone、最大120HzのProMotionを採用した6.5インチディスプレイ、パワフルなA19 Proチップ、センターフレームフロントカメラ、一日中使えるバッテリー；スペースブラック",
-    "percent_off": null
   },
   "B0D53XSFR8": {
     "first_seen": "2026-07-29",
