@@ -76,13 +76,6 @@
     "title": "Apple iPhone Air 256GB (SIMフリー)",
     "percent_off": 6
   },
-  "B0FQFWNSB8": {
-    "first_seen": "2026-09-22",
-    "first_seen_at": "2026-09-22T06:14:53+09:00",
-    "last_seen": "2026-09-24",
-    "title": "Apple iPhone 17 512GB (SIMフリー)：ProMotionを採用した6.3インチディスプレイ、A19チップ、グループセルフィーを一段とスマートに撮れるセンターフレームフロントカメラ、向上した耐擦傷性能、一日中使えるバッテリー；セージ",
-    "percent_off": 5
-  },
   "B0GR1JD976": {
     "first_seen": "2026-09-15",
     "first_seen_at": "2026-09-15T00:14:54+09:00",
@@ -174,33 +167,12 @@
     "title": "UGREEN Air モバイルバッテリー 5000mAh 8.6mm超薄型 Qi2 15W MagSafe iPhone18Pro対応",
     "percent_off": 35
   },
-  "B0DSPVP337": {
-    "first_seen": "2026-08-29",
-    "first_seen_at": "2026-08-29T03:42:48+09:00",
-    "last_seen": "2026-09-24",
-    "title": "UGREEN 145W モバイルバッテリー 20000mAh USB-Cケーブル内蔵 2C1A 多ポート",
-    "percent_off": 30
-  },
   "B0G2S9LVS4": {
     "first_seen": "2026-09-15",
     "first_seen_at": "2026-09-15T00:14:54+09:00",
     "last_seen": "2026-09-24",
     "title": "UGREEN MagFlow Qi2 25W認証 モバイルバッテリー Magsafe マグネット式ワイヤレス急速充電 10000mAh ブラック",
     "percent_off": 30
-  },
-  "B0C3GTMX5M": {
-    "first_seen": "2026-09-18",
-    "first_seen_at": "2026-09-18T21:14:31+09:00",
-    "last_seen": "2026-09-24",
-    "title": "UGREEN 100W モバイルバッテリー 20000mAh 大容量 3ポート USB-C×2Type-A×1 iPhone 18 Pro/Duo対応",
-    "percent_off": 30
-  },
-  "B0D4F34SB4": {
-    "first_seen": "2026-07-24",
-    "first_seen_at": "2026-07-24T12:00:00+09:00",
-    "last_seen": "2026-09-24",
-    "title": "UGREEN 145W 4-in-1モバイルバッテリー 20000mAh 15Wワイヤレス充電対応 3ポート iPhone 18 Pro/Duo対応",
-    "percent_off": 28
   },
   "B0FKH14VSL": {
     "first_seen": "2026-08-31",
@@ -215,13 +187,6 @@
     "last_seen": "2026-09-24",
     "title": "エレコム モバイルバッテリー 10000mAh 45W リール式 巻き取り式ケーブル 2ポート USB-A/C 【残量表示/PSE技術基準適合/PD対応】 しろちゃん EC-C54LWF",
     "percent_off": 21
-  },
-  "B0FTZ6FYG6": {
-    "first_seen": "2026-09-23",
-    "first_seen_at": "2026-09-23T23:14:45+09:00",
-    "last_seen": "2026-09-24",
-    "title": "CIO SMARTCOBY SLIM II Wireless2.2 Pro 10K モバイルバッテリー ワイヤレス充電 10000mAh (シルバー)",
-    "percent_off": 22
   },
   "B0DSPVDYQ9": {
     "first_seen": "2026-07-24",
@@ -347,13 +312,6 @@
     "first_seen_at": "2026-07-29T12:00:00+09:00",
     "last_seen": "2026-09-24",
     "title": "CIO NovaPort DUOⅡ 65W PD急速充電器 USB-C×2 2台同時充電 世界最小級（ブラック）",
-    "percent_off": 27
-  },
-  "B0FYFDD1WW": {
-    "first_seen": "2026-09-14",
-    "first_seen_at": "2026-09-14T07:14:41+09:00",
-    "last_seen": "2026-09-24",
-    "title": "UGREEN 160W 5口充電器 カラーディスプレイ搭載 Type-C 4C1A 5ポート PD3.2/PPS5A/QC4対応 折り畳み式",
     "percent_off": 27
   },
   "B0F99FCSX7": {
@@ -740,6 +698,48 @@
     "last_seen": "2026-09-24",
     "title": "アイリスオーヤマ 過熱水蒸気 エア フライヤー 3L 2～3人用 ノンオイルフライヤー スチーム機能 ジューシー FV-M30A-C アイボリー",
     "percent_off": 42
+  },
+  "B0FQFWNSB8": {
+    "first_seen": "2026-09-22",
+    "first_seen_at": "2026-09-22T06:14:53+09:00",
+    "last_seen": "2026-09-24",
+    "title": "Apple iPhone 17 512GB (SIMフリー)：ProMotionを採用した6.3インチディスプレイ、A19チップ、グループセルフィーを一段とスマートに撮れるセンターフレームフロントカメラ、向上した耐擦傷性能、一日中使えるバッテリー；セージ",
+    "percent_off": 5
+  },
+  "B0DSPVP337": {
+    "first_seen": "2026-08-29",
+    "first_seen_at": "2026-08-29T03:42:48+09:00",
+    "last_seen": "2026-09-24",
+    "title": "UGREEN 145W モバイルバッテリー 20000mAh USB-Cケーブル内蔵 2C1A 多ポート",
+    "percent_off": 30
+  },
+  "B0C3GTMX5M": {
+    "first_seen": "2026-09-18",
+    "first_seen_at": "2026-09-18T21:14:31+09:00",
+    "last_seen": "2026-09-24",
+    "title": "UGREEN 100W モバイルバッテリー 20000mAh 大容量 3ポート USB-C×2Type-A×1 iPhone 18 Pro/Duo対応",
+    "percent_off": 30
+  },
+  "B0D4F34SB4": {
+    "first_seen": "2026-07-24",
+    "first_seen_at": "2026-07-24T12:00:00+09:00",
+    "last_seen": "2026-09-24",
+    "title": "UGREEN 145W 4-in-1モバイルバッテリー 20000mAh 15Wワイヤレス充電対応 3ポート iPhone 18 Pro/Duo対応",
+    "percent_off": 28
+  },
+  "B0FTZ6FYG6": {
+    "first_seen": "2026-09-23",
+    "first_seen_at": "2026-09-23T23:14:45+09:00",
+    "last_seen": "2026-09-24",
+    "title": "CIO SMARTCOBY SLIM II Wireless2.2 Pro 10K モバイルバッテリー ワイヤレス充電 10000mAh (シルバー)",
+    "percent_off": 22
+  },
+  "B0FYFDD1WW": {
+    "first_seen": "2026-09-14",
+    "first_seen_at": "2026-09-14T07:14:41+09:00",
+    "last_seen": "2026-09-24",
+    "title": "UGREEN 160W 5口充電器 カラーディスプレイ搭載 Type-C 4C1A 5ポート PD3.2/PPS5A/QC4対応 折り畳み式",
+    "percent_off": 27
   },
   "B0FQFPZW9G": {
     "first_seen": "2026-07-31",
