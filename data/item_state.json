@@ -1,4 +1,11 @@
 {
+  "B0DGJBNYVY": {
+    "first_seen": "2026-09-05",
+    "first_seen_at": "2026-09-05T08:14:38+09:00",
+    "last_seen": "2026-09-23",
+    "title": "Apple AirPods 4 アクティブノイズ キャンセリング搭載、ワイヤレスイヤホン、Bluetooth 5.3、ライブ翻訳、適応型オーディオ、外部音取り込みモード、パーソナライズされた空間オーディオ、USB-C充電ケース、ワイヤレス充電、H2チップ、防塵性能と耐汗耐水性能、「探す」対応、Qi充電",
+    "percent_off": 21
+  },
   "B0GJTW9CL8": {
     "first_seen": "2026-08-07",
     "first_seen_at": "2026-08-07T09:18:51+09:00",
@@ -83,6 +90,13 @@
     "title": "Apple 11インチiPad Air（M4）：Liquid Retinaディスプレイ、256GB、12MPフロント/バックカメラ、Apple N1によるWi-Fi 7、Touch ID、一日中使えるバッテリー — スペースグレイ",
     "percent_off": null
   },
+  "B0GQWJCR4K": {
+    "first_seen": "2026-09-23",
+    "first_seen_at": "2026-09-23T17:14:35+09:00",
+    "last_seen": "2026-09-23",
+    "title": "Apple 11インチiPad Air（M4）：Liquid Retinaディスプレイ、128GB、12MPフロント/バックカメラ、Apple N1によるWi-Fi 7、Touch ID、一日中使えるバッテリー — スペースグレイ",
+    "percent_off": null
+  },
   "B0GRTRHHDK": {
     "first_seen": "2026-09-15",
     "first_seen_at": "2026-09-15T01:14:43+09:00",
@@ -109,7 +123,7 @@
     "first_seen_at": "2026-08-16T23:40:53+09:00",
     "last_seen": "2026-09-23",
     "title": "ソニー(SONY) 完全ワイヤレスイヤホン WF-C510 / 軽量小型4.6g / 高精度通話品質/外音取り込み対応/マルチポイント対応 / IPX4防滴性能 / ブラック/WF-C510 BC",
-    "percent_off": 23
+    "percent_off": 24
   },
   "B0DT4RGDSJ": {
     "first_seen": "2026-07-27",
@@ -342,19 +356,19 @@
     "title": "UGREEN 100W GaN 卓上急速充電器 (4*USB-C+2*USB-A) コンパクト【PSE技術基準適合/PD3.0/QC4.0/PPS対応】 複数台同時充電 iPhone17/16/15/14/13/Xperia/Pixel Pro/iPad/ノートPC MacBook Pro/Airなどに対応",
     "percent_off": 25
   },
-  "B0FH28F7SJ": {
-    "first_seen": "2026-09-13",
-    "first_seen_at": "2026-09-13T19:14:35+09:00",
-    "last_seen": "2026-09-23",
-    "title": "Belkin Qi2 25W ワイヤレス充電器 MagSafe対応 3in1充電スタンド iPhone 18・Apple Watch対応 3台同時充電",
-    "percent_off": 9
-  },
   "B0F2MRRKH7": {
     "first_seen": "2026-08-21",
     "first_seen_at": "2026-08-21T00:51:29+09:00",
     "last_seen": "2026-09-23",
     "title": "Anker Prime Charger (160W, 3 Ports) シルバー",
     "percent_off": 17
+  },
+  "B0FH2981XZ": {
+    "first_seen": "2026-09-14",
+    "first_seen_at": "2026-09-14T21:14:43+09:00",
+    "last_seen": "2026-09-23",
+    "title": "Belkin Qi2 25W ワイヤレス充電器 MagSafe対応 3in1充電スタンド iPhone 18・Apple Watch対応 3台同時充電",
+    "percent_off": 16
   },
   "B0D6QQFMCS": {
     "first_seen": "2026-08-07",
@@ -720,26 +734,12 @@
     "title": "アイリスオーヤマ 過熱水蒸気 エア フライヤー 3L 2～3人用 ノンオイルフライヤー スチーム機能 ジューシー FV-M30A-C アイボリー",
     "percent_off": 42
   },
-  "B0DGJBNYVY": {
-    "first_seen": "2026-09-05",
-    "first_seen_at": "2026-09-05T08:14:38+09:00",
-    "last_seen": "2026-09-23",
-    "title": "Apple AirPods 4 アクティブノイズ キャンセリング搭載、ワイヤレスイヤホン、Bluetooth 5.3、ライブ翻訳、適応型オーディオ、外部音取り込みモード、パーソナライズされた空間オーディオ、USB-C充電ケース、ワイヤレス充電、H2チップ、防塵性能と耐汗耐水性能、「探す」対応、Qi充電",
-    "percent_off": 21
-  },
-  "B0GQWJCR4K": {
-    "first_seen": "2026-09-23",
-    "first_seen_at": "2026-09-23T17:14:35+09:00",
-    "last_seen": "2026-09-23",
-    "title": "Apple 11インチiPad Air（M4）：Liquid Retinaディスプレイ、128GB、12MPフロント/バックカメラ、Apple N1によるWi-Fi 7、Touch ID、一日中使えるバッテリー — スペースグレイ",
-    "percent_off": null
-  },
-  "B0FH2981XZ": {
-    "first_seen": "2026-09-14",
-    "first_seen_at": "2026-09-14T21:14:43+09:00",
+  "B0FH28F7SJ": {
+    "first_seen": "2026-09-13",
+    "first_seen_at": "2026-09-13T19:14:35+09:00",
     "last_seen": "2026-09-23",
     "title": "Belkin Qi2 25W ワイヤレス充電器 MagSafe対応 3in1充電スタンド iPhone 18・Apple Watch対応 3台同時充電",
-    "percent_off": 16
+    "percent_off": 9
   },
   "B0DPF33WVV": {
     "first_seen": "2026-09-17",
