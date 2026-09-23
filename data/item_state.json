@@ -363,19 +363,19 @@
     "title": "UGREEN 100W GaN 卓上急速充電器 (4*USB-C+2*USB-A) コンパクト【PSE技術基準適合/PD3.0/QC4.0/PPS対応】 複数台同時充電 iPhone17/16/15/14/13/Xperia/Pixel Pro/iPad/ノートPC MacBook Pro/Airなどに対応",
     "percent_off": 25
   },
-  "B0FH28F7SJ": {
-    "first_seen": "2026-09-13",
-    "first_seen_at": "2026-09-13T19:14:35+09:00",
-    "last_seen": "2026-09-24",
-    "title": "Belkin Qi2 25W ワイヤレス充電器 MagSafe対応 3in1充電スタンド iPhone 18・Apple Watch対応 3台同時充電",
-    "percent_off": 9
-  },
   "B0F2MRRKH7": {
     "first_seen": "2026-08-21",
     "first_seen_at": "2026-08-21T00:51:29+09:00",
     "last_seen": "2026-09-24",
     "title": "Anker Prime Charger (160W, 3 Ports) シルバー",
     "percent_off": 17
+  },
+  "B0FH2981XZ": {
+    "first_seen": "2026-09-14",
+    "first_seen_at": "2026-09-14T21:14:43+09:00",
+    "last_seen": "2026-09-24",
+    "title": "Belkin Qi2 25W ワイヤレス充電器 MagSafe対応 3in1充電スタンド iPhone 18・Apple Watch対応 3台同時充電",
+    "percent_off": 16
   },
   "B0D6QQFMCS": {
     "first_seen": "2026-08-07",
@@ -515,13 +515,6 @@
     "first_seen_at": "2026-07-30T12:00:00+09:00",
     "last_seen": "2026-09-24",
     "title": "HUAWEI WATCH GT 6 Pro 46mm スマートウォッチ 大画面 GPS搭載 21日間バッテリー 心電図 ゴルフ GPS 通知 ブラック",
-    "percent_off": 16
-  },
-  "B0GX8DRYCX": {
-    "first_seen": "2026-09-03",
-    "first_seen_at": "2026-09-03T12:14:47+09:00",
-    "last_seen": "2026-09-24",
-    "title": "HUAWEI WATCH FIT 5 スマートウォッチ 薄型軽量 大画面 GPS内蔵 10日間ロングバッテリー 通知 健康管理 心拍数 睡眠 ブラック",
     "percent_off": 16
   },
   "B0G529YNFK": {
@@ -713,6 +706,20 @@
     "title": "アイリスオーヤマ 過熱水蒸気 エア フライヤー 3L 2～3人用 ノンオイルフライヤー スチーム機能 ジューシー FV-M30A-C アイボリー",
     "percent_off": 42
   },
+  "B0FH28F7SJ": {
+    "first_seen": "2026-09-13",
+    "first_seen_at": "2026-09-13T19:14:35+09:00",
+    "last_seen": "2026-09-24",
+    "title": "Belkin Qi2 25W ワイヤレス充電器 MagSafe対応 3in1充電スタンド iPhone 18・Apple Watch対応 3台同時充電",
+    "percent_off": 9
+  },
+  "B0GX8DRYCX": {
+    "first_seen": "2026-09-03",
+    "first_seen_at": "2026-09-03T12:14:47+09:00",
+    "last_seen": "2026-09-24",
+    "title": "HUAWEI WATCH FIT 5 スマートウォッチ 薄型軽量 大画面 GPS内蔵 10日間ロングバッテリー 通知 健康管理 心拍数 睡眠 ブラック",
+    "percent_off": 16
+  },
   "B0FQGTZLWX": {
     "first_seen": "2026-07-31",
     "first_seen_at": "2026-07-31T12:00:00+09:00",
@@ -733,13 +740,6 @@
     "last_seen": "2026-09-24",
     "title": "CIO NovaPort TRIOⅡ 65W 2C1A PD急速充電器 USB-C×2+USB-A×1 3台同時充電 世界最小級（ホワイト）",
     "percent_off": 34
-  },
-  "B0FH2981XZ": {
-    "first_seen": "2026-09-14",
-    "first_seen_at": "2026-09-14T21:14:43+09:00",
-    "last_seen": "2026-09-24",
-    "title": "Belkin Qi2 25W ワイヤレス充電器 MagSafe対応 3in1充電スタンド iPhone 18・Apple Watch対応 3台同時充電",
-    "percent_off": 16
   },
   "B0BKP93Z6L": {
     "first_seen": "2026-09-15",
