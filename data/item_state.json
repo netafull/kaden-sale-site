@@ -6,12 +6,26 @@
     "title": "Apple AirPods 4 アクティブノイズ キャンセリング搭載、ワイヤレスイヤホン、Bluetooth 5.3、ライブ翻訳、適応型オーディオ、外部音取り込みモード、パーソナライズされた空間オーディオ、USB-C充電ケース、ワイヤレス充電、H2チップ、防塵性能と耐汗耐水性能、「探す」対応、Qi充電",
     "percent_off": 21
   },
+  "B0DGJ63QY8": {
+    "first_seen": "2026-09-14",
+    "first_seen_at": "2026-09-14T20:14:52+09:00",
+    "last_seen": "2026-09-25",
+    "title": "Apple AirPods 4 ワイヤレスイヤホン、Bluetooth5.3、パーソナライズされた空間オーディオ、耐汗耐水性能、USB-C 充電ケース、H2 チップ、最大 30 時間の バッテリー駆動時間、「探す」対応、iPhoneで簡単に設定",
+    "percent_off": 17
+  },
   "B0GJTW9CL8": {
     "first_seen": "2026-08-07",
     "first_seen_at": "2026-08-07T09:18:51+09:00",
     "last_seen": "2026-09-25",
     "title": "Apple AirTag（第2世代）：紛失防止タグ、音で探せる、耐水 防塵 iPhone/iPad「探す」ネットワーク対応、探せる範囲が最大1.5 倍に広がった「正確な場所を見つける」機能搭載",
     "percent_off": 15
+  },
+  "B0DT2X3TKG": {
+    "first_seen": "2026-09-15",
+    "first_seen_at": "2026-09-15T20:14:39+09:00",
+    "last_seen": "2026-09-25",
+    "title": "Apple AirPods 4 ワイヤレスイヤーバッド、Bluetooth ヘッドフォン、パーソナライズさ れた空間オーディオ、耐汗耐水性能、USB-C 充電ケース、H2 チップ、最大 30 時間の バッテリー駆動時間、iPhone で簡単に設定 + 延長2年 AppleCare+ for Headphones - AirPods",
+    "percent_off": 16
   },
   "B0GJTXZHDX": {
     "first_seen": "2026-08-07",
@@ -102,7 +116,7 @@
     "first_seen_at": "2026-09-21T21:14:57+09:00",
     "last_seen": "2026-09-25",
     "title": "ソニー(SONY) WF-C710N ブラック ワイヤレスイヤホン 高性能ノイズキャンセリング Bluetoothロングバッテリー 外音取り込み IPX4防滴性能 軽量 コンパクト マルチポイント接続",
-    "percent_off": 27
+    "percent_off": 26
   },
   "B0FCSGGHLL": {
     "first_seen": "2026-07-24",
@@ -215,6 +229,13 @@
     "last_seen": "2026-09-25",
     "title": "Belkin Qi2 車載ワイヤレス充電器 15W急速充電 MagSafe対応 スマホホルダー エアコン吹き出し口用",
     "percent_off": 36
+  },
+  "B0D53Z4WX3": {
+    "first_seen": "2026-09-04",
+    "first_seen_at": "2026-09-04T22:14:48+09:00",
+    "last_seen": "2026-09-25",
+    "title": "CIO NovaPort TRIOⅡ 65W 3C PD急速充電器 USB-C×3 3台同時充電 軽量 世界最小級 (ブラック)",
+    "percent_off": 35
   },
   "B0D53VJJ7F": {
     "first_seen": "2026-07-28",
@@ -482,18 +503,18 @@
     "title": "Amazfit Active Max 48mm スマートウォッチ ハイブリッドトレーニング HYROX ヤマレコ ヤマップ 3000nit高輝度 GPS 5衛星 オフラインマップ AIによる音声操作と睡眠/運動管理 心拍 睡眠 健康管理 170+スポーツモード ナビゲーション ルートインポート5ATM防水 Max 25日間バッテリー持続 丸型",
     "percent_off": null
   },
-  "B0GCMVLDG4": {
-    "first_seen": "2026-09-12",
-    "first_seen_at": "2026-09-12T04:14:40+09:00",
-    "last_seen": "2026-09-25",
-    "title": "VITURE Luma AR/XRグラス & HDMI XR アダプター セット｜146型1200p超鮮明・120Hz高刷新率 スマートグラス + iPhone 14以前/PS/Xbox/ゲーム機直結対応 3DoF強化 マルチスクリーン アダプター｜充電しながらプレイ可能 VITURE XRグラス用セット",
-    "percent_off": 19
-  },
   "B0H99FCSZX": {
     "first_seen": "2026-09-19",
     "first_seen_at": "2026-09-19T08:14:46+09:00",
     "last_seen": "2026-09-25",
     "title": "VITURE Luma XRグラス アルティメットセット（ネックバンド・ドック付属）",
+    "percent_off": 19
+  },
+  "B0GCMVLDG4": {
+    "first_seen": "2026-09-12",
+    "first_seen_at": "2026-09-12T04:14:40+09:00",
+    "last_seen": "2026-09-25",
+    "title": "VITURE Luma AR/XRグラス & HDMI XR アダプター セット｜146型1200p超鮮明・120Hz高刷新率 スマートグラス + iPhone 14以前/PS/Xbox/ゲーム機直結対応 3DoF強化 マルチスクリーン アダプター｜充電しながらプレイ可能 VITURE XRグラス用セット",
     "percent_off": 19
   },
   "B0GVJG7D7K": {
@@ -552,18 +573,18 @@
     "title": "エレコム キーボード 【マウスセット】 ワイヤレス (レシーバー付属) メンブレン フルキーボード ブラック TK-FDM106MBK",
     "percent_off": 42
   },
+  "B0BKP5R91F": {
+    "first_seen": "2026-08-04",
+    "first_seen_at": "2026-08-04T12:38:09+09:00",
+    "last_seen": "2026-09-25",
+    "title": "ロジクール ワイヤレスマウス 静音 無線 高速スクロール Signature M550MGR レギュラー グラファイト 国内正規品",
+    "percent_off": 31
+  },
   "B0FL77NZXM": {
     "first_seen": "2026-07-29",
     "first_seen_at": "2026-07-29T12:00:00+09:00",
     "last_seen": "2026-09-25",
     "title": "エレコム ワイヤレスキーボード Precisionist プレシジョニスト Bluetooth 無線2.4GHz マルチペアリング4台 充電式 薄型パンタグラフ式 ミニサイズ ブラック TK-PN1075MPABK",
-    "percent_off": 31
-  },
-  "B0H8DQLFNW": {
-    "first_seen": "2026-08-09",
-    "first_seen_at": "2026-08-09T23:53:24+09:00",
-    "last_seen": "2026-09-25",
-    "title": "Logicool Signature M550MGR ワイヤレスマウス 静音 Bluetooth レギュラー グラファイト ワイヤレス マウス 無線 Logi Bolt Unifying非対応 windows mac iPad Android Chrome OS スクロールホイール 無線マウス 静音マウス M550 国内正規品 (× 3)",
     "percent_off": 31
   },
   "B07PJW2X2F": {
@@ -629,6 +650,13 @@
     "title": "ロジクール ワイヤレスキーボード PEBBLE KEYS 2 K380sGR 薄型 軽量 415g 小型 Bluetooth Logi Bolt ワイヤレス 無線 キーボード Easy-Switch 日本語配列 電池寿命36ケ月 Windows Mac iPad iOS Android Chrome K380s グラファイト 国内正規品",
     "percent_off": 17
   },
+  "B078YH856D": {
+    "first_seen": "2026-08-17",
+    "first_seen_at": "2026-08-17T20:42:41+09:00",
+    "last_seen": "2026-09-25",
+    "title": "ロジクール M705m ワイヤレスマウス 無線 Unifying 7ボタン 高速スクロール 電池寿命最大36ケ月 ワイヤレス マウス チャコール windows mac chrome 国内正規品",
+    "percent_off": 16
+  },
   "B0GL26M6Z2": {
     "first_seen": "2026-08-21",
     "first_seen_at": "2026-08-21T12:19:55+09:00",
@@ -657,6 +685,13 @@
     "title": "アイリスオーヤマ 過熱水蒸気 エア フライヤー 3L 2～3人用 ノンオイルフライヤー スチーム機能 ジューシー FV-M30A-C アイボリー",
     "percent_off": 42
   },
+  "B0H8DQLFNW": {
+    "first_seen": "2026-08-09",
+    "first_seen_at": "2026-08-09T23:53:24+09:00",
+    "last_seen": "2026-09-25",
+    "title": "Logicool Signature M550MGR ワイヤレスマウス 静音 Bluetooth レギュラー グラファイト ワイヤレス マウス 無線 Logi Bolt Unifying非対応 windows mac iPad Android Chrome OS スクロールホイール 無線マウス 静音マウス M550 国内正規品 (× 3)",
+    "percent_off": 31
+  },
   "B0GQWWWH1T": {
     "first_seen": "2026-09-23",
     "first_seen_at": "2026-09-23T17:14:35+09:00",
@@ -677,20 +712,6 @@
     "last_seen": "2026-09-25",
     "title": "Anker Prime Wall Charger (67W, 3 ports, GaN) (ブラック)",
     "percent_off": 18
-  },
-  "B0BKP5R91F": {
-    "first_seen": "2026-08-04",
-    "first_seen_at": "2026-08-04T12:38:09+09:00",
-    "last_seen": "2026-09-25",
-    "title": "ロジクール ワイヤレスマウス 静音 無線 高速スクロール Signature M550MGR レギュラー グラファイト 国内正規品",
-    "percent_off": 31
-  },
-  "B078YH856D": {
-    "first_seen": "2026-08-17",
-    "first_seen_at": "2026-08-17T20:42:41+09:00",
-    "last_seen": "2026-09-25",
-    "title": "ロジクール M705m ワイヤレスマウス 無線 Unifying 7ボタン 高速スクロール 電池寿命最大36ケ月 ワイヤレス マウス チャコール windows mac chrome 国内正規品",
-    "percent_off": 16
   },
   "B0DT3XJKH9": {
     "first_seen": "2026-09-05",
@@ -978,20 +999,6 @@
     "last_seen": "2026-09-24",
     "title": "エレコム ワイヤレス トラックボールマウス EX-G 握りの極み 6ボタン チルトホイール（左右スクロール） ブラック M-XT3DRBK",
     "percent_off": 15
-  },
-  "B0DGJ63QY8": {
-    "first_seen": "2026-09-14",
-    "first_seen_at": "2026-09-14T20:14:52+09:00",
-    "last_seen": "2026-09-24",
-    "title": "Apple AirPods 4 ワイヤレスイヤホン、Bluetooth5.3、パーソナライズされた空間オーディオ、耐汗耐水性能、USB-C 充電ケース、H2 チップ、最大 30 時間の バッテリー駆動時間、「探す」対応、iPhoneで簡単に設定",
-    "percent_off": 17
-  },
-  "B0DT2X3TKG": {
-    "first_seen": "2026-09-15",
-    "first_seen_at": "2026-09-15T20:14:39+09:00",
-    "last_seen": "2026-09-24",
-    "title": "Apple AirPods 4 ワイヤレスイヤーバッド、Bluetooth ヘッドフォン、パーソナライズさ れた空間オーディオ、耐汗耐水性能、USB-C 充電ケース、H2 チップ、最大 30 時間の バッテリー駆動時間、iPhone で簡単に設定 + 延長2年 AppleCare+ for Headphones - AirPods",
-    "percent_off": 16
   },
   "B0FQGTZLWX": {
     "first_seen": "2026-07-31",
@@ -2210,12 +2217,5 @@
     "last_seen": "2026-09-11",
     "title": "HUAWEI Band 11 Pro GPS搭載 スマートウォッチ 8.99mm/18g薄型軽量ボディ 高輝度 2000nits 1.62大画面 24時間睡眠管理 14日間持続バッテリー ランニングモード 情緒モニタリング LINE通知 ブラック",
     "percent_off": 15
-  },
-  "B0D53Z4WX3": {
-    "first_seen": "2026-09-04",
-    "first_seen_at": "2026-09-04T22:14:48+09:00",
-    "last_seen": "2026-09-11",
-    "title": "CIO NovaPort TRIOⅡ 65W 3C PD急速充電器 USB-C×3 3台同時充電 軽量 世界最小級 (ブラック)",
-    "percent_off": null
   }
 }
