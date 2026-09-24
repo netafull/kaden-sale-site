@@ -83,11 +83,11 @@
     "title": "Apple 2026 MacBook Air M5チップ搭載15インチノートブック：AIとApple Intelligence、15.3インチLiquid Retinaディスプレイ、16GBユニファイドメモリ、1TB SSDストレージ、12MPセンターフレームカメラ、日本語キーボード、Touch ID - スターライト",
     "percent_off": 5
   },
-  "B0GQWWWH1T": {
+  "B0GQWFB3MV": {
     "first_seen": "2026-09-23",
-    "first_seen_at": "2026-09-23T17:14:35+09:00",
+    "first_seen_at": "2026-09-23T21:15:01+09:00",
     "last_seen": "2026-09-24",
-    "title": "Apple 11インチiPad Air（M4）：Liquid Retinaディスプレイ、256GB、12MPフロント/バックカメラ、Apple N1によるWi-Fi 7、Touch ID、一日中使えるバッテリー — スペースグレイ",
+    "title": "Apple 11インチiPad Air（M4）：Liquid Retinaディスプレイ、256GB、12MPフロント/バックカメラ、Apple N1によるWi-Fi 7、Touch ID、一日中使えるバッテリー — ブルー",
     "percent_off": null
   },
   "B0GQWJCR4K": {
@@ -109,7 +109,7 @@
     "first_seen_at": "2026-09-21T21:14:57+09:00",
     "last_seen": "2026-09-24",
     "title": "ソニー(SONY) WF-C710N ブラック ワイヤレスイヤホン 高性能ノイズキャンセリング Bluetoothロングバッテリー 外音取り込み IPX4防滴性能 軽量 コンパクト マルチポイント接続",
-    "percent_off": 27
+    "percent_off": 26
   },
   "B0FCSGGHLL": {
     "first_seen": "2026-07-24",
@@ -146,11 +146,11 @@
     "title": "UGREEN Air モバイルバッテリー 5000mAh 8.6mm超薄型 Qi2 15W MagSafe iPhone18Pro対応",
     "percent_off": 35
   },
-  "B0G2S9LVS4": {
+  "B0F37VLJQW": {
     "first_seen": "2026-09-15",
-    "first_seen_at": "2026-09-15T00:14:54+09:00",
+    "first_seen_at": "2026-09-15T02:14:33+09:00",
     "last_seen": "2026-09-24",
-    "title": "UGREEN MagFlow Qi2 25W認証 モバイルバッテリー Magsafe マグネット式ワイヤレス急速充電 10000mAh ブラック",
+    "title": "UGREEN MagFlow Qi2 25W認証 モバイルバッテリー Magsafe マグネット式ワイヤレス急速充電 10000mAh 水色",
     "percent_off": 30
   },
   "B0FKH14VSL": {
@@ -293,13 +293,6 @@
     "title": "CIO NovaPort DUOⅡ 65W PD急速充電器 USB-C×2 2台同時充電 世界最小級（ブラック）",
     "percent_off": 27
   },
-  "B0FYFDD1WW": {
-    "first_seen": "2026-09-14",
-    "first_seen_at": "2026-09-14T07:14:41+09:00",
-    "last_seen": "2026-09-24",
-    "title": "UGREEN 160W 5口充電器 カラーディスプレイ搭載 Type-C 4C1A 5ポート PD3.2/PPS5A/QC4対応 折り畳み式",
-    "percent_off": 27
-  },
   "B0F99FCSX7": {
     "first_seen": "2026-07-27",
     "first_seen_at": "2026-07-27T12:00:00+09:00",
@@ -348,13 +341,6 @@
     "last_seen": "2026-09-24",
     "title": "Belkin Qi2 25W ワイヤレス充電器 MagSafe対応 3in1充電スタンド iPhone 18・Apple Watch対応 3台同時充電",
     "percent_off": 16
-  },
-  "B0D6QQFMCS": {
-    "first_seen": "2026-08-07",
-    "first_seen_at": "2026-08-07T13:07:32+09:00",
-    "last_seen": "2026-09-24",
-    "title": "Anker MagGo Wireless Charger (2-in-1, Stand) ブラック",
-    "percent_off": null
   },
   "B0DMN94Q8M": {
     "first_seen": "2026-08-02",
@@ -706,6 +692,34 @@
     "title": "アイリスオーヤマ 過熱水蒸気 エア フライヤー 3L 2～3人用 ノンオイルフライヤー スチーム機能 ジューシー FV-M30A-C アイボリー",
     "percent_off": 42
   },
+  "B0GQWWWH1T": {
+    "first_seen": "2026-09-23",
+    "first_seen_at": "2026-09-23T17:14:35+09:00",
+    "last_seen": "2026-09-24",
+    "title": "Apple 11インチiPad Air（M4）：Liquid Retinaディスプレイ、256GB、12MPフロント/バックカメラ、Apple N1によるWi-Fi 7、Touch ID、一日中使えるバッテリー — スペースグレイ",
+    "percent_off": null
+  },
+  "B0G2S9LVS4": {
+    "first_seen": "2026-09-15",
+    "first_seen_at": "2026-09-15T00:14:54+09:00",
+    "last_seen": "2026-09-24",
+    "title": "UGREEN MagFlow Qi2 25W認証 モバイルバッテリー Magsafe マグネット式ワイヤレス急速充電 10000mAh ブラック",
+    "percent_off": 30
+  },
+  "B0FYFDD1WW": {
+    "first_seen": "2026-09-14",
+    "first_seen_at": "2026-09-14T07:14:41+09:00",
+    "last_seen": "2026-09-24",
+    "title": "UGREEN 160W 5口充電器 カラーディスプレイ搭載 Type-C 4C1A 5ポート PD3.2/PPS5A/QC4対応 折り畳み式",
+    "percent_off": 27
+  },
+  "B0D6QQFMCS": {
+    "first_seen": "2026-08-07",
+    "first_seen_at": "2026-08-07T13:07:32+09:00",
+    "last_seen": "2026-09-24",
+    "title": "Anker MagGo Wireless Charger (2-in-1, Stand) ブラック",
+    "percent_off": null
+  },
   "B0BWF2SW7B": {
     "first_seen": "2026-09-22",
     "first_seen_at": "2026-09-22T13:14:48+09:00",
@@ -972,26 +986,12 @@
     "title": "ロジクール ワイヤレスマウス 静音 無線 高速スクロール Signature M650MRO レギュラー ローズ M650 国内正規品",
     "percent_off": 21
   },
-  "B0GQWFB3MV": {
-    "first_seen": "2026-09-23",
-    "first_seen_at": "2026-09-23T21:15:01+09:00",
-    "last_seen": "2026-09-23",
-    "title": "Apple 11インチiPad Air（M4）：Liquid Retinaディスプレイ、256GB、12MPフロント/バックカメラ、Apple N1によるWi-Fi 7、Touch ID、一日中使えるバッテリー — ブルー",
-    "percent_off": null
-  },
   "B0DT4PHGV5": {
     "first_seen": "2026-09-15",
     "first_seen_at": "2026-09-15T23:14:42+09:00",
     "last_seen": "2026-09-23",
     "title": "Anker Power Bank (25000mAh, Built-In & 巻取り式USB-Cケーブル) シルバー",
     "percent_off": null
-  },
-  "B0F37VLJQW": {
-    "first_seen": "2026-09-15",
-    "first_seen_at": "2026-09-15T02:14:33+09:00",
-    "last_seen": "2026-09-23",
-    "title": "UGREEN MagFlow Qi2 25W認証 モバイルバッテリー Magsafe マグネット式ワイヤレス急速充電 10000mAh 水色",
-    "percent_off": 30
   },
   "B0DRFR2YT3": {
     "first_seen": "2026-09-19",
