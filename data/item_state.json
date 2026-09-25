@@ -34,13 +34,6 @@
     "title": "Apple AirTag 4個入り（第2世代）：紛失防止タグ、音で探せる、耐水 防塵 iPhone/iPad「探す」ネットワーク対応 、探せる範囲が最大1.5 倍に広がった「正確な場所を見つける」機能搭載",
     "percent_off": 15
   },
-  "B0FQGP2X31": {
-    "first_seen": "2026-09-25",
-    "first_seen_at": "2026-09-25T22:14:49+09:00",
-    "last_seen": "2026-09-25",
-    "title": "Apple Watch Ultra 3(GPS + Cellularモデル)- 49mmブラックチタニウムケースとブラックアルパインループ - L",
-    "percent_off": 12
-  },
   "B0FQFQHJRC": {
     "first_seen": "2026-09-23",
     "first_seen_at": "2026-09-23T13:14:40+09:00",
@@ -61,6 +54,13 @@
     "last_seen": "2026-09-25",
     "title": "Apple iPhone Air 512GB (SIMフリー)",
     "percent_off": null
+  },
+  "B0FRZ44Q6H": {
+    "first_seen": "2026-09-25",
+    "first_seen_at": "2026-09-25T23:15:00+09:00",
+    "last_seen": "2026-09-25",
+    "title": "Apple Watch Ultra 3(GPS + Cellularモデル)- 49mmブラックチタニウムケースとブラックオーシャンバンド + 2年延長 AppleCare+ for Apple Watch Ultra 3",
+    "percent_off": 11
   },
   "B0FQG2B81Z": {
     "first_seen": "2026-09-23",
@@ -160,6 +160,13 @@
     "title": "CIO SMARTCOBY SLIM 5K 薄型 モバイルバッテリー Qi2 ワイヤレス 5000mAh PD20W (シルバー, セーフティモデル)",
     "percent_off": 33
   },
+  "B0B6DKS2Z2": {
+    "first_seen": "2026-09-10",
+    "first_seen_at": "2026-09-10T22:14:36+09:00",
+    "last_seen": "2026-09-25",
+    "title": "Belkin MagSafe対応 ワイヤレスモバイルバッテリー 5000mAh 最大7.5W キックスタンド付き ホワイト",
+    "percent_off": 31
+  },
   "B0FKH14VSL": {
     "first_seen": "2026-08-31",
     "first_seen_at": "2026-08-31T21:14:49+09:00",
@@ -208,13 +215,6 @@
     "last_seen": "2026-09-25",
     "title": "UGREEN 145W 4-in-1モバイルバッテリー 20000mAh 15Wワイヤレス充電対応 3ポート iPhone 18 Pro/Duo対応",
     "percent_off": 23
-  },
-  "B0FRSR6BVR": {
-    "first_seen": "2026-08-07",
-    "first_seen_at": "2026-08-07T22:31:51+09:00",
-    "last_seen": "2026-09-25",
-    "title": "Belkin MagSafe対応 モバイルバッテリー 軽量 5000mAh USB-C 15W 薄型 iPhone対応 ブラック",
-    "percent_off": 19
   },
   "B0FTZ46NF8": {
     "first_seen": "2026-09-04",
@@ -335,18 +335,11 @@
     "title": "CIO NovaPort DUOⅡ 65W PD急速充電器 USB-C×2 2台同時充電 世界最小級（ブラック）",
     "percent_off": 27
   },
-  "B0F99FCSX7": {
-    "first_seen": "2026-07-27",
-    "first_seen_at": "2026-07-27T12:00:00+09:00",
+  "B0F99GKMZH": {
+    "first_seen": "2026-09-19",
+    "first_seen_at": "2026-09-19T23:14:46+09:00",
     "last_seen": "2026-09-25",
-    "title": "Anker Nano Charger (70W, 3 Ports) ブラック",
-    "percent_off": null
-  },
-  "B0GF26RSYQ": {
-    "first_seen": "2026-07-27",
-    "first_seen_at": "2026-07-27T12:00:00+09:00",
-    "last_seen": "2026-09-25",
-    "title": "Anker Nano Charger (45W, Display, スイングプラグ) ブラック",
+    "title": "Anker Nano Charger (70W, 3 Ports) ブルー",
     "percent_off": null
   },
   "B0G64NF1FQ": {
@@ -370,12 +363,12 @@
     "title": "UGREEN PD充電器 type-c 30W 2*USB-C+1*USB-A GaN PSE適合/PD3.0 タイプc充電器 GaNⅡ type c",
     "percent_off": null
   },
-  "B0DMN885ZF": {
-    "first_seen": "2026-08-05",
-    "first_seen_at": "2026-08-05T03:07:44+09:00",
+  "B0FH2981XZ": {
+    "first_seen": "2026-09-14",
+    "first_seen_at": "2026-09-14T21:14:43+09:00",
     "last_seen": "2026-09-25",
-    "title": "UGREEN 45W USB-C 急速充電器 Type-C PD GaNⅡ充電器 PSE適合タイプc充電器 PD/PPS/SCP/QC3.0",
-    "percent_off": null
+    "title": "Belkin Qi2 25W ワイヤレス充電器 MagSafe対応 3in1充電スタンド iPhone 18・Apple Watch対応 3台同時充電",
+    "percent_off": 16
   },
   "B0DHTT13KN": {
     "first_seen": "2026-07-31",
@@ -454,12 +447,19 @@
     "title": "IODATA GigaCrysta ゲーミングモニター 27型 WQHD 200Hz MiniLED (HDMI/DP) EX-GDQ271JLAQ",
     "percent_off": 17
   },
-  "B0F8VWZ2J6": {
-    "first_seen": "2026-09-25",
-    "first_seen_at": "2026-09-25T20:14:42+09:00",
+  "B0C9TKSP8V": {
+    "first_seen": "2026-07-30",
+    "first_seen_at": "2026-07-30T12:00:00+09:00",
     "last_seen": "2026-09-25",
-    "title": "【世界最小級掃除機】 SwitchBot ロボット掃除機 K11+ 超小型 高精度マッピング 6000pa強力吸引 水拭き 掃除シート付き 静音",
-    "percent_off": 23
+    "title": "SwitchBot サーキュレーター DCモーター コードレス扇風機 充電式 静音 強力送風 - 3D首振り 30畳 無段階風量調整 省エネ",
+    "percent_off": 43
+  },
+  "B0F7GGN94D": {
+    "first_seen": "2026-07-28",
+    "first_seen_at": "2026-07-28T12:00:00+09:00",
+    "last_seen": "2026-09-25",
+    "title": "【世界最小級掃除機】 SwitchBot ロボット掃除機 K11+ 超小型 - 高精度マッピング 6000pa強力吸引 水拭き 使い捨て掃除シート30枚付き 禁止エリア 静音設計 遠隔操作 自動充電 落下防止 2.4GWi-Fi対応 Alexa Google Home IFTTT Siriに対応",
+    "percent_off": 19
   },
   "B0BM8VS13P": {
     "first_seen": "2026-09-18",
@@ -482,6 +482,13 @@
     "title": "SwitchBot LEDシーリングライト 8畳 Alexa 無段階 調光調色 スイッチボット 天井 照明器具 4000lm リモコン付き ハブ機能付き 電球色 昼白色 昼光色 取付簡単 防虫 防塵 省エネ 節電対策 2.4GHzWi-Fi Bluetoothに対応 5年保証 W2612240",
     "percent_off": 15
   },
+  "B07B7NXV4R": {
+    "first_seen": "2026-07-30",
+    "first_seen_at": "2026-07-30T12:00:00+09:00",
+    "last_seen": "2026-09-25",
+    "title": "SwitchBot スイッチボット スイッチ ボタンに適用 指ロボット スマートスイッチ スマートホーム ワイヤレス タイマー スマホで遠隔操作 Alexa, Google Home, Siri, IFTTTなどに対応(ハブ必要) ホワイト",
+    "percent_off": 14
+  },
   "B0F4RDKGJ4": {
     "first_seen": "2026-09-19",
     "first_seen_at": "2026-09-19T21:14:41+09:00",
@@ -496,11 +503,11 @@
     "title": "HUAWEI WATCH FIT 4 スマートウォッチ 薄型軽量 1.82インチ大画面 アウトドアに適した気圧計と測位システム 通知 フィットネス ヘルストラッカー 情緒測定 10日間ロングバッテリー iOS/Android対応 ブラック",
     "percent_off": 31
   },
-  "B0BWF463MW": {
-    "first_seen": "2026-08-04",
-    "first_seen_at": "2026-08-04T12:38:09+09:00",
+  "B0BWF162WJ": {
+    "first_seen": "2026-09-21",
+    "first_seen_at": "2026-09-21T17:14:46+09:00",
     "last_seen": "2026-09-25",
-    "title": "GARMIN（ガーミン）GPSランニングウォッチ Forerunner 965 Amp Yellow 【日本正規品】",
+    "title": "GARMIN（ガーミン）GPSランニングウォッチ Forerunner 965 White 【日本正規品】",
     "percent_off": 20
   },
   "B0F9L8D3CL": {
@@ -587,6 +594,13 @@
     "title": "Kindle Paperwhite (16GB) 7インチディスプレイ、色調調節ライト、12週間持続バッテリー、広告なし、ブラック + Kindle Unlimited（3ヵ月分。以降自動更新）",
     "percent_off": 30
   },
+  "B0CLGVLBMV": {
+    "first_seen": "2026-08-23",
+    "first_seen_at": "2026-08-23T20:37:59+09:00",
+    "last_seen": "2026-09-25",
+    "title": "Razer ラピッドトリガー 搭載 Huntsman V3 Pro Mini JP ラピッドトリガーと調整可能なアクチュエーション搭載のアナログ ゲーミングキーボード アナログオプティカルスイッチ 調整可能なアクチュエーション 押下圧 40G 日本語配列 ハンツマン ブイスリー プロ ミニ ジェイピー【日本正規代理店保証品】 ブラック",
+    "percent_off": 32
+  },
   "B0B1Q636K7": {
     "first_seen": "2026-07-26",
     "first_seen_at": "2026-07-26T12:00:00+09:00",
@@ -621,13 +635,6 @@
     "last_seen": "2026-09-25",
     "title": "エレコム ワイヤレスキーボード メンブレン 薄型 フルキーボード テンキー ブラック TK-FDM110TXBK",
     "percent_off": 29
-  },
-  "B0F1FD99K8": {
-    "first_seen": "2026-09-25",
-    "first_seen_at": "2026-09-25T22:14:49+09:00",
-    "last_seen": "2026-09-25",
-    "title": "ラピッドトリガー 搭載 Razer レイザー Huntsman V3 Pro Mini JP (White Edition) ラピッドトリガーと調整可能なアクチュエーション搭載のアナログ ゲーミングキーボード アナログオプティカルスイッチ 調整可能なアクチュエーション 押下圧 40G 日本語配列 ハンツマン ブイスリー プロ ミニ ジェイピー ホワイト エディション【日本正規代理店保証品】",
-    "percent_off": 30
   },
   "B0FJRCJ1SN": {
     "first_seen": "2026-07-26",
@@ -671,11 +678,11 @@
     "title": "Logicool G ゲーミングマウス G304 LIGHTSPEED ワイヤレス ゲーミング マウス 軽量 99g HERO 12Kセンサー 6個プログラムボタン 250時間連続使用可能 ブラック PC windows mac 国内正規品 【 ファイナルファンタジー XIV 推奨モデル 】",
     "percent_off": 18
   },
-  "B0CJR8Y56J": {
-    "first_seen": "2026-07-26",
-    "first_seen_at": "2026-07-26T12:00:00+09:00",
+  "B0CJR7JYGJ": {
+    "first_seen": "2026-09-09",
+    "first_seen_at": "2026-09-09T22:14:53+09:00",
     "last_seen": "2026-09-25",
-    "title": "ロジクール ワイヤレスキーボード PEBBLE KEYS 2 K380sGR 薄型 軽量 415g 小型 Bluetooth Logi Bolt ワイヤレス 無線 キーボード Easy-Switch 日本語配列 電池寿命36ケ月 Windows Mac iPad iOS Android Chrome K380s グラファイト 国内正規品",
+    "title": "ロジクール ワイヤレスキーボード PEBBLE KEYS 2 K380sRO 薄型 軽量 415g 小型 Bluetooth Logi Bolt ワイヤレス 無線 キーボード Easy-Switch 日本語配列 電池寿命36ケ月 Windows Mac iPad iOS Android Chrome K380s ローズ 国内正規品",
     "percent_off": 17
   },
   "B0GL26M6Z2": {
@@ -712,6 +719,69 @@
     "last_seen": "2026-09-25",
     "title": "アイリスオーヤマ 過熱水蒸気 エア フライヤー 3L 2～3人用 ノンオイルフライヤー スチーム機能 ジューシー FV-M30A-C アイボリー",
     "percent_off": 42
+  },
+  "B0FQGP2X31": {
+    "first_seen": "2026-09-25",
+    "first_seen_at": "2026-09-25T22:14:49+09:00",
+    "last_seen": "2026-09-25",
+    "title": "Apple Watch Ultra 3(GPS + Cellularモデル)- 49mmブラックチタニウムケースとブラックアルパインループ - L",
+    "percent_off": 12
+  },
+  "B0FRSR6BVR": {
+    "first_seen": "2026-08-07",
+    "first_seen_at": "2026-08-07T22:31:51+09:00",
+    "last_seen": "2026-09-25",
+    "title": "Belkin MagSafe対応 モバイルバッテリー 軽量 5000mAh USB-C 15W 薄型 iPhone対応 ブラック",
+    "percent_off": 19
+  },
+  "B0F99FCSX7": {
+    "first_seen": "2026-07-27",
+    "first_seen_at": "2026-07-27T12:00:00+09:00",
+    "last_seen": "2026-09-25",
+    "title": "Anker Nano Charger (70W, 3 Ports) ブラック",
+    "percent_off": null
+  },
+  "B0GF26RSYQ": {
+    "first_seen": "2026-07-27",
+    "first_seen_at": "2026-07-27T12:00:00+09:00",
+    "last_seen": "2026-09-25",
+    "title": "Anker Nano Charger (45W, Display, スイングプラグ) ブラック",
+    "percent_off": null
+  },
+  "B0DMN885ZF": {
+    "first_seen": "2026-08-05",
+    "first_seen_at": "2026-08-05T03:07:44+09:00",
+    "last_seen": "2026-09-25",
+    "title": "UGREEN 45W USB-C 急速充電器 Type-C PD GaNⅡ充電器 PSE適合タイプc充電器 PD/PPS/SCP/QC3.0",
+    "percent_off": null
+  },
+  "B0F8VWZ2J6": {
+    "first_seen": "2026-09-25",
+    "first_seen_at": "2026-09-25T20:14:42+09:00",
+    "last_seen": "2026-09-25",
+    "title": "【世界最小級掃除機】 SwitchBot ロボット掃除機 K11+ 超小型 高精度マッピング 6000pa強力吸引 水拭き 掃除シート付き 静音",
+    "percent_off": 23
+  },
+  "B0BWF463MW": {
+    "first_seen": "2026-08-04",
+    "first_seen_at": "2026-08-04T12:38:09+09:00",
+    "last_seen": "2026-09-25",
+    "title": "GARMIN（ガーミン）GPSランニングウォッチ Forerunner 965 Amp Yellow 【日本正規品】",
+    "percent_off": 20
+  },
+  "B0F1FD99K8": {
+    "first_seen": "2026-09-25",
+    "first_seen_at": "2026-09-25T22:14:49+09:00",
+    "last_seen": "2026-09-25",
+    "title": "ラピッドトリガー 搭載 Razer レイザー Huntsman V3 Pro Mini JP (White Edition) ラピッドトリガーと調整可能なアクチュエーション搭載のアナログ ゲーミングキーボード アナログオプティカルスイッチ 調整可能なアクチュエーション 押下圧 40G 日本語配列 ハンツマン ブイスリー プロ ミニ ジェイピー ホワイト エディション【日本正規代理店保証品】",
+    "percent_off": 30
+  },
+  "B0CJR8Y56J": {
+    "first_seen": "2026-07-26",
+    "first_seen_at": "2026-07-26T12:00:00+09:00",
+    "last_seen": "2026-09-25",
+    "title": "ロジクール ワイヤレスキーボード PEBBLE KEYS 2 K380sGR 薄型 軽量 415g 小型 Bluetooth Logi Bolt ワイヤレス 無線 キーボード Easy-Switch 日本語配列 電池寿命36ケ月 Windows Mac iPad iOS Android Chrome K380s グラファイト 国内正規品",
+    "percent_off": 17
   },
   "B0FQGY75PP": {
     "first_seen": "2026-09-25",
@@ -776,20 +846,6 @@
     "title": "エレコム 充電器 65W USB PD対応 3ポート Type-C USB-A 【 iPhone 16 15 14 iPad Macbook Air ノートPC】 ホワイト EC-AC4465WH",
     "percent_off": 17
   },
-  "B0FH2981XZ": {
-    "first_seen": "2026-09-14",
-    "first_seen_at": "2026-09-14T21:14:43+09:00",
-    "last_seen": "2026-09-25",
-    "title": "Belkin Qi2 25W ワイヤレス充電器 MagSafe対応 3in1充電スタンド iPhone 18・Apple Watch対応 3台同時充電",
-    "percent_off": 16
-  },
-  "B0CLGVLBMV": {
-    "first_seen": "2026-08-23",
-    "first_seen_at": "2026-08-23T20:37:59+09:00",
-    "last_seen": "2026-09-25",
-    "title": "Razer ラピッドトリガー 搭載 Huntsman V3 Pro Mini JP ラピッドトリガーと調整可能なアクチュエーション搭載のアナログ ゲーミングキーボード アナログオプティカルスイッチ 調整可能なアクチュエーション 押下圧 40G 日本語配列 ハンツマン ブイスリー プロ ミニ ジェイピー【日本正規代理店保証品】 ブラック",
-    "percent_off": 32
-  },
   "B099N3L5GF": {
     "first_seen": "2026-09-22",
     "first_seen_at": "2026-09-22T21:14:54+09:00",
@@ -832,27 +888,6 @@
     "title": "ソニー(SONY) 完全ワイヤレスイヤホン WF-C510 / 軽量小型4.6g / 高精度通話品質/外音取り込み対応/マルチポイント対応 / IPX4防滴性能 / ホワイト/WF-C510 WC",
     "percent_off": 23
   },
-  "B0C9TKSP8V": {
-    "first_seen": "2026-07-30",
-    "first_seen_at": "2026-07-30T12:00:00+09:00",
-    "last_seen": "2026-09-25",
-    "title": "SwitchBot サーキュレーター DCモーター コードレス扇風機 充電式 静音 強力送風 - 3D首振り 30畳 無段階風量調整 省エネ",
-    "percent_off": 43
-  },
-  "B07B7NXV4R": {
-    "first_seen": "2026-07-30",
-    "first_seen_at": "2026-07-30T12:00:00+09:00",
-    "last_seen": "2026-09-25",
-    "title": "SwitchBot スイッチボット スイッチ ボタンに適用 指ロボット スマートスイッチ スマートホーム ワイヤレス タイマー スマホで遠隔操作 Alexa, Google Home, Siri, IFTTTなどに対応(ハブ必要) ホワイト",
-    "percent_off": 14
-  },
-  "B0BWF162WJ": {
-    "first_seen": "2026-09-21",
-    "first_seen_at": "2026-09-21T17:14:46+09:00",
-    "last_seen": "2026-09-25",
-    "title": "GARMIN（ガーミン）GPSランニングウォッチ Forerunner 965 White 【日本正規品】",
-    "percent_off": 20
-  },
   "B0F9LB5PQF": {
     "first_seen": "2026-09-18",
     "first_seen_at": "2026-09-18T21:14:31+09:00",
@@ -887,13 +922,6 @@
     "last_seen": "2026-09-25",
     "title": "UGREEN 160W 5口充電器 カラーディスプレイ搭載 Type-C 4C1A 5ポート PD3.2/PPS5A/QC4対応 折り畳み式",
     "percent_off": 18
-  },
-  "B0F7GGN94D": {
-    "first_seen": "2026-07-28",
-    "first_seen_at": "2026-07-28T12:00:00+09:00",
-    "last_seen": "2026-09-25",
-    "title": "【世界最小級掃除機】 SwitchBot ロボット掃除機 K11+ 超小型 - 高精度マッピング 6000pa強力吸引 水拭き 使い捨て掃除シート30枚付き 禁止エリア 静音設計 遠隔操作 自動充電 落下防止 2.4GWi-Fi対応 Alexa Google Home IFTTT Siriに対応",
-    "percent_off": 19
   },
   "B0C9CS34KJ": {
     "first_seen": "2026-09-25",
@@ -971,13 +999,6 @@
     "last_seen": "2026-09-25",
     "title": "Apple 2026 MacBook Air M5チップ搭載15インチノートブック：AIとApple Intelligence、15.3インチLiquid Retinaディスプレイ、16GBユニファイドメモリ、1TB SSD、12MPセンターフレームカメラ、Touch ID - シルバー + 3年延長 AppleCare+ for 15インチMacBook Air(M5)|ダウンロード版",
     "percent_off": 5
-  },
-  "B0F99GKMZH": {
-    "first_seen": "2026-09-19",
-    "first_seen_at": "2026-09-19T23:14:46+09:00",
-    "last_seen": "2026-09-25",
-    "title": "Anker Nano Charger (70W, 3 Ports) ブルー",
-    "percent_off": null
   },
   "B078YH856D": {
     "first_seen": "2026-08-17",
@@ -1069,13 +1090,6 @@
     "last_seen": "2026-09-25",
     "title": "Anker Prime Wall Charger (67W, 3 ports, GaN) (ブラック)",
     "percent_off": 18
-  },
-  "B0B6DKS2Z2": {
-    "first_seen": "2026-09-10",
-    "first_seen_at": "2026-09-10T22:14:36+09:00",
-    "last_seen": "2026-09-25",
-    "title": "Belkin MagSafe対応 ワイヤレスモバイルバッテリー 5000mAh 最大7.5W キックスタンド付き ホワイト",
-    "percent_off": 31
   },
   "B07D3GRQC8": {
     "first_seen": "2026-08-07",
@@ -1755,13 +1769,6 @@
     "last_seen": "2026-09-20",
     "title": "Belkin モバイルバッテリー 軽量 10000mAh 20W USB-Cケーブル内蔵 2台同時充電 ブラック",
     "percent_off": 32
-  },
-  "B0CJR7JYGJ": {
-    "first_seen": "2026-09-09",
-    "first_seen_at": "2026-09-09T22:14:53+09:00",
-    "last_seen": "2026-09-19",
-    "title": "ロジクール ワイヤレスキーボード PEBBLE KEYS 2 K380sRO 薄型 軽量 415g 小型 Bluetooth Logi Bolt ワイヤレス 無線 キーボード Easy-Switch 日本語配列 電池寿命36ケ月 Windows Mac iPad iOS Android Chrome K380s ローズ 国内正規品",
-    "percent_off": 17
   },
   "B0CJR82M5M": {
     "first_seen": "2026-08-04",
