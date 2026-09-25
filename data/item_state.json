@@ -111,13 +111,6 @@
     "title": "Apple 11インチiPad Air（M4）：Liquid Retinaディスプレイ、128GB、12MPフロント/バックカメラ、Apple N1によるWi-Fi 7、Touch ID、一日中使えるバッテリー — スペースグレイ",
     "percent_off": null
   },
-  "B0HJ9VNBZ8": {
-    "first_seen": "2026-09-19",
-    "first_seen_at": "2026-09-19T08:14:46+09:00",
-    "last_seen": "2026-09-25",
-    "title": "Apple AirPods 5ワイヤレスイヤーバッド",
-    "percent_off": null
-  },
   "B0F3XFNHCW": {
     "first_seen": "2026-09-21",
     "first_seen_at": "2026-09-21T21:14:57+09:00",
@@ -209,13 +202,6 @@
     "title": "UGREEN 145W 4-in-1モバイルバッテリー 20000mAh 15Wワイヤレス充電対応 3ポート iPhone 18 Pro/Duo対応",
     "percent_off": 23
   },
-  "B0FTYZXTMK": {
-    "first_seen": "2026-09-19",
-    "first_seen_at": "2026-09-19T01:14:45+09:00",
-    "last_seen": "2026-09-25",
-    "title": "CIO SMARTCOBY SLIM II Wireless2.2 Pro 10K モバイルバッテリー ワイヤレス充電 10000mAh (ブラック)",
-    "percent_off": 22
-  },
   "B0FRSR6BVR": {
     "first_seen": "2026-08-07",
     "first_seen_at": "2026-08-07T22:31:51+09:00",
@@ -263,7 +249,7 @@
     "first_seen_at": "2026-07-28T12:00:00+09:00",
     "last_seen": "2026-09-25",
     "title": "CIO NovaPort TRIOⅡ 65W 2C1A PD急速充電器 USB-C×2+USB-A×1 3台同時充電 世界最小級（ブラック）",
-    "percent_off": 34
+    "percent_off": 36
   },
   "B0B6N2ZPT4": {
     "first_seen": "2026-09-25",
@@ -355,6 +341,13 @@
     "last_seen": "2026-09-25",
     "title": "UGREEN Nexode急速充電器 65W Type-C 2C1A 3ポート PD/PPS 4.5A/QC3.0/SCP/FCP対応 折り畳み式",
     "percent_off": 22
+  },
+  "B0FH28F7SJ": {
+    "first_seen": "2026-09-13",
+    "first_seen_at": "2026-09-13T19:14:35+09:00",
+    "last_seen": "2026-09-25",
+    "title": "Belkin Qi2 25W ワイヤレス充電器 MagSafe対応 3in1充電スタンド iPhone 18・Apple Watch対応 3台同時充電",
+    "percent_off": 9
   },
   "B0FYFDD1WW": {
     "first_seen": "2026-09-14",
@@ -552,13 +545,6 @@
     "title": "GARMIN(ガーミン)スマートウォッチ Forerunner 170 Whitestone/Cloud Blue スマートウォッチモード 約 10 日間 高精度GPS ランニングウォッチ iOS/Android AMOLEDディスプレイ1.2インチ マラソン 軽量 防水 心拍数 睡眠スコア 健康管理 Suicaタッチ決済 Garmin Pay",
     "percent_off": 17
   },
-  "B0GX8DRYCX": {
-    "first_seen": "2026-09-03",
-    "first_seen_at": "2026-09-03T12:14:47+09:00",
-    "last_seen": "2026-09-25",
-    "title": "HUAWEI WATCH FIT 5 スマートウォッチ 薄型軽量 大画面 GPS内蔵 10日間ロングバッテリー 通知 健康管理 心拍数 睡眠 ブラック",
-    "percent_off": 16
-  },
   "B0G529YNFK": {
     "first_seen": "2026-09-05",
     "first_seen_at": "2026-09-05T15:14:47+09:00",
@@ -727,6 +713,27 @@
     "title": "アイリスオーヤマ 過熱水蒸気 エア フライヤー 3L 2～3人用 ノンオイルフライヤー スチーム機能 ジューシー FV-M30A-C アイボリー",
     "percent_off": 42
   },
+  "B0HJ9VNBZ8": {
+    "first_seen": "2026-09-19",
+    "first_seen_at": "2026-09-19T08:14:46+09:00",
+    "last_seen": "2026-09-25",
+    "title": "Apple AirPods 5ワイヤレスイヤーバッド",
+    "percent_off": null
+  },
+  "B0FTYZXTMK": {
+    "first_seen": "2026-09-19",
+    "first_seen_at": "2026-09-19T01:14:45+09:00",
+    "last_seen": "2026-09-25",
+    "title": "CIO SMARTCOBY SLIM II Wireless2.2 Pro 10K モバイルバッテリー ワイヤレス充電 10000mAh (ブラック)",
+    "percent_off": 22
+  },
+  "B0GX8DRYCX": {
+    "first_seen": "2026-09-03",
+    "first_seen_at": "2026-09-03T12:14:47+09:00",
+    "last_seen": "2026-09-25",
+    "title": "HUAWEI WATCH FIT 5 スマートウォッチ 薄型軽量 大画面 GPS内蔵 10日間ロングバッテリー 通知 健康管理 心拍数 睡眠 ブラック",
+    "percent_off": 16
+  },
   "B0GQVHLG38": {
     "first_seen": "2026-09-25",
     "first_seen_at": "2026-09-25T11:15:03+09:00",
@@ -747,13 +754,6 @@
     "last_seen": "2026-09-25",
     "title": "Apple iPhone Air 1TB (SIMフリー)",
     "percent_off": null
-  },
-  "B0FH28F7SJ": {
-    "first_seen": "2026-09-13",
-    "first_seen_at": "2026-09-13T19:14:35+09:00",
-    "last_seen": "2026-09-25",
-    "title": "Belkin Qi2 25W ワイヤレス充電器 MagSafe対応 3in1充電スタンド iPhone 18・Apple Watch対応 3台同時充電",
-    "percent_off": 9
   },
   "B0GL1G8PQZ": {
     "first_seen": "2026-09-19",
