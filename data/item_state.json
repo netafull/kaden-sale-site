@@ -55,13 +55,6 @@
     "title": "Apple iPhone Air 512GB (SIMフリー)",
     "percent_off": null
   },
-  "B0FQGJTXYQ": {
-    "first_seen": "2026-09-19",
-    "first_seen_at": "2026-09-19T04:14:48+09:00",
-    "last_seen": "2026-09-25",
-    "title": "Apple iPhone Air 1TB (SIMフリー)",
-    "percent_off": null
-  },
   "B0FQG2B81Z": {
     "first_seen": "2026-09-23",
     "first_seen_at": "2026-09-23T15:14:48+09:00",
@@ -137,7 +130,7 @@
     "first_seen_at": "2026-09-21T21:14:57+09:00",
     "last_seen": "2026-09-25",
     "title": "ソニー(SONY) WF-C710N ブラック ワイヤレスイヤホン 高性能ノイズキャンセリング Bluetoothロングバッテリー 外音取り込み IPX4防滴性能 軽量 コンパクト マルチポイント接続",
-    "percent_off": 27
+    "percent_off": 26
   },
   "B0FCSGGHLL": {
     "first_seen": "2026-07-24",
@@ -629,19 +622,19 @@
     "title": "サンワサプライ(Sanwa Supply) ワイヤレスキーボード SKB-WL39BK",
     "percent_off": 42
   },
-  "B0BKP5R91F": {
-    "first_seen": "2026-08-04",
-    "first_seen_at": "2026-08-04T12:38:09+09:00",
-    "last_seen": "2026-09-25",
-    "title": "ロジクール ワイヤレスマウス 静音 無線 高速スクロール Signature M550MGR レギュラー グラファイト 国内正規品",
-    "percent_off": 31
-  },
   "B0FL77NZXM": {
     "first_seen": "2026-07-29",
     "first_seen_at": "2026-07-29T12:00:00+09:00",
     "last_seen": "2026-09-25",
     "title": "エレコム ワイヤレスキーボード Precisionist プレシジョニスト Bluetooth 無線2.4GHz マルチペアリング4台 充電式 薄型パンタグラフ式 ミニサイズ ブラック TK-PN1075MPABK",
     "percent_off": 31
+  },
+  "B0BKP5R91F": {
+    "first_seen": "2026-08-04",
+    "first_seen_at": "2026-08-04T12:38:09+09:00",
+    "last_seen": "2026-09-25",
+    "title": "ロジクール ワイヤレスマウス 静音 無線 高速スクロール Signature M550MGR レギュラー グラファイト 国内正規品",
+    "percent_off": 30
   },
   "B07PJW2X2F": {
     "first_seen": "2026-07-26",
@@ -733,6 +726,13 @@
     "last_seen": "2026-09-25",
     "title": "アイリスオーヤマ 過熱水蒸気 エア フライヤー 3L 2～3人用 ノンオイルフライヤー スチーム機能 ジューシー FV-M30A-C アイボリー",
     "percent_off": 42
+  },
+  "B0FQGJTXYQ": {
+    "first_seen": "2026-09-19",
+    "first_seen_at": "2026-09-19T04:14:48+09:00",
+    "last_seen": "2026-09-25",
+    "title": "Apple iPhone Air 1TB (SIMフリー)",
+    "percent_off": null
   },
   "B0FH28F7SJ": {
     "first_seen": "2026-09-13",
