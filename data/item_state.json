@@ -62,13 +62,6 @@
     "title": "iPad(A16と第10世代)用Magic Keyboard Folio - 日本語",
     "percent_off": 8
   },
-  "B0FQFLWSWZ": {
-    "first_seen": "2026-07-29",
-    "first_seen_at": "2026-07-29T12:00:00+09:00",
-    "last_seen": "2026-09-27",
-    "title": "Apple iPhone Air 256GB (SIMフリー)",
-    "percent_off": 6
-  },
   "B0GR1NTKL9": {
     "first_seen": "2026-08-20",
     "first_seen_at": "2026-08-20T06:42:31+09:00",
@@ -104,13 +97,6 @@
     "title": "ワイヤレス充電ケース付きApple AirPods 5ワイヤレスイヤーバッド",
     "percent_off": null
   },
-  "B0F3XFNHCW": {
-    "first_seen": "2026-09-21",
-    "first_seen_at": "2026-09-21T21:14:57+09:00",
-    "last_seen": "2026-09-27",
-    "title": "ソニー(SONY) WF-C710N ブラック ワイヤレスイヤホン 高性能ノイズキャンセリング Bluetoothロングバッテリー 外音取り込み IPX4防滴性能 軽量 コンパクト マルチポイント接続",
-    "percent_off": 25
-  },
   "B0FCSGGHLL": {
     "first_seen": "2026-07-24",
     "first_seen_at": "2026-07-24T12:00:00+09:00",
@@ -124,6 +110,13 @@
     "last_seen": "2026-09-27",
     "title": "ソニー(SONY) 完全ワイヤレスイヤホン WF-C510 / 軽量小型4.6g / 高精度通話品質/外音取り込み対応/マルチポイント対応 / IPX4防滴性能 / ブラック/WF-C510 BC",
     "percent_off": 23
+  },
+  "B0F3XFNHCW": {
+    "first_seen": "2026-09-21",
+    "first_seen_at": "2026-09-21T21:14:57+09:00",
+    "last_seen": "2026-09-27",
+    "title": "ソニー(SONY) WF-C710N ブラック ワイヤレスイヤホン 高性能ノイズキャンセリング Bluetoothロングバッテリー 外音取り込み IPX4防滴性能 軽量 コンパクト マルチポイント接続",
+    "percent_off": 24
   },
   "B0FL2HYBGJ": {
     "first_seen": "2026-09-23",
@@ -698,6 +691,13 @@
     "last_seen": "2026-09-27",
     "title": "アイリスオーヤマ 過熱水蒸気 エア フライヤー 3L 2～3人用 ノンオイルフライヤー スチーム機能 ジューシー FV-M30A-C アイボリー",
     "percent_off": 42
+  },
+  "B0FQFLWSWZ": {
+    "first_seen": "2026-07-29",
+    "first_seen_at": "2026-07-29T12:00:00+09:00",
+    "last_seen": "2026-09-27",
+    "title": "Apple iPhone Air 256GB (SIMフリー)",
+    "percent_off": 6
   },
   "B0DT3XJKH9": {
     "first_seen": "2026-09-05",
