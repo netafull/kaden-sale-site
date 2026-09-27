@@ -27,18 +27,18 @@
     "title": "Apple AirTag 4個入り（第2世代）：紛失防止タグ、音で探せる、耐水 防塵 iPhone/iPad「探す」ネットワーク対応 、探せる範囲が最大1.5 倍に広がった「正確な場所を見つける」機能搭載",
     "percent_off": 15
   },
-  "B0FQFPZW9G": {
-    "first_seen": "2026-07-31",
-    "first_seen_at": "2026-07-31T12:00:00+09:00",
-    "last_seen": "2026-09-28",
-    "title": "Apple iPhone Air 512GB (SIMフリー)",
-    "percent_off": null
-  },
   "B0FQFQHJRC": {
     "first_seen": "2026-09-23",
     "first_seen_at": "2026-09-23T13:14:40+09:00",
     "last_seen": "2026-09-28",
     "title": "Apple Watch Series 11(GPSモデル)- 42mmローズゴールドアルミニウムケースとライトブラッシュスポーツバンド - M/L、睡眠時無呼吸、高血圧パターン、血中酸素、心電図、排卵推定、心拍数、服薬、マインドフルネス、ノイズ、睡眠スコア、転倒検出、IPX6X防塵、泳げる耐水、Suica対応、高速充電対応",
+    "percent_off": null
+  },
+  "B0FQFPZW9G": {
+    "first_seen": "2026-07-31",
+    "first_seen_at": "2026-07-31T12:00:00+09:00",
+    "last_seen": "2026-09-28",
+    "title": "Apple iPhone Air 512GB (SIMフリー)",
     "percent_off": null
   },
   "B0FRZ44Q6H": {
@@ -167,6 +167,13 @@
     "title": "UGREEN MagFlow Qi2 25W認証 モバイルバッテリー Magsafe マグネット式ワイヤレス急速充電 10000mAh 水色",
     "percent_off": 25
   },
+  "B0C3GTMX5M": {
+    "first_seen": "2026-09-18",
+    "first_seen_at": "2026-09-18T21:14:31+09:00",
+    "last_seen": "2026-09-28",
+    "title": "UGREEN 100W モバイルバッテリー 20000mAh 大容量 3ポート USB-C×2Type-A×1 iPhone 18 Pro/Duo対応",
+    "percent_off": 25
+  },
   "B0G4Q8ZDF3": {
     "first_seen": "2026-07-31",
     "first_seen_at": "2026-07-31T12:00:00+09:00",
@@ -187,6 +194,13 @@
     "last_seen": "2026-09-28",
     "title": "Belkin MagSafe対応 モバイルバッテリー 軽量 5000mAh USB-C 15W 薄型 iPhone対応 ブラック",
     "percent_off": 19
+  },
+  "B0FTZ46NF8": {
+    "first_seen": "2026-09-04",
+    "first_seen_at": "2026-09-04T01:14:59+09:00",
+    "last_seen": "2026-09-28",
+    "title": "CIO SMARTCOBY Ex04 Wireless2.2 CABLE SS5K 半固体モバイルバッテリー Qi2.2 5000mAh (ブラック)",
+    "percent_off": null
   },
   "B098SQSRRV": {
     "first_seen": "2026-07-31",
@@ -209,6 +223,13 @@
     "title": "Belkin Qi2 車載ワイヤレス充電器 15W急速充電 MagSafe対応 スマホホルダー エアコン吹き出し口用",
     "percent_off": 36
   },
+  "B0D53Z4WX3": {
+    "first_seen": "2026-09-04",
+    "first_seen_at": "2026-09-04T22:14:48+09:00",
+    "last_seen": "2026-09-28",
+    "title": "CIO NovaPort TRIOⅡ 65W 3C PD急速充電器 USB-C×3 3台同時充電 軽量 世界最小級 (ブラック)",
+    "percent_off": null
+  },
   "B09SYV3P5B": {
     "first_seen": "2026-09-09",
     "first_seen_at": "2026-09-09T00:14:37+09:00",
@@ -216,12 +237,12 @@
     "title": "Anker 736 Charger (Nano ll 100W) ブラック",
     "percent_off": 35
   },
-  "B0D53Z4WX3": {
-    "first_seen": "2026-09-04",
-    "first_seen_at": "2026-09-04T22:14:48+09:00",
+  "B0D53VJJ7F": {
+    "first_seen": "2026-07-28",
+    "first_seen_at": "2026-07-28T12:00:00+09:00",
     "last_seen": "2026-09-28",
-    "title": "CIO NovaPort TRIOⅡ 65W 3C PD急速充電器 USB-C×3 3台同時充電 軽量 世界最小級 (ブラック)",
-    "percent_off": 35
+    "title": "CIO NovaPort TRIOⅡ 65W 2C1A PD急速充電器 USB-C×2+USB-A×1 3台同時充電 世界最小級（ブラック）",
+    "percent_off": null
   },
   "B0B6N2ZPT4": {
     "first_seen": "2026-09-25",
@@ -270,6 +291,20 @@
     "first_seen_at": "2026-09-25T15:14:52+09:00",
     "last_seen": "2026-09-28",
     "title": "UGREEN Zapix Magsafe充電器 2-in-1 マグネット式充電スタンド ワイヤレス充電対応 7.5W/5W Qi認証済",
+    "percent_off": null
+  },
+  "B0D2D9LQP4": {
+    "first_seen": "2026-09-21",
+    "first_seen_at": "2026-09-21T22:15:01+09:00",
+    "last_seen": "2026-09-28",
+    "title": "CIO NovaWave SPOT PLUG +C Qi2 ワイヤレス充電器 15W USB-C充電30W スマホホルダー (ホワイト)",
+    "percent_off": null
+  },
+  "B0D53VKL36": {
+    "first_seen": "2026-07-29",
+    "first_seen_at": "2026-07-29T12:00:00+09:00",
+    "last_seen": "2026-09-28",
+    "title": "CIO NovaPort DUOⅡ 65W PD急速充電器 USB-C×2 2台同時充電 世界最小級（ブラック）",
     "percent_off": null
   },
   "B0GF26RSYQ": {
@@ -342,18 +377,18 @@
     "title": "UGREEN Air 65W USB-C*2 type-c 急速充電器 【iPhone18 Pro/Pro Max AVS対応】PD3.1 GaNII",
     "percent_off": null
   },
-  "B0G64NF1FQ": {
-    "first_seen": "2026-09-16",
-    "first_seen_at": "2026-09-16T01:14:30+09:00",
-    "last_seen": "2026-09-28",
-    "title": "UGREEN Air急速充電器 45W Type-C 薄型設計 当社比67%小型化超薄モデル PD3.0/PPS/QC4/SCP対応 折り畳み式",
-    "percent_off": null
-  },
   "B0DNT9Z2HS": {
     "first_seen": "2026-07-27",
     "first_seen_at": "2026-07-27T12:00:00+09:00",
     "last_seen": "2026-09-28",
     "title": "UGREEN 100W GaN 卓上急速充電器 (4*USB-C+2*USB-A) コンパクト【PSE技術基準適合/PD3.0/QC4.0/PPS対応】 複数台同時充電 iPhone17/16/15/14/13/Xperia/Pixel Pro/iPad/ノートPC MacBook Pro/Airなどに対応",
+    "percent_off": null
+  },
+  "B0G64NF1FQ": {
+    "first_seen": "2026-09-16",
+    "first_seen_at": "2026-09-16T01:14:30+09:00",
+    "last_seen": "2026-09-28",
+    "title": "UGREEN Air急速充電器 45W Type-C 薄型設計 当社比67%小型化超薄モデル PD3.0/PPS/QC4/SCP対応 折り畳み式",
     "percent_off": null
   },
   "B0D6QQFMCS": {
@@ -643,6 +678,13 @@
     "title": "ロジクール ワイヤレスキーボード K295GP 静音 耐水 キーボード 無線 Unifying K295 グラファイト 国内正規品",
     "percent_off": 18
   },
+  "B07DVC25R2": {
+    "first_seen": "2026-07-26",
+    "first_seen_at": "2026-07-26T12:00:00+09:00",
+    "last_seen": "2026-09-28",
+    "title": "Logicool G ゲーミングマウス G304 LIGHTSPEED ワイヤレス ゲーミング マウス 軽量 99g HERO 12Kセンサー 6個プログラムボタン 250時間連続使用可能 ブラック PC windows mac 国内正規品 【 ファイナルファンタジー XIV 推奨モデル 】",
+    "percent_off": 18
+  },
   "B0CJR8Y56J": {
     "first_seen": "2026-07-26",
     "first_seen_at": "2026-07-26T12:00:00+09:00",
@@ -706,13 +748,6 @@
     "title": "CIO SMARTCOBY SLIM 5K 薄型 モバイルバッテリー Qi2 ワイヤレス 5000mAh PD20W(ブラック, セーフティモデル)",
     "percent_off": 33
   },
-  "B0FTZ46NF8": {
-    "first_seen": "2026-09-04",
-    "first_seen_at": "2026-09-04T01:14:59+09:00",
-    "last_seen": "2026-09-27",
-    "title": "CIO SMARTCOBY Ex04 Wireless2.2 CABLE SS5K 半固体モバイルバッテリー Qi2.2 5000mAh (ブラック)",
-    "percent_off": 16
-  },
   "B0FRSRVPT6": {
     "first_seen": "2026-08-15",
     "first_seen_at": "2026-08-15T18:42:49+09:00",
@@ -720,40 +755,12 @@
     "title": "Belkin MagSafe対応 モバイルバッテリー 軽量 5000mAh USB-C 15W 薄型 iPhone対応 ホワイト",
     "percent_off": 16
   },
-  "B0D53VJJ7F": {
-    "first_seen": "2026-07-28",
-    "first_seen_at": "2026-07-28T12:00:00+09:00",
-    "last_seen": "2026-09-27",
-    "title": "CIO NovaPort TRIOⅡ 65W 2C1A PD急速充電器 USB-C×2+USB-A×1 3台同時充電 世界最小級（ブラック）",
-    "percent_off": 34
-  },
-  "B0D2D9LQP4": {
-    "first_seen": "2026-09-21",
-    "first_seen_at": "2026-09-21T22:15:01+09:00",
-    "last_seen": "2026-09-27",
-    "title": "CIO NovaWave SPOT PLUG +C Qi2 ワイヤレス充電器 15W USB-C充電30W スマホホルダー (ホワイト)",
-    "percent_off": 29
-  },
-  "B0D53VKL36": {
-    "first_seen": "2026-07-29",
-    "first_seen_at": "2026-07-29T12:00:00+09:00",
-    "last_seen": "2026-09-27",
-    "title": "CIO NovaPort DUOⅡ 65W PD急速充電器 USB-C×2 2台同時充電 世界最小級（ブラック）",
-    "percent_off": 27
-  },
   "B0G7HPMG6C": {
     "first_seen": "2026-09-26",
     "first_seen_at": "2026-09-26T23:15:00+09:00",
     "last_seen": "2026-09-27",
     "title": "UGREEN 急速充電器 65W TypeC 超薄型設計 2C1A 3ポート 当社比67%小型化 PD3.2/PPS 5A/QC4/SCP対応",
     "percent_off": 21
-  },
-  "B07DVC25R2": {
-    "first_seen": "2026-07-26",
-    "first_seen_at": "2026-07-26T12:00:00+09:00",
-    "last_seen": "2026-09-27",
-    "title": "Logicool G ゲーミングマウス G304 LIGHTSPEED ワイヤレス ゲーミング マウス 軽量 99g HERO 12Kセンサー 6個プログラムボタン 250時間連続使用可能 ブラック PC windows mac 国内正規品 【 ファイナルファンタジー XIV 推奨モデル 】",
-    "percent_off": 18
   },
   "B0FQG5PN5S": {
     "first_seen": "2026-09-26",
@@ -781,13 +788,6 @@
     "first_seen_at": "2026-09-27T22:14:53+09:00",
     "last_seen": "2026-09-27",
     "title": "UGREEN Air モバイルバッテリー 5000mAh 8.6mm超薄型 Qi2 15W MagSafe iPhone18Pro対応",
-    "percent_off": 25
-  },
-  "B0C3GTMX5M": {
-    "first_seen": "2026-09-18",
-    "first_seen_at": "2026-09-18T21:14:31+09:00",
-    "last_seen": "2026-09-27",
-    "title": "UGREEN 100W モバイルバッテリー 20000mAh 大容量 3ポート USB-C×2Type-A×1 iPhone 18 Pro/Duo対応",
     "percent_off": 25
   },
   "B0FVLXBXKR": {
