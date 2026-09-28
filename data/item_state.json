@@ -104,13 +104,6 @@
     "title": "ソニー(SONY) 完全ワイヤレスイヤホン WF-C510 / 軽量小型4.6g / 高精度通話品質/外音取り込み対応/マルチポイント対応 / IPX4防滴性能 / ブラック/WF-C510 BC",
     "percent_off": 23
   },
-  "B0BRSJP3KF": {
-    "first_seen": "2026-09-24",
-    "first_seen_at": "2026-09-24T22:15:02+09:00",
-    "last_seen": "2026-09-29",
-    "title": "Belkin MagSafe対応 ワイヤレスモバイルバッテリー 5000mAh 最大7.5W キックスタンド付き パープル",
-    "percent_off": 45
-  },
   "B0DT4RGDSJ": {
     "first_seen": "2026-07-27",
     "first_seen_at": "2026-07-27T12:00:00+09:00",
@@ -300,6 +293,13 @@
     "title": "Anker Nano Charger (70W, 3 Ports) ブラック",
     "percent_off": null
   },
+  "B0GGGMH2M2": {
+    "first_seen": "2026-09-13",
+    "first_seen_at": "2026-09-13T20:14:44+09:00",
+    "last_seen": "2026-09-29",
+    "title": "UGREEN Air 65W USB-C*2 type-c 急速充電器 【iPhone18 Pro/Pro Max AVS対応】PD3.1 GaNII",
+    "percent_off": 25
+  },
   "B0DW2SYD5H": {
     "first_seen": "2026-08-15",
     "first_seen_at": "2026-08-15T20:37:29+09:00",
@@ -447,12 +447,26 @@
     "title": "HUAWEI WATCH D2 ウェアラブル血圧計LCA-B10:ブラック",
     "percent_off": 18
   },
+  "B0GZ294HH3": {
+    "first_seen": "2026-08-16",
+    "first_seen_at": "2026-08-16T00:38:29+09:00",
+    "last_seen": "2026-09-29",
+    "title": "GARMIN(ガーミン)スマートウォッチ Forerunner 170 Black/Amp Yellow スマートウォッチモード 約 10 日間 高精度GPS ランニングウォッチ iOS/Android AMOLEDディスプレイ1.2インチ マラソン 軽量 防水 心拍数 睡眠スコア 健康管理 Suicaタッチ決済 Garmin Pay",
+    "percent_off": 17
+  },
   "B0GZ2NBP8V": {
     "first_seen": "2026-09-23",
     "first_seen_at": "2026-09-23T21:15:01+09:00",
     "last_seen": "2026-09-29",
     "title": "GARMIN(ガーミン)スマートウォッチ Forerunner 170 Whitestone/Cloud Blue スマートウォッチモード 約 10 日間 高精度GPS ランニングウォッチ iOS/Android AMOLEDディスプレイ1.2インチ マラソン 軽量 防水 心拍数 睡眠スコア 健康管理 Suicaタッチ決済 Garmin Pay",
     "percent_off": 17
+  },
+  "B0GX8DRYCX": {
+    "first_seen": "2026-09-03",
+    "first_seen_at": "2026-09-03T12:14:47+09:00",
+    "last_seen": "2026-09-29",
+    "title": "HUAWEI WATCH FIT 5 スマートウォッチ 薄型軽量 大画面 GPS内蔵 10日間ロングバッテリー 通知 健康管理 心拍数 睡眠 ブラック",
+    "percent_off": 16
   },
   "B0H99FCSZX": {
     "first_seen": "2026-09-19",
@@ -515,6 +529,13 @@
     "first_seen_at": "2026-07-29T12:00:00+09:00",
     "last_seen": "2026-09-29",
     "title": "エレコム ワイヤレスキーボード Precisionist プレシジョニスト Bluetooth 無線2.4GHz マルチペアリング4台 充電式 薄型パンタグラフ式 ミニサイズ ブラック TK-PN1075MPABK",
+    "percent_off": 31
+  },
+  "B0H8DQLFNW": {
+    "first_seen": "2026-08-09",
+    "first_seen_at": "2026-08-09T23:53:24+09:00",
+    "last_seen": "2026-09-29",
+    "title": "Logicool Signature M550MGR ワイヤレスマウス 静音 Bluetooth レギュラー グラファイト ワイヤレス マウス 無線 Logi Bolt Unifying非対応 windows mac iPad Android Chrome OS スクロールホイール 無線マウス 静音マウス M550 国内正規品 (× 3)",
     "percent_off": 31
   },
   "B07PJW2X2F": {
@@ -622,6 +643,13 @@
     "title": "アイリスオーヤマ 過熱水蒸気 エア フライヤー 3L 2～3人用 ノンオイルフライヤー スチーム機能 ジューシー FV-M30A-C アイボリー",
     "percent_off": 42
   },
+  "B0BRSJP3KF": {
+    "first_seen": "2026-09-24",
+    "first_seen_at": "2026-09-24T22:15:02+09:00",
+    "last_seen": "2026-09-29",
+    "title": "Belkin MagSafe対応 ワイヤレスモバイルバッテリー 5000mAh 最大7.5W キックスタンド付き パープル",
+    "percent_off": 45
+  },
   "B0FQGJ91GZ": {
     "first_seen": "2026-09-24",
     "first_seen_at": "2026-09-24T23:14:59+09:00",
@@ -635,20 +663,6 @@
     "last_seen": "2026-09-29",
     "title": "Apple 11インチiPad Air（M4）：Liquid Retinaディスプレイ、256GB、12MPフロント/バックカメラ、Apple N1によるWi-Fi 7、Touch ID、一日中使えるバッテリー — スターライト",
     "percent_off": null
-  },
-  "B0GX8DRYCX": {
-    "first_seen": "2026-09-03",
-    "first_seen_at": "2026-09-03T12:14:47+09:00",
-    "last_seen": "2026-09-29",
-    "title": "HUAWEI WATCH FIT 5 スマートウォッチ 薄型軽量 大画面 GPS内蔵 10日間ロングバッテリー 通知 健康管理 心拍数 睡眠 ブラック",
-    "percent_off": 16
-  },
-  "B0GGGMH2M2": {
-    "first_seen": "2026-09-13",
-    "first_seen_at": "2026-09-13T20:14:44+09:00",
-    "last_seen": "2026-09-29",
-    "title": "UGREEN Air 65W USB-C*2 type-c 急速充電器 【iPhone18 Pro/Pro Max AVS対応】PD3.1 GaNII",
-    "percent_off": 25
   },
   "B0FH28F7SJ": {
     "first_seen": "2026-09-13",
@@ -761,13 +775,6 @@
     "last_seen": "2026-09-28",
     "title": "SwitchBot LEDシーリングライト 8畳 Alexa 無段階 調光調色 スイッチボット 天井 照明器具 4000lm リモコン付き ハブ機能付き 電球色 昼白色 昼光色 取付簡単 防虫 防塵 省エネ 節電対策 2.4GHzWi-Fi Bluetoothに対応 5年保証 W2612240",
     "percent_off": 15
-  },
-  "B0GZ294HH3": {
-    "first_seen": "2026-08-16",
-    "first_seen_at": "2026-08-16T00:38:29+09:00",
-    "last_seen": "2026-09-28",
-    "title": "GARMIN(ガーミン)スマートウォッチ Forerunner 170 Black/Amp Yellow スマートウォッチモード 約 10 日間 高精度GPS ランニングウォッチ iOS/Android AMOLEDディスプレイ1.2インチ マラソン 軽量 防水 心拍数 睡眠スコア 健康管理 Suicaタッチ決済 Garmin Pay",
-    "percent_off": 17
   },
   "B0BKP5MVL5": {
     "first_seen": "2026-09-28",
@@ -1622,13 +1629,6 @@
     "last_seen": "2026-09-25",
     "title": "VITURE Luma Ultra XRグラス アルティメットセット（ネックバンド・ドック付属）",
     "percent_off": 18
-  },
-  "B0H8DQLFNW": {
-    "first_seen": "2026-08-09",
-    "first_seen_at": "2026-08-09T23:53:24+09:00",
-    "last_seen": "2026-09-25",
-    "title": "Logicool Signature M550MGR ワイヤレスマウス 静音 Bluetooth レギュラー グラファイト ワイヤレス マウス 無線 Logi Bolt Unifying非対応 windows mac iPad Android Chrome OS スクロールホイール 無線マウス 静音マウス M550 国内正規品 (× 3)",
-    "percent_off": 31
   },
   "B0C5CBV6L3": {
     "first_seen": "2026-07-29",
