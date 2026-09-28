@@ -83,19 +83,19 @@
     "title": "Apple 2026 MacBook Pro 18コアCPU、20コアGPUのM5 Proチップ搭載ノートパソコン：AIのために設計、14.2インチLiquid Retina XDRディスプレイ、24GBユニファイドメモリ、2TBのSSDストレージ - シルバー + 3年延長 AppleCare+ for 14インチMacBook Pro(M5 Pro/M5 Max)|ダウンロード版",
     "percent_off": 6
   },
+  "B0GQW2J67Z": {
+    "first_seen": "2026-09-24",
+    "first_seen_at": "2026-09-24T00:15:01+09:00",
+    "last_seen": "2026-09-29",
+    "title": "Apple 11インチiPad Air（M4）：Liquid Retinaディスプレイ、256GB、12MPフロント/バックカメラ、Apple N1によるWi-Fi 7、Touch ID、一日中使えるバッテリー — スターライト",
+    "percent_off": null
+  },
   "B0FCSGGHLL": {
     "first_seen": "2026-07-24",
     "first_seen_at": "2026-07-24T12:00:00+09:00",
     "last_seen": "2026-09-29",
     "title": "Bose QuietComfort Ultra Earbuds (第2世代) ワイヤレス ノイズキャンセリング Bluetooth イヤホン 最長6時間連続再生 IPX4規格準拠 イマーシブオーディオ 迫力の重低音 ブラック",
     "percent_off": 19
-  },
-  "B0F3XFNHCW": {
-    "first_seen": "2026-09-21",
-    "first_seen_at": "2026-09-21T21:14:57+09:00",
-    "last_seen": "2026-09-29",
-    "title": "ソニー(SONY) WF-C710N ブラック ワイヤレスイヤホン 高性能ノイズキャンセリング Bluetoothロングバッテリー 外音取り込み IPX4防滴性能 軽量 コンパクト マルチポイント接続",
-    "percent_off": 24
   },
   "B0FL2HYBGJ": {
     "first_seen": "2026-09-23",
@@ -109,6 +109,13 @@
     "first_seen_at": "2026-08-16T23:40:53+09:00",
     "last_seen": "2026-09-29",
     "title": "ソニー(SONY) 完全ワイヤレスイヤホン WF-C510 / 軽量小型4.6g / 高精度通話品質/外音取り込み対応/マルチポイント対応 / IPX4防滴性能 / ブラック/WF-C510 BC",
+    "percent_off": 23
+  },
+  "B0F3XFNHCW": {
+    "first_seen": "2026-09-21",
+    "first_seen_at": "2026-09-21T21:14:57+09:00",
+    "last_seen": "2026-09-29",
+    "title": "ソニー(SONY) WF-C710N ブラック ワイヤレスイヤホン 高性能ノイズキャンセリング Bluetoothロングバッテリー 外音取り込み IPX4防滴性能 軽量 コンパクト マルチポイント接続",
     "percent_off": 23
   },
   "B0DT4RGDSJ": {
@@ -300,13 +307,6 @@
     "title": "Anker Nano Charger (70W, 3 Ports) ブラック",
     "percent_off": null
   },
-  "B0GGGMH2M2": {
-    "first_seen": "2026-09-13",
-    "first_seen_at": "2026-09-13T20:14:44+09:00",
-    "last_seen": "2026-09-29",
-    "title": "UGREEN Air 65W USB-C*2 type-c 急速充電器 【iPhone18 Pro/Pro Max AVS対応】PD3.1 GaNII",
-    "percent_off": 25
-  },
   "B0DW2SYD5H": {
     "first_seen": "2026-08-15",
     "first_seen_at": "2026-08-15T20:37:29+09:00",
@@ -321,19 +321,19 @@
     "title": "Anker MagGo Wireless Charger (Stand) ブラック",
     "percent_off": null
   },
-  "B0FH28F7SJ": {
-    "first_seen": "2026-09-13",
-    "first_seen_at": "2026-09-13T19:14:35+09:00",
-    "last_seen": "2026-09-29",
-    "title": "Belkin Qi2 25W ワイヤレス充電器 MagSafe対応 3in1充電スタンド iPhone 18・Apple Watch対応 3台同時充電",
-    "percent_off": 9
-  },
   "B0DG93MZCR": {
     "first_seen": "2026-07-27",
     "first_seen_at": "2026-07-27T12:00:00+09:00",
     "last_seen": "2026-09-29",
     "title": "UGREEN PD充電器 type-c 30W 2*USB-C+1*USB-A GaN PSE適合/PD3.0 タイプc充電器 GaNⅡ type c",
     "percent_off": null
+  },
+  "B0FH2981XZ": {
+    "first_seen": "2026-09-14",
+    "first_seen_at": "2026-09-14T21:14:43+09:00",
+    "last_seen": "2026-09-29",
+    "title": "Belkin Qi2 25W ワイヤレス充電器 MagSafe対応 3in1充電スタンド iPhone 18・Apple Watch対応 3台同時充電",
+    "percent_off": 16
   },
   "B0DHTT13KN": {
     "first_seen": "2026-07-31",
@@ -398,19 +398,12 @@
     "title": "IODATA GigaCrysta ゲーミングモニター 27型 WQHD 200Hz MiniLED (HDMI/DP) EX-GDQ271JLAQ",
     "percent_off": 17
   },
-  "B0DYD1R49S": {
+  "B0C9TKSP8V": {
     "first_seen": "2026-07-30",
     "first_seen_at": "2026-07-30T12:00:00+09:00",
     "last_seen": "2026-09-29",
-    "title": "SwitchBot 空気清浄機Table スマートリモコン ハブ2 アレクサ - スイッチボット 25畳 小型 省エネ 大風量 360度全方位 浄化 消臭 除菌 集じん HEPA フィルター 花粉 ニオイ対策 タイマー機能 Alexa Google Home Siriに対応 (空気清浄機Table 1点+ハブ2 1点)",
-    "percent_off": 19
-  },
-  "B0GHNXTK95": {
-    "first_seen": "2026-09-05",
-    "first_seen_at": "2026-09-05T23:14:40+09:00",
-    "last_seen": "2026-09-29",
-    "title": "【セット販売】【超小型】SwitchBot ロボット掃除機 K11+ ブラック＋サイドブラシ（4個セット）",
-    "percent_off": 17
+    "title": "SwitchBot サーキュレーター DCモーター コードレス扇風機 充電式 静音 強力送風 - 3D首振り 30畳 無段階風量調整 省エネ",
+    "percent_off": 15
   },
   "B07B7NXV4R": {
     "first_seen": "2026-07-30",
@@ -510,6 +503,13 @@
     "title": "サンワサプライ ワイヤレス静音キーボード（2.4GHzワイヤレス・テンキーあり） SKB-WL37BK",
     "percent_off": 50
   },
+  "B0CLGVLBMV": {
+    "first_seen": "2026-08-23",
+    "first_seen_at": "2026-08-23T20:37:59+09:00",
+    "last_seen": "2026-09-29",
+    "title": "Razer ラピッドトリガー 搭載 Huntsman V3 Pro Mini JP ラピッドトリガーと調整可能なアクチュエーション搭載のアナログ ゲーミングキーボード アナログオプティカルスイッチ 調整可能なアクチュエーション 押下圧 40G 日本語配列 ハンツマン ブイスリー プロ ミニ ジェイピー【日本正規代理店保証品】 ブラック",
+    "percent_off": 32
+  },
   "B0B1Q636K7": {
     "first_seen": "2026-07-26",
     "first_seen_at": "2026-07-26T12:00:00+09:00",
@@ -537,13 +537,6 @@
     "last_seen": "2026-09-29",
     "title": "エレコム ワイヤレスキーボード メンブレン 薄型 フルキーボード テンキー ブラック TK-FDM110TXBK",
     "percent_off": 29
-  },
-  "B0F1FD99K8": {
-    "first_seen": "2026-09-25",
-    "first_seen_at": "2026-09-25T22:14:49+09:00",
-    "last_seen": "2026-09-29",
-    "title": "ラピッドトリガー 搭載 Razer レイザー Huntsman V3 Pro Mini JP (White Edition) ラピッドトリガーと調整可能なアクチュエーション搭載のアナログ ゲーミングキーボード アナログオプティカルスイッチ 調整可能なアクチュエーション 押下圧 40G 日本語配列 ハンツマン ブイスリー プロ ミニ ジェイピー ホワイト エディション【日本正規代理店保証品】",
-    "percent_off": 30
   },
   "B0BKPL1VKW": {
     "first_seen": "2026-07-26",
@@ -635,6 +628,41 @@
     "last_seen": "2026-09-29",
     "title": "アイリスオーヤマ 過熱水蒸気 エア フライヤー 3L 2～3人用 ノンオイルフライヤー スチーム機能 ジューシー FV-M30A-C アイボリー",
     "percent_off": 42
+  },
+  "B0GGGMH2M2": {
+    "first_seen": "2026-09-13",
+    "first_seen_at": "2026-09-13T20:14:44+09:00",
+    "last_seen": "2026-09-29",
+    "title": "UGREEN Air 65W USB-C*2 type-c 急速充電器 【iPhone18 Pro/Pro Max AVS対応】PD3.1 GaNII",
+    "percent_off": 25
+  },
+  "B0FH28F7SJ": {
+    "first_seen": "2026-09-13",
+    "first_seen_at": "2026-09-13T19:14:35+09:00",
+    "last_seen": "2026-09-29",
+    "title": "Belkin Qi2 25W ワイヤレス充電器 MagSafe対応 3in1充電スタンド iPhone 18・Apple Watch対応 3台同時充電",
+    "percent_off": 9
+  },
+  "B0DYD1R49S": {
+    "first_seen": "2026-07-30",
+    "first_seen_at": "2026-07-30T12:00:00+09:00",
+    "last_seen": "2026-09-29",
+    "title": "SwitchBot 空気清浄機Table スマートリモコン ハブ2 アレクサ - スイッチボット 25畳 小型 省エネ 大風量 360度全方位 浄化 消臭 除菌 集じん HEPA フィルター 花粉 ニオイ対策 タイマー機能 Alexa Google Home Siriに対応 (空気清浄機Table 1点+ハブ2 1点)",
+    "percent_off": 19
+  },
+  "B0GHNXTK95": {
+    "first_seen": "2026-09-05",
+    "first_seen_at": "2026-09-05T23:14:40+09:00",
+    "last_seen": "2026-09-29",
+    "title": "【セット販売】【超小型】SwitchBot ロボット掃除機 K11+ ブラック＋サイドブラシ（4個セット）",
+    "percent_off": 17
+  },
+  "B0F1FD99K8": {
+    "first_seen": "2026-09-25",
+    "first_seen_at": "2026-09-25T22:14:49+09:00",
+    "last_seen": "2026-09-29",
+    "title": "ラピッドトリガー 搭載 Razer レイザー Huntsman V3 Pro Mini JP (White Edition) ラピッドトリガーと調整可能なアクチュエーション搭載のアナログ ゲーミングキーボード アナログオプティカルスイッチ 調整可能なアクチュエーション 押下圧 40G 日本語配列 ハンツマン ブイスリー プロ ミニ ジェイピー ホワイト エディション【日本正規代理店保証品】",
+    "percent_off": 30
   },
   "B0FQGY75PP": {
     "first_seen": "2026-09-25",
@@ -881,13 +909,6 @@
     "title": "Apple Watch Ultra 3(GPS + Cellularモデル)- 49mmブラックチタニウムケースとブラックオーシャンバンド",
     "percent_off": 12
   },
-  "B0GQW2J67Z": {
-    "first_seen": "2026-09-24",
-    "first_seen_at": "2026-09-24T00:15:01+09:00",
-    "last_seen": "2026-09-28",
-    "title": "Apple 11インチiPad Air（M4）：Liquid Retinaディスプレイ、256GB、12MPフロント/バックカメラ、Apple N1によるWi-Fi 7、Touch ID、一日中使えるバッテリー — スターライト",
-    "percent_off": null
-  },
   "B0F9KQVZY9": {
     "first_seen": "2026-09-28",
     "first_seen_at": "2026-09-28T21:14:46+09:00",
@@ -908,13 +929,6 @@
     "last_seen": "2026-09-28",
     "title": "UGREEN 充電器 type-c 30W (2*USB-C+1*USB-A) 【PSE技術基準適合/PD3.0対応/30W急速充電/コンパクト】",
     "percent_off": null
-  },
-  "B0FH2981XZ": {
-    "first_seen": "2026-09-14",
-    "first_seen_at": "2026-09-14T21:14:43+09:00",
-    "last_seen": "2026-09-28",
-    "title": "Belkin Qi2 25W ワイヤレス充電器 MagSafe対応 3in1充電スタンド iPhone 18・Apple Watch対応 3台同時充電",
-    "percent_off": 16
   },
   "B0F7GGN94D": {
     "first_seen": "2026-07-28",
@@ -979,26 +993,12 @@
     "title": "UGREEN 100W GaN 卓上急速充電器 (4*USB-C+2*USB-A) コンパクト【PSE技術基準適合/PD3.0/QC4.0/PPS対応】 複数台同時充電 iPhone17/16/15/14/13/Xperia/Pixel Pro/iPad/ノートPC MacBook Pro/Airなどに対応",
     "percent_off": null
   },
-  "B0C9TKSP8V": {
-    "first_seen": "2026-07-30",
-    "first_seen_at": "2026-07-30T12:00:00+09:00",
-    "last_seen": "2026-09-28",
-    "title": "SwitchBot サーキュレーター DCモーター コードレス扇風機 充電式 静音 強力送風 - 3D首振り 30畳 無段階風量調整 省エネ",
-    "percent_off": 43
-  },
   "B0BM8VS13P": {
     "first_seen": "2026-09-18",
     "first_seen_at": "2026-09-18T09:14:32+09:00",
     "last_seen": "2026-09-28",
     "title": "スイッチボット(SwitchBot) SwitchBot スマートリモコン ハブ2 赤外線家電を管理 スマートホーム Alexa スイッチボット 学習リモコン 温湿度計機能付き 光センサー付き リモートボタン スケジュール シーンで家電一括操作 遠隔操作 節電·省エネ Google Home IFTTT Siri SmartThingsに対応 Hub2",
     "percent_off": 15
-  },
-  "B0CLGVLBMV": {
-    "first_seen": "2026-08-23",
-    "first_seen_at": "2026-08-23T20:37:59+09:00",
-    "last_seen": "2026-09-28",
-    "title": "Razer ラピッドトリガー 搭載 Huntsman V3 Pro Mini JP ラピッドトリガーと調整可能なアクチュエーション搭載のアナログ ゲーミングキーボード アナログオプティカルスイッチ 調整可能なアクチュエーション 押下圧 40G 日本語配列 ハンツマン ブイスリー プロ ミニ ジェイピー【日本正規代理店保証品】 ブラック",
-    "percent_off": 32
   },
   "B0BKP5R91F": {
     "first_seen": "2026-08-04",
