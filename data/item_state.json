@@ -111,13 +111,6 @@
     "title": "ソニー(SONY) 完全ワイヤレスイヤホン WF-C510 / 軽量小型4.6g / 高精度通話品質/外音取り込み対応/マルチポイント対応 / IPX4防滴性能 / ブラック/WF-C510 BC",
     "percent_off": 19
   },
-  "B0BRSJP3KF": {
-    "first_seen": "2026-09-24",
-    "first_seen_at": "2026-09-24T22:15:02+09:00",
-    "last_seen": "2026-09-29",
-    "title": "Belkin MagSafe対応 ワイヤレスモバイルバッテリー 5000mAh 最大7.5W キックスタンド付き パープル",
-    "percent_off": 45
-  },
   "B0DT4RGDSJ": {
     "first_seen": "2026-07-27",
     "first_seen_at": "2026-07-27T12:00:00+09:00",
@@ -320,6 +313,13 @@
     "last_seen": "2026-09-29",
     "title": "UGREEN Air急速充電器 45W Type-C 薄型設計 当社比67%小型化超薄モデル PD3.0/PPS/QC4/SCP対応 折り畳み式",
     "percent_off": 29
+  },
+  "B0DNT9Z2HS": {
+    "first_seen": "2026-07-27",
+    "first_seen_at": "2026-07-27T12:00:00+09:00",
+    "last_seen": "2026-09-29",
+    "title": "UGREEN 100W GaN 卓上急速充電器 (4*USB-C+2*USB-A) コンパクト【PSE技術基準適合/PD3.0/QC4.0/PPS対応】 複数台同時充電 iPhone17/16/15/14/13/Xperia/Pixel Pro/iPad/ノートPC MacBook Pro/Airなどに対応",
+    "percent_off": 28
   },
   "B0GF26RSYQ": {
     "first_seen": "2026-07-27",
@@ -706,6 +706,13 @@
     "title": "アイリスオーヤマ 過熱水蒸気 エア フライヤー 3L 2～3人用 ノンオイルフライヤー スチーム機能 ジューシー FV-M30A-C アイボリー",
     "percent_off": 42
   },
+  "B0BRSJP3KF": {
+    "first_seen": "2026-09-24",
+    "first_seen_at": "2026-09-24T22:15:02+09:00",
+    "last_seen": "2026-09-29",
+    "title": "Belkin MagSafe対応 ワイヤレスモバイルバッテリー 5000mAh 最大7.5W キックスタンド付き パープル",
+    "percent_off": 45
+  },
   "B0FRZ44Q6H": {
     "first_seen": "2026-09-25",
     "first_seen_at": "2026-09-25T23:15:00+09:00",
@@ -1062,13 +1069,6 @@
     "last_seen": "2026-09-28",
     "title": "エレコム モバイルバッテリー Qi2 ワイヤレス 10000mAh 20W USB-C USB-A 【機内持ち込み可/PSE技術基準適合/iPhone 16シリーズ対応】 ブラック EC-C38BK",
     "percent_off": 27
-  },
-  "B0DNT9Z2HS": {
-    "first_seen": "2026-07-27",
-    "first_seen_at": "2026-07-27T12:00:00+09:00",
-    "last_seen": "2026-09-28",
-    "title": "UGREEN 100W GaN 卓上急速充電器 (4*USB-C+2*USB-A) コンパクト【PSE技術基準適合/PD3.0/QC4.0/PPS対応】 複数台同時充電 iPhone17/16/15/14/13/Xperia/Pixel Pro/iPad/ノートPC MacBook Pro/Airなどに対応",
-    "percent_off": null
   },
   "B0BM8VS13P": {
     "first_seen": "2026-09-18",
