@@ -97,13 +97,6 @@
     "title": "ソニー(SONY) 完全ワイヤレスイヤホン WF-C510 / 軽量小型4.6g / 高精度通話品質/外音取り込み対応/マルチポイント対応 / IPX4防滴性能 / ブラック/WF-C510 BC",
     "percent_off": 19
   },
-  "B0BRSJP3KF": {
-    "first_seen": "2026-09-24",
-    "first_seen_at": "2026-09-24T22:15:02+09:00",
-    "last_seen": "2026-09-30",
-    "title": "Belkin MagSafe対応 ワイヤレスモバイルバッテリー 5000mAh 最大7.5W キックスタンド付き パープル",
-    "percent_off": 45
-  },
   "B0DT4RGDSJ": {
     "first_seen": "2026-07-27",
     "first_seen_at": "2026-07-27T12:00:00+09:00",
@@ -167,13 +160,6 @@
     "title": "CIO SMARTCOBY Ex04 Wireless2.2 CABLE SS5K 半固体モバイルバッテリー Qi2.2 5000mAh (ブラック)",
     "percent_off": null
   },
-  "B0B8YMHKHN": {
-    "first_seen": "2026-09-29",
-    "first_seen_at": "2026-09-29T11:14:44+09:00",
-    "last_seen": "2026-09-30",
-    "title": "エレコム モバイルバッテリー マグネット式 ワイヤレス充電 5000mAh ワイヤレス出力(5W) Type-C出力(12W) Type-C×1ポート 【Magsafeに対応したiPhone12/13シリーズ】 ブラック DE-C40-5000BK",
-    "percent_off": 17
-  },
   "B0DSW3KQHP": {
     "first_seen": "2026-09-29",
     "first_seen_at": "2026-09-29T23:15:04+09:00",
@@ -187,6 +173,13 @@
     "last_seen": "2026-09-30",
     "title": "Belkin USB充電器 40W iPhone17,16～12 デュアルUSB-C(20W x 2) PD3.0 急速充電対応 ホワイト WCB006dqWHJP",
     "percent_off": 47
+  },
+  "B0BF9ZYCQ5": {
+    "first_seen": "2026-07-31",
+    "first_seen_at": "2026-07-31T12:00:00+09:00",
+    "last_seen": "2026-09-30",
+    "title": "【VGP受賞】Belkin 充電器 USB-C 2ポート PPS規格対応 GaN採用 小型 ACアダプター タイプC 急速充電 軽量【PD3.0対応 /PSE認証/折りたたみ式プラグ】45W(25W+20W) MacBook Windows PC Surface Pro iPad iPhone 17,16～12対応 Galaxy Android スマホ 各種ノートPC対応 WCH011dqWH",
+    "percent_off": 42
   },
   "B0DMN885ZF": {
     "first_seen": "2026-08-05",
@@ -237,11 +230,11 @@
     "title": "Anker 323 Charger (33W) (USB PD 充電器 USB-C USB-A 33W)【PSE技術基準適合/USB PD対応/折りたたみ式プラグ】MacBook USB PD対応Windows PC iPhone14 iPad Pixel Galaxy Android PC各種対応 (ホワイト)",
     "percent_off": null
   },
-  "B0B2QQDKR8": {
-    "first_seen": "2026-07-27",
-    "first_seen_at": "2026-07-27T12:00:00+09:00",
+  "B0B2QR8HN9": {
+    "first_seen": "2026-08-09",
+    "first_seen_at": "2026-08-09T19:54:50+09:00",
     "last_seen": "2026-09-30",
-    "title": "Anker 511 Charger (Nano 3, 30W) ブラック",
+    "title": "Anker 511 Charger (Nano 3, 30W) ホワイト",
     "percent_off": null
   },
   "B0B57H4FD3": {
@@ -307,12 +300,12 @@
     "title": "UGREEN Air急速充電器 45W Type-C 薄型設計 当社比67%小型化超薄モデル PD3.0/PPS/QC4/SCP対応 折り畳み式",
     "percent_off": 29
   },
-  "B0DNT9Z2HS": {
+  "B0F99FCSX7": {
     "first_seen": "2026-07-27",
     "first_seen_at": "2026-07-27T12:00:00+09:00",
     "last_seen": "2026-09-30",
-    "title": "UGREEN 100W GaN 卓上急速充電器 (4*USB-C+2*USB-A) コンパクト【PSE技術基準適合/PD3.0/QC4.0/PPS対応】 複数台同時充電 iPhone17/16/15/14/13/Xperia/Pixel Pro/iPad/ノートPC MacBook Pro/Airなどに対応",
-    "percent_off": 28
+    "title": "Anker Nano Charger (70W, 3 Ports) ブラック",
+    "percent_off": null
   },
   "B0GGGMH2M2": {
     "first_seen": "2026-09-13",
@@ -334,6 +327,13 @@
     "last_seen": "2026-09-30",
     "title": "Anker MagGo Wireless Charger (Stand) ブラック",
     "percent_off": null
+  },
+  "B0FH28F7SJ": {
+    "first_seen": "2026-09-13",
+    "first_seen_at": "2026-09-13T19:14:35+09:00",
+    "last_seen": "2026-09-30",
+    "title": "Belkin Qi2 25W ワイヤレス充電器 MagSafe対応 3in1充電スタンド iPhone 18・Apple Watch対応 3台同時充電",
+    "percent_off": 9
   },
   "B0DG93MZCR": {
     "first_seen": "2026-07-27",
@@ -447,19 +447,19 @@
     "title": "GARMIN（ガーミン）GPSランニングウォッチ Forerunner 965 White 【日本正規品】",
     "percent_off": 20
   },
-  "B0F9LB5PQF": {
-    "first_seen": "2026-09-18",
-    "first_seen_at": "2026-09-18T21:14:31+09:00",
-    "last_seen": "2026-09-30",
-    "title": "【Forerunner265後継モデル】GARMIN(ガーミン) GPSランニングウォッチ Forerunner 570 47mm Black 【ロングバッテリー/超軽量/高精度GPS/色鮮やかなAMOLEDタッチディスプレイ/スピーカー＆マイク内蔵/ボイスコントロール/睡眠スコア・Body Battery計測/Music保存機能 有・無/Android/iOS対応/Suica機能搭載/防水】",
-    "percent_off": 16
-  },
   "B0BWF2TM8R": {
     "first_seen": "2026-09-21",
     "first_seen_at": "2026-09-21T22:15:01+09:00",
     "last_seen": "2026-09-30",
     "title": "GARMIN（ガーミン）GPSランニングウォッチ Forerunner 265S Music Black 【日本正規品】",
     "percent_off": 14
+  },
+  "B0F9LB5PQF": {
+    "first_seen": "2026-09-18",
+    "first_seen_at": "2026-09-18T21:14:31+09:00",
+    "last_seen": "2026-09-30",
+    "title": "【Forerunner265後継モデル】GARMIN(ガーミン) GPSランニングウォッチ Forerunner 570 47mm Black 【ロングバッテリー/超軽量/高精度GPS/色鮮やかなAMOLEDタッチディスプレイ/スピーカー＆マイク内蔵/ボイスコントロール/睡眠スコア・Body Battery計測/Music保存機能 有・無/Android/iOS対応/Suica機能搭載/防水】",
+    "percent_off": 18
   },
   "B0DQ7MJ8P3": {
     "first_seen": "2026-08-22",
@@ -502,13 +502,6 @@
     "last_seen": "2026-09-30",
     "title": "Amazfit Active Max 48mm スマートウォッチ ハイブリッドトレーニング HYROX ヤマレコ ヤマップ 3000nit高輝度 GPS 5衛星 オフラインマップ AIによる音声操作と睡眠/運動管理 心拍 睡眠 健康管理 170+スポーツモード ナビゲーション ルートインポート5ATM防水 Max 25日間バッテリー持続 丸型",
     "percent_off": null
-  },
-  "B0GX8DRYCX": {
-    "first_seen": "2026-09-03",
-    "first_seen_at": "2026-09-03T12:14:47+09:00",
-    "last_seen": "2026-09-30",
-    "title": "HUAWEI WATCH FIT 5 スマートウォッチ 薄型軽量 大画面 GPS内蔵 10日間ロングバッテリー 通知 健康管理 心拍数 睡眠 ブラック",
-    "percent_off": 16
   },
   "B0H1BW1165": {
     "first_seen": "2026-09-29",
@@ -699,6 +692,41 @@
     "title": "アイリスオーヤマ 過熱水蒸気 エア フライヤー 3L 2～3人用 ノンオイルフライヤー スチーム機能 ジューシー FV-M30A-C アイボリー",
     "percent_off": 42
   },
+  "B0BRSJP3KF": {
+    "first_seen": "2026-09-24",
+    "first_seen_at": "2026-09-24T22:15:02+09:00",
+    "last_seen": "2026-09-30",
+    "title": "Belkin MagSafe対応 ワイヤレスモバイルバッテリー 5000mAh 最大7.5W キックスタンド付き パープル",
+    "percent_off": 45
+  },
+  "B0B8YMHKHN": {
+    "first_seen": "2026-09-29",
+    "first_seen_at": "2026-09-29T11:14:44+09:00",
+    "last_seen": "2026-09-30",
+    "title": "エレコム モバイルバッテリー マグネット式 ワイヤレス充電 5000mAh ワイヤレス出力(5W) Type-C出力(12W) Type-C×1ポート 【Magsafeに対応したiPhone12/13シリーズ】 ブラック DE-C40-5000BK",
+    "percent_off": 17
+  },
+  "B0B2QQDKR8": {
+    "first_seen": "2026-07-27",
+    "first_seen_at": "2026-07-27T12:00:00+09:00",
+    "last_seen": "2026-09-30",
+    "title": "Anker 511 Charger (Nano 3, 30W) ブラック",
+    "percent_off": null
+  },
+  "B0DNT9Z2HS": {
+    "first_seen": "2026-07-27",
+    "first_seen_at": "2026-07-27T12:00:00+09:00",
+    "last_seen": "2026-09-30",
+    "title": "UGREEN 100W GaN 卓上急速充電器 (4*USB-C+2*USB-A) コンパクト【PSE技術基準適合/PD3.0/QC4.0/PPS対応】 複数台同時充電 iPhone17/16/15/14/13/Xperia/Pixel Pro/iPad/ノートPC MacBook Pro/Airなどに対応",
+    "percent_off": 28
+  },
+  "B0GX8DRYCX": {
+    "first_seen": "2026-09-03",
+    "first_seen_at": "2026-09-03T12:14:47+09:00",
+    "last_seen": "2026-09-30",
+    "title": "HUAWEI WATCH FIT 5 スマートウォッチ 薄型軽量 大画面 GPS内蔵 10日間ロングバッテリー 通知 健康管理 心拍数 睡眠 ブラック",
+    "percent_off": 16
+  },
   "B0FL2BQCXL": {
     "first_seen": "2026-09-06",
     "first_seen_at": "2026-09-06T20:14:57+09:00",
@@ -747,13 +775,6 @@
     "last_seen": "2026-09-29",
     "title": "UGREEN MagFlow Qi2 25W認証 モバイルバッテリー Magsafe マグネット式ワイヤレス急速充電 10000mAh ブラック",
     "percent_off": 25
-  },
-  "B0BF9ZYCQ5": {
-    "first_seen": "2026-07-31",
-    "first_seen_at": "2026-07-31T12:00:00+09:00",
-    "last_seen": "2026-09-29",
-    "title": "【VGP受賞】Belkin 充電器 USB-C 2ポート PPS規格対応 GaN採用 小型 ACアダプター タイプC 急速充電 軽量【PD3.0対応 /PSE認証/折りたたみ式プラグ】45W(25W+20W) MacBook Windows PC Surface Pro iPad iPhone 17,16～12対応 Galaxy Android スマホ 各種ノートPC対応 WCH011dqWH",
-    "percent_off": 42
   },
   "B0B6MWBSJ4": {
     "first_seen": "2026-09-28",
@@ -860,13 +881,6 @@
     "title": "UGREEN 45W USB-C*2+USB-A*1 急速充電器 Type-C PD GaN PSE適合タイプc充電器 PD/PPS/QC3.0",
     "percent_off": 35
   },
-  "B0B2QR8HN9": {
-    "first_seen": "2026-08-09",
-    "first_seen_at": "2026-08-09T19:54:50+09:00",
-    "last_seen": "2026-09-29",
-    "title": "Anker 511 Charger (Nano 3, 30W) ホワイト",
-    "percent_off": null
-  },
   "B0D53T41CB": {
     "first_seen": "2026-09-01",
     "first_seen_at": "2026-09-01T20:14:58+09:00",
@@ -880,13 +894,6 @@
     "last_seen": "2026-09-29",
     "title": "Anker Nano Charger (70W, 3 Ports) ホワイト",
     "percent_off": null
-  },
-  "B0FH28F7SJ": {
-    "first_seen": "2026-09-13",
-    "first_seen_at": "2026-09-13T19:14:35+09:00",
-    "last_seen": "2026-09-29",
-    "title": "Belkin Qi2 25W ワイヤレス充電器 MagSafe対応 3in1充電スタンド iPhone 18・Apple Watch対応 3台同時充電",
-    "percent_off": 9
   },
   "B0FJMD3Y45": {
     "first_seen": "2026-09-27",
@@ -977,13 +984,6 @@
     "first_seen_at": "2026-09-23T17:14:35+09:00",
     "last_seen": "2026-09-29",
     "title": "Apple 11インチiPad Air（M4）：Liquid Retinaディスプレイ、128GB、12MPフロント/バックカメラ、Apple N1によるWi-Fi 7、Touch ID、一日中使えるバッテリー — スペースグレイ",
-    "percent_off": null
-  },
-  "B0F99FCSX7": {
-    "first_seen": "2026-07-27",
-    "first_seen_at": "2026-07-27T12:00:00+09:00",
-    "last_seen": "2026-09-29",
-    "title": "Anker Nano Charger (70W, 3 Ports) ブラック",
     "percent_off": null
   },
   "B0DGJ63QY8": {
