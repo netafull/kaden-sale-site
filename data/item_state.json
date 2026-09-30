@@ -132,11 +132,11 @@
     "title": "Belkin Apple Watch充電器一体型 モバイルバッテリー 3C 認証 10000mAh 45W USB-Cケーブル内蔵 3台同時充電",
     "percent_off": 25
   },
-  "B0F6NFHB31": {
-    "first_seen": "2026-07-25",
-    "first_seen_at": "2026-07-25T12:00:00+09:00",
+  "B0F6NC41DZ": {
+    "first_seen": "2026-08-06",
+    "first_seen_at": "2026-08-06T21:18:24+09:00",
     "last_seen": "2026-09-30",
-    "title": "UGREEN Air モバイルバッテリー 5000mAh 8.6mm超薄型 Qi2 15W MagSafe iPhone18Pro対応",
+    "title": "UGREEN Air モバイルバッテリー 10000mAh 薄型 Qi2 15W MagSafe ケーブル内蔵 iPhone18Pro対応",
     "percent_off": 25
   },
   "B0DSPVP337": {
@@ -159,6 +159,13 @@
     "last_seen": "2026-09-30",
     "title": "UGREEN 145W 4-in-1モバイルバッテリー 20000mAh 15Wワイヤレス充電対応 3ポート iPhone 18 Pro/Duo対応",
     "percent_off": 23
+  },
+  "B0DB17C63X": {
+    "first_seen": "2026-09-26",
+    "first_seen_at": "2026-09-26T00:14:56+09:00",
+    "last_seen": "2026-09-30",
+    "title": "Anker MagGo Power Bank (10000mAh, Slim) ブラック",
+    "percent_off": 20
   },
   "B0FRSR6BVR": {
     "first_seen": "2026-08-07",
@@ -307,25 +314,11 @@
     "title": "CIO NovaPort DUOⅡ 65W PD急速充電器 USB-C×2 2台同時充電 世界最小級（ブラック）",
     "percent_off": null
   },
-  "B0G64NF1FQ": {
-    "first_seen": "2026-09-16",
-    "first_seen_at": "2026-09-16T01:14:30+09:00",
-    "last_seen": "2026-09-30",
-    "title": "UGREEN Air急速充電器 45W Type-C 薄型設計 当社比67%小型化超薄モデル PD3.0/PPS/QC4/SCP対応 折り畳み式",
-    "percent_off": 29
-  },
   "B0GF26RSYQ": {
     "first_seen": "2026-07-27",
     "first_seen_at": "2026-07-27T12:00:00+09:00",
     "last_seen": "2026-09-30",
     "title": "Anker Nano Charger (45W, Display, スイングプラグ) ブラック",
-    "percent_off": null
-  },
-  "B0F99FCSX7": {
-    "first_seen": "2026-07-27",
-    "first_seen_at": "2026-07-27T12:00:00+09:00",
-    "last_seen": "2026-09-30",
-    "title": "Anker Nano Charger (70W, 3 Ports) ブラック",
     "percent_off": null
   },
   "B0GGGMH2M2": {
@@ -362,6 +355,13 @@
     "last_seen": "2026-09-30",
     "title": "UGREEN PD充電器 type-c 30W 2*USB-C+1*USB-A GaN PSE適合/PD3.0 タイプc充電器 GaNⅡ type c",
     "percent_off": null
+  },
+  "B0G64NF1FQ": {
+    "first_seen": "2026-09-16",
+    "first_seen_at": "2026-09-16T01:14:30+09:00",
+    "last_seen": "2026-09-30",
+    "title": "UGREEN Air急速充電器 45W Type-C 薄型設計 当社比67%小型化超薄モデル PD3.0/PPS/QC4/SCP対応 折り畳み式",
+    "percent_off": 19
   },
   "B0DM8WZB8M": {
     "first_seen": "2026-09-29",
@@ -433,18 +433,18 @@
     "title": "IODATA GigaCrysta ゲーミングモニター 27型 WQHD 200Hz MiniLED (HDMI/DP) EX-GDQ271JLAQ",
     "percent_off": 17
   },
-  "B07B7NXV4R": {
-    "first_seen": "2026-07-30",
-    "first_seen_at": "2026-07-30T12:00:00+09:00",
-    "last_seen": "2026-09-30",
-    "title": "SwitchBot スイッチボット スイッチ ボタンに適用 指ロボット スマートスイッチ スマートホーム ワイヤレス タイマー スマホで遠隔操作 Alexa, Google Home, Siri, IFTTTなどに対応(ハブ必要) ホワイト",
-    "percent_off": 14
-  },
   "B0C9TKSP8V": {
     "first_seen": "2026-07-30",
     "first_seen_at": "2026-07-30T12:00:00+09:00",
     "last_seen": "2026-09-30",
     "title": "SwitchBot サーキュレーター DCモーター コードレス扇風機 充電式 静音 強力送風 - 3D首振り 30畳 無段階風量調整 省エネ",
+    "percent_off": 15
+  },
+  "B07B7NXV4R": {
+    "first_seen": "2026-07-30",
+    "first_seen_at": "2026-07-30T12:00:00+09:00",
+    "last_seen": "2026-09-30",
+    "title": "SwitchBot スイッチボット スイッチ ボタンに適用 指ロボット スマートスイッチ スマートホーム ワイヤレス タイマー スマホで遠隔操作 Alexa, Google Home, Siri, IFTTTなどに対応(ハブ必要) ホワイト",
     "percent_off": 14
   },
   "B0F5WNVHH7": {
@@ -516,13 +516,6 @@
     "last_seen": "2026-09-30",
     "title": "GARMIN(ガーミン)スマートウォッチ Forerunner 170 Whitestone/Cloud Blue スマートウォッチモード 約 10 日間 高精度GPS ランニングウォッチ iOS/Android AMOLEDディスプレイ1.2インチ マラソン 軽量 防水 心拍数 睡眠スコア 健康管理 Suicaタッチ決済 Garmin Pay",
     "percent_off": 17
-  },
-  "B0G529YNFK": {
-    "first_seen": "2026-09-05",
-    "first_seen_at": "2026-09-05T15:14:47+09:00",
-    "last_seen": "2026-09-30",
-    "title": "Amazfit Active Max 48mm スマートウォッチ ハイブリッドトレーニング HYROX ヤマレコ ヤマップ 3000nit高輝度 GPS 5衛星 オフラインマップ AIによる音声操作と睡眠/運動管理 心拍 睡眠 健康管理 170+スポーツモード ナビゲーション ルートインポート5ATM防水 Max 25日間バッテリー持続 丸型",
-    "percent_off": null
   },
   "B0GX8DRYCX": {
     "first_seen": "2026-09-03",
@@ -713,6 +706,27 @@
     "title": "アイリスオーヤマ 過熱水蒸気 エア フライヤー 3L 2～3人用 ノンオイルフライヤー スチーム機能 ジューシー FV-M30A-C アイボリー",
     "percent_off": 42
   },
+  "B0F6NFHB31": {
+    "first_seen": "2026-07-25",
+    "first_seen_at": "2026-07-25T12:00:00+09:00",
+    "last_seen": "2026-09-30",
+    "title": "UGREEN Air モバイルバッテリー 5000mAh 8.6mm超薄型 Qi2 15W MagSafe iPhone18Pro対応",
+    "percent_off": 25
+  },
+  "B0F99FCSX7": {
+    "first_seen": "2026-07-27",
+    "first_seen_at": "2026-07-27T12:00:00+09:00",
+    "last_seen": "2026-09-30",
+    "title": "Anker Nano Charger (70W, 3 Ports) ブラック",
+    "percent_off": null
+  },
+  "B0G529YNFK": {
+    "first_seen": "2026-09-05",
+    "first_seen_at": "2026-09-05T15:14:47+09:00",
+    "last_seen": "2026-09-30",
+    "title": "Amazfit Active Max 48mm スマートウォッチ ハイブリッドトレーニング HYROX ヤマレコ ヤマップ 3000nit高輝度 GPS 5衛星 オフラインマップ AIによる音声操作と睡眠/運動管理 心拍 睡眠 健康管理 170+スポーツモード ナビゲーション ルートインポート5ATM防水 Max 25日間バッテリー持続 丸型",
+    "percent_off": null
+  },
   "B0DNT9Z2HS": {
     "first_seen": "2026-07-27",
     "first_seen_at": "2026-07-27T12:00:00+09:00",
@@ -803,13 +817,6 @@
     "last_seen": "2026-09-29",
     "title": "Bose QuietComfort Ultra Earbuds LE (第2世代) ワイヤレス ノイズキャンセリング Bluetooth イヤホン 最長6時間連続再生 IPX4規格準拠 イマーシブオーディオ 迫力の重低音 デザートゴールド",
     "percent_off": 19
-  },
-  "B0DB17C63X": {
-    "first_seen": "2026-09-26",
-    "first_seen_at": "2026-09-26T00:14:56+09:00",
-    "last_seen": "2026-09-29",
-    "title": "Anker MagGo Power Bank (10000mAh, Slim) ブラック",
-    "percent_off": 20
   },
   "B0FLQ3W8X7": {
     "first_seen": "2026-09-24",
@@ -978,13 +985,6 @@
     "last_seen": "2026-09-29",
     "title": "Apple Watch SE 3(GPSモデル)- 40mmミッドナイトアルミニウムケースとミッドナイトスポーツバンド - S/M",
     "percent_off": 16
-  },
-  "B0F6NC41DZ": {
-    "first_seen": "2026-08-06",
-    "first_seen_at": "2026-08-06T21:18:24+09:00",
-    "last_seen": "2026-09-29",
-    "title": "UGREEN Air モバイルバッテリー 10000mAh 薄型 Qi2 15W MagSafe ケーブル内蔵 iPhone18Pro対応",
-    "percent_off": 25
   },
   "B0FH2981XZ": {
     "first_seen": "2026-09-14",
