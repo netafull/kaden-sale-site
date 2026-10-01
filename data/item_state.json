@@ -41,26 +41,12 @@
     "title": "Apple 2026 MacBook Pro 18コアCPU、32コアGPUのM5 Maxチップ搭載ノートパソコン：AIのために設計、14.2インチLiquid Retina XDRディスプレイ、36GBユニファイドメモリ、2TBのSSDストレージ - スペースブラック",
     "percent_off": 7
   },
-  "B0GR1NTKL9": {
-    "first_seen": "2026-08-20",
-    "first_seen_at": "2026-08-20T06:42:31+09:00",
-    "last_seen": "2026-10-01",
-    "title": "Apple 2026 MacBook Pro 18コアCPU、20コアGPUのM5 Proチップ搭載ノートパソコン：AIのために設計、14.2インチLiquid Retina XDRディスプレイ、24GBユニファイドメモリ、2TBのSSDストレージ - シルバー",
-    "percent_off": 7
-  },
   "B0GRTQ2RQH": {
     "first_seen": "2026-09-30",
     "first_seen_at": "2026-09-30T13:15:01+09:00",
     "last_seen": "2026-10-01",
     "title": "Apple 2026 MacBook Pro 18コアCPU、32コアGPUのM5 Maxチップ搭載ノートパソコン：AIのために設計、14.2インチLiquid Retina XDRディスプレイ、36GBユニファイドメモリ、2TBのSSDストレージ - スペースブラック + 3年延長 AppleCare+ for 14インチMacBook Pro(M5 Pro/M5 Max)|ダウンロード版",
     "percent_off": 7
-  },
-  "B0GRTST8MJ": {
-    "first_seen": "2026-08-20",
-    "first_seen_at": "2026-08-20T06:42:31+09:00",
-    "last_seen": "2026-10-01",
-    "title": "Apple 2026 MacBook Pro 18コアCPU、20コアGPUのM5 Proチップ搭載ノートパソコン：AIのために設計、14.2インチLiquid Retina XDRディスプレイ、24GBユニファイドメモリ、2TBのSSDストレージ - シルバー + 3年延長 AppleCare+ for 14インチMacBook Pro(M5 Pro/M5 Max)|ダウンロード版",
-    "percent_off": 6
   },
   "B0GR1VZY4W": {
     "first_seen": "2026-09-27",
@@ -208,13 +194,6 @@
     "last_seen": "2026-10-01",
     "title": "Anker Zolo Charger (70W, 4 Ports) ブラック",
     "percent_off": 39
-  },
-  "B0GSVNFT8T": {
-    "first_seen": "2026-09-30",
-    "first_seen_at": "2026-09-30T05:14:49+09:00",
-    "last_seen": "2026-10-01",
-    "title": "UGREEN アップグレード版 100W充電器 USB-C×3/USB-A×1 4ポート充電器 PD3.0/PPS/QC4対応 36*64*64mm",
-    "percent_off": 40
   },
   "B0FVM1C19Y": {
     "first_seen": "2026-07-31",
@@ -531,13 +510,6 @@
     "title": "HUAWEI WATCH FIT 5 スマートウォッチ 薄型軽量 大画面 GPS内蔵 10日間ロングバッテリー 通知 健康管理 心拍数 睡眠 ブラック",
     "percent_off": 16
   },
-  "B0H1BW1165": {
-    "first_seen": "2026-09-29",
-    "first_seen_at": "2026-09-29T11:14:44+09:00",
-    "last_seen": "2026-10-01",
-    "title": "Amazfit Bip Max スマートウォッチ 3000nit高輝度 AMOLED GPS 5衛星 オフラインマップ AIによる音声操作 睡眠 運動管理 心拍 ストレス 健康管理 150+スポーツモード ナビゲーション ルートインポート 5ATM防水 20日間バッテリー持続 (シルバー)",
-    "percent_off": null
-  },
   "B0H99FCSZX": {
     "first_seen": "2026-09-19",
     "first_seen_at": "2026-09-19T08:14:46+09:00",
@@ -719,6 +691,34 @@
     "last_seen": "2026-10-01",
     "title": "[山善] ノンフライヤー 4.5L 大容量 電気フライヤー ノンオイル エアフライヤー 3~5人用 家庭用 卓上 揚げ物 惣菜 タイマー 温度調節 レシピブック付き ブラック YAH-AC120(B)",
     "percent_off": 22
+  },
+  "B0GR1NTKL9": {
+    "first_seen": "2026-08-20",
+    "first_seen_at": "2026-08-20T06:42:31+09:00",
+    "last_seen": "2026-10-01",
+    "title": "Apple 2026 MacBook Pro 18コアCPU、20コアGPUのM5 Proチップ搭載ノートパソコン：AIのために設計、14.2インチLiquid Retina XDRディスプレイ、24GBユニファイドメモリ、2TBのSSDストレージ - シルバー",
+    "percent_off": 7
+  },
+  "B0GRTST8MJ": {
+    "first_seen": "2026-08-20",
+    "first_seen_at": "2026-08-20T06:42:31+09:00",
+    "last_seen": "2026-10-01",
+    "title": "Apple 2026 MacBook Pro 18コアCPU、20コアGPUのM5 Proチップ搭載ノートパソコン：AIのために設計、14.2インチLiquid Retina XDRディスプレイ、24GBユニファイドメモリ、2TBのSSDストレージ - シルバー + 3年延長 AppleCare+ for 14インチMacBook Pro(M5 Pro/M5 Max)|ダウンロード版",
+    "percent_off": 6
+  },
+  "B0GSVNFT8T": {
+    "first_seen": "2026-09-30",
+    "first_seen_at": "2026-09-30T05:14:49+09:00",
+    "last_seen": "2026-10-01",
+    "title": "UGREEN アップグレード版 100W充電器 USB-C×3/USB-A×1 4ポート充電器 PD3.0/PPS/QC4対応 36*64*64mm",
+    "percent_off": 40
+  },
+  "B0H1BW1165": {
+    "first_seen": "2026-09-29",
+    "first_seen_at": "2026-09-29T11:14:44+09:00",
+    "last_seen": "2026-10-01",
+    "title": "Amazfit Bip Max スマートウォッチ 3000nit高輝度 AMOLED GPS 5衛星 オフラインマップ AIによる音声操作 睡眠 運動管理 心拍 ストレス 健康管理 150+スポーツモード ナビゲーション ルートインポート 5ATM防水 20日間バッテリー持続 (シルバー)",
+    "percent_off": null
   },
   "B0FQG2B81Z": {
     "first_seen": "2026-09-23",
