@@ -74,7 +74,7 @@
     "first_seen_at": "2026-09-21T21:14:57+09:00",
     "last_seen": "2026-10-01",
     "title": "ソニー(SONY) WF-C710N ブラック ワイヤレスイヤホン 高性能ノイズキャンセリング Bluetoothロングバッテリー 外音取り込み IPX4防滴性能 軽量 コンパクト マルチポイント接続",
-    "percent_off": 24
+    "percent_off": 23
   },
   "B0DDKHF9XY": {
     "first_seen": "2026-08-16",
@@ -118,11 +118,11 @@
     "title": "Belkin Apple Watch充電器一体型 モバイルバッテリー 3C 認証 10000mAh 45W USB-Cケーブル内蔵 3台同時充電",
     "percent_off": 25
   },
-  "B0F6NC41DZ": {
-    "first_seen": "2026-08-06",
-    "first_seen_at": "2026-08-06T21:18:24+09:00",
+  "B0F6NFHB31": {
+    "first_seen": "2026-07-25",
+    "first_seen_at": "2026-07-25T12:00:00+09:00",
     "last_seen": "2026-10-01",
-    "title": "UGREEN Air モバイルバッテリー 10000mAh 薄型 Qi2 15W MagSafe ケーブル内蔵 iPhone18Pro対応",
+    "title": "UGREEN Air モバイルバッテリー 5000mAh 8.6mm超薄型 Qi2 15W MagSafe iPhone18Pro対応",
     "percent_off": 25
   },
   "B0DSPVP337": {
@@ -153,6 +153,13 @@
     "title": "UGREEN 145W 4-in-1モバイルバッテリー 20000mAh 15Wワイヤレス充電対応 3ポート iPhone 18 Pro/Duo対応",
     "percent_off": 23
   },
+  "B0DB17C63X": {
+    "first_seen": "2026-09-26",
+    "first_seen_at": "2026-09-26T00:14:56+09:00",
+    "last_seen": "2026-10-01",
+    "title": "Anker MagGo Power Bank (10000mAh, Slim) ブラック",
+    "percent_off": 20
+  },
   "B0FRSR6BVR": {
     "first_seen": "2026-08-07",
     "first_seen_at": "2026-08-07T22:31:51+09:00",
@@ -180,13 +187,6 @@
     "last_seen": "2026-10-01",
     "title": "Belkin USB充電器 40W iPhone17,16～12 デュアルUSB-C(20W x 2) PD3.0 急速充電対応 ホワイト WCB006dqWHJP",
     "percent_off": 47
-  },
-  "B0BF9ZYCQ5": {
-    "first_seen": "2026-07-31",
-    "first_seen_at": "2026-07-31T12:00:00+09:00",
-    "last_seen": "2026-10-01",
-    "title": "【VGP受賞】Belkin 充電器 USB-C 2ポート PPS規格対応 GaN採用 小型 ACアダプター タイプC 急速充電 軽量【PD3.0対応 /PSE認証/折りたたみ式プラグ】45W(25W+20W) MacBook Windows PC Surface Pro iPad iPhone 17,16～12対応 Galaxy Android スマホ 各種ノートPC対応 WCH011dqWH",
-    "percent_off": 42
   },
   "B0FL1S48XY": {
     "first_seen": "2026-09-08",
@@ -685,12 +685,19 @@
     "title": "[山善] ノンフライヤー 4.5L 大容量 電気フライヤー ノンオイル エアフライヤー 3~5人用 家庭用 卓上 揚げ物 惣菜 タイマー 温度調節 レシピブック付き ブラック YAH-AC120(B)",
     "percent_off": 22
   },
-  "B0F6NFHB31": {
-    "first_seen": "2026-07-25",
-    "first_seen_at": "2026-07-25T12:00:00+09:00",
+  "B0F6NC41DZ": {
+    "first_seen": "2026-08-06",
+    "first_seen_at": "2026-08-06T21:18:24+09:00",
     "last_seen": "2026-10-01",
-    "title": "UGREEN Air モバイルバッテリー 5000mAh 8.6mm超薄型 Qi2 15W MagSafe iPhone18Pro対応",
+    "title": "UGREEN Air モバイルバッテリー 10000mAh 薄型 Qi2 15W MagSafe ケーブル内蔵 iPhone18Pro対応",
     "percent_off": 25
+  },
+  "B0BF9ZYCQ5": {
+    "first_seen": "2026-07-31",
+    "first_seen_at": "2026-07-31T12:00:00+09:00",
+    "last_seen": "2026-10-01",
+    "title": "【VGP受賞】Belkin 充電器 USB-C 2ポート PPS規格対応 GaN採用 小型 ACアダプター タイプC 急速充電 軽量【PD3.0対応 /PSE認証/折りたたみ式プラグ】45W(25W+20W) MacBook Windows PC Surface Pro iPad iPhone 17,16～12対応 Galaxy Android スマホ 各種ノートPC対応 WCH011dqWH",
+    "percent_off": 42
   },
   "B0G529YNFK": {
     "first_seen": "2026-09-05",
@@ -824,13 +831,6 @@
     "last_seen": "2026-09-30",
     "title": "UGREEN 20000mAh ストラップ型モバイルバッテリー Qi2 15W Magsafe USB-Cケーブル付き iPhone18Pro対応",
     "percent_off": 25
-  },
-  "B0DB17C63X": {
-    "first_seen": "2026-09-26",
-    "first_seen_at": "2026-09-26T00:14:56+09:00",
-    "last_seen": "2026-09-30",
-    "title": "Anker MagGo Power Bank (10000mAh, Slim) ブラック",
-    "percent_off": 20
   },
   "B0B2QSZRCV": {
     "first_seen": "2026-09-22",
