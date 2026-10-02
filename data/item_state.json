@@ -237,6 +237,20 @@
     "title": "Belkin MagSafe対応 ワイヤレスモバイルバッテリー 5000mAh 最大7.5W キックスタンド付き パープル",
     "percent_off": 45
   },
+  "B0CHVY8FMG": {
+    "first_seen": "2026-08-22",
+    "first_seen_at": "2026-08-22T22:03:54+09:00",
+    "last_seen": "2026-10-03",
+    "title": "CIO モバイルバッテリー PD USB-C×2 USB-A×1 10000mAh SMARTCOBY Pro SLIM 35W (ホワイト)",
+    "percent_off": null
+  },
+  "B0FKH14VSL": {
+    "first_seen": "2026-08-31",
+    "first_seen_at": "2026-08-31T21:14:49+09:00",
+    "last_seen": "2026-10-03",
+    "title": "Belkin Apple Watch充電器一体型 モバイルバッテリー 3C 認証 10000mAh 45W USB-Cケーブル内蔵 3台同時充電",
+    "percent_off": 25
+  },
   "B0F6NFHB31": {
     "first_seen": "2026-07-25",
     "first_seen_at": "2026-07-25T12:00:00+09:00",
@@ -251,11 +265,11 @@
     "title": "UGREEN 145W モバイルバッテリー 20000mAh USB-Cケーブル内蔵 2C1A 多ポート",
     "percent_off": null
   },
-  "B0G2S9LVS4": {
+  "B0F37VLJQW": {
     "first_seen": "2026-09-15",
-    "first_seen_at": "2026-09-15T00:14:54+09:00",
+    "first_seen_at": "2026-09-15T02:14:33+09:00",
     "last_seen": "2026-10-03",
-    "title": "UGREEN MagFlow Qi2 25W認証 モバイルバッテリー Magsafe マグネット式ワイヤレス急速充電 10000mAh ブラック",
+    "title": "UGREEN MagFlow Qi2 25W認証 モバイルバッテリー Magsafe マグネット式ワイヤレス急速充電 10000mAh 水色",
     "percent_off": null
   },
   "B0C3GTMX5M": {
@@ -356,13 +370,6 @@
     "title": "Belkin Qi2 車載ワイヤレス充電器 15W急速充電 MagSafe対応 スマホホルダー エアコン吹き出し口用",
     "percent_off": 36
   },
-  "B0D53Z4WX3": {
-    "first_seen": "2026-09-04",
-    "first_seen_at": "2026-09-04T22:14:48+09:00",
-    "last_seen": "2026-10-03",
-    "title": "CIO NovaPort TRIOⅡ 65W 3C PD急速充電器 USB-C×3 3台同時充電 軽量 世界最小級 (ブラック)",
-    "percent_off": null
-  },
   "B0D53VJJ7F": {
     "first_seen": "2026-07-28",
     "first_seen_at": "2026-07-28T12:00:00+09:00",
@@ -389,6 +396,13 @@
     "first_seen_at": "2026-07-27T12:00:00+09:00",
     "last_seen": "2026-10-03",
     "title": "Anker 511 Charger (Nano 3, 30W) ブラック",
+    "percent_off": null
+  },
+  "B0BF43HS1G": {
+    "first_seen": "2026-07-27",
+    "first_seen_at": "2026-07-27T12:00:00+09:00",
+    "last_seen": "2026-10-03",
+    "title": "Anker 523 Charger (Nano 3, 47W) ホワイト",
     "percent_off": null
   },
   "B0BF44GF6J": {
@@ -453,13 +467,6 @@
     "last_seen": "2026-10-03",
     "title": "UGREEN Air 65W USB-C*2 type-c 急速充電器 【iPhone18 Pro/Pro Max AVS対応】PD3.1 GaNII",
     "percent_off": 25
-  },
-  "B0D8RSX6W2": {
-    "first_seen": "2026-09-23",
-    "first_seen_at": "2026-09-23T21:15:01+09:00",
-    "last_seen": "2026-10-03",
-    "title": "Anker MagGo Wireless Charger (Stand) ブラック",
-    "percent_off": null
   },
   "B0DW2SYD5H": {
     "first_seen": "2026-08-15",
@@ -769,6 +776,27 @@
     "title": "アイリスオーヤマ 過熱水蒸気 エア フライヤー 3L 2～3人用 ノンオイルフライヤー スチーム機能 ジューシー FV-M30A-C アイボリー",
     "percent_off": 42
   },
+  "B0G2S9LVS4": {
+    "first_seen": "2026-09-15",
+    "first_seen_at": "2026-09-15T00:14:54+09:00",
+    "last_seen": "2026-10-03",
+    "title": "UGREEN MagFlow Qi2 25W認証 モバイルバッテリー Magsafe マグネット式ワイヤレス急速充電 10000mAh ブラック",
+    "percent_off": null
+  },
+  "B0D53Z4WX3": {
+    "first_seen": "2026-09-04",
+    "first_seen_at": "2026-09-04T22:14:48+09:00",
+    "last_seen": "2026-10-03",
+    "title": "CIO NovaPort TRIOⅡ 65W 3C PD急速充電器 USB-C×3 3台同時充電 軽量 世界最小級 (ブラック)",
+    "percent_off": null
+  },
+  "B0D8RSX6W2": {
+    "first_seen": "2026-09-23",
+    "first_seen_at": "2026-09-23T21:15:01+09:00",
+    "last_seen": "2026-10-03",
+    "title": "Anker MagGo Wireless Charger (Stand) ブラック",
+    "percent_off": null
+  },
   "B0B6DLWMJF": {
     "first_seen": "2026-08-25",
     "first_seen_at": "2026-08-25T13:56:30+09:00",
@@ -853,20 +881,6 @@
     "title": "ロジクール ワイヤレスキーボード PEBBLE KEYS 2 K380sRO 薄型 軽量 415g 小型 Bluetooth Logi Bolt ワイヤレス 無線 キーボード Easy-Switch 日本語配列 電池寿命36ケ月 Windows Mac iPad iOS Android Chrome K380s ローズ 国内正規品",
     "percent_off": 17
   },
-  "B0FKH14VSL": {
-    "first_seen": "2026-08-31",
-    "first_seen_at": "2026-08-31T21:14:49+09:00",
-    "last_seen": "2026-10-02",
-    "title": "Belkin Apple Watch充電器一体型 モバイルバッテリー 3C 認証 10000mAh 45W USB-Cケーブル内蔵 3台同時充電",
-    "percent_off": 25
-  },
-  "B0F37VLJQW": {
-    "first_seen": "2026-09-15",
-    "first_seen_at": "2026-09-15T02:14:33+09:00",
-    "last_seen": "2026-10-02",
-    "title": "UGREEN MagFlow Qi2 25W認証 モバイルバッテリー Magsafe マグネット式ワイヤレス急速充電 10000mAh 水色",
-    "percent_off": null
-  },
   "B0FRSR6BVR": {
     "first_seen": "2026-08-07",
     "first_seen_at": "2026-08-07T22:31:51+09:00",
@@ -936,13 +950,6 @@
     "last_seen": "2026-10-02",
     "title": "Apple AirPods 4 アクティブノイズ キャンセリング搭載、ワイヤレスイヤホン、Bluetooth 5.3、ライブ翻訳、適応型オーディオ、外部音取り込みモード、パーソナライズされた空間オーディオ、USB-C充電ケース、ワイヤレス充電、H2チップ、防塵性能と耐汗耐水性能、「探す」対応、Qi充電",
     "percent_off": 21
-  },
-  "B0BF43HS1G": {
-    "first_seen": "2026-07-27",
-    "first_seen_at": "2026-07-27T12:00:00+09:00",
-    "last_seen": "2026-10-02",
-    "title": "Anker 523 Charger (Nano 3, 47W) ホワイト",
-    "percent_off": null
   },
   "B07B7NXV4R": {
     "first_seen": "2026-07-30",
@@ -1041,13 +1048,6 @@
     "last_seen": "2026-10-02",
     "title": "Apple AirPods 4 ワイヤレスイヤーバッド、Bluetooth ヘッドフォン、パーソナライズさ れた空間オーディオ、耐汗耐水性能、USB-C 充電ケース、H2 チップ、最大 30 時間の バッテリー駆動時間、iPhone で簡単に設定 + 延長2年 AppleCare+ for Headphones - AirPods",
     "percent_off": 19
-  },
-  "B0CHVY8FMG": {
-    "first_seen": "2026-08-22",
-    "first_seen_at": "2026-08-22T22:03:54+09:00",
-    "last_seen": "2026-10-02",
-    "title": "CIO モバイルバッテリー PD USB-C×2 USB-A×1 10000mAh SMARTCOBY Pro SLIM 35W (ホワイト)",
-    "percent_off": null
   },
   "B0GMWT4SML": {
     "first_seen": "2026-09-21",
