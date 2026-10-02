@@ -20,6 +20,13 @@
     "title": "Apple Watch Ultra 3(GPS + Cellularモデル)- 49mmブラックチタニウムケースとブラックアルパインループ - L",
     "percent_off": 24
   },
+  "B0DGJBNYVY": {
+    "first_seen": "2026-09-05",
+    "first_seen_at": "2026-09-05T08:14:38+09:00",
+    "last_seen": "2026-10-02",
+    "title": "Apple AirPods 4 アクティブノイズ キャンセリング搭載、ワイヤレスイヤホン、Bluetooth 5.3、ライブ翻訳、適応型オーディオ、外部音取り込みモード、パーソナライズされた空間オーディオ、USB-C充電ケース、ワイヤレス充電、H2チップ、防塵性能と耐汗耐水性能、「探す」対応、Qi充電",
+    "percent_off": 21
+  },
   "B0FRZ3TX6V": {
     "first_seen": "2026-10-01",
     "first_seen_at": "2026-10-01T23:14:55+09:00",
@@ -40,13 +47,6 @@
     "last_seen": "2026-10-02",
     "title": "Apple Watch Ultra 3(GPS + Cellularモデル)- 49mmブラックチタニウムケースとブラックアルパインループ - L + 2年延長 AppleCare+ for Apple Watch Ultra 3",
     "percent_off": 21
-  },
-  "B0DT3XJKH9": {
-    "first_seen": "2026-09-05",
-    "first_seen_at": "2026-09-05T21:15:05+09:00",
-    "last_seen": "2026-10-02",
-    "title": "Apple AirPods 4ワイヤレスイヤーバッド、Bluetoothヘッドフォン、アクティブノイズ キャンセリング搭載、適応型オーディオ、外部音取り込みモード、パーソナライズされ た空間オーディオ、USB-C充電ケース、ワイヤレス充電、H2チップ + 延長2年 AppleCare+ for Headphones - AirPods",
-    "percent_off": 20
   },
   "B0FQG6MZSB": {
     "first_seen": "2026-10-01",
@@ -111,13 +111,6 @@
     "title": "Apple AirTag 4個入り（第2世代）：紛失防止タグ、音で探せる、耐水 防塵 iPhone/iPad「探す」ネットワーク対応 、探せる範囲が最大1.5 倍に広がった「正確な場所を見つける」機能搭載",
     "percent_off": 15
   },
-  "B0FRZ44Q6H": {
-    "first_seen": "2026-09-25",
-    "first_seen_at": "2026-09-25T23:15:00+09:00",
-    "last_seen": "2026-10-02",
-    "title": "Apple Watch Ultra 3(GPS + Cellularモデル)- 49mmブラックチタニウムケースとブラックオーシャンバンド + 2年延長 AppleCare+ for Apple Watch Ultra 3",
-    "percent_off": 15
-  },
   "B0FQFW26JS": {
     "first_seen": "2026-09-26",
     "first_seen_at": "2026-09-26T22:15:02+09:00",
@@ -130,6 +123,13 @@
     "first_seen_at": "2026-10-01T23:14:55+09:00",
     "last_seen": "2026-10-02",
     "title": "[アップル] Watch Ultra 3(GPS + Cellularモデル)- 49mmブラックチタニウムケースとブラックアルパインループ - S + 2年延長 AppleCare+ for Apple Watch Ultra 3",
+    "percent_off": 15
+  },
+  "B0FRZ44Q6H": {
+    "first_seen": "2026-09-25",
+    "first_seen_at": "2026-09-25T23:15:00+09:00",
+    "last_seen": "2026-10-02",
+    "title": "Apple Watch Ultra 3(GPS + Cellularモデル)- 49mmブラックチタニウムケースとブラックオーシャンバンド + 2年延長 AppleCare+ for Apple Watch Ultra 3",
     "percent_off": 15
   },
   "B0FRZ52Z6Z": {
@@ -307,13 +307,6 @@
     "title": "Anker Nano Power Bank (10000mAh, 45W, 巻取り式 USB-Cケーブル) ブラック",
     "percent_off": null
   },
-  "B0FTZ46NF8": {
-    "first_seen": "2026-09-04",
-    "first_seen_at": "2026-09-04T01:14:59+09:00",
-    "last_seen": "2026-10-02",
-    "title": "CIO SMARTCOBY Ex04 Wireless2.2 CABLE SS5K 半固体モバイルバッテリー Qi2.2 5000mAh (ブラック)",
-    "percent_off": null
-  },
   "B098SQSRRV": {
     "first_seen": "2026-07-31",
     "first_seen_at": "2026-07-31T12:00:00+09:00",
@@ -348,20 +341,6 @@
     "last_seen": "2026-10-02",
     "title": "Belkin Qi2 車載ワイヤレス充電器 15W急速充電 MagSafe対応 スマホホルダー エアコン吹き出し口用",
     "percent_off": 36
-  },
-  "B0D53Z4WX3": {
-    "first_seen": "2026-09-04",
-    "first_seen_at": "2026-09-04T22:14:48+09:00",
-    "last_seen": "2026-10-02",
-    "title": "CIO NovaPort TRIOⅡ 65W 3C PD急速充電器 USB-C×3 3台同時充電 軽量 世界最小級 (ブラック)",
-    "percent_off": null
-  },
-  "B0D53VJJ7F": {
-    "first_seen": "2026-07-28",
-    "first_seen_at": "2026-07-28T12:00:00+09:00",
-    "last_seen": "2026-10-02",
-    "title": "CIO NovaPort TRIOⅡ 65W 2C1A PD急速充電器 USB-C×2+USB-A×1 3台同時充電 世界最小級（ブラック）",
-    "percent_off": null
   },
   "B0B6N2ZPT4": {
     "first_seen": "2026-09-25",
@@ -424,13 +403,6 @@
     "first_seen_at": "2026-09-21T22:15:01+09:00",
     "last_seen": "2026-10-02",
     "title": "CIO NovaWave SPOT PLUG +C Qi2 ワイヤレス充電器 15W USB-C充電30W スマホホルダー (ホワイト)",
-    "percent_off": null
-  },
-  "B0D53VKL36": {
-    "first_seen": "2026-07-29",
-    "first_seen_at": "2026-07-29T12:00:00+09:00",
-    "last_seen": "2026-10-02",
-    "title": "CIO NovaPort DUOⅡ 65W PD急速充電器 USB-C×2 2台同時充電 世界最小級（ブラック）",
     "percent_off": null
   },
   "B0GF26RSYQ": {
@@ -629,18 +601,25 @@
     "title": "GARMIN(ガーミン)スマートウォッチ Forerunner 170 Whitestone/Cloud Blue スマートウォッチモード 約 10 日間 高精度GPS ランニングウォッチ iOS/Android AMOLEDディスプレイ1.2インチ マラソン 軽量 防水 心拍数 睡眠スコア 健康管理 Suicaタッチ決済 Garmin Pay",
     "percent_off": 17
   },
-  "B0HBPTD3RC": {
-    "first_seen": "2026-09-19",
-    "first_seen_at": "2026-09-19T07:14:58+09:00",
+  "B0GX8DRYCX": {
+    "first_seen": "2026-09-03",
+    "first_seen_at": "2026-09-03T12:14:47+09:00",
     "last_seen": "2026-10-02",
-    "title": "VITURE Luma Ultra XRグラス アルティメットセット（ネックバンド・ドック付属）",
-    "percent_off": 18
+    "title": "HUAWEI WATCH FIT 5 スマートウォッチ 薄型軽量 大画面 GPS内蔵 10日間ロングバッテリー 通知 健康管理 心拍数 睡眠 ブラック",
+    "percent_off": 16
   },
   "B0GVJG7D7K": {
     "first_seen": "2026-07-31",
     "first_seen_at": "2026-07-31T12:00:00+09:00",
     "last_seen": "2026-10-02",
     "title": "VITURE Luma Ultra XR グラス & Pro ネックバンド 12GBメモリ＆256GB内蔵ストレージ セット マルチスクリーン/6DoF/ハンドジェスチャー/スムーズフォロー/アンビエントモード搭載 PXPlay & XBXPlay 公式対応ワイヤレスゲームストリーミングメガネ",
+    "percent_off": 18
+  },
+  "B0HBPTD3RC": {
+    "first_seen": "2026-09-19",
+    "first_seen_at": "2026-09-19T07:14:58+09:00",
+    "last_seen": "2026-10-02",
+    "title": "VITURE Luma Ultra XRグラス アルティメットセット（ネックバンド・ドック付属）",
     "percent_off": 18
   },
   "B0GS285D8M": {
@@ -790,6 +769,41 @@
     "title": "[山善] ノンフライヤー 4.5L 大容量 電気フライヤー ノンオイル エアフライヤー 3~5人用 家庭用 卓上 揚げ物 惣菜 タイマー 温度調節 レシピブック付き ブラック YAH-AC120(B)",
     "percent_off": 22
   },
+  "B0DT3XJKH9": {
+    "first_seen": "2026-09-05",
+    "first_seen_at": "2026-09-05T21:15:05+09:00",
+    "last_seen": "2026-10-02",
+    "title": "Apple AirPods 4ワイヤレスイヤーバッド、Bluetoothヘッドフォン、アクティブノイズ キャンセリング搭載、適応型オーディオ、外部音取り込みモード、パーソナライズされ た空間オーディオ、USB-C充電ケース、ワイヤレス充電、H2チップ + 延長2年 AppleCare+ for Headphones - AirPods",
+    "percent_off": 20
+  },
+  "B0FTZ46NF8": {
+    "first_seen": "2026-09-04",
+    "first_seen_at": "2026-09-04T01:14:59+09:00",
+    "last_seen": "2026-10-02",
+    "title": "CIO SMARTCOBY Ex04 Wireless2.2 CABLE SS5K 半固体モバイルバッテリー Qi2.2 5000mAh (ブラック)",
+    "percent_off": null
+  },
+  "B0D53Z4WX3": {
+    "first_seen": "2026-09-04",
+    "first_seen_at": "2026-09-04T22:14:48+09:00",
+    "last_seen": "2026-10-02",
+    "title": "CIO NovaPort TRIOⅡ 65W 3C PD急速充電器 USB-C×3 3台同時充電 軽量 世界最小級 (ブラック)",
+    "percent_off": null
+  },
+  "B0D53VJJ7F": {
+    "first_seen": "2026-07-28",
+    "first_seen_at": "2026-07-28T12:00:00+09:00",
+    "last_seen": "2026-10-02",
+    "title": "CIO NovaPort TRIOⅡ 65W 2C1A PD急速充電器 USB-C×2+USB-A×1 3台同時充電 世界最小級（ブラック）",
+    "percent_off": null
+  },
+  "B0D53VKL36": {
+    "first_seen": "2026-07-29",
+    "first_seen_at": "2026-07-29T12:00:00+09:00",
+    "last_seen": "2026-10-02",
+    "title": "CIO NovaPort DUOⅡ 65W PD急速充電器 USB-C×2 2台同時充電 世界最小級（ブラック）",
+    "percent_off": null
+  },
   "B07NDLV8M9": {
     "first_seen": "2026-09-10",
     "first_seen_at": "2026-09-10T20:14:59+09:00",
@@ -803,13 +817,6 @@
     "last_seen": "2026-10-02",
     "title": "Apple 2026 MacBook Pro 15コアCPU、16コアGPUのM5 Proチップ搭載ノートパソコン：AIのために設計、14.2インチLiquid Retina XDRディスプレイ、24GBユニファイドメモリ、2TBのSSDストレージ - スペースブラック",
     "percent_off": 5
-  },
-  "B0GX8DRYCX": {
-    "first_seen": "2026-09-03",
-    "first_seen_at": "2026-09-03T12:14:47+09:00",
-    "last_seen": "2026-10-02",
-    "title": "HUAWEI WATCH FIT 5 スマートウォッチ 薄型軽量 大画面 GPS内蔵 10日間ロングバッテリー 通知 健康管理 心拍数 睡眠 ブラック",
-    "percent_off": 16
   },
   "B0FQFQT3VK": {
     "first_seen": "2026-09-27",
@@ -943,13 +950,6 @@
     "last_seen": "2026-10-01",
     "title": "バッファロー 充電器 65W 2ポート Type-C USB PD対応 GaN 折りたたみ式 PSE適合 BSACPD6505C2BK",
     "percent_off": 15
-  },
-  "B0DGJBNYVY": {
-    "first_seen": "2026-09-05",
-    "first_seen_at": "2026-09-05T08:14:38+09:00",
-    "last_seen": "2026-10-01",
-    "title": "Apple AirPods 4 アクティブノイズ キャンセリング搭載、ワイヤレスイヤホン、Bluetooth 5.3、ライブ翻訳、適応型オーディオ、外部音取り込みモード、パーソナライズされた空間オーディオ、USB-C充電ケース、ワイヤレス充電、H2チップ、防塵性能と耐汗耐水性能、「探す」対応、Qi充電",
-    "percent_off": 21
   },
   "B0DSW5FGC4": {
     "first_seen": "2026-09-17",
