@@ -67,7 +67,7 @@
     "first_seen_at": "2026-09-25T10:14:58+09:00",
     "last_seen": "2026-10-02",
     "title": "Apple Watch Ultra 3(GPS + Cellularモデル)- 49mmブラックチタニウムケースとブラックオーシャンバンド",
-    "percent_off": 17
+    "percent_off": 18
   },
   "B0FQG5PN5S": {
     "first_seen": "2026-09-26",
@@ -97,6 +97,13 @@
     "title": "[アップル] Watch Ultra 3(GPS + Cellularモデル)- 49mmナチュラルチタニウムケースとナチュラルチタニウムミラネーゼループ - S + 2年延長 AppleCare+ for Apple Watch Ultra 3",
     "percent_off": 18
   },
+  "B0FRZ44Q6H": {
+    "first_seen": "2026-09-25",
+    "first_seen_at": "2026-09-25T23:15:00+09:00",
+    "last_seen": "2026-10-02",
+    "title": "Apple Watch Ultra 3(GPS + Cellularモデル)- 49mmブラックチタニウムケースとブラックオーシャンバンド + 2年延長 AppleCare+ for Apple Watch Ultra 3",
+    "percent_off": 17
+  },
   "B0GJTW9CL8": {
     "first_seen": "2026-08-07",
     "first_seen_at": "2026-08-07T09:18:51+09:00",
@@ -123,13 +130,6 @@
     "first_seen_at": "2026-10-01T23:14:55+09:00",
     "last_seen": "2026-10-02",
     "title": "[アップル] Watch Ultra 3(GPS + Cellularモデル)- 49mmブラックチタニウムケースとブラックアルパインループ - S + 2年延長 AppleCare+ for Apple Watch Ultra 3",
-    "percent_off": 15
-  },
-  "B0FRZ44Q6H": {
-    "first_seen": "2026-09-25",
-    "first_seen_at": "2026-09-25T23:15:00+09:00",
-    "last_seen": "2026-10-02",
-    "title": "Apple Watch Ultra 3(GPS + Cellularモデル)- 49mmブラックチタニウムケースとブラックオーシャンバンド + 2年延長 AppleCare+ for Apple Watch Ultra 3",
     "percent_off": 15
   },
   "B0FRZ52Z6Z": {
@@ -181,6 +181,13 @@
     "title": "Apple 2026 MacBook Pro 18コアCPU、32コアGPUのM5 Maxチップ搭載ノートパソコン：AIのために設計、14.2インチLiquid Retina XDRディスプレイ、36GBユニファイドメモリ、2TBのSSDストレージ - スペースブラック + 3年延長 AppleCare+ for 14インチMacBook Pro(M5 Pro/M5 Max)|ダウンロード版",
     "percent_off": 7
   },
+  "B0FQGTZLWX": {
+    "first_seen": "2026-07-31",
+    "first_seen_at": "2026-07-31T12:00:00+09:00",
+    "last_seen": "2026-10-02",
+    "title": "Apple iPhone Air 256GB (SIMフリー)",
+    "percent_off": null
+  },
   "B0FQGHYWRH": {
     "first_seen": "2026-10-01",
     "first_seen_at": "2026-10-01T23:14:55+09:00",
@@ -222,13 +229,6 @@
     "last_seen": "2026-10-02",
     "title": "ソニー(SONY) 完全ワイヤレスイヤホン WF-C510 / 軽量小型4.6g / 高精度通話品質/外音取り込み対応/マルチポイント対応 / IPX4防滴性能 / ブラック/WF-C510 BC",
     "percent_off": 19
-  },
-  "B0BRSJP3KF": {
-    "first_seen": "2026-09-24",
-    "first_seen_at": "2026-09-24T22:15:02+09:00",
-    "last_seen": "2026-10-02",
-    "title": "Belkin MagSafe対応 ワイヤレスモバイルバッテリー 5000mAh 最大7.5W キックスタンド付き パープル",
-    "percent_off": 45
   },
   "B0FKH14VSL": {
     "first_seen": "2026-08-31",
@@ -363,11 +363,11 @@
     "title": "Anker 736 Charger (Nano ll 100W) ブラック",
     "percent_off": 34
   },
-  "B0B2QQDKR8": {
-    "first_seen": "2026-07-27",
-    "first_seen_at": "2026-07-27T12:00:00+09:00",
+  "B0B2QR8HN9": {
+    "first_seen": "2026-08-09",
+    "first_seen_at": "2026-08-09T19:54:50+09:00",
     "last_seen": "2026-10-02",
-    "title": "Anker 511 Charger (Nano 3, 30W) ブラック",
+    "title": "Anker 511 Charger (Nano 3, 30W) ホワイト",
     "percent_off": null
   },
   "B0D73JBJ56": {
@@ -440,13 +440,6 @@
     "title": "Anker Zolo Wireless Charger (Magnetic, Pad) ブラック",
     "percent_off": 20
   },
-  "B0FH28F7SJ": {
-    "first_seen": "2026-09-13",
-    "first_seen_at": "2026-09-13T19:14:35+09:00",
-    "last_seen": "2026-10-02",
-    "title": "Belkin Qi2 25W ワイヤレス充電器 MagSafe対応 3in1充電スタンド iPhone 18・Apple Watch対応 3台同時充電",
-    "percent_off": 9
-  },
   "B0DG93MZCR": {
     "first_seen": "2026-07-27",
     "first_seen_at": "2026-07-27T12:00:00+09:00",
@@ -461,6 +454,20 @@
     "title": "UGREEN Air急速充電器 45W Type-C 薄型設計 当社比67%小型化超薄モデル PD3.0/PPS/QC4/SCP対応 折り畳み式",
     "percent_off": 19
   },
+  "B0FH2981XZ": {
+    "first_seen": "2026-09-14",
+    "first_seen_at": "2026-09-14T21:14:43+09:00",
+    "last_seen": "2026-10-02",
+    "title": "Belkin Qi2 25W ワイヤレス充電器 MagSafe対応 3in1充電スタンド iPhone 18・Apple Watch対応 3台同時充電",
+    "percent_off": 16
+  },
+  "B0DNT9Z2HS": {
+    "first_seen": "2026-07-27",
+    "first_seen_at": "2026-07-27T12:00:00+09:00",
+    "last_seen": "2026-10-02",
+    "title": "UGREEN 100W GaN 卓上急速充電器 (4*USB-C+2*USB-A) コンパクト【PSE技術基準適合/PD3.0/QC4.0/PPS対応】 複数台同時充電 iPhone17/16/15/14/13/Xperia/Pixel Pro/iPad/ノートPC MacBook Pro/Airなどに対応",
+    "percent_off": null
+  },
   "B0DHTT13KN": {
     "first_seen": "2026-07-31",
     "first_seen_at": "2026-07-31T12:00:00+09:00",
@@ -473,13 +480,6 @@
     "first_seen_at": "2026-08-05T03:07:44+09:00",
     "last_seen": "2026-10-02",
     "title": "UGREEN 45W USB-C 急速充電器 Type-C PD GaNⅡ充電器 PSE適合タイプc充電器 PD/PPS/SCP/QC3.0",
-    "percent_off": null
-  },
-  "B0DNT9Z2HS": {
-    "first_seen": "2026-07-27",
-    "first_seen_at": "2026-07-27T12:00:00+09:00",
-    "last_seen": "2026-10-02",
-    "title": "UGREEN 100W GaN 卓上急速充電器 (4*USB-C+2*USB-A) コンパクト【PSE技術基準適合/PD3.0/QC4.0/PPS対応】 複数台同時充電 iPhone17/16/15/14/13/Xperia/Pixel Pro/iPad/ノートPC MacBook Pro/Airなどに対応",
     "percent_off": null
   },
   "B0DMN94Q8M": {
@@ -769,6 +769,27 @@
     "title": "アイリスオーヤマ 過熱水蒸気 エア フライヤー 3L 2～3人用 ノンオイルフライヤー スチーム機能 ジューシー FV-M30A-C アイボリー",
     "percent_off": 42
   },
+  "B0BRSJP3KF": {
+    "first_seen": "2026-09-24",
+    "first_seen_at": "2026-09-24T22:15:02+09:00",
+    "last_seen": "2026-10-02",
+    "title": "Belkin MagSafe対応 ワイヤレスモバイルバッテリー 5000mAh 最大7.5W キックスタンド付き パープル",
+    "percent_off": 45
+  },
+  "B0B2QQDKR8": {
+    "first_seen": "2026-07-27",
+    "first_seen_at": "2026-07-27T12:00:00+09:00",
+    "last_seen": "2026-10-02",
+    "title": "Anker 511 Charger (Nano 3, 30W) ブラック",
+    "percent_off": null
+  },
+  "B0FH28F7SJ": {
+    "first_seen": "2026-09-13",
+    "first_seen_at": "2026-09-13T19:14:35+09:00",
+    "last_seen": "2026-10-02",
+    "title": "Belkin Qi2 25W ワイヤレス充電器 MagSafe対応 3in1充電スタンド iPhone 18・Apple Watch対応 3台同時充電",
+    "percent_off": 9
+  },
   "B0D16ZYVPN": {
     "first_seen": "2026-10-01",
     "first_seen_at": "2026-10-01T00:15:17+09:00",
@@ -852,13 +873,6 @@
     "last_seen": "2026-10-02",
     "title": "Apple AirPods 4 ワイヤレスイヤーバッド、Bluetooth ヘッドフォン、パーソナライズさ れた空間オーディオ、耐汗耐水性能、USB-C 充電ケース、H2 チップ、最大 30 時間の バッテリー駆動時間、iPhone で簡単に設定 + 延長2年 AppleCare+ for Headphones - AirPods",
     "percent_off": 19
-  },
-  "B0FH2981XZ": {
-    "first_seen": "2026-09-14",
-    "first_seen_at": "2026-09-14T21:14:43+09:00",
-    "last_seen": "2026-10-02",
-    "title": "Belkin Qi2 25W ワイヤレス充電器 MagSafe対応 3in1充電スタンド iPhone 18・Apple Watch対応 3台同時充電",
-    "percent_off": 16
   },
   "B0CHVY8FMG": {
     "first_seen": "2026-08-22",
@@ -1314,13 +1328,6 @@
     "last_seen": "2026-09-30",
     "title": "HUAWEI WATCH GT 6 Pro 46mm スマートウォッチ 大画面 GPS搭載 21日間バッテリー 心電図 ゴルフ GPS 通知 ブラック",
     "percent_off": 18
-  },
-  "B0B2QR8HN9": {
-    "first_seen": "2026-08-09",
-    "first_seen_at": "2026-08-09T19:54:50+09:00",
-    "last_seen": "2026-09-30",
-    "title": "Anker 511 Charger (Nano 3, 30W) ホワイト",
-    "percent_off": null
   },
   "B0B8YMHKHN": {
     "first_seen": "2026-09-29",
@@ -2133,13 +2140,6 @@
     "last_seen": "2026-09-24",
     "title": "【Forerunner265後継モデル】 GARMIN(ガーミン) GPSランニングウォッチ Forerunner 570 42mm Raspberry/Mango 最大約10日間の長時間バッテリー 超軽量 色鮮やかなAMOLED大画面ディスプレイ 80種類以上のマルチスポーツ対応 スピーカー＆マイク内蔵でランニング中の心拍数やペース・距離などの情報を音声通知 睡眠スコア 光学式心拍計搭載",
     "percent_off": 18
-  },
-  "B0FQGTZLWX": {
-    "first_seen": "2026-07-31",
-    "first_seen_at": "2026-07-31T12:00:00+09:00",
-    "last_seen": "2026-09-24",
-    "title": "Apple iPhone Air 256GB (SIMフリー)",
-    "percent_off": null
   },
   "B0GQW7QF6T": {
     "first_seen": "2026-09-23",
