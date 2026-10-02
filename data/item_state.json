@@ -104,19 +104,19 @@
     "title": "[アップル] Watch Ultra 3(GPS + Cellularモデル)- 49mmナチュラルチタニウムケースとナチュラルチタニウムミラネーゼループ - S + 2年延長 AppleCare+ for Apple Watch Ultra 3",
     "percent_off": 18
   },
-  "B0GJTW9CL8": {
-    "first_seen": "2026-08-07",
-    "first_seen_at": "2026-08-07T09:18:51+09:00",
-    "last_seen": "2026-10-03",
-    "title": "Apple AirTag（第2世代）：紛失防止タグ、音で探せる、耐水 防塵 iPhone/iPad「探す」ネットワーク対応、探せる範囲が最大1.5 倍に広がった「正確な場所を見つける」機能搭載",
-    "percent_off": 15
-  },
   "B0GJTXZHDX": {
     "first_seen": "2026-08-07",
     "first_seen_at": "2026-08-07T09:18:51+09:00",
     "last_seen": "2026-10-03",
     "title": "Apple AirTag 4個入り（第2世代）：紛失防止タグ、音で探せる、耐水 防塵 iPhone/iPad「探す」ネットワーク対応 、探せる範囲が最大1.5 倍に広がった「正確な場所を見つける」機能搭載",
     "percent_off": 15
+  },
+  "B0GJTW9CL8": {
+    "first_seen": "2026-08-07",
+    "first_seen_at": "2026-08-07T09:18:51+09:00",
+    "last_seen": "2026-10-03",
+    "title": "Apple AirTag（第2世代）：紛失防止タグ、音で探せる、耐水 防塵 iPhone/iPad「探す」ネットワーク対応、探せる範囲が最大1.5 倍に広がった「正確な場所を見つける」機能搭載",
+    "percent_off": 14
   },
   "B0FRZ3Y3SG": {
     "first_seen": "2026-10-01",
@@ -139,26 +139,26 @@
     "title": "Apple Watch Ultra 3(GPS + Cellularモデル)- 49mmナチュラルチタニウムケースとアンカーブルーオーシャンバンド + 2年延長 AppleCare+ for Apple Watch Ultra 3",
     "percent_off": 15
   },
-  "B0FQFW26JS": {
-    "first_seen": "2026-09-26",
-    "first_seen_at": "2026-09-26T22:15:02+09:00",
-    "last_seen": "2026-10-03",
-    "title": "Apple Watch Ultra 3(GPS + Cellularモデル)- 49mmナチュラルチタニウムケースとライトブルーアルパインループ - M",
-    "percent_off": 12
-  },
-  "B0FRZ2CS5T": {
-    "first_seen": "2026-10-01",
-    "first_seen_at": "2026-10-01T23:14:55+09:00",
-    "last_seen": "2026-10-03",
-    "title": "Apple Watch Ultra 3(GPS + Cellularモデル)- 49mmナチュラルチタニウムケースとライトブルーアルパインループ - M + 2年延長 AppleCare+ for Apple Watch Ultra 3",
-    "percent_off": 11
-  },
   "B0BJN7ZJF6": {
     "first_seen": "2026-09-11",
     "first_seen_at": "2026-09-11T22:14:45+09:00",
     "last_seen": "2026-10-03",
     "title": "iPad(A16と第10世代)用Magic Keyboard Folio - 日本語",
     "percent_off": 8
+  },
+  "B0FQFW26JS": {
+    "first_seen": "2026-09-26",
+    "first_seen_at": "2026-09-26T22:15:02+09:00",
+    "last_seen": "2026-10-03",
+    "title": "Apple Watch Ultra 3(GPS + Cellularモデル)- 49mmナチュラルチタニウムケースとライトブルーアルパインループ - M",
+    "percent_off": 9
+  },
+  "B0FRZ2CS5T": {
+    "first_seen": "2026-10-01",
+    "first_seen_at": "2026-10-01T23:14:55+09:00",
+    "last_seen": "2026-10-03",
+    "title": "Apple Watch Ultra 3(GPS + Cellularモデル)- 49mmナチュラルチタニウムケースとライトブルーアルパインループ - M + 2年延長 AppleCare+ for Apple Watch Ultra 3",
+    "percent_off": 9
   },
   "B0GR1KNBX2": {
     "first_seen": "2026-09-30",
@@ -222,13 +222,6 @@
     "last_seen": "2026-10-03",
     "title": "ソニー(SONY) 完全ワイヤレスイヤホン WF-C510 / 軽量小型4.6g / 高精度通話品質/外音取り込み対応/マルチポイント対応 / IPX4防滴性能 / ブラック/WF-C510 BC",
     "percent_off": 23
-  },
-  "B0CHVY8FMG": {
-    "first_seen": "2026-08-22",
-    "first_seen_at": "2026-08-22T22:03:54+09:00",
-    "last_seen": "2026-10-03",
-    "title": "CIO モバイルバッテリー PD USB-C×2 USB-A×1 10000mAh SMARTCOBY Pro SLIM 35W (ホワイト)",
-    "percent_off": null
   },
   "B0FKH14VSL": {
     "first_seen": "2026-08-31",
@@ -789,6 +782,13 @@
     "last_seen": "2026-10-03",
     "title": "アイリスオーヤマ 過熱水蒸気 エア フライヤー 3L 2～3人用 ノンオイルフライヤー スチーム機能 ジューシー FV-M30A-C アイボリー",
     "percent_off": 42
+  },
+  "B0CHVY8FMG": {
+    "first_seen": "2026-08-22",
+    "first_seen_at": "2026-08-22T22:03:54+09:00",
+    "last_seen": "2026-10-03",
+    "title": "CIO モバイルバッテリー PD USB-C×2 USB-A×1 10000mAh SMARTCOBY Pro SLIM 35W (ホワイト)",
+    "percent_off": null
   },
   "B0DNT9Z2HS": {
     "first_seen": "2026-07-27",
