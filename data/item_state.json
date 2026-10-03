@@ -356,13 +356,6 @@
     "title": "Anker 323 Charger (33W) (USB PD 充電器 USB-C USB-A 33W)【PSE技術基準適合/USB PD対応/折りたたみ式プラグ】MacBook USB PD対応Windows PC iPhone14 iPad Pixel Galaxy Android PC各種対応 (ホワイト)",
     "percent_off": null
   },
-  "B09SYV3P5B": {
-    "first_seen": "2026-09-09",
-    "first_seen_at": "2026-09-09T00:14:37+09:00",
-    "last_seen": "2026-10-03",
-    "title": "Anker 736 Charger (Nano ll 100W) ブラック",
-    "percent_off": 34
-  },
   "B0B2QQDKR8": {
     "first_seen": "2026-07-27",
     "first_seen_at": "2026-07-27T12:00:00+09:00",
@@ -440,19 +433,19 @@
     "title": "UGREEN 45W USB-C*4+USB-A*1 急速充電器 Type-C GaNⅡ タイプc PSE適合/PD3.0/PPS/SCP/QC3.0",
     "percent_off": 25
   },
+  "B09SYV3P5B": {
+    "first_seen": "2026-09-09",
+    "first_seen_at": "2026-09-09T00:14:37+09:00",
+    "last_seen": "2026-10-03",
+    "title": "Anker 736 Charger (Nano ll 100W) ブラック",
+    "percent_off": 22
+  },
   "B0DW2SYD5H": {
     "first_seen": "2026-08-15",
     "first_seen_at": "2026-08-15T20:37:29+09:00",
     "last_seen": "2026-10-03",
     "title": "Anker Zolo Wireless Charger (Magnetic, Pad) ブラック",
     "percent_off": 20
-  },
-  "B0D8RSX6W2": {
-    "first_seen": "2026-09-23",
-    "first_seen_at": "2026-09-23T21:15:01+09:00",
-    "last_seen": "2026-10-03",
-    "title": "Anker MagGo Wireless Charger (Stand) ブラック",
-    "percent_off": null
   },
   "B0FH28F7SJ": {
     "first_seen": "2026-09-13",
@@ -671,6 +664,13 @@
     "title": "ロジクール ワイヤレスマウス 静音 無線 高速スクロール Signature M550MGR レギュラー グラファイト 国内正規品",
     "percent_off": 31
   },
+  "B0FL6ZD3WL": {
+    "first_seen": "2026-07-29",
+    "first_seen_at": "2026-07-29T12:00:00+09:00",
+    "last_seen": "2026-10-03",
+    "title": "エレコム ワイヤレスキーボード Precisionist プレシジョニスト Bluetooth 無線2.4GHz マルチペアリング4台 充電式 薄型パンタグラフ式 フルサイズ ブラック TK-PN10FMPABK",
+    "percent_off": 26
+  },
   "B0BKPL1VKW": {
     "first_seen": "2026-07-26",
     "first_seen_at": "2026-07-26T12:00:00+09:00",
@@ -775,6 +775,13 @@
     "last_seen": "2026-10-03",
     "title": "アイリスオーヤマ 過熱水蒸気 エア フライヤー 3L 2～3人用 ノンオイルフライヤー スチーム機能 ジューシー FV-M30A-C アイボリー",
     "percent_off": 42
+  },
+  "B0D8RSX6W2": {
+    "first_seen": "2026-09-23",
+    "first_seen_at": "2026-09-23T21:15:01+09:00",
+    "last_seen": "2026-10-03",
+    "title": "Anker MagGo Wireless Charger (Stand) ブラック",
+    "percent_off": null
   },
   "B0BRSJP3KF": {
     "first_seen": "2026-09-24",
@@ -1020,13 +1027,6 @@
     "last_seen": "2026-10-02",
     "title": "ASUS VY249HF EYE CARE 23.8型 ゲーミングモニター / 1920×1080(フルHD) / HDMI搭載/ブラック/スピーカーなし",
     "percent_off": null
-  },
-  "B0FL6ZD3WL": {
-    "first_seen": "2026-07-29",
-    "first_seen_at": "2026-07-29T12:00:00+09:00",
-    "last_seen": "2026-10-02",
-    "title": "エレコム ワイヤレスキーボード Precisionist プレシジョニスト Bluetooth 無線2.4GHz マルチペアリング4台 充電式 薄型パンタグラフ式 フルサイズ ブラック TK-PN10FMPABK",
-    "percent_off": 26
   },
   "B0D16ZYVPN": {
     "first_seen": "2026-10-01",
