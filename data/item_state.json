@@ -279,13 +279,6 @@
     "title": "Anker Power Bank (25000mAh, Built-In & 巻取り式USB-Cケーブル) ブラック",
     "percent_off": 22
   },
-  "B0FRSR6BVR": {
-    "first_seen": "2026-08-07",
-    "first_seen_at": "2026-08-07T22:31:51+09:00",
-    "last_seen": "2026-10-03",
-    "title": "Belkin MagSafe対応 モバイルバッテリー 軽量 5000mAh USB-C 15W 薄型 iPhone対応 ブラック",
-    "percent_off": 19
-  },
   "B0CCJFY2V4": {
     "first_seen": "2026-10-01",
     "first_seen_at": "2026-10-01T23:14:55+09:00",
@@ -445,6 +438,13 @@
     "first_seen_at": "2026-09-13T20:14:44+09:00",
     "last_seen": "2026-10-03",
     "title": "UGREEN Air 65W USB-C*2 type-c 急速充電器 【iPhone18 Pro/Pro Max AVS対応】PD3.1 GaNII",
+    "percent_off": 25
+  },
+  "B0FJS3P8NT": {
+    "first_seen": "2026-07-27",
+    "first_seen_at": "2026-07-27T12:00:00+09:00",
+    "last_seen": "2026-10-03",
+    "title": "UGREEN 45W USB-C*4+USB-A*1 急速充電器 Type-C GaNⅡ タイプc PSE適合/PD3.0/PPS/SCP/QC3.0",
     "percent_off": 25
   },
   "B0DW2SYD5H": {
@@ -783,6 +783,13 @@
     "title": "アイリスオーヤマ 過熱水蒸気 エア フライヤー 3L 2～3人用 ノンオイルフライヤー スチーム機能 ジューシー FV-M30A-C アイボリー",
     "percent_off": 42
   },
+  "B0FRSR6BVR": {
+    "first_seen": "2026-08-07",
+    "first_seen_at": "2026-08-07T22:31:51+09:00",
+    "last_seen": "2026-10-03",
+    "title": "Belkin MagSafe対応 モバイルバッテリー 軽量 5000mAh USB-C 15W 薄型 iPhone対応 ブラック",
+    "percent_off": 19
+  },
   "B0DT3XJKH9": {
     "first_seen": "2026-09-05",
     "first_seen_at": "2026-09-05T21:15:05+09:00",
@@ -922,13 +929,6 @@
     "last_seen": "2026-10-02",
     "title": "Belkin Qi2 車載ワイヤレス充電器 15W急速充電 MagSafe対応 スマホホルダー 吹き出し口・ダッシュ用",
     "percent_off": 32
-  },
-  "B0FJS3P8NT": {
-    "first_seen": "2026-07-27",
-    "first_seen_at": "2026-07-27T12:00:00+09:00",
-    "last_seen": "2026-10-02",
-    "title": "UGREEN 45W USB-C*4+USB-A*1 急速充電器 Type-C GaNⅡ タイプc PSE適合/PD3.0/PPS/SCP/QC3.0",
-    "percent_off": 25
   },
   "B0D9896MPY": {
     "first_seen": "2026-10-02",
