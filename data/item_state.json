@@ -349,11 +349,11 @@
     "title": "Anker 323 Charger (33W) (USB PD 充電器 USB-C USB-A 33W)【PSE技術基準適合/USB PD対応/折りたたみ式プラグ】MacBook USB PD対応Windows PC iPhone14 iPad Pixel Galaxy Android PC各種対応 (ホワイト)",
     "percent_off": null
   },
-  "B0B2QQDKR8": {
-    "first_seen": "2026-07-27",
-    "first_seen_at": "2026-07-27T12:00:00+09:00",
+  "B0B2QR8HN9": {
+    "first_seen": "2026-08-09",
+    "first_seen_at": "2026-08-09T19:54:50+09:00",
     "last_seen": "2026-10-05",
-    "title": "Anker 511 Charger (Nano 3, 30W) ブラック",
+    "title": "Anker 511 Charger (Nano 3, 30W) ホワイト",
     "percent_off": null
   },
   "B0D73JBJ56": {
@@ -510,12 +510,12 @@
     "title": "INNOCN ゲーミングモニター 24.5インチ 200Hz IPS 1ms(GTG) フルHD 非光沢 フレームレス PS5/Xbox対応 Adaptive-Sync VESA100×100 HDMI2.0/DP1.4接続 25G2G",
     "percent_off": null
   },
-  "B0D9896MPY": {
-    "first_seen": "2026-10-02",
-    "first_seen_at": "2026-10-02T22:14:44+09:00",
+  "B0C9TKSP8V": {
+    "first_seen": "2026-07-30",
+    "first_seen_at": "2026-07-30T12:00:00+09:00",
     "last_seen": "2026-10-05",
-    "title": "SwitchBot サーキュレーター Lite DCモーター 静音 首振り - 扇風機 強力送風 30畳対応 省エネ 無段階風量調整 Alexa対応",
-    "percent_off": 18
+    "title": "SwitchBot サーキュレーター DCモーター コードレス扇風機 充電式 静音 強力送風 - 3D首振り 30畳 無段階風量調整 省エネ",
+    "percent_off": 17
   },
   "B0GHP2D9YF": {
     "first_seen": "2026-10-03",
@@ -643,12 +643,19 @@
     "title": "エレコム キーボード 【マウスセット】 ワイヤレス (レシーバー付属) メンブレン フルキーボード ブラック TK-FDM106MBK",
     "percent_off": 42
   },
-  "B0H8DQLFNW": {
-    "first_seen": "2026-08-09",
-    "first_seen_at": "2026-08-09T23:53:24+09:00",
+  "B0BKP5R91F": {
+    "first_seen": "2026-08-04",
+    "first_seen_at": "2026-08-04T12:38:09+09:00",
     "last_seen": "2026-10-05",
-    "title": "Logicool Signature M550MGR ワイヤレスマウス 静音 Bluetooth レギュラー グラファイト ワイヤレス マウス 無線 Logi Bolt Unifying非対応 windows mac iPad Android Chrome OS スクロールホイール 無線マウス 静音マウス M550 国内正規品 (× 3)",
+    "title": "ロジクール ワイヤレスマウス 静音 無線 高速スクロール Signature M550MGR レギュラー グラファイト 国内正規品",
     "percent_off": 31
+  },
+  "B0FL6ZD3WL": {
+    "first_seen": "2026-07-29",
+    "first_seen_at": "2026-07-29T12:00:00+09:00",
+    "last_seen": "2026-10-05",
+    "title": "エレコム ワイヤレスキーボード Precisionist プレシジョニスト Bluetooth 無線2.4GHz マルチペアリング4台 充電式 薄型パンタグラフ式 フルサイズ ブラック TK-PN10FMPABK",
+    "percent_off": 26
   },
   "B0BKPL1VKW": {
     "first_seen": "2026-07-26",
@@ -727,13 +734,6 @@
     "title": "ロジクール ワイヤレスキーボード PEBBLE KEYS 2 K380sGR 薄型 軽量 415g 小型 Bluetooth Logi Bolt ワイヤレス 無線 キーボード Easy-Switch 日本語配列 電池寿命36ケ月 Windows Mac iPad iOS Android Chrome K380s グラファイト 国内正規品",
     "percent_off": 17
   },
-  "B08L99VR76": {
-    "first_seen": "2026-09-30",
-    "first_seen_at": "2026-09-30T14:14:48+09:00",
-    "last_seen": "2026-10-05",
-    "title": "Razer Huntsman Mini JP 小型 ゲーミングキーボード テンキーレス Linear Optical Switch 日本語 JP配列 60%レイアウト Mercury White 白 光学スイッチ 超高速1.2mm作動 リニア触感 静音 Chroma RGB 【日本正規代理店保証品】 RZ03-03391100-R3J1",
-    "percent_off": 17
-  },
   "B0C65MQZ65": {
     "first_seen": "2026-07-26",
     "first_seen_at": "2026-07-26T12:00:00+09:00",
@@ -762,19 +762,40 @@
     "title": "アイリスオーヤマ 過熱水蒸気 エア フライヤー 3L 2～3人用 ノンオイルフライヤー スチーム機能 ジューシー FV-M30A-C アイボリー",
     "percent_off": 42
   },
+  "B0B2QQDKR8": {
+    "first_seen": "2026-07-27",
+    "first_seen_at": "2026-07-27T12:00:00+09:00",
+    "last_seen": "2026-10-05",
+    "title": "Anker 511 Charger (Nano 3, 30W) ブラック",
+    "percent_off": null
+  },
+  "B0D9896MPY": {
+    "first_seen": "2026-10-02",
+    "first_seen_at": "2026-10-02T22:14:44+09:00",
+    "last_seen": "2026-10-05",
+    "title": "SwitchBot サーキュレーター Lite DCモーター 静音 首振り - 扇風機 強力送風 30畳対応 省エネ 無段階風量調整 Alexa対応",
+    "percent_off": 18
+  },
+  "B0H8DQLFNW": {
+    "first_seen": "2026-08-09",
+    "first_seen_at": "2026-08-09T23:53:24+09:00",
+    "last_seen": "2026-10-05",
+    "title": "Logicool Signature M550MGR ワイヤレスマウス 静音 Bluetooth レギュラー グラファイト ワイヤレス マウス 無線 Logi Bolt Unifying非対応 windows mac iPad Android Chrome OS スクロールホイール 無線マウス 静音マウス M550 国内正規品 (× 3)",
+    "percent_off": 31
+  },
+  "B08L99VR76": {
+    "first_seen": "2026-09-30",
+    "first_seen_at": "2026-09-30T14:14:48+09:00",
+    "last_seen": "2026-10-05",
+    "title": "Razer Huntsman Mini JP 小型 ゲーミングキーボード テンキーレス Linear Optical Switch 日本語 JP配列 60%レイアウト Mercury White 白 光学スイッチ 超高速1.2mm作動 リニア触感 静音 Chroma RGB 【日本正規代理店保証品】 RZ03-03391100-R3J1",
+    "percent_off": 17
+  },
   "B0BRSJP3KF": {
     "first_seen": "2026-09-24",
     "first_seen_at": "2026-09-24T22:15:02+09:00",
     "last_seen": "2026-10-05",
     "title": "Belkin MagSafe対応 ワイヤレスモバイルバッテリー 5000mAh 最大7.5W キックスタンド付き パープル",
     "percent_off": 45
-  },
-  "B0B2QR8HN9": {
-    "first_seen": "2026-08-09",
-    "first_seen_at": "2026-08-09T19:54:50+09:00",
-    "last_seen": "2026-10-05",
-    "title": "Anker 511 Charger (Nano 3, 30W) ホワイト",
-    "percent_off": null
   },
   "B0DPQP8L9S": {
     "first_seen": "2026-09-26",
@@ -909,13 +930,6 @@
     "title": "ロジクール KX850FL MX MECHANICAL ワイヤレス メカニカル パフォーマンス キーボード 赤軸 リニア テンキー 静かな打鍵感 Logi Bolt bluetooth Unifying非対応 薄型 無線 メカニカルキーボード windows mac chrome Android ワイヤレスキーボード KX850 国内正規品 グラファイト",
     "percent_off": 28
   },
-  "B0FL6ZD3WL": {
-    "first_seen": "2026-07-29",
-    "first_seen_at": "2026-07-29T12:00:00+09:00",
-    "last_seen": "2026-10-04",
-    "title": "エレコム ワイヤレスキーボード Precisionist プレシジョニスト Bluetooth 無線2.4GHz マルチペアリング4台 充電式 薄型パンタグラフ式 フルサイズ ブラック TK-PN10FMPABK",
-    "percent_off": 26
-  },
   "B0BKP5MVL5": {
     "first_seen": "2026-09-28",
     "first_seen_at": "2026-09-28T21:14:46+09:00",
@@ -999,13 +1013,6 @@
     "last_seen": "2026-10-04",
     "title": "GARMIN（ガーミン）GPSランニングウォッチ Forerunner 965 Amp Yellow 【日本正規品】",
     "percent_off": 20
-  },
-  "B0BKP5R91F": {
-    "first_seen": "2026-08-04",
-    "first_seen_at": "2026-08-04T12:38:09+09:00",
-    "last_seen": "2026-10-04",
-    "title": "ロジクール ワイヤレスマウス 静音 無線 高速スクロール Signature M550MGR レギュラー グラファイト 国内正規品",
-    "percent_off": 31
   },
   "B08K2L632Y": {
     "first_seen": "2026-08-06",
@@ -1314,13 +1321,6 @@
     "last_seen": "2026-10-02",
     "title": "Anker Nano Charger (70W, 3 Ports) ホワイト",
     "percent_off": null
-  },
-  "B0C9TKSP8V": {
-    "first_seen": "2026-07-30",
-    "first_seen_at": "2026-07-30T12:00:00+09:00",
-    "last_seen": "2026-10-02",
-    "title": "SwitchBot サーキュレーター DCモーター コードレス扇風機 充電式 静音 強力送風 - 3D首振り 30畳 無段階風量調整 省エネ",
-    "percent_off": 16
   },
   "B09R1S3MKH": {
     "first_seen": "2026-10-02",
