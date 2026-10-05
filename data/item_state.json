@@ -440,6 +440,13 @@
     "title": "UGREEN 100W GaN 卓上急速充電器 (4*USB-C+2*USB-A) コンパクト【PSE技術基準適合/PD3.0/QC4.0/PPS対応】 複数台同時充電 iPhone17/16/15/14/13/Xperia/Pixel Pro/iPad/ノートPC MacBook Pro/Airなどに対応",
     "percent_off": null
   },
+  "B0FH28F7SJ": {
+    "first_seen": "2026-09-13",
+    "first_seen_at": "2026-09-13T19:14:35+09:00",
+    "last_seen": "2026-10-05",
+    "title": "Belkin Qi2 25W ワイヤレス充電器 MagSafe対応 3in1充電スタンド iPhone 18・Apple Watch対応 3台同時充電",
+    "percent_off": 19
+  },
   "B0CD1NVW7R": {
     "first_seen": "2026-09-15",
     "first_seen_at": "2026-09-15T23:14:42+09:00",
@@ -453,13 +460,6 @@
     "last_seen": "2026-10-05",
     "title": "UGREEN Air急速充電器 45W Type-C 薄型設計 当社比67%小型化超薄モデル PD3.0/PPS/QC4/SCP対応 折り畳み式",
     "percent_off": 19
-  },
-  "B0FH2981XZ": {
-    "first_seen": "2026-09-14",
-    "first_seen_at": "2026-09-14T21:14:43+09:00",
-    "last_seen": "2026-10-05",
-    "title": "Belkin Qi2 25W ワイヤレス充電器 MagSafe対応 3in1充電スタンド iPhone 18・Apple Watch対応 3台同時充電",
-    "percent_off": 16
   },
   "B0DHTT13KN": {
     "first_seen": "2026-07-31",
@@ -530,6 +530,13 @@
     "last_seen": "2026-10-05",
     "title": "HUAWEI WATCH FIT 4 スマートウォッチ 薄型軽量 1.82インチ大画面 アウトドアに適した気圧計と測位システム 通知 フィットネス ヘルストラッカー 情緒測定 10日間ロングバッテリー iOS/Android対応 ブラック",
     "percent_off": 33
+  },
+  "B0CJB8RYWK": {
+    "first_seen": "2026-09-30",
+    "first_seen_at": "2026-09-30T08:14:42+09:00",
+    "last_seen": "2026-10-05",
+    "title": "【Suica対応】Fitbit Charge 6 トラッカー オブシディアン／ブラック スマートウォッチ/防水/iPhone対応/アンドロイド対応/最大7日間のバッテリー/GPS搭載/心拍計/睡眠スコア [日本正規品]",
+    "percent_off": 25
   },
   "B0FKH3WQ41": {
     "first_seen": "2026-07-30",
@@ -755,12 +762,12 @@
     "title": "アイリスオーヤマ 過熱水蒸気 エア フライヤー 3L 2～3人用 ノンオイルフライヤー スチーム機能 ジューシー FV-M30A-C アイボリー",
     "percent_off": 42
   },
-  "B0FH28F7SJ": {
-    "first_seen": "2026-09-13",
-    "first_seen_at": "2026-09-13T19:14:35+09:00",
+  "B0FH2981XZ": {
+    "first_seen": "2026-09-14",
+    "first_seen_at": "2026-09-14T21:14:43+09:00",
     "last_seen": "2026-10-05",
     "title": "Belkin Qi2 25W ワイヤレス充電器 MagSafe対応 3in1充電スタンド iPhone 18・Apple Watch対応 3台同時充電",
-    "percent_off": 19
+    "percent_off": 16
   },
   "B0DMN885ZF": {
     "first_seen": "2026-08-05",
@@ -768,13 +775,6 @@
     "last_seen": "2026-10-05",
     "title": "UGREEN 45W USB-C 急速充電器 Type-C PD GaNⅡ充電器 PSE適合タイプc充電器 PD/PPS/SCP/QC3.0",
     "percent_off": null
-  },
-  "B0CJB8RYWK": {
-    "first_seen": "2026-09-30",
-    "first_seen_at": "2026-09-30T08:14:42+09:00",
-    "last_seen": "2026-10-05",
-    "title": "【Suica対応】Fitbit Charge 6 トラッカー オブシディアン／ブラック スマートウォッチ/防水/iPhone対応/アンドロイド対応/最大7日間のバッテリー/GPS搭載/心拍計/睡眠スコア [日本正規品]",
-    "percent_off": 25
   },
   "B0FRSR6BVR": {
     "first_seen": "2026-08-07",
