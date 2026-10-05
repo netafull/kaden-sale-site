@@ -1138,23 +1138,13 @@
    "seed": "B0FQFW7RCC",
    "variation_count": null
   },
-  "B0FQFWP46C": {
-   "aliases": {},
-   "genre": "Apple製品",
-   "label": "",
-   "last_sweep_at": null,
-   "members": {},
-   "no_variations": false,
-   "seed": "B0FQFWP46C",
-   "variation_count": null
-  },
   "B0FQFY14WC": {
    "aliases": {},
    "genre": "Apple製品",
    "label": "",
-   "last_sweep_at": null,
+   "last_sweep_at": "2026-10-05T23:07:14+09:00",
    "members": {},
-   "no_variations": false,
+   "no_variations": true,
    "seed": "B0FQFY14WC",
    "variation_count": null
   },
@@ -1162,70 +1152,33 @@
    "aliases": {},
    "genre": "Apple製品",
    "label": "",
-   "last_sweep_at": null,
+   "last_sweep_at": "2026-10-05T23:07:14+09:00",
    "members": {},
-   "no_variations": false,
+   "no_variations": true,
    "seed": "B0FQG234S7",
-   "variation_count": null
-  },
-  "B0FQG5NDCX": {
-   "aliases": {},
-   "genre": "Apple製品",
-   "label": "",
-   "last_sweep_at": null,
-   "members": {},
-   "no_variations": false,
-   "seed": "B0FQG5NDCX",
-   "variation_count": null
-  },
-  "B0FQG6MZSB": {
-   "aliases": {},
-   "genre": "Apple製品",
-   "label": "",
-   "last_sweep_at": null,
-   "members": {},
-   "no_variations": false,
-   "seed": "B0FQG6MZSB",
-   "variation_count": null
-  },
-  "B0FQGJ2YKK": {
-   "aliases": {},
-   "genre": "Apple製品",
-   "label": "",
-   "last_sweep_at": null,
-   "members": {},
-   "no_variations": false,
-   "seed": "B0FQGJ2YKK",
    "variation_count": null
   },
   "B0FQGJ2YKW": {
    "aliases": {},
    "genre": "Apple製品",
    "label": "",
-   "last_sweep_at": null,
+   "last_sweep_at": "2026-10-05T23:07:14+09:00",
    "members": {},
-   "no_variations": false,
+   "no_variations": true,
    "seed": "B0FQGJ2YKW",
-   "variation_count": null
-  },
-  "B0FQGP2X31": {
-   "aliases": {},
-   "genre": "Apple製品",
-   "label": "",
-   "last_sweep_at": null,
-   "members": {},
-   "no_variations": false,
-   "seed": "B0FQGP2X31",
    "variation_count": null
   },
   "B0FQH5FZMM": {
    "aliases": {
     "B0FQFPJCW1": "2026-10-05",
-    "B0FQFWNSB8": "2026-10-05"
+    "B0FQFWNSB8": "2026-10-05",
+    "B0FQFWP46C": "2026-10-05",
+    "B0FQG5NDCX": "2026-10-05",
+    "B0FQGJ2YKK": "2026-10-05"
    },
    "genre": "Apple製品",
    "label": "Apple iPhone 17 256GB (SIMフリー)：ProMotion",
-   "last_sweep_at": "2026-10-05T22:07:14+09:00",
+   "last_sweep_at": "2026-10-05T23:07:14+09:00",
    "members": {
     "B0FQG1QPL9": {
      "last_seen": "2026-10-05",
@@ -1362,11 +1315,67 @@
    "aliases": {},
    "genre": "Apple製品",
    "label": "Apple Watch SE 3（GPSモデル）",
-   "last_sweep_at": null,
-   "members": {},
+   "last_sweep_at": "2026-10-05T23:07:14+09:00",
+   "members": {
+    "B0FQFQ5BGS": {
+     "last_seen": "2026-10-05",
+     "pct": 0,
+     "points_pct": 1
+    },
+    "B0FQG9BXMF": {
+     "last_seen": "2026-10-05",
+     "pct": 0,
+     "points_pct": 1
+    },
+    "B0FRZ3C3VN": {
+     "last_seen": "2026-10-05",
+     "pct": 2,
+     "points_pct": 0
+    },
+    "B0FRZ3JG2C": {
+     "last_seen": "2026-10-05",
+     "pct": 2,
+     "points_pct": 0
+    },
+    "B0HJ9TYVYH": {
+     "last_seen": "2026-10-05",
+     "pct": 0,
+     "points_pct": 1
+    },
+    "B0HJ9XLDYS": {
+     "last_seen": "2026-10-05",
+     "pct": 0,
+     "points_pct": 1
+    },
+    "B0HJB11K2N": {
+     "last_seen": "2026-10-05",
+     "pct": 0,
+     "points_pct": 1
+    },
+    "B0HJB1CR9Q": {
+     "last_seen": "2026-10-05",
+     "pct": 0,
+     "points_pct": 1
+    },
+    "B0HJB1RSC8": {
+     "last_seen": "2026-10-05",
+     "pct": 0,
+     "points_pct": 1
+    },
+    "B0HJB41D4Q": {
+     "last_seen": "2026-10-05",
+     "pct": 0,
+     "points_pct": 1
+    },
+    "B0HJB5B1SW": {
+     "last_seen": "2026-10-05",
+     "pct": 0,
+     "points_pct": 1
+    }
+   },
    "no_variations": false,
    "seed": "B0HJB1CR9Q",
-   "variation_count": null
+   "variation_count": 11
   },
   "B0FQJ766JD": {
    "aliases": {},
@@ -1508,20 +1517,267 @@
    "aliases": {},
    "genre": "Apple製品",
    "label": "Apple Watch Band - スポーツループ - （46mm）ケース用 ",
-   "last_sweep_at": null,
-   "members": {},
+   "last_sweep_at": "2026-10-05T23:07:14+09:00",
+   "members": {
+    "B0FQFJY7M5": {
+     "last_seen": "2026-10-05",
+     "pct": 0,
+     "points_pct": 1
+    },
+    "B0FQFM1CYK": {
+     "last_seen": "2026-10-05",
+     "pct": 0,
+     "points_pct": 1
+    },
+    "B0FQFQJM4G": {
+     "last_seen": "2026-10-05",
+     "pct": 0,
+     "points_pct": 1
+    },
+    "B0FQFWK7QX": {
+     "last_seen": "2026-10-05",
+     "pct": null,
+     "points_pct": null
+    },
+    "B0FQG2KRFN": {
+     "last_seen": "2026-10-05",
+     "pct": 0,
+     "points_pct": 1
+    },
+    "B0FQG4F747": {
+     "last_seen": "2026-10-05",
+     "pct": 0,
+     "points_pct": 1
+    },
+    "B0FQG4FTWQ": {
+     "last_seen": "2026-10-05",
+     "pct": null,
+     "points_pct": null
+    },
+    "B0FQG4FZS2": {
+     "last_seen": "2026-10-05",
+     "pct": 0,
+     "points_pct": 1
+    },
+    "B0FQG6PXPD": {
+     "last_seen": "2026-10-05",
+     "pct": null,
+     "points_pct": null
+    },
+    "B0FQG81L5M": {
+     "last_seen": "2026-10-05",
+     "pct": null,
+     "points_pct": null
+    },
+    "B0FQG94Z5N": {
+     "last_seen": "2026-10-05",
+     "pct": 0,
+     "points_pct": 1
+    },
+    "B0FQG9MMMR": {
+     "last_seen": "2026-10-05",
+     "pct": 0,
+     "points_pct": 1
+    },
+    "B0FQGLL2T7": {
+     "last_seen": "2026-10-05",
+     "pct": 0,
+     "points_pct": 1
+    },
+    "B0FQGPCRVG": {
+     "last_seen": "2026-10-05",
+     "pct": null,
+     "points_pct": null
+    },
+    "B0FQGPHMHD": {
+     "last_seen": "2026-10-05",
+     "pct": 0,
+     "points_pct": 1
+    },
+    "B0FQGVZQ17": {
+     "last_seen": "2026-10-05",
+     "pct": 0,
+     "points_pct": 1
+    },
+    "B0FQGYRB83": {
+     "last_seen": "2026-10-05",
+     "pct": 0,
+     "points_pct": 1
+    },
+    "B0GQVBP1W2": {
+     "last_seen": "2026-10-05",
+     "pct": 0,
+     "points_pct": 1
+    },
+    "B0GQVFG3RD": {
+     "last_seen": "2026-10-05",
+     "pct": 0,
+     "points_pct": 1
+    },
+    "B0GQVFXV8R": {
+     "last_seen": "2026-10-05",
+     "pct": 0,
+     "points_pct": 1
+    },
+    "B0GQVL7D1Y": {
+     "last_seen": "2026-10-05",
+     "pct": 0,
+     "points_pct": 1
+    },
+    "B0GQVPZNSS": {
+     "last_seen": "2026-10-05",
+     "pct": 0,
+     "points_pct": 1
+    },
+    "B0GQVSMV3C": {
+     "last_seen": "2026-10-05",
+     "pct": 0,
+     "points_pct": 1
+    },
+    "B0GQVVM7D5": {
+     "last_seen": "2026-10-05",
+     "pct": 0,
+     "points_pct": 1
+    },
+    "B0GQVXPDLN": {
+     "last_seen": "2026-10-05",
+     "pct": 0,
+     "points_pct": 1
+    },
+    "B0GQVYNHQS": {
+     "last_seen": "2026-10-05",
+     "pct": 0,
+     "points_pct": 1
+    },
+    "B0HJ9QMLJT": {
+     "last_seen": "2026-10-05",
+     "pct": 0,
+     "points_pct": 1
+    },
+    "B0HJ9SMNLL": {
+     "last_seen": "2026-10-05",
+     "pct": 0,
+     "points_pct": 5
+    },
+    "B0HJ9V5F7R": {
+     "last_seen": "2026-10-05",
+     "pct": 0,
+     "points_pct": 1
+    },
+    "B0HJ9V97D7": {
+     "last_seen": "2026-10-05",
+     "pct": 0,
+     "points_pct": 5
+    },
+    "B0HJ9VR783": {
+     "last_seen": "2026-10-05",
+     "pct": 0,
+     "points_pct": 1
+    },
+    "B0HJ9VSSZT": {
+     "last_seen": "2026-10-05",
+     "pct": 0,
+     "points_pct": 5
+    },
+    "B0HJ9W32GR": {
+     "last_seen": "2026-10-05",
+     "pct": 0,
+     "points_pct": 1
+    },
+    "B0HJ9WNM51": {
+     "last_seen": "2026-10-05",
+     "pct": 0,
+     "points_pct": 1
+    },
+    "B0HJ9XM37T": {
+     "last_seen": "2026-10-05",
+     "pct": 0,
+     "points_pct": 1
+    },
+    "B0HJ9YMVDB": {
+     "last_seen": "2026-10-05",
+     "pct": 0,
+     "points_pct": 1
+    },
+    "B0HJ9YPRCP": {
+     "last_seen": "2026-10-05",
+     "pct": 0,
+     "points_pct": 1
+    },
+    "B0HJ9ZFFRX": {
+     "last_seen": "2026-10-05",
+     "pct": 0,
+     "points_pct": 5
+    },
+    "B0HJ9ZGDMN": {
+     "last_seen": "2026-10-05",
+     "pct": 0,
+     "points_pct": 1
+    },
+    "B0HJB254YQ": {
+     "last_seen": "2026-10-05",
+     "pct": 0,
+     "points_pct": 1
+    },
+    "B0HJB2QNKC": {
+     "last_seen": "2026-10-05",
+     "pct": 0,
+     "points_pct": 1
+    },
+    "B0HJB4HKBQ": {
+     "last_seen": "2026-10-05",
+     "pct": 0,
+     "points_pct": 1
+    },
+    "B0HJB65DKB": {
+     "last_seen": "2026-10-05",
+     "pct": 0,
+     "points_pct": 1
+    },
+    "B0HJB7N29V": {
+     "last_seen": "2026-10-05",
+     "pct": 0,
+     "points_pct": 1
+    },
+    "B0HJB858GZ": {
+     "last_seen": "2026-10-05",
+     "pct": 0,
+     "points_pct": 1
+    },
+    "B0HJBB56VS": {
+     "last_seen": "2026-10-05",
+     "pct": 0,
+     "points_pct": 1
+    },
+    "B0HJBD1894": {
+     "last_seen": "2026-10-05",
+     "pct": 0,
+     "points_pct": 1
+    },
+    "B0HJBH48YS": {
+     "last_seen": "2026-10-05",
+     "pct": 0,
+     "points_pct": 1
+    }
+   },
    "no_variations": false,
    "seed": "B0GQVFG3RD",
-   "variation_count": null
+   "variation_count": 48
   },
   "B0FQJBT7SZ": {
    "aliases": {
     "B0FQFQT3VK": "2026-10-05",
-    "B0FQFV6VZL": "2026-10-05"
+    "B0FQFV6VZL": "2026-10-05",
+    "B0FQG6MZSB": "2026-10-05",
+    "B0FQGP2X31": "2026-10-05",
+    "B0FRZ2QRTP": "2026-10-05",
+    "B0FRZ3M7BB": "2026-10-05",
+    "B0FRZ3TX6V": "2026-10-05",
+    "B0FRZ58QFK": "2026-10-05"
    },
    "genre": "Apple製品",
    "label": "Apple Watch Ultra 3(GPS + Cellularモデル)- ",
-   "last_sweep_at": "2026-10-05T22:07:14+09:00",
+   "last_sweep_at": "2026-10-05T23:07:14+09:00",
    "members": {
     "B0FQFW26JS": {
      "last_seen": "2026-10-05",
@@ -1638,46 +1894,6 @@
    "seed": "B0FQFW26JS",
    "variation_count": 22
   },
-  "B0FRZ2QRTP": {
-   "aliases": {},
-   "genre": "Apple製品",
-   "label": "",
-   "last_sweep_at": null,
-   "members": {},
-   "no_variations": false,
-   "seed": "B0FRZ2QRTP",
-   "variation_count": null
-  },
-  "B0FRZ3M7BB": {
-   "aliases": {},
-   "genre": "Apple製品",
-   "label": "",
-   "last_sweep_at": null,
-   "members": {},
-   "no_variations": false,
-   "seed": "B0FRZ3M7BB",
-   "variation_count": null
-  },
-  "B0FRZ3TX6V": {
-   "aliases": {},
-   "genre": "Apple製品",
-   "label": "",
-   "last_sweep_at": null,
-   "members": {},
-   "no_variations": false,
-   "seed": "B0FRZ3TX6V",
-   "variation_count": null
-  },
-  "B0FRZ58QFK": {
-   "aliases": {},
-   "genre": "Apple製品",
-   "label": "",
-   "last_sweep_at": null,
-   "members": {},
-   "no_variations": false,
-   "seed": "B0FRZ58QFK",
-   "variation_count": null
-  },
   "B0FTZ8XV4Y": {
    "aliases": {},
    "genre": "Apple製品",
@@ -1699,63 +1915,330 @@
    "seed": "B0FRZ3SZWX",
    "variation_count": 2
   },
-  "B0FWF4HS1R": {
+  "B0FWJMPMRP": {
    "aliases": {},
    "genre": "Apple製品",
-   "label": "",
-   "last_sweep_at": null,
-   "members": {},
-   "no_variations": false,
-   "seed": "B0FWF4HS1R",
-   "variation_count": null
-  },
-  "B0FWF4M2HP": {
-   "aliases": {},
-   "genre": "Apple製品",
-   "label": "",
-   "last_sweep_at": null,
-   "members": {},
-   "no_variations": false,
-   "seed": "B0FWF4M2HP",
-   "variation_count": null
-  },
-  "B0FX458KV1": {
-   "aliases": {},
-   "genre": "Apple製品",
-   "label": "",
-   "last_sweep_at": null,
-   "members": {},
-   "no_variations": false,
-   "seed": "B0FX458KV1",
-   "variation_count": null
-  },
-  "B0FX45Z55R": {
-   "aliases": {},
-   "genre": "Apple製品",
-   "label": "",
-   "last_sweep_at": null,
-   "members": {},
-   "no_variations": false,
-   "seed": "B0FX45Z55R",
-   "variation_count": null
-  },
-  "B0FX46NSHB": {
-   "aliases": {},
-   "genre": "Apple製品",
-   "label": "",
-   "last_sweep_at": null,
-   "members": {},
+   "label": "11インチiPad Pro Wi‑Fiモデル 2TB（標準ガラス搭載）- シルバ",
+   "last_sweep_at": "2026-10-05T23:07:14+09:00",
+   "members": {
+    "B0FWD9841J": {
+     "last_seen": "2026-10-05",
+     "pct": 0,
+     "points_pct": 1
+    },
+    "B0FWD999SJ": {
+     "last_seen": "2026-10-05",
+     "pct": 0,
+     "points_pct": 1
+    },
+    "B0FWDBXPK8": {
+     "last_seen": "2026-10-05",
+     "pct": 0,
+     "points_pct": 1
+    },
+    "B0FWDC2FKB": {
+     "last_seen": "2026-10-05",
+     "pct": 0,
+     "points_pct": 1
+    },
+    "B0FWDC933P": {
+     "last_seen": "2026-10-05",
+     "pct": 0,
+     "points_pct": 1
+    },
+    "B0FWDCD7YC": {
+     "last_seen": "2026-10-05",
+     "pct": 0,
+     "points_pct": 1
+    },
+    "B0FWDCMPY6": {
+     "last_seen": "2026-10-05",
+     "pct": 0,
+     "points_pct": 1
+    },
+    "B0FWDCN42K": {
+     "last_seen": "2026-10-05",
+     "pct": 0,
+     "points_pct": 1
+    },
+    "B0FWDCW2VY": {
+     "last_seen": "2026-10-05",
+     "pct": 0,
+     "points_pct": 1
+    },
+    "B0FWDDJVG1": {
+     "last_seen": "2026-10-05",
+     "pct": 0,
+     "points_pct": 1
+    },
+    "B0FWDDN98R": {
+     "last_seen": "2026-10-05",
+     "pct": 0,
+     "points_pct": 1
+    },
+    "B0FWDWBRN2": {
+     "last_seen": "2026-10-05",
+     "pct": 0,
+     "points_pct": 1
+    },
+    "B0FWDZRZK1": {
+     "last_seen": "2026-10-05",
+     "pct": 0,
+     "points_pct": 1
+    },
+    "B0FWF4CBFV": {
+     "last_seen": "2026-10-05",
+     "pct": 0,
+     "points_pct": 1
+    },
+    "B0FX3ZPYL3": {
+     "last_seen": "2026-10-05",
+     "pct": 0,
+     "points_pct": 0
+    },
+    "B0FX3ZQKNY": {
+     "last_seen": "2026-10-05",
+     "pct": 0,
+     "points_pct": 0
+    },
+    "B0FX3ZQY5N": {
+     "last_seen": "2026-10-05",
+     "pct": 0,
+     "points_pct": 0
+    },
+    "B0FX3ZS9G2": {
+     "last_seen": "2026-10-05",
+     "pct": 0,
+     "points_pct": 0
+    },
+    "B0FX43Q2CW": {
+     "last_seen": "2026-10-05",
+     "pct": 0,
+     "points_pct": 0
+    },
+    "B0FX451WMR": {
+     "last_seen": "2026-10-05",
+     "pct": 0,
+     "points_pct": 0
+    },
+    "B0FX45Q7HQ": {
+     "last_seen": "2026-10-05",
+     "pct": 1,
+     "points_pct": 0
+    },
+    "B0FX46FSPC": {
+     "last_seen": "2026-10-05",
+     "pct": 0,
+     "points_pct": 0
+    },
+    "B0FX46NSHB": {
+     "last_seen": "2026-10-05",
+     "pct": 0,
+     "points_pct": 0
+    },
+    "B0FX46S1YC": {
+     "last_seen": "2026-10-05",
+     "pct": 0,
+     "points_pct": 0
+    },
+    "B0FX46Y1LV": {
+     "last_seen": "2026-10-05",
+     "pct": 0,
+     "points_pct": 0
+    },
+    "B0FX4898PN": {
+     "last_seen": "2026-10-05",
+     "pct": 1,
+     "points_pct": 0
+    },
+    "B0FX4BZM7M": {
+     "last_seen": "2026-10-05",
+     "pct": 0,
+     "points_pct": 0
+    },
+    "B0FX4C4XZW": {
+     "last_seen": "2026-10-05",
+     "pct": 0,
+     "points_pct": 0
+    },
+    "B0GXXHS47Q": {
+     "last_seen": "2026-10-05",
+     "pct": 0,
+     "points_pct": 0
+    },
+    "B0GXXKRCW5": {
+     "last_seen": "2026-10-05",
+     "pct": 0,
+     "points_pct": 0
+    },
+    "B0GXXMVRKH": {
+     "last_seen": "2026-10-05",
+     "pct": 0,
+     "points_pct": 0
+    },
+    "B0GXXNPRFP": {
+     "last_seen": "2026-10-05",
+     "pct": 0,
+     "points_pct": 0
+    },
+    "B0GXXPYX95": {
+     "last_seen": "2026-10-05",
+     "pct": 0,
+     "points_pct": 0
+    },
+    "B0GXXQJPTD": {
+     "last_seen": "2026-10-05",
+     "pct": 1,
+     "points_pct": 0
+    },
+    "B0GXXT9GYL": {
+     "last_seen": "2026-10-05",
+     "pct": 0,
+     "points_pct": 0
+    },
+    "B0GXXTDCQ3": {
+     "last_seen": "2026-10-05",
+     "pct": 0,
+     "points_pct": 0
+    },
+    "B0GXXVC67Q": {
+     "last_seen": "2026-10-05",
+     "pct": 0,
+     "points_pct": 0
+    },
+    "B0GXXW36PX": {
+     "last_seen": "2026-10-05",
+     "pct": 0,
+     "points_pct": 0
+    },
+    "B0GXXWSTC4": {
+     "last_seen": "2026-10-05",
+     "pct": 0,
+     "points_pct": 0
+    },
+    "B0GXXY46FP": {
+     "last_seen": "2026-10-05",
+     "pct": 0,
+     "points_pct": 0
+    },
+    "B0GXY4TMFC": {
+     "last_seen": "2026-10-05",
+     "pct": 1,
+     "points_pct": 0
+    },
+    "B0GXY7SKKX": {
+     "last_seen": "2026-10-05",
+     "pct": 0,
+     "points_pct": 0
+    }
+   },
    "no_variations": false,
    "seed": "B0FX46NSHB",
-   "variation_count": null
+   "variation_count": 42
+  },
+  "B0FWJR4K4Q": {
+   "aliases": {
+    "B0FWF4HS1R": "2026-10-05",
+    "B0FWF4M2HP": "2026-10-05",
+    "B0FX458KV1": "2026-10-05",
+    "B0FX45Z55R": "2026-10-05"
+   },
+   "genre": "Apple製品",
+   "label": "Apple 2025 MacBook Pro 10 コアCPU、10 コアGPU",
+   "last_sweep_at": "2026-10-05T23:07:14+09:00",
+   "members": {
+    "B0FWD8Y41V": {
+     "last_seen": "2026-10-05",
+     "pct": 5,
+     "points_pct": 1
+    },
+    "B0FWDCTLPY": {
+     "last_seen": "2026-10-05",
+     "pct": 5,
+     "points_pct": 1
+    },
+    "B0GR1KNBX2": {
+     "last_seen": "2026-10-05",
+     "pct": 7,
+     "points_pct": 0
+    },
+    "B0GR1KP26Q": {
+     "last_seen": "2026-10-05",
+     "pct": 0,
+     "points_pct": 1
+    },
+    "B0GR1LNP9V": {
+     "last_seen": "2026-10-05",
+     "pct": 0,
+     "points_pct": 1
+    },
+    "B0GR1N1QRX": {
+     "last_seen": "2026-10-05",
+     "pct": 0,
+     "points_pct": 1
+    },
+    "B0GR1NTKL9": {
+     "last_seen": "2026-10-05",
+     "pct": 0,
+     "points_pct": 1
+    },
+    "B0GR1PKPXR": {
+     "last_seen": "2026-10-05",
+     "pct": 0,
+     "points_pct": 0
+    },
+    "B0GR1RF3K9": {
+     "last_seen": "2026-10-05",
+     "pct": 0,
+     "points_pct": 1
+    },
+    "B0GR1VZY4W": {
+     "last_seen": "2026-10-05",
+     "pct": 0,
+     "points_pct": 0
+    },
+    "B0GRTL8MW9": {
+     "last_seen": "2026-10-05",
+     "pct": 0,
+     "points_pct": 0
+    },
+    "B0GRTM4GGQ": {
+     "last_seen": "2026-10-05",
+     "pct": 4,
+     "points_pct": 0
+    },
+    "B0GRTMCJV4": {
+     "last_seen": "2026-10-05",
+     "pct": 0,
+     "points_pct": 0
+    },
+    "B0GRTQ2RQH": {
+     "last_seen": "2026-10-05",
+     "pct": 7,
+     "points_pct": 0
+    },
+    "B0GRTRXH5Z": {
+     "last_seen": "2026-10-05",
+     "pct": 0,
+     "points_pct": 0
+    },
+    "B0GRTST8MJ": {
+     "last_seen": "2026-10-05",
+     "pct": 0,
+     "points_pct": 0
+    }
+   },
+   "no_variations": false,
+   "seed": "B0FWD8Y41V",
+   "variation_count": 16
   },
   "B0GJTW9CL8": {
    "aliases": {},
    "genre": "Apple製品",
    "label": "Apple AirTag（第2世代）：紛失防止タグ、音で探せる、耐水 防塵 iP",
-   "last_sweep_at": null,
+   "last_sweep_at": "2026-10-05T23:07:14+09:00",
    "members": {},
-   "no_variations": false,
+   "no_variations": true,
    "seed": "B0GJTW9CL8",
    "variation_count": null
   },
@@ -1879,26 +2362,6 @@
    "seed": "B0GR1KF8VV",
    "variation_count": null
   },
-  "B0GR1KNBX2": {
-   "aliases": {},
-   "genre": "Apple製品",
-   "label": "",
-   "last_sweep_at": null,
-   "members": {},
-   "no_variations": false,
-   "seed": "B0GR1KNBX2",
-   "variation_count": null
-  },
-  "B0GR1KP26Q": {
-   "aliases": {},
-   "genre": "Apple製品",
-   "label": "",
-   "last_sweep_at": null,
-   "members": {},
-   "no_variations": false,
-   "seed": "B0GR1KP26Q",
-   "variation_count": null
-  },
   "B0GR1LGT2H": {
    "aliases": {},
    "genre": "Apple製品",
@@ -1907,16 +2370,6 @@
    "members": {},
    "no_variations": false,
    "seed": "B0GR1LGT2H",
-   "variation_count": null
-  },
-  "B0GR1LNP9V": {
-   "aliases": {},
-   "genre": "Apple製品",
-   "label": "",
-   "last_sweep_at": null,
-   "members": {},
-   "no_variations": false,
-   "seed": "B0GR1LNP9V",
    "variation_count": null
   },
   "B0GR1LSZ8D": {
@@ -1929,26 +2382,6 @@
    "seed": "B0GR1LSZ8D",
    "variation_count": null
   },
-  "B0GR1N1QRX": {
-   "aliases": {},
-   "genre": "Apple製品",
-   "label": "",
-   "last_sweep_at": null,
-   "members": {},
-   "no_variations": false,
-   "seed": "B0GR1N1QRX",
-   "variation_count": null
-  },
-  "B0GR1NTKL9": {
-   "aliases": {},
-   "genre": "Apple製品",
-   "label": "",
-   "last_sweep_at": null,
-   "members": {},
-   "no_variations": false,
-   "seed": "B0GR1NTKL9",
-   "variation_count": null
-  },
   "B0GR1PRMDS": {
    "aliases": {},
    "genre": "Apple製品",
@@ -1957,16 +2390,6 @@
    "members": {},
    "no_variations": false,
    "seed": "B0GR1PRMDS",
-   "variation_count": null
-  },
-  "B0GR1RF3K9": {
-   "aliases": {},
-   "genre": "Apple製品",
-   "label": "",
-   "last_sweep_at": null,
-   "members": {},
-   "no_variations": false,
-   "seed": "B0GR1RF3K9",
    "variation_count": null
   },
   "B0GR1RYD3C": {
@@ -2027,16 +2450,6 @@
    "members": {},
    "no_variations": false,
    "seed": "B0GR1VFR15",
-   "variation_count": null
-  },
-  "B0GR1VZY4W": {
-   "aliases": {},
-   "genre": "Apple製品",
-   "label": "",
-   "last_sweep_at": null,
-   "members": {},
-   "no_variations": false,
-   "seed": "B0GR1VZY4W",
    "variation_count": null
   },
   "B0GR1W6K3P": {
@@ -2109,16 +2522,6 @@
    "seed": "B0GRTQ1GSS",
    "variation_count": null
   },
-  "B0GRTQ2RQH": {
-   "aliases": {},
-   "genre": "Apple製品",
-   "label": "",
-   "last_sweep_at": null,
-   "members": {},
-   "no_variations": false,
-   "seed": "B0GRTQ2RQH",
-   "variation_count": null
-  },
   "B0GRTQ5PBV": {
    "aliases": {},
    "genre": "Apple製品",
@@ -2147,26 +2550,6 @@
    "members": {},
    "no_variations": false,
    "seed": "B0GRTRHHDK",
-   "variation_count": null
-  },
-  "B0GRTRXH5Z": {
-   "aliases": {},
-   "genre": "Apple製品",
-   "label": "",
-   "last_sweep_at": null,
-   "members": {},
-   "no_variations": false,
-   "seed": "B0GRTRXH5Z",
-   "variation_count": null
-  },
-  "B0GRTST8MJ": {
-   "aliases": {},
-   "genre": "Apple製品",
-   "label": "",
-   "last_sweep_at": null,
-   "members": {},
-   "no_variations": false,
-   "seed": "B0GRTST8MJ",
    "variation_count": null
   },
   "B0GRTSY8SH": {
