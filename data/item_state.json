@@ -244,13 +244,6 @@
     "title": "Anker Power Bank (25000mAh, Built-In & 巻取り式USB-Cケーブル) ブラック",
     "percent_off": 22
   },
-  "B0FRSR6BVR": {
-    "first_seen": "2026-08-07",
-    "first_seen_at": "2026-08-07T22:31:51+09:00",
-    "last_seen": "2026-10-05",
-    "title": "Belkin MagSafe対応 モバイルバッテリー 軽量 5000mAh USB-C 15W 薄型 iPhone対応 ブラック",
-    "percent_off": 19
-  },
   "B0CCJFY2V4": {
     "first_seen": "2026-10-01",
     "first_seen_at": "2026-10-01T23:14:55+09:00",
@@ -725,7 +718,7 @@
     "first_seen_at": "2026-09-17T00:14:58+09:00",
     "last_seen": "2026-10-05",
     "title": "東プレ GX1 Keyboard 獅白ぼたん モデル 日本語配列 REALFORCE ゲーミングキーボード TKL 91キー X1UCS1 KB0911",
-    "percent_off": 15
+    "percent_off": 16
   },
   "B0G4CC1S2F": {
     "first_seen": "2026-07-24",
@@ -733,6 +726,13 @@
     "last_seen": "2026-10-05",
     "title": "アイリスオーヤマ 過熱水蒸気 エア フライヤー 3L 2～3人用 ノンオイルフライヤー スチーム機能 ジューシー FV-M30A-C アイボリー",
     "percent_off": 42
+  },
+  "B0FRSR6BVR": {
+    "first_seen": "2026-08-07",
+    "first_seen_at": "2026-08-07T22:31:51+09:00",
+    "last_seen": "2026-10-05",
+    "title": "Belkin MagSafe対応 モバイルバッテリー 軽量 5000mAh USB-C 15W 薄型 iPhone対応 ブラック",
+    "percent_off": 19
   },
   "B0BRSJP3KF": {
     "first_seen": "2026-09-24",
