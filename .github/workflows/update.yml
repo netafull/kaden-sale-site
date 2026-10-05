@@ -58,7 +58,10 @@ concurrency:
 
 jobs:
   build-and-deploy:
-    runs-on: ubuntu-latest
+    # ubuntu-latest は2026-10-19からUbuntu 26に切り替わる(GitHubの予告、実行ログに
+    # 出ていた)。Pythonなどの実行環境が変わって動かなくなるのを避けるため、現在の
+    # Ubuntu 24.04に固定している。切り替えるときは動作を確認してから変えること
+    runs-on: ubuntu-24.04
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
