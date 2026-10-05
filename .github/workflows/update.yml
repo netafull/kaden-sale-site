@@ -20,10 +20,14 @@ on:
   # 実態は家電2時間・電書6時間・林檎30分とすべて食い違っていた。
   # 間隔は毎時。Creators API の上限8,640req/日を電書ポチ
   # (Partner Tag は natafull-22 で共通)と共有している点に注意すること。
-  # 本ワークフローは170req/回なので 24回/日 = 4,080req。電書ポチ(2時間間隔・
-  # 175req/回で 12回/日 = 2,100req)と合算して 6,180req/日、上限の71.5%。
-  # 余力は約2,460req/日(手動実行14回分)ある。両方を毎時にすると8,280req(96%)で
-  # 手動実行が1回混ざるだけで超えるため、電書ポチ側は2時間より短くしないこと。
+  # 本ワークフローは2026-10-05の実測で約294req/回(ジャンル検索280+getItems14)。
+  # 以前ここに書いていた170req/回は2026-07-27時点(8ジャンル)の値で、その後
+  # ジャンルが12に増えても更新されていなかった。24回/日 = 約7,056req。
+  # 電書ポチ(2時間間隔・175req/回で 12回/日 = 2,100req。こちらは再測定していない)と
+  # 合算すると約9,150req/日になり、8,640を超える計算になる。にもかかわらず
+  # 制限エラーは出ていないため、実際の上限は8,640ではない(売上に応じて増える)
+  # 可能性が高いが、未確認。Amazonアソシエイトの管理画面で実際の上限を確認すること。
+  # 確認できるまでは、電書ポチ側を2時間より短くしないこと。
   # ※ schedule を消したので、間隔を変えたいときはこのファイルではなく
   #   Cloud Scheduler 側のジョブを直すこと。
   #
@@ -48,7 +52,7 @@ concurrency:
   group: pages
   # 走行中の実行を打ち切らない。config.jsonやスクリプトを直してpushすると、
   # 定期実行の途中でも巻き込んでキャンセルしてしまい、消費済みのAPI
-  # (170req)が丸ごと無駄になるうえ、通知だけ飛んでデプロイされない状態も
+  # (約294req)が丸ごと無駄になるうえ、通知だけ飛んでデプロイされない状態も
   # 起こりうる。実行時間に対し間隔は1時間あるので、待たせても支障がない
   cancel-in-progress: false
 
@@ -84,11 +88,16 @@ jobs:
         run: python scripts/generate_site.py
 
       # 商品の初検出日を毎時実行をまたいで永続化する。
-      # pushトリガーは設定していないのでループはしない
+      # pushトリガーは設定していないのでループはしない。
+      # data/variants.json(バリエーション自動探索の状態)も同じ理由で
+      # コミットする。これを永続化しないと、毎回スイープが振り出しに戻る。
+      # 探索を無効にしている間はファイルが無いので、存在するときだけaddする
+      # (無いパスをgit addすると set -e で本ステップが落ちるため)
       - name: Persist item state
         run: |
           set -euo pipefail
           git add data/item_state.json
+          if [ -f data/variants.json ]; then git add data/variants.json; fi
           if ! git diff --cached --quiet; then
             git config user.name "github-actions[bot]"
             git config user.email "github-actions[bot]@users.noreply.github.com"

@@ -30,6 +30,17 @@
   "pages_per_genre": 4,
   "new_arrival_hours": 24,
   "new_arrival_exclude_genres": [],
+  "variation_discovery": {
+    "enabled": true,
+    "dry_run": true,
+    "genres": ["Apple製品"],
+    "sweep_families_per_run": 20,
+    "sweep_min_interval_hours": 6,
+    "max_requests_per_run": 70,
+    "hot_floor_ratio": 0.5,
+    "member_grace_days": 14,
+    "exclude_any": ["セット"]
+  },
   "genres": [
     {
       "name": "Apple製品",

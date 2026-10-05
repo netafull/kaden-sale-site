@@ -82,6 +82,27 @@ Actions タブ →「Update Kaden sale site」→ Run workflow で手動実行�
 - `google_site_verification` / `ga_measurement_id` — 設定するとSearch Console確認タグ・Google Analyticsが出力される。未設定なら何も出力されない
 - **`minSavingPercent`パラメータは使用禁止**: Creators APIのバグで、これを送ると検索結果が壊れます(件数激減・関連性の低い商品の混入・savings情報消失を電書ポチ側で実データ確認済み)。そのため割引率での絞り込みはAPIに頼らず、`scripts/fetch_deals.py`が取得後にクライアント側で行っています(`min_saving_percent`はこのクライアントフィルタの閾値)
 
+## バリエーション自動探索 (config.json の `variation_discovery`)
+
+構成(バリエーション)の多いApple製品がwatch_asinsの登録漏れで載らない問題への対策です。
+検索結果とwatch_asinsを「種」に親ASIN(ファミリー)を覚え、毎時数ファミリーずつ
+`getVariations` で全構成をスイープして、割引が出ている構成を拾います。
+状態は `data/variants.json`(CIがコミット)に保存します。
+
+- `enabled` — falseまたは未設定なら何もしない(サイトの出力・状態ファイルとも従来どおり)
+- `dry_run` — trueの間はスイープと状態の更新だけを行い、掲載は変えない。「本番なら新たに載る構成」を
+  `[バリエーション探索/ドライラン]` としてログに出す。本番有効化は `false` にする
+- `genres` — 対象ジャンル名
+- `sweep_min_interval_hours` — 同じファミリーを再スイープするまでの最短間隔(時間)。未スイープが最優先で、
+  次に古い順。定常状態の巡回の速さはこれで決まる(既定6=約6時間で一巡)
+- `sweep_families_per_run` — 1回の実行でスイープする最大件数(立ち上げ時・突発的な負荷の上限。既定20) /
+  `max_requests_per_run` — 1回のgetVariationsリクエスト数の上限(Amazon APIの日次枠は電書ポチと共有)
+- `hot_floor_ratio` — 割引+ポイントが掲載閾値のこの倍率以上の構成だけ毎時getItemsで追う(残りはスイープでのみ見る)
+- `member_grace_days` — スイープで返らなくなった構成を保持する日数 / `exclude_any` — タイトルに含まれていたら
+  探索由来の掲載から除く語(別商品とのセット等。除外したタイトルは毎回ログに出る)
+
+テスト: `python3 -m unittest discover -s tests`(ネットワークには出ません)
+
 ## 状態ファイルのマージ設定(クローン後に1回)
 
 `data/item_state.json`(商品の初検出日)はCIと手元の実行の両方が書き換えるため、
