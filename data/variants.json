@@ -3480,31 +3480,139 @@
    "aliases": {},
    "genre": "Apple製品",
    "label": "Apple Watch Ultra 4（GPS + Cellularモデル）",
-   "last_sweep_at": null,
-   "members": {},
+   "last_sweep_at": "2026-10-06T01:07:15+09:00",
+   "members": {
+    "B0HJ9SL1FK": {
+     "last_seen": "2026-10-06",
+     "pct": 0,
+     "points_pct": 1
+    },
+    "B0HJ9VSRVN": {
+     "last_seen": "2026-10-06",
+     "pct": 0,
+     "points_pct": 1
+    },
+    "B0HJ9YFWGQ": {
+     "last_seen": "2026-10-06",
+     "pct": 0,
+     "points_pct": 1
+    },
+    "B0HJ9ZJ8RG": {
+     "last_seen": "2026-10-06",
+     "pct": 0,
+     "points_pct": 1
+    },
+    "B0HJ9ZP21K": {
+     "last_seen": "2026-10-06",
+     "pct": 0,
+     "points_pct": 1
+    },
+    "B0HJB33G86": {
+     "last_seen": "2026-10-06",
+     "pct": 0,
+     "points_pct": 1
+    },
+    "B0HJB499BF": {
+     "last_seen": "2026-10-06",
+     "pct": 0,
+     "points_pct": 1
+    },
+    "B0HJB5HS4Y": {
+     "last_seen": "2026-10-06",
+     "pct": 0,
+     "points_pct": 1
+    },
+    "B0HJB642ZS": {
+     "last_seen": "2026-10-06",
+     "pct": 0,
+     "points_pct": 1
+    },
+    "B0HJB7F6GF": {
+     "last_seen": "2026-10-06",
+     "pct": 0,
+     "points_pct": 1
+    },
+    "B0HJB8GWLH": {
+     "last_seen": "2026-10-06",
+     "pct": 0,
+     "points_pct": 1
+    },
+    "B0HJBB5SK7": {
+     "last_seen": "2026-10-06",
+     "pct": 0,
+     "points_pct": 1
+    },
+    "B0HJBBZYPB": {
+     "last_seen": "2026-10-06",
+     "pct": 0,
+     "points_pct": 1
+    },
+    "B0HJBF4JLM": {
+     "last_seen": "2026-10-06",
+     "pct": 0,
+     "points_pct": 1
+    },
+    "B0HJBHDFXV": {
+     "last_seen": "2026-10-06",
+     "pct": 0,
+     "points_pct": 1
+    },
+    "B0HJBHDFY6": {
+     "last_seen": "2026-10-06",
+     "pct": 0,
+     "points_pct": 1
+    }
+   },
    "no_variations": false,
    "seed": "B0HJB8GWLH",
-   "variation_count": null
+   "variation_count": 16
   },
   "B0HJC9K517": {
    "aliases": {},
    "genre": "Apple製品",
    "label": "ワイヤレス充電ケース付きApple AirPods 5ワイヤレスイヤーバッド",
-   "last_sweep_at": null,
-   "members": {},
+   "last_sweep_at": "2026-10-06T01:07:15+09:00",
+   "members": {
+    "B0HJ9VNBZ8": {
+     "last_seen": "2026-10-06",
+     "pct": 0,
+     "points_pct": 1
+    },
+    "B0HJB2HN1R": {
+     "last_seen": "2026-10-06",
+     "pct": 0,
+     "points_pct": 1
+    }
+   },
    "no_variations": false,
    "seed": "B0HJB2HN1R",
-   "variation_count": null
+   "variation_count": 2
   },
   "B0HJH2TCDJ": {
    "aliases": {},
    "genre": "Apple製品",
    "label": "Apple AirPods 4 アクティブノイズ キャンセリング搭載、ワイヤレス",
-   "last_sweep_at": null,
-   "members": {},
+   "last_sweep_at": "2026-10-06T01:07:15+09:00",
+   "members": {
+    "B0DGJ63QY8": {
+     "last_seen": "2026-10-06",
+     "pct": null,
+     "points_pct": null
+    },
+    "B0DGJBNYVY": {
+     "last_seen": "2026-10-06",
+     "pct": 21,
+     "points_pct": 1
+    },
+    "B0DT3XJKH9": {
+     "last_seen": "2026-10-06",
+     "pct": 20,
+     "points_pct": 0
+    }
+   },
    "no_variations": false,
    "seed": "B0DGJBNYVY",
-   "variation_count": null
+   "variation_count": 3
   }
  },
  "version": 1
