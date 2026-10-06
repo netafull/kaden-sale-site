@@ -1280,6 +1280,22 @@
    "seed": "B0FQG91G3M",
    "variation_count": 8
   },
+  "B0FQHD1GNH": {
+   "aliases": {},
+   "genre": "Apple製品",
+   "label": "Apple iPhone 17 Pro Max 512GB (SIMフリー)：P",
+   "last_sweep_at": "2026-10-06T18:07:15+09:00",
+   "members": {
+    "B0FQFQDMQG": {
+     "last_seen": "2026-10-06",
+     "pct": 0,
+     "points_pct": 1
+    }
+   },
+   "no_variations": false,
+   "seed": "B0FQFQDMQG",
+   "variation_count": 1
+  },
   "B0FQHS9C5V": {
    "aliases": {},
    "genre": "Apple製品",
