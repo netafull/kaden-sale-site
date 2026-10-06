@@ -223,11 +223,11 @@
     "title": "UGREEN 145W モバイルバッテリー 20000mAh USB-Cケーブル内蔵 2C1A 多ポート",
     "percent_off": null
   },
-  "B0F37QVBNM": {
-    "first_seen": "2026-09-16",
-    "first_seen_at": "2026-09-16T21:14:55+09:00",
+  "B0F37VLJQW": {
+    "first_seen": "2026-09-15",
+    "first_seen_at": "2026-09-15T02:14:33+09:00",
     "last_seen": "2026-10-07",
-    "title": "UGREEN MagFlow Qi2 25W認証 モバイルバッテリー Magsafe マグネット式ワイヤレス急速充電 20000mAh 水色",
+    "title": "UGREEN MagFlow Qi2 25W認証 モバイルバッテリー Magsafe マグネット式ワイヤレス急速充電 10000mAh 水色",
     "percent_off": 25
   },
   "B0C3GTMX5M": {
@@ -328,6 +328,13 @@
     "title": "Belkin Qi2 車載ワイヤレス充電器 15W急速充電 MagSafe対応 スマホホルダー エアコン吹き出し口用",
     "percent_off": 36
   },
+  "B0D53Z4WX3": {
+    "first_seen": "2026-09-04",
+    "first_seen_at": "2026-09-04T22:14:48+09:00",
+    "last_seen": "2026-10-07",
+    "title": "CIO NovaPort TRIOⅡ 65W 3C PD急速充電器 USB-C×3 3台同時充電 軽量 世界最小級 (ブラック)",
+    "percent_off": null
+  },
   "B0GSVNFT8T": {
     "first_seen": "2026-09-30",
     "first_seen_at": "2026-09-30T05:14:49+09:00",
@@ -419,6 +426,20 @@
     "title": "UGREEN Nexode急速充電器 65W Type-C 2C1A 3ポート PD/PPS 4.5A/QC3.0/SCP/FCP対応 折り畳み式",
     "percent_off": null
   },
+  "B0DG93MZCR": {
+    "first_seen": "2026-07-27",
+    "first_seen_at": "2026-07-27T12:00:00+09:00",
+    "last_seen": "2026-10-07",
+    "title": "UGREEN PD充電器 type-c 30W 2*USB-C+1*USB-A GaN PSE適合/PD3.0 タイプc充電器 GaNⅡ type c",
+    "percent_off": null
+  },
+  "B0FJS3P8NT": {
+    "first_seen": "2026-07-27",
+    "first_seen_at": "2026-07-27T12:00:00+09:00",
+    "last_seen": "2026-10-07",
+    "title": "UGREEN 45W USB-C*4+USB-A*1 急速充電器 Type-C GaNⅡ タイプc PSE適合/PD3.0/PPS/SCP/QC3.0",
+    "percent_off": null
+  },
   "B0FH28F7SJ": {
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T19:14:35+09:00",
@@ -445,6 +466,13 @@
     "first_seen_at": "2026-07-31T12:00:00+09:00",
     "last_seen": "2026-10-07",
     "title": "Belkin Cubic Charger 45W 充電器 type-c iphone18対応 充電器 急速充電 PD3.2 PPS対応 ホワイト",
+    "percent_off": 15
+  },
+  "B0HJWLY91B": {
+    "first_seen": "2026-10-01",
+    "first_seen_at": "2026-10-01T00:15:17+09:00",
+    "last_seen": "2026-10-07",
+    "title": "エレコム 充電器 65W USB PD対応 3ポート Type-C USB-A 【 iPhone 16 15 14 iPad Macbook Air ノートPC】 ブラック EC-AC4465BK (× 3)",
     "percent_off": 15
   },
   "B0DMN94Q8M": {
@@ -495,6 +523,13 @@
     "last_seen": "2026-10-07",
     "title": "IODATA GigaCrysta ゲーミングモニター 27型 WQHD 200Hz MiniLED (HDMI/DP) EX-GDQ271JLAQ",
     "percent_off": 17
+  },
+  "B0DNKC8HXP": {
+    "first_seen": "2026-08-02",
+    "first_seen_at": "2026-08-02T11:33:18+09:00",
+    "last_seen": "2026-10-07",
+    "title": "INNOCN ゲーミングモニター 24.5インチ 200Hz IPS 1ms(GTG) フルHD 非光沢 フレームレス PS5/Xbox対応 Adaptive-Sync VESA100×100 HDMI2.0/DP1.4接続 25G2G",
+    "percent_off": null
   },
   "B0C9TKSP8V": {
     "first_seen": "2026-07-30",
@@ -657,6 +692,13 @@
     "title": "【Amazon.co.jp限定】 ロジクール 静音 ワイヤレス トラックボール マウス 無線 M575SPd 国内正規品",
     "percent_off": 41
   },
+  "B0FL6ZD3WL": {
+    "first_seen": "2026-07-29",
+    "first_seen_at": "2026-07-29T12:00:00+09:00",
+    "last_seen": "2026-10-07",
+    "title": "エレコム ワイヤレスキーボード Precisionist プレシジョニスト Bluetooth 無線2.4GHz マルチペアリング4台 充電式 薄型パンタグラフ式 フルサイズ ブラック TK-PN10FMPABK",
+    "percent_off": 40
+  },
   "B0FL77NZXM": {
     "first_seen": "2026-07-29",
     "first_seen_at": "2026-07-29T12:00:00+09:00",
@@ -692,6 +734,13 @@
     "title": "【Amazon.co.jp限定】 ロジクール 静音 ワイヤレス トラックボール マウス MX ERGO S MXTB2d 無線 グラファイト",
     "percent_off": 27
   },
+  "B088P8QYWN": {
+    "first_seen": "2026-10-06",
+    "first_seen_at": "2026-10-06T10:15:09+09:00",
+    "last_seen": "2026-10-07",
+    "title": "エレコム マウス ワイヤレス Mサイズ 5ボタン(戻る・進むボタン搭載) BlueLED 握りの極み ガンメタリック M-XGM10DBBK/EC",
+    "percent_off": 26
+  },
   "B0BKPL1VKW": {
     "first_seen": "2026-07-26",
     "first_seen_at": "2026-07-26T12:00:00+09:00",
@@ -712,13 +761,6 @@
     "last_seen": "2026-10-07",
     "title": "サンワサプライ USBハブ付コンパクトキーボード SKB-KG3UH2BK ブラック テンキーなし",
     "percent_off": 24
-  },
-  "B0927ZLPZ9": {
-    "first_seen": "2026-10-06",
-    "first_seen_at": "2026-10-06T21:15:02+09:00",
-    "last_seen": "2026-10-07",
-    "title": "【Amazon.co.jp限定】 ロジクール ワイヤレスマウス 静音 無線 M220RO ローズ 国内正規品",
-    "percent_off": 23
   },
   "B08K2RGTHY": {
     "first_seen": "2026-07-26",
@@ -818,6 +860,13 @@
     "title": "東プレ GX1 Keyboard 獅白ぼたん モデル 日本語配列 REALFORCE ゲーミングキーボード TKL 91キー X1UCS1 KB0911",
     "percent_off": 17
   },
+  "B09J46WG5D": {
+    "first_seen": "2026-10-06",
+    "first_seen_at": "2026-10-06T01:15:14+09:00",
+    "last_seen": "2026-10-07",
+    "title": "【Amazon.co.jp限定】 ロジクール ワイヤレスマウス 静音 無線 M220CG グレー 国内正規品",
+    "percent_off": 15
+  },
   "B0GGX35X72": {
     "first_seen": "2026-10-06",
     "first_seen_at": "2026-10-06T00:16:13+09:00",
@@ -867,18 +916,25 @@
     "title": "[山善] ノンフライヤー 4.5L 大容量 電気フライヤー ノンオイル エアフライヤー 3~5人用 家庭用 卓上 揚げ物 惣菜 タイマー 温度調節 レシピブック付き ブラック YAH-AC120(B)",
     "percent_off": 23
   },
+  "B0F37QVBNM": {
+    "first_seen": "2026-09-16",
+    "first_seen_at": "2026-09-16T21:14:55+09:00",
+    "last_seen": "2026-10-07",
+    "title": "UGREEN MagFlow Qi2 25W認証 モバイルバッテリー Magsafe マグネット式ワイヤレス急速充電 20000mAh 水色",
+    "percent_off": 25
+  },
+  "B0927ZLPZ9": {
+    "first_seen": "2026-10-06",
+    "first_seen_at": "2026-10-06T21:15:02+09:00",
+    "last_seen": "2026-10-07",
+    "title": "【Amazon.co.jp限定】 ロジクール ワイヤレスマウス 静音 無線 M220RO ローズ 国内正規品",
+    "percent_off": 23
+  },
   "B0DSPX4RQ5": {
     "first_seen": "2026-10-03",
     "first_seen_at": "2026-10-03T22:14:51+09:00",
     "last_seen": "2026-10-06",
     "title": "UGREEN 165W モバイルバッテリー【165W・25000mAh】ケーブル2本内蔵 4ポート 240W iPhone 18 Pro/Duo対応",
-    "percent_off": null
-  },
-  "B0D53Z4WX3": {
-    "first_seen": "2026-09-04",
-    "first_seen_at": "2026-09-04T22:14:48+09:00",
-    "last_seen": "2026-10-06",
-    "title": "CIO NovaPort TRIOⅡ 65W 3C PD急速充電器 USB-C×3 3台同時充電 軽量 世界最小級 (ブラック)",
     "percent_off": null
   },
   "B0D53T41CB": {
@@ -888,26 +944,12 @@
     "title": "CIO NovaPort DUOⅡ 65W PD急速充電器 USB-C×2 2台同時充電 世界最小級（ホワイト）",
     "percent_off": null
   },
-  "B0FJS3P8NT": {
-    "first_seen": "2026-07-27",
-    "first_seen_at": "2026-07-27T12:00:00+09:00",
-    "last_seen": "2026-10-06",
-    "title": "UGREEN 45W USB-C*4+USB-A*1 急速充電器 Type-C GaNⅡ タイプc PSE適合/PD3.0/PPS/SCP/QC3.0",
-    "percent_off": 25
-  },
   "B0982VFYYJ": {
     "first_seen": "2026-08-29",
     "first_seen_at": "2026-08-29T22:14:57+09:00",
     "last_seen": "2026-10-06",
     "title": "UGREEN Nexode急速充電器 100W Type-C 3C1A 4ポート PD3.0/PPS/QC3.0対応 折り畳み式 PSE適合",
     "percent_off": 23
-  },
-  "B0DG93MZCR": {
-    "first_seen": "2026-07-27",
-    "first_seen_at": "2026-07-27T12:00:00+09:00",
-    "last_seen": "2026-10-06",
-    "title": "UGREEN PD充電器 type-c 30W 2*USB-C+1*USB-A GaN PSE適合/PD3.0 タイプc充電器 GaNⅡ type c",
-    "percent_off": 20
   },
   "B0DMFFK5LV": {
     "first_seen": "2026-07-29",
@@ -929,13 +971,6 @@
     "last_seen": "2026-10-06",
     "title": "GARMIN(ガーミン) スマートウォッチ GPS Venu 2S Light Sand/Light Gold【日本正規品】 010-02429-61 小 ベージュ",
     "percent_off": 18
-  },
-  "B0FL6ZD3WL": {
-    "first_seen": "2026-07-29",
-    "first_seen_at": "2026-07-29T12:00:00+09:00",
-    "last_seen": "2026-10-06",
-    "title": "エレコム ワイヤレスキーボード Precisionist プレシジョニスト Bluetooth 無線2.4GHz マルチペアリング4台 充電式 薄型パンタグラフ式 フルサイズ ブラック TK-PN10FMPABK",
-    "percent_off": 40
   },
   "B0H33PTLSH": {
     "first_seen": "2026-10-06",
@@ -1070,13 +1105,6 @@
     "title": "Belkin MagSafe対応 ワイヤレスモバイルバッテリー 5000mAh 最大7.5W キックスタンド付き ブラック",
     "percent_off": 29
   },
-  "B0F37VLJQW": {
-    "first_seen": "2026-09-15",
-    "first_seen_at": "2026-09-15T02:14:33+09:00",
-    "last_seen": "2026-10-06",
-    "title": "UGREEN MagFlow Qi2 25W認証 モバイルバッテリー Magsafe マグネット式ワイヤレス急速充電 10000mAh 水色",
-    "percent_off": 25
-  },
   "B0FVLXBXKR": {
     "first_seen": "2026-08-16",
     "first_seen_at": "2026-08-16T22:04:14+09:00",
@@ -1125,13 +1153,6 @@
     "last_seen": "2026-10-06",
     "title": "【Amazon.co.jp限定】 ロジクール ワイヤレスマウス 無線 マウス M185RD M185 レッド 国内正規品",
     "percent_off": 30
-  },
-  "B088P8QYWN": {
-    "first_seen": "2026-10-06",
-    "first_seen_at": "2026-10-06T10:15:09+09:00",
-    "last_seen": "2026-10-06",
-    "title": "エレコム マウス ワイヤレス Mサイズ 5ボタン(戻る・進むボタン搭載) BlueLED 握りの極み ガンメタリック M-XGM10DBBK/EC",
-    "percent_off": 26
   },
   "B0BKP2XWY5": {
     "first_seen": "2026-10-06",
@@ -1224,13 +1245,6 @@
     "title": "エレコム ワイヤレスキーボード マウスセット メンブレン 薄型 フルキーボード ブラック TK-FDM110MBK",
     "percent_off": 16
   },
-  "B09J46WG5D": {
-    "first_seen": "2026-10-06",
-    "first_seen_at": "2026-10-06T01:15:14+09:00",
-    "last_seen": "2026-10-06",
-    "title": "【Amazon.co.jp限定】 ロジクール ワイヤレスマウス 静音 無線 M220CG グレー 国内正規品",
-    "percent_off": 15
-  },
   "B0FR8LPP2K": {
     "first_seen": "2026-10-06",
     "first_seen_at": "2026-10-06T01:15:14+09:00",
@@ -1244,13 +1258,6 @@
     "last_seen": "2026-10-06",
     "title": "Belkin MagSafe対応 ワイヤレスモバイルバッテリー 5000mAh 最大7.5W キックスタンド付き パープル",
     "percent_off": 45
-  },
-  "B0DNKC8HXP": {
-    "first_seen": "2026-08-02",
-    "first_seen_at": "2026-08-02T11:33:18+09:00",
-    "last_seen": "2026-10-06",
-    "title": "INNOCN ゲーミングモニター 24.5インチ 200Hz IPS 1ms(GTG) フルHD 非光沢 フレームレス PS5/Xbox対応 Adaptive-Sync VESA100×100 HDMI2.0/DP1.4接続 25G2G",
-    "percent_off": 22
   },
   "B0GR1KNBX2": {
     "first_seen": "2026-09-30",
@@ -2035,13 +2042,6 @@
     "last_seen": "2026-10-01",
     "title": "Apple 2026 MacBook Pro 18コアCPU、20コアGPUのM5 Proチップ搭載ノートパソコン：AIのために設計、14.2インチLiquid Retina XDRディスプレイ、24GBユニファイドメモリ、2TBのSSDストレージ - シルバー + 3年延長 AppleCare+ for 14インチMacBook Pro(M5 Pro/M5 Max)|ダウンロード版",
     "percent_off": 6
-  },
-  "B0HJWLY91B": {
-    "first_seen": "2026-10-01",
-    "first_seen_at": "2026-10-01T00:15:17+09:00",
-    "last_seen": "2026-10-01",
-    "title": "エレコム 充電器 65W USB PD対応 3ポート Type-C USB-A 【 iPhone 16 15 14 iPad Macbook Air ノートPC】 ブラック EC-AC4465BK (× 3)",
-    "percent_off": 41
   },
   "B0DFYFT76Z": {
     "first_seen": "2026-09-13",
