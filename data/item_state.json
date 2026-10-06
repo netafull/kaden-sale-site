@@ -195,13 +195,6 @@
     "title": "ソニー(SONY) WF-C710N ブラック ワイヤレスイヤホン 高性能ノイズキャンセリング Bluetoothロングバッテリー 外音取り込み IPX4防滴性能 軽量 コンパクト マルチポイント接続",
     "percent_off": 23
   },
-  "B0BRSJP3KF": {
-    "first_seen": "2026-09-24",
-    "first_seen_at": "2026-09-24T22:15:02+09:00",
-    "last_seen": "2026-10-06",
-    "title": "Belkin MagSafe対応 ワイヤレスモバイルバッテリー 5000mAh 最大7.5W キックスタンド付き パープル",
-    "percent_off": 45
-  },
   "B0FKH14VSL": {
     "first_seen": "2026-08-31",
     "first_seen_at": "2026-08-31T21:14:49+09:00",
@@ -300,6 +293,13 @@
     "title": "Belkin USB充電器 40W iPhone17,16～12 デュアルUSB-C(20W x 2) PD3.0 急速充電対応 ホワイト WCB006dqWHJP",
     "percent_off": 47
   },
+  "B0BF9ZYCQ5": {
+    "first_seen": "2026-07-31",
+    "first_seen_at": "2026-07-31T12:00:00+09:00",
+    "last_seen": "2026-10-06",
+    "title": "【VGP受賞】Belkin 充電器 USB-C 2ポート PPS規格対応 GaN採用 小型 ACアダプター タイプC 急速充電 軽量【PD3.0対応 /PSE認証/折りたたみ式プラグ】45W(25W+20W) MacBook Windows PC Surface Pro iPad iPhone 17,16～12対応 Galaxy Android スマホ 各種ノートPC対応 WCH011dqWH",
+    "percent_off": 42
+  },
   "B0FL1S48XY": {
     "first_seen": "2026-09-08",
     "first_seen_at": "2026-09-08T21:14:34+09:00",
@@ -314,13 +314,6 @@
     "title": "Anker Zolo Charger (70W, 4 Ports) ホワイト",
     "percent_off": 39
   },
-  "B0D53VJJ7F": {
-    "first_seen": "2026-07-28",
-    "first_seen_at": "2026-07-28T12:00:00+09:00",
-    "last_seen": "2026-10-06",
-    "title": "CIO NovaPort TRIOⅡ 65W 2C1A PD急速充電器 USB-C×2+USB-A×1 3台同時充電 世界最小級（ブラック）",
-    "percent_off": 37
-  },
   "B0FVM1C19Y": {
     "first_seen": "2026-07-31",
     "first_seen_at": "2026-07-31T12:00:00+09:00",
@@ -333,6 +326,13 @@
     "first_seen_at": "2026-09-30T05:14:49+09:00",
     "last_seen": "2026-10-06",
     "title": "UGREEN アップグレード版 100W充電器 USB-C×3/USB-A×1 4ポート充電器 PD3.0/PPS/QC4対応 36*64*64mm",
+    "percent_off": null
+  },
+  "B0D53VJJ7F": {
+    "first_seen": "2026-07-28",
+    "first_seen_at": "2026-07-28T12:00:00+09:00",
+    "last_seen": "2026-10-06",
+    "title": "CIO NovaPort TRIOⅡ 65W 2C1A PD急速充電器 USB-C×2+USB-A×1 3台同時充電 世界最小級（ブラック）",
     "percent_off": null
   },
   "B0B6N2ZPT4": {
@@ -566,13 +566,6 @@
     "title": "HUAWEI WATCH GT 6 Pro 46mm スマートウォッチ 大画面 GPS搭載 21日間バッテリー 心電図 ゴルフ GPS 通知 ブラック",
     "percent_off": 24
   },
-  "B0FS1BXD9Z": {
-    "first_seen": "2026-09-26",
-    "first_seen_at": "2026-09-26T17:14:36+09:00",
-    "last_seen": "2026-10-06",
-    "title": "GARMIN(ガーミン)Venu 4 Slate/Black 45mm スマートウォッチ AMOLED ディスプレイ ロングバッテリー 健康 フィットネス ワークアウト Suica対応/心拍センサー/ストレスレベル・睡眠時間測定/iOS・アンドロイド対応/心電図(ECG)アプリ対応モデル【日本正規品】",
-    "percent_off": 11
-  },
   "B0BWF162WJ": {
     "first_seen": "2026-09-21",
     "first_seen_at": "2026-09-21T17:14:46+09:00",
@@ -608,11 +601,11 @@
     "title": "GARMIN(ガーミン)スマートウォッチ Forerunner 170 Black/Amp Yellow スマートウォッチモード 約 10 日間 高精度GPS ランニングウォッチ iOS/Android AMOLEDディスプレイ1.2インチ マラソン 軽量 防水 心拍数 睡眠スコア 健康管理 Suicaタッチ決済 Garmin Pay",
     "percent_off": 17
   },
-  "B09R1TYM93": {
-    "first_seen": "2026-10-03",
-    "first_seen_at": "2026-10-03T21:14:56+09:00",
+  "B0B4JHS716": {
+    "first_seen": "2026-09-25",
+    "first_seen_at": "2026-09-25T10:14:58+09:00",
     "last_seen": "2026-10-06",
-    "title": "GARMIN(ガーミン) vivomove Sport Slate/Black ハイブリッドスマートウォッチ 【日本正規品】 小",
+    "title": "ガーミン vivomove Sport Peach Gold/Cocoa ハイブリッドスマートウォッチ 【日本正規品】 ユニセックス",
     "percent_off": 17
   },
   "B0GZ2NBP8V": {
@@ -923,12 +916,26 @@
     "title": "[山善] ノンフライヤー 4.5L 大容量 電気フライヤー ノンオイル エアフライヤー 3~5人用 家庭用 卓上 揚げ物 惣菜 タイマー 温度調節 レシピブック付き ブラック YAH-AC120(B)",
     "percent_off": 23
   },
-  "B0BF9ZYCQ5": {
-    "first_seen": "2026-07-31",
-    "first_seen_at": "2026-07-31T12:00:00+09:00",
+  "B0BRSJP3KF": {
+    "first_seen": "2026-09-24",
+    "first_seen_at": "2026-09-24T22:15:02+09:00",
     "last_seen": "2026-10-06",
-    "title": "【VGP受賞】Belkin 充電器 USB-C 2ポート PPS規格対応 GaN採用 小型 ACアダプター タイプC 急速充電 軽量【PD3.0対応 /PSE認証/折りたたみ式プラグ】45W(25W+20W) MacBook Windows PC Surface Pro iPad iPhone 17,16～12対応 Galaxy Android スマホ 各種ノートPC対応 WCH011dqWH",
-    "percent_off": 42
+    "title": "Belkin MagSafe対応 ワイヤレスモバイルバッテリー 5000mAh 最大7.5W キックスタンド付き パープル",
+    "percent_off": 45
+  },
+  "B0FS1BXD9Z": {
+    "first_seen": "2026-09-26",
+    "first_seen_at": "2026-09-26T17:14:36+09:00",
+    "last_seen": "2026-10-06",
+    "title": "GARMIN(ガーミン)Venu 4 Slate/Black 45mm スマートウォッチ AMOLED ディスプレイ ロングバッテリー 健康 フィットネス ワークアウト Suica対応/心拍センサー/ストレスレベル・睡眠時間測定/iOS・アンドロイド対応/心電図(ECG)アプリ対応モデル【日本正規品】",
+    "percent_off": 11
+  },
+  "B09R1TYM93": {
+    "first_seen": "2026-10-03",
+    "first_seen_at": "2026-10-03T21:14:56+09:00",
+    "last_seen": "2026-10-06",
+    "title": "GARMIN(ガーミン) vivomove Sport Slate/Black ハイブリッドスマートウォッチ 【日本正規品】 小",
+    "percent_off": 17
   },
   "B0FRSR6BVR": {
     "first_seen": "2026-08-07",
@@ -957,13 +964,6 @@
     "last_seen": "2026-10-06",
     "title": "Logicool Signature M550MGR ワイヤレスマウス 静音 Bluetooth レギュラー グラファイト ワイヤレス マウス 無線 Logi Bolt Unifying非対応 windows mac iPad Android Chrome OS スクロールホイール 無線マウス 静音マウス M550 国内正規品 (× 3)",
     "percent_off": 31
-  },
-  "B0B4JHS716": {
-    "first_seen": "2026-09-25",
-    "first_seen_at": "2026-09-25T10:14:58+09:00",
-    "last_seen": "2026-10-06",
-    "title": "ガーミン vivomove Sport Peach Gold/Cocoa ハイブリッドスマートウォッチ 【日本正規品】 ユニセックス",
-    "percent_off": 17
   },
   "B0B2QQDKR8": {
     "first_seen": "2026-07-27",
