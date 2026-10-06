@@ -510,6 +510,13 @@
     "title": "ASUS ゲーミングモニター ROG Strix XG259CS-J (24.5インチ/1920x1080/Fast IPS/180Hz/1ms(GTG)/HDR/USB Type-C/DisplayPort 1.4/HDMI/国内正規品)",
     "percent_off": 20
   },
+  "B0FPF1HGT8": {
+    "first_seen": "2026-10-06",
+    "first_seen_at": "2026-10-06T09:15:37+09:00",
+    "last_seen": "2026-10-06",
+    "title": "Dell S2725DC 27インチ モニター",
+    "percent_off": 19
+  },
   "B0F9WJLW45": {
     "first_seen": "2026-10-06",
     "first_seen_at": "2026-10-06T00:16:13+09:00",
@@ -599,13 +606,6 @@
     "first_seen_at": "2026-08-16T00:38:29+09:00",
     "last_seen": "2026-10-06",
     "title": "GARMIN(ガーミン)スマートウォッチ Forerunner 170 Black/Amp Yellow スマートウォッチモード 約 10 日間 高精度GPS ランニングウォッチ iOS/Android AMOLEDディスプレイ1.2インチ マラソン 軽量 防水 心拍数 睡眠スコア 健康管理 Suicaタッチ決済 Garmin Pay",
-    "percent_off": 17
-  },
-  "B0B4JHS716": {
-    "first_seen": "2026-09-25",
-    "first_seen_at": "2026-09-25T10:14:58+09:00",
-    "last_seen": "2026-10-06",
-    "title": "ガーミン vivomove Sport Peach Gold/Cocoa ハイブリッドスマートウォッチ 【日本正規品】 ユニセックス",
     "percent_off": 17
   },
   "B0GZ2NBP8V": {
@@ -755,18 +755,18 @@
     "title": "ロジクール ワイヤレスマウス 静音 無線 高速スクロール Signature M650MGR レギュラー グラファイト M650 国内正規品",
     "percent_off": 21
   },
-  "B0FDQL8KNL": {
-    "first_seen": "2026-10-06",
-    "first_seen_at": "2026-10-06T00:16:13+09:00",
-    "last_seen": "2026-10-06",
-    "title": "【Amazon.co.jp限定】 ロジクール Bluetooth ワイヤレスキーボード 無線 K250GRd 日本語配列 グラファイト 国内正規品",
-    "percent_off": 21
-  },
   "B07PJW2X2F": {
     "first_seen": "2026-07-26",
     "first_seen_at": "2026-07-26T12:00:00+09:00",
     "last_seen": "2026-10-06",
     "title": "エレコム ワイヤレスキーボード メンブレン 薄型 フルキーボード テンキー ブラック TK-FDM110TXBK",
+    "percent_off": 21
+  },
+  "B0FDQL8KNL": {
+    "first_seen": "2026-10-06",
+    "first_seen_at": "2026-10-06T00:16:13+09:00",
+    "last_seen": "2026-10-06",
+    "title": "【Amazon.co.jp限定】 ロジクール Bluetooth ワイヤレスキーボード 無線 K250GRd 日本語配列 グラファイト 国内正規品",
     "percent_off": 21
   },
   "B0GL26M6Z2": {
@@ -908,6 +908,13 @@
     "last_seen": "2026-10-06",
     "title": "[山善] ノンフライヤー 4.5L 大容量 電気フライヤー ノンオイル エアフライヤー 3~5人用 家庭用 卓上 揚げ物 惣菜 タイマー 温度調節 レシピブック付き ブラック YAH-AC120(B)",
     "percent_off": 23
+  },
+  "B0B4JHS716": {
+    "first_seen": "2026-09-25",
+    "first_seen_at": "2026-09-25T10:14:58+09:00",
+    "last_seen": "2026-10-06",
+    "title": "ガーミン vivomove Sport Peach Gold/Cocoa ハイブリッドスマートウォッチ 【日本正規品】 ユニセックス",
+    "percent_off": 17
   },
   "B0B2QQDKR8": {
     "first_seen": "2026-07-27",
