@@ -447,19 +447,19 @@
     "title": "UGREEN 45W USB-C*4+USB-A*1 急速充電器 Type-C GaNⅡ タイプc PSE適合/PD3.0/PPS/SCP/QC3.0",
     "percent_off": null
   },
-  "B0FH28F7SJ": {
-    "first_seen": "2026-09-13",
-    "first_seen_at": "2026-09-13T19:14:35+09:00",
-    "last_seen": "2026-10-07",
-    "title": "Belkin Qi2 25W ワイヤレス充電器 MagSafe対応 3in1充電スタンド iPhone 18・Apple Watch対応 3台同時充電",
-    "percent_off": 19
-  },
   "B0CD1NVW7R": {
     "first_seen": "2026-09-15",
     "first_seen_at": "2026-09-15T23:14:42+09:00",
     "last_seen": "2026-10-07",
     "title": "UGREEN 当社比超薄15mm NexodePro充電器 65W Type-C 2C1A 3ポート PD3.0/PPS4.5A 対応 折り畳み式",
     "percent_off": null
+  },
+  "B0F43NCQ25": {
+    "first_seen": "2026-10-06",
+    "first_seen_at": "2026-10-06T01:15:14+09:00",
+    "last_seen": "2026-10-07",
+    "title": "エレコム 充電器 100W 3ポート Type-C USB-A USB PD対応 スイング式プラグ採用 ブラック EC-AC104100BK",
+    "percent_off": 18
   },
   "B0DMCPT5PV": {
     "first_seen": "2026-10-07",
@@ -468,18 +468,25 @@
     "title": "バッファロー 充電器 20W 2ポート USB-C & USB-A PD対応 GaN 折りたたみ式 PSE適合 BSACPD2015C2WH",
     "percent_off": 16
   },
+  "B0FH2981XZ": {
+    "first_seen": "2026-09-14",
+    "first_seen_at": "2026-09-14T21:14:43+09:00",
+    "last_seen": "2026-10-07",
+    "title": "Belkin Qi2 25W ワイヤレス充電器 MagSafe対応 3in1充電スタンド iPhone 18・Apple Watch対応 3台同時充電",
+    "percent_off": 16
+  },
+  "B0C8HMLHTB": {
+    "first_seen": "2026-10-06",
+    "first_seen_at": "2026-10-06T03:15:02+09:00",
+    "last_seen": "2026-10-07",
+    "title": "エレコム 充電器 65W USB PD対応 3ポート Type-C USB-A 【 iPhone 16 15 14 iPad Macbook Air ノートPC】 ブラック EC-AC4465BK",
+    "percent_off": 15
+  },
   "B0DHTT13KN": {
     "first_seen": "2026-07-31",
     "first_seen_at": "2026-07-31T12:00:00+09:00",
     "last_seen": "2026-10-07",
     "title": "Belkin Cubic Charger 45W 充電器 type-c iphone18対応 充電器 急速充電 PD3.2 PPS対応 ホワイト",
-    "percent_off": 15
-  },
-  "B0HJWLY91B": {
-    "first_seen": "2026-10-01",
-    "first_seen_at": "2026-10-01T00:15:17+09:00",
-    "last_seen": "2026-10-07",
-    "title": "エレコム 充電器 65W USB PD対応 3ポート Type-C USB-A 【 iPhone 16 15 14 iPad Macbook Air ノートPC】 ブラック EC-AC4465BK (× 3)",
     "percent_off": 15
   },
   "B0DMN94Q8M": {
@@ -607,6 +614,13 @@
     "last_seen": "2026-10-07",
     "title": "GARMIN(ガーミン)スマートウォッチ Forerunner 170 Whitestone/Cloud Blue スマートウォッチモード 約 10 日間 高精度GPS ランニングウォッチ iOS/Android AMOLEDディスプレイ1.2インチ マラソン 軽量 防水 心拍数 睡眠スコア 健康管理 Suicaタッチ決済 Garmin Pay",
     "percent_off": 17
+  },
+  "B0GX8DRYCX": {
+    "first_seen": "2026-09-03",
+    "first_seen_at": "2026-09-03T12:14:47+09:00",
+    "last_seen": "2026-10-07",
+    "title": "HUAWEI WATCH FIT 5 スマートウォッチ 薄型軽量 大画面 GPS内蔵 10日間ロングバッテリー 通知 健康管理 心拍数 睡眠 ブラック",
+    "percent_off": 16
   },
   "B0H1BW1165": {
     "first_seen": "2026-09-29",
@@ -923,6 +937,20 @@
     "title": "[山善] ノンフライヤー 4.5L 大容量 電気フライヤー ノンオイル エアフライヤー 3~5人用 家庭用 卓上 揚げ物 惣菜 タイマー 温度調節 レシピブック付き ブラック YAH-AC120(B)",
     "percent_off": 23
   },
+  "B0FH28F7SJ": {
+    "first_seen": "2026-09-13",
+    "first_seen_at": "2026-09-13T19:14:35+09:00",
+    "last_seen": "2026-10-07",
+    "title": "Belkin Qi2 25W ワイヤレス充電器 MagSafe対応 3in1充電スタンド iPhone 18・Apple Watch対応 3台同時充電",
+    "percent_off": 19
+  },
+  "B0HJWLY91B": {
+    "first_seen": "2026-10-01",
+    "first_seen_at": "2026-10-01T00:15:17+09:00",
+    "last_seen": "2026-10-07",
+    "title": "エレコム 充電器 65W USB PD対応 3ポート Type-C USB-A 【 iPhone 16 15 14 iPad Macbook Air ノートPC】 ブラック EC-AC4465BK (× 3)",
+    "percent_off": 15
+  },
   "B0DT3XJKH9": {
     "first_seen": "2026-09-05",
     "first_seen_at": "2026-09-05T21:15:05+09:00",
@@ -936,13 +964,6 @@
     "last_seen": "2026-10-07",
     "title": "【セット販売】【超小型】SwitchBot ロボット掃除機 K11+ ホワイト＋サイドブラシ（4個セット）",
     "percent_off": 17
-  },
-  "B0GX8DRYCX": {
-    "first_seen": "2026-09-03",
-    "first_seen_at": "2026-09-03T12:14:47+09:00",
-    "last_seen": "2026-10-07",
-    "title": "HUAWEI WATCH FIT 5 スマートウォッチ 薄型軽量 大画面 GPS内蔵 10日間ロングバッテリー 通知 健康管理 心拍数 睡眠 ブラック",
-    "percent_off": 16
   },
   "B0BWF2TM8R": {
     "first_seen": "2026-09-21",
@@ -1034,13 +1055,6 @@
     "last_seen": "2026-10-06",
     "title": "UGREEN 卓上急速充電器 300W Type-C 4C1A 5ポート 単ポート140W常時対応 縦型省スペース PD3.1/PPS 5A対応",
     "percent_off": 17
-  },
-  "B0FH2981XZ": {
-    "first_seen": "2026-09-14",
-    "first_seen_at": "2026-09-14T21:14:43+09:00",
-    "last_seen": "2026-10-06",
-    "title": "Belkin Qi2 25W ワイヤレス充電器 MagSafe対応 3in1充電スタンド iPhone 18・Apple Watch対応 3台同時充電",
-    "percent_off": 16
   },
   "B0DMN885ZF": {
     "first_seen": "2026-08-05",
@@ -1161,13 +1175,6 @@
     "title": "Belkin Qi2 車載ワイヤレス充電器 15W急速充電 MagSafe対応 スマホホルダー ダッシュボード用",
     "percent_off": 33
   },
-  "B0C8HMLHTB": {
-    "first_seen": "2026-10-06",
-    "first_seen_at": "2026-10-06T03:15:02+09:00",
-    "last_seen": "2026-10-06",
-    "title": "エレコム 充電器 65W USB PD対応 3ポート Type-C USB-A 【 iPhone 16 15 14 iPad Macbook Air ノートPC】 ブラック EC-AC4465BK",
-    "percent_off": 15
-  },
   "B0D9896MPY": {
     "first_seen": "2026-10-02",
     "first_seen_at": "2026-10-02T22:14:44+09:00",
@@ -1251,13 +1258,6 @@
     "last_seen": "2026-10-06",
     "title": "Anker 511 Charger (Nano 3, 30W) ホワイト",
     "percent_off": null
-  },
-  "B0F43NCQ25": {
-    "first_seen": "2026-10-06",
-    "first_seen_at": "2026-10-06T01:15:14+09:00",
-    "last_seen": "2026-10-06",
-    "title": "エレコム 充電器 100W 3ポート Type-C USB-A USB PD対応 スイング式プラグ採用 ブラック EC-AC104100BK",
-    "percent_off": 18
   },
   "B0BRSJP3KF": {
     "first_seen": "2026-09-24",
