@@ -454,13 +454,6 @@
     "title": "UGREEN 当社比超薄15mm NexodePro充電器 65W Type-C 2C1A 3ポート PD3.0/PPS4.5A 対応 折り畳み式",
     "percent_off": null
   },
-  "B0F43NCQ25": {
-    "first_seen": "2026-10-06",
-    "first_seen_at": "2026-10-06T01:15:14+09:00",
-    "last_seen": "2026-10-07",
-    "title": "エレコム 充電器 100W 3ポート Type-C USB-A USB PD対応 スイング式プラグ採用 ブラック EC-AC104100BK",
-    "percent_off": 18
-  },
   "B0DMCPT5PV": {
     "first_seen": "2026-10-07",
     "first_seen_at": "2026-10-07T00:14:58+09:00",
@@ -691,13 +684,6 @@
     "last_seen": "2026-10-07",
     "title": "【Amazon.co.jp限定】 ロジクール 静音 ワイヤレス トラックボール マウス 無線 M575SPd 国内正規品",
     "percent_off": 41
-  },
-  "B0FL6ZD3WL": {
-    "first_seen": "2026-07-29",
-    "first_seen_at": "2026-07-29T12:00:00+09:00",
-    "last_seen": "2026-10-07",
-    "title": "エレコム ワイヤレスキーボード Precisionist プレシジョニスト Bluetooth 無線2.4GHz マルチペアリング4台 充電式 薄型パンタグラフ式 フルサイズ ブラック TK-PN10FMPABK",
-    "percent_off": 40
   },
   "B0FL77NZXM": {
     "first_seen": "2026-07-29",
@@ -936,6 +922,20 @@
     "last_seen": "2026-10-07",
     "title": "[山善] ノンフライヤー 4.5L 大容量 電気フライヤー ノンオイル エアフライヤー 3~5人用 家庭用 卓上 揚げ物 惣菜 タイマー 温度調節 レシピブック付き ブラック YAH-AC120(B)",
     "percent_off": 23
+  },
+  "B0F43NCQ25": {
+    "first_seen": "2026-10-06",
+    "first_seen_at": "2026-10-06T01:15:14+09:00",
+    "last_seen": "2026-10-07",
+    "title": "エレコム 充電器 100W 3ポート Type-C USB-A USB PD対応 スイング式プラグ採用 ブラック EC-AC104100BK",
+    "percent_off": 18
+  },
+  "B0FL6ZD3WL": {
+    "first_seen": "2026-07-29",
+    "first_seen_at": "2026-07-29T12:00:00+09:00",
+    "last_seen": "2026-10-07",
+    "title": "エレコム ワイヤレスキーボード Precisionist プレシジョニスト Bluetooth 無線2.4GHz マルチペアリング4台 充電式 薄型パンタグラフ式 フルサイズ ブラック TK-PN10FMPABK",
+    "percent_off": 40
   },
   "B0FH28F7SJ": {
     "first_seen": "2026-09-13",
