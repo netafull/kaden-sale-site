@@ -37,7 +37,7 @@
    },
    "genre": "Apple製品",
    "label": "2022 Apple TV 4K 128GBストレージ搭載Wi‑Fi + Eth",
-   "last_sweep_at": "2026-10-06T11:07:11+09:00",
+   "last_sweep_at": "2026-10-06T17:07:13+09:00",
    "members": {
     "B0BJLHHQ7H": {
      "last_seen": "2026-10-06",
@@ -78,7 +78,7 @@
    "aliases": {},
    "genre": "Apple製品",
    "label": "Apple Watch Band - 41mmケース用ライトピンクスポーツバンド",
-   "last_sweep_at": "2026-10-06T11:07:11+09:00",
+   "last_sweep_at": "2026-10-06T17:07:13+09:00",
    "members": {
     "B0CHX1VB2D": {
      "last_seen": "2026-10-06",
@@ -179,7 +179,7 @@
    "aliases": {},
    "genre": "Apple製品",
    "label": "Apple Watch Band - 46mm Natural Link Bra",
-   "last_sweep_at": "2026-10-06T11:07:11+09:00",
+   "last_sweep_at": "2026-10-06T17:07:13+09:00",
    "members": {
     "B0DGJL1BBK": {
      "last_seen": "2026-10-06",
@@ -205,7 +205,7 @@
    "aliases": {},
    "genre": "Apple製品",
    "label": "Apple Watch Band - Ocean Band - (49mm)ケー",
-   "last_sweep_at": "2026-10-06T11:07:11+09:00",
+   "last_sweep_at": "2026-10-06T17:07:13+09:00",
    "members": {
     "B0DGJ587GY": {
      "last_seen": "2026-10-06",
@@ -276,7 +276,7 @@
    "aliases": {},
    "genre": "Apple製品",
    "label": "Apple Watch Band - 46mmケース用ストーングレイスポーツバン",
-   "last_sweep_at": "2026-10-06T11:07:11+09:00",
+   "last_sweep_at": "2026-10-06T17:07:13+09:00",
    "members": {
     "B0DGJ2SJCL": {
      "last_seen": "2026-10-06",
@@ -560,23 +560,64 @@
   },
   "B0DNQBK6BV": {
    "aliases": {
-    "B0DL6PS74M": "2026-10-06",
     "B0DL77YLR7": "2026-10-06",
-    "B0DL783NXK": "2026-10-06",
-    "B0DL78FFFR": "2026-10-06",
-    "B0DL78NHX7": "2026-10-06",
     "B0DL7CSGCG": "2026-10-06"
    },
    "genre": "Apple製品",
    "label": "Apple 2024 iMac 8 コア CPU、8 コア GPU の M4 チ",
-   "last_sweep_at": "2026-10-06T11:07:11+09:00",
+   "last_sweep_at": "2026-10-06T17:07:13+09:00",
    "members": {
+    "B0DL6MTB5K": {
+     "last_seen": "2026-10-06",
+     "pct": 0,
+     "points_pct": 1
+    },
     "B0DL6PRKX9": {
      "last_seen": "2026-10-06",
      "pct": 0,
      "points_pct": 1
     },
+    "B0DL6PS74M": {
+     "last_seen": "2026-10-06",
+     "pct": 0,
+     "points_pct": 1
+    },
+    "B0DL6RT3DN": {
+     "last_seen": "2026-10-06",
+     "pct": 0,
+     "points_pct": 1
+    },
+    "B0DL72ZHHF": {
+     "last_seen": "2026-10-06",
+     "pct": 0,
+     "points_pct": 1
+    },
     "B0DL75NDN8": {
+     "last_seen": "2026-10-06",
+     "pct": 0,
+     "points_pct": 1
+    },
+    "B0DL76T2FJ": {
+     "last_seen": "2026-10-06",
+     "pct": 0,
+     "points_pct": 1
+    },
+    "B0DL783NXK": {
+     "last_seen": "2026-10-06",
+     "pct": 0,
+     "points_pct": 1
+    },
+    "B0DL78FFFR": {
+     "last_seen": "2026-10-06",
+     "pct": 0,
+     "points_pct": 1
+    },
+    "B0DL78NHX7": {
+     "last_seen": "2026-10-06",
+     "pct": 0,
+     "points_pct": 1
+    },
+    "B0DL79BMXJ": {
      "last_seen": "2026-10-06",
      "pct": 0,
      "points_pct": 1
@@ -589,13 +630,13 @@
    },
    "no_variations": false,
    "seed": "B0DL6PRKX9",
-   "variation_count": 3
+   "variation_count": 12
   },
   "B0DNQBNQ12": {
    "aliases": {},
    "genre": "Apple製品",
    "label": "Apple iPad mini(A17 Pro):Apple Intellige",
-   "last_sweep_at": "2026-10-06T11:07:11+09:00",
+   "last_sweep_at": "2026-10-06T17:07:13+09:00",
    "members": {
     "B0DK434GZL": {
      "last_seen": "2026-10-06",
@@ -746,7 +787,7 @@
    "aliases": {},
    "genre": "Apple製品",
    "label": "Apple 11インチiPad Pro（M5）用Magic Keyboard -",
-   "last_sweep_at": "2026-10-06T11:07:11+09:00",
+   "last_sweep_at": "2026-10-06T17:07:13+09:00",
    "members": {
     "B0D3J7RLZN": {
      "last_seen": "2026-10-06",
@@ -762,7 +803,7 @@
    "aliases": {},
    "genre": "Apple製品",
    "label": "iPad(A16と第10世代)用Magic Keyboard Folio - 日",
-   "last_sweep_at": "2026-10-06T11:07:11+09:00",
+   "last_sweep_at": "2026-10-06T17:07:13+09:00",
    "members": {
     "B0BJN7ZJF6": {
      "last_seen": "2026-10-06",
@@ -778,7 +819,7 @@
    "aliases": {},
    "genre": "Apple製品",
    "label": "Apple 13インチiPad Pro（M5）用Magic Keyboard -",
-   "last_sweep_at": "2026-10-06T11:07:11+09:00",
+   "last_sweep_at": "2026-10-06T17:07:13+09:00",
    "members": {
     "B0D3J6Y26W": {
      "last_seen": "2026-10-06",
@@ -861,7 +902,7 @@
    },
    "genre": "Apple製品",
    "label": "Apple 11 インチ iPad (A16): 11 インチモデル、Liqui",
-   "last_sweep_at": "2026-10-06T11:07:11+09:00",
+   "last_sweep_at": "2026-10-06T17:07:13+09:00",
    "members": {
     "B0DZ7VR1V5": {
      "last_seen": "2026-10-06",
@@ -883,6 +924,11 @@
      "pct": 0,
      "points_pct": 1
     },
+    "B0DZ82QWKP": {
+     "last_seen": "2026-10-06",
+     "pct": 0,
+     "points_pct": 1
+    },
     "B0DZ83BVR4": {
      "last_seen": "2026-10-06",
      "pct": 0,
@@ -890,8 +936,8 @@
     },
     "B0DZ895SXY": {
      "last_seen": "2026-10-06",
-     "pct": 0,
-     "points_pct": 0
+     "pct": null,
+     "points_pct": null
     },
     "B0DZ8BQ2PB": {
      "last_seen": "2026-10-06",
@@ -944,6 +990,11 @@
      "points_pct": 0
     },
     "B0F4WHFY47": {
+     "last_seen": "2026-10-06",
+     "pct": 0,
+     "points_pct": 0
+    },
+    "B0F4WLJD5B": {
      "last_seen": "2026-10-06",
      "pct": 0,
      "points_pct": 0
@@ -1008,6 +1059,11 @@
      "pct": 3,
      "points_pct": 0
     },
+    "B0GXXPVZM2": {
+     "last_seen": "2026-10-06",
+     "pct": 0,
+     "points_pct": 0
+    },
     "B0GXXQQ29Q": {
      "last_seen": "2026-10-06",
      "pct": 3,
@@ -1036,13 +1092,13 @@
    },
    "no_variations": false,
    "seed": "B0DZ7VR1V5",
-   "variation_count": 31
+   "variation_count": 32
   },
   "B0F5GPBW6S": {
    "aliases": {},
    "genre": "Apple製品",
    "label": "Apple Pencil (USB-C): ピクセルレベルの精度。傾きを感知する",
-   "last_sweep_at": "2026-10-06T11:07:11+09:00",
+   "last_sweep_at": "2026-10-06T17:07:13+09:00",
    "members": {
     "B0CL7Z6M4J": {
      "last_seen": "2026-10-06",
@@ -1093,7 +1149,7 @@
    "aliases": {},
    "genre": "Apple製品",
    "label": "Magic Trackpad (USB-C) - ホワイト(Multi-Touc",
-   "last_sweep_at": "2026-10-06T11:07:11+09:00",
+   "last_sweep_at": "2026-10-06T17:07:13+09:00",
    "members": {
     "B0DL6WXF1G": {
      "last_seen": "2026-10-06",
@@ -1228,7 +1284,7 @@
    "aliases": {},
    "genre": "Apple製品",
    "label": "Apple Watch Series 11(GPSモデル)- 42mmローズゴー",
-   "last_sweep_at": "2026-10-06T11:07:11+09:00",
+   "last_sweep_at": "2026-10-06T17:07:13+09:00",
    "members": {
     "B0FQFJ1XJN": {
      "last_seen": "2026-10-06",
@@ -1395,7 +1451,7 @@
    "aliases": {},
    "genre": "Apple製品",
    "label": "Apple iPhone Air 512GB (SIMフリー)",
-   "last_sweep_at": "2026-10-06T11:07:11+09:00",
+   "last_sweep_at": "2026-10-06T17:07:13+09:00",
    "members": {
     "B0FQFHZ5KH": {
      "last_seen": "2026-10-06",
@@ -1912,7 +1968,7 @@
    "aliases": {},
    "genre": "Apple製品",
    "label": "Apple AirPods Pro 3 ワイヤレスイヤホン、アクティブノイズキャ",
-   "last_sweep_at": "2026-10-06T11:07:11+09:00",
+   "last_sweep_at": "2026-10-06T17:07:13+09:00",
    "members": {
     "B0FQFQDN6K": {
      "last_seen": "2026-10-06",
