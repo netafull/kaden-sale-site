@@ -328,13 +328,6 @@
     "title": "Belkin Qi2 車載ワイヤレス充電器 15W急速充電 MagSafe対応 スマホホルダー エアコン吹き出し口用",
     "percent_off": 36
   },
-  "B0D53Z4WX3": {
-    "first_seen": "2026-09-04",
-    "first_seen_at": "2026-09-04T22:14:48+09:00",
-    "last_seen": "2026-10-07",
-    "title": "CIO NovaPort TRIOⅡ 65W 3C PD急速充電器 USB-C×3 3台同時充電 軽量 世界最小級 (ブラック)",
-    "percent_off": null
-  },
   "B0GSVNFT8T": {
     "first_seen": "2026-09-30",
     "first_seen_at": "2026-09-30T05:14:49+09:00",
@@ -411,6 +404,13 @@
     "last_seen": "2026-10-07",
     "title": "Anker Nano Charger (45W, Display, スイングプラグ) ブルー",
     "percent_off": 25
+  },
+  "B0G64NF1FQ": {
+    "first_seen": "2026-09-16",
+    "first_seen_at": "2026-09-16T01:14:30+09:00",
+    "last_seen": "2026-10-07",
+    "title": "UGREEN Air急速充電器 45W Type-C 薄型設計 当社比67%小型化超薄モデル PD3.0/PPS/QC4/SCP対応 折り畳み式",
+    "percent_off": null
   },
   "B0F43M6SBB": {
     "first_seen": "2026-10-06",
@@ -804,6 +804,13 @@
     "title": "ロジクール ワイヤレスマウス PEBBLE MOUSE2 M350sGR 薄型 静音 Bluetooth Logi Bolt マウス 無線 ワイヤレス 左右対称 Easy-Switch 4000dpi 電池寿命24ケ月 windows mac Chrome Android iPad M350 グラファイト 国内正規品",
     "percent_off": 19
   },
+  "B0FGCDSH1J": {
+    "first_seen": "2026-10-06",
+    "first_seen_at": "2026-10-06T01:15:14+09:00",
+    "last_seen": "2026-10-07",
+    "title": "【Amazon.co.jp限定】Logicool G ラピッドトリガー G515 RAPID ゲーミングキーボード G515-TKL-RTBKd",
+    "percent_off": 19
+  },
   "B08K2CHMWK": {
     "first_seen": "2026-08-04",
     "first_seen_at": "2026-08-04T18:28:41+09:00",
@@ -846,13 +853,6 @@
     "title": "【Amazon.co.jp限定】 ロジクール ワイヤレスキーボード Bluetooth KEYS TO GO 2 iK1043GRUd 国内正規品",
     "percent_off": 17
   },
-  "B09MQ9KK6P": {
-    "first_seen": "2026-10-06",
-    "first_seen_at": "2026-10-06T23:15:46+09:00",
-    "last_seen": "2026-10-07",
-    "title": "エレコム ワイヤレスキーボード Bluetooth 静音 TK-FFBM03SKBK 最大3台マルチペアリング対応 抗菌 iPad/macbook/Surface/Chromebook テンキー付 ブラック",
-    "percent_off": 16
-  },
   "B0DPF33WVV": {
     "first_seen": "2026-09-17",
     "first_seen_at": "2026-09-17T00:14:58+09:00",
@@ -881,18 +881,18 @@
     "title": "ロジクール MX ANYWHERE 3S MX1800GR 静音 マウス Bluetooth Logi Bolt Unifying非対応 コンパクト Smart Actions 対応 高速スクロールホイール 充電式 ワイヤレスマウス 無線 Windows Mac Chrome iPad OS Android MX1800 グラファイト 国内正規品",
     "percent_off": 15
   },
-  "B0CZ8X3DH8": {
-    "first_seen": "2026-07-26",
-    "first_seen_at": "2026-07-26T12:00:00+09:00",
-    "last_seen": "2026-10-07",
-    "title": "ロジクール SIGNATURE SLIM ワイヤレス キーボード K950GR 薄型 静かなタイピング Bluetooth Logi Bolt ワイヤレスキーボード テンキー 無線 Easy-Switch 日本語配列 電池寿命36ケ月 Windows Mac Chrome Android K950 グラファイト 国内正規品",
-    "percent_off": 15
-  },
   "B08TMK8GSC": {
     "first_seen": "2026-10-06",
     "first_seen_at": "2026-10-06T01:15:14+09:00",
     "last_seen": "2026-10-07",
     "title": "エレコム ワイヤレスキーボード Bluetooth フルキーボード テンキー付 薄型 メンブレン 抗菌 最大3台マルチペアリング対応 iPad/Surface/テンキー付 ブラック TK-FBM120KBK/EC",
+    "percent_off": 15
+  },
+  "B0CZ8X3DH8": {
+    "first_seen": "2026-07-26",
+    "first_seen_at": "2026-07-26T12:00:00+09:00",
+    "last_seen": "2026-10-07",
+    "title": "ロジクール SIGNATURE SLIM ワイヤレス キーボード K950GR 薄型 静かなタイピング Bluetooth Logi Bolt ワイヤレスキーボード テンキー 無線 Easy-Switch 日本語配列 電池寿命36ケ月 Windows Mac Chrome Android K950 グラファイト 国内正規品",
     "percent_off": 15
   },
   "B0H8DWK932": {
@@ -915,6 +915,20 @@
     "last_seen": "2026-10-07",
     "title": "[山善] ノンフライヤー 4.5L 大容量 電気フライヤー ノンオイル エアフライヤー 3~5人用 家庭用 卓上 揚げ物 惣菜 タイマー 温度調節 レシピブック付き ブラック YAH-AC120(B)",
     "percent_off": 23
+  },
+  "B0D53Z4WX3": {
+    "first_seen": "2026-09-04",
+    "first_seen_at": "2026-09-04T22:14:48+09:00",
+    "last_seen": "2026-10-07",
+    "title": "CIO NovaPort TRIOⅡ 65W 3C PD急速充電器 USB-C×3 3台同時充電 軽量 世界最小級 (ブラック)",
+    "percent_off": null
+  },
+  "B09MQ9KK6P": {
+    "first_seen": "2026-10-06",
+    "first_seen_at": "2026-10-06T23:15:46+09:00",
+    "last_seen": "2026-10-07",
+    "title": "エレコム ワイヤレスキーボード Bluetooth 静音 TK-FFBM03SKBK 最大3台マルチペアリング対応 抗菌 iPad/macbook/Surface/Chromebook テンキー付 ブラック",
+    "percent_off": 16
   },
   "B0F37QVBNM": {
     "first_seen": "2026-09-16",
@@ -957,13 +971,6 @@
     "last_seen": "2026-10-06",
     "title": "UGREEN 45W USB-C*2+USB-A*1 急速充電器 Type-C PD GaN PSE適合タイプc充電器 PD/PPS/QC3.0",
     "percent_off": null
-  },
-  "B0G64NF1FQ": {
-    "first_seen": "2026-09-16",
-    "first_seen_at": "2026-09-16T01:14:30+09:00",
-    "last_seen": "2026-10-06",
-    "title": "UGREEN Air急速充電器 45W Type-C 薄型設計 当社比67%小型化超薄モデル PD3.0/PPS/QC4/SCP対応 折り畳み式",
-    "percent_off": 19
   },
   "B094VTDH46": {
     "first_seen": "2026-10-06",
@@ -1229,13 +1236,6 @@
     "first_seen_at": "2026-10-06T01:15:14+09:00",
     "last_seen": "2026-10-06",
     "title": "エレコム ワイヤレスマウス Bluetooth Slint M-TM10BBBU/EC 薄型 静音 4ボタン プレゼンモード機能付 Windows Mac Android iOS iPadOS FireOS対応 ネイビーブルー",
-    "percent_off": 19
-  },
-  "B0FGCDSH1J": {
-    "first_seen": "2026-10-06",
-    "first_seen_at": "2026-10-06T01:15:14+09:00",
-    "last_seen": "2026-10-06",
-    "title": "【Amazon.co.jp限定】Logicool G ラピッドトリガー G515 RAPID ゲーミングキーボード G515-TKL-RTBKd",
     "percent_off": 19
   },
   "B07PFGDZD7": {
