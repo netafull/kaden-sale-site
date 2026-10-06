@@ -279,6 +279,13 @@
     "title": "Anker Nano Power Bank (10000mAh, 45W, 巻取り式 USB-Cケーブル) ブラック",
     "percent_off": null
   },
+  "B0FTZ46NF8": {
+    "first_seen": "2026-09-04",
+    "first_seen_at": "2026-09-04T01:14:59+09:00",
+    "last_seen": "2026-10-06",
+    "title": "CIO SMARTCOBY Ex04 Wireless2.2 CABLE SS5K 半固体モバイルバッテリー Qi2.2 5000mAh (ブラック)",
+    "percent_off": null
+  },
   "B0CQY7SRTY": {
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T21:14:47+09:00",
@@ -384,6 +391,13 @@
     "title": "UGREEN Zapix Magsafe充電器 2-in-1 マグネット式充電スタンド ワイヤレス充電対応 7.5W/5W Qi認証済",
     "percent_off": null
   },
+  "B0D53VKL36": {
+    "first_seen": "2026-07-29",
+    "first_seen_at": "2026-07-29T12:00:00+09:00",
+    "last_seen": "2026-10-06",
+    "title": "CIO NovaPort DUOⅡ 65W PD急速充電器 USB-C×2 2台同時充電 世界最小級（ブラック）",
+    "percent_off": null
+  },
   "B0GF26RSYQ": {
     "first_seen": "2026-07-27",
     "first_seen_at": "2026-07-27T12:00:00+09:00",
@@ -468,13 +482,6 @@
     "title": "Belkin Cubic Charger 45W 充電器 type-c iphone18対応 充電器 急速充電 PD3.2 PPS対応 ホワイト",
     "percent_off": 15
   },
-  "B0DMN885ZF": {
-    "first_seen": "2026-08-05",
-    "first_seen_at": "2026-08-05T03:07:44+09:00",
-    "last_seen": "2026-10-06",
-    "title": "UGREEN 45W USB-C 急速充電器 Type-C PD GaNⅡ充電器 PSE適合タイプc充電器 PD/PPS/SCP/QC3.0",
-    "percent_off": null
-  },
   "B0DMN94Q8M": {
     "first_seen": "2026-08-02",
     "first_seen_at": "2026-08-02T11:33:18+09:00",
@@ -536,13 +543,6 @@
     "first_seen_at": "2026-07-30T12:00:00+09:00",
     "last_seen": "2026-10-06",
     "title": "SwitchBot サーキュレーター DCモーター コードレス扇風機 充電式 静音 強力送風 - 3D首振り 30畳 無段階風量調整 省エネ",
-    "percent_off": 17
-  },
-  "B0GHP2D9YF": {
-    "first_seen": "2026-10-03",
-    "first_seen_at": "2026-10-03T03:14:38+09:00",
-    "last_seen": "2026-10-06",
-    "title": "【セット販売】【超小型】SwitchBot ロボット掃除機 K11+ ホワイト＋サイドブラシ（4個セット）",
     "percent_off": 17
   },
   "B07B7NXV4R": {
@@ -916,19 +916,19 @@
     "title": "[山善] ノンフライヤー 4.5L 大容量 電気フライヤー ノンオイル エアフライヤー 3~5人用 家庭用 卓上 揚げ物 惣菜 タイマー 温度調節 レシピブック付き ブラック YAH-AC120(B)",
     "percent_off": 23
   },
-  "B0FTZ46NF8": {
-    "first_seen": "2026-09-04",
-    "first_seen_at": "2026-09-04T01:14:59+09:00",
+  "B0DMN885ZF": {
+    "first_seen": "2026-08-05",
+    "first_seen_at": "2026-08-05T03:07:44+09:00",
     "last_seen": "2026-10-06",
-    "title": "CIO SMARTCOBY Ex04 Wireless2.2 CABLE SS5K 半固体モバイルバッテリー Qi2.2 5000mAh (ブラック)",
+    "title": "UGREEN 45W USB-C 急速充電器 Type-C PD GaNⅡ充電器 PSE適合タイプc充電器 PD/PPS/SCP/QC3.0",
     "percent_off": null
   },
-  "B0D53VKL36": {
-    "first_seen": "2026-07-29",
-    "first_seen_at": "2026-07-29T12:00:00+09:00",
+  "B0GHP2D9YF": {
+    "first_seen": "2026-10-03",
+    "first_seen_at": "2026-10-03T03:14:38+09:00",
     "last_seen": "2026-10-06",
-    "title": "CIO NovaPort DUOⅡ 65W PD急速充電器 USB-C×2 2台同時充電 世界最小級（ブラック）",
-    "percent_off": null
+    "title": "【セット販売】【超小型】SwitchBot ロボット掃除機 K11+ ホワイト＋サイドブラシ（4個セット）",
+    "percent_off": 17
   },
   "B0H8DQLFNW": {
     "first_seen": "2026-08-09",
