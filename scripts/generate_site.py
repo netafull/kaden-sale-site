@@ -510,7 +510,7 @@ gtag('config', '{esc(ga_id)}');
 {gsv_tag}
 {ga_tag}
 {adsense_tag}
-<link rel="icon" type="image/png" href="assets/favicon.png">
+<link rel="icon" type="image/png" sizes="96x96" href="assets/favicon.png">
 <link rel="apple-touch-icon" href="assets/apple-touch-icon.png">
 <meta property="og:type" content="website">
 <meta property="og:title" content="{esc(page_title)}">
