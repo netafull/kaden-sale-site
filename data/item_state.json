@@ -111,13 +111,6 @@
     "title": "Apple Watch Series 11(GPSモデル)- 46mmジェットブラックアルミニウムケースとブラックスポーツバンド - M/L、睡眠時無呼吸、高血圧パターン、血中酸素、心電図、排卵推定、心拍数、服薬、マインドフルネス、ノイズ、睡眠スコア、転倒検出、IPX6X防塵、泳げる耐水、Suica対応、高速充電対応",
     "percent_off": null
   },
-  "B0FRZ2CS5T": {
-    "first_seen": "2026-10-01",
-    "first_seen_at": "2026-10-01T23:14:55+09:00",
-    "last_seen": "2026-10-07",
-    "title": "Apple Watch Ultra 3(GPS + Cellularモデル)- 49mmナチュラルチタニウムケースとライトブルーアルパインループ - M + 2年延長 AppleCare+ for Apple Watch Ultra 3",
-    "percent_off": 9
-  },
   "B0BJN7ZJF6": {
     "first_seen": "2026-09-11",
     "first_seen_at": "2026-09-11T22:14:45+09:00",
@@ -130,6 +123,13 @@
     "first_seen_at": "2026-09-26T22:15:02+09:00",
     "last_seen": "2026-10-07",
     "title": "Apple Watch Ultra 3(GPS + Cellularモデル)- 49mmナチュラルチタニウムケースとライトブルーアルパインループ - M",
+    "percent_off": 9
+  },
+  "B0FRZ2CS5T": {
+    "first_seen": "2026-10-01",
+    "first_seen_at": "2026-10-01T23:14:55+09:00",
+    "last_seen": "2026-10-07",
+    "title": "Apple Watch Ultra 3(GPS + Cellularモデル)- 49mmナチュラルチタニウムケースとライトブルーアルパインループ - M + 2年延長 AppleCare+ for Apple Watch Ultra 3",
     "percent_off": 9
   },
   "B0FQGTZLWX": {
@@ -286,26 +286,12 @@
     "title": "CIO SMARTCOBY Ex04 Wireless2.2 CABLE SS5K 半固体モバイルバッテリー Qi2.2 5000mAh (ブラック)",
     "percent_off": null
   },
-  "B0CQY7SRTY": {
-    "first_seen": "2026-09-13",
-    "first_seen_at": "2026-09-13T21:14:47+09:00",
-    "last_seen": "2026-10-07",
-    "title": "Anker Power Bank (20000mAh, 30W) ブラック",
-    "percent_off": null
-  },
   "B098SQSRRV": {
     "first_seen": "2026-07-31",
     "first_seen_at": "2026-07-31T12:00:00+09:00",
     "last_seen": "2026-10-07",
     "title": "Belkin USB充電器 40W iPhone17,16～12 デュアルUSB-C(20W x 2) PD3.0 急速充電対応 ホワイト WCB006dqWHJP",
     "percent_off": 47
-  },
-  "B0BF9ZYCQ5": {
-    "first_seen": "2026-07-31",
-    "first_seen_at": "2026-07-31T12:00:00+09:00",
-    "last_seen": "2026-10-07",
-    "title": "【VGP受賞】Belkin 充電器 USB-C 2ポート PPS規格対応 GaN採用 小型 ACアダプター タイプC 急速充電 軽量【PD3.0対応 /PSE認証/折りたたみ式プラグ】45W(25W+20W) MacBook Windows PC Surface Pro iPad iPhone 17,16～12対応 Galaxy Android スマホ 各種ノートPC対応 WCH011dqWH",
-    "percent_off": 42
   },
   "B0FL1S48XY": {
     "first_seen": "2026-09-08",
@@ -664,19 +650,19 @@
     "title": "VITURE Luma Ultra XR グラス & Pro ネックバンド 12GBメモリ＆256GB内蔵ストレージ セット マルチスクリーン/6DoF/ハンドジェスチャー/スムーズフォロー/アンビエントモード搭載 PXPlay & XBXPlay 公式対応ワイヤレスゲームストリーミングメガネ",
     "percent_off": 18
   },
-  "B0CLGVLBMV": {
-    "first_seen": "2026-08-23",
-    "first_seen_at": "2026-08-23T20:37:59+09:00",
-    "last_seen": "2026-10-07",
-    "title": "Razer ラピッドトリガー 搭載 Huntsman V3 Pro Mini JP ラピッドトリガーと調整可能なアクチュエーション搭載のアナログ ゲーミングキーボード アナログオプティカルスイッチ 調整可能なアクチュエーション 押下圧 40G 日本語配列 ハンツマン ブイスリー プロ ミニ ジェイピー【日本正規代理店保証品】 ブラック",
-    "percent_off": 32
-  },
   "B0B1Q636K7": {
     "first_seen": "2026-07-26",
     "first_seen_at": "2026-07-26T12:00:00+09:00",
     "last_seen": "2026-10-07",
     "title": "ロジクール KX850FT MX MECHANICAL ワイヤレス メカニカル パフォーマンス キーボード 茶軸 タクタイル テンキー 静かな打鍵感 特に静か Logi Bolt bluetooth Unifying非対応 薄型 無線 メカニカルキーボード windows mac chrome Android ワイヤレスキーボード KX850 国内正規品 グラファイト",
     "percent_off": 44
+  },
+  "B0CLGVLBMV": {
+    "first_seen": "2026-08-23",
+    "first_seen_at": "2026-08-23T20:37:59+09:00",
+    "last_seen": "2026-10-07",
+    "title": "Razer ラピッドトリガー 搭載 Huntsman V3 Pro Mini JP ラピッドトリガーと調整可能なアクチュエーション搭載のアナログ ゲーミングキーボード アナログオプティカルスイッチ 調整可能なアクチュエーション 押下圧 40G 日本語配列 ハンツマン ブイスリー プロ ミニ ジェイピー【日本正規代理店保証品】 ブラック",
+    "percent_off": 32
   },
   "B0C9CS34KJ": {
     "first_seen": "2026-09-25",
@@ -706,6 +692,13 @@
     "title": "エレコム ワイヤレスキーボード Precisionist プレシジョニスト Bluetooth 無線2.4GHz マルチペアリング4台 充電式 薄型パンタグラフ式 ミニサイズ ブラック TK-PN1075MPABK",
     "percent_off": 39
   },
+  "B0BKP5R91F": {
+    "first_seen": "2026-08-04",
+    "first_seen_at": "2026-08-04T12:38:09+09:00",
+    "last_seen": "2026-10-07",
+    "title": "ロジクール ワイヤレスマウス 静音 無線 高速スクロール Signature M550MGR レギュラー グラファイト 国内正規品",
+    "percent_off": 31
+  },
   "B0956X785M": {
     "first_seen": "2026-10-06",
     "first_seen_at": "2026-10-06T01:15:14+09:00",
@@ -732,13 +725,6 @@
     "first_seen_at": "2026-10-06T10:15:09+09:00",
     "last_seen": "2026-10-07",
     "title": "エレコム マウス ワイヤレス Mサイズ 5ボタン(戻る・進むボタン搭載) BlueLED 握りの極み ガンメタリック M-XGM10DBBK/EC",
-    "percent_off": 26
-  },
-  "B0BKP2XWY5": {
-    "first_seen": "2026-10-06",
-    "first_seen_at": "2026-10-06T21:15:02+09:00",
-    "last_seen": "2026-10-07",
-    "title": "【Amazon.co.jp限定】 ロジクールワイヤレスマウス 静音 無線 Signature M550MBKs レギュラー ブラック 国内正規品",
     "percent_off": 26
   },
   "B0BKPL1VKW": {
@@ -937,6 +923,27 @@
     "title": "[山善] ノンフライヤー 4.5L 大容量 電気フライヤー ノンオイル エアフライヤー 3~5人用 家庭用 卓上 揚げ物 惣菜 タイマー 温度調節 レシピブック付き ブラック YAH-AC120(B)",
     "percent_off": 23
   },
+  "B0CQY7SRTY": {
+    "first_seen": "2026-09-13",
+    "first_seen_at": "2026-09-13T21:14:47+09:00",
+    "last_seen": "2026-10-07",
+    "title": "Anker Power Bank (20000mAh, 30W) ブラック",
+    "percent_off": null
+  },
+  "B0BF9ZYCQ5": {
+    "first_seen": "2026-07-31",
+    "first_seen_at": "2026-07-31T12:00:00+09:00",
+    "last_seen": "2026-10-07",
+    "title": "【VGP受賞】Belkin 充電器 USB-C 2ポート PPS規格対応 GaN採用 小型 ACアダプター タイプC 急速充電 軽量【PD3.0対応 /PSE認証/折りたたみ式プラグ】45W(25W+20W) MacBook Windows PC Surface Pro iPad iPhone 17,16～12対応 Galaxy Android スマホ 各種ノートPC対応 WCH011dqWH",
+    "percent_off": 42
+  },
+  "B0BKP2XWY5": {
+    "first_seen": "2026-10-06",
+    "first_seen_at": "2026-10-06T21:15:02+09:00",
+    "last_seen": "2026-10-07",
+    "title": "【Amazon.co.jp限定】 ロジクールワイヤレスマウス 静音 無線 Signature M550MBKs レギュラー ブラック 国内正規品",
+    "percent_off": 26
+  },
   "B0D53Z4WX3": {
     "first_seen": "2026-09-04",
     "first_seen_at": "2026-09-04T22:14:48+09:00",
@@ -950,13 +957,6 @@
     "last_seen": "2026-10-07",
     "title": "Belkin Cubic Charger 45W 充電器 type-c iphone18対応 充電器 急速充電 PD3.2 PPS対応 ホワイト",
     "percent_off": 15
-  },
-  "B0BKP5R91F": {
-    "first_seen": "2026-08-04",
-    "first_seen_at": "2026-08-04T12:38:09+09:00",
-    "last_seen": "2026-10-07",
-    "title": "ロジクール ワイヤレスマウス 静音 無線 高速スクロール Signature M550MGR レギュラー グラファイト 国内正規品",
-    "percent_off": 31
   },
   "B0FQFJ8BVB": {
     "first_seen": "2026-10-07",
