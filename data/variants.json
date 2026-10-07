@@ -579,8 +579,8 @@
     },
     "B0DL6PS74M": {
      "last_seen": "2026-10-07",
-     "pct": 0,
-     "points_pct": 1
+     "pct": null,
+     "points_pct": null
     },
     "B0DL6RT3DN": {
      "last_seen": "2026-10-07",
@@ -1237,8 +1237,8 @@
    "members": {
     "B0FQFWP46C": {
      "last_seen": "2026-10-07",
-     "pct": 0,
-     "points_pct": 1
+     "pct": null,
+     "points_pct": null
     },
     "B0FQG1QPL9": {
      "last_seen": "2026-10-07",
@@ -3627,7 +3627,7 @@
    "aliases": {},
    "genre": "Apple製品",
    "label": "Apple Watch Ultra 4（GPS + Cellularモデル）",
-   "last_sweep_at": "2026-10-07T10:07:12+09:00",
+   "last_sweep_at": "2026-10-07T16:07:14+09:00",
    "members": {
     "B0HJ9SL1FK": {
      "last_seen": "2026-10-07",
@@ -3728,7 +3728,7 @@
    "aliases": {},
    "genre": "Apple製品",
    "label": "ワイヤレス充電ケース付きApple AirPods 5ワイヤレスイヤーバッド",
-   "last_sweep_at": "2026-10-07T10:07:12+09:00",
+   "last_sweep_at": "2026-10-07T16:07:14+09:00",
    "members": {
     "B0HJ9VNBZ8": {
      "last_seen": "2026-10-07",
@@ -3749,7 +3749,7 @@
    "aliases": {},
    "genre": "Apple製品",
    "label": "Apple AirPods 4 アクティブノイズ キャンセリング搭載、ワイヤレス",
-   "last_sweep_at": "2026-10-07T10:07:12+09:00",
+   "last_sweep_at": "2026-10-07T16:07:14+09:00",
    "members": {
     "B0DGJ63QY8": {
      "last_seen": "2026-10-07",
