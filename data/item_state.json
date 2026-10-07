@@ -104,13 +104,6 @@
     "title": "Apple AirTag 4個入り（第2世代）：紛失防止タグ、音で探せる、耐水 防塵 iPhone/iPad「探す」ネットワーク対応 、探せる範囲が最大1.5 倍に広がった「正確な場所を見つける」機能搭載",
     "percent_off": 12
   },
-  "B0FQFJ8BVB": {
-    "first_seen": "2026-10-07",
-    "first_seen_at": "2026-10-07T12:14:42+09:00",
-    "last_seen": "2026-10-07",
-    "title": "Apple Watch Series 11(GPSモデル)- 42mmローズゴールドアルミニウムケースとライトブラッシュスポーツバンド - S/M、睡眠時無呼吸、高血圧パターン、血中酸素、心電図、排卵推定、心拍数、服薬、マインドフルネス、ノイズ、睡眠スコア、転倒検出、IPX6X防塵、泳げる耐水、Suica対応、高速充電対応",
-    "percent_off": null
-  },
   "B0FQG2B81Z": {
     "first_seen": "2026-09-23",
     "first_seen_at": "2026-09-23T15:14:48+09:00",
@@ -335,13 +328,6 @@
     "title": "Belkin Qi2 車載ワイヤレス充電器 15W急速充電 MagSafe対応 スマホホルダー エアコン吹き出し口用",
     "percent_off": 36
   },
-  "B0D53Z4WX3": {
-    "first_seen": "2026-09-04",
-    "first_seen_at": "2026-09-04T22:14:48+09:00",
-    "last_seen": "2026-10-07",
-    "title": "CIO NovaPort TRIOⅡ 65W 3C PD急速充電器 USB-C×3 3台同時充電 軽量 世界最小級 (ブラック)",
-    "percent_off": null
-  },
   "B0GSVNFT8T": {
     "first_seen": "2026-09-30",
     "first_seen_at": "2026-09-30T05:14:49+09:00",
@@ -377,11 +363,11 @@
     "title": "Anker 736 Charger (Nano ll 100W) ブラック",
     "percent_off": 34
   },
-  "B0B2QQDKR8": {
-    "first_seen": "2026-07-27",
-    "first_seen_at": "2026-07-27T12:00:00+09:00",
+  "B0B2QR8HN9": {
+    "first_seen": "2026-08-09",
+    "first_seen_at": "2026-08-09T19:54:50+09:00",
     "last_seen": "2026-10-07",
-    "title": "Anker 511 Charger (Nano 3, 30W) ブラック",
+    "title": "Anker 511 Charger (Nano 3, 30W) ホワイト",
     "percent_off": null
   },
   "B0DW2SYD5H": {
@@ -601,6 +587,13 @@
     "title": "HUAWEI WATCH GT 6 Pro 46mm スマートウォッチ 大画面 GPS搭載 21日間バッテリー 心電図 ゴルフ GPS 通知 ブラック",
     "percent_off": 24
   },
+  "B094VSZPPP": {
+    "first_seen": "2026-10-07",
+    "first_seen_at": "2026-10-07T13:15:11+09:00",
+    "last_seen": "2026-10-07",
+    "title": "GARMIN(ガーミン) スマートウォッチ GPS Venu 2 Black/Slate【日本正規品】 010-02430-61 小",
+    "percent_off": 25
+  },
   "B0BWF162WJ": {
     "first_seen": "2026-09-21",
     "first_seen_at": "2026-09-21T17:14:46+09:00",
@@ -677,13 +670,6 @@
     "last_seen": "2026-10-07",
     "title": "VITURE Luma Ultra XR グラス & Pro ネックバンド 12GBメモリ＆256GB内蔵ストレージ セット マルチスクリーン/6DoF/ハンドジェスチャー/スムーズフォロー/アンビエントモード搭載 PXPlay & XBXPlay 公式対応ワイヤレスゲームストリーミングメガネ",
     "percent_off": 18
-  },
-  "B0C9D8VTH7": {
-    "first_seen": "2026-09-26",
-    "first_seen_at": "2026-09-26T01:14:49+09:00",
-    "last_seen": "2026-10-07",
-    "title": "サンワサプライ ワイヤレス静音キーボード（2.4GHzワイヤレス・テンキーあり） SKB-WL37BK",
-    "percent_off": 50
   },
   "B0CLGVLBMV": {
     "first_seen": "2026-08-23",
@@ -804,18 +790,18 @@
     "title": "ロジクール ワイヤレスマウス 静音 無線 高速スクロール Signature M650MGR レギュラー グラファイト M650 国内正規品",
     "percent_off": 21
   },
-  "B0FDQL8KNL": {
-    "first_seen": "2026-10-06",
-    "first_seen_at": "2026-10-06T00:16:13+09:00",
-    "last_seen": "2026-10-07",
-    "title": "【Amazon.co.jp限定】 ロジクール Bluetooth ワイヤレスキーボード 無線 K250GRd 日本語配列 グラファイト 国内正規品",
-    "percent_off": 21
-  },
   "B07PJW2X2F": {
     "first_seen": "2026-07-26",
     "first_seen_at": "2026-07-26T12:00:00+09:00",
     "last_seen": "2026-10-07",
     "title": "エレコム ワイヤレスキーボード メンブレン 薄型 フルキーボード テンキー ブラック TK-FDM110TXBK",
+    "percent_off": 21
+  },
+  "B0FDQL8KNL": {
+    "first_seen": "2026-10-06",
+    "first_seen_at": "2026-10-06T00:16:13+09:00",
+    "last_seen": "2026-10-07",
+    "title": "【Amazon.co.jp限定】 ロジクール Bluetooth ワイヤレスキーボード 無線 K250GRd 日本語配列 グラファイト 国内正規品",
     "percent_off": 21
   },
   "B0GL26M6Z2": {
@@ -957,6 +943,34 @@
     "last_seen": "2026-10-07",
     "title": "[山善] ノンフライヤー 4.5L 大容量 電気フライヤー ノンオイル エアフライヤー 3~5人用 家庭用 卓上 揚げ物 惣菜 タイマー 温度調節 レシピブック付き ブラック YAH-AC120(B)",
     "percent_off": 23
+  },
+  "B0FQFJ8BVB": {
+    "first_seen": "2026-10-07",
+    "first_seen_at": "2026-10-07T12:14:42+09:00",
+    "last_seen": "2026-10-07",
+    "title": "Apple Watch Series 11(GPSモデル)- 42mmローズゴールドアルミニウムケースとライトブラッシュスポーツバンド - S/M、睡眠時無呼吸、高血圧パターン、血中酸素、心電図、排卵推定、心拍数、服薬、マインドフルネス、ノイズ、睡眠スコア、転倒検出、IPX6X防塵、泳げる耐水、Suica対応、高速充電対応",
+    "percent_off": null
+  },
+  "B0D53Z4WX3": {
+    "first_seen": "2026-09-04",
+    "first_seen_at": "2026-09-04T22:14:48+09:00",
+    "last_seen": "2026-10-07",
+    "title": "CIO NovaPort TRIOⅡ 65W 3C PD急速充電器 USB-C×3 3台同時充電 軽量 世界最小級 (ブラック)",
+    "percent_off": null
+  },
+  "B0B2QQDKR8": {
+    "first_seen": "2026-07-27",
+    "first_seen_at": "2026-07-27T12:00:00+09:00",
+    "last_seen": "2026-10-07",
+    "title": "Anker 511 Charger (Nano 3, 30W) ブラック",
+    "percent_off": null
+  },
+  "B0C9D8VTH7": {
+    "first_seen": "2026-09-26",
+    "first_seen_at": "2026-09-26T01:14:49+09:00",
+    "last_seen": "2026-10-07",
+    "title": "サンワサプライ ワイヤレス静音キーボード（2.4GHzワイヤレス・テンキーあり） SKB-WL37BK",
+    "percent_off": 50
   },
   "B0FL6ZD3WL": {
     "first_seen": "2026-07-29",
@@ -1279,13 +1293,6 @@
     "last_seen": "2026-10-06",
     "title": "ロジクール ワイヤレスキーボード K295OW 静音 耐水 キーボード 無線 Unifying K295 オフホワイト 国内正規品",
     "percent_off": 18
-  },
-  "B0B2QR8HN9": {
-    "first_seen": "2026-08-09",
-    "first_seen_at": "2026-08-09T19:54:50+09:00",
-    "last_seen": "2026-10-06",
-    "title": "Anker 511 Charger (Nano 3, 30W) ホワイト",
-    "percent_off": null
   },
   "B0BRSJP3KF": {
     "first_seen": "2026-09-24",
