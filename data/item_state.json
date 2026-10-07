@@ -475,13 +475,6 @@
     "title": "UGREEN 45W USB-C*4+USB-A*1 急速充電器 Type-C GaNⅡ タイプc PSE適合/PD3.0/PPS/SCP/QC3.0",
     "percent_off": null
   },
-  "B0DMN885ZF": {
-    "first_seen": "2026-08-05",
-    "first_seen_at": "2026-08-05T03:07:44+09:00",
-    "last_seen": "2026-10-08",
-    "title": "UGREEN 45W USB-C 急速充電器 Type-C PD GaNⅡ充電器 PSE適合タイプc充電器 PD/PPS/SCP/QC3.0",
-    "percent_off": null
-  },
   "B0FH28F7SJ": {
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T19:14:35+09:00",
@@ -832,11 +825,11 @@
     "title": "エレコム ワイヤレスキーボード 静音 フルサイズ テンキー付 無線2.4GHz Windows macOS ChromeOS メンブレン式 ブラック TK-QT11FDMABK",
     "percent_off": 20
   },
-  "B08LMYWKZD": {
+  "B08LMK3L5C": {
     "first_seen": "2026-10-06",
-    "first_seen_at": "2026-10-06T01:15:14+09:00",
+    "first_seen_at": "2026-10-06T00:16:13+09:00",
     "last_seen": "2026-10-08",
-    "title": "エレコム ワイヤレスマウス Bluetooth Slint M-TM10BBBU/EC 薄型 静音 4ボタン プレゼンモード機能付 Windows Mac Android iOS iPadOS FireOS対応 ネイビーブルー",
+    "title": "エレコム ワイヤレスマウス Bluetooth Slint 薄型 静音 4ボタン プレゼンモード機能付 Windows Mac Android iOS iPadOS FireOS対応 ブラック M-TM10BBBK/EC",
     "percent_off": 19
   },
   "B0CJR5HBMN": {
@@ -978,6 +971,20 @@
     "last_seen": "2026-10-08",
     "title": "[山善] ノンフライヤー 4.5L 大容量 電気フライヤー ノンオイル エアフライヤー 3~5人用 家庭用 卓上 揚げ物 惣菜 タイマー 温度調節 レシピブック付き ブラック YAH-AC120(B)",
     "percent_off": 23
+  },
+  "B0DMN885ZF": {
+    "first_seen": "2026-08-05",
+    "first_seen_at": "2026-08-05T03:07:44+09:00",
+    "last_seen": "2026-10-08",
+    "title": "UGREEN 45W USB-C 急速充電器 Type-C PD GaNⅡ充電器 PSE適合タイプc充電器 PD/PPS/SCP/QC3.0",
+    "percent_off": null
+  },
+  "B08LMYWKZD": {
+    "first_seen": "2026-10-06",
+    "first_seen_at": "2026-10-06T01:15:14+09:00",
+    "last_seen": "2026-10-08",
+    "title": "エレコム ワイヤレスマウス Bluetooth Slint M-TM10BBBU/EC 薄型 静音 4ボタン プレゼンモード機能付 Windows Mac Android iOS iPadOS FireOS対応 ネイビーブルー",
+    "percent_off": 19
   },
   "B0BW3ZS795": {
     "first_seen": "2026-10-08",
@@ -1412,13 +1419,6 @@
     "last_seen": "2026-10-06",
     "title": "ロジクール ワイヤレスマウス 静音 無線 高速スクロール Signature M750MOW レギュラー オフホワイト M750 国内正規品",
     "percent_off": 25
-  },
-  "B08LMK3L5C": {
-    "first_seen": "2026-10-06",
-    "first_seen_at": "2026-10-06T00:16:13+09:00",
-    "last_seen": "2026-10-06",
-    "title": "エレコム ワイヤレスマウス Bluetooth Slint 薄型 静音 4ボタン プレゼンモード機能付 Windows Mac Android iOS iPadOS FireOS対応 ブラック M-TM10BBBK/EC",
-    "percent_off": 19
   },
   "B0CJR7JGTB": {
     "first_seen": "2026-09-10",
