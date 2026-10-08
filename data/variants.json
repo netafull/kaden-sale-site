@@ -898,7 +898,7 @@
   },
   "B0F4XF5YSC": {
    "aliases": {
-    "B0DZ8BQ2PB": "2026-10-06"
+    "B0DZ8BQ2PB": "2026-10-08"
    },
    "genre": "Apple製品",
    "label": "Apple 11 インチ iPad (A16): 11 インチモデル、Liqui",
@@ -3172,8 +3172,8 @@
     },
     "B0GR1VFR15": {
      "last_seen": "2026-10-08",
-     "pct": null,
-     "points_pct": null
+     "pct": 0,
+     "points_pct": 1
     },
     "B0GR1W6K3P": {
      "last_seen": "2026-10-08",
@@ -3207,8 +3207,8 @@
     },
     "B0GRTXRRM2": {
      "last_seen": "2026-10-08",
-     "pct": null,
-     "points_pct": null
+     "pct": 0,
+     "points_pct": 0
     },
     "B0GRTZH3X2": {
      "last_seen": "2026-10-08",
