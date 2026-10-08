@@ -475,13 +475,6 @@
     "title": "UGREEN 45W USB-C*4+USB-A*1 急速充電器 Type-C GaNⅡ タイプc PSE適合/PD3.0/PPS/SCP/QC3.0",
     "percent_off": null
   },
-  "B0DMN885ZF": {
-    "first_seen": "2026-08-05",
-    "first_seen_at": "2026-08-05T03:07:44+09:00",
-    "last_seen": "2026-10-08",
-    "title": "UGREEN 45W USB-C 急速充電器 Type-C PD GaNⅡ充電器 PSE適合タイプc充電器 PD/PPS/SCP/QC3.0",
-    "percent_off": null
-  },
   "B0FH28F7SJ": {
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T19:14:35+09:00",
@@ -509,13 +502,6 @@
     "last_seen": "2026-10-08",
     "title": "エレコム 充電器 65W USB PD対応 3ポート Type-C USB-A 【 iPhone 16 15 14 iPad Macbook Air ノートPC】 ブラック EC-AC4465BK",
     "percent_off": 15
-  },
-  "B0B21G52KG": {
-    "first_seen": "2026-10-07",
-    "first_seen_at": "2026-10-07T12:14:42+09:00",
-    "last_seen": "2026-10-08",
-    "title": "【Amazon.co.jp限定】 SanDisk microSD カード 高耐久 SDSQQNR-128G-GH3IA 簡易デザインパッケージ",
-    "percent_off": 18
   },
   "B0DMN94Q8M": {
     "first_seen": "2026-08-02",
@@ -958,13 +944,6 @@
     "title": "ロジクール SIGNATURE SLIM ワイヤレス キーボード K950GR 薄型 静かなタイピング Bluetooth Logi Bolt ワイヤレスキーボード テンキー 無線 Easy-Switch 日本語配列 電池寿命36ケ月 Windows Mac Chrome Android K950 グラファイト 国内正規品",
     "percent_off": 15
   },
-  "B0G4CC1S2F": {
-    "first_seen": "2026-07-24",
-    "first_seen_at": "2026-07-24T12:00:00+09:00",
-    "last_seen": "2026-10-08",
-    "title": "アイリスオーヤマ 過熱水蒸気 エア フライヤー 3L 2～3人用 ノンオイルフライヤー スチーム機能 ジューシー FV-M30A-C アイボリー",
-    "percent_off": 42
-  },
   "B0H33X4142": {
     "first_seen": "2026-10-07",
     "first_seen_at": "2026-10-07T21:14:56+09:00",
@@ -978,6 +957,27 @@
     "last_seen": "2026-10-08",
     "title": "[山善] ノンフライヤー 4.5L 大容量 電気フライヤー ノンオイル エアフライヤー 3~5人用 家庭用 卓上 揚げ物 惣菜 タイマー 温度調節 レシピブック付き ブラック YAH-AC120(B)",
     "percent_off": 23
+  },
+  "B0DMN885ZF": {
+    "first_seen": "2026-08-05",
+    "first_seen_at": "2026-08-05T03:07:44+09:00",
+    "last_seen": "2026-10-08",
+    "title": "UGREEN 45W USB-C 急速充電器 Type-C PD GaNⅡ充電器 PSE適合タイプc充電器 PD/PPS/SCP/QC3.0",
+    "percent_off": null
+  },
+  "B0B21G52KG": {
+    "first_seen": "2026-10-07",
+    "first_seen_at": "2026-10-07T12:14:42+09:00",
+    "last_seen": "2026-10-08",
+    "title": "【Amazon.co.jp限定】 SanDisk microSD カード 高耐久 SDSQQNR-128G-GH3IA 簡易デザインパッケージ",
+    "percent_off": 18
+  },
+  "B0G4CC1S2F": {
+    "first_seen": "2026-07-24",
+    "first_seen_at": "2026-07-24T12:00:00+09:00",
+    "last_seen": "2026-10-08",
+    "title": "アイリスオーヤマ 過熱水蒸気 エア フライヤー 3L 2～3人用 ノンオイルフライヤー スチーム機能 ジューシー FV-M30A-C アイボリー",
+    "percent_off": 42
   },
   "B0F3XFNHCW": {
     "first_seen": "2026-09-21",
