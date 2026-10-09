@@ -356,6 +356,13 @@
     "title": "UGREEN Nexode急速充電器 65W Type-C 2C1A 3ポート PD/PPS 4.5A/QC3.0/SCP/FCP対応 折り畳み式",
     "percent_off": null
   },
+  "B0FH28F7SJ": {
+    "first_seen": "2026-09-13",
+    "first_seen_at": "2026-09-13T19:14:35+09:00",
+    "last_seen": "2026-10-10",
+    "title": "Belkin Qi2 25W ワイヤレス充電器 MagSafe対応 3in1充電スタンド iPhone 18・Apple Watch対応 3台同時充電",
+    "percent_off": 19
+  },
   "B0F43NCQ25": {
     "first_seen": "2026-10-06",
     "first_seen_at": "2026-10-06T01:15:14+09:00",
@@ -383,20 +390,6 @@
     "last_seen": "2026-10-10",
     "title": "UGREEN 30W PD充電器 USB-C 急速充電器 タイプc充電器 GaNⅡ type c",
     "percent_off": null
-  },
-  "B0FK4P37J1": {
-    "first_seen": "2026-10-07",
-    "first_seen_at": "2026-10-07T22:16:02+09:00",
-    "last_seen": "2026-10-10",
-    "title": "UGREEN 30W PD充電器 USB-C*3 急速充電器 PSE技術基準適合 PD3.0対応GaNⅡ type c",
-    "percent_off": null
-  },
-  "B0B21G52KG": {
-    "first_seen": "2026-10-07",
-    "first_seen_at": "2026-10-07T12:14:42+09:00",
-    "last_seen": "2026-10-10",
-    "title": "【Amazon.co.jp限定】 SanDisk microSD カード 高耐久 SDSQQNR-128G-GH3IA 簡易デザインパッケージ",
-    "percent_off": 18
   },
   "B0FMY19G96": {
     "first_seen": "2026-08-29",
@@ -454,6 +447,13 @@
     "title": "INNOCN ゲーミングモニター 24.5インチ 200Hz IPS 1ms(GTG) フルHD 非光沢 フレームレス PS5/Xbox対応 Adaptive-Sync VESA100×100 HDMI2.0/DP1.4接続 25G2G",
     "percent_off": 15
   },
+  "B0C9TKSP8V": {
+    "first_seen": "2026-07-30",
+    "first_seen_at": "2026-07-30T12:00:00+09:00",
+    "last_seen": "2026-10-10",
+    "title": "SwitchBot サーキュレーター DCモーター コードレス扇風機 充電式 静音 強力送風 - 3D首振り 30畳 無段階風量調整 省エネ",
+    "percent_off": 17
+  },
   "B07B7NXV4R": {
     "first_seen": "2026-07-30",
     "first_seen_at": "2026-07-30T12:00:00+09:00",
@@ -489,13 +489,6 @@
     "title": "HUAWEI WATCH D2 ウェアラブル血圧計LCA-B10:ブラック",
     "percent_off": 18
   },
-  "B0F9L6RXTP": {
-    "first_seen": "2026-10-10",
-    "first_seen_at": "2026-10-10T00:15:12+09:00",
-    "last_seen": "2026-10-10",
-    "title": "【Forerunner265後継モデル】 GARMIN(ガーミン) GPSランニングウォッチ Forerunner 570 42mm Raspberry/Mango 最大約10日間の長時間バッテリー 超軽量 色鮮やかなAMOLED大画面ディスプレイ 80種類以上のマルチスポーツ対応 スピーカー＆マイク内蔵でランニング中の心拍数やペース・距離などの情報を音声通知 睡眠スコア 光学式心拍計搭載",
-    "percent_off": 14
-  },
   "B0BWF2TM8R": {
     "first_seen": "2026-09-21",
     "first_seen_at": "2026-09-21T22:15:01+09:00",
@@ -509,6 +502,13 @@
     "last_seen": "2026-10-10",
     "title": "Xiaomi Redmi Watch 6 シャオミ スマートウォッチ GPS Bluetooth通話 着信通知 防水 24日間持続 iPhone対応",
     "percent_off": 19
+  },
+  "B0F9LB5PQF": {
+    "first_seen": "2026-09-18",
+    "first_seen_at": "2026-09-18T21:14:31+09:00",
+    "last_seen": "2026-10-10",
+    "title": "【Forerunner265後継モデル】GARMIN(ガーミン) GPSランニングウォッチ Forerunner 570 47mm Black 【ロングバッテリー/超軽量/高精度GPS/色鮮やかなAMOLEDタッチディスプレイ/スピーカー＆マイク内蔵/ボイスコントロール/睡眠スコア・Body Battery計測/Music保存機能 有・無/Android/iOS対応/Suica機能搭載/防水】",
+    "percent_off": 18
   },
   "B0GZ294HH3": {
     "first_seen": "2026-08-16",
@@ -559,18 +559,18 @@
     "title": "Amazfit Bip 6 スマートウォッチ 2000nit高輝度 GPS内蔵 オフラインマップ AIによる音声操作と睡眠/運動管理 心拍 睡眠 ストレス 健康管理 140+スポーツモード ナビゲーション ルートインポート 14日間バッテリー持続 (ブラック)",
     "percent_off": null
   },
-  "B0HBPTD3RC": {
-    "first_seen": "2026-09-19",
-    "first_seen_at": "2026-09-19T07:14:58+09:00",
-    "last_seen": "2026-10-10",
-    "title": "VITURE Luma Ultra XRグラス アルティメットセット（ネックバンド・ドック付属）",
-    "percent_off": 18
-  },
   "B0GVJG7D7K": {
     "first_seen": "2026-07-31",
     "first_seen_at": "2026-07-31T12:00:00+09:00",
     "last_seen": "2026-10-10",
     "title": "VITURE Luma Ultra XR グラス & Pro ネックバンド 12GBメモリ＆256GB内蔵ストレージ セット マルチスクリーン/6DoF/ハンドジェスチャー/スムーズフォロー/アンビエントモード搭載 PXPlay & XBXPlay 公式対応ワイヤレスゲームストリーミングメガネ",
+    "percent_off": 18
+  },
+  "B0HBPTD3RC": {
+    "first_seen": "2026-09-19",
+    "first_seen_at": "2026-09-19T07:14:58+09:00",
+    "last_seen": "2026-10-10",
+    "title": "VITURE Luma Ultra XRグラス アルティメットセット（ネックバンド・ドック付属）",
     "percent_off": 18
   },
   "B0C9D8VTH7": {
@@ -783,6 +783,13 @@
     "title": "【Amazon.co.jp限定】 ロジクール Bluetooth ワイヤレスマウス キーボード セット MK250GRd 日本語配列 国内正規品",
     "percent_off": 18
   },
+  "B07DVC25R2": {
+    "first_seen": "2026-07-26",
+    "first_seen_at": "2026-07-26T12:00:00+09:00",
+    "last_seen": "2026-10-10",
+    "title": "Logicool G ゲーミングマウス G304 LIGHTSPEED ワイヤレス ゲーミング マウス 軽量 99g HERO 12Kセンサー 6個プログラムボタン 250時間連続使用可能 ブラック PC windows mac 国内正規品 【 ファイナルファンタジー XIV 推奨モデル 】",
+    "percent_off": 18
+  },
   "B0CJR8Y56J": {
     "first_seen": "2026-07-26",
     "first_seen_at": "2026-07-26T12:00:00+09:00",
@@ -888,6 +895,27 @@
     "title": "[山善] ノンフライヤー 4.5L 大容量 電気フライヤー ノンオイル エアフライヤー 3~5人用 家庭用 卓上 揚げ物 惣菜 タイマー 温度調節 レシピブック付き ブラック YAH-AC120(B)",
     "percent_off": 23
   },
+  "B0FK4P37J1": {
+    "first_seen": "2026-10-07",
+    "first_seen_at": "2026-10-07T22:16:02+09:00",
+    "last_seen": "2026-10-10",
+    "title": "UGREEN 30W PD充電器 USB-C*3 急速充電器 PSE技術基準適合 PD3.0対応GaNⅡ type c",
+    "percent_off": null
+  },
+  "B0B21G52KG": {
+    "first_seen": "2026-10-07",
+    "first_seen_at": "2026-10-07T12:14:42+09:00",
+    "last_seen": "2026-10-10",
+    "title": "【Amazon.co.jp限定】 SanDisk microSD カード 高耐久 SDSQQNR-128G-GH3IA 簡易デザインパッケージ",
+    "percent_off": 18
+  },
+  "B0F9L6RXTP": {
+    "first_seen": "2026-10-10",
+    "first_seen_at": "2026-10-10T00:15:12+09:00",
+    "last_seen": "2026-10-10",
+    "title": "【Forerunner265後継モデル】 GARMIN(ガーミン) GPSランニングウォッチ Forerunner 570 42mm Raspberry/Mango 最大約10日間の長時間バッテリー 超軽量 色鮮やかなAMOLED大画面ディスプレイ 80種類以上のマルチスポーツ対応 スピーカー＆マイク内蔵でランニング中の心拍数やペース・距離などの情報を音声通知 睡眠スコア 光学式心拍計搭載",
+    "percent_off": 14
+  },
   "B0DT3XJKH9": {
     "first_seen": "2026-09-05",
     "first_seen_at": "2026-09-05T21:15:05+09:00",
@@ -908,13 +936,6 @@
     "last_seen": "2026-10-10",
     "title": "UGREEN PD充電器 type-c 30W 2*USB-C+1*USB-A GaN PSE適合/PD3.0 タイプc充電器 GaNⅡ type c",
     "percent_off": null
-  },
-  "B0FH28F7SJ": {
-    "first_seen": "2026-09-13",
-    "first_seen_at": "2026-09-13T19:14:35+09:00",
-    "last_seen": "2026-10-10",
-    "title": "Belkin Qi2 25W ワイヤレス充電器 MagSafe対応 3in1充電スタンド iPhone 18・Apple Watch対応 3台同時充電",
-    "percent_off": 19
   },
   "B0F1FBYTRZ": {
     "first_seen": "2026-10-04",
@@ -1140,26 +1161,12 @@
     "title": "UGREEN Air 65W USB-C*2 type-c 急速充電器 【iPhone18 Pro/Pro Max AVS対応】PD3.1 GaNII",
     "percent_off": null
   },
-  "B0C9TKSP8V": {
-    "first_seen": "2026-07-30",
-    "first_seen_at": "2026-07-30T12:00:00+09:00",
-    "last_seen": "2026-10-09",
-    "title": "SwitchBot サーキュレーター DCモーター コードレス扇風機 充電式 静音 強力送風 - 3D首振り 30畳 無段階風量調整 省エネ",
-    "percent_off": 17
-  },
   "B094VSZPPP": {
     "first_seen": "2026-10-07",
     "first_seen_at": "2026-10-07T13:15:11+09:00",
     "last_seen": "2026-10-09",
     "title": "GARMIN(ガーミン) スマートウォッチ GPS Venu 2 Black/Slate【日本正規品】 010-02430-61 小",
     "percent_off": 25
-  },
-  "B0F9LB5PQF": {
-    "first_seen": "2026-09-18",
-    "first_seen_at": "2026-09-18T21:14:31+09:00",
-    "last_seen": "2026-10-09",
-    "title": "【Forerunner265後継モデル】GARMIN(ガーミン) GPSランニングウォッチ Forerunner 570 47mm Black 【ロングバッテリー/超軽量/高精度GPS/色鮮やかなAMOLEDタッチディスプレイ/スピーカー＆マイク内蔵/ボイスコントロール/睡眠スコア・Body Battery計測/Music保存機能 有・無/Android/iOS対応/Suica機能搭載/防水】",
-    "percent_off": 18
   },
   "B09R1TYM93": {
     "first_seen": "2026-10-03",
@@ -1174,13 +1181,6 @@
     "last_seen": "2026-10-09",
     "title": "ロジクール ワイヤレスマウス PEBBLE MOUSE2 M350sOW 薄型 静音 Bluetooth Logi Bolt マウス 無線 ワイヤレス 左右対称 Easy-Switch 4000dpi 電池寿命24ケ月 windows mac Chrome Android iPad M350 オフホワイト 国内正規品",
     "percent_off": 19
-  },
-  "B07DVC25R2": {
-    "first_seen": "2026-07-26",
-    "first_seen_at": "2026-07-26T12:00:00+09:00",
-    "last_seen": "2026-10-09",
-    "title": "Logicool G ゲーミングマウス G304 LIGHTSPEED ワイヤレス ゲーミング マウス 軽量 99g HERO 12Kセンサー 6個プログラムボタン 250時間連続使用可能 ブラック PC windows mac 国内正規品 【 ファイナルファンタジー XIV 推奨モデル 】",
-    "percent_off": 18
   },
   "B0BKPR1SPC": {
     "first_seen": "2026-09-30",
