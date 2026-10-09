@@ -419,11 +419,11 @@
     "title": "UGREEN PD充電器 type-c 30W 2*USB-C+1*USB-A GaN PSE適合/PD3.0 タイプc充電器 GaNⅡ type c",
     "percent_off": null
   },
-  "B0FJS3P8NT": {
-    "first_seen": "2026-07-27",
-    "first_seen_at": "2026-07-27T12:00:00+09:00",
+  "B0DMN885ZF": {
+    "first_seen": "2026-08-05",
+    "first_seen_at": "2026-08-05T03:07:44+09:00",
     "last_seen": "2026-10-09",
-    "title": "UGREEN 45W USB-C*4+USB-A*1 急速充電器 Type-C GaNⅡ タイプc PSE適合/PD3.0/PPS/SCP/QC3.0",
+    "title": "UGREEN 45W USB-C 急速充電器 Type-C PD GaNⅡ充電器 PSE適合タイプc充電器 PD/PPS/SCP/QC3.0",
     "percent_off": null
   },
   "B0FH28F7SJ": {
@@ -445,13 +445,6 @@
     "first_seen_at": "2026-10-07T00:14:58+09:00",
     "last_seen": "2026-10-09",
     "title": "バッファロー 充電器 20W 2ポート USB-C & USB-A PD対応 GaN 折りたたみ式 PSE適合 BSACPD2015C2WH",
-    "percent_off": 16
-  },
-  "B09SYV3P5B": {
-    "first_seen": "2026-09-09",
-    "first_seen_at": "2026-09-09T00:14:37+09:00",
-    "last_seen": "2026-10-09",
-    "title": "Anker 736 Charger (Nano ll 100W) ブラック",
     "percent_off": 16
   },
   "B0C8HMLHTB": {
@@ -965,6 +958,20 @@
     "title": "[山善] ノンフライヤー 4.5L 大容量 電気フライヤー ノンオイル エアフライヤー 3~5人用 家庭用 卓上 揚げ物 惣菜 タイマー 温度調節 レシピブック付き ブラック YAH-AC120(B)",
     "percent_off": 23
   },
+  "B0FJS3P8NT": {
+    "first_seen": "2026-07-27",
+    "first_seen_at": "2026-07-27T12:00:00+09:00",
+    "last_seen": "2026-10-09",
+    "title": "UGREEN 45W USB-C*4+USB-A*1 急速充電器 Type-C GaNⅡ タイプc PSE適合/PD3.0/PPS/SCP/QC3.0",
+    "percent_off": null
+  },
+  "B09SYV3P5B": {
+    "first_seen": "2026-09-09",
+    "first_seen_at": "2026-09-09T00:14:37+09:00",
+    "last_seen": "2026-10-09",
+    "title": "Anker 736 Charger (Nano ll 100W) ブラック",
+    "percent_off": 16
+  },
   "B0GR1NTKL9": {
     "first_seen": "2026-08-20",
     "first_seen_at": "2026-08-20T06:42:31+09:00",
@@ -1040,13 +1047,6 @@
     "first_seen_at": "2026-07-28T12:00:00+09:00",
     "last_seen": "2026-10-09",
     "title": "CIO NovaPort TRIOⅡ 65W 2C1A PD急速充電器 USB-C×2+USB-A×1 3台同時充電 世界最小級（ブラック）",
-    "percent_off": null
-  },
-  "B0DMN885ZF": {
-    "first_seen": "2026-08-05",
-    "first_seen_at": "2026-08-05T03:07:44+09:00",
-    "last_seen": "2026-10-09",
-    "title": "UGREEN 45W USB-C 急速充電器 Type-C PD GaNⅡ充電器 PSE適合タイプc充電器 PD/PPS/SCP/QC3.0",
     "percent_off": null
   },
   "B0DT3XJKH9": {
