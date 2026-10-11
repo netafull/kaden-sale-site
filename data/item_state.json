@@ -132,19 +132,19 @@
     "title": "Apple Watch Ultra 3(GPS + Cellularモデル)- 49mmナチュラルチタニウムケースとブルー/ブライトブルートレイルループ - M/L + 2年延長 AppleCare+ for Apple Watch Ultra 3",
     "percent_off": 12
   },
-  "B0FQG2B81Z": {
-    "first_seen": "2026-09-23",
-    "first_seen_at": "2026-09-23T15:14:48+09:00",
-    "last_seen": "2026-10-11",
-    "title": "Apple Watch Series 11(GPSモデル)- 46mmジェットブラックアルミニウムケースとブラックスポーツバンド - M/L、睡眠時無呼吸、高血圧パターン、血中酸素、心電図、排卵推定、心拍数、服薬、マインドフルネス、ノイズ、睡眠スコア、転倒検出、IPX6X防塵、泳げる耐水、Suica対応、高速充電対応",
-    "percent_off": null
-  },
   "B0DL783NXK": {
     "first_seen": "2026-10-10",
     "first_seen_at": "2026-10-10T06:15:04+09:00",
     "last_seen": "2026-10-11",
     "title": "Apple 2024 iMac 10 コア CPU、10 コア GPU の M4 チップ搭載オールインワンデスク トップコンピュータ: Apple Intelligence のために設計、24 インチ Retina ディスプレ イ、16GBユニファイドメモリ、256GBの SSD ストレージ、ボディと同じカラーのアクセサリ、iPhone や iPad との連係機能 - グリーン",
     "percent_off": 11
+  },
+  "B0FQG2B81Z": {
+    "first_seen": "2026-09-23",
+    "first_seen_at": "2026-09-23T15:14:48+09:00",
+    "last_seen": "2026-10-11",
+    "title": "Apple Watch Series 11(GPSモデル)- 46mmジェットブラックアルミニウムケースとブラックスポーツバンド - M/L、睡眠時無呼吸、高血圧パターン、血中酸素、心電図、排卵推定、心拍数、服薬、マインドフルネス、ノイズ、睡眠スコア、転倒検出、IPX6X防塵、泳げる耐水、Suica対応、高速充電対応",
+    "percent_off": null
   },
   "B0GQW7QF6T": {
     "first_seen": "2026-10-10",
@@ -230,11 +230,11 @@
     "title": "UGREEN Air モバイルバッテリー 10000mAh 薄型 Qi2 15W MagSafe ケーブル内蔵 iPhone18Pro対応",
     "percent_off": null
   },
-  "B0F37VLJQW": {
+  "B0G2S9LVS4": {
     "first_seen": "2026-09-15",
-    "first_seen_at": "2026-09-15T02:14:33+09:00",
+    "first_seen_at": "2026-09-15T00:14:54+09:00",
     "last_seen": "2026-10-11",
-    "title": "UGREEN MagFlow Qi2 25W認証 モバイルバッテリー Magsafe マグネット式ワイヤレス急速充電 10000mAh 水色",
+    "title": "UGREEN MagFlow Qi2 25W認証 モバイルバッテリー Magsafe マグネット式ワイヤレス急速充電 10000mAh ブラック",
     "percent_off": null
   },
   "B0CX4C1TVK": {
@@ -356,18 +356,11 @@
     "title": "CIO NovaPort DUOⅡ 65W PD急速充電器 USB-C×2 2台同時充電 世界最小級（ブラック）",
     "percent_off": null
   },
-  "B0GF26RSYQ": {
-    "first_seen": "2026-07-27",
-    "first_seen_at": "2026-07-27T12:00:00+09:00",
-    "last_seen": "2026-10-11",
-    "title": "Anker Nano Charger (45W, Display, スイングプラグ) ブラック",
-    "percent_off": 25
-  },
-  "B0GF29FF6N": {
+  "B0GF24NN7N": {
     "first_seen": "2026-10-05",
-    "first_seen_at": "2026-10-05T00:14:58+09:00",
+    "first_seen_at": "2026-10-05T21:14:52+09:00",
     "last_seen": "2026-10-11",
-    "title": "Anker Nano Charger (45W, Display, スイングプラグ) ブルー",
+    "title": "Anker Nano Charger (45W, Display, スイングプラグ) ホワイト",
     "percent_off": 25
   },
   "B091BGMKYS": {
@@ -391,11 +384,11 @@
     "title": "UGREEN PD充電器 type-c 30W 2*USB-C+1*USB-A GaN PSE適合/PD3.0 タイプc充電器 GaNⅡ type c",
     "percent_off": null
   },
-  "B0DMN885ZF": {
-    "first_seen": "2026-08-05",
-    "first_seen_at": "2026-08-05T03:07:44+09:00",
+  "B0FJS3P8NT": {
+    "first_seen": "2026-07-27",
+    "first_seen_at": "2026-07-27T12:00:00+09:00",
     "last_seen": "2026-10-11",
-    "title": "UGREEN 45W USB-C 急速充電器 Type-C PD GaNⅡ充電器 PSE適合タイプc充電器 PD/PPS/SCP/QC3.0",
+    "title": "UGREEN 45W USB-C*4+USB-A*1 急速充電器 Type-C GaNⅡ タイプc PSE適合/PD3.0/PPS/SCP/QC3.0",
     "percent_off": null
   },
   "B0FH28F7SJ": {
@@ -418,13 +411,6 @@
     "last_seen": "2026-10-11",
     "title": "バッファロー 充電器 20W 2ポート USB-C & USB-A PD対応 GaN 折りたたみ式 PSE適合 BSACPD2015C2WH",
     "percent_off": 16
-  },
-  "B0C8HMLHTB": {
-    "first_seen": "2026-10-06",
-    "first_seen_at": "2026-10-06T03:15:02+09:00",
-    "last_seen": "2026-10-11",
-    "title": "エレコム 充電器 65W USB PD対応 3ポート Type-C USB-A 【 iPhone 16 15 14 iPad Macbook Air ノートPC】 ブラック EC-AC4465BK",
-    "percent_off": 15
   },
   "B0FMY19G96": {
     "first_seen": "2026-08-29",
@@ -559,13 +545,6 @@
     "title": "GARMIN(ガーミン)スマートウォッチ Forerunner 170 Black/Amp Yellow スマートウォッチモード 約 10 日間 高精度GPS ランニングウォッチ iOS/Android AMOLEDディスプレイ1.2インチ マラソン 軽量 防水 心拍数 睡眠スコア 健康管理 Suicaタッチ決済 Garmin Pay",
     "percent_off": 17
   },
-  "B0GX8DRYCX": {
-    "first_seen": "2026-09-03",
-    "first_seen_at": "2026-09-03T12:14:47+09:00",
-    "last_seen": "2026-10-11",
-    "title": "HUAWEI WATCH FIT 5 スマートウォッチ 薄型軽量 大画面 GPS内蔵 10日間ロングバッテリー 通知 健康管理 心拍数 睡眠 ブラック",
-    "percent_off": 16
-  },
   "B0H1C4Y7SK": {
     "first_seen": "2026-09-30",
     "first_seen_at": "2026-09-30T23:14:50+09:00",
@@ -643,6 +622,13 @@
     "title": "ロジクール 静音 ワイヤレスマウス 無線 Silent Bluetooth M240GRd グラファイト 国内正規品 【Amazon.co.jp限定】",
     "percent_off": 30
   },
+  "B0BKP93Z6L": {
+    "first_seen": "2026-10-11",
+    "first_seen_at": "2026-10-11T20:15:55+09:00",
+    "last_seen": "2026-10-11",
+    "title": "ロジクール ワイヤレスマウス 静音 無線 高速スクロール Signature M550LRD ラージ レッド 国内正規品",
+    "percent_off": 30
+  },
   "B07PJW2X2F": {
     "first_seen": "2026-07-26",
     "first_seen_at": "2026-07-26T12:00:00+09:00",
@@ -650,11 +636,11 @@
     "title": "エレコム ワイヤレスキーボード メンブレン 薄型 フルキーボード テンキー ブラック TK-FDM110TXBK",
     "percent_off": 29
   },
-  "B0B1Q636K7": {
-    "first_seen": "2026-07-26",
-    "first_seen_at": "2026-07-26T12:00:00+09:00",
+  "B0B1Q383WZ": {
+    "first_seen": "2026-08-12",
+    "first_seen_at": "2026-08-12T14:03:29+09:00",
     "last_seen": "2026-10-11",
-    "title": "ロジクール KX850FT MX MECHANICAL ワイヤレス メカニカル パフォーマンス キーボード 茶軸 タクタイル テンキー 静かな打鍵感 特に静か Logi Bolt bluetooth Unifying非対応 薄型 無線 メカニカルキーボード windows mac chrome Android ワイヤレスキーボード KX850 国内正規品 グラファイト",
+    "title": "ロジクール KX850FL MX MECHANICAL ワイヤレス メカニカル パフォーマンス キーボード 赤軸 リニア テンキー 静かな打鍵感 Logi Bolt bluetooth Unifying非対応 薄型 無線 メカニカルキーボード windows mac chrome Android ワイヤレスキーボード KX850 国内正規品 グラファイト",
     "percent_off": 28
   },
   "B0D9Y1SNQT": {
@@ -671,11 +657,11 @@
     "title": "エレコム マウス ワイヤレス Mサイズ 5ボタン(戻る・進むボタン搭載) BlueLED 握りの極み ガンメタリック M-XGM10DBBK/EC",
     "percent_off": 26
   },
-  "B0BKP2XWY5": {
+  "B0D7ZLCCLN": {
     "first_seen": "2026-10-06",
-    "first_seen_at": "2026-10-06T21:15:02+09:00",
+    "first_seen_at": "2026-10-06T22:15:05+09:00",
     "last_seen": "2026-10-11",
-    "title": "【Amazon.co.jp限定】 ロジクールワイヤレスマウス 静音 無線 Signature M550MBKs レギュラー ブラック 国内正規品",
+    "title": "ロジクール MX KEYS mini for Mac ワイヤレス キーボード KX700MSG US配列 Bluetooth Smart Actions 対応 Mac iPad iOS 無線 薄型 USB TYPE-C 充電式 ワイヤレスキーボード KX700 スペースグレー 国内正規品",
     "percent_off": 26
   },
   "B0BKPL1VKW": {
@@ -713,18 +699,18 @@
     "title": "サンワサプライ USBハブ付コンパクトキーボード SKB-KG3UH2BK ブラック テンキーなし",
     "percent_off": 24
   },
-  "B0BWDSC5ZB": {
-    "first_seen": "2026-10-06",
-    "first_seen_at": "2026-10-06T00:16:13+09:00",
-    "last_seen": "2026-10-11",
-    "title": "【Amazon.co.jp限定】 ロジクール ワイヤレスキーボード 無線 MX KEYS mini KX700GRd 日本語配列 国内正規品",
-    "percent_off": 22
-  },
   "B00FJ0GDLQ": {
     "first_seen": "2026-09-26",
     "first_seen_at": "2026-09-26T02:14:52+09:00",
     "last_seen": "2026-10-11",
     "title": "エレコム USB キーボード ワイヤレス (レシーバー付属) メンブレン フルキーボード 1000万回高耐久 PlayStation4 対応 ブラック TK-FDM063TBK",
+    "percent_off": 22
+  },
+  "B0BWDSC5ZB": {
+    "first_seen": "2026-10-06",
+    "first_seen_at": "2026-10-06T00:16:13+09:00",
+    "last_seen": "2026-10-11",
+    "title": "【Amazon.co.jp限定】 ロジクール ワイヤレスキーボード 無線 MX KEYS mini KX700GRd 日本語配列 国内正規品",
     "percent_off": 22
   },
   "B09Q5SHDR3": {
@@ -797,6 +783,20 @@
     "title": "Logicool G ゲーミングマウス G304 LIGHTSPEED ワイヤレス ゲーミング マウス 軽量 99g HERO 12Kセンサー 6個プログラムボタン 250時間連続使用可能 ブラック PC windows mac 国内正規品 【 ファイナルファンタジー XIV 推奨モデル 】",
     "percent_off": 18
   },
+  "B0FP24CSYK": {
+    "first_seen": "2026-10-11",
+    "first_seen_at": "2026-10-11T20:15:55+09:00",
+    "last_seen": "2026-10-11",
+    "title": "Logicool G ラピッドトリガー G515 RAPID TKL 薄型 ゲーミングキーボード G515-TKL-RTBK アクチュエーションポイント 調整可能 日本語配列 押下圧 35g 有線 テンキーレス 磁気式アナログスイッチ ロープロファイル LIGHTSYNC RGB ゲーミング キーボード メカニカルキーボード ラピトリ ブラック windows 国内正規品",
+    "percent_off": 18
+  },
+  "B0DC5WZLY2": {
+    "first_seen": "2026-10-11",
+    "first_seen_at": "2026-10-11T20:15:55+09:00",
+    "last_seen": "2026-10-11",
+    "title": "ロジクール 静音 ワイヤレス トラックボール マウス M575SPOW Bluetooth Logibolt 無線 windows mac iPad OS Chrome トラックボールマウス オフホワイト M575 M575SP 国内正規品",
+    "percent_off": 18
+  },
   "B0CJR8Y56J": {
     "first_seen": "2026-07-26",
     "first_seen_at": "2026-07-26T12:00:00+09:00",
@@ -824,13 +824,6 @@
     "last_seen": "2026-10-11",
     "title": "エレコム ワイヤレス トラックボール マウス IST PLUS (アイエスティー プラス) ボールローラー Bluetooth×2 無線2.4GHz×1 マルチ接続 Windows/mac/iPad/Chrome/Android ブラック M-IT10MRSABK",
     "percent_off": 16
-  },
-  "B0FR8LPP2K": {
-    "first_seen": "2026-10-06",
-    "first_seen_at": "2026-10-06T01:15:14+09:00",
-    "last_seen": "2026-10-11",
-    "title": "【Amazon.co.jp限定】 ロジクール MX MASTER 4 アドバンスド ワイヤレス マウス 触覚フィードバック 静音 MX2400GRd",
-    "percent_off": 15
   },
   "B09J46WG5D": {
     "first_seen": "2026-10-06",
@@ -881,6 +874,13 @@
     "title": "ロジクール SIGNATURE SLIM ワイヤレス キーボード K950GR 薄型 静かなタイピング Bluetooth Logi Bolt ワイヤレスキーボード テンキー 無線 Easy-Switch 日本語配列 電池寿命36ケ月 Windows Mac Chrome Android K950 グラファイト 国内正規品",
     "percent_off": 15
   },
+  "B0FR7Q59GQ": {
+    "first_seen": "2026-10-09",
+    "first_seen_at": "2026-10-09T22:14:53+09:00",
+    "last_seen": "2026-10-11",
+    "title": "ロジクール MX MASTER 4 アドバンスド ワイヤレス マウス 触覚フィードバック 静音 MX2400PG Logi Bolt Bluetooth Unifying非対応 8000dpi 高速スクロールホイール USB-C 充電式 無線 MX2400 ペイルグレー 国内正規品",
+    "percent_off": 14
+  },
   "B07NDM4CQZ": {
     "first_seen": "2026-10-08",
     "first_seen_at": "2026-10-08T22:14:47+09:00",
@@ -902,19 +902,75 @@
     "title": "[山善] ノンフライヤー 4.5L 大容量 電気フライヤー ノンオイル エアフライヤー 3~5人用 家庭用 卓上 揚げ物 惣菜 タイマー 温度調節 レシピブック付き ブラック YAH-AC120(B)",
     "percent_off": 23
   },
+  "B0F37VLJQW": {
+    "first_seen": "2026-09-15",
+    "first_seen_at": "2026-09-15T02:14:33+09:00",
+    "last_seen": "2026-10-11",
+    "title": "UGREEN MagFlow Qi2 25W認証 モバイルバッテリー Magsafe マグネット式ワイヤレス急速充電 10000mAh 水色",
+    "percent_off": null
+  },
+  "B0GF26RSYQ": {
+    "first_seen": "2026-07-27",
+    "first_seen_at": "2026-07-27T12:00:00+09:00",
+    "last_seen": "2026-10-11",
+    "title": "Anker Nano Charger (45W, Display, スイングプラグ) ブラック",
+    "percent_off": 25
+  },
+  "B0GF29FF6N": {
+    "first_seen": "2026-10-05",
+    "first_seen_at": "2026-10-05T00:14:58+09:00",
+    "last_seen": "2026-10-11",
+    "title": "Anker Nano Charger (45W, Display, スイングプラグ) ブルー",
+    "percent_off": 25
+  },
+  "B0DMN885ZF": {
+    "first_seen": "2026-08-05",
+    "first_seen_at": "2026-08-05T03:07:44+09:00",
+    "last_seen": "2026-10-11",
+    "title": "UGREEN 45W USB-C 急速充電器 Type-C PD GaNⅡ充電器 PSE適合タイプc充電器 PD/PPS/SCP/QC3.0",
+    "percent_off": null
+  },
+  "B0C8HMLHTB": {
+    "first_seen": "2026-10-06",
+    "first_seen_at": "2026-10-06T03:15:02+09:00",
+    "last_seen": "2026-10-11",
+    "title": "エレコム 充電器 65W USB PD対応 3ポート Type-C USB-A 【 iPhone 16 15 14 iPad Macbook Air ノートPC】 ブラック EC-AC4465BK",
+    "percent_off": 15
+  },
+  "B0GX8DRYCX": {
+    "first_seen": "2026-09-03",
+    "first_seen_at": "2026-09-03T12:14:47+09:00",
+    "last_seen": "2026-10-11",
+    "title": "HUAWEI WATCH FIT 5 スマートウォッチ 薄型軽量 大画面 GPS内蔵 10日間ロングバッテリー 通知 健康管理 心拍数 睡眠 ブラック",
+    "percent_off": 16
+  },
+  "B0B1Q636K7": {
+    "first_seen": "2026-07-26",
+    "first_seen_at": "2026-07-26T12:00:00+09:00",
+    "last_seen": "2026-10-11",
+    "title": "ロジクール KX850FT MX MECHANICAL ワイヤレス メカニカル パフォーマンス キーボード 茶軸 タクタイル テンキー 静かな打鍵感 特に静か Logi Bolt bluetooth Unifying非対応 薄型 無線 メカニカルキーボード windows mac chrome Android ワイヤレスキーボード KX850 国内正規品 グラファイト",
+    "percent_off": 28
+  },
+  "B0BKP2XWY5": {
+    "first_seen": "2026-10-06",
+    "first_seen_at": "2026-10-06T21:15:02+09:00",
+    "last_seen": "2026-10-11",
+    "title": "【Amazon.co.jp限定】 ロジクールワイヤレスマウス 静音 無線 Signature M550MBKs レギュラー ブラック 国内正規品",
+    "percent_off": 26
+  },
+  "B0FR8LPP2K": {
+    "first_seen": "2026-10-06",
+    "first_seen_at": "2026-10-06T01:15:14+09:00",
+    "last_seen": "2026-10-11",
+    "title": "【Amazon.co.jp限定】 ロジクール MX MASTER 4 アドバンスド ワイヤレス マウス 触覚フィードバック 静音 MX2400GRd",
+    "percent_off": 15
+  },
   "B0DQ7MJ8P3": {
     "first_seen": "2026-08-22",
     "first_seen_at": "2026-08-22T00:50:58+09:00",
     "last_seen": "2026-10-11",
     "title": "HUAWEI WATCH D2 ウェアラブル血圧計LCA-B10:ブラック",
     "percent_off": 21
-  },
-  "B0FJS3P8NT": {
-    "first_seen": "2026-07-27",
-    "first_seen_at": "2026-07-27T12:00:00+09:00",
-    "last_seen": "2026-10-11",
-    "title": "UGREEN 45W USB-C*4+USB-A*1 急速充電器 Type-C GaNⅡ タイプc PSE適合/PD3.0/PPS/SCP/QC3.0",
-    "percent_off": null
   },
   "B0BWF2SW7B": {
     "first_seen": "2026-09-22",
@@ -1097,13 +1153,6 @@
     "last_seen": "2026-10-10",
     "title": "ロジクール ワイヤレスマウス 静音 無線 高速スクロール Signature M650MBL レギュラー ブルー M650 国内正規品",
     "percent_off": 21
-  },
-  "B0FR7Q59GQ": {
-    "first_seen": "2026-10-09",
-    "first_seen_at": "2026-10-09T22:14:53+09:00",
-    "last_seen": "2026-10-10",
-    "title": "ロジクール MX MASTER 4 アドバンスド ワイヤレス マウス 触覚フィードバック 静音 MX2400PG Logi Bolt Bluetooth Unifying非対応 8000dpi 高速スクロールホイール USB-C 充電式 無線 MX2400 ペイルグレー 国内正規品",
-    "percent_off": 14
   },
   "B0GGWQ7HZ2": {
     "first_seen": "2026-10-09",
@@ -1679,13 +1728,6 @@
     "title": "【Amazon.co.jp限定】 ロジクール ワイヤレスマウス 無線 マウス M185BL M185 ブルー 国内正規品",
     "percent_off": 30
   },
-  "B0B1Q383WZ": {
-    "first_seen": "2026-08-12",
-    "first_seen_at": "2026-08-12T14:03:29+09:00",
-    "last_seen": "2026-10-08",
-    "title": "ロジクール KX850FL MX MECHANICAL ワイヤレス メカニカル パフォーマンス キーボード 赤軸 リニア テンキー 静かな打鍵感 Logi Bolt bluetooth Unifying非対応 薄型 無線 メカニカルキーボード windows mac chrome Android ワイヤレスキーボード KX850 国内正規品 グラファイト",
-    "percent_off": 28
-  },
   "B09Q5KKBP3": {
     "first_seen": "2026-08-05",
     "first_seen_at": "2026-08-05T21:15:31+09:00",
@@ -1734,13 +1776,6 @@
     "last_seen": "2026-10-08",
     "title": "アイリスオーヤマ 過熱水蒸気 エア フライヤー 3L 2～3人用 ノンオイルフライヤー スチーム機能 ジューシー FV-M30A-C アイボリー",
     "percent_off": 42
-  },
-  "B0G2S9LVS4": {
-    "first_seen": "2026-09-15",
-    "first_seen_at": "2026-09-15T00:14:54+09:00",
-    "last_seen": "2026-10-07",
-    "title": "UGREEN MagFlow Qi2 25W認証 モバイルバッテリー Magsafe マグネット式ワイヤレス急速充電 10000mAh ブラック",
-    "percent_off": 25
   },
   "B0CCJG2DLV": {
     "first_seen": "2026-10-03",
@@ -1903,13 +1938,6 @@
     "title": "【Amazon.co.jp限定】 Ninja ニンジャ Crispi クリスピー FN100JGNNR 自動調理器 3つの調理モード (クリスプ/ベイク・ロースト/リクリスプ) 煮る 焼く 蒸す 炒める 煮込む 炊く 温風調理 エアフライヤー ノンフライヤー FN100J ミント",
     "percent_off": 27
   },
-  "B0D7ZLCCLN": {
-    "first_seen": "2026-10-06",
-    "first_seen_at": "2026-10-06T22:15:05+09:00",
-    "last_seen": "2026-10-06",
-    "title": "ロジクール MX KEYS mini for Mac ワイヤレス キーボード KX700MSG US配列 Bluetooth Smart Actions 対応 Mac iPad iOS 無線 薄型 USB TYPE-C 充電式 ワイヤレスキーボード KX700 スペースグレー 国内正規品",
-    "percent_off": 26
-  },
   "B0CJR7JGTB": {
     "first_seen": "2026-09-10",
     "first_seen_at": "2026-09-10T20:14:59+09:00",
@@ -2056,13 +2084,6 @@
     "last_seen": "2026-10-05",
     "title": "ロジクール SIGNATURE K855GR 無線 メカニカルキーボード TTC製 赤軸 リニア Bluetooth Logi Bolt Unifying非対応 コンパクト 日本語配列 小型 テンキーレス メカニカル ワイヤレス キーボード グラファイト windows mac Chrome Android K855 国内正規品",
     "percent_off": 20
-  },
-  "B0GF24NN7N": {
-    "first_seen": "2026-10-05",
-    "first_seen_at": "2026-10-05T21:14:52+09:00",
-    "last_seen": "2026-10-05",
-    "title": "Anker Nano Charger (45W, Display, スイングプラグ) ホワイト",
-    "percent_off": 25
   },
   "B0BKPKV6SG": {
     "first_seen": "2026-09-11",
