@@ -146,13 +146,6 @@
     "title": "iPad(A16と第10世代)用Magic Keyboard Folio - 日本語",
     "percent_off": 8
   },
-  "B0GR1TB3TP": {
-    "first_seen": "2026-10-10",
-    "first_seen_at": "2026-10-10T21:14:49+09:00",
-    "last_seen": "2026-10-11",
-    "title": "Apple 2026 MacBook Air M5チップ搭載13インチノートブック：AIとApple Intelligence、13.6インチLiquid Retinaディスプレイ、16GBユニファイドメモリ、1TB SSDストレージ、12MPセンターフレームカメラ、日本語キーボード、Touch ID - ミッドナイト",
-    "percent_off": 5
-  },
   "B0GW7WT5SQ": {
     "first_seen": "2026-10-07",
     "first_seen_at": "2026-10-07T00:14:58+09:00",
@@ -481,13 +474,6 @@
     "last_seen": "2026-10-11",
     "title": "INNOCN ゲーミングモニター 24.5インチ 200Hz IPS 1ms(GTG) フルHD 非光沢 フレームレス PS5/Xbox対応 Adaptive-Sync VESA100×100 HDMI2.0/DP1.4接続 25G2G",
     "percent_off": 15
-  },
-  "B0GHNXTK95": {
-    "first_seen": "2026-09-05",
-    "first_seen_at": "2026-09-05T23:14:40+09:00",
-    "last_seen": "2026-10-11",
-    "title": "【セット販売】【超小型】SwitchBot ロボット掃除機 K11+ ブラック＋サイドブラシ（4個セット）",
-    "percent_off": 20
   },
   "B0C9TKSP8V": {
     "first_seen": "2026-07-30",
@@ -929,6 +915,20 @@
     "last_seen": "2026-10-11",
     "title": "[山善] ノンフライヤー 4.5L 大容量 電気フライヤー ノンオイル エアフライヤー 3~5人用 家庭用 卓上 揚げ物 惣菜 タイマー 温度調節 レシピブック付き ブラック YAH-AC120(B)",
     "percent_off": 23
+  },
+  "B0GR1TB3TP": {
+    "first_seen": "2026-10-10",
+    "first_seen_at": "2026-10-10T21:14:49+09:00",
+    "last_seen": "2026-10-11",
+    "title": "Apple 2026 MacBook Air M5チップ搭載13インチノートブック：AIとApple Intelligence、13.6インチLiquid Retinaディスプレイ、16GBユニファイドメモリ、1TB SSDストレージ、12MPセンターフレームカメラ、日本語キーボード、Touch ID - ミッドナイト",
+    "percent_off": 5
+  },
+  "B0GHNXTK95": {
+    "first_seen": "2026-09-05",
+    "first_seen_at": "2026-09-05T23:14:40+09:00",
+    "last_seen": "2026-10-11",
+    "title": "【セット販売】【超小型】SwitchBot ロボット掃除機 K11+ ブラック＋サイドブラシ（4個セット）",
+    "percent_off": 20
   },
   "B0B6DLWMJF": {
     "first_seen": "2026-08-25",
