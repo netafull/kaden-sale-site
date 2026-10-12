@@ -524,18 +524,18 @@
     "title": "Belkin Qi2 車載ワイヤレス充電器 15W急速充電 MagSafe対応 スマホホルダー エアコン吹き出し口用",
     "percent_off": 39
   },
-  "B0DMN885ZF": {
-    "first_seen": "2026-08-05",
-    "first_seen_at": "2026-08-05T03:07:44+09:00",
-    "last_seen": "2026-10-13",
-    "title": "UGREEN 45W USB-C 急速充電器 Type-C PD GaNⅡ充電器 PSE適合タイプc充電器 PD/PPS/SCP/QC3.0",
-    "percent_off": 37
-  },
   "B0CD1NVW7R": {
     "first_seen": "2026-09-15",
     "first_seen_at": "2026-09-15T23:14:42+09:00",
     "last_seen": "2026-10-13",
     "title": "UGREEN NexodePro 充電器 当社比超薄15mm 65W Type-C 2C1A 3ポート PD3.0/PPS4.5A 対応 折り畳み式",
+    "percent_off": 36
+  },
+  "B0GRVM4XVT": {
+    "first_seen": "2026-10-13",
+    "first_seen_at": "2026-10-13T00:16:25+09:00",
+    "last_seen": "2026-10-13",
+    "title": "Belkin UltraCharge GaN 67W type-c 急速充電器 iPhone18 Pro/Pro Max AVS対応 2台同時充電",
     "percent_off": 36
   },
   "B0F99GKMZH": {
@@ -627,6 +627,13 @@
     "first_seen_at": "2026-10-05T00:14:58+09:00",
     "last_seen": "2026-10-13",
     "title": "Anker Nano Charger (45W, Display, スイングプラグ) ブルー",
+    "percent_off": 25
+  },
+  "B0FJS3P8NT": {
+    "first_seen": "2026-07-27",
+    "first_seen_at": "2026-07-27T12:00:00+09:00",
+    "last_seen": "2026-10-13",
+    "title": "UGREEN 45W USB-C*4+USB-A*1 急速充電器 Type-C GaNⅡ タイプc PSE適合/PD3.0/PPS/SCP/QC3.0",
     "percent_off": 25
   },
   "B0FH28F7SJ": {
@@ -1012,13 +1019,6 @@
     "first_seen_at": "2026-10-07T12:14:42+09:00",
     "last_seen": "2026-10-13",
     "title": "Xiaomi Redmi Watch 6 シャオミ スマートウォッチ GPS Bluetooth通話 着信通知 防水 24日間持続 iPhone対応",
-    "percent_off": 19
-  },
-  "B0G529YNFK": {
-    "first_seen": "2026-09-05",
-    "first_seen_at": "2026-09-05T15:14:47+09:00",
-    "last_seen": "2026-10-13",
-    "title": "Amazfit Active Max 48mm スマートウォッチ ハイブリッドトレーニング HYROX ヤマレコ ヤマップ 3000nit高輝度 GPS 5衛星 オフラインマップ AIによる音声操作と睡眠/運動管理 心拍 睡眠 健康管理 170+スポーツモード ナビゲーション ルートインポート5ATM防水 Max 25日間バッテリー持続 丸型",
     "percent_off": 19
   },
   "B0F9LB5PQF": {
@@ -1602,26 +1602,26 @@
     "title": "COSORI コソリ ノンフライヤー 6L大容量 エアフライヤー DCモーター 高速 最高温230℃ 発酵 air fryer CAF-DC601",
     "percent_off": 15
   },
+  "B0DMN885ZF": {
+    "first_seen": "2026-08-05",
+    "first_seen_at": "2026-08-05T03:07:44+09:00",
+    "last_seen": "2026-10-13",
+    "title": "UGREEN 45W USB-C 急速充電器 Type-C PD GaNⅡ充電器 PSE適合タイプc充電器 PD/PPS/SCP/QC3.0",
+    "percent_off": 37
+  },
+  "B0G529YNFK": {
+    "first_seen": "2026-09-05",
+    "first_seen_at": "2026-09-05T15:14:47+09:00",
+    "last_seen": "2026-10-13",
+    "title": "Amazfit Active Max 48mm スマートウォッチ ハイブリッドトレーニング HYROX ヤマレコ ヤマップ 3000nit高輝度 GPS 5衛星 オフラインマップ AIによる音声操作と睡眠/運動管理 心拍 睡眠 健康管理 170+スポーツモード ナビゲーション ルートインポート5ATM防水 Max 25日間バッテリー持続 丸型",
+    "percent_off": 19
+  },
   "B0DGJ63QY8": {
     "first_seen": "2026-09-14",
     "first_seen_at": "2026-09-14T20:14:52+09:00",
     "last_seen": "2026-10-13",
     "title": "Apple AirPods 4 ワイヤレスイヤホン、Bluetooth5.3、パーソナライズされた空間オーディオ、耐汗耐水性能、USB-C 充電ケース、H2 チップ、最大 30 時間の バッテリー駆動時間、「探す」対応、iPhoneで簡単に設定",
     "percent_off": 17
-  },
-  "B0GRVM4XVT": {
-    "first_seen": "2026-10-13",
-    "first_seen_at": "2026-10-13T00:16:25+09:00",
-    "last_seen": "2026-10-13",
-    "title": "Belkin UltraCharge GaN 67W type-c 急速充電器 iPhone18 Pro/Pro Max AVS対応 2台同時充電",
-    "percent_off": 36
-  },
-  "B0FJS3P8NT": {
-    "first_seen": "2026-07-27",
-    "first_seen_at": "2026-07-27T12:00:00+09:00",
-    "last_seen": "2026-10-13",
-    "title": "UGREEN 45W USB-C*4+USB-A*1 急速充電器 Type-C GaNⅡ タイプc PSE適合/PD3.0/PPS/SCP/QC3.0",
-    "percent_off": 25
   },
   "B0H33R37MZ": {
     "first_seen": "2026-10-07",
