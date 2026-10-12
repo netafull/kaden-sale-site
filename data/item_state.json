@@ -167,13 +167,6 @@
     "title": "Apple 2026 MacBook Pro 18コアCPU、32コアGPUのM5 Maxチップ搭載ノートパソコン：AIのために設計、14.2インチLiquid Retina XDRディスプレイ、36GBユニファイドメモリ、2TBのSSDストレージ - スペースブラック + 3年延長 AppleCare+ for 14インチMacBook Pro(M5 Pro/M5 Max)|ダウンロード版",
     "percent_off": 7
   },
-  "B0GR1LGT2H": {
-    "first_seen": "2026-10-12",
-    "first_seen_at": "2026-10-12T05:15:52+09:00",
-    "last_seen": "2026-10-12",
-    "title": "Apple 2026 MacBook Air M5チップ搭載13インチノートブック：AIとApple Intelligence、13.6インチLiquid Retinaディスプレイ、24GBユニファイドメモリ、1TB SSDストレージ、12MPセンターフレームカメラ、日本語キーボード、Touch ID - スカイブルー",
-    "percent_off": 5
-  },
   "B0GW7WT5SQ": {
     "first_seen": "2026-10-07",
     "first_seen_at": "2026-10-07T00:14:58+09:00",
@@ -186,7 +179,7 @@
     "first_seen_at": "2026-09-21T21:14:57+09:00",
     "last_seen": "2026-10-12",
     "title": "ソニー(SONY) WF-C710N ブラック ワイヤレスイヤホン 高性能ノイズキャンセリング Bluetoothロングバッテリー 外音取り込み IPX4防滴性能 軽量 コンパクト マルチポイント接続",
-    "percent_off": 27
+    "percent_off": 24
   },
   "B0FCSGGHLL": {
     "first_seen": "2026-07-24",
@@ -200,7 +193,7 @@
     "first_seen_at": "2026-08-16T23:40:53+09:00",
     "last_seen": "2026-10-12",
     "title": "ソニー(SONY) 完全ワイヤレスイヤホン WF-C510 / 軽量小型4.6g / 高精度通話品質/外音取り込み対応/マルチポイント対応 / IPX4防滴性能 / ブラック/WF-C510 BC",
-    "percent_off": 21
+    "percent_off": 23
   },
   "B0CBKQZXT7": {
     "first_seen": "2026-10-07",
@@ -880,6 +873,13 @@
     "last_seen": "2026-10-12",
     "title": "[山善] ノンフライヤー 4.5L 大容量 電気フライヤー ノンオイル エアフライヤー 3~5人用 家庭用 卓上 揚げ物 惣菜 タイマー 温度調節 レシピブック付き ブラック YAH-AC120(B)",
     "percent_off": 23
+  },
+  "B0GR1LGT2H": {
+    "first_seen": "2026-10-12",
+    "first_seen_at": "2026-10-12T05:15:52+09:00",
+    "last_seen": "2026-10-12",
+    "title": "Apple 2026 MacBook Air M5チップ搭載13インチノートブック：AIとApple Intelligence、13.6インチLiquid Retinaディスプレイ、24GBユニファイドメモリ、1TB SSDストレージ、12MPセンターフレームカメラ、日本語キーボード、Touch ID - スカイブルー",
+    "percent_off": 5
   },
   "B0GR1TB3TP": {
     "first_seen": "2026-10-10",
