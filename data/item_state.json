@@ -531,6 +531,13 @@
     "title": "Belkin Qi2 15W 3in1ワイヤレス充電器 MagSafe対応 折りたたみ式magsafe スタンド iPhone 18対応 ブラック",
     "percent_off": 49
   },
+  "B0FDFC2DDD": {
+    "first_seen": "2026-10-15",
+    "first_seen_at": "2026-10-15T01:15:57+09:00",
+    "last_seen": "2026-10-15",
+    "title": "Belkin Cubic Charger 45W 充電器 type-c iphone18対応 急速充電 PD3.2 PPS対応",
+    "percent_off": 46
+  },
   "B0D53VJJ7F": {
     "first_seen": "2026-07-28",
     "first_seen_at": "2026-07-28T12:00:00+09:00",
@@ -551,13 +558,6 @@
     "last_seen": "2026-10-15",
     "title": "UGREEN NexodePro 充電器 当社比超薄15mm 65W Type-C 2C1A 3ポート PD3.0/PPS4.5A 対応 折り畳み式",
     "percent_off": 38
-  },
-  "B0DMN885ZF": {
-    "first_seen": "2026-08-05",
-    "first_seen_at": "2026-08-05T03:07:44+09:00",
-    "last_seen": "2026-10-15",
-    "title": "UGREEN 45W USB-C 急速充電器 Type-C PD GaNⅡ充電器 PSE適合タイプc充電器 PD/PPS/SCP/QC3.0",
-    "percent_off": 37
   },
   "B0GRVM4XVT": {
     "first_seen": "2026-10-13",
@@ -593,13 +593,6 @@
     "last_seen": "2026-10-15",
     "title": "Anker 511 Charger (Nano 3, 30W) ホワイト",
     "percent_off": null
-  },
-  "B0FH591N2W": {
-    "first_seen": "2026-10-13",
-    "first_seen_at": "2026-10-13T01:14:56+09:00",
-    "last_seen": "2026-10-15",
-    "title": "Belkin Cubic Charger 45W 充電器 type-c iphone18対応 充電器 急速充電 PD3.2 PPS対応 ダークグレー",
-    "percent_off": 32
   },
   "B091BGMKYS": {
     "first_seen": "2026-07-27",
@@ -662,6 +655,13 @@
     "first_seen_at": "2026-10-05T00:14:58+09:00",
     "last_seen": "2026-10-15",
     "title": "Anker Nano Charger (45W, Display, スイングプラグ) ブルー",
+    "percent_off": 25
+  },
+  "B0FJS3P8NT": {
+    "first_seen": "2026-07-27",
+    "first_seen_at": "2026-07-27T12:00:00+09:00",
+    "last_seen": "2026-10-15",
+    "title": "UGREEN 45W USB-C*4+USB-A*1 急速充電器 Type-C GaNⅡ タイプc PSE適合/PD3.0/PPS/SCP/QC3.0",
     "percent_off": 25
   },
   "B0FH28F7SJ": {
@@ -1756,12 +1756,19 @@
     "title": "COSORI コソリ ノンフライヤー 6L大容量 エアフライヤー DCモーター 高速 最高温230℃ 発酵 air fryer CAF-DC601",
     "percent_off": 15
   },
-  "B0FDFC2DDD": {
-    "first_seen": "2026-10-15",
-    "first_seen_at": "2026-10-15T01:15:57+09:00",
+  "B0DMN885ZF": {
+    "first_seen": "2026-08-05",
+    "first_seen_at": "2026-08-05T03:07:44+09:00",
     "last_seen": "2026-10-15",
-    "title": "Belkin Cubic Charger 45W 充電器 type-c iphone18対応 急速充電 PD3.2 PPS対応",
-    "percent_off": 46
+    "title": "UGREEN 45W USB-C 急速充電器 Type-C PD GaNⅡ充電器 PSE適合タイプc充電器 PD/PPS/SCP/QC3.0",
+    "percent_off": 37
+  },
+  "B0FH591N2W": {
+    "first_seen": "2026-10-13",
+    "first_seen_at": "2026-10-13T01:14:56+09:00",
+    "last_seen": "2026-10-15",
+    "title": "Belkin Cubic Charger 45W 充電器 type-c iphone18対応 充電器 急速充電 PD3.2 PPS対応 ダークグレー",
+    "percent_off": 32
   },
   "B0DM8X73L2": {
     "first_seen": "2026-10-14",
@@ -1783,13 +1790,6 @@
     "last_seen": "2026-10-15",
     "title": "エレコム モバイルバッテリー 5000mAh ワイヤレス マグネット対応 7.5W スタンド付き Type-C ブラック DE-C53-5000BK",
     "percent_off": 23
-  },
-  "B0FJS3P8NT": {
-    "first_seen": "2026-07-27",
-    "first_seen_at": "2026-07-27T12:00:00+09:00",
-    "last_seen": "2026-10-15",
-    "title": "UGREEN 45W USB-C*4+USB-A*1 急速充電器 Type-C GaNⅡ タイプc PSE適合/PD3.0/PPS/SCP/QC3.0",
-    "percent_off": 25
   },
   "B0FK4LRZQH": {
     "first_seen": "2026-10-13",
