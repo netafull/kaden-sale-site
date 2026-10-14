@@ -489,13 +489,6 @@
     "title": "【アマゾン限定】Belkin モバイルバッテリー 軽量 10000mAh 20W USB-Cケーブル内蔵 2台同時充電 ブルー",
     "percent_off": 15
   },
-  "B0G4Q8ZDF3": {
-    "first_seen": "2026-07-31",
-    "first_seen_at": "2026-07-31T12:00:00+09:00",
-    "last_seen": "2026-10-14",
-    "title": "エレコム モバイルバッテリー 10000mAh 45W リール式 巻き取り式ケーブル 2ポート USB-A/C 【残量表示/PSE技術基準適合/PD対応】 しろちゃん EC-C54LWF",
-    "percent_off": 15
-  },
   "B098SQSRRV": {
     "first_seen": "2026-07-31",
     "first_seen_at": "2026-07-31T12:00:00+09:00",
@@ -530,6 +523,13 @@
     "last_seen": "2026-10-14",
     "title": "UGREEN NexodePro 充電器 当社比超薄15mm 65W Type-C 2C1A 3ポート PD3.0/PPS4.5A 対応 折り畳み式",
     "percent_off": 38
+  },
+  "B0GRVM4XVT": {
+    "first_seen": "2026-10-13",
+    "first_seen_at": "2026-10-13T00:16:25+09:00",
+    "last_seen": "2026-10-14",
+    "title": "Belkin UltraCharge GaN 67W type-c 急速充電器 iPhone18 Pro/Pro Max AVS対応 2台同時充電",
+    "percent_off": 36
   },
   "B0F99FCSX7": {
     "first_seen": "2026-07-27",
@@ -885,7 +885,7 @@
     "first_seen": "2026-07-30",
     "first_seen_at": "2026-07-30T12:00:00+09:00",
     "last_seen": "2026-10-14",
-    "title": "SwitchBot サーキュレーター DCモーター コードレス扇風機 充電式 静音 強力送風 - 3D首振り 30畳 無段階風量調整 省エネ",
+    "title": "SwitchBot サーキュレーター DCモーター コードレス扇風機 充電式 静音 強力送風 - 上下左右首振り 30畳 100段階風量調整 省エネ",
     "percent_off": 50
   },
   "B0DYD1R49S": {
@@ -1658,12 +1658,12 @@
     "title": "COSORI コソリ ノンフライヤー 6L大容量 家庭用 エアフライヤー DCモーター 高速 最高温230℃ タイマー air fryer 発酵 揚げ物 ポテト 専用レシピ付き ブラック CAF-DC601",
     "percent_off": 14
   },
-  "B0GRVM4XVT": {
-    "first_seen": "2026-10-13",
-    "first_seen_at": "2026-10-13T00:16:25+09:00",
+  "B0G4Q8ZDF3": {
+    "first_seen": "2026-07-31",
+    "first_seen_at": "2026-07-31T12:00:00+09:00",
     "last_seen": "2026-10-14",
-    "title": "Belkin UltraCharge GaN 67W type-c 急速充電器 iPhone18 Pro/Pro Max AVS対応 2台同時充電",
-    "percent_off": 36
+    "title": "エレコム モバイルバッテリー 10000mAh 45W リール式 巻き取り式ケーブル 2ポート USB-A/C 【残量表示/PSE技術基準適合/PD対応】 しろちゃん EC-C54LWF",
+    "percent_off": 15
   },
   "B0F8TZV7ST": {
     "first_seen": "2026-10-13",
