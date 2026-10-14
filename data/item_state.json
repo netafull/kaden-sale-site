@@ -216,19 +216,19 @@
     "title": "ソニー(SONY) WF-C710N ブラック ワイヤレスイヤホン 高性能ノイズキャンセリング Bluetoothロングバッテリー 外音取り込み IPX4防滴性能 軽量 コンパクト マルチポイント接続",
     "percent_off": 25
   },
-  "B0DDKHF9XY": {
-    "first_seen": "2026-08-16",
-    "first_seen_at": "2026-08-16T23:40:53+09:00",
-    "last_seen": "2026-10-14",
-    "title": "ソニー(SONY) 完全ワイヤレスイヤホン WF-C510 / 軽量小型4.6g / 高精度通話品質/外音取り込み対応/マルチポイント対応 / IPX4防滴性能 / ブラック/WF-C510 BC",
-    "percent_off": 24
-  },
   "B0FCSGGHLL": {
     "first_seen": "2026-07-24",
     "first_seen_at": "2026-07-24T12:00:00+09:00",
     "last_seen": "2026-10-14",
     "title": "Bose QuietComfort Ultra Earbuds (第2世代) ワイヤレス ノイズキャンセリング Bluetooth イヤホン 最長6時間連続再生 IPX4規格準拠 イマーシブオーディオ 迫力の重低音 ブラック",
     "percent_off": 23
+  },
+  "B0DDKHF9XY": {
+    "first_seen": "2026-08-16",
+    "first_seen_at": "2026-08-16T23:40:53+09:00",
+    "last_seen": "2026-10-14",
+    "title": "ソニー(SONY) 完全ワイヤレスイヤホン WF-C510 / 軽量小型4.6g / 高精度通話品質/外音取り込み対応/マルチポイント対応 / IPX4防滴性能 / ブラック/WF-C510 BC",
+    "percent_off": 21
   },
   "B0DDKGK41D": {
     "first_seen": "2026-10-14",
@@ -419,6 +419,13 @@
     "title": "Anker Power Bank (10000mAh, 22.5W) ブラック",
     "percent_off": 20
   },
+  "B0DRFQNPDQ": {
+    "first_seen": "2026-10-14",
+    "first_seen_at": "2026-10-14T15:16:25+09:00",
+    "last_seen": "2026-10-14",
+    "title": "Anker Zolo Power Bank (20000mAh, 30W, Built-In USB-Cケーブル) ブラック",
+    "percent_off": 20
+  },
   "B0CCJFY2V4": {
     "first_seen": "2026-10-01",
     "first_seen_at": "2026-10-01T23:14:55+09:00",
@@ -482,6 +489,13 @@
     "title": "【アマゾン限定】Belkin モバイルバッテリー 軽量 10000mAh 20W USB-Cケーブル内蔵 2台同時充電 ブルー",
     "percent_off": 15
   },
+  "B0G4Q8ZDF3": {
+    "first_seen": "2026-07-31",
+    "first_seen_at": "2026-07-31T12:00:00+09:00",
+    "last_seen": "2026-10-14",
+    "title": "エレコム モバイルバッテリー 10000mAh 45W リール式 巻き取り式ケーブル 2ポート USB-A/C 【残量表示/PSE技術基準適合/PD対応】 しろちゃん EC-C54LWF",
+    "percent_off": 15
+  },
   "B098SQSRRV": {
     "first_seen": "2026-07-31",
     "first_seen_at": "2026-07-31T12:00:00+09:00",
@@ -516,13 +530,6 @@
     "last_seen": "2026-10-14",
     "title": "UGREEN NexodePro 充電器 当社比超薄15mm 65W Type-C 2C1A 3ポート PD3.0/PPS4.5A 対応 折り畳み式",
     "percent_off": 38
-  },
-  "B0GRVM4XVT": {
-    "first_seen": "2026-10-13",
-    "first_seen_at": "2026-10-13T00:16:25+09:00",
-    "last_seen": "2026-10-14",
-    "title": "Belkin UltraCharge GaN 67W type-c 急速充電器 iPhone18 Pro/Pro Max AVS対応 2台同時充電",
-    "percent_off": 36
   },
   "B0F99FCSX7": {
     "first_seen": "2026-07-27",
@@ -648,13 +655,6 @@
     "first_seen_at": "2026-08-15T00:10:25+09:00",
     "last_seen": "2026-10-14",
     "title": "Anker Prime Charger (100W, 3 Ports, GaN)",
-    "percent_off": 21
-  },
-  "B0F8TZV7ST": {
-    "first_seen": "2026-10-13",
-    "first_seen_at": "2026-10-13T00:16:25+09:00",
-    "last_seen": "2026-10-14",
-    "title": "CIO NovaPort SLIM QUAD for DESK 薄型急速充電器 67W USB-C×3 USB-A×1 4台同時充電 (ブラック)",
     "percent_off": 21
   },
   "B0F43M6SBB": {
@@ -860,13 +860,6 @@
     "title": "【Amazon.co.jp限定】ASUSゲーミングモニター/TUF Gaming VG259Q5A – 24.5インチ / フルHD（1920x1080） / 200Hz / Fast IPS/ELMB / 0.3ms GTG（最小） / ステレオスピーカー/DisplayWidget Center/国内正規品",
     "percent_off": 18
   },
-  "B0CPXPKXHS": {
-    "first_seen": "2026-10-13",
-    "first_seen_at": "2026-10-13T22:15:31+09:00",
-    "last_seen": "2026-10-14",
-    "title": "【Amazon.co.jp 限定】IODATA モニター 21.5型 省電力 (HDMI/アナログRGB/スピーカ付/VESA) EX-A221DB",
-    "percent_off": 15
-  },
   "B0CPXQQLL2": {
     "first_seen": "2026-10-13",
     "first_seen_at": "2026-10-13T00:16:25+09:00",
@@ -923,6 +916,13 @@
     "title": "スイッチボット(SwitchBot) SwitchBot スマートリモコン ハブ2 赤外線家電を管理 スマートホーム Alexa スイッチボット 学習リモコン 温湿度計機能付き 光センサー付き リモートボタン スケジュール シーンで家電一括操作 遠隔操作 節電·省エネ Google Home IFTTT Siri SmartThingsに対応 Hub2",
     "percent_off": 20
   },
+  "B09DGBYQD4": {
+    "first_seen": "2026-10-13",
+    "first_seen_at": "2026-10-13T00:16:25+09:00",
+    "last_seen": "2026-10-14",
+    "title": "【Works with Alexa認定】SwitchBot LED電球 スマートライト Alexa スマートホーム-スマート電球 E26 スイッチボット調光調色 広配光 800lm 60W形相当 電球色・昼白色対応 RGBCWマルチカラー 1600万色 間接照明 Google Home IFTTTイフトSiri SmartThings に対応W1401400​",
+    "percent_off": 17
+  },
   "B0GQRLL8Q4": {
     "first_seen": "2026-10-13",
     "first_seen_at": "2026-10-13T00:16:25+09:00",
@@ -942,13 +942,6 @@
     "first_seen_at": "2026-10-13T00:16:25+09:00",
     "last_seen": "2026-10-14",
     "title": "【Amazon.co.jp限定】 SwitchBot スマートリモコン ハブミニ(Matter対応) Alexa エアコンコントローラー - 温湿度センサー搭載 スイッチボット Hub Mini マター対応 スマートホーム 学習リモコン 赤外線家電を管理 節電·省エネ Echo Google Home Siri IFTTT SmartThings対応 Kataステッカー付き",
-    "percent_off": 15
-  },
-  "B09KCF5Z79": {
-    "first_seen": "2026-10-13",
-    "first_seen_at": "2026-10-13T13:14:56+09:00",
-    "last_seen": "2026-10-14",
-    "title": "SwitchBot LED電球 スマートライト Alexa スマートホーム - スマート電球 E26 スイッチボット 調光調色 広配光 800lm 60W形相当 電球色・昼白色対応 RGBCWマルチカラー 1600万色 間接照明 Google Home IFTTT イフト Siri SmartThings に対応(2個パック)",
     "percent_off": 15
   },
   "B0CR3WTRD4": {
@@ -1532,11 +1525,11 @@
     "title": "REALFORCE RC1 キーボード 70% ブラック 日本語配列 キー荷重 30g Bluetooth 有線 バッテリー コンパクト C1HJ13",
     "percent_off": 15
   },
-  "B0G7RLC8BB": {
+  "B0G7RJ4SZY": {
     "first_seen": "2026-10-13",
-    "first_seen_at": "2026-10-13T01:14:56+09:00",
+    "first_seen_at": "2026-10-13T22:15:31+09:00",
     "last_seen": "2026-10-14",
-    "title": "REALFORCE GX1Plus キーボード 45g 日本語配列 ブラック ダークグレー 静電容量無接点方式 ラピッドトリガー 8000Hz 最速0.1mm作動 PBT リアルフォース 日本製 かな無し X1PC11",
+    "title": "REALFORCE GX1Plus キーボード 30g 日本語配列 ブラック ダークグレー 静電容量無接点方式 ラピッドトリガー 8000Hz 最速0.1mm作動 PBT リアルフォース 日本製 かな無し X1PC13",
     "percent_off": 15
   },
   "B0GVYTYGWS": {
@@ -1665,6 +1658,41 @@
     "title": "COSORI コソリ ノンフライヤー 6L大容量 家庭用 エアフライヤー DCモーター 高速 最高温230℃ タイマー air fryer 発酵 揚げ物 ポテト 専用レシピ付き ブラック CAF-DC601",
     "percent_off": 14
   },
+  "B0GRVM4XVT": {
+    "first_seen": "2026-10-13",
+    "first_seen_at": "2026-10-13T00:16:25+09:00",
+    "last_seen": "2026-10-14",
+    "title": "Belkin UltraCharge GaN 67W type-c 急速充電器 iPhone18 Pro/Pro Max AVS対応 2台同時充電",
+    "percent_off": 36
+  },
+  "B0F8TZV7ST": {
+    "first_seen": "2026-10-13",
+    "first_seen_at": "2026-10-13T00:16:25+09:00",
+    "last_seen": "2026-10-14",
+    "title": "CIO NovaPort SLIM QUAD for DESK 薄型急速充電器 67W USB-C×3 USB-A×1 4台同時充電 (ブラック)",
+    "percent_off": 21
+  },
+  "B0CPXPKXHS": {
+    "first_seen": "2026-10-13",
+    "first_seen_at": "2026-10-13T22:15:31+09:00",
+    "last_seen": "2026-10-14",
+    "title": "【Amazon.co.jp 限定】IODATA モニター 21.5型 省電力 (HDMI/アナログRGB/スピーカ付/VESA) EX-A221DB",
+    "percent_off": 15
+  },
+  "B09KCF5Z79": {
+    "first_seen": "2026-10-13",
+    "first_seen_at": "2026-10-13T13:14:56+09:00",
+    "last_seen": "2026-10-14",
+    "title": "SwitchBot LED電球 スマートライト Alexa スマートホーム - スマート電球 E26 スイッチボット 調光調色 広配光 800lm 60W形相当 電球色・昼白色対応 RGBCWマルチカラー 1600万色 間接照明 Google Home IFTTT イフト Siri SmartThings に対応(2個パック)",
+    "percent_off": 15
+  },
+  "B0G7RLC8BB": {
+    "first_seen": "2026-10-13",
+    "first_seen_at": "2026-10-13T01:14:56+09:00",
+    "last_seen": "2026-10-14",
+    "title": "REALFORCE GX1Plus キーボード 45g 日本語配列 ブラック ダークグレー 静電容量無接点方式 ラピッドトリガー 8000Hz 最速0.1mm作動 PBT リアルフォース 日本製 かな無し X1PC11",
+    "percent_off": 15
+  },
   "B0B6DLWMJF": {
     "first_seen": "2026-08-25",
     "first_seen_at": "2026-08-25T13:56:30+09:00",
@@ -1734,13 +1762,6 @@
     "last_seen": "2026-10-14",
     "title": "【Amazon.co.jp限定】SwitchBot ハブ3 スマートリモコン Alexa対応 - 赤外線家電管理 2.4インチモニター スイッチボット",
     "percent_off": 21
-  },
-  "B09DGBYQD4": {
-    "first_seen": "2026-10-13",
-    "first_seen_at": "2026-10-13T00:16:25+09:00",
-    "last_seen": "2026-10-14",
-    "title": "【Works with Alexa認定】SwitchBot LED電球 スマートライト Alexa スマートホーム-スマート電球 E26 スイッチボット調光調色 広配光 800lm 60W形相当 電球色・昼白色対応 RGBCWマルチカラー 1600万色 間接照明 Google Home IFTTTイフトSiri SmartThings に対応W1401400​",
-    "percent_off": 17
   },
   "B07TTH5TMW": {
     "first_seen": "2026-10-13",
@@ -2231,13 +2252,6 @@
     "last_seen": "2026-10-13",
     "title": "エレコム マウス ワイヤレス Mサイズ 5ボタン(戻る・進むボタン搭載) BlueLED 握りの極み ホワイト(フェイス) M-XGM10DBWH/EC",
     "percent_off": 21
-  },
-  "B0G7RJ4SZY": {
-    "first_seen": "2026-10-13",
-    "first_seen_at": "2026-10-13T22:15:31+09:00",
-    "last_seen": "2026-10-13",
-    "title": "REALFORCE GX1Plus キーボード 30g 日本語配列 ブラック ダークグレー 静電容量無接点方式 ラピッドトリガー 8000Hz 最速0.1mm作動 PBT リアルフォース 日本製 かな無し X1PC13",
-    "percent_off": 15
   },
   "B0B5DK3XZ8": {
     "first_seen": "2026-10-13",
@@ -3820,13 +3834,6 @@
     "last_seen": "2026-09-30",
     "title": "Belkin モバイルバッテリー 軽量 10000mAh 20W USB-Cケーブル内蔵 2台同時充電 ホワイト",
     "percent_off": 37
-  },
-  "B0G4Q8ZDF3": {
-    "first_seen": "2026-07-31",
-    "first_seen_at": "2026-07-31T12:00:00+09:00",
-    "last_seen": "2026-09-30",
-    "title": "エレコム モバイルバッテリー 10000mAh 45W リール式 巻き取り式ケーブル 2ポート USB-A/C 【残量表示/PSE技術基準適合/PD対応】 しろちゃん EC-C54LWF",
-    "percent_off": 26
   },
   "B0GQGLHDXQ": {
     "first_seen": "2026-09-30",
