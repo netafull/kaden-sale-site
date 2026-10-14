@@ -342,6 +342,13 @@
     "title": "Belkin Apple Watch充電器一体型 モバイルバッテリー 3C 認証 10000mAh 45W USB-Cケーブル内蔵 3台同時充電",
     "percent_off": 29
   },
+  "B0DZ1TGX6T": {
+    "first_seen": "2026-07-24",
+    "first_seen_at": "2026-07-24T12:00:00+09:00",
+    "last_seen": "2026-10-14",
+    "title": "UGREEN Zapix【小型・軽量／10000mAh／USB－C＆USB－A／PD20W／2台同時充電】モバイルバッテリー 灰色 PB507",
+    "percent_off": 25
+  },
   "B0HBPC9W18": {
     "first_seen": "2026-10-13",
     "first_seen_at": "2026-10-13T00:16:25+09:00",
@@ -454,6 +461,13 @@
     "title": "エレコム モバイルバッテリー 5000mAh 22.5W USB-C 直挿し プラグ一体型 ケーブル不要 急速充電 コンパクト 軽量 130g iPhone対応 パススルー充電 PSE認証 スイング式コネクタ Type-C ピンク EC-C28LPN",
     "percent_off": 15
   },
+  "B0H1C39K7X": {
+    "first_seen": "2026-10-13",
+    "first_seen_at": "2026-10-13T22:15:31+09:00",
+    "last_seen": "2026-10-14",
+    "title": "エレコム モバイルバッテリー 10000mAh 大容量 軽量 小型 残量表示 LEDパネル 1%単位 15W USB-C USB-A 2ポート パススルー充電 PSE認証 iPhone iPad Android対応 しろちゃん EC-C64LWF",
+    "percent_off": 15
+  },
   "B0GTLRMFJZ": {
     "first_seen": "2026-10-13",
     "first_seen_at": "2026-10-13T00:16:25+09:00",
@@ -510,12 +524,12 @@
     "title": "UGREEN NexodePro 充電器 当社比超薄15mm 65W Type-C 2C1A 3ポート PD3.0/PPS4.5A 対応 折り畳み式",
     "percent_off": 38
   },
-  "B0B9X1RY8G": {
-    "first_seen": "2026-09-25",
-    "first_seen_at": "2026-09-25T15:14:52+09:00",
+  "B0DMN885ZF": {
+    "first_seen": "2026-08-05",
+    "first_seen_at": "2026-08-05T03:07:44+09:00",
     "last_seen": "2026-10-14",
-    "title": "UGREEN Zapix Magsafe充電器 2-in-1 マグネット式スタンド ワイヤレス対応 7.5W/5W Qi認証済",
-    "percent_off": 35
+    "title": "UGREEN 45W USB-C 急速充電器 Type-C PD GaNⅡ充電器 PSE適合タイプc充電器 PD/PPS/SCP/QC3.0",
+    "percent_off": 37
   },
   "B0GRVM4XVT": {
     "first_seen": "2026-10-13",
@@ -606,13 +620,6 @@
     "first_seen_at": "2026-10-05T00:14:58+09:00",
     "last_seen": "2026-10-14",
     "title": "Anker Nano Charger (45W, Display, スイングプラグ) ブルー",
-    "percent_off": 25
-  },
-  "B0FJS3P8NT": {
-    "first_seen": "2026-07-27",
-    "first_seen_at": "2026-07-27T12:00:00+09:00",
-    "last_seen": "2026-10-14",
-    "title": "UGREEN 45W USB-C*4+USB-A*1 急速充電器 Type-C GaNⅡ タイプc PSE適合/PD3.0/PPS/SCP/QC3.0",
     "percent_off": 25
   },
   "B0FH28F7SJ": {
@@ -725,13 +732,6 @@
     "first_seen_at": "2026-10-13T00:16:25+09:00",
     "last_seen": "2026-10-14",
     "title": "Belkin Qi2 25W 3in1 ワイヤレス充電器 iPhone18対応 折りたたみ式充電スタンド MagSafe/急速充電対応 3台同時充電",
-    "percent_off": 15
-  },
-  "B0CWN59C9H": {
-    "first_seen": "2026-10-13",
-    "first_seen_at": "2026-10-13T00:16:25+09:00",
-    "last_seen": "2026-10-14",
-    "title": "Belkin カーチャージャー 30W USB-C 車載充電器 PD/PPS対応 急速充電 ブラック",
     "percent_off": 15
   },
   "B0FKMYH46S": {
@@ -902,18 +902,18 @@
     "title": "スイッチボット(SwitchBot) SwitchBot スマートリモコン ハブ2 赤外線家電を管理 スマートホーム Alexa スイッチボット 学習リモコン 温湿度計機能付き 光センサー付き リモートボタン スケジュール シーンで家電一括操作 遠隔操作 節電·省エネ Google Home IFTTT Siri SmartThingsに対応 Hub2",
     "percent_off": 20
   },
-  "B0GQRLL8Q4": {
-    "first_seen": "2026-10-13",
-    "first_seen_at": "2026-10-13T00:16:25+09:00",
-    "last_seen": "2026-10-14",
-    "title": "【セット買い】SwitchBot スマートリモコン ハブ2 スマートデイリーステーション 温湿度計 - スイッチボット 天気ステーション 遠隔確認 スマートホーム Alexa Google Home Siriに対応(ハブ2 1点+スマートデイリーステーション 1点)",
-    "percent_off": 17
-  },
   "B09DGBYQD4": {
     "first_seen": "2026-10-13",
     "first_seen_at": "2026-10-13T00:16:25+09:00",
     "last_seen": "2026-10-14",
     "title": "【Works with Alexa認定】SwitchBot LED電球 スマートライト Alexa スマートホーム-スマート電球 E26 スイッチボット調光調色 広配光 800lm 60W形相当 電球色・昼白色対応 RGBCWマルチカラー 1600万色 間接照明 Google Home IFTTTイフトSiri SmartThings に対応W1401400​",
+    "percent_off": 17
+  },
+  "B0GQRLL8Q4": {
+    "first_seen": "2026-10-13",
+    "first_seen_at": "2026-10-13T00:16:25+09:00",
+    "last_seen": "2026-10-14",
+    "title": "【セット買い】SwitchBot スマートリモコン ハブ2 スマートデイリーステーション 温湿度計 - スイッチボット 天気ステーション 遠隔確認 スマートホーム Alexa Google Home Siriに対応(ハブ2 1点+スマートデイリーステーション 1点)",
     "percent_off": 17
   },
   "B0DT6S7NZ8": {
@@ -1014,13 +1014,6 @@
     "title": "Xiaomi Redmi Watch 6 シャオミ スマートウォッチ GPS Bluetooth通話 着信通知 防水 24日間持続 iPhone対応",
     "percent_off": 19
   },
-  "B0G529YNFK": {
-    "first_seen": "2026-09-05",
-    "first_seen_at": "2026-09-05T15:14:47+09:00",
-    "last_seen": "2026-10-14",
-    "title": "Amazfit Active Max 48mm スマートウォッチ ハイブリッドトレーニング HYROX ヤマレコ ヤマップ 3000nit高輝度 GPS 5衛星 オフラインマップ AIによる音声操作と睡眠/運動管理 心拍 睡眠 健康管理 170+スポーツモード ナビゲーション ルートインポート5ATM防水 Max 25日間バッテリー持続 丸型",
-    "percent_off": 19
-  },
   "B0F9LB5PQF": {
     "first_seen": "2026-09-18",
     "first_seen_at": "2026-09-18T21:14:31+09:00",
@@ -1112,12 +1105,12 @@
     "title": "XREAL Beam Pro 5G版(8+256GB) XREAL ARグラス空間コンピューティングコンパニオン 3Dカメラ Android 14 すべてのGoogle Playストアアプリをサポート 映画、テレビ、ゲームのための3DoF 空間体験 FHD 1080",
     "percent_off": 15
   },
-  "B0H99D9WTF": {
+  "B09B2PF8S4": {
     "first_seen": "2026-10-13",
-    "first_seen_at": "2026-10-13T13:14:56+09:00",
+    "first_seen_at": "2026-10-13T12:16:14+09:00",
     "last_seen": "2026-10-14",
-    "title": "VITURE Beast AR/XRグラス アルティメットセット（ネックバンド・ドック付属）",
-    "percent_off": 15
+    "title": "Amazon Echo Show 5 (エコーショー5) 第3世代 - スマートディスプレイ with Alexa、2メガピクセルカメラ付き、チャコール",
+    "percent_off": 54
   },
   "B0G2TXCWFH": {
     "first_seen": "2026-10-13",
@@ -1132,13 +1125,6 @@
     "last_seen": "2026-10-14",
     "title": "【New】Amazon Fire TV Stick 4K | 4Kの高画質ストリーミング | 新しいFire TVリモコン付属 | ストリーミングメディアプレイヤー",
     "percent_off": 50
-  },
-  "B0DMSX1KWV": {
-    "first_seen": "2026-10-14",
-    "first_seen_at": "2026-10-14T10:15:06+09:00",
-    "last_seen": "2026-10-14",
-    "title": "【セット買い】Echo Show 5 (エコーショー5) 第3世代 チャコール + TP-Link Tapo H110 スマートリモコン",
-    "percent_off": 49
   },
   "B09B8SZLLG": {
     "first_seen": "2026-10-13",
@@ -1182,13 +1168,6 @@
     "title": "Amazon Fire TV Stick 4K Plus | 映画館のような4K体験 | ストリーミングメディアプレイヤー",
     "percent_off": 30
   },
-  "B0G2TXBSWJ": {
-    "first_seen": "2026-10-13",
-    "first_seen_at": "2026-10-13T00:16:25+09:00",
-    "last_seen": "2026-10-14",
-    "title": "Amazon Fire TV Stick 4K Max(マックス) | Fire TV Stick史上最もパワフル | ストリーミングメディアプレイヤー",
-    "percent_off": 27
-  },
   "B0DXMYB4XN": {
     "first_seen": "2026-10-13",
     "first_seen_at": "2026-10-13T00:16:25+09:00",
@@ -1209,6 +1188,13 @@
     "last_seen": "2026-10-14",
     "title": "New Amazon Kindle Scribe | 11インチディスプレイ、32GBストレージ、ノート機能搭載、明るさ自動調整、色調調節ライト、プレミアムペン付き、グラファイト",
     "percent_off": 22
+  },
+  "B0H262HBX2": {
+    "first_seen": "2026-10-13",
+    "first_seen_at": "2026-10-13T22:15:31+09:00",
+    "last_seen": "2026-10-14",
+    "title": "【セット買い】Amazon Fire TV Stick 4K Max + Amazon Fire TV Soundbar Plus",
+    "percent_off": 21
   },
   "B0FC217W9L": {
     "first_seen": "2026-10-13",
@@ -1644,12 +1630,54 @@
     "title": "COSORI コソリ ノンフライヤー 6L大容量 家庭用 エアフライヤー DCモーター 高速 最高温230℃ タイマー air fryer 発酵 揚げ物 ポテト 専用レシピ付き ブラック CAF-DC601",
     "percent_off": 14
   },
-  "B0H1C39K7X": {
-    "first_seen": "2026-10-13",
-    "first_seen_at": "2026-10-13T22:15:31+09:00",
+  "B0B9X1RY8G": {
+    "first_seen": "2026-09-25",
+    "first_seen_at": "2026-09-25T15:14:52+09:00",
     "last_seen": "2026-10-14",
-    "title": "エレコム モバイルバッテリー 10000mAh 大容量 軽量 小型 残量表示 LEDパネル 1%単位 15W USB-C USB-A 2ポート パススルー充電 PSE認証 iPhone iPad Android対応 しろちゃん EC-C64LWF",
+    "title": "UGREEN Zapix Magsafe充電器 2-in-1 マグネット式スタンド ワイヤレス対応 7.5W/5W Qi認証済",
+    "percent_off": 35
+  },
+  "B0FJS3P8NT": {
+    "first_seen": "2026-07-27",
+    "first_seen_at": "2026-07-27T12:00:00+09:00",
+    "last_seen": "2026-10-14",
+    "title": "UGREEN 45W USB-C*4+USB-A*1 急速充電器 Type-C GaNⅡ タイプc PSE適合/PD3.0/PPS/SCP/QC3.0",
+    "percent_off": 25
+  },
+  "B0CWN59C9H": {
+    "first_seen": "2026-10-13",
+    "first_seen_at": "2026-10-13T00:16:25+09:00",
+    "last_seen": "2026-10-14",
+    "title": "Belkin カーチャージャー 30W USB-C 車載充電器 PD/PPS対応 急速充電 ブラック",
     "percent_off": 15
+  },
+  "B0G529YNFK": {
+    "first_seen": "2026-09-05",
+    "first_seen_at": "2026-09-05T15:14:47+09:00",
+    "last_seen": "2026-10-14",
+    "title": "Amazfit Active Max 48mm スマートウォッチ ハイブリッドトレーニング HYROX ヤマレコ ヤマップ 3000nit高輝度 GPS 5衛星 オフラインマップ AIによる音声操作と睡眠/運動管理 心拍 睡眠 健康管理 170+スポーツモード ナビゲーション ルートインポート5ATM防水 Max 25日間バッテリー持続 丸型",
+    "percent_off": 19
+  },
+  "B0H99D9WTF": {
+    "first_seen": "2026-10-13",
+    "first_seen_at": "2026-10-13T13:14:56+09:00",
+    "last_seen": "2026-10-14",
+    "title": "VITURE Beast AR/XRグラス アルティメットセット（ネックバンド・ドック付属）",
+    "percent_off": 15
+  },
+  "B0DMSX1KWV": {
+    "first_seen": "2026-10-14",
+    "first_seen_at": "2026-10-14T10:15:06+09:00",
+    "last_seen": "2026-10-14",
+    "title": "【セット買い】Echo Show 5 (エコーショー5) 第3世代 チャコール + TP-Link Tapo H110 スマートリモコン",
+    "percent_off": 49
+  },
+  "B0G2TXBSWJ": {
+    "first_seen": "2026-10-13",
+    "first_seen_at": "2026-10-13T00:16:25+09:00",
+    "last_seen": "2026-10-14",
+    "title": "Amazon Fire TV Stick 4K Max(マックス) | Fire TV Stick史上最もパワフル | ストリーミングメディアプレイヤー",
+    "percent_off": 27
   },
   "B0DM8X73L2": {
     "first_seen": "2026-10-14",
@@ -1671,13 +1699,6 @@
     "last_seen": "2026-10-14",
     "title": "【セット買い】Echo Spot (エコースポット)グレーシャーホワイト + TP-Link Tapo H110 スマートリモコン",
     "percent_off": 37
-  },
-  "B0H262HBX2": {
-    "first_seen": "2026-10-13",
-    "first_seen_at": "2026-10-13T22:15:31+09:00",
-    "last_seen": "2026-10-14",
-    "title": "【セット買い】Amazon Fire TV Stick 4K Max + Amazon Fire TV Soundbar Plus",
-    "percent_off": 21
   },
   "B0CTMSH4BK": {
     "first_seen": "2026-08-07",
@@ -1783,13 +1804,6 @@
     "last_seen": "2026-10-14",
     "title": "【セット買い】Echo Dot (第5世代) チャコール + SwitchBot スマートリモコン Hub Mini (温湿度センサー搭載・Matter対応版)",
     "percent_off": 32
-  },
-  "B0DMN885ZF": {
-    "first_seen": "2026-08-05",
-    "first_seen_at": "2026-08-05T03:07:44+09:00",
-    "last_seen": "2026-10-14",
-    "title": "UGREEN 45W USB-C 急速充電器 Type-C PD GaNⅡ充電器 PSE適合タイプc充電器 PD/PPS/SCP/QC3.0",
-    "percent_off": 37
   },
   "B0H8DWK932": {
     "first_seen": "2026-10-06",
@@ -2315,13 +2329,6 @@
     "last_seen": "2026-10-13",
     "title": "ハイセンス 32V型 32S6S 4K チューナーレステレビ タッチパネル 大画面移動式タブレット スマートモニター Android 15搭載 バッテリー内蔵 最大10時間稼働 静音キャスター 縦横回転 8GB+128GB",
     "percent_off": 15
-  },
-  "B09B2PF8S4": {
-    "first_seen": "2026-10-13",
-    "first_seen_at": "2026-10-13T12:16:14+09:00",
-    "last_seen": "2026-10-13",
-    "title": "Amazon Echo Show 5 (エコーショー5) 第3世代 - スマートディスプレイ with Alexa、2メガピクセルカメラ付き、チャコール",
-    "percent_off": 54
   },
   "B0F6CVWFYB": {
     "first_seen": "2026-10-03",
@@ -3750,13 +3757,6 @@
     "last_seen": "2026-10-01",
     "title": "Anker Zolo Power Bank (10000mAh, 35W, Built-In Dual USB-Cケーブル) ホワイト",
     "percent_off": null
-  },
-  "B0DZ1TGX6T": {
-    "first_seen": "2026-07-24",
-    "first_seen_at": "2026-07-24T12:00:00+09:00",
-    "last_seen": "2026-10-01",
-    "title": "UGREEN Zapix【小型・軽量／10000mAh／USB－C＆USB－A／PD20W／2台同時充電】モバイルバッテリー 灰色 PB507",
-    "percent_off": 21
   },
   "B0B57H4FD3": {
     "first_seen": "2026-09-12",
