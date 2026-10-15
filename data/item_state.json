@@ -762,13 +762,6 @@
     "title": "エレコム 充電器 65W USB PD対応 3ポート Type-C USB-A 【 iPhone 16 15 14 iPad Macbook Air ノートPC】 ブラック EC-AC4465BK",
     "percent_off": 15
   },
-  "B0DRP2QYCY": {
-    "first_seen": "2026-10-13",
-    "first_seen_at": "2026-10-13T00:16:25+09:00",
-    "last_seen": "2026-10-15",
-    "title": "Belkin Apple Watch充電器 持ち運び USB-C ドングル ポータブル MFI認証 高速充電 全モデル対応",
-    "percent_off": 15
-  },
   "B0FB2F95HY": {
     "first_seen": "2026-10-13",
     "first_seen_at": "2026-10-13T00:16:25+09:00",
@@ -796,6 +789,13 @@
     "last_seen": "2026-10-15",
     "title": "Belkin MagSafe充電器 Qi2 15W ワイヤレス充電器 iPhone 12-17・AirPods対応 スタンド付き",
     "percent_off": 15
+  },
+  "B0DRP4ZN3Z": {
+    "first_seen": "2026-10-13",
+    "first_seen_at": "2026-10-13T22:15:31+09:00",
+    "last_seen": "2026-10-15",
+    "title": "Belkin Apple Watch充電器 持ち運び USB-C ドングル ポータブル MFI認証 高速充電 全モデル対応",
+    "percent_off": 14
   },
   "B0CPY1WPK3": {
     "first_seen": "2026-10-13",
@@ -1749,12 +1749,12 @@
     "title": "COSORI コソリ ノンフライヤー 6L大容量 エアフライヤー DCモーター 高速 最高温230℃ 発酵 air fryer CAF-DC601",
     "percent_off": 15
   },
-  "B0DRP4ZN3Z": {
+  "B0DRP2QYCY": {
     "first_seen": "2026-10-13",
-    "first_seen_at": "2026-10-13T22:15:31+09:00",
+    "first_seen_at": "2026-10-13T00:16:25+09:00",
     "last_seen": "2026-10-15",
     "title": "Belkin Apple Watch充電器 持ち運び USB-C ドングル ポータブル MFI認証 高速充電 全モデル対応",
-    "percent_off": 14
+    "percent_off": 15
   },
   "B0HF83XDN3": {
     "first_seen": "2026-10-14",
