@@ -524,13 +524,6 @@
     "title": "UGREEN NexodeX 100W GaNII充電器 USB-C*2+USB-A タイプC Type-C 急速充電器 PD3.0/PPS/QC4+",
     "percent_off": 45
   },
-  "B0FDFC2DDD": {
-    "first_seen": "2026-10-15",
-    "first_seen_at": "2026-10-15T01:15:57+09:00",
-    "last_seen": "2026-10-16",
-    "title": "Belkin Cubic Charger 45W 充電器 type-c iphone18対応 急速充電 PD3.2 PPS対応",
-    "percent_off": 46
-  },
   "B0D53VJJ7F": {
     "first_seen": "2026-07-28",
     "first_seen_at": "2026-07-28T12:00:00+09:00",
@@ -788,6 +781,13 @@
     "first_seen_at": "2026-10-13T22:15:31+09:00",
     "last_seen": "2026-10-16",
     "title": "Belkin Apple Watch充電器 持ち運び USB-C ドングル ポータブル MFI認証 高速充電 全モデル対応",
+    "percent_off": 14
+  },
+  "B0CPY1WPK3": {
+    "first_seen": "2026-10-13",
+    "first_seen_at": "2026-10-13T00:16:25+09:00",
+    "last_seen": "2026-10-16",
+    "title": "Belkin カーチャージャー 42W 車載充電器 USB-C＋USB-A PD/PPS対応 2台同時充電 急速充電 ブラック",
     "percent_off": 14
   },
   "B08P45YTTL": {
@@ -1728,12 +1728,12 @@
     "title": "COSORI コソリ ノンフライヤー 6L大容量 家庭用 エアフライヤー DCモーター 高速 最高温230℃ タイマー air fryer 発酵 揚げ物 ポテト 専用レシピ付き ブラック CAF-DC601",
     "percent_off": 14
   },
-  "B0CPY1WPK3": {
-    "first_seen": "2026-10-13",
-    "first_seen_at": "2026-10-13T00:16:25+09:00",
+  "B0FDFC2DDD": {
+    "first_seen": "2026-10-15",
+    "first_seen_at": "2026-10-15T01:15:57+09:00",
     "last_seen": "2026-10-16",
-    "title": "Belkin カーチャージャー 42W 車載充電器 USB-C＋USB-A PD/PPS対応 2台同時充電 急速充電 ブラック",
-    "percent_off": 14
+    "title": "Belkin Cubic Charger 45W 充電器 type-c iphone18対応 急速充電 PD3.2 PPS対応",
+    "percent_off": 46
   },
   "B08CRN2P44": {
     "first_seen": "2026-10-15",
