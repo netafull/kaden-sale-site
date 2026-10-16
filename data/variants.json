@@ -2082,7 +2082,7 @@
     },
     "B0FQG9KV7F": {
      "last_seen": "2026-10-16",
-     "pct": 18,
+     "pct": 12,
      "points_pct": 1
     },
     "B0FQGHYWRH": {
@@ -2117,7 +2117,7 @@
     },
     "B0FRZ34RQL": {
      "last_seen": "2026-10-16",
-     "pct": 16,
+     "pct": 11,
      "points_pct": 0
     },
     "B0FRZ35PL3": {
@@ -3313,8 +3313,8 @@
     },
     "B0GR1PRMDS": {
      "last_seen": "2026-10-16",
-     "pct": 0,
-     "points_pct": 1
+     "pct": null,
+     "points_pct": null
     },
     "B0GR1SN9ZX": {
      "last_seen": "2026-10-16",
@@ -3343,8 +3343,8 @@
     },
     "B0GRTLPM22": {
      "last_seen": "2026-10-16",
-     "pct": 1,
-     "points_pct": 0
+     "pct": null,
+     "points_pct": null
     },
     "B0GRTM5MYB": {
      "last_seen": "2026-10-16",
