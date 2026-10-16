@@ -510,12 +510,19 @@
     "title": "UGREEN NexodeX 100W GaNII充電器 USB-C*2+USB-A タイプC Type-C 急速充電器 PD3.0/PPS/QC4+",
     "percent_off": 45
   },
+  "B0FDFC2DDD": {
+    "first_seen": "2026-10-15",
+    "first_seen_at": "2026-10-15T01:15:57+09:00",
+    "last_seen": "2026-10-16",
+    "title": "Belkin Cubic Charger 45W 充電器 type-c iphone18対応 急速充電 PD3.2 PPS対応",
+    "percent_off": 46
+  },
   "B0D53VJJ7F": {
     "first_seen": "2026-07-28",
     "first_seen_at": "2026-07-28T12:00:00+09:00",
     "last_seen": "2026-10-16",
     "title": "CIO NovaPort TRIOⅡ 65W 2C1A PD急速充電器 USB-C×2+USB-A×1 3台同時充電 世界最小級（ブラック）",
-    "percent_off": 42
+    "percent_off": 40
   },
   "B0FVM1C19Y": {
     "first_seen": "2026-07-31",
@@ -543,6 +550,13 @@
     "first_seen_at": "2026-07-27T12:00:00+09:00",
     "last_seen": "2026-10-16",
     "title": "Anker Nano Charger (70W, 3 Ports) ブラック",
+    "percent_off": 33
+  },
+  "B0F99GKMZH": {
+    "first_seen": "2026-10-13",
+    "first_seen_at": "2026-10-13T01:14:56+09:00",
+    "last_seen": "2026-10-16",
+    "title": "Anker Nano Charger (70W, 3 Ports) ブルー",
     "percent_off": 33
   },
   "B0D8RSX6W2": {
@@ -796,13 +810,6 @@
     "last_seen": "2026-10-16",
     "title": "KIOXIA(キオクシア) 旧東芝メモリ microSD 128GB UHS-I Class10 (最大読出速度100MB/s) Nintendo Switch動作確認済 国内サポート正規品 メーカー保証5年 KLMEA128G",
     "percent_off": 19
-  },
-  "B08PTN7WJ6": {
-    "first_seen": "2026-10-13",
-    "first_seen_at": "2026-10-13T00:16:25+09:00",
-    "last_seen": "2026-10-16",
-    "title": "KIOXIA(キオクシア)【日本製】SDカード 128GB SDXC UHS-I Class10 読出速度100MB/s 国内正規品 メーカー保証5年 KLNEA128G",
-    "percent_off": 15
   },
   "B0FMY19G96": {
     "first_seen": "2026-08-29",
@@ -1126,19 +1133,19 @@
     "title": "HUAWEI WATCH FIT 5 スマートウォッチ 薄型軽量 大画面 GPS内蔵 10日間ロングバッテリー 通知 健康管理 心拍数 睡眠 ブラック",
     "percent_off": 16
   },
-  "B0GYF753F1": {
-    "first_seen": "2026-10-13",
-    "first_seen_at": "2026-10-13T01:14:56+09:00",
-    "last_seen": "2026-10-16",
-    "title": "DPVR G3 AIスマートグラス 800万画素 カメラ付きメガネ 録画 翻訳 AI画像認識 メガネ型カメラ オーディオグラス クリアレンズ",
-    "percent_off": 24
-  },
   "B0H6BLVBDC": {
     "first_seen": "2026-10-13",
     "first_seen_at": "2026-10-13T21:14:47+09:00",
     "last_seen": "2026-10-16",
     "title": "VITURE Beast ARグラス 【家電批評Best Buy・VGP金賞・企画賞】 174インチ 光学技術で映像を鮮明に 3DoF対応",
     "percent_off": 25
+  },
+  "B0GS9FZ75P": {
+    "first_seen": "2026-10-13",
+    "first_seen_at": "2026-10-13T00:16:25+09:00",
+    "last_seen": "2026-10-16",
+    "title": "DPVR G1 AIスマートグラス 800万画素 カメラ付きメガネ 録画 翻訳 AI画像認識 メガネ型カメラ オーディオグラス 調光レンズ",
+    "percent_off": 24
   },
   "B0FFT61X6F": {
     "first_seen": "2026-10-13",
@@ -1728,6 +1735,20 @@
     "title": "COSORI コソリ ノンフライヤー 6L大容量 家庭用 エアフライヤー DCモーター 高速 最高温230℃ タイマー air fryer 発酵 揚げ物 ポテト 専用レシピ付き ブラック CAF-DC601",
     "percent_off": 14
   },
+  "B08PTN7WJ6": {
+    "first_seen": "2026-10-13",
+    "first_seen_at": "2026-10-13T00:16:25+09:00",
+    "last_seen": "2026-10-16",
+    "title": "KIOXIA(キオクシア)【日本製】SDカード 128GB SDXC UHS-I Class10 読出速度100MB/s 国内正規品 メーカー保証5年 KLNEA128G",
+    "percent_off": 15
+  },
+  "B0GYF753F1": {
+    "first_seen": "2026-10-13",
+    "first_seen_at": "2026-10-13T01:14:56+09:00",
+    "last_seen": "2026-10-16",
+    "title": "DPVR G3 AIスマートグラス 800万画素 カメラ付きメガネ 録画 翻訳 AI画像認識 メガネ型カメラ オーディオグラス クリアレンズ",
+    "percent_off": 24
+  },
   "B0FQG91GBY": {
     "first_seen": "2026-10-01",
     "first_seen_at": "2026-10-01T23:14:55+09:00",
@@ -1748,13 +1769,6 @@
     "last_seen": "2026-10-16",
     "title": "Belkin Cubic Charger 50W 充電器 type-c PD充電器 USB-C*2 急速充電 ZSP技術を搭載(待機消費0) ホワイト",
     "percent_off": 16
-  },
-  "B0FDFC2DDD": {
-    "first_seen": "2026-10-15",
-    "first_seen_at": "2026-10-15T01:15:57+09:00",
-    "last_seen": "2026-10-16",
-    "title": "Belkin Cubic Charger 45W 充電器 type-c iphone18対応 急速充電 PD3.2 PPS対応",
-    "percent_off": 46
   },
   "B0DT3XJKH9": {
     "first_seen": "2026-09-05",
@@ -2343,13 +2357,6 @@
     "last_seen": "2026-10-15",
     "title": "エレコム モバイルバッテリー 5000mAh ワイヤレス マグネット対応 7.5W スタンド付き Type-C ホワイト DE-C53-5000WH",
     "percent_off": 24
-  },
-  "B0F99GKMZH": {
-    "first_seen": "2026-10-13",
-    "first_seen_at": "2026-10-13T01:14:56+09:00",
-    "last_seen": "2026-10-15",
-    "title": "Anker Nano Charger (70W, 3 Ports) ブルー",
-    "percent_off": 33
   },
   "B01G54NODO": {
     "first_seen": "2026-10-13",
@@ -3253,13 +3260,6 @@
     "last_seen": "2026-10-13",
     "title": "【セット買い】SwitchBot スマートリモコン ハブミニ(Matter対応) スマートデイリーステーション 温湿度計 - スイッチボット 天気ステーション 遠隔確認 スマートホーム Alexa Google Home Siriに対応(ハブミニ(Matter対応) 1点+スマートデイリーステーション 1点)",
     "percent_off": 15
-  },
-  "B0GS9FZ75P": {
-    "first_seen": "2026-10-13",
-    "first_seen_at": "2026-10-13T00:16:25+09:00",
-    "last_seen": "2026-10-13",
-    "title": "DPVR G1 AIスマートグラス 800万画素 カメラ付きメガネ 録画 翻訳 AI画像認識 メガネ型カメラ オーディオグラス 調光レンズ",
-    "percent_off": 24
   },
   "B0G7S8XB68": {
     "first_seen": "2026-10-13",
