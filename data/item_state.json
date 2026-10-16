@@ -62,19 +62,19 @@
     "title": "Apple Watch Ultra 3(GPS + Cellularモデル)- 49mmブラックチタニウムケースとブラックチタニウムミラネーゼループ - S",
     "percent_off": 18
   },
-  "B0FRZ4FW4S": {
-    "first_seen": "2026-10-01",
-    "first_seen_at": "2026-10-01T23:14:55+09:00",
-    "last_seen": "2026-10-16",
-    "title": "[アップル] Watch Ultra 3(GPS + Cellularモデル)- 49mmブラックチタニウムケースとブラックチタニウムミラネーゼループ - M + 2年延長 AppleCare+ for Apple Watch Ultra 3",
-    "percent_off": 18
-  },
   "B0FQG5MZVW": {
     "first_seen": "2026-10-01",
     "first_seen_at": "2026-10-01T23:14:55+09:00",
     "last_seen": "2026-10-16",
     "title": "Apple Watch Ultra 3(GPS + Cellularモデル)- 49mmブラックチタニウムケースとブラックアルパインループ - S",
     "percent_off": 17
+  },
+  "B0FRZ4FW4S": {
+    "first_seen": "2026-10-01",
+    "first_seen_at": "2026-10-01T23:14:55+09:00",
+    "last_seen": "2026-10-16",
+    "title": "[アップル] Watch Ultra 3(GPS + Cellularモデル)- 49mmブラックチタニウムケースとブラックチタニウムミラネーゼループ - M + 2年延長 AppleCare+ for Apple Watch Ultra 3",
+    "percent_off": 18
   },
   "B0FQGHYWRH": {
     "first_seen": "2026-10-01",
@@ -454,11 +454,11 @@
     "title": "エレコム モバイルバッテリー マグネット式 ワイヤレス充電 5000mAh ワイヤレス出力(5W) Type-C出力(12W) Type-C×1ポート 【Magsafeに対応したiPhone12/13シリーズ】 ホワイト DE-C40-5000WH",
     "percent_off": 17
   },
-  "B0928LVPNW": {
+  "B092TN8FWV": {
     "first_seen": "2026-10-13",
-    "first_seen_at": "2026-10-13T21:14:47+09:00",
+    "first_seen_at": "2026-10-13T00:16:25+09:00",
     "last_seen": "2026-10-16",
-    "title": "Belkin モバイルバッテリー 3C 認証 大容量 10000mAh 最大15W 3台同時充電 3ポート ピンク",
+    "title": "Belkin モバイルバッテリー 3C 認証 大容量 10000mAh 最大15W 3台同時充電 3ポート ブラック",
     "percent_off": 15
   },
   "B0H389CB56": {
@@ -510,12 +510,12 @@
     "title": "UGREEN NexodeX 100W GaNII充電器 USB-C*2+USB-A タイプC Type-C 急速充電器 PD3.0/PPS/QC4+",
     "percent_off": 45
   },
-  "B0FDFC2DDD": {
-    "first_seen": "2026-10-15",
-    "first_seen_at": "2026-10-15T01:15:57+09:00",
+  "B0FBM692X8": {
+    "first_seen": "2026-10-16",
+    "first_seen_at": "2026-10-16T11:15:57+09:00",
     "last_seen": "2026-10-16",
-    "title": "Belkin Cubic Charger 45W 充電器 type-c iphone18対応 急速充電 PD3.2 PPS対応",
-    "percent_off": 46
+    "title": "Belkin Cubic Charger 50W 充電器 type-c PD充電器 USB-C*2 急速充電 ZSP技術を搭載(待機消費0) ホワイト",
+    "percent_off": 41
   },
   "B0D53VJJ7F": {
     "first_seen": "2026-07-28",
@@ -549,7 +549,7 @@
     "first_seen": "2026-07-27",
     "first_seen_at": "2026-07-27T12:00:00+09:00",
     "last_seen": "2026-10-16",
-    "title": "Anker Nano Charger (70W, 3 Ports) ブラック",
+    "title": "Anker Nano Charger (70W, 3 Ports) ブラック | 70W USB-C急速充電器 小型で3台同時充電。USB-C2ポートとUSB-A1ポート搭載。GaN採用で持ち運びにも便利。MacBook Pro MacBook Air iPhone iPad Galaxy対応 PSE技術基準適合",
     "percent_off": 33
   },
   "B0F99GKMZH": {
@@ -558,6 +558,13 @@
     "last_seen": "2026-10-16",
     "title": "Anker Nano Charger (70W, 3 Ports) ブルー",
     "percent_off": 33
+  },
+  "B0D53VKL36": {
+    "first_seen": "2026-07-29",
+    "first_seen_at": "2026-07-29T12:00:00+09:00",
+    "last_seen": "2026-10-16",
+    "title": "CIO NovaPort DUOⅡ 65W PD急速充電器 USB-C×2 2台同時充電 世界最小級（ブラック）",
+    "percent_off": 34
   },
   "B0D8RSX6W2": {
     "first_seen": "2026-09-23",
@@ -762,13 +769,6 @@
     "title": "Belkin Qi2 25W マグネット式ワイヤレス充電器 MagSafe対応 iPhone18・Galaxy/Pixel対応 スタンド付き",
     "percent_off": 15
   },
-  "B0CWN59C9H": {
-    "first_seen": "2026-10-13",
-    "first_seen_at": "2026-10-13T00:16:25+09:00",
-    "last_seen": "2026-10-16",
-    "title": "Belkin カーチャージャー 30W USB-C 車載充電器 PD/PPS対応 急速充電 ブラック",
-    "percent_off": 15
-  },
   "B0FKMYH46S": {
     "first_seen": "2026-10-13",
     "first_seen_at": "2026-10-13T00:16:25+09:00",
@@ -934,7 +934,7 @@
     "first_seen": "2026-07-30",
     "first_seen_at": "2026-07-30T12:00:00+09:00",
     "last_seen": "2026-10-16",
-    "title": "SwitchBot サーキュレーター DCモーター コードレス扇風機 充電式 静音 強力送風 - 上下左右首振り 30畳 100段階風量調整 省エネ",
+    "title": "SwitchBot サーキュレーター DCモーター コードレス扇風機 充電式 静音 強力送風 - 上下左右首振り 30畳 100段階風量調整 省エネ | スイッチボット、バッテリー搭載、Alexa対応、遠隔操作、分解丸洗い、リモコン付き、チャイルドロック、暖房・冷房効率アップ、空気循環、部屋干し・衣類乾燥サポート、湿気対策、さーきゅれーた",
     "percent_off": 42
   },
   "B0DYD1R49S": {
@@ -1133,19 +1133,19 @@
     "title": "HUAWEI WATCH FIT 5 スマートウォッチ 薄型軽量 大画面 GPS内蔵 10日間ロングバッテリー 通知 健康管理 心拍数 睡眠 ブラック",
     "percent_off": 16
   },
+  "B0GYF753F1": {
+    "first_seen": "2026-10-13",
+    "first_seen_at": "2026-10-13T01:14:56+09:00",
+    "last_seen": "2026-10-16",
+    "title": "DPVR G3 AIスマートグラス 800万画素 カメラ付きメガネ 録画 翻訳 AI画像認識 メガネ型カメラ オーディオグラス クリアレンズ",
+    "percent_off": 24
+  },
   "B0H6BLVBDC": {
     "first_seen": "2026-10-13",
     "first_seen_at": "2026-10-13T21:14:47+09:00",
     "last_seen": "2026-10-16",
     "title": "VITURE Beast ARグラス 【家電批評Best Buy・VGP金賞・企画賞】 174インチ 光学技術で映像を鮮明に 3DoF対応",
     "percent_off": 25
-  },
-  "B0GS9FZ75P": {
-    "first_seen": "2026-10-13",
-    "first_seen_at": "2026-10-13T00:16:25+09:00",
-    "last_seen": "2026-10-16",
-    "title": "DPVR G1 AIスマートグラス 800万画素 カメラ付きメガネ 録画 翻訳 AI画像認識 メガネ型カメラ オーディオグラス 調光レンズ",
-    "percent_off": 24
   },
   "B0FFT61X6F": {
     "first_seen": "2026-10-13",
@@ -1238,11 +1238,11 @@
     "title": "Amazon Echo Show 15 (エコーショー15) 第2世代 (2024年発売) - 15.6インチ フルHDスマートディスプレイ with Alexa、Fire TV機能搭載、Alexa対応音声認識リモコン同梱",
     "percent_off": 33
   },
-  "B0DYBMNDNR": {
-    "first_seen": "2026-10-15",
-    "first_seen_at": "2026-10-15T00:15:14+09:00",
+  "B0DYBQJZ2W": {
+    "first_seen": "2026-10-13",
+    "first_seen_at": "2026-10-13T12:16:14+09:00",
     "last_seen": "2026-10-16",
-    "title": "Amazon Echo Show 11 (エコーショー11) (2025年発売) - シームレスなデザイン、11インチフルHDスマートディスプレイ with Alexa、空間オーディオ、グラファイト",
+    "title": "Amazon Echo Show 11 (エコーショー11) (2025年発売) - シームレスなデザイン、11インチフルHDスマートディスプレイ with Alexa、空間オーディオ、グレーシャーホワイト",
     "percent_off": 30
   },
   "B0G2TQZMY1": {
@@ -1735,19 +1735,47 @@
     "title": "COSORI コソリ ノンフライヤー 6L大容量 家庭用 エアフライヤー DCモーター 高速 最高温230℃ タイマー air fryer 発酵 揚げ物 ポテト 専用レシピ付き ブラック CAF-DC601",
     "percent_off": 14
   },
+  "B0928LVPNW": {
+    "first_seen": "2026-10-13",
+    "first_seen_at": "2026-10-13T21:14:47+09:00",
+    "last_seen": "2026-10-16",
+    "title": "Belkin モバイルバッテリー 3C 認証 大容量 10000mAh 最大15W 3台同時充電 3ポート ピンク",
+    "percent_off": 15
+  },
+  "B0FDFC2DDD": {
+    "first_seen": "2026-10-15",
+    "first_seen_at": "2026-10-15T01:15:57+09:00",
+    "last_seen": "2026-10-16",
+    "title": "Belkin Cubic Charger 45W 充電器 type-c iphone18対応 急速充電 PD3.2 PPS対応",
+    "percent_off": 46
+  },
+  "B0CWN59C9H": {
+    "first_seen": "2026-10-13",
+    "first_seen_at": "2026-10-13T00:16:25+09:00",
+    "last_seen": "2026-10-16",
+    "title": "Belkin カーチャージャー 30W USB-C 車載充電器 PD/PPS対応 急速充電 ブラック",
+    "percent_off": 15
+  },
+  "B0GS9FZ75P": {
+    "first_seen": "2026-10-13",
+    "first_seen_at": "2026-10-13T00:16:25+09:00",
+    "last_seen": "2026-10-16",
+    "title": "DPVR G1 AIスマートグラス 800万画素 カメラ付きメガネ 録画 翻訳 AI画像認識 メガネ型カメラ オーディオグラス 調光レンズ",
+    "percent_off": 24
+  },
+  "B0DYBMNDNR": {
+    "first_seen": "2026-10-15",
+    "first_seen_at": "2026-10-15T00:15:14+09:00",
+    "last_seen": "2026-10-16",
+    "title": "Amazon Echo Show 11 (エコーショー11) (2025年発売) - シームレスなデザイン、11インチフルHDスマートディスプレイ with Alexa、空間オーディオ、グラファイト",
+    "percent_off": 30
+  },
   "B08PTN7WJ6": {
     "first_seen": "2026-10-13",
     "first_seen_at": "2026-10-13T00:16:25+09:00",
     "last_seen": "2026-10-16",
     "title": "KIOXIA(キオクシア)【日本製】SDカード 128GB SDXC UHS-I Class10 読出速度100MB/s 国内正規品 メーカー保証5年 KLNEA128G",
     "percent_off": 15
-  },
-  "B0GYF753F1": {
-    "first_seen": "2026-10-13",
-    "first_seen_at": "2026-10-13T01:14:56+09:00",
-    "last_seen": "2026-10-16",
-    "title": "DPVR G3 AIスマートグラス 800万画素 カメラ付きメガネ 録画 翻訳 AI画像認識 メガネ型カメラ オーディオグラス クリアレンズ",
-    "percent_off": 24
   },
   "B0FQG91GBY": {
     "first_seen": "2026-10-01",
@@ -2007,13 +2035,6 @@
     "last_seen": "2026-10-15",
     "title": "Anker MagGo Power Bank (10000mAh, Slim) ブラック",
     "percent_off": null
-  },
-  "B092TN8FWV": {
-    "first_seen": "2026-10-13",
-    "first_seen_at": "2026-10-13T00:16:25+09:00",
-    "last_seen": "2026-10-15",
-    "title": "Belkin モバイルバッテリー 3C 認証 大容量 10000mAh 最大15W 3台同時充電 3ポート ブラック",
-    "percent_off": 15
   },
   "B0FVLXRFMV": {
     "first_seen": "2026-09-20",
@@ -2280,13 +2301,6 @@
     "last_seen": "2026-10-15",
     "title": "【Forerunner265後継モデル】GARMIN(ガーミン) GPSランニングウォッチ Forerunner 570 47mm Black 【ロングバッテリー/超軽量/高精度GPS/色鮮やかなAMOLEDタッチディスプレイ/スピーカー＆マイク内蔵/ボイスコントロール/睡眠スコア・Body Battery計測/Music保存機能 有・無/Android/iOS対応/Suica機能搭載/防水】",
     "percent_off": 18
-  },
-  "B0DYBQJZ2W": {
-    "first_seen": "2026-10-13",
-    "first_seen_at": "2026-10-13T12:16:14+09:00",
-    "last_seen": "2026-10-15",
-    "title": "Amazon Echo Show 11 (エコーショー11) (2025年発売) - シームレスなデザイン、11インチフルHDスマートディスプレイ with Alexa、空間オーディオ、グレーシャーホワイト",
-    "percent_off": 30
   },
   "B0FQG5PN5S": {
     "first_seen": "2026-09-26",
@@ -3197,13 +3211,6 @@
     "last_seen": "2026-10-13",
     "title": "Amazon Echo Show 5 (エコーショー5) 第3世代 - スマートディスプレイ with Alexa、2メガピクセルカメラ付き、グレーシャーホワイト",
     "percent_off": 54
-  },
-  "B0D53VKL36": {
-    "first_seen": "2026-07-29",
-    "first_seen_at": "2026-07-29T12:00:00+09:00",
-    "last_seen": "2026-10-13",
-    "title": "CIO NovaPort DUOⅡ 65W PD急速充電器 USB-C×2 2台同時充電 世界最小級（ブラック）",
-    "percent_off": 29
   },
   "B0H8DWJ44X": {
     "first_seen": "2026-10-06",
