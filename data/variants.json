@@ -43,8 +43,8 @@
     },
     "B0BJMK9RG1": {
      "last_seen": "2026-10-16",
-     "pct": 0,
-     "points_pct": 1
+     "pct": null,
+     "points_pct": null
     },
     "B0BKF4RPTP": {
      "last_seen": "2026-10-16",
@@ -53,8 +53,8 @@
     },
     "B0BKF9CGS6": {
      "last_seen": "2026-10-16",
-     "pct": 0,
-     "points_pct": 0
+     "pct": null,
+     "points_pct": null
     },
     "B0HF7J2CTQ": {
      "last_seen": "2026-10-16",
@@ -626,8 +626,8 @@
     },
     "B0DL78NHX7": {
      "last_seen": "2026-10-16",
-     "pct": 11,
-     "points_pct": 0
+     "pct": 0,
+     "points_pct": 1
     },
     "B0DL79BMXJ": {
      "last_seen": "2026-10-16",
