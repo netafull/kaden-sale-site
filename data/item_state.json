@@ -83,12 +83,26 @@
     "title": "Apple Watch Series 11(GPSモデル)- 42mmローズゴールドアルミニウムケースとライトブラッシュスポーツバンド - M/L、睡眠時無呼吸、高血圧パターン、血中酸素、心電図、排卵推定、心拍数、服薬、マインドフルネス、ノイズ、睡眠スコア、転倒検出、IPX6X防塵、泳げる耐水、Suica対応、高速充電対応",
     "percent_off": 15
   },
+  "B0GR1KNBX2": {
+    "first_seen": "2026-09-30",
+    "first_seen_at": "2026-09-30T13:15:01+09:00",
+    "last_seen": "2026-10-17",
+    "title": "Apple 2026 MacBook Pro 18コアCPU、32コアGPUのM5 Maxチップ搭載ノートパソコン：AIのために設計、14.2インチLiquid Retina XDRディスプレイ、36GBユニファイドメモリ、2TBのSSDストレージ - スペースブラック",
+    "percent_off": 16
+  },
   "B0FQFQDN6K": {
     "first_seen": "2026-10-13",
     "first_seen_at": "2026-10-13T00:16:25+09:00",
     "last_seen": "2026-10-17",
     "title": "Apple AirPods Pro 3 ワイヤレスイヤホン、アクティブノイズキャンセリング、ライブ翻訳、心拍センサー、補聴機能、Bluetoothヘッドホン、空間オーディオ サウンド、USB-C充電ケース、防塵性能と耐汗耐水性能、「探す」対応、Qi充電",
     "percent_off": 14
+  },
+  "B0GRTQ2RQH": {
+    "first_seen": "2026-09-30",
+    "first_seen_at": "2026-09-30T13:15:01+09:00",
+    "last_seen": "2026-10-17",
+    "title": "Apple 2026 MacBook Pro 18コアCPU、32コアGPUのM5 Maxチップ搭載ノートパソコン：AIのために設計、14.2インチLiquid Retina XDRディスプレイ、36GBユニファイドメモリ、2TBのSSDストレージ - スペースブラック + 3年延長 AppleCare+ for 14インチMacBook Pro(M5 Pro/M5 Max)|ダウンロード版",
+    "percent_off": 15
   },
   "B0FRZ35PL3": {
     "first_seen": "2026-10-01",
@@ -146,18 +160,18 @@
     "title": "Apple Watch Ultra 3(GPS + Cellularモデル)- 49mmナチュラルチタニウムケースとナチュラルチタニウムミラネーゼループ - M",
     "percent_off": 12
   },
-  "B0FRYZJPDJ": {
-    "first_seen": "2026-10-11",
-    "first_seen_at": "2026-10-11T18:14:49+09:00",
-    "last_seen": "2026-10-17",
-    "title": "Apple Watch Ultra 3(GPS + Cellularモデル)- 49mmナチュラルチタニウムケースとブルー/ブライトブルートレイルループ - M/L + 2年延長 AppleCare+ for Apple Watch Ultra 3",
-    "percent_off": 12
-  },
   "B0FRZ2CS5T": {
     "first_seen": "2026-10-01",
     "first_seen_at": "2026-10-01T23:14:55+09:00",
     "last_seen": "2026-10-17",
     "title": "Apple Watch Ultra 3(GPS + Cellularモデル)- 49mmナチュラルチタニウムケースとライトブルーアルパインループ - M + 2年延長 AppleCare+ for Apple Watch Ultra 3",
+    "percent_off": 12
+  },
+  "B0FRYZJPDJ": {
+    "first_seen": "2026-10-11",
+    "first_seen_at": "2026-10-11T18:14:49+09:00",
+    "last_seen": "2026-10-17",
+    "title": "Apple Watch Ultra 3(GPS + Cellularモデル)- 49mmナチュラルチタニウムケースとブルー/ブライトブルートレイルループ - M/L + 2年延長 AppleCare+ for Apple Watch Ultra 3",
     "percent_off": 12
   },
   "B0GJTXZHDX": {
@@ -201,20 +215,6 @@
     "last_seen": "2026-10-17",
     "title": "iPad(A16と第10世代)用Magic Keyboard Folio - 日本語",
     "percent_off": 8
-  },
-  "B0GR1KNBX2": {
-    "first_seen": "2026-09-30",
-    "first_seen_at": "2026-09-30T13:15:01+09:00",
-    "last_seen": "2026-10-17",
-    "title": "Apple 2026 MacBook Pro 18コアCPU、32コアGPUのM5 Maxチップ搭載ノートパソコン：AIのために設計、14.2インチLiquid Retina XDRディスプレイ、36GBユニファイドメモリ、2TBのSSDストレージ - スペースブラック",
-    "percent_off": 7
-  },
-  "B0GRTQ2RQH": {
-    "first_seen": "2026-09-30",
-    "first_seen_at": "2026-09-30T13:15:01+09:00",
-    "last_seen": "2026-10-17",
-    "title": "Apple 2026 MacBook Pro 18コアCPU、32コアGPUのM5 Maxチップ搭載ノートパソコン：AIのために設計、14.2インチLiquid Retina XDRディスプレイ、36GBユニファイドメモリ、2TBのSSDストレージ - スペースブラック + 3年延長 AppleCare+ for 14インチMacBook Pro(M5 Pro/M5 Max)|ダウンロード版",
-    "percent_off": 7
   },
   "B0D4VMVCFX": {
     "first_seen": "2026-10-17",
@@ -592,6 +592,13 @@
     "first_seen_at": "2026-07-28T12:00:00+09:00",
     "last_seen": "2026-10-17",
     "title": "CIO NovaPort TRIOⅡ 65W 2C1A PD急速充電器 USB-C×2+USB-A×1 3台同時充電 世界最小級（ブラック） | ノートPC対応, MacBook対応, iPhone対応, iPad対応, 電力を自動最適配分",
+    "percent_off": 40
+  },
+  "B0D53WHQD6": {
+    "first_seen": "2026-09-01",
+    "first_seen_at": "2026-09-01T22:14:34+09:00",
+    "last_seen": "2026-10-17",
+    "title": "CIO NovaPort TRIOⅡ 65W 2C1A PD急速充電器 USB-C×2+USB-A×1 3台同時充電 世界最小級（ホワイト） | ノートPC対応, MacBook対応, iPhone対応, iPad対応, 電力を自動最適配分",
     "percent_off": 40
   },
   "B0CD1NVW7R": {
@@ -1126,13 +1133,6 @@
     "title": "Xiaomi REDMI Watch 6 Lite シャオミスマートウォッチ GPS 防水 18日間持続 Bluetooth通話 iPhone対応 | 1.96インチAMOLED大画面 1500nits 常時表示 着信通知 自動輝度調整 超狭額ベゼル 薄型 軽量 5システムGNSS iPhone/Android対応 5ATM スイムトラッキング 150種スポーツ 24時間健康管理 心拍数 ストレス",
     "percent_off": 19
   },
-  "B0GNSDGYRH": {
-    "first_seen": "2026-10-17",
-    "first_seen_at": "2026-10-17T07:14:46+09:00",
-    "last_seen": "2026-10-17",
-    "title": "Amazfit Active 3 Premium 45mm ランナー向け スマートウォッチ HYROX Strava Runtrip 3000nit 高輝度 AMOLED GPS 5衛星 オフラインマップ AIによる音声操作 睡眠 運動管理 心拍 睡眠 健康管理 170+ スポーツモード ナビゲーション ルートインポート 5ATM防水 12日間バッテリー持続 丸型 (アペックスシルバー)",
-    "percent_off": 19
-  },
   "B0GZ294HH3": {
     "first_seen": "2026-08-16",
     "first_seen_at": "2026-08-16T00:38:29+09:00",
@@ -1168,19 +1168,19 @@
     "title": "HUAWEI WATCH FIT 5 スマートウォッチ 薄型軽量 大画面 GPS内蔵 10日間ロングバッテリー 通知 健康管理 心拍数 睡眠 ブラック",
     "percent_off": 16
   },
-  "B0GYF753F1": {
-    "first_seen": "2026-10-13",
-    "first_seen_at": "2026-10-13T01:14:56+09:00",
-    "last_seen": "2026-10-17",
-    "title": "DPVR G3 AIスマートグラス 800万画素 カメラ付きメガネ 録画 翻訳 AI画像認識 メガネ型カメラ オーディオグラス クリアレンズ",
-    "percent_off": 24
-  },
   "B0H6BLVBDC": {
     "first_seen": "2026-10-13",
     "first_seen_at": "2026-10-13T21:14:47+09:00",
     "last_seen": "2026-10-17",
     "title": "VITURE Beast ARグラス 【家電批評Best Buy・VGP金賞・企画賞】 174インチ 光学技術で映像を鮮明に 3DoF対応",
     "percent_off": 25
+  },
+  "B0HKSYJRPD": {
+    "first_seen": "2026-10-13",
+    "first_seen_at": "2026-10-13T21:14:47+09:00",
+    "last_seen": "2026-10-17",
+    "title": "DPVR G1 AIスマートグラス 800万画素 カメラ付きメガネ 録画 翻訳 AI画像認識 メガネ型カメラ オーディオグラス 調光レンズ",
+    "percent_off": 24
   },
   "B0FFT61X6F": {
     "first_seen": "2026-10-13",
@@ -1224,19 +1224,12 @@
     "title": "INMO GO3 AIスマートグラス リアルタイム翻訳を眼前に表示 98言語対応 AIアシスタント カメラ搭載ARグラス 軽量設計 会議/スピーチ/海外旅行/ナビゲーション",
     "percent_off": 15
   },
-  "B0CG2VN86V": {
-    "first_seen": "2026-10-16",
-    "first_seen_at": "2026-10-16T19:15:14+09:00",
-    "last_seen": "2026-10-17",
-    "title": "Ring 首振り機能付きインドアカム | 左右360° 上下169° パンチルト、屋内用防犯カメラ | Pan-Tilt Indoor Cam ホワイト | Ringプロテクトプラン30日間無料体験",
-    "percent_off": 65
-  },
-  "B0GS7XYSP4": {
+  "B0CG2WJYTL": {
     "first_seen": "2026-10-16",
     "first_seen_at": "2026-10-16T21:16:05+09:00",
     "last_seen": "2026-10-17",
-    "title": "【セット買い】 Echo Show 5 (エコーショー5) チャコール + Ring 首振り機能付きインドアカム - ブラック",
-    "percent_off": 63
+    "title": "Ring 首振り機能付きインドアカム | 左右360° 上下169° パンチルト、屋内用防犯カメラ | Pan-Tilt Indoor Cam ブラック | Ring Homeプラン30日間無料体験",
+    "percent_off": 65
   },
   "B09B2PF8S4": {
     "first_seen": "2026-10-13",
@@ -1609,13 +1602,6 @@
     "title": "エレコム ワイヤレスキーボード マウスセット メンブレン 薄型 フルキーボード ブラック TK-FDM110MBK",
     "percent_off": 16
   },
-  "B01G54NODO": {
-    "first_seen": "2026-10-13",
-    "first_seen_at": "2026-10-13T10:16:05+09:00",
-    "last_seen": "2026-10-17",
-    "title": "エレコム マウス ワイヤレス (レシーバー付属) Lサイズ 5ボタン (戻る・進むボタン搭載) 静音 BlueLED 握りの極み ブラック M-XGL10DBSBK",
-    "percent_off": 16
-  },
   "B0DJLRYYSS": {
     "first_seen": "2026-10-13",
     "first_seen_at": "2026-10-13T00:16:25+09:00",
@@ -1756,6 +1742,41 @@
     "title": "COSORI コソリ ノンフライヤー 6L大容量 家庭用 エアフライヤー DCモーター 高速 最高温230℃ タイマー air fryer 発酵 揚げ物 ポテト 専用レシピ付き ブラック CAF-DC601",
     "percent_off": 14
   },
+  "B0GNSDGYRH": {
+    "first_seen": "2026-10-17",
+    "first_seen_at": "2026-10-17T07:14:46+09:00",
+    "last_seen": "2026-10-17",
+    "title": "Amazfit Active 3 Premium 45mm ランナー向け スマートウォッチ HYROX Strava Runtrip 3000nit 高輝度 AMOLED GPS 5衛星 オフラインマップ AIによる音声操作 睡眠 運動管理 心拍 睡眠 健康管理 170+ スポーツモード ナビゲーション ルートインポート 5ATM防水 12日間バッテリー持続 丸型 (アペックスシルバー)",
+    "percent_off": 19
+  },
+  "B0GYF753F1": {
+    "first_seen": "2026-10-13",
+    "first_seen_at": "2026-10-13T01:14:56+09:00",
+    "last_seen": "2026-10-17",
+    "title": "DPVR G3 AIスマートグラス 800万画素 カメラ付きメガネ 録画 翻訳 AI画像認識 メガネ型カメラ オーディオグラス クリアレンズ",
+    "percent_off": 24
+  },
+  "B0CG2VN86V": {
+    "first_seen": "2026-10-16",
+    "first_seen_at": "2026-10-16T19:15:14+09:00",
+    "last_seen": "2026-10-17",
+    "title": "Ring 首振り機能付きインドアカム | 左右360° 上下169° パンチルト、屋内用防犯カメラ | Pan-Tilt Indoor Cam ホワイト | Ringプロテクトプラン30日間無料体験",
+    "percent_off": 65
+  },
+  "B0GS7XYSP4": {
+    "first_seen": "2026-10-16",
+    "first_seen_at": "2026-10-16T21:16:05+09:00",
+    "last_seen": "2026-10-17",
+    "title": "【セット買い】 Echo Show 5 (エコーショー5) チャコール + Ring 首振り機能付きインドアカム - ブラック",
+    "percent_off": 63
+  },
+  "B01G54NODO": {
+    "first_seen": "2026-10-13",
+    "first_seen_at": "2026-10-13T10:16:05+09:00",
+    "last_seen": "2026-10-17",
+    "title": "エレコム マウス ワイヤレス (レシーバー付属) Lサイズ 5ボタン (戻る・進むボタン搭載) 静音 BlueLED 握りの極み ブラック M-XGL10DBSBK",
+    "percent_off": 16
+  },
   "B0DW2LFVBB": {
     "first_seen": "2026-08-24",
     "first_seen_at": "2026-08-24T20:45:23+09:00",
@@ -1769,13 +1790,6 @@
     "last_seen": "2026-10-17",
     "title": "エレコム 充電器 65W USB PD対応 3ポート Type-C USB-A 【 iPhone 16 15 14 iPad Macbook Air ノートPC】 ブラック EC-AC4465BK (× 3)",
     "percent_off": 15
-  },
-  "B0CG2WJYTL": {
-    "first_seen": "2026-10-16",
-    "first_seen_at": "2026-10-16T21:16:05+09:00",
-    "last_seen": "2026-10-17",
-    "title": "Ring 首振り機能付きインドアカム | 左右360° 上下169° パンチルト、屋内用防犯カメラ | Pan-Tilt Indoor Cam ブラック | Ring Homeプラン30日間無料体験",
-    "percent_off": 65
   },
   "B07WGPPZQK": {
     "first_seen": "2026-10-17",
@@ -2021,13 +2035,6 @@
     "last_seen": "2026-10-16",
     "title": "【Works with Alexa認定】 SwitchBot 防犯カメラ 500万画素 監視カメラ アプリ通知 遠隔確認 動体検知 自動追跡 ナイトビジョン 双方向音声通話 パン/チルト カラーナイトビジョン 室内 スイッチボット 見守りカメラ Plus 5MP 3年保証",
     "percent_off": 15
-  },
-  "B0HKSYJRPD": {
-    "first_seen": "2026-10-13",
-    "first_seen_at": "2026-10-13T21:14:47+09:00",
-    "last_seen": "2026-10-16",
-    "title": "DPVR G1 AIスマートグラス 800万画素 カメラ付きメガネ 録画 翻訳 AI画像認識 メガネ型カメラ オーディオグラス 調光レンズ",
-    "percent_off": 24
   },
   "B0F1FD99K8": {
     "first_seen": "2026-09-25",
@@ -3085,13 +3092,6 @@
     "last_seen": "2026-10-14",
     "title": "Belkin Apple Watch充電器一体型 モバイルバッテリー 3C 認証 10000mAh 45W USB-Cケーブル内蔵 3台同時充電",
     "percent_off": 29
-  },
-  "B0D53WHQD6": {
-    "first_seen": "2026-09-01",
-    "first_seen_at": "2026-09-01T22:14:34+09:00",
-    "last_seen": "2026-10-14",
-    "title": "CIO NovaPort TRIOⅡ 65W 2C1A PD急速充電器 USB-C×2+USB-A×1 3台同時充電 世界最小級（ホワイト）",
-    "percent_off": 40
   },
   "B0BWF2TM8R": {
     "first_seen": "2026-09-21",
