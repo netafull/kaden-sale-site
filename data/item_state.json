@@ -277,7 +277,7 @@
     "first_seen_at": "2026-08-16T23:40:53+09:00",
     "last_seen": "2026-10-18",
     "title": "ソニー(SONY) 完全ワイヤレスイヤホン WF-C510 / 軽量小型4.6g / 高精度通話品質/外音取り込み対応/マルチポイント対応 / IPX4防滴性能 / ブラック/WF-C510 BC",
-    "percent_off": 22
+    "percent_off": 21
   },
   "B0GZT5XM4R": {
     "first_seen": "2026-10-13",
@@ -361,6 +361,13 @@
     "first_seen_at": "2026-10-17T20:15:04+09:00",
     "last_seen": "2026-10-18",
     "title": "Anker Nano Power Bank (12W, Built-In Lightning Connector) ピンク | モバイルバッテリー 5K 5000mAh 小型 軽量 コンパクト lightning【MFi認証済/PowerIQ搭載/ライトニング端子一体型】 iPhone 14 シリーズ",
+    "percent_off": 33
+  },
+  "B0BVKQ9XSM": {
+    "first_seen": "2026-10-16",
+    "first_seen_at": "2026-10-16T19:15:14+09:00",
+    "last_seen": "2026-10-18",
+    "title": "Anker Nano Power Bank (12W, Built-In Lightning Connector) ブラック | モバイルバッテリー 5K 5000mAh 小型 軽量 コンパクト lightning【MFi認証済/PowerIQ搭載/ライトニング端子一体型】 iPhone 14 シリーズ",
     "percent_off": 33
   },
   "B0CQY7SRTY": {
@@ -594,6 +601,13 @@
     "title": "UGREEN NexodeX 100W GaNII充電器 USB-C*2+USB-A タイプC Type-C 急速充電器 PD3.0/PPS/QC4+ | PSE認証済/MacBook/iPhone17/16/15/Galaxy S26 ultra/Xperia ノートPC 各種対応 折りたたみ式プラグ",
     "percent_off": 45
   },
+  "B0FDFC2DDD": {
+    "first_seen": "2026-10-15",
+    "first_seen_at": "2026-10-15T01:15:57+09:00",
+    "last_seen": "2026-10-18",
+    "title": "Belkin Cubic Charger 45W 充電器 type-c iphone18対応 急速充電 PD3.2 PPS対応 | PD 充電器 折り畳みプラグ iphone18-15 iPad MacBook Galaxy ノートPC 各機種対応 PSE技術基準適合 2年保証・最大2,500米ドルCEW ディズニーマーベル",
+    "percent_off": 46
+  },
   "B0D53VJJ7F": {
     "first_seen": "2026-07-28",
     "first_seen_at": "2026-07-28T12:00:00+09:00",
@@ -720,13 +734,6 @@
     "title": "Belkin USB充電器 (30W + 30W) 2ポート iPhone17,16～12 PD急速充電対応 WCB010dqWHJP",
     "percent_off": 30
   },
-  "B0G64K1H7N": {
-    "first_seen": "2026-10-04",
-    "first_seen_at": "2026-10-04T22:14:53+09:00",
-    "last_seen": "2026-10-18",
-    "title": "UGREEN Air 45W USB-C 当社最小充電器 GaNII 急速充電器 | 折畳みプラグ PSE認証済 iPhone18/17/16/15iPad MacBook Air GalaxyS25/S24/S23各種機器対応",
-    "percent_off": 29
-  },
   "B0G64NF1FQ": {
     "first_seen": "2026-09-16",
     "first_seen_at": "2026-09-16T01:14:30+09:00",
@@ -734,18 +741,18 @@
     "title": "UGREEN Air 急速充電器 45W Type-C 薄型設計 当社比67%小型化超薄モデル PD3.0/PPS/QC4/SCP対応 折り畳み式",
     "percent_off": 29
   },
-  "B0DHTT13KN": {
-    "first_seen": "2026-07-31",
-    "first_seen_at": "2026-07-31T12:00:00+09:00",
-    "last_seen": "2026-10-18",
-    "title": "Belkin Cubic Charger 45W 充電器 type-c iphone18対応 充電器 急速充電 PD3.2 PPS対応 ホワイト | PD 充電器 折り畳みプラグ iphone18,17-12 iPad MacBook Galaxy ノートPC 各機種対応 PSE技術基準適合 2年保証・最大2,500米ドルCEW",
-    "percent_off": 28
-  },
   "B0DNT9Z2HS": {
     "first_seen": "2026-07-27",
     "first_seen_at": "2026-07-27T12:00:00+09:00",
     "last_seen": "2026-10-18",
     "title": "UGREEN 100W GaN 卓上急速充電器 (4*USB-C+2*USB-A) コンパクト【PSE技術基準適合/PD3.0/QC4.0/PPS対応】 複数台同時充電 iPhone17/16/15/14/13/Xperia/Pixel Pro/iPad/ノートPC MacBook Pro/Airなどに対応",
+    "percent_off": 28
+  },
+  "B0DHTT13KN": {
+    "first_seen": "2026-07-31",
+    "first_seen_at": "2026-07-31T12:00:00+09:00",
+    "last_seen": "2026-10-18",
+    "title": "Belkin Cubic Charger 45W 充電器 type-c iphone18対応 充電器 急速充電 PD3.2 PPS対応 ホワイト | PD 充電器 折り畳みプラグ iphone18,17-12 iPad MacBook Galaxy ノートPC 各機種対応 PSE技術基準適合 2年保証・最大2,500米ドルCEW",
     "percent_off": 28
   },
   "B0FBM6X15S": {
@@ -900,6 +907,13 @@
     "first_seen_at": "2026-10-13T22:15:31+09:00",
     "last_seen": "2026-10-18",
     "title": "Belkin Apple Watch充電器 持ち運び USB-C ドングル ポータブル MFI認証 高速充電 全モデル対応",
+    "percent_off": 14
+  },
+  "B0CPY1WPK3": {
+    "first_seen": "2026-10-13",
+    "first_seen_at": "2026-10-13T00:16:25+09:00",
+    "last_seen": "2026-10-18",
+    "title": "Belkin カーチャージャー 42W 車載充電器 USB-C＋USB-A PD/PPS対応 2台同時充電 急速充電 ブラック | USB-C最大30W＋USB-A最大12W、2ポート42W出力、PD/PPS対応、iPhone 18シリーズ以下・iPad・Android対応、USB-IF認証、2年保証・最大2,500米ドルCEW",
     "percent_off": 14
   },
   "B08P45YTTL": {
@@ -1133,6 +1147,13 @@
     "title": "HUAWEI WATCH FIT 4 スマートウォッチ 薄型軽量 1.82インチ大画面 アウトドアに適した気圧計と測位システム 通知 フィットネス ヘルストラッカー 情緒測定 10日間ロングバッテリー iOS/Android対応 ブラック",
     "percent_off": 25
   },
+  "B0FKH268LS": {
+    "first_seen": "2026-10-09",
+    "first_seen_at": "2026-10-09T23:15:04+09:00",
+    "last_seen": "2026-10-18",
+    "title": "HUAWEI WATCH GT 6 46mm スマートウォッチ 大画面 GPS搭載 21日間バッテリー 心拍数 ゴルフ GPS 通知 ブラック",
+    "percent_off": 24
+  },
   "B0GQL9JZS7": {
     "first_seen": "2026-10-13",
     "first_seen_at": "2026-10-13T00:16:25+09:00",
@@ -1315,11 +1336,11 @@
     "title": "Amazon Echo Show 15 (エコーショー15) 第2世代 (2024年発売) - 15.6インチ フルHDスマートディスプレイ with Alexa、Fire TV機能搭載、Alexa対応音声認識リモコン同梱",
     "percent_off": 33
   },
-  "B0DYBQJZ2W": {
-    "first_seen": "2026-10-13",
-    "first_seen_at": "2026-10-13T12:16:14+09:00",
+  "B0DYBMNDNR": {
+    "first_seen": "2026-10-15",
+    "first_seen_at": "2026-10-15T00:15:14+09:00",
     "last_seen": "2026-10-18",
-    "title": "Amazon Echo Show 11 (エコーショー11) (2025年発売) - シームレスなデザイン、11インチフルHDスマートディスプレイ with Alexa、空間オーディオ、グレーシャーホワイト",
+    "title": "Amazon Echo Show 11 (エコーショー11) (2025年発売) - シームレスなデザイン、11インチフルHDスマートディスプレイ with Alexa、空間オーディオ、グラファイト",
     "percent_off": 30
   },
   "B0G2TQZMY1": {
@@ -1805,19 +1826,19 @@
     "title": "COSORI コソリ ノンフライヤー 6L大容量 家庭用 エアフライヤー DCモーター 高速 最高温230℃ タイマー air fryer 発酵 揚げ物 ポテト 専用レシピ付き ブラック CAF-DC601",
     "percent_off": 14
   },
-  "B0FDFC2DDD": {
-    "first_seen": "2026-10-15",
-    "first_seen_at": "2026-10-15T01:15:57+09:00",
+  "B0G64K1H7N": {
+    "first_seen": "2026-10-04",
+    "first_seen_at": "2026-10-04T22:14:53+09:00",
     "last_seen": "2026-10-18",
-    "title": "Belkin Cubic Charger 45W 充電器 type-c iphone18対応 急速充電 PD3.2 PPS対応 | PD 充電器 折り畳みプラグ iphone18-15 iPad MacBook Galaxy ノートPC 各機種対応 PSE技術基準適合 2年保証・最大2,500米ドルCEW ディズニーマーベル",
-    "percent_off": 46
+    "title": "UGREEN Air 45W USB-C 当社最小充電器 GaNII 急速充電器 | 折畳みプラグ PSE認証済 iPhone18/17/16/15iPad MacBook Air GalaxyS25/S24/S23各種機器対応",
+    "percent_off": 29
   },
-  "B0CPY1WPK3": {
+  "B0DYBQJZ2W": {
     "first_seen": "2026-10-13",
-    "first_seen_at": "2026-10-13T00:16:25+09:00",
+    "first_seen_at": "2026-10-13T12:16:14+09:00",
     "last_seen": "2026-10-18",
-    "title": "Belkin カーチャージャー 42W 車載充電器 USB-C＋USB-A PD/PPS対応 2台同時充電 急速充電 ブラック | USB-C最大30W＋USB-A最大12W、2ポート42W出力、PD/PPS対応、iPhone 18シリーズ以下・iPad・Android対応、USB-IF認証、2年保証・最大2,500米ドルCEW",
-    "percent_off": 14
+    "title": "Amazon Echo Show 11 (エコーショー11) (2025年発売) - シームレスなデザイン、11インチフルHDスマートディスプレイ with Alexa、空間オーディオ、グレーシャーホワイト",
+    "percent_off": 30
   },
   "B0DRP2QYCY": {
     "first_seen": "2026-10-13",
@@ -1825,20 +1846,6 @@
     "last_seen": "2026-10-18",
     "title": "Belkin Apple Watch充電器 持ち運び USB-C ドングル ポータブル MFI認証 高速充電 全モデル対応",
     "percent_off": 15
-  },
-  "B0DYBMNDNR": {
-    "first_seen": "2026-10-15",
-    "first_seen_at": "2026-10-15T00:15:14+09:00",
-    "last_seen": "2026-10-18",
-    "title": "Amazon Echo Show 11 (エコーショー11) (2025年発売) - シームレスなデザイン、11インチフルHDスマートディスプレイ with Alexa、空間オーディオ、グラファイト",
-    "percent_off": 30
-  },
-  "B0BVKQ9XSM": {
-    "first_seen": "2026-10-16",
-    "first_seen_at": "2026-10-16T19:15:14+09:00",
-    "last_seen": "2026-10-18",
-    "title": "Anker Nano Power Bank (12W, Built-In Lightning Connector) ブラック | モバイルバッテリー 5K 5000mAh 小型 軽量 コンパクト lightning【MFi認証済/PowerIQ搭載/ライトニング端子一体型】 iPhone 14 シリーズ",
-    "percent_off": 33
   },
   "B0C3VSNBQH": {
     "first_seen": "2026-10-13",
@@ -2280,13 +2287,6 @@
     "last_seen": "2026-10-17",
     "title": "Bose QuietComfort Ultra Headphones LE（第2世代） 空間オーディオ 完全 ワイヤレス オーバーイヤー型 ヘッドホン ノイズキャンセリング Bluetooth接続 マイク搭載 最大30時間再生 急速充電 デザートゴールド",
     "percent_off": 33
-  },
-  "B0FKH268LS": {
-    "first_seen": "2026-10-09",
-    "first_seen_at": "2026-10-09T23:15:04+09:00",
-    "last_seen": "2026-10-17",
-    "title": "HUAWEI WATCH GT 6 46mm スマートウォッチ 大画面 GPS搭載 21日間バッテリー 心拍数 ゴルフ GPS 通知 ブラック",
-    "percent_off": 24
   },
   "B0D53WHQD6": {
     "first_seen": "2026-09-01",
