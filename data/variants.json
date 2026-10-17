@@ -574,7 +574,7 @@
    "aliases": {},
    "genre": "Apple製品",
    "label": "Apple Magic Keyboard - 日本語(JIS)",
-   "last_sweep_at": "2026-10-17T15:07:13+09:00",
+   "last_sweep_at": "2026-10-17T22:07:12+09:00",
    "members": {
     "B0DL6ZMCV9": {
      "last_seen": "2026-10-17",
@@ -1722,8 +1722,8 @@
     },
     "B0FQG5SZS9": {
      "last_seen": "2026-10-17",
-     "pct": 21,
-     "points_pct": 1
+     "pct": null,
+     "points_pct": null
     },
     "B0FQGJTXYQ": {
      "last_seen": "2026-10-17",
