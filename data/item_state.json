@@ -237,6 +237,13 @@
     "title": "Anker Soundcore Sleep A30 オフホワイト | （ワイヤレスイヤホン Bluetooth 5.3）【睡眠用/完全ワイヤレスイヤホン / IPX4防水規格 / 最大50時間音楽再生 / 専用アプリ対応/睡眠時モニタリング/コンパクト/軽量設計/PSE技術基準適合】",
     "percent_off": 33
   },
+  "B0FL2KNHYM": {
+    "first_seen": "2026-09-24",
+    "first_seen_at": "2026-09-24T20:15:02+09:00",
+    "last_seen": "2026-10-17",
+    "title": "Bose QuietComfort Ultra Headphones LE（第2世代） 空間オーディオ 完全 ワイヤレス オーバーイヤー型 ヘッドホン ノイズキャンセリング Bluetooth接続 マイク搭載 最大30時間再生 急速充電 デザートゴールド",
+    "percent_off": 33
+  },
   "B0DLGJCTPK": {
     "first_seen": "2026-10-17",
     "first_seen_at": "2026-10-17T05:15:28+09:00",
@@ -277,7 +284,7 @@
     "first_seen_at": "2026-08-16T23:40:53+09:00",
     "last_seen": "2026-10-17",
     "title": "ソニー(SONY) 完全ワイヤレスイヤホン WF-C510 / 軽量小型4.6g / 高精度通話品質/外音取り込み対応/マルチポイント対応 / IPX4防滴性能 / ブラック/WF-C510 BC",
-    "percent_off": 22
+    "percent_off": 21
   },
   "B0GZT5XM4R": {
     "first_seen": "2026-10-13",
@@ -587,13 +594,6 @@
     "title": "CIO NovaPort TRIOⅡ 65W 2C1A PD急速充電器 USB-C×2+USB-A×1 3台同時充電 世界最小級（ブラック）",
     "percent_off": 40
   },
-  "B0D53WHQD6": {
-    "first_seen": "2026-09-01",
-    "first_seen_at": "2026-09-01T22:14:34+09:00",
-    "last_seen": "2026-10-17",
-    "title": "CIO NovaPort TRIOⅡ 65W 2C1A PD急速充電器 USB-C×2+USB-A×1 3台同時充電 世界最小級（ホワイト）",
-    "percent_off": 40
-  },
   "B0CD1NVW7R": {
     "first_seen": "2026-09-15",
     "first_seen_at": "2026-09-15T23:14:42+09:00",
@@ -846,13 +846,6 @@
     "title": "Belkin Apple Watch充電器 持ち運び USB-C ドングル ポータブル MFI認証 高速充電 全モデル対応",
     "percent_off": 14
   },
-  "B0CPY1WPK3": {
-    "first_seen": "2026-10-13",
-    "first_seen_at": "2026-10-13T00:16:25+09:00",
-    "last_seen": "2026-10-17",
-    "title": "Belkin カーチャージャー 42W 車載充電器 USB-C＋USB-A PD/PPS対応 2台同時充電 急速充電 ブラック | USB-C最大30W＋USB-A最大12W、2ポート42W出力、PD/PPS対応、iPhone 18シリーズ以下・iPad・Android対応、USB-IF認証、2年保証・最大2,500米ドルCEW",
-    "percent_off": 14
-  },
   "B08P45YTTL": {
     "first_seen": "2026-10-13",
     "first_seen_at": "2026-10-13T00:16:25+09:00",
@@ -1090,6 +1083,13 @@
     "last_seen": "2026-10-17",
     "title": "HUAWEI WATCH FIT 4 スマートウォッチ 薄型軽量 1.82インチ大画面 アウトドアに適した気圧計と測位システム 通知 フィットネス ヘルストラッカー 情緒測定 10日間ロングバッテリー iOS/Android対応 ブラック",
     "percent_off": 25
+  },
+  "B0FKH268LS": {
+    "first_seen": "2026-10-09",
+    "first_seen_at": "2026-10-09T23:15:04+09:00",
+    "last_seen": "2026-10-17",
+    "title": "HUAWEI WATCH GT 6 46mm スマートウォッチ 大画面 GPS搭載 21日間バッテリー 心拍数 ゴルフ GPS 通知 ブラック",
+    "percent_off": 24
   },
   "B0GQL9JZS7": {
     "first_seen": "2026-10-13",
@@ -1742,6 +1742,20 @@
     "title": "COSORI コソリ ノンフライヤー 6L大容量 家庭用 エアフライヤー DCモーター 高速 最高温230℃ タイマー air fryer 発酵 揚げ物 ポテト 専用レシピ付き ブラック CAF-DC601",
     "percent_off": 14
   },
+  "B0D53WHQD6": {
+    "first_seen": "2026-09-01",
+    "first_seen_at": "2026-09-01T22:14:34+09:00",
+    "last_seen": "2026-10-17",
+    "title": "CIO NovaPort TRIOⅡ 65W 2C1A PD急速充電器 USB-C×2+USB-A×1 3台同時充電 世界最小級（ホワイト）",
+    "percent_off": 40
+  },
+  "B0CPY1WPK3": {
+    "first_seen": "2026-10-13",
+    "first_seen_at": "2026-10-13T00:16:25+09:00",
+    "last_seen": "2026-10-17",
+    "title": "Belkin カーチャージャー 42W 車載充電器 USB-C＋USB-A PD/PPS対応 2台同時充電 急速充電 ブラック | USB-C最大30W＋USB-A最大12W、2ポート42W出力、PD/PPS対応、iPhone 18シリーズ以下・iPad・Android対応、USB-IF認証、2年保証・最大2,500米ドルCEW",
+    "percent_off": 14
+  },
   "B0FQGP2P41": {
     "first_seen": "2026-10-05",
     "first_seen_at": "2026-10-05T23:16:13+09:00",
@@ -1762,13 +1776,6 @@
     "last_seen": "2026-10-17",
     "title": "Belkin Apple Watch充電器 持ち運び USB-C ドングル ポータブル MFI認証 高速充電 全モデル対応",
     "percent_off": 15
-  },
-  "B0FKH268LS": {
-    "first_seen": "2026-10-09",
-    "first_seen_at": "2026-10-09T23:15:04+09:00",
-    "last_seen": "2026-10-17",
-    "title": "HUAWEI WATCH GT 6 46mm スマートウォッチ 大画面 GPS搭載 21日間バッテリー 心拍数 ゴルフ GPS 通知 ブラック",
-    "percent_off": 24
   },
   "B0DLGJDY93": {
     "first_seen": "2026-10-17",
@@ -1881,13 +1888,6 @@
     "last_seen": "2026-10-17",
     "title": "Belkin モバイルバッテリー 3C 認証 大容量 10000mAh 最大15W 3台同時充電 3ポート ピンク | BoostCharge VGP2022受賞 3台同時充電 USB-C×1 USB-A×2 CCC PSE認証 機内持込可能 iPhone 18シリーズ以下・Android対応 充電ケーブル付属 LED残量表示 2年保証 2500ドルのCEW補償",
     "percent_off": 15
-  },
-  "B0FL2KNHYM": {
-    "first_seen": "2026-09-24",
-    "first_seen_at": "2026-09-24T20:15:02+09:00",
-    "last_seen": "2026-10-17",
-    "title": "Bose QuietComfort Ultra Headphones LE（第2世代） 空間オーディオ 完全 ワイヤレス オーバーイヤー型 ヘッドホン ノイズキャンセリング Bluetooth接続 マイク搭載 最大30時間再生 急速充電 デザートゴールド",
-    "percent_off": 33
   },
   "B0C8JWM744": {
     "first_seen": "2026-10-13",
