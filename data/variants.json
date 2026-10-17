@@ -570,6 +570,27 @@
    "seed": "B0DL6YXPCW",
    "variation_count": null
   },
+  "B0DL93J5PN": {
+   "aliases": {},
+   "genre": "Apple製品",
+   "label": "Apple Magic Keyboard - 日本語(JIS)",
+   "last_sweep_at": "2026-10-17T09:07:12+09:00",
+   "members": {
+    "B0DL6ZMCV9": {
+     "last_seen": "2026-10-17",
+     "pct": 0,
+     "points_pct": 1
+    },
+    "B0DL72TNG2": {
+     "last_seen": "2026-10-17",
+     "pct": 0,
+     "points_pct": 1
+    }
+   },
+   "no_variations": false,
+   "seed": "B0DL6ZMCV9",
+   "variation_count": 2
+  },
   "B0DNQBK6BV": {
    "aliases": {
     "B0DL77YLR7": "2026-10-17",
