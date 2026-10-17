@@ -4001,20 +4001,32 @@
    "variation_count": 2
   },
   "B0HJCBG5W4": {
-   "aliases": {},
+   "aliases": {
+    "B0HJ9Y9FN4": "2026-10-17"
+   },
    "genre": "Apple製品",
    "label": "Apple iPhone 18 Pro Max (2 TB) - バーガンディ",
-   "last_sweep_at": "2026-10-17T07:07:15+09:00",
+   "last_sweep_at": "2026-10-17T14:07:11+09:00",
    "members": {
+    "B0HJ9VS44C": {
+     "last_seen": "2026-10-17",
+     "pct": 0,
+     "points_pct": 1
+    },
     "B0HJ9Y9FN4": {
      "last_seen": "2026-10-16",
+     "pct": 0,
+     "points_pct": 1
+    },
+    "B0HJB4LCRD": {
+     "last_seen": "2026-10-17",
      "pct": 0,
      "points_pct": 1
     }
    },
    "no_variations": false,
-   "seed": "B0HJ9Y9FN4",
-   "variation_count": 1
+   "seed": "B0HJ9VS44C",
+   "variation_count": 2
   },
   "B0HJH2TCDJ": {
    "aliases": {},
