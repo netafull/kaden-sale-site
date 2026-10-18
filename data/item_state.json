@@ -270,7 +270,7 @@
     "first_seen_at": "2026-08-16T23:40:53+09:00",
     "last_seen": "2026-10-18",
     "title": "ソニー(SONY) 完全ワイヤレスイヤホン WF-C510 / 軽量小型4.6g / 高精度通話品質/外音取り込み対応/マルチポイント対応 / IPX4防滴性能 / ブラック/WF-C510 BC",
-    "percent_off": 22
+    "percent_off": 21
   },
   "B0GZT5XM4R": {
     "first_seen": "2026-10-13",
@@ -552,11 +552,11 @@
     "title": "Belkin モバイルバッテリー 3C 認証 大容量 10000mAh 最大15W 3台同時充電 3ポート ブルー | BoostCharge VGP2022受賞 3台同時充電 USB-C×1 USB-A×2 CCC PSE認証 機内持込可能 iPhone 18シリーズ以下・Android対応 充電ケーブル付属 LED残量表示 2年保証 2500ドルのCEW補償",
     "percent_off": 15
   },
-  "B0FHK4LK2M": {
-    "first_seen": "2026-10-17",
-    "first_seen_at": "2026-10-17T21:15:05+09:00",
+  "B0H389CB56": {
+    "first_seen": "2026-10-13",
+    "first_seen_at": "2026-10-13T00:16:25+09:00",
     "last_seen": "2026-10-18",
-    "title": "エレコム モバイルバッテリー 5000mAh 22.5W 軽量 小型 タイプC 直挿し USB-C一体型 スイング式コネクタ ケーブルいらずで挿すだけ充電 【 iPhone16/iPad 第10世代/Google Pixel9 対応】 ホワイト EC-C28LWH",
+    "title": "エレコム モバイルバッテリー 5000mAh 22.5W USB-C 直挿し プラグ一体型 ケーブル不要 急速充電 コンパクト 軽量 130g iPhone対応 パススルー充電 PSE認証 スイング式コネクタ Type-C ピンク EC-C28LPN",
     "percent_off": 15
   },
   "B0GTLRMFJZ": {
@@ -1014,19 +1014,19 @@
     "title": "【1台4役】SwitchBot 空気清浄機 Table 25畳対応 空気浄化 花粉対策 脱臭 ワイヤレス充電 静音 省エネ HEPA フィルター | 360°吸気 空気循環 花粉・ホコリ・抜け毛を集じん ペット臭・生活臭対策 アプリ操作 タイマー機能 ムードライト リビング・寝室向け Alexa Google Home Siriに対応",
     "percent_off": 29
   },
-  "B07B7NXV4R": {
-    "first_seen": "2026-07-30",
-    "first_seen_at": "2026-07-30T12:00:00+09:00",
-    "last_seen": "2026-10-18",
-    "title": "SwitchBot スイッチボット スイッチ ボタンに適用 指ロボット スマートスイッチ スマートホーム ワイヤレス タイマー スマホで遠隔操作 Alexa, Google Home, Siri, IFTTTなどに対応(ハブ必要) ホワイト",
-    "percent_off": 27
-  },
   "B0CL4R54X4": {
     "first_seen": "2026-10-13",
     "first_seen_at": "2026-10-13T00:16:25+09:00",
     "last_seen": "2026-10-18",
     "title": "SwitchBot 気化式加湿器 Alexa 大容量 4.5L 21畳対応 省エネ 上から給水 18dB静音 抗菌 フィルター洗濯機可 スマートホーム | フィルター自動乾燥・加湿量750ml/h・最大22.5時間稼働・Google Home / Siri対応",
     "percent_off": 25
+  },
+  "B07B7NXV4R": {
+    "first_seen": "2026-07-30",
+    "first_seen_at": "2026-07-30T12:00:00+09:00",
+    "last_seen": "2026-10-18",
+    "title": "SwitchBot スイッチボット スイッチ ボタンに適用 指ロボット スマートスイッチ スマートホーム ワイヤレス タイマー スマホで遠隔操作 Alexa, Google Home, Siri, IFTTTなどに対応(ハブ必要) ホワイト",
+    "percent_off": 23
   },
   "B0F7GGN94D": {
     "first_seen": "2026-07-28",
@@ -1118,6 +1118,13 @@
     "last_seen": "2026-10-18",
     "title": "HUAWEI WATCH D2 ウェアラブル血圧計LCA-B10:ブラック",
     "percent_off": 27
+  },
+  "B0H24M3VXL": {
+    "first_seen": "2026-10-11",
+    "first_seen_at": "2026-10-11T00:15:42+09:00",
+    "last_seen": "2026-10-18",
+    "title": "【体組成計セット】HUAWEI WATCH FIT 5 スマートウォッチ 薄型軽量 1.82インチ大画面 2500nits高輝度 10日間ロングバッテリー ワークアウト GPS内蔵 転倒検知 健康管理 心拍数 睡眠 情緒測定 iOS/アンドロイド対応 ブラック",
+    "percent_off": 26
   },
   "B0FKH3WQ41": {
     "first_seen": "2026-07-30",
@@ -1798,6 +1805,13 @@
     "title": "COSORI コソリ ノンフライヤー 6L大容量 家庭用 エアフライヤー DCモーター 高速 最高温230℃ タイマー air fryer 発酵 揚げ物 ポテト 専用レシピ付き ブラック CAF-DC601",
     "percent_off": 14
   },
+  "B0FHK4LK2M": {
+    "first_seen": "2026-10-17",
+    "first_seen_at": "2026-10-17T21:15:05+09:00",
+    "last_seen": "2026-10-18",
+    "title": "エレコム モバイルバッテリー 5000mAh 22.5W 軽量 小型 タイプC 直挿し USB-C一体型 スイング式コネクタ ケーブルいらずで挿すだけ充電 【 iPhone16/iPad 第10世代/Google Pixel9 対応】 ホワイト EC-C28LWH",
+    "percent_off": 15
+  },
   "B0D9J7MNMY": {
     "first_seen": "2026-10-13",
     "first_seen_at": "2026-10-13T20:14:58+09:00",
@@ -1810,13 +1824,6 @@
     "first_seen_at": "2026-10-13T00:16:25+09:00",
     "last_seen": "2026-10-18",
     "title": "Belkin Apple Watch充電器 持ち運び USB-C ドングル ポータブル MFI認証 高速充電 全モデル対応",
-    "percent_off": 15
-  },
-  "B0H389CB56": {
-    "first_seen": "2026-10-13",
-    "first_seen_at": "2026-10-13T00:16:25+09:00",
-    "last_seen": "2026-10-18",
-    "title": "エレコム モバイルバッテリー 5000mAh 22.5W USB-C 直挿し プラグ一体型 ケーブル不要 急速充電 コンパクト 軽量 130g iPhone対応 パススルー充電 PSE認証 スイング式コネクタ Type-C ピンク EC-C28LPN",
     "percent_off": 15
   },
   "B0FDFC2DDD": {
@@ -2231,13 +2238,6 @@
     "last_seen": "2026-10-17",
     "title": "COSORI コソリ ノンフライヤー 6L大容量 エアフライヤー DCモーター 高速 最高温230℃ 発酵 air fryer CAF-DC601",
     "percent_off": 15
-  },
-  "B0H24M3VXL": {
-    "first_seen": "2026-10-11",
-    "first_seen_at": "2026-10-11T00:15:42+09:00",
-    "last_seen": "2026-10-17",
-    "title": "【体組成計セット】HUAWEI WATCH FIT 5 スマートウォッチ 薄型軽量 1.82インチ大画面 2500nits高輝度 10日間ロングバッテリー ワークアウト GPS内蔵 転倒検知 健康管理 心拍数 睡眠 情緒測定 iOS/アンドロイド対応 ブラック",
-    "percent_off": 26
   },
   "B0GS9FZ75P": {
     "first_seen": "2026-10-13",
