@@ -277,7 +277,7 @@
     "first_seen_at": "2026-08-16T23:40:53+09:00",
     "last_seen": "2026-10-18",
     "title": "ソニー(SONY) 完全ワイヤレスイヤホン WF-C510 / 軽量小型4.6g / 高精度通話品質/外音取り込み対応/マルチポイント対応 / IPX4防滴性能 / ブラック/WF-C510 BC",
-    "percent_off": 22
+    "percent_off": 21
   },
   "B0GZT5XM4R": {
     "first_seen": "2026-10-13",
@@ -1126,6 +1126,13 @@
     "title": "HUAWEI WATCH FIT 4 スマートウォッチ 薄型軽量 1.82インチ大画面 アウトドアに適した気圧計と測位システム 通知 フィットネス ヘルストラッカー 情緒測定 10日間ロングバッテリー iOS/Android対応 ブラック",
     "percent_off": 25
   },
+  "B0FKH268LS": {
+    "first_seen": "2026-10-09",
+    "first_seen_at": "2026-10-09T23:15:04+09:00",
+    "last_seen": "2026-10-18",
+    "title": "HUAWEI WATCH GT 6 46mm スマートウォッチ 大画面 GPS搭載 21日間バッテリー 心拍数 ゴルフ GPS 通知 ブラック",
+    "percent_off": 24
+  },
   "B0GQL9JZS7": {
     "first_seen": "2026-10-13",
     "first_seen_at": "2026-10-13T00:16:25+09:00",
@@ -1483,13 +1490,6 @@
     "title": "【Amazon.co.jp限定】 ロジクールワイヤレスマウス 静音 無線 Signature M550MBKs レギュラー ブラック 国内正規品 | レギュラーサイズ、3ボタン、電池式（単3形乾電池x1）、Bluetooth、Logi Bolt、Windows10、Windows11、macOS、iPadOS、Android、ChromeOS、M550、M550M、壁紙ダウンロード付き",
     "percent_off": 26
   },
-  "B0BKPL1VKW": {
-    "first_seen": "2026-07-26",
-    "first_seen_at": "2026-07-26T12:00:00+09:00",
-    "last_seen": "2026-10-18",
-    "title": "ロジクール ワイヤレスマウス 静音 無線 高速スクロール Signature M750MGR レギュラー グラファイト M750 国内正規品 | レギュラーサイズ、6ボタン、サイドボタン、電池式（単3形乾電池x1）、Easy-Switch、DPI切り替え、Bluetooth、Logi Bolt、Windows10、Windows11、macOS、iPadOS、Android、ChromeOS",
-    "percent_off": 25
-  },
   "B08GP2H88M": {
     "first_seen": "2026-10-08",
     "first_seen_at": "2026-10-08T01:15:00+09:00",
@@ -1552,6 +1552,13 @@
     "last_seen": "2026-10-18",
     "title": "【Amazon.co.jp限定】 ロジクール Bluetooth ワイヤレスキーボード 無線 K250GRd 日本語配列 グラファイト 国内正規品 | コンパクト、耐水、テンキー、電池式（単4型乾電池 x 2）、12ヶ月の電池寿命、Windows、macOS、ChromeOS、Linux、iPadOS、iOS、Android対応、壁紙ダウンロード付き",
     "percent_off": 21
+  },
+  "B0FR8KBS5K": {
+    "first_seen": "2026-10-08",
+    "first_seen_at": "2026-10-08T21:15:00+09:00",
+    "last_seen": "2026-10-18",
+    "title": "ロジクール アドバンスド ワイヤレス マウス 静音 無線 MX MASTER 3S Bluetooth Edition MX2300CRd 国内正規品 | 【Amazon.co.jp限定】 、静音、8000dpi、高速スクロールホイール、Logi Bolt、Bluetooth、USB-C 充電式、無線、MX2300、グラファイト、Unifying非対応、Amazon.co.jp限定 壁紙ダウンロード付き",
+    "percent_off": 20
   },
   "B0C3QXBTJP": {
     "first_seen": "2026-10-13",
@@ -1665,13 +1672,6 @@
     "title": "REALFORCE RC1 キーボード 70% ホワイト 英語配列 キー荷重 30g Bluetooth 有線 バッテリー コンパクト C1HK23",
     "percent_off": 15
   },
-  "B0FR8LPP2K": {
-    "first_seen": "2026-10-06",
-    "first_seen_at": "2026-10-06T01:15:14+09:00",
-    "last_seen": "2026-10-18",
-    "title": "【Amazon.co.jp限定】 ロジクール MX MASTER 4 アドバンスド ワイヤレス マウス 触覚フィードバック 静音 MX2400GRd",
-    "percent_off": 15
-  },
   "B09J46WG5D": {
     "first_seen": "2026-10-06",
     "first_seen_at": "2026-10-06T01:15:14+09:00",
@@ -1698,6 +1698,13 @@
     "first_seen_at": "2026-10-06T01:15:14+09:00",
     "last_seen": "2026-10-18",
     "title": "エレコム ワイヤレスマウス 静音 5ボタン Mサイズ ブラック M-FBL01DBXSBK",
+    "percent_off": 15
+  },
+  "B0FR8LPP2K": {
+    "first_seen": "2026-10-06",
+    "first_seen_at": "2026-10-06T01:15:14+09:00",
+    "last_seen": "2026-10-18",
+    "title": "【Amazon.co.jp限定】 ロジクール MX MASTER 4 アドバンスド ワイヤレス マウス 触覚フィードバック 静音 MX2400GRd",
     "percent_off": 15
   },
   "B08GS6NK9R": {
@@ -1769,6 +1776,13 @@
     "last_seen": "2026-10-18",
     "title": "COSORI コソリ ノンフライヤー 6L大容量 家庭用 エアフライヤー DCモーター 高速 最高温230℃ タイマー air fryer 発酵 揚げ物 ポテト 専用レシピ付き ブラック CAF-DC601",
     "percent_off": 14
+  },
+  "B0BKPL1VKW": {
+    "first_seen": "2026-07-26",
+    "first_seen_at": "2026-07-26T12:00:00+09:00",
+    "last_seen": "2026-10-18",
+    "title": "ロジクール ワイヤレスマウス 静音 無線 高速スクロール Signature M750MGR レギュラー グラファイト M750 国内正規品 | レギュラーサイズ、6ボタン、サイドボタン、電池式（単3形乾電池x1）、Easy-Switch、DPI切り替え、Bluetooth、Logi Bolt、Windows10、Windows11、macOS、iPadOS、Android、ChromeOS",
+    "percent_off": 25
   },
   "B0BVKQDBGD": {
     "first_seen": "2026-10-17",
@@ -1964,13 +1978,6 @@
     "first_seen_at": "2026-10-13T00:16:25+09:00",
     "last_seen": "2026-10-18",
     "title": "Apple iPhone Air 512GB (SIMフリー) | 最大120HzのProMotionを採用した6.5インチディスプレイ、パワフルなA19 Proチップ、センターフレームフロントカメラ、一日中使えるバッテリー；スペースブラック",
-    "percent_off": 24
-  },
-  "B0FKH268LS": {
-    "first_seen": "2026-10-09",
-    "first_seen_at": "2026-10-09T23:15:04+09:00",
-    "last_seen": "2026-10-18",
-    "title": "HUAWEI WATCH GT 6 46mm スマートウォッチ 大画面 GPS搭載 21日間バッテリー 心拍数 ゴルフ GPS 通知 ブラック",
     "percent_off": 24
   },
   "B0DYBQJZ2W": {
@@ -3967,13 +3974,6 @@
     "last_seen": "2026-10-11",
     "title": "Amazfit Bip 6 スマートウォッチ 2000nit高輝度 GPS内蔵 オフラインマップ AIによる音声操作と睡眠/運動管理 心拍 睡眠 ストレス 健康管理 140+スポーツモード ナビゲーション ルートインポート 14日間バッテリー持続 (ストーン)",
     "percent_off": null
-  },
-  "B0FR8KBS5K": {
-    "first_seen": "2026-10-08",
-    "first_seen_at": "2026-10-08T21:15:00+09:00",
-    "last_seen": "2026-10-11",
-    "title": "ロジクール アドバンスド ワイヤレス マウス 静音 無線 MX MASTER 3S Bluetooth Edition MX2300CRd 国内正規品",
-    "percent_off": 20
   },
   "B0CJR7N5MG": {
     "first_seen": "2026-10-11",
