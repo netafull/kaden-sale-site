@@ -270,7 +270,7 @@
     "first_seen_at": "2026-08-16T23:40:53+09:00",
     "last_seen": "2026-10-18",
     "title": "ソニー(SONY) 完全ワイヤレスイヤホン WF-C510 / 軽量小型4.6g / 高精度通話品質/外音取り込み対応/マルチポイント対応 / IPX4防滴性能 / ブラック/WF-C510 BC",
-    "percent_off": 21
+    "percent_off": 22
   },
   "B0GZT5XM4R": {
     "first_seen": "2026-10-13",
@@ -454,13 +454,6 @@
     "title": "エレコム モバイルバッテリー 半固体電池 小型 軽量 薄型 5000mAh USB-C PD対応 20W 急速充電 ケーブル一体型 2台同時充電 長寿命 パススルー充電 PSE認証 iPhone対応 ミッドナイトブルー EC-C58MN",
     "percent_off": 23
   },
-  "B0D9J7MNMY": {
-    "first_seen": "2026-10-13",
-    "first_seen_at": "2026-10-13T20:14:58+09:00",
-    "last_seen": "2026-10-18",
-    "title": "エレコム モバイルバッテリー 5000mAh ワイヤレス マグネット対応 7.5W スタンド付き Type-C ホワイト DE-C53-5000WH",
-    "percent_off": 24
-  },
   "B0DSPVDYQ9": {
     "first_seen": "2026-10-13",
     "first_seen_at": "2026-10-13T00:16:25+09:00",
@@ -488,6 +481,13 @@
     "last_seen": "2026-10-18",
     "title": "エレコム モバイルバッテリー 半固体電池 大容量 軽量 10000mAh USB-C PD対応 30W 急速充電 ケーブル一体型 2台同時充電 長寿命 パススルー充電 残量表示 PSE認証 iPhone対応 ミッドナイトブルー EC-C59MN",
     "percent_off": 21
+  },
+  "B0D9J5MSBH": {
+    "first_seen": "2026-10-15",
+    "first_seen_at": "2026-10-15T01:15:57+09:00",
+    "last_seen": "2026-10-18",
+    "title": "エレコム モバイルバッテリー 5000mAh ワイヤレス マグネット対応 7.5W スタンド付き Type-C ブラック DE-C53-5000BK",
+    "percent_off": 22
   },
   "B0GPDBS299": {
     "first_seen": "2026-10-06",
@@ -860,13 +860,6 @@
     "title": "エレコム 充電器 65W USB PD対応 3ポート Type-C USB-A 【 iPhone 16 15 14 iPad Macbook Air ノートPC】 ブラック EC-AC4465BK",
     "percent_off": 15
   },
-  "B0DRP2QYCY": {
-    "first_seen": "2026-10-13",
-    "first_seen_at": "2026-10-13T00:16:25+09:00",
-    "last_seen": "2026-10-18",
-    "title": "Belkin Apple Watch充電器 持ち運び USB-C ドングル ポータブル MFI認証 高速充電 全モデル対応",
-    "percent_off": 15
-  },
   "B0FB2F95HY": {
     "first_seen": "2026-10-13",
     "first_seen_at": "2026-10-13T00:16:25+09:00",
@@ -894,6 +887,13 @@
     "last_seen": "2026-10-18",
     "title": "Belkin MagSafe充電器 Qi2 15W ワイヤレス充電器 iPhone 12-17・AirPods対応 スタンド付き",
     "percent_off": 15
+  },
+  "B0DRP4ZN3Z": {
+    "first_seen": "2026-10-13",
+    "first_seen_at": "2026-10-13T22:15:31+09:00",
+    "last_seen": "2026-10-18",
+    "title": "Belkin Apple Watch充電器 持ち運び USB-C ドングル ポータブル MFI認証 高速充電 全モデル対応",
+    "percent_off": 14
   },
   "B0CPY1WPK3": {
     "first_seen": "2026-10-13",
@@ -1189,6 +1189,13 @@
     "title": "Xiaomi Watch S5 シャオミスマートウォッチ Bluetooth通話 睡眠心拍 GPS 21日間バッテリー iPhone/Android対応",
     "percent_off": 15
   },
+  "B0GX8DRYCX": {
+    "first_seen": "2026-09-03",
+    "first_seen_at": "2026-09-03T12:14:47+09:00",
+    "last_seen": "2026-10-18",
+    "title": "HUAWEI WATCH FIT 5 スマートウォッチ 薄型軽量 大画面 GPS内蔵 10日間ロングバッテリー 通知 健康管理 心拍数 睡眠 ブラック",
+    "percent_off": 16
+  },
   "B0GYF753F1": {
     "first_seen": "2026-10-13",
     "first_seen_at": "2026-10-13T01:14:56+09:00",
@@ -1244,6 +1251,13 @@
     "last_seen": "2026-10-18",
     "title": "XREAL One Pro ARグラス｜X1チップ＆X-Prism光学搭載｜ネイティブ3DoF対応｜3Dリアル変換機能｜57°の広視野角・最大428インチ相当・FHD・最大120Hz表示｜iPhone 17/16/15（※eシリーズ除く）、Steam Deck、ROG、Mac、PC、Android & iOS対応｜IPD（瞳孔間距離）に合わせた2サイズ展開［M (IPD 57-66mm)］",
     "percent_off": 10
+  },
+  "B0H4KF6WPW": {
+    "first_seen": "2026-10-13",
+    "first_seen_at": "2026-10-13T00:16:25+09:00",
+    "last_seen": "2026-10-18",
+    "title": "INMO GO3 AIスマートグラス リアルタイム翻訳を眼前に表示 98言語対応 AIアシスタント カメラ搭載ARグラス 軽量設計 会議/スピーチ/海外旅行/ナビゲーション",
+    "percent_off": 15
   },
   "B0HKS8CPVQ": {
     "first_seen": "2026-10-17",
@@ -1784,6 +1798,20 @@
     "title": "COSORI コソリ ノンフライヤー 6L大容量 家庭用 エアフライヤー DCモーター 高速 最高温230℃ タイマー air fryer 発酵 揚げ物 ポテト 専用レシピ付き ブラック CAF-DC601",
     "percent_off": 14
   },
+  "B0D9J7MNMY": {
+    "first_seen": "2026-10-13",
+    "first_seen_at": "2026-10-13T20:14:58+09:00",
+    "last_seen": "2026-10-18",
+    "title": "エレコム モバイルバッテリー 5000mAh ワイヤレス マグネット対応 7.5W スタンド付き Type-C ホワイト DE-C53-5000WH",
+    "percent_off": 24
+  },
+  "B0DRP2QYCY": {
+    "first_seen": "2026-10-13",
+    "first_seen_at": "2026-10-13T00:16:25+09:00",
+    "last_seen": "2026-10-18",
+    "title": "Belkin Apple Watch充電器 持ち運び USB-C ドングル ポータブル MFI認証 高速充電 全モデル対応",
+    "percent_off": 15
+  },
   "B0H389CB56": {
     "first_seen": "2026-10-13",
     "first_seen_at": "2026-10-13T00:16:25+09:00",
@@ -1805,33 +1833,12 @@
     "title": "Belkin Cubic Charger 45W 充電器 type-c iphone18対応 充電器 急速充電 PD3.2 PPS対応 ダークグレー | PD 充電器 折り畳みプラグ iphone18,17-12 iPad MacBook Galaxy ノートPC 各機種対応 PSE技術基準適合 2年保証・最大2,500米ドルCEW",
     "percent_off": 32
   },
-  "B0DRP4ZN3Z": {
-    "first_seen": "2026-10-13",
-    "first_seen_at": "2026-10-13T22:15:31+09:00",
-    "last_seen": "2026-10-18",
-    "title": "Belkin Apple Watch充電器 持ち運び USB-C ドングル ポータブル MFI認証 高速充電 全モデル対応",
-    "percent_off": 14
-  },
   "B0GNSDGYRH": {
     "first_seen": "2026-10-17",
     "first_seen_at": "2026-10-17T07:14:46+09:00",
     "last_seen": "2026-10-18",
     "title": "Amazfit Active 3 Premium 45mm ランナー向け スマートウォッチ HYROX Strava Runtrip 3000nit 高輝度 AMOLED GPS 5衛星 オフラインマップ AIによる音声操作 睡眠 運動管理 心拍 睡眠 健康管理 170+ スポーツモード ナビゲーション ルートインポート 5ATM防水 12日間バッテリー持続 丸型 (アペックスシルバー)",
     "percent_off": 19
-  },
-  "B0GX8DRYCX": {
-    "first_seen": "2026-09-03",
-    "first_seen_at": "2026-09-03T12:14:47+09:00",
-    "last_seen": "2026-10-18",
-    "title": "HUAWEI WATCH FIT 5 スマートウォッチ 薄型軽量 大画面 GPS内蔵 10日間ロングバッテリー 通知 健康管理 心拍数 睡眠 ブラック",
-    "percent_off": 16
-  },
-  "B0H4KF6WPW": {
-    "first_seen": "2026-10-13",
-    "first_seen_at": "2026-10-13T00:16:25+09:00",
-    "last_seen": "2026-10-18",
-    "title": "INMO GO3 AIスマートグラス リアルタイム翻訳を眼前に表示 98言語対応 AIアシスタント カメラ搭載ARグラス 軽量設計 会議/スピーチ/海外旅行/ナビゲーション",
-    "percent_off": 15
   },
   "B0FQFHZ5KH": {
     "first_seen": "2026-10-13",
@@ -2476,13 +2483,6 @@
     "last_seen": "2026-10-16",
     "title": "Anker MagGo Power Bank (10,000mAh, 15W)",
     "percent_off": 30
-  },
-  "B0D9J5MSBH": {
-    "first_seen": "2026-10-15",
-    "first_seen_at": "2026-10-15T01:15:57+09:00",
-    "last_seen": "2026-10-16",
-    "title": "エレコム モバイルバッテリー 5000mAh ワイヤレス マグネット対応 7.5W スタンド付き Type-C ブラック DE-C53-5000BK",
-    "percent_off": 23
   },
   "B0FHK6F5G1": {
     "first_seen": "2026-10-13",
