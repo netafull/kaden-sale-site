@@ -90,18 +90,18 @@
     "title": "Apple Watch SE 3(GPSモデル)- 40mmミッドナイトアルミニウムケースとミッドナイトスポーツバンド - M/L",
     "percent_off": 13
   },
-  "B0FQG6NZ6T": {
-    "first_seen": "2026-10-11",
-    "first_seen_at": "2026-10-11T18:14:49+09:00",
-    "last_seen": "2026-10-19",
-    "title": "Apple Watch Ultra 3(GPS + Cellularモデル)- 49mmナチュラルチタニウムケースとブルー/ブライトブルートレイルループ - M/L",
-    "percent_off": 13
-  },
   "B0FQFW26JS": {
     "first_seen": "2026-09-26",
     "first_seen_at": "2026-09-26T22:15:02+09:00",
     "last_seen": "2026-10-19",
     "title": "Apple Watch Ultra 3(GPS + Cellularモデル)- 49mmナチュラルチタニウムケースとライトブルーアルパインループ - M",
+    "percent_off": 13
+  },
+  "B0FQG6NZ6T": {
+    "first_seen": "2026-10-11",
+    "first_seen_at": "2026-10-11T18:14:49+09:00",
+    "last_seen": "2026-10-19",
+    "title": "Apple Watch Ultra 3(GPS + Cellularモデル)- 49mmナチュラルチタニウムケースとブルー/ブライトブルートレイルループ - M/L",
     "percent_off": 13
   },
   "B0FQGHYWRH": {
@@ -270,7 +270,7 @@
     "first_seen_at": "2026-08-16T23:40:53+09:00",
     "last_seen": "2026-10-19",
     "title": "ソニー(SONY) 完全ワイヤレスイヤホン WF-C510 / 軽量小型4.6g / 高精度通話品質/外音取り込み対応/マルチポイント対応 / IPX4防滴性能 / ブラック/WF-C510 BC",
-    "percent_off": 22
+    "percent_off": 21
   },
   "B0GZT5XM4R": {
     "first_seen": "2026-10-13",
@@ -545,11 +545,11 @@
     "title": "Belkin Nintendo Switch 2 ケース 10000mAh 大容量バッテリー内蔵 30W急速充電 スタンド付き チャコールグレー | PD30W対応の着脱式モバイルバッテリー、収納しながら給電可能、ゲームカード12枚収納、耐衝撃EVAハードケース、外出先でも快適にプレイ",
     "percent_off": 15
   },
-  "B0F4VVMV57": {
-    "first_seen": "2026-10-14",
-    "first_seen_at": "2026-10-14T21:15:08+09:00",
+  "B0F4VW6DFG": {
+    "first_seen": "2026-10-13",
+    "first_seen_at": "2026-10-13T00:16:25+09:00",
     "last_seen": "2026-10-19",
-    "title": "【アマゾン限定】Belkin モバイルバッテリー 軽量 10000mAh 20W USB-Cケーブル内蔵 2台同時充電 ホワイト",
+    "title": "【アマゾン限定】Belkin モバイルバッテリー 軽量 10000mAh 20W USB-Cケーブル内蔵 2台同時充電 ブルー",
     "percent_off": 15
   },
   "B098SQSRRV": {
@@ -886,6 +886,13 @@
     "first_seen_at": "2026-10-13T22:15:31+09:00",
     "last_seen": "2026-10-19",
     "title": "Belkin Apple Watch充電器 持ち運び USB-C ドングル ポータブル MFI認証 高速充電 全モデル対応",
+    "percent_off": 14
+  },
+  "B0CPY1WPK3": {
+    "first_seen": "2026-10-13",
+    "first_seen_at": "2026-10-13T00:16:25+09:00",
+    "last_seen": "2026-10-19",
+    "title": "Belkin カーチャージャー 42W 車載充電器 USB-C＋USB-A PD/PPS対応 2台同時充電 急速充電 ブラック | USB-C最大30W＋USB-A最大12W、2ポート42W出力、PD/PPS対応、iPhone 18シリーズ以下・iPad・Android対応、USB-IF認証、2年保証・最大2,500米ドルCEW",
     "percent_off": 14
   },
   "B08P45YTTL": {
@@ -1490,19 +1497,19 @@
     "title": "【Amazon.co.jp限定】 Logicool G PRO X TKL RAPID ゲーミングキーボード | ラピッドトリガー アクチュエーションポイント 調整可能 押下圧 35g 日本語配列 有線 テンキーレス 磁気式アナログスイッチ ゲーミング キーボード メカニカルキーボード ブラック 壁紙ダウンロード付き 国内正規品",
     "percent_off": 24
   },
-  "B0B8NLL6B6": {
-    "first_seen": "2026-08-02",
-    "first_seen_at": "2026-08-02T18:25:14+09:00",
-    "last_seen": "2026-10-19",
-    "title": "サンワサプライ USBハブ付コンパクトキーボード SKB-KG3UH2BK ブラック テンキーなし",
-    "percent_off": 24
-  },
   "B0DPF33WVV": {
     "first_seen": "2026-09-17",
     "first_seen_at": "2026-09-17T00:14:58+09:00",
     "last_seen": "2026-10-19",
     "title": "東プレ GX1 Keyboard 獅白ぼたん モデル 日本語配列 REALFORCE ゲーミングキーボード TKL 91キー X1UCS1 KB0911",
     "percent_off": 25
+  },
+  "B0B8NLL6B6": {
+    "first_seen": "2026-08-02",
+    "first_seen_at": "2026-08-02T18:25:14+09:00",
+    "last_seen": "2026-10-19",
+    "title": "サンワサプライ USBハブ付コンパクトキーボード SKB-KG3UH2BK ブラック テンキーなし",
+    "percent_off": 24
   },
   "B07NDM4CQZ": {
     "first_seen": "2026-10-08",
@@ -1756,6 +1763,13 @@
     "title": "COSORI コソリ ノンフライヤー 6L大容量 家庭用 エアフライヤー DCモーター 高速 最高温230℃ タイマー air fryer 発酵 揚げ物 ポテト 専用レシピ付き ブラック CAF-DC601",
     "percent_off": 14
   },
+  "B0F4VVMV57": {
+    "first_seen": "2026-10-14",
+    "first_seen_at": "2026-10-14T21:15:08+09:00",
+    "last_seen": "2026-10-19",
+    "title": "【アマゾン限定】Belkin モバイルバッテリー 軽量 10000mAh 20W USB-Cケーブル内蔵 2台同時充電 ホワイト",
+    "percent_off": 15
+  },
   "B0FQFJ8BVB": {
     "first_seen": "2026-10-07",
     "first_seen_at": "2026-10-07T12:14:42+09:00",
@@ -1804,13 +1818,6 @@
     "last_seen": "2026-10-19",
     "title": "エレコム USB キーボード ワイヤレス (レシーバー付属) メンブレン フルキーボード 1000万回高耐久 PlayStation4 対応 ブラック TK-FDM063TBK",
     "percent_off": 22
-  },
-  "B0CPY1WPK3": {
-    "first_seen": "2026-10-13",
-    "first_seen_at": "2026-10-13T00:16:25+09:00",
-    "last_seen": "2026-10-18",
-    "title": "Belkin カーチャージャー 42W 車載充電器 USB-C＋USB-A PD/PPS対応 2台同時充電 急速充電 ブラック | USB-C最大30W＋USB-A最大12W、2ポート42W出力、PD/PPS対応、iPhone 18シリーズ以下・iPad・Android対応、USB-IF認証、2年保証・最大2,500米ドルCEW",
-    "percent_off": 14
   },
   "B0FB3L8M3Y": {
     "first_seen": "2026-10-14",
@@ -2027,13 +2034,6 @@
     "first_seen_at": "2026-10-13T21:14:47+09:00",
     "last_seen": "2026-10-18",
     "title": "Belkin モバイルバッテリー 3C 認証 大容量 10000mAh 最大15W 3台同時充電 3ポート ピンク | BoostCharge VGP2022受賞 3台同時充電 USB-C×1 USB-A×2 CCC PSE認証 機内持込可能 iPhone 18シリーズ以下・Android対応 充電ケーブル付属 LED残量表示 2年保証 2500ドルのCEW補償",
-    "percent_off": 15
-  },
-  "B0F4VW6DFG": {
-    "first_seen": "2026-10-13",
-    "first_seen_at": "2026-10-13T00:16:25+09:00",
-    "last_seen": "2026-10-18",
-    "title": "【アマゾン限定】Belkin モバイルバッテリー 軽量 10000mAh 20W USB-Cケーブル内蔵 2台同時充電 ブルー",
     "percent_off": 15
   },
   "B0CLGZGXMD": {
