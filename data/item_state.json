@@ -76,13 +76,6 @@
     "title": "Apple Pencil Pro",
     "percent_off": 13
   },
-  "B0GJTW9CL8": {
-    "first_seen": "2026-08-07",
-    "first_seen_at": "2026-08-07T09:18:51+09:00",
-    "last_seen": "2026-10-19",
-    "title": "Apple AirTag（第2世代）：紛失防止タグ、音で探せる、耐水 防塵 iPhone/iPad「探す」ネットワーク対応、探せる範囲が最大1.5 倍に広がった「正確な場所を見つける」機能搭載",
-    "percent_off": 13
-  },
   "B0FQG9BXMF": {
     "first_seen": "2026-10-18",
     "first_seen_at": "2026-10-18T13:15:13+09:00",
@@ -146,6 +139,13 @@
     "title": "Apple Watch Ultra 3(GPS + Cellularモデル)- 49mmナチュラルチタニウムケースとライトブルーアルパインループ - S + 2年延長 AppleCare+ for Apple Watch Ultra 3",
     "percent_off": 12
   },
+  "B0GJTW9CL8": {
+    "first_seen": "2026-08-07",
+    "first_seen_at": "2026-08-07T09:18:51+09:00",
+    "last_seen": "2026-10-19",
+    "title": "Apple AirTag（第2世代）：紛失防止タグ、音で探せる、耐水 防塵 iPhone/iPad「探す」ネットワーク対応、探せる範囲が最大1.5 倍に広がった「正確な場所を見つける」機能搭載",
+    "percent_off": 10
+  },
   "B0GJTXZHDX": {
     "first_seen": "2026-08-07",
     "first_seen_at": "2026-08-07T09:18:51+09:00",
@@ -187,13 +187,6 @@
     "last_seen": "2026-10-19",
     "title": "iPad(A16と第10世代)用Magic Keyboard Folio - 日本語",
     "percent_off": 8
-  },
-  "B0CSKFY1Q2": {
-    "first_seen": "2026-10-18",
-    "first_seen_at": "2026-10-18T21:15:13+09:00",
-    "last_seen": "2026-10-19",
-    "title": "Bose Ultra Open Earbuds 空間オーディオ イヤホン オープンイヤー 完全 ワイヤレス Bluetooth接続 マイク付 最大7.5時間再生 防滴 ブラック",
-    "percent_off": 47
   },
   "B0D4VMVCFX": {
     "first_seen": "2026-10-17",
@@ -270,7 +263,7 @@
     "first_seen_at": "2026-08-16T23:40:53+09:00",
     "last_seen": "2026-10-19",
     "title": "ソニー(SONY) 完全ワイヤレスイヤホン WF-C510 / 軽量小型4.6g / 高精度通話品質/外音取り込み対応/マルチポイント対応 / IPX4防滴性能 / ブラック/WF-C510 BC",
-    "percent_off": 21
+    "percent_off": 22
   },
   "B0GZT5XM4R": {
     "first_seen": "2026-10-13",
@@ -445,13 +438,6 @@
     "first_seen_at": "2026-10-17T19:16:01+09:00",
     "last_seen": "2026-10-19",
     "title": "エレコム モバイルバッテリー 半固体電池 小型 軽量 薄型 5000mAh USB-C PD対応 20W 急速充電 ケーブル一体型 2台同時充電 長寿命 パススルー充電 PSE認証 iPhone対応 ミッドナイトブルー EC-C58MN",
-    "percent_off": 23
-  },
-  "B0D9J5MSBH": {
-    "first_seen": "2026-10-15",
-    "first_seen_at": "2026-10-15T01:15:57+09:00",
-    "last_seen": "2026-10-19",
-    "title": "エレコム モバイルバッテリー 5000mAh ワイヤレス マグネット対応 7.5W スタンド付き Type-C ブラック DE-C53-5000BK",
     "percent_off": 23
   },
   "B0DSPVDYQ9": {
@@ -908,13 +894,6 @@
     "last_seen": "2026-10-19",
     "title": "【Amazon.co.jp限定】 SanDisk microSD カード Ultra SDSQUAB-128G-GH3MA 簡易デザインパッケージ | 128GB UHS-I U1 Class10 Nintendo Switch メーカー動作確認済 10年間限定保証",
     "percent_off": 21
-  },
-  "B08PTN7WJ6": {
-    "first_seen": "2026-10-13",
-    "first_seen_at": "2026-10-13T00:16:25+09:00",
-    "last_seen": "2026-10-19",
-    "title": "KIOXIA(キオクシア)【日本製】SDカード 128GB SDXC UHS-I Class10 読出速度100MB/s 国内正規品 メーカー保証5年 KLNEA128G",
-    "percent_off": 15
   },
   "B0FMY19G96": {
     "first_seen": "2026-08-29",
@@ -1769,6 +1748,27 @@
     "last_seen": "2026-10-19",
     "title": "COSORI コソリ ノンフライヤー 6L大容量 家庭用 エアフライヤー DCモーター 高速 最高温230℃ タイマー air fryer 発酵 揚げ物 ポテト 専用レシピ付き ブラック CAF-DC601",
     "percent_off": 14
+  },
+  "B0CSKFY1Q2": {
+    "first_seen": "2026-10-18",
+    "first_seen_at": "2026-10-18T21:15:13+09:00",
+    "last_seen": "2026-10-19",
+    "title": "Bose Ultra Open Earbuds 空間オーディオ イヤホン オープンイヤー 完全 ワイヤレス Bluetooth接続 マイク付 最大7.5時間再生 防滴 ブラック",
+    "percent_off": 47
+  },
+  "B0D9J5MSBH": {
+    "first_seen": "2026-10-15",
+    "first_seen_at": "2026-10-15T01:15:57+09:00",
+    "last_seen": "2026-10-19",
+    "title": "エレコム モバイルバッテリー 5000mAh ワイヤレス マグネット対応 7.5W スタンド付き Type-C ブラック DE-C53-5000BK",
+    "percent_off": 23
+  },
+  "B08PTN7WJ6": {
+    "first_seen": "2026-10-13",
+    "first_seen_at": "2026-10-13T00:16:25+09:00",
+    "last_seen": "2026-10-19",
+    "title": "KIOXIA(キオクシア)【日本製】SDカード 128GB SDXC UHS-I Class10 読出速度100MB/s 国内正規品 メーカー保証5年 KLNEA128G",
+    "percent_off": 15
   },
   "B0CV9XG1FJ": {
     "first_seen": "2026-10-18",
