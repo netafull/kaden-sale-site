@@ -34,7 +34,7 @@
    "aliases": {},
    "genre": "Apple製品",
    "label": "2022 Apple TV 4K 128GBストレージ搭載Wi‑Fi + Eth",
-   "last_sweep_at": "2026-10-18T12:07:15+09:00",
+   "last_sweep_at": "2026-10-18T19:07:12+09:00",
    "members": {
     "B0BJLHHQ7H": {
      "last_seen": "2026-10-18",
@@ -1336,7 +1336,7 @@
    },
    "genre": "Apple製品",
    "label": "Apple iPhone 17 256GB (SIMフリー)：ProMotion",
-   "last_sweep_at": "2026-10-18T12:07:15+09:00",
+   "last_sweep_at": "2026-10-18T19:07:12+09:00",
    "members": {
     "B0FQFJSMNZ": {
      "last_seen": "2026-10-18",
@@ -1394,7 +1394,7 @@
    },
    "genre": "Apple製品",
    "label": "Apple iPhone 17 Pro Max 512GB (SIMフリー)：P",
-   "last_sweep_at": "2026-10-18T12:07:15+09:00",
+   "last_sweep_at": "2026-10-18T19:07:12+09:00",
    "members": {
     "B0FQFQDMQG": {
      "last_seen": "2026-10-07",
@@ -1526,7 +1526,7 @@
    "aliases": {},
    "genre": "Apple製品",
    "label": "Apple Watch SE 3（GPS + Cellularモデル）",
-   "last_sweep_at": "2026-10-18T12:07:15+09:00",
+   "last_sweep_at": "2026-10-18T19:07:12+09:00",
    "members": {
     "B0FQFJ2MFG": {
      "last_seen": "2026-10-10",
@@ -1549,7 +1549,7 @@
      "points_pct": 1
     },
     "B0HJB5XBCC": {
-     "last_seen": "2026-10-16",
+     "last_seen": "2026-10-18",
      "pct": 0,
      "points_pct": 1
     },
@@ -1576,13 +1576,13 @@
    },
    "no_variations": false,
    "seed": "B0HJB8ZK95",
-   "variation_count": 6
+   "variation_count": 7
   },
   "B0FQHYFRBJ": {
    "aliases": {},
    "genre": "Apple製品",
    "label": "Apple Watch SE 3（GPSモデル）",
-   "last_sweep_at": "2026-10-18T12:07:15+09:00",
+   "last_sweep_at": "2026-10-18T19:07:12+09:00",
    "members": {
     "B0FQFLQHP7": {
      "last_seen": "2026-10-16",
@@ -1811,7 +1811,7 @@
    "aliases": {},
    "genre": "Apple製品",
    "label": "Apple Watch Band - スポーツループ - （46mm）ケース用 ",
-   "last_sweep_at": "2026-10-18T12:07:15+09:00",
+   "last_sweep_at": "2026-10-18T19:07:12+09:00",
    "members": {
     "B0FQFJY7M5": {
      "last_seen": "2026-10-18",
@@ -2071,7 +2071,7 @@
    },
    "genre": "Apple製品",
    "label": "Apple Watch Ultra 3(GPS + Cellularモデル)- ",
-   "last_sweep_at": "2026-10-18T12:07:15+09:00",
+   "last_sweep_at": "2026-10-18T19:07:12+09:00",
    "members": {
     "B0FQFW26JS": {
      "last_seen": "2026-10-18",
@@ -2213,7 +2213,7 @@
    "aliases": {},
    "genre": "Apple製品",
    "label": "11インチiPad Pro Wi‑Fiモデル 2TB（標準ガラス搭載）- シルバ",
-   "last_sweep_at": "2026-10-18T12:07:15+09:00",
+   "last_sweep_at": "2026-10-18T19:07:12+09:00",
    "members": {
     "B0FWD9841J": {
      "last_seen": "2026-10-18",
@@ -2440,7 +2440,7 @@
    },
    "genre": "Apple製品",
    "label": "Apple 2025 MacBook Pro 10 コアCPU、10 コアGPU",
-   "last_sweep_at": "2026-10-18T12:07:15+09:00",
+   "last_sweep_at": "2026-10-18T19:07:12+09:00",
    "members": {
     "B0FWD8Y41V": {
      "last_seen": "2026-10-16",
@@ -2551,7 +2551,7 @@
    "aliases": {},
    "genre": "Apple製品",
    "label": "Apple iPhone 17e 256GB：6.1インチSuper Retin",
-   "last_sweep_at": "2026-10-18T12:07:15+09:00",
+   "last_sweep_at": "2026-10-18T19:07:12+09:00",
    "members": {
     "B0GQVHLG38": {
      "last_seen": "2026-10-18",
@@ -2607,7 +2607,7 @@
    "aliases": {},
    "genre": "Apple製品",
    "label": "Apple 11インチiPad Air（M4）：Liquid Retinaディス",
-   "last_sweep_at": "2026-10-18T12:07:15+09:00",
+   "last_sweep_at": "2026-10-18T19:07:12+09:00",
    "members": {
     "B0GQW2939K": {
      "last_seen": "2026-10-16",
@@ -2987,13 +2987,13 @@
    },
    "no_variations": false,
    "seed": "B0GQWWWH1T",
-   "variation_count": 45
+   "variation_count": 39
   },
   "B0GQZ3GLB6": {
    "aliases": {},
    "genre": "Apple製品",
    "label": "Apple 13インチiPad Air（M4）：Liquid Retinaディス",
-   "last_sweep_at": "2026-10-18T12:07:15+09:00",
+   "last_sweep_at": "2026-10-18T19:07:12+09:00",
    "members": {
     "B0GQW5PR1Q": {
      "last_seen": "2026-10-16",
@@ -3334,7 +3334,7 @@
    "aliases": {},
    "genre": "Apple製品",
    "label": "Apple 2026 MacBook Air M5チップ搭載15インチノートブッ",
-   "last_sweep_at": "2026-10-18T12:07:15+09:00",
+   "last_sweep_at": "2026-10-18T19:07:12+09:00",
    "members": {
     "B0GR1JD976": {
      "last_seen": "2026-10-18",
@@ -3447,7 +3447,7 @@
    },
    "genre": "Apple製品",
    "label": "Apple 2026 MacBook Air M5チップ搭載13インチノートブッ",
-   "last_sweep_at": "2026-10-18T12:07:15+09:00",
+   "last_sweep_at": "2026-10-18T19:07:12+09:00",
    "members": {
     "B0GR1LGT2H": {
      "last_seen": "2026-10-18",
@@ -3528,7 +3528,7 @@
    "aliases": {},
    "genre": "Apple製品",
    "label": "Apple AirPods Max 2 - スターライト",
-   "last_sweep_at": "2026-10-18T12:07:15+09:00",
+   "last_sweep_at": "2026-10-18T19:07:12+09:00",
    "members": {
     "B0GSS8DBTH": {
      "last_seen": "2026-10-18",
@@ -3629,7 +3629,7 @@
    "aliases": {},
    "genre": "Apple製品",
    "label": "Apple Watch Series 12（GPS + Cellularモデル）",
-   "last_sweep_at": "2026-10-18T12:07:15+09:00",
+   "last_sweep_at": "2026-10-18T19:07:12+09:00",
    "members": {
     "B0HJ9SBCS2": {
      "last_seen": "2026-10-18",
@@ -3815,7 +3815,7 @@
    "aliases": {},
    "genre": "Apple製品",
    "label": "Apple Watch Series 12（GPSモデル）",
-   "last_sweep_at": "2026-10-18T12:07:15+09:00",
+   "last_sweep_at": "2026-10-18T19:07:12+09:00",
    "members": {
     "B0HJ9V2FK4": {
      "last_seen": "2026-10-18",
@@ -3906,7 +3906,7 @@
    "aliases": {},
    "genre": "Apple製品",
    "label": "Apple Watch Ultra 4（GPS + Cellularモデル）",
-   "last_sweep_at": "2026-10-18T12:07:15+09:00",
+   "last_sweep_at": "2026-10-18T19:07:12+09:00",
    "members": {
     "B0HJ9SL1FK": {
      "last_seen": "2026-10-18",
@@ -4012,7 +4012,7 @@
    "aliases": {},
    "genre": "Apple製品",
    "label": "ワイヤレス充電ケース付きApple AirPods 5ワイヤレスイヤーバッド",
-   "last_sweep_at": "2026-10-18T12:07:15+09:00",
+   "last_sweep_at": "2026-10-18T19:07:12+09:00",
    "members": {
     "B0HJ9VNBZ8": {
      "last_seen": "2026-10-18",
@@ -4066,7 +4066,7 @@
    "aliases": {},
    "genre": "Apple製品",
    "label": "Apple AirPods 4 アクティブノイズ キャンセリング搭載、ワイヤレス",
-   "last_sweep_at": "2026-10-18T12:07:15+09:00",
+   "last_sweep_at": "2026-10-18T19:07:12+09:00",
    "members": {
     "B0DGJ63QY8": {
      "last_seen": "2026-10-18",
@@ -4075,7 +4075,7 @@
     },
     "B0DGJBNYVY": {
      "last_seen": "2026-10-18",
-     "pct": 24,
+     "pct": 21,
      "points_pct": 1
     },
     "B0DT2X3TKG": {
