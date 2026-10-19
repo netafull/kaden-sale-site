@@ -244,13 +244,6 @@
     "title": "Anker Soundcore Liberty 5 ミッドナイトブラック | 【完全ワイヤレスイヤホン/ウルトラノイズキャンセリング 3.5 / 3Dオーディオ / Dolby Audio対応/ワイヤレス充電/マルチポイント接続/外音取り込み / 最大48時間再生 / ハイレゾ / IP55 防塵・防水規格】",
     "percent_off": 25
   },
-  "B0D4Z8NPH7": {
-    "first_seen": "2026-10-17",
-    "first_seen_at": "2026-10-17T02:15:09+09:00",
-    "last_seen": "2026-10-19",
-    "title": "Anker Soundcore V20i ブラック | （Bluetooth 5.4）【オープンイヤー型ワイヤレスイヤホン / IP55防塵防水規格/ 最大36時間再生 / マルチポイント接続】",
-    "percent_off": 25
-  },
   "B0FL2HYBGJ": {
     "first_seen": "2026-09-23",
     "first_seen_at": "2026-09-23T21:15:01+09:00",
@@ -369,13 +362,6 @@
     "last_seen": "2026-10-19",
     "title": "Anker Power Bank (20000mAh, 30W) ブラック | モバイルバッテリー 20000mAh 大容量 最大30W出力 USB-Cケーブル付属 ディスプレイ搭載【PD/PowerIQ搭載/PSE技術基準適合】iPhone 18 / 17 / 16 / 15 Android iPad その他各種機器対応",
     "percent_off": 31
-  },
-  "B0CCJG2DLV": {
-    "first_seen": "2026-10-03",
-    "first_seen_at": "2026-10-03T23:15:04+09:00",
-    "last_seen": "2026-10-19",
-    "title": "Anker Nano Power Bank (22.5W, Built-In USB-C Connector) パープル | モバイルバッテリー 5000mAh 軽量 小型 コンパクト【PowerIQ搭載/USB-C一体型】 iPhone 18 / 17 / 16 / 15 シリーズ/Switch 2対応",
-    "percent_off": 30
   },
   "B0F6LBT3ZX": {
     "first_seen": "2026-10-13",
@@ -503,6 +489,13 @@
     "title": "Anker Power Bank (10000mAh, Fusion, Built-In USB-C ケーブル) ブラック | 10K 30W出力モバイルバッテリー搭載 30W出力USB充電器 / LEDディスプレイ/ケーブル一体型/コンセント一体型/折りたたみ式プラグ 1台3役 / iPhone 18 / 17 / 16 / 15 Android その他各種機器対応",
     "percent_off": null
   },
+  "B0B1PW59FS": {
+    "first_seen": "2026-10-19",
+    "first_seen_at": "2026-10-19T21:16:12+09:00",
+    "last_seen": "2026-10-19",
+    "title": "エレコム モバイルバッテリー 軽量 小型 薄型 5000mAh 12W (2.4A) 2台同時充電 急速充電 出力2ポート(Type-C +USB-A) 入力(Type-C) 【 iPhone SE3 / 13 / 12 / iPad/Android 各種対応】 ブラック EC-C04BK",
+    "percent_off": 19
+  },
   "B0CXNY69DC": {
     "first_seen": "2026-10-07",
     "first_seen_at": "2026-10-07T00:14:58+09:00",
@@ -551,6 +544,13 @@
     "last_seen": "2026-10-19",
     "title": "Belkin USB充電器 40W iPhone17,16～12 デュアルUSB-C(20W x 2) PD3.0 急速充電対応 ホワイト WCB006dqWHJP",
     "percent_off": 65
+  },
+  "B0BF9ZYCQ5": {
+    "first_seen": "2026-07-31",
+    "first_seen_at": "2026-07-31T12:00:00+09:00",
+    "last_seen": "2026-10-19",
+    "title": "【VGP受賞】Belkin 充電器 USB-C 2ポート PPS規格対応 GaN採用 小型 ACアダプター タイプC 急速充電 軽量【PD3.0対応 /PSE認証/折りたたみ式プラグ】45W(25W+20W) MacBook Windows PC Surface Pro iPad iPhone 17,16～12対応 Galaxy Android スマホ 各種ノートPC対応 WCH011dqWH",
+    "percent_off": 57
   },
   "B0CMQK8CMJ": {
     "first_seen": "2026-08-05",
@@ -727,12 +727,12 @@
     "title": "Anker Prime Wireless Charging Station (3-in-1, MagGo, AirCool, Foldable) | 旅行 / 持ち運び 充電器 / ワイヤレス充電器 / magsafe充電器 / apple watch 充電器 / Qi2 25W / magsafe対応 / Airpods充電 / iPhone 18 / 18 / 17 / 16シリーズ対応",
     "percent_off": 25
   },
-  "B0FJS3P8NT": {
-    "first_seen": "2026-07-27",
-    "first_seen_at": "2026-07-27T12:00:00+09:00",
+  "B0F2MRRKH7": {
+    "first_seen": "2026-10-13",
+    "first_seen_at": "2026-10-13T00:16:25+09:00",
     "last_seen": "2026-10-19",
-    "title": "UGREEN 45W USB-C*4+USB-A*1 急速充電器 Type-C GaNⅡ タイプc PSE適合/PD3.0/PPS/SCP/QC3.0",
-    "percent_off": 25
+    "title": "Anker Prime Charger (160W, 3 Ports) シルバー | 急速充電器 160W type-c 3ポート【PSE技術基準適合/折りたたみ式プラグ】iphone 18 MacBook PD対応Windows PC iPad Galaxy Android スマートフォン ノートPC 各種",
+    "percent_off": 22
   },
   "B06ZXXQGZ8": {
     "first_seen": "2026-10-13",
@@ -811,6 +811,13 @@
     "title": "バッファロー 充電器 20W 2ポート USB-C & USB-A PD対応 GaN 折りたたみ式 PSE適合 BSACPD2015C2WH",
     "percent_off": 16
   },
+  "B0GGZ3FHRF": {
+    "first_seen": "2026-10-13",
+    "first_seen_at": "2026-10-13T21:14:47+09:00",
+    "last_seen": "2026-10-19",
+    "title": "Belkin Qi2認証 25W ワイヤレス充電器 3in1充電スタンド iPhone 18・Galaxy S26・Pixel 10 ProXL対応 | Qi2 充電器 最大25W急速充電 冷却ファン搭載、iPhone18〜12対応、磁気ケース推奨、Apple Watch・Galaxy Watch・Pixel Watch対応、ウォッチ充電器別売 2年保証 ホワイト",
+    "percent_off": 16
+  },
   "B0C8HMLHTB": {
     "first_seen": "2026-10-06",
     "first_seen_at": "2026-10-06T03:15:02+09:00",
@@ -824,13 +831,6 @@
     "last_seen": "2026-10-19",
     "title": "エレコム ワイヤレス充電器 Qi認証 最大 10W スタンド型 EPP規格対応 3枚コイル 【 iPhone Galaxy AirPods 等対応】 ブラック EC-QS10BK",
     "percent_off": 15
-  },
-  "B0B5QKMCZD": {
-    "first_seen": "2026-10-19",
-    "first_seen_at": "2026-10-19T20:15:04+09:00",
-    "last_seen": "2026-10-19",
-    "title": "Belkin BoostCharge Pro GaN 65W 充電器 type-c USB-C×2 2台同時充電 急速充電 ホワイト | PD3.0・PPS対応 USB-C×2 単ポート最大65W 2台同時充電45W＋20W 折り畳みプラグ PSE技術基準適合 iPhone17〜12・MacBook・iPad・Galaxy対応 2年保証・最大2,500米ドルCEW ホワイト",
-    "percent_off": 16
   },
   "B0GXJWC1HZ": {
     "first_seen": "2026-10-15",
@@ -887,20 +887,6 @@
     "last_seen": "2026-10-19",
     "title": "【Amazon.co.jp限定】 SanDisk microSD カード Ultra SDSQUAB-128G-GH3MA 簡易デザインパッケージ | 128GB UHS-I U1 Class10 Nintendo Switch メーカー動作確認済 10年間限定保証",
     "percent_off": 21
-  },
-  "B08PTN7WJ6": {
-    "first_seen": "2026-10-13",
-    "first_seen_at": "2026-10-13T00:16:25+09:00",
-    "last_seen": "2026-10-19",
-    "title": "KIOXIA(キオクシア)【日本製】SDカード 128GB SDXC UHS-I Class10 読出速度100MB/s 国内正規品 メーカー保証5年 KLNEA128G",
-    "percent_off": 15
-  },
-  "B00CRVXR14": {
-    "first_seen": "2026-10-19",
-    "first_seen_at": "2026-10-19T10:15:01+09:00",
-    "last_seen": "2026-10-19",
-    "title": "BUFFALO microSDカード->SDカード変換アダプター BSCRMSDA",
-    "percent_off": 16
   },
   "B0FMY19G96": {
     "first_seen": "2026-08-29",
@@ -1196,19 +1182,19 @@
     "title": "HUAWEI WATCH FIT 5 スマートウォッチ 薄型軽量 大画面 GPS内蔵 10日間ロングバッテリー 通知 健康管理 心拍数 睡眠 ブラック | iPhone対応 android対応 1.82インチ画面 2500nits高輝度 ワークアウト 転倒検知 情緒測定 生理周期管理 64GBストレージ 録音機能 ランニング 防水",
     "percent_off": 16
   },
+  "B0GYF753F1": {
+    "first_seen": "2026-10-13",
+    "first_seen_at": "2026-10-13T01:14:56+09:00",
+    "last_seen": "2026-10-19",
+    "title": "DPVR G3 AIスマートグラス 800万画素 カメラ付きメガネ 録画 翻訳 AI画像認識 メガネ型カメラ オーディオグラス クリアレンズ",
+    "percent_off": 24
+  },
   "B0H6BLVBDC": {
     "first_seen": "2026-10-13",
     "first_seen_at": "2026-10-13T21:14:47+09:00",
     "last_seen": "2026-10-19",
     "title": "VITURE Beast ARグラス 【家電批評Best Buy・VGP金賞・企画賞】 174インチ 光学技術で映像を鮮明に 3DoF対応",
     "percent_off": 25
-  },
-  "B0GS9FZ75P": {
-    "first_seen": "2026-10-13",
-    "first_seen_at": "2026-10-13T00:16:25+09:00",
-    "last_seen": "2026-10-19",
-    "title": "DPVR G1 AIスマートグラス 800万画素 カメラ付きメガネ 録画 翻訳 AI画像認識 メガネ型カメラ オーディオグラス 調光レンズ",
-    "percent_off": 24
   },
   "B0FFT61X6F": {
     "first_seen": "2026-10-13",
@@ -1777,18 +1763,53 @@
     "title": "COSORI コソリ ノンフライヤー 6L大容量 家庭用 エアフライヤー DCモーター 高速 最高温230℃ タイマー air fryer 発酵 揚げ物 ポテト 専用レシピ付き ブラック CAF-DC601",
     "percent_off": 14
   },
-  "B0BF9ZYCQ5": {
-    "first_seen": "2026-07-31",
-    "first_seen_at": "2026-07-31T12:00:00+09:00",
+  "B0D4Z8NPH7": {
+    "first_seen": "2026-10-17",
+    "first_seen_at": "2026-10-17T02:15:09+09:00",
     "last_seen": "2026-10-19",
-    "title": "【VGP受賞】Belkin 充電器 USB-C 2ポート PPS規格対応 GaN採用 小型 ACアダプター タイプC 急速充電 軽量【PD3.0対応 /PSE認証/折りたたみ式プラグ】45W(25W+20W) MacBook Windows PC Surface Pro iPad iPhone 17,16～12対応 Galaxy Android スマホ 各種ノートPC対応 WCH011dqWH",
-    "percent_off": 57
+    "title": "Anker Soundcore V20i ブラック | （Bluetooth 5.4）【オープンイヤー型ワイヤレスイヤホン / IP55防塵防水規格/ 最大36時間再生 / マルチポイント接続】",
+    "percent_off": 25
   },
-  "B0GYF753F1": {
-    "first_seen": "2026-10-13",
-    "first_seen_at": "2026-10-13T01:14:56+09:00",
+  "B0CCJG2DLV": {
+    "first_seen": "2026-10-03",
+    "first_seen_at": "2026-10-03T23:15:04+09:00",
     "last_seen": "2026-10-19",
-    "title": "DPVR G3 AIスマートグラス 800万画素 カメラ付きメガネ 録画 翻訳 AI画像認識 メガネ型カメラ オーディオグラス クリアレンズ",
+    "title": "Anker Nano Power Bank (22.5W, Built-In USB-C Connector) パープル | モバイルバッテリー 5000mAh 軽量 小型 コンパクト【PowerIQ搭載/USB-C一体型】 iPhone 18 / 17 / 16 / 15 シリーズ/Switch 2対応",
+    "percent_off": 30
+  },
+  "B0FJS3P8NT": {
+    "first_seen": "2026-07-27",
+    "first_seen_at": "2026-07-27T12:00:00+09:00",
+    "last_seen": "2026-10-19",
+    "title": "UGREEN 45W USB-C*4+USB-A*1 急速充電器 Type-C GaNⅡ タイプc PSE適合/PD3.0/PPS/SCP/QC3.0",
+    "percent_off": 25
+  },
+  "B0B5QKMCZD": {
+    "first_seen": "2026-10-19",
+    "first_seen_at": "2026-10-19T20:15:04+09:00",
+    "last_seen": "2026-10-19",
+    "title": "Belkin BoostCharge Pro GaN 65W 充電器 type-c USB-C×2 2台同時充電 急速充電 ホワイト | PD3.0・PPS対応 USB-C×2 単ポート最大65W 2台同時充電45W＋20W 折り畳みプラグ PSE技術基準適合 iPhone17〜12・MacBook・iPad・Galaxy対応 2年保証・最大2,500米ドルCEW ホワイト",
+    "percent_off": 16
+  },
+  "B08PTN7WJ6": {
+    "first_seen": "2026-10-13",
+    "first_seen_at": "2026-10-13T00:16:25+09:00",
+    "last_seen": "2026-10-19",
+    "title": "KIOXIA(キオクシア)【日本製】SDカード 128GB SDXC UHS-I Class10 読出速度100MB/s 国内正規品 メーカー保証5年 KLNEA128G",
+    "percent_off": 15
+  },
+  "B00CRVXR14": {
+    "first_seen": "2026-10-19",
+    "first_seen_at": "2026-10-19T10:15:01+09:00",
+    "last_seen": "2026-10-19",
+    "title": "BUFFALO microSDカード->SDカード変換アダプター BSCRMSDA",
+    "percent_off": 16
+  },
+  "B0GS9FZ75P": {
+    "first_seen": "2026-10-13",
+    "first_seen_at": "2026-10-13T00:16:25+09:00",
+    "last_seen": "2026-10-19",
+    "title": "DPVR G1 AIスマートグラス 800万画素 カメラ付きメガネ 録画 翻訳 AI画像認識 メガネ型カメラ オーディオグラス 調光レンズ",
     "percent_off": 24
   },
   "B0GQW7QF6T": {
@@ -1825,13 +1846,6 @@
     "last_seen": "2026-10-19",
     "title": "エレコム モバイルバッテリー 半固体電池 小型 軽量 薄型 5000mAh USB-C PD対応 20W 急速充電 ケーブル一体型 2台同時充電 長寿命 パススルー充電 PSE認証 iPhone対応 ミッドナイトブルー EC-C58MN",
     "percent_off": 23
-  },
-  "B0F2MRRKH7": {
-    "first_seen": "2026-10-13",
-    "first_seen_at": "2026-10-13T00:16:25+09:00",
-    "last_seen": "2026-10-19",
-    "title": "Anker Prime Charger (160W, 3 Ports) シルバー | 急速充電器 160W type-c 3ポート【PSE技術基準適合/折りたたみ式プラグ】iphone 18 MacBook PD対応Windows PC iPad Galaxy Android スマートフォン ノートPC 各種",
-    "percent_off": 22
   },
   "B0FK4KW6V2": {
     "first_seen": "2026-10-14",
@@ -2280,13 +2294,6 @@
     "last_seen": "2026-10-18",
     "title": "UGREEN Nexode 急速 充電器 65W TypeC 2C1A 3ポート PD/PPS 4.5A/QC3.0/FCP対応 折り畳み式 ホワイト | 3台同時充電 USB-C *2とUSB-A*1 GaNII技術 iPhone18/17/16/15/14/MacBook/iPad/Galaxy/Android/その他USB-Cデバイス PSE技術基準適合・2022レッド・ドット・デザイン賞",
     "percent_off": 32
-  },
-  "B0GGZ3FHRF": {
-    "first_seen": "2026-10-13",
-    "first_seen_at": "2026-10-13T21:14:47+09:00",
-    "last_seen": "2026-10-18",
-    "title": "Belkin Qi2認証 25W ワイヤレス充電器 3in1充電スタンド iPhone 18・Galaxy S26・Pixel 10 ProXL対応 | Qi2 充電器 最大25W急速充電 冷却ファン搭載、iPhone18〜12対応、磁気ケース推奨、Apple Watch・Galaxy Watch・Pixel Watch対応、ウォッチ充電器別売 2年保証 ホワイト",
-    "percent_off": 16
   },
   "B0GN246NL5": {
     "first_seen": "2026-10-18",
