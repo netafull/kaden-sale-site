@@ -128,7 +128,15 @@ jobs:
       # 送っていた頃は、生成・コミット・デプロイのどれかが失敗すると
       # 「通知は届いたのにサイトは前回のまま」になっていた。
       # 前のステップが失敗すればこのステップは実行されない(=通知も飛ばない)
+      # 通知の一時停止スイッチ。リポジトリ変数 NTFY_PAUSED を "true" にすると、
+      # このステップ(と下の2つの通知ステップ)をまとめて飛ばす。
+      #   停止: gh variable set NTFY_PAUSED --body true  -R netafull/<repo>
+      #   再開: gh variable delete NTFY_PAUSED          -R netafull/<repo>
+      # シークレット(NTFY_TOPIC)を消さずに止められる。停止中に検出した新着・
+      # 値下げ・企画の通知は、再開しても送られない(状態には記録されるため)。
+      # 注意: 失敗通知・復旧通知も止まるので、停止中は更新が止まっても鳴らない
       - name: Notify new items
+        if: vars.NTFY_PAUSED != 'true'
         env:
           NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
         run: python scripts/notify.py
@@ -138,7 +146,7 @@ jobs:
       # 実例: 2026-09-09〜12にApple公式サイトの負荷で林檎ポチだけで28通
       # (うち15通は30分おき)飛んだことへの対策(3サイト共通で導入)
       - name: Notify on recovery
-        if: success()
+        if: success() && vars.NTFY_PAUSED != 'true'
         env:
           NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -154,7 +162,7 @@ jobs:
       # PATが切れた場合はワークフロー自体が起動しないので、ここは鳴らない
       # (そちらはCloud Monitoringのアラート「Cloud Scheduler ジョブ失敗」の担当)
       - name: Notify on failure
-        if: failure()
+        if: failure() && vars.NTFY_PAUSED != 'true'
         env:
           NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
