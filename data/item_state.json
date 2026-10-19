@@ -1,11 +1,4 @@
 {
-  "B0FQFHZ5KH": {
-    "first_seen": "2026-10-13",
-    "first_seen_at": "2026-10-13T00:16:25+09:00",
-    "last_seen": "2026-10-19",
-    "title": "Apple iPhone Air 512GB (SIMフリー) | 最大120HzのProMotionを採用した6.5インチディスプレイ、パワフルなA19 Proチップ、センターフレームフロントカメラ、一日中使えるバッテリー；スペースブラック",
-    "percent_off": 24
-  },
   "B0FQFPZW9G": {
     "first_seen": "2026-07-31",
     "first_seen_at": "2026-07-31T12:00:00+09:00",
@@ -214,13 +207,6 @@
     "first_seen_at": "2026-10-16T16:14:53+09:00",
     "last_seen": "2026-10-19",
     "title": "Anker Soundcore Sleep A30 オフホワイト | （ワイヤレスイヤホン Bluetooth 5.3）【睡眠用/完全ワイヤレスイヤホン / IPX4防水規格 / 最大50時間音楽再生 / 専用アプリ対応/睡眠時モニタリング/コンパクト/軽量設計/PSE技術基準適合】",
-    "percent_off": 33
-  },
-  "B0FL2KNHYM": {
-    "first_seen": "2026-09-24",
-    "first_seen_at": "2026-09-24T20:15:02+09:00",
-    "last_seen": "2026-10-19",
-    "title": "Bose QuietComfort Ultra Headphones LE（第2世代） 空間オーディオ 完全 ワイヤレス オーバーイヤー型 ヘッドホン ノイズキャンセリング Bluetooth接続 マイク搭載 最大30時間再生 急速充電 デザートゴールド",
     "percent_off": 33
   },
   "B0DLGJCTPK": {
@@ -587,6 +573,13 @@
     "title": "CIO NovaPort TRIOⅡ 65W 2C1A / 3C PD急速充電器 3台同時充電 軽量 世界最小級 | ノートPC対応, MacBook対応, iPhone対応, iPad対応, Android対応, 電力を自動最適配分",
     "percent_off": 40
   },
+  "B0GSVNFT8T": {
+    "first_seen": "2026-09-30",
+    "first_seen_at": "2026-09-30T05:14:49+09:00",
+    "last_seen": "2026-10-19",
+    "title": "UGREEN アップグレード版 100W充電器 USB-C×3/USB-A×1 4ポート充電器 PD3.0/PPS/QC4対応 36*64*64mm | ボタン一つで縦横表示/アニメ絵文字表示/リアルタイム充電状況 PD/PPS/QC対応, MacBook/iPhone18/17/16/15/Galaxy S26 ultra/Xperia他各種対応",
+    "percent_off": 40
+  },
   "B0CD1NVW7R": {
     "first_seen": "2026-09-15",
     "first_seen_at": "2026-09-15T23:14:42+09:00",
@@ -894,13 +887,6 @@
     "last_seen": "2026-10-19",
     "title": "【Amazon.co.jp限定】 SanDisk microSD カード Ultra SDSQUAB-128G-GH3MA 簡易デザインパッケージ | 128GB UHS-I U1 Class10 Nintendo Switch メーカー動作確認済 10年間限定保証",
     "percent_off": 21
-  },
-  "B08PTN7WJ6": {
-    "first_seen": "2026-10-13",
-    "first_seen_at": "2026-10-13T00:16:25+09:00",
-    "last_seen": "2026-10-19",
-    "title": "KIOXIA(キオクシア)【日本製】SDカード 128GB SDXC UHS-I Class10 読出速度100MB/s 国内正規品 メーカー保証5年 KLNEA128G",
-    "percent_off": 15
   },
   "B00CRVXR14": {
     "first_seen": "2026-10-19",
@@ -1777,6 +1763,27 @@
     "title": "COSORI コソリ ノンフライヤー 6L大容量 家庭用 エアフライヤー DCモーター 高速 最高温230℃ タイマー air fryer 発酵 揚げ物 ポテト 専用レシピ付き ブラック CAF-DC601",
     "percent_off": 14
   },
+  "B0FQFHZ5KH": {
+    "first_seen": "2026-10-13",
+    "first_seen_at": "2026-10-13T00:16:25+09:00",
+    "last_seen": "2026-10-19",
+    "title": "Apple iPhone Air 512GB (SIMフリー) | 最大120HzのProMotionを採用した6.5インチディスプレイ、パワフルなA19 Proチップ、センターフレームフロントカメラ、一日中使えるバッテリー；スペースブラック",
+    "percent_off": 24
+  },
+  "B0FL2KNHYM": {
+    "first_seen": "2026-09-24",
+    "first_seen_at": "2026-09-24T20:15:02+09:00",
+    "last_seen": "2026-10-19",
+    "title": "Bose QuietComfort Ultra Headphones LE（第2世代） 空間オーディオ 完全 ワイヤレス オーバーイヤー型 ヘッドホン ノイズキャンセリング Bluetooth接続 マイク搭載 最大30時間再生 急速充電 デザートゴールド",
+    "percent_off": 33
+  },
+  "B08PTN7WJ6": {
+    "first_seen": "2026-10-13",
+    "first_seen_at": "2026-10-13T00:16:25+09:00",
+    "last_seen": "2026-10-19",
+    "title": "KIOXIA(キオクシア)【日本製】SDカード 128GB SDXC UHS-I Class10 読出速度100MB/s 国内正規品 メーカー保証5年 KLNEA128G",
+    "percent_off": 15
+  },
   "B0GQW2J67Z": {
     "first_seen": "2026-10-17",
     "first_seen_at": "2026-10-17T22:15:06+09:00",
@@ -2195,13 +2202,6 @@
     "first_seen_at": "2026-07-27T12:00:00+09:00",
     "last_seen": "2026-10-18",
     "title": "UGREEN Nexode【当社比最小】65W PD充電器 USB-C*2+USB-A*1 急速充電器 PSE適合 PD/PPS/QC4+対応 | GaNチップ PD3.0/QC4+ 出張/旅行用 ノートPC iPad iphone17/Galaxy S26/Pixel8/Xperia5以降対応",
-    "percent_off": 40
-  },
-  "B0GSVNFT8T": {
-    "first_seen": "2026-09-30",
-    "first_seen_at": "2026-09-30T05:14:49+09:00",
-    "last_seen": "2026-10-18",
-    "title": "UGREEN アップグレード版 100W充電器 USB-C×3/USB-A×1 4ポート充電器 PD3.0/PPS/QC4対応 36*64*64mm | ボタン一つで縦横表示/アニメ絵文字表示/リアルタイム充電状況 PD/PPS/QC対応, MacBook/iPhone18/17/16/15/Galaxy S26 ultra/Xperia他各種対応",
     "percent_off": 40
   },
   "B0DMFFK5LV": {

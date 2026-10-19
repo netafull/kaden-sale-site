@@ -1666,8 +1666,8 @@
    "members": {
     "B0FQFHZ5KH": {
      "last_seen": "2026-10-19",
-     "pct": 24,
-     "points_pct": 1
+     "pct": null,
+     "points_pct": null
     },
     "B0FQFLWSWZ": {
      "last_seen": "2026-10-19",
@@ -2547,8 +2547,8 @@
     },
     "B0GQVTTNQW": {
      "last_seen": "2026-10-19",
-     "pct": null,
-     "points_pct": null
+     "pct": 0,
+     "points_pct": 1
     },
     "B0GQVYHYFK": {
      "last_seen": "2026-10-19",
