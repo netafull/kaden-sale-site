@@ -388,7 +388,7 @@
     "first_seen": "2026-08-06",
     "first_seen_at": "2026-08-06T21:18:24+09:00",
     "last_seen": "2026-10-19",
-    "title": "UGREEN Air モバイルバッテリー 10000mAh 薄型 Qi2 15W MagSafe ケーブル内蔵 iPhone18Pro対応",
+    "title": "UGREEN Air モバイルバッテリー 10000mAh 薄型 Qi2 15W MagSafe ケーブル内蔵 iPhone18Pro対応 | 【ATL製セル×難燃技術】マグネット式ワイヤレス充電｜軽量・小型設計｜USB-C PD 30W対応 ｜パススルー充電対応｜ iPhone18 Pro/17/16/15 シリーズ/ Air対応｜PB570｜グレー",
     "percent_off": 30
   },
   "B0DSPVP337": {
@@ -551,13 +551,6 @@
     "last_seen": "2026-10-19",
     "title": "Belkin USB充電器 40W iPhone17,16～12 デュアルUSB-C(20W x 2) PD3.0 急速充電対応 ホワイト WCB006dqWHJP",
     "percent_off": 65
-  },
-  "B0BF9ZYCQ5": {
-    "first_seen": "2026-07-31",
-    "first_seen_at": "2026-07-31T12:00:00+09:00",
-    "last_seen": "2026-10-19",
-    "title": "【VGP受賞】Belkin 充電器 USB-C 2ポート PPS規格対応 GaN採用 小型 ACアダプター タイプC 急速充電 軽量【PD3.0対応 /PSE認証/折りたたみ式プラグ】45W(25W+20W) MacBook Windows PC Surface Pro iPad iPhone 17,16～12対応 Galaxy Android スマホ 各種ノートPC対応 WCH011dqWH",
-    "percent_off": 57
   },
   "B0CMQK8CMJ": {
     "first_seen": "2026-08-05",
@@ -832,6 +825,13 @@
     "title": "エレコム ワイヤレス充電器 Qi認証 最大 10W スタンド型 EPP規格対応 3枚コイル 【 iPhone Galaxy AirPods 等対応】 ブラック EC-QS10BK",
     "percent_off": 15
   },
+  "B0B5QKMCZD": {
+    "first_seen": "2026-10-19",
+    "first_seen_at": "2026-10-19T20:15:04+09:00",
+    "last_seen": "2026-10-19",
+    "title": "Belkin BoostCharge Pro GaN 65W 充電器 type-c USB-C×2 2台同時充電 急速充電 ホワイト | PD3.0・PPS対応 USB-C×2 単ポート最大65W 2台同時充電45W＋20W 折り畳みプラグ PSE技術基準適合 iPhone17〜12・MacBook・iPad・Galaxy対応 2年保証・最大2,500米ドルCEW ホワイト",
+    "percent_off": 16
+  },
   "B0GXJWC1HZ": {
     "first_seen": "2026-10-15",
     "first_seen_at": "2026-10-15T23:15:08+09:00",
@@ -887,6 +887,13 @@
     "last_seen": "2026-10-19",
     "title": "【Amazon.co.jp限定】 SanDisk microSD カード Ultra SDSQUAB-128G-GH3MA 簡易デザインパッケージ | 128GB UHS-I U1 Class10 Nintendo Switch メーカー動作確認済 10年間限定保証",
     "percent_off": 21
+  },
+  "B08PTN7WJ6": {
+    "first_seen": "2026-10-13",
+    "first_seen_at": "2026-10-13T00:16:25+09:00",
+    "last_seen": "2026-10-19",
+    "title": "KIOXIA(キオクシア)【日本製】SDカード 128GB SDXC UHS-I Class10 読出速度100MB/s 国内正規品 メーカー保証5年 KLNEA128G",
+    "percent_off": 15
   },
   "B00CRVXR14": {
     "first_seen": "2026-10-19",
@@ -1189,19 +1196,19 @@
     "title": "HUAWEI WATCH FIT 5 スマートウォッチ 薄型軽量 大画面 GPS内蔵 10日間ロングバッテリー 通知 健康管理 心拍数 睡眠 ブラック | iPhone対応 android対応 1.82インチ画面 2500nits高輝度 ワークアウト 転倒検知 情緒測定 生理周期管理 64GBストレージ 録音機能 ランニング 防水",
     "percent_off": 16
   },
-  "B0GYF753F1": {
-    "first_seen": "2026-10-13",
-    "first_seen_at": "2026-10-13T01:14:56+09:00",
-    "last_seen": "2026-10-19",
-    "title": "DPVR G3 AIスマートグラス 800万画素 カメラ付きメガネ 録画 翻訳 AI画像認識 メガネ型カメラ オーディオグラス クリアレンズ",
-    "percent_off": 24
-  },
   "B0H6BLVBDC": {
     "first_seen": "2026-10-13",
     "first_seen_at": "2026-10-13T21:14:47+09:00",
     "last_seen": "2026-10-19",
     "title": "VITURE Beast ARグラス 【家電批評Best Buy・VGP金賞・企画賞】 174インチ 光学技術で映像を鮮明に 3DoF対応",
     "percent_off": 25
+  },
+  "B0GS9FZ75P": {
+    "first_seen": "2026-10-13",
+    "first_seen_at": "2026-10-13T00:16:25+09:00",
+    "last_seen": "2026-10-19",
+    "title": "DPVR G1 AIスマートグラス 800万画素 カメラ付きメガネ 録画 翻訳 AI画像認識 メガネ型カメラ オーディオグラス 調光レンズ",
+    "percent_off": 24
   },
   "B0FFT61X6F": {
     "first_seen": "2026-10-13",
@@ -1770,6 +1777,20 @@
     "title": "COSORI コソリ ノンフライヤー 6L大容量 家庭用 エアフライヤー DCモーター 高速 最高温230℃ タイマー air fryer 発酵 揚げ物 ポテト 専用レシピ付き ブラック CAF-DC601",
     "percent_off": 14
   },
+  "B0BF9ZYCQ5": {
+    "first_seen": "2026-07-31",
+    "first_seen_at": "2026-07-31T12:00:00+09:00",
+    "last_seen": "2026-10-19",
+    "title": "【VGP受賞】Belkin 充電器 USB-C 2ポート PPS規格対応 GaN採用 小型 ACアダプター タイプC 急速充電 軽量【PD3.0対応 /PSE認証/折りたたみ式プラグ】45W(25W+20W) MacBook Windows PC Surface Pro iPad iPhone 17,16～12対応 Galaxy Android スマホ 各種ノートPC対応 WCH011dqWH",
+    "percent_off": 57
+  },
+  "B0GYF753F1": {
+    "first_seen": "2026-10-13",
+    "first_seen_at": "2026-10-13T01:14:56+09:00",
+    "last_seen": "2026-10-19",
+    "title": "DPVR G3 AIスマートグラス 800万画素 カメラ付きメガネ 録画 翻訳 AI画像認識 メガネ型カメラ オーディオグラス クリアレンズ",
+    "percent_off": 24
+  },
   "B0GQW7QF6T": {
     "first_seen": "2026-10-10",
     "first_seen_at": "2026-10-10T05:15:07+09:00",
@@ -1867,13 +1888,6 @@
     "last_seen": "2026-10-19",
     "title": "Bose QuietComfort Ultra Headphones LE（第2世代） 空間オーディオ 完全 ワイヤレス オーバーイヤー型 ヘッドホン ノイズキャンセリング Bluetooth接続 マイク搭載 最大30時間再生 急速充電 デザートゴールド",
     "percent_off": 33
-  },
-  "B08PTN7WJ6": {
-    "first_seen": "2026-10-13",
-    "first_seen_at": "2026-10-13T00:16:25+09:00",
-    "last_seen": "2026-10-19",
-    "title": "KIOXIA(キオクシア)【日本製】SDカード 128GB SDXC UHS-I Class10 読出速度100MB/s 国内正規品 メーカー保証5年 KLNEA128G",
-    "percent_off": 15
   },
   "B0DRJK6JMM": {
     "first_seen": "2026-10-19",
@@ -2294,13 +2308,6 @@
     "last_seen": "2026-10-18",
     "title": "SwitchBot スイッチボット スイッチ ボタンに適用 指ロボット スマートスイッチ 家電をスマート化 スマホで遠隔操作 スマートホーム タイマー 節電·省エネ ワイヤレス Alexa, Google Home, Siri, IFTTT, SmartThings 対応(ハブ必要) ホワイト 2個入り",
     "percent_off": 15
-  },
-  "B0GS9FZ75P": {
-    "first_seen": "2026-10-13",
-    "first_seen_at": "2026-10-13T00:16:25+09:00",
-    "last_seen": "2026-10-18",
-    "title": "DPVR G1 AIスマートグラス 800万画素 カメラ付きメガネ 録画 翻訳 AI画像認識 メガネ型カメラ オーディオグラス 調光レンズ",
-    "percent_off": 24
   },
   "B0BVYT1T74": {
     "first_seen": "2026-10-18",
