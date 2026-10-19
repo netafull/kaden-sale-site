@@ -574,7 +574,7 @@
    "aliases": {},
    "genre": "Apple製品",
    "label": "Apple Magic Keyboard - 日本語(JIS)",
-   "last_sweep_at": "2026-10-19T05:07:13+09:00",
+   "last_sweep_at": "2026-10-19T12:07:14+09:00",
    "members": {
     "B0DL6ZMCV9": {
      "last_seen": "2026-10-19",
@@ -1376,7 +1376,7 @@
    },
    "genre": "Apple製品",
    "label": "Apple iPhone 17 Pro Max 512GB (SIMフリー)：P",
-   "last_sweep_at": "2026-10-19T06:07:14+09:00",
+   "last_sweep_at": "2026-10-19T12:07:14+09:00",
    "members": {
     "B0FQFQDMQG": {
      "last_seen": "2026-10-07",
@@ -1436,8 +1436,8 @@
     },
     "B0FQG2B81Z": {
      "last_seen": "2026-10-19",
-     "pct": null,
-     "points_pct": null
+     "pct": 15,
+     "points_pct": 1
     },
     "B0FQGC5XLM": {
      "last_seen": "2026-10-13",
@@ -3437,8 +3437,8 @@
     },
     "B0GR1LSZ8D": {
      "last_seen": "2026-10-19",
-     "pct": null,
-     "points_pct": null
+     "pct": 0,
+     "points_pct": 1
     },
     "B0GR1PZQ8G": {
      "last_seen": "2026-10-18",
