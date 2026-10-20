@@ -384,13 +384,6 @@
     "title": "Prime Charger (200W, 6 Ports, GaN) | 急速充電器 2000W type-c 6ポート【PSE技術基準適合/USB PD対応】MacBook USB PD対応Windows PC iPad iPhone Galaxy Android スマートフォン ノートPC 各種",
     "percent_off": null
   },
-  "B0D8Q93VMG": {
-    "first_seen": "2026-10-20",
-    "first_seen_at": "2026-10-20T10:16:15+09:00",
-    "last_seen": "2026-10-20",
-    "title": "Anker Prime Charger (250W, 6 Ports, GaN) | (USB PD 充電器 USB-A & USB-C) iPad iphone 18シリーズ MacBook Android スマートフォン ノートPC 各種 その他機器対応",
-    "percent_off": null
-  },
   "B0D8RSX6W2": {
     "first_seen": "2026-09-23",
     "first_seen_at": "2026-09-23T21:15:01+09:00",
@@ -447,6 +440,20 @@
     "title": "Anker Nano Charger (45W, Display, スイングプラグ) ブルー | 45W USB-C急速充電器 充電状況が見えるディスプレイ搭載。iPhoneのモデルを検知し出力を最適化。180度スイングプラグ採用。iPhone iPad Galaxy MacBook Air対応 PSE技術基準適合",
     "percent_off": null
   },
+  "B0DMFFK5LV": {
+    "first_seen": "2026-07-29",
+    "first_seen_at": "2026-07-29T12:00:00+09:00",
+    "last_seen": "2026-10-20",
+    "title": "UGREEN 45W USB-C*2+USB-A*1 急速充電器 Type-C PD GaN PSE適合タイプc充電器 PD/PPS/QC3.0 | iphone17/15/14/13 iPad Galaxy Android スマートフォン ノートPC",
+    "percent_off": null
+  },
+  "B0B38TWKVR": {
+    "first_seen": "2026-10-20",
+    "first_seen_at": "2026-10-20T17:14:45+09:00",
+    "last_seen": "2026-10-20",
+    "title": "UGREEN Nexode 45W PD充電器 タイプc USB-C*2 PD3.0/PPS急速充電器 PSE適合 GaNII | PD/PPS/QC4+/SCP規格対応 タイプc充電器 iphone17/Galaxy/MacBook Pro/iPad Pro",
+    "percent_off": null
+  },
   "B0DNT9Z2HS": {
     "first_seen": "2026-07-27",
     "first_seen_at": "2026-07-27T12:00:00+09:00",
@@ -466,6 +473,13 @@
     "first_seen_at": "2026-10-17T06:15:09+09:00",
     "last_seen": "2026-10-20",
     "title": "Anker PowerWave 10 Stand | ワイヤレス充電器 Qi認証 iPhone 16シリーズ / 15シリーズ / 14シリーズ Galaxy 各種対応 最大10W出力",
+    "percent_off": null
+  },
+  "B0DMN885ZF": {
+    "first_seen": "2026-08-05",
+    "first_seen_at": "2026-08-05T03:07:44+09:00",
+    "last_seen": "2026-10-20",
+    "title": "UGREEN 45W USB-C 急速充電器 Type-C PD GaNⅡ充電器 PSE適合タイプc充電器 PD/PPS/SCP/QC3.0 | MacBook PD対応 iphone17/15/14/13/12 iPad Galaxy Android スマートフォン ノートPC 各機種対応",
     "percent_off": null
   },
   "B091BGMKYS": {
@@ -489,18 +503,18 @@
     "title": "UGREEN 45W USB-C*4+USB-A*1 急速充電器 Type-C GaNⅡ タイプc PSE適合/PD3.0/PPS/SCP/QC3.0 | マルチポートタイプCアダプター iPhone18/17/16/15 Galaxy S26 S25 Ultra、Pixel 10、iPadに対応",
     "percent_off": null
   },
-  "B0DL993DZB": {
-    "first_seen": "2026-10-16",
-    "first_seen_at": "2026-10-16T19:15:14+09:00",
-    "last_seen": "2026-10-20",
-    "title": "UGREEN 卓上急速充電器 200W Type-C 6C2A 8ポート PPS 5A/PD3.0/QC4+規格対応 電源コード付き 縦型省スペース | 8ポート付き USB-C*6とUSB-A*2 充電保護システム iPhone18/17/16/15/14/MacBook/iPad/Galaxy/Android各種/その他USB-C機器対応 PSE技術基準適合 ベース付き",
-    "percent_off": null
-  },
   "B0G64NF1FQ": {
     "first_seen": "2026-09-16",
     "first_seen_at": "2026-09-16T01:14:30+09:00",
     "last_seen": "2026-10-20",
     "title": "UGREEN Air 急速充電器 45W Type-C 薄型設計 当社比67%小型化超薄モデル PD3.0/PPS/QC4/SCP対応 折り畳み式 | USB-C 新生代GaNInfinity™チップ＋UGREEN独自Airpyra技術 MacBook/PC/iPad/iPhone18/17/16/15/14/13/12シリーズ対応 PSE認証済",
+    "percent_off": null
+  },
+  "B0DL993DZB": {
+    "first_seen": "2026-10-16",
+    "first_seen_at": "2026-10-16T19:15:14+09:00",
+    "last_seen": "2026-10-20",
+    "title": "UGREEN 卓上急速充電器 200W Type-C 6C2A 8ポート PPS 5A/PD3.0/QC4+規格対応 電源コード付き 縦型省スペース | 8ポート付き USB-C*6とUSB-A*2 充電保護システム iPhone18/17/16/15/14/MacBook/iPad/Galaxy/Android各種/その他USB-C機器対応 PSE技術基準適合 ベース付き",
     "percent_off": null
   },
   "B0CD1NVW7R": {
@@ -516,13 +530,6 @@
     "last_seen": "2026-10-20",
     "title": "Anker PowerPort 2 Elite (USB充電器 24W 2ポート) | 【PSE認証済 / PowerIQ搭載 / 折りたたみ式プラグ搭載】iPhone&Android各種対応",
     "percent_off": 17
-  },
-  "B0DMCPT5PV": {
-    "first_seen": "2026-10-07",
-    "first_seen_at": "2026-10-07T00:14:58+09:00",
-    "last_seen": "2026-10-20",
-    "title": "バッファロー 充電器 20W 2ポート USB-C & USB-A PD対応 GaN 折りたたみ式 PSE適合 BSACPD2015C2WH",
-    "percent_off": 16
   },
   "B07TJ1CRLF": {
     "first_seen": "2026-10-20",
@@ -551,13 +558,6 @@
     "last_seen": "2026-10-20",
     "title": "IODATA GigaCrysta ゲーミングモニター 27型 WQHD 200Hz MiniLED (HDMI/DP) EX-GDQ271JLAQ | 量子ドット, HDR1000, 0.9ms, 無輝点保証",
     "percent_off": 17
-  },
-  "B0F48CTRPY": {
-    "first_seen": "2026-10-19",
-    "first_seen_at": "2026-10-19T13:14:47+09:00",
-    "last_seen": "2026-10-20",
-    "title": "KOORUI ゲーミングモニター 24.5インチ FHD（1920x1080） 320Hz 1ms(GTG) Fast IPSパネル HDR400 sRGB 99%/DCI-P3 95%/Adaptive Sync/HDMI2.0×2/DP1.4/VESA対応 高さ調整 縦横回転 G2511E",
-    "percent_off": 16
   },
   "B0H4LGQM6H": {
     "first_seen": "2026-10-13",
@@ -699,13 +699,6 @@
     "title": "エレコム ワイヤレスマウス Type-C接続 Lサイズ 3ボタン ブラック M-LE10DRCBK",
     "percent_off": 48
   },
-  "B0C9CS34KJ": {
-    "first_seen": "2026-09-25",
-    "first_seen_at": "2026-09-25T08:14:52+09:00",
-    "last_seen": "2026-10-20",
-    "title": "サンワサプライ(Sanwa Supply) ワイヤレスキーボード SKB-WL39BK",
-    "percent_off": 42
-  },
   "B07NDLV8M9": {
     "first_seen": "2026-09-10",
     "first_seen_at": "2026-09-10T20:14:59+09:00",
@@ -719,6 +712,13 @@
     "last_seen": "2026-10-20",
     "title": "Razer ラピッドトリガー 搭載 Huntsman V3 Pro Mini JP ラピッドトリガーと調整可能なアクチュエーション搭載のアナログ ゲーミングキーボード アナログオプティカルスイッチ 調整可能なアクチュエーション 押下圧 40G 日本語配列 ハンツマン ブイスリー プロ ミニ ジェイピー【日本正規代理店保証品】 ブラック",
     "percent_off": 42
+  },
+  "B0C9CS34KJ": {
+    "first_seen": "2026-09-25",
+    "first_seen_at": "2026-09-25T08:14:52+09:00",
+    "last_seen": "2026-10-20",
+    "title": "サンワサプライ(Sanwa Supply) ワイヤレスキーボード SKB-WL39BK",
+    "percent_off": 37
   },
   "B0FL6ZD3WL": {
     "first_seen": "2026-07-29",
@@ -852,6 +852,27 @@
     "last_seen": "2026-10-20",
     "title": "エレコム USB キーボード ワイヤレス (レシーバー付属) メンブレン コンパクトキーボード ブラック TK-FDM105TXBK",
     "percent_off": 14
+  },
+  "B0D8Q93VMG": {
+    "first_seen": "2026-10-20",
+    "first_seen_at": "2026-10-20T10:16:15+09:00",
+    "last_seen": "2026-10-20",
+    "title": "Anker Prime Charger (250W, 6 Ports, GaN) | (USB PD 充電器 USB-A & USB-C) iPad iphone 18シリーズ MacBook Android スマートフォン ノートPC 各種 その他機器対応",
+    "percent_off": null
+  },
+  "B0DMCPT5PV": {
+    "first_seen": "2026-10-07",
+    "first_seen_at": "2026-10-07T00:14:58+09:00",
+    "last_seen": "2026-10-20",
+    "title": "バッファロー 充電器 20W 2ポート USB-C & USB-A PD対応 GaN 折りたたみ式 PSE適合 BSACPD2015C2WH",
+    "percent_off": 16
+  },
+  "B0F48CTRPY": {
+    "first_seen": "2026-10-19",
+    "first_seen_at": "2026-10-19T13:14:47+09:00",
+    "last_seen": "2026-10-20",
+    "title": "KOORUI ゲーミングモニター 24.5インチ FHD（1920x1080） 320Hz 1ms(GTG) Fast IPSパネル HDR400 sRGB 99%/DCI-P3 95%/Adaptive Sync/HDMI2.0×2/DP1.4/VESA対応 高さ調整 縦横回転 G2511E",
+    "percent_off": 16
   },
   "B0FQFJ8BVB": {
     "first_seen": "2026-10-07",
@@ -2477,13 +2498,6 @@
     "title": "UGREEN Nexode【当社比最小】65W PD充電器 USB-C*2+USB-A*1 急速充電器 PSE適合 PD/PPS/QC4+対応 | GaNチップ PD3.0/QC4+ 出張/旅行用 ノートPC iPad iphone17/Galaxy S26/Pixel8/Xperia5以降対応",
     "percent_off": 40
   },
-  "B0DMFFK5LV": {
-    "first_seen": "2026-07-29",
-    "first_seen_at": "2026-07-29T12:00:00+09:00",
-    "last_seen": "2026-10-18",
-    "title": "UGREEN 45W USB-C*2+USB-A*1 急速充電器 Type-C PD GaN PSE適合タイプc充電器 PD/PPS/QC3.0 | iphone17/15/14/13 iPad Galaxy Android スマートフォン ノートPC",
-    "percent_off": 35
-  },
   "B0F99DFJTK": {
     "first_seen": "2026-10-18",
     "first_seen_at": "2026-10-18T21:15:13+09:00",
@@ -3015,13 +3029,6 @@
     "last_seen": "2026-10-16",
     "title": "Bose QuietComfort Ultra Earbuds LE (第2世代) ワイヤレス ノイズキャンセリング Bluetooth イヤホン 最長6時間連続再生 IPX4規格準拠 イマーシブオーディオ 迫力の重低音 ディーププラム",
     "percent_off": 23
-  },
-  "B0DMN885ZF": {
-    "first_seen": "2026-08-05",
-    "first_seen_at": "2026-08-05T03:07:44+09:00",
-    "last_seen": "2026-10-16",
-    "title": "UGREEN 45W USB-C 急速充電器 Type-C PD GaNⅡ充電器 PSE適合タイプc充電器 PD/PPS/SCP/QC3.0",
-    "percent_off": 37
   },
   "B0CR3Y76ZH": {
     "first_seen": "2026-10-16",
