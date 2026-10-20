@@ -62,18 +62,18 @@
     "title": "Apple Watch Ultra 3(GPS + Cellularモデル)- 49mmナチュラルチタニウムケースとナチュラルチタニウムミラネーゼループ - M",
     "percent_off": 12
   },
-  "B0FRYZJPDJ": {
-    "first_seen": "2026-10-11",
-    "first_seen_at": "2026-10-11T18:14:49+09:00",
-    "last_seen": "2026-10-21",
-    "title": "Apple Watch Ultra 3(GPS + Cellularモデル)- 49mmナチュラルチタニウムケースとブルー/ブライトブルートレイルループ - M/L + 2年延長 AppleCare+ for Apple Watch Ultra 3",
-    "percent_off": 12
-  },
   "B0FRZ2CS5T": {
     "first_seen": "2026-10-01",
     "first_seen_at": "2026-10-01T23:14:55+09:00",
     "last_seen": "2026-10-21",
     "title": "Apple Watch Ultra 3(GPS + Cellularモデル)- 49mmナチュラルチタニウムケースとライトブルーアルパインループ - M + 2年延長 AppleCare+ for Apple Watch Ultra 3",
+    "percent_off": 12
+  },
+  "B0FRYZJPDJ": {
+    "first_seen": "2026-10-11",
+    "first_seen_at": "2026-10-11T18:14:49+09:00",
+    "last_seen": "2026-10-21",
+    "title": "Apple Watch Ultra 3(GPS + Cellularモデル)- 49mmナチュラルチタニウムケースとブルー/ブライトブルートレイルループ - M/L + 2年延長 AppleCare+ for Apple Watch Ultra 3",
     "percent_off": 12
   },
   "B0FRZ35PL3": {
@@ -222,13 +222,6 @@
     "last_seen": "2026-10-21",
     "title": "UGREEN Air モバイルバッテリー 5000mAh 8.6mm超薄型 Qi2 15W MagSafe iPhone18Pro対応 | 【ATL製セル×難燃技術】マグネット式ワイヤレス充電｜軽量・小型設計｜USB-C PD 20W対応 ｜パススルー充電対応｜iPhone18 Pro/17/16/15 シリーズ/ Air対応｜PB580｜グレー",
     "percent_off": 35
-  },
-  "B0BVKQ9XSM": {
-    "first_seen": "2026-10-16",
-    "first_seen_at": "2026-10-16T19:15:14+09:00",
-    "last_seen": "2026-10-21",
-    "title": "Anker Nano Power Bank (12W, Built-In Lightning Connector) ブラック | モバイルバッテリー 5K 5000mAh 小型 軽量 コンパクト lightning【MFi認証済/PowerIQ搭載/ライトニング端子一体型】 iPhone 14 シリーズ",
-    "percent_off": null
   },
   "B0CQY7SRTY": {
     "first_seen": "2026-09-13",
@@ -550,13 +543,13 @@
     "first_seen_at": "2026-07-30T12:00:00+09:00",
     "last_seen": "2026-10-21",
     "title": "HUAWEI WATCH FIT 4 スマートウォッチ 薄型軽量 1.82インチ大画面 アウトドアに適した気圧計と測位システム 通知 フィットネス ヘルストラッカー 情緒測定 10日間ロングバッテリー iOS/Android対応 ブラック",
-    "percent_off": 33
+    "percent_off": 34
   },
   "B0F5WR3KP9": {
     "first_seen": "2026-10-20",
     "first_seen_at": "2026-10-20T21:15:01+09:00",
     "last_seen": "2026-10-21",
-    "title": "HUAWEI WATCH FIT 4 Pro スマートウォッチ 薄型軽量 大画面 GPS内蔵 10日間ロングバッテリー ゴルフ 心電図 睡眠 ブラック",
+    "title": "HUAWEI WATCH FIT 4 Pro スマートウォッチ 薄型軽量 大画面 GPS内蔵 10日間ロングバッテリー ゴルフ 心電図 睡眠 ブラック | iPhone対応 android対応 ゴルフ機能 アウトドアに適した気圧計と測位システム 1.82インチ 3000nitsディスプレイ サファイアガラス チタン合金ベゼル LINE通知 健康管理 情緒測定 ランニング 防水",
     "percent_off": 28
   },
   "B0DQ7MJ8P3": {
@@ -782,6 +775,13 @@
     "last_seen": "2026-10-21",
     "title": "アイリスオーヤマ コンベクションオーブン オーヤマくん ノンフライヤー 2026年モデル トースター 低温調理 15L FVC-D15C-H | 大容量,パン作り,揚げ物,惣菜,焼き魚,パン,ケーキ,クッキー,食パン4枚焼き,ピザ",
     "percent_off": 17
+  },
+  "B0BVKQ9XSM": {
+    "first_seen": "2026-10-16",
+    "first_seen_at": "2026-10-16T19:15:14+09:00",
+    "last_seen": "2026-10-21",
+    "title": "Anker Nano Power Bank (12W, Built-In Lightning Connector) ブラック | モバイルバッテリー 5K 5000mAh 小型 軽量 コンパクト lightning【MFi認証済/PowerIQ搭載/ライトニング端子一体型】 iPhone 14 シリーズ",
+    "percent_off": null
   },
   "B08NVDHCD8": {
     "first_seen": "2026-10-21",
