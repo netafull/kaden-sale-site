@@ -2550,8 +2550,8 @@
     },
     "B0GQVTTNQW": {
      "last_seen": "2026-10-21",
-     "pct": 0,
-     "points_pct": 1
+     "pct": null,
+     "points_pct": null
     },
     "B0GQVYHYFK": {
      "last_seen": "2026-10-21",
@@ -4009,15 +4009,15 @@
    "aliases": {},
    "genre": "Apple製品",
    "label": "ワイヤレス充電ケース付きApple AirPods 5ワイヤレスイヤーバッド",
-   "last_sweep_at": "2026-10-20T23:07:13+09:00",
+   "last_sweep_at": "2026-10-21T06:07:13+09:00",
    "members": {
     "B0HJ9VNBZ8": {
-     "last_seen": "2026-10-20",
+     "last_seen": "2026-10-21",
      "pct": 0,
      "points_pct": 1
     },
     "B0HJB2HN1R": {
-     "last_seen": "2026-10-20",
+     "last_seen": "2026-10-21",
      "pct": 0,
      "points_pct": 1
     }
@@ -4074,16 +4074,16 @@
    "aliases": {},
    "genre": "Apple製品",
    "label": "Apple AirPods 4 アクティブノイズ キャンセリング搭載、ワイヤレス",
-   "last_sweep_at": "2026-10-20T23:07:13+09:00",
+   "last_sweep_at": "2026-10-21T06:07:13+09:00",
    "members": {
     "B0DGJ63QY8": {
-     "last_seen": "2026-10-20",
+     "last_seen": "2026-10-21",
      "pct": null,
      "points_pct": null
     },
     "B0DGJBNYVY": {
-     "last_seen": "2026-10-20",
-     "pct": 21,
+     "last_seen": "2026-10-21",
+     "pct": 24,
      "points_pct": 1
     },
     "B0DT2X3TKG": {
@@ -4092,8 +4092,8 @@
      "points_pct": 0
     },
     "B0DT3XJKH9": {
-     "last_seen": "2026-10-20",
-     "pct": 20,
+     "last_seen": "2026-10-21",
+     "pct": 22,
      "points_pct": 0
     }
    },
