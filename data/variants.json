@@ -2550,8 +2550,8 @@
     },
     "B0GQVTTNQW": {
      "last_seen": "2026-10-21",
-     "pct": 0,
-     "points_pct": 1
+     "pct": null,
+     "points_pct": null
     },
     "B0GQVYHYFK": {
      "last_seen": "2026-10-21",
@@ -4029,7 +4029,7 @@
   "B0HJCBG5W4": {
    "aliases": {
     "B0HJ9VS44C": "2026-10-20",
-    "B0HJ9Y9FN4": "2026-10-17"
+    "B0HJ9Y9FN4": "2026-10-21"
    },
    "genre": "Apple製品",
    "label": "Apple iPhone 18 Pro Max (2 TB) - バーガンディ",
