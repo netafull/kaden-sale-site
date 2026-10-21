@@ -1426,8 +1426,8 @@
     },
     "B0FQFQHJRC": {
      "last_seen": "2026-10-21",
-     "pct": 0,
-     "points_pct": 0
+     "pct": 8,
+     "points_pct": 5
     },
     "B0FQFWJX26": {
      "last_seen": "2026-10-12",
@@ -3986,10 +3986,12 @@
    "variation_count": 12
   },
   "B0HJC6FRBB": {
-   "aliases": {},
+   "aliases": {
+    "B0HJ9VQ6Q8": "2026-10-21"
+   },
    "genre": "Apple製品",
    "label": "Apple iPhone 18 Pro (256 GB) - シルバー",
-   "last_sweep_at": "2026-10-21T15:07:12+09:00",
+   "last_sweep_at": "2026-10-21T21:07:14+09:00",
    "members": {
     "B0HJ9VQ6Q8": {
      "last_seen": "2026-10-20",
@@ -3997,14 +3999,14 @@
      "points_pct": 1
     },
     "B0HJ9ZQ95N": {
-     "last_seen": "2026-10-20",
+     "last_seen": "2026-10-21",
      "pct": 0,
      "points_pct": 1
     }
    },
    "no_variations": false,
-   "seed": "B0HJ9VQ6Q8",
-   "variation_count": 2
+   "seed": "B0HJ9ZQ95N",
+   "variation_count": 1
   },
   "B0HJC9K517": {
    "aliases": {},
