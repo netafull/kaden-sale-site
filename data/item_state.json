@@ -4,7 +4,7 @@
     "first_seen_at": "2026-09-05T08:14:38+09:00",
     "last_seen": "2026-10-21",
     "title": "Apple AirPods 4 アクティブノイズ キャンセリング搭載、ワイヤレスイヤホン、Bluetooth 5.3、ライブ翻訳、適応型オーディオ、外部音取り込みモード、パーソナライズされた空間オーディオ、USB-C充電ケース、ワイヤレス充電、H2チップ、防塵性能と耐汗耐水性能、「探す」対応、Qi充電",
-    "percent_off": 24
+    "percent_off": 21
   },
   "B0FQG5MZVW": {
     "first_seen": "2026-10-01",
@@ -158,7 +158,7 @@
     "first_seen_at": "2026-10-14T22:16:19+09:00",
     "last_seen": "2026-10-21",
     "title": "【Amazon.co.jp 限定】JBL TOUR PRO 3 ワイヤレスイヤホン bluetooth/ハイブリッドノイズキャンセリング/ハイレゾワイヤレスLDAC/デュアルドライバー/マルチポイント/防塵・防水/ワイヤレス充電対応/スマートタッチディスプレイ搭載/ネイビー /JBLTOURPRO3BLU",
-    "percent_off": 17
+    "percent_off": 24
   },
   "B0FL2KNHYM": {
     "first_seen": "2026-09-24",
@@ -223,13 +223,6 @@
     "title": "UGREEN 100W モバイルバッテリー 20000mAh 大容量 3ポート USB-C×2Type-A×1 iPhone 18 Pro/Duo対応 | 急速充電対応 PD・PPS 2.0 パススルー/低電流モード PSE技術基準適合 MacBook/iPhone 18 Duo/17/16/15シリーズなど/スマホ/ノートPC/出張/防災/旅行対応 PB720【VGP2024受賞】",
     "percent_off": 36
   },
-  "B0F6NFHB31": {
-    "first_seen": "2026-07-25",
-    "first_seen_at": "2026-07-25T12:00:00+09:00",
-    "last_seen": "2026-10-21",
-    "title": "UGREEN Air モバイルバッテリー 5000mAh 8.6mm超薄型 Qi2 15W MagSafe iPhone18Pro対応 | 【ATL製セル×難燃技術】マグネット式ワイヤレス充電｜軽量・小型設計｜USB-C PD 20W対応 ｜パススルー充電対応｜iPhone18 Pro/17/16/15 シリーズ/ Air対応｜PB580｜グレー",
-    "percent_off": 35
-  },
   "B0CQY7SRTY": {
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T21:14:47+09:00",
@@ -243,6 +236,13 @@
     "last_seen": "2026-10-21",
     "title": "Anker Nano Power Bank (5000mAh, MagGo, Slim) ブラック | モバイルバッテリー Qi2認証 ワイヤレス充電 最大出力15W MagSafe対応 マグネット式ワイヤレス充電対応 コンパクト スリ 軽量 薄型 8.6mm 小型 iPhone 18 / 17 / 16 / 15シリーズ / Air 対応",
     "percent_off": null
+  },
+  "B0F6NC41DZ": {
+    "first_seen": "2026-08-06",
+    "first_seen_at": "2026-08-06T21:18:24+09:00",
+    "last_seen": "2026-10-21",
+    "title": "UGREEN Air モバイルバッテリー 10000mAh 薄型 Qi2 15W MagSafe ケーブル内蔵 iPhone18Pro対応 | 【ATL製セル×難燃技術】マグネット式ワイヤレス充電｜軽量・小型設計｜USB-C PD 30W対応 ｜パススルー充電対応｜ iPhone18 Pro/17/16/15 シリーズ/ Air対応｜PB570｜グレー",
+    "percent_off": 30
   },
   "B0DSPVP337": {
     "first_seen": "2026-08-29",
@@ -265,11 +265,25 @@
     "title": "エレコム モバイルバッテリー 5000mAh ワイヤレス マグネット対応 7.5W スタンド付き Type-C ブラック DE-C53-5000BK",
     "percent_off": 23
   },
+  "B0GMX4WKYG": {
+    "first_seen": "2026-10-13",
+    "first_seen_at": "2026-10-13T00:16:25+09:00",
+    "last_seen": "2026-10-21",
+    "title": "CIO 半固体 モバイルバッテリー 35W USB-C×2 USB-A×1 10000mAh SMARTCOBY Pro SLIM SS (ブラック) | 薄型軽量,MacBook対応, WindowsノートPC対応, iPhone対応, 機内持ち込み, パススルー充電対応",
+    "percent_off": null
+  },
   "B0CX4C1TVK": {
     "first_seen": "2026-07-27",
     "first_seen_at": "2026-07-27T12:00:00+09:00",
     "last_seen": "2026-10-21",
     "title": "Anker Power Bank (10000mAh, Fusion, Built-In USB-C ケーブル) ブラック | 10K 30W出力モバイルバッテリー搭載 30W出力USB充電器 / LEDディスプレイ/ケーブル一体型/コンセント一体型/折りたたみ式プラグ 1台3役 / iPhone 18 / 17 / 16 / 15 Android その他各種機器対応",
+    "percent_off": null
+  },
+  "B0GMWY26HF": {
+    "first_seen": "2026-10-13",
+    "first_seen_at": "2026-10-13T00:16:25+09:00",
+    "last_seen": "2026-10-21",
+    "title": "CIO 半固体モバイルバッテリー 10000mAh SMARTCOBY SLIMⅡ Wireless2.2 Pro SS10K (シルバー) | Qi2.2 ワイヤレス充電 25W / USB-C35W出力, iPhone18対応, iPad対応, パススルー充電対応",
     "percent_off": null
   },
   "B0CDBY9P5Q": {
@@ -299,6 +313,13 @@
     "last_seen": "2026-10-21",
     "title": "UGREEN NexodeX 100W GaNII充電器 USB-C*2+USB-A タイプC Type-C 急速充電器 PD3.0/PPS/QC4+ | PSE認証済/MacBook/iPhone17/16/15/Galaxy S26 ultra/Xperia ノートPC 各種対応 折りたたみ式プラグ",
     "percent_off": 45
+  },
+  "B0D53VJJ7F": {
+    "first_seen": "2026-07-28",
+    "first_seen_at": "2026-07-28T12:00:00+09:00",
+    "last_seen": "2026-10-21",
+    "title": "CIO NovaPort TRIOⅡ 65W 2C1A / 3C PD急速充電器 3台同時充電 軽量 世界最小級 | ノートPC対応, MacBook対応, iPhone対応, iPad対応, Android対応, 電力を自動最適配分",
+    "percent_off": null
   },
   "B0CM66LY5F": {
     "first_seen": "2026-10-17",
@@ -398,19 +419,19 @@
     "title": "Anker PowerPort mini 2個セット ホワイト | （USB充電器 12W 2ポート）【PSE技術基準適合/折りたたみ式プラグ/PowerIQ/超コンパクトサイズ 】iPhone iPad Android各種対応 ホワイト",
     "percent_off": 30
   },
-  "B0BF44GF6J": {
-    "first_seen": "2026-08-09",
-    "first_seen_at": "2026-08-09T01:55:23+09:00",
-    "last_seen": "2026-10-21",
-    "title": "Anker 523 Charger (Nano 3, 47W) ブラック | USB PD USB-C 急速充電器【PowerIQ 3.0 (Gen2)搭載/PSE技術基準適合/折りたたみ式プラグ】iPhone 18 / 17 / 16シリーズ / Air MacBook Air その他各種機器対応 (ブラック)",
-    "percent_off": null
-  },
   "B0GF29FF6N": {
     "first_seen": "2026-10-05",
     "first_seen_at": "2026-10-05T00:14:58+09:00",
     "last_seen": "2026-10-21",
     "title": "Anker Nano Charger (45W, Display, スイングプラグ) ブルー | 45W USB-C急速充電器 充電状況が見えるディスプレイ搭載。iPhoneのモデルを検知し出力を最適化。180度スイングプラグ採用。iPhone iPad Galaxy MacBook Air対応 PSE技術基準適合",
     "percent_off": 30
+  },
+  "B0BF44GF6J": {
+    "first_seen": "2026-08-09",
+    "first_seen_at": "2026-08-09T01:55:23+09:00",
+    "last_seen": "2026-10-21",
+    "title": "Anker 523 Charger (Nano 3, 47W) ブラック | USB PD USB-C 急速充電器【PowerIQ 3.0 (Gen2)搭載/PSE技術基準適合/折りたたみ式プラグ】iPhone 18 / 17 / 16シリーズ / Air MacBook Air その他各種機器対応 (ブラック)",
+    "percent_off": null
   },
   "B091BGMKYS": {
     "first_seen": "2026-07-27",
@@ -432,6 +453,13 @@
     "last_seen": "2026-10-21",
     "title": "UGREEN 卓上急速充電器 200W Type-C 6C2A 8ポート PPS 5A/PD3.0/QC4+規格対応 電源コード付き 縦型省スペース | 8ポート付き USB-C*6とUSB-A*2 充電保護システム iPhone18/17/16/15/14/MacBook/iPad/Galaxy/Android各種/その他USB-C機器対応 PSE技術基準適合 ベース付き",
     "percent_off": 30
+  },
+  "B0D53VKL36": {
+    "first_seen": "2026-07-29",
+    "first_seen_at": "2026-07-29T12:00:00+09:00",
+    "last_seen": "2026-10-21",
+    "title": "CIO NovaPort DUOⅡ 65W PD急速充電器 USB-C×2 2台同時充電 世界最小級（ブラック） | ノートPC対応, MacBook対応, iPhone対応, iPad対応, 電力を自動最適配分",
+    "percent_off": null
   },
   "B096S2CTHS": {
     "first_seen": "2026-10-20",
@@ -558,13 +586,6 @@
     "last_seen": "2026-10-21",
     "title": "HUAWEI WATCH FIT 4 スマートウォッチ 薄型軽量 1.82インチ大画面 アウトドアに適した気圧計と測位システム 通知 フィットネス ヘルストラッカー 情緒測定 10日間ロングバッテリー iOS/Android対応 ブラック",
     "percent_off": 34
-  },
-  "B0F5WR3KP9": {
-    "first_seen": "2026-10-20",
-    "first_seen_at": "2026-10-20T21:15:01+09:00",
-    "last_seen": "2026-10-21",
-    "title": "HUAWEI WATCH FIT 4 Pro スマートウォッチ 薄型軽量 大画面 GPS内蔵 10日間ロングバッテリー ゴルフ 心電図 睡眠 ブラック | iPhone対応 android対応 ゴルフ機能 アウトドアに適した気圧計と測位システム 1.82インチ 3000nitsディスプレイ サファイアガラス チタン合金ベゼル LINE通知 健康管理 情緒測定 ランニング 防水",
-    "percent_off": 28
   },
   "B0FKH3WQ41": {
     "first_seen": "2026-07-30",
@@ -790,26 +811,19 @@
     "title": "アイリスオーヤマ コンベクションオーブン オーヤマくん ノンフライヤー 2026年モデル トースター 低温調理 15L FVC-D15C-H | 大容量,パン作り,揚げ物,惣菜,焼き魚,パン,ケーキ,クッキー,食パン4枚焼き,ピザ",
     "percent_off": 17
   },
-  "B0GMX4WKYG": {
-    "first_seen": "2026-10-13",
-    "first_seen_at": "2026-10-13T00:16:25+09:00",
+  "B0F6NFHB31": {
+    "first_seen": "2026-07-25",
+    "first_seen_at": "2026-07-25T12:00:00+09:00",
     "last_seen": "2026-10-21",
-    "title": "CIO 半固体 モバイルバッテリー 35W USB-C×2 USB-A×1 10000mAh SMARTCOBY Pro SLIM SS (ブラック) | 薄型軽量,MacBook対応, WindowsノートPC対応, iPhone対応, 機内持ち込み, パススルー充電対応",
-    "percent_off": null
+    "title": "UGREEN Air モバイルバッテリー 5000mAh 8.6mm超薄型 Qi2 15W MagSafe iPhone18Pro対応 | 【ATL製セル×難燃技術】マグネット式ワイヤレス充電｜軽量・小型設計｜USB-C PD 20W対応 ｜パススルー充電対応｜iPhone18 Pro/17/16/15 シリーズ/ Air対応｜PB580｜グレー",
+    "percent_off": 35
   },
-  "B0GMWY26HF": {
-    "first_seen": "2026-10-13",
-    "first_seen_at": "2026-10-13T00:16:25+09:00",
+  "B0F5WR3KP9": {
+    "first_seen": "2026-10-20",
+    "first_seen_at": "2026-10-20T21:15:01+09:00",
     "last_seen": "2026-10-21",
-    "title": "CIO 半固体モバイルバッテリー 10000mAh SMARTCOBY SLIMⅡ Wireless2.2 Pro SS10K (シルバー) | Qi2.2 ワイヤレス充電 25W / USB-C35W出力, iPhone18対応, iPad対応, パススルー充電対応",
-    "percent_off": null
-  },
-  "B0D53VJJ7F": {
-    "first_seen": "2026-07-28",
-    "first_seen_at": "2026-07-28T12:00:00+09:00",
-    "last_seen": "2026-10-21",
-    "title": "CIO NovaPort TRIOⅡ 65W 2C1A / 3C PD急速充電器 3台同時充電 軽量 世界最小級 | ノートPC対応, MacBook対応, iPhone対応, iPad対応, Android対応, 電力を自動最適配分",
-    "percent_off": null
+    "title": "HUAWEI WATCH FIT 4 Pro スマートウォッチ 薄型軽量 大画面 GPS内蔵 10日間ロングバッテリー ゴルフ 心電図 睡眠 ブラック | iPhone対応 android対応 ゴルフ機能 アウトドアに適した気圧計と測位システム 1.82インチ 3000nitsディスプレイ サファイアガラス チタン合金ベゼル LINE通知 健康管理 情緒測定 ランニング 防水",
+    "percent_off": 28
   },
   "B0FL1S48XY": {
     "first_seen": "2026-09-08",
@@ -817,13 +831,6 @@
     "last_seen": "2026-10-21",
     "title": "Anker Zolo Charger (70W, 4 Ports) ブラック | 70W USB-C急速充電器 4台同時充電対応。USB-C3ポートとUSB-A1ポートを搭載しPCとスマホをまとめて充電。MacBook Pro MacBook Air iPhone iPad Galaxy対応 PSE技術基準適合",
     "percent_off": 39
-  },
-  "B0D53VKL36": {
-    "first_seen": "2026-07-29",
-    "first_seen_at": "2026-07-29T12:00:00+09:00",
-    "last_seen": "2026-10-21",
-    "title": "CIO NovaPort DUOⅡ 65W PD急速充電器 USB-C×2 2台同時充電 世界最小級（ブラック） | ノートPC対応, MacBook対応, iPhone対応, iPad対応, 電力を自動最適配分",
-    "percent_off": null
   },
   "B0D8Q93VMG": {
     "first_seen": "2026-10-20",
@@ -1138,13 +1145,6 @@
     "first_seen_at": "2026-10-16T21:16:05+09:00",
     "last_seen": "2026-10-20",
     "title": "Anker Power Bank (20000mAh, 30W) パープル",
-    "percent_off": null
-  },
-  "B0F6NC41DZ": {
-    "first_seen": "2026-08-06",
-    "first_seen_at": "2026-08-06T21:18:24+09:00",
-    "last_seen": "2026-10-20",
-    "title": "UGREEN Air モバイルバッテリー 10000mAh 薄型 Qi2 15W MagSafe ケーブル内蔵 iPhone18Pro対応 | 【ATL製セル×難燃技術】マグネット式ワイヤレス充電｜軽量・小型設計｜USB-C PD 30W対応 ｜パススルー充電対応｜ iPhone18 Pro/17/16/15 シリーズ/ Air対応｜PB570｜グレー",
     "percent_off": null
   },
   "B0BRXQYJFN": {
