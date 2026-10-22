@@ -965,7 +965,7 @@
    "aliases": {},
    "genre": "Apple製品",
    "label": "Apple 13インチiPad Air (M4) 用Magic Keyboard",
-   "last_sweep_at": "2026-10-22T07:07:12+09:00",
+   "last_sweep_at": "2026-10-22T13:07:13+09:00",
    "members": {
     "B0DZ7YJC17": {
      "last_seen": "2026-10-22",
@@ -2171,8 +2171,8 @@
     },
     "B0FQG5MZVW": {
      "last_seen": "2026-10-22",
-     "pct": 17,
-     "points_pct": 1
+     "pct": null,
+     "points_pct": null
     },
     "B0FQG5PN5S": {
      "last_seen": "2026-10-22",
@@ -2241,8 +2241,8 @@
     },
     "B0FRZ3Y3SG": {
      "last_seen": "2026-10-22",
-     "pct": 15,
-     "points_pct": 0
+     "pct": null,
+     "points_pct": null
     },
     "B0FRZ44Q6H": {
      "last_seen": "2026-10-22",
