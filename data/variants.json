@@ -1823,8 +1823,8 @@
     },
     "B0FQG5SZS9": {
      "last_seen": "2026-10-24",
-     "pct": null,
-     "points_pct": null
+     "pct": 0,
+     "points_pct": 0
     },
     "B0FQGJTXYQ": {
      "last_seen": "2026-10-24",
@@ -4043,15 +4043,15 @@
    "aliases": {},
    "genre": "Apple製品",
    "label": "Apple Watch Ultra 4（GPS + Cellularモデル）",
-   "last_sweep_at": "2026-10-23T23:07:15+09:00",
+   "last_sweep_at": "2026-10-24T06:07:12+09:00",
    "members": {
     "B0HJ9SL1FK": {
-     "last_seen": "2026-10-23",
+     "last_seen": "2026-10-24",
      "pct": 0,
      "points_pct": 1
     },
     "B0HJ9VSRVN": {
-     "last_seen": "2026-10-23",
+     "last_seen": "2026-10-24",
      "pct": 0,
      "points_pct": 1
     },
@@ -4065,13 +4065,8 @@
      "pct": 0,
      "points_pct": 1
     },
-    "B0HJ9ZP21K": {
-     "last_seen": "2026-10-09",
-     "pct": 0,
-     "points_pct": 1
-    },
     "B0HJB33G86": {
-     "last_seen": "2026-10-23",
+     "last_seen": "2026-10-24",
      "pct": 0,
      "points_pct": 1
     },
@@ -4081,37 +4076,37 @@
      "points_pct": 1
     },
     "B0HJB499BF": {
-     "last_seen": "2026-10-23",
+     "last_seen": "2026-10-24",
      "pct": 0,
      "points_pct": 1
     },
     "B0HJB5HS4Y": {
-     "last_seen": "2026-10-23",
+     "last_seen": "2026-10-24",
      "pct": 0,
      "points_pct": 1
     },
     "B0HJB642ZS": {
-     "last_seen": "2026-10-23",
+     "last_seen": "2026-10-24",
      "pct": 0,
      "points_pct": 1
     },
     "B0HJB7F6GF": {
-     "last_seen": "2026-10-23",
+     "last_seen": "2026-10-24",
      "pct": 0,
      "points_pct": 1
     },
     "B0HJB8GWLH": {
-     "last_seen": "2026-10-23",
+     "last_seen": "2026-10-24",
      "pct": 0,
      "points_pct": 1
     },
     "B0HJBB5SK7": {
-     "last_seen": "2026-10-23",
+     "last_seen": "2026-10-24",
      "pct": 0,
      "points_pct": 1
     },
     "B0HJBBZYPB": {
-     "last_seen": "2026-10-23",
+     "last_seen": "2026-10-24",
      "pct": 0,
      "points_pct": 1
     },
@@ -4121,12 +4116,12 @@
      "points_pct": 1
     },
     "B0HJBHDFXV": {
-     "last_seen": "2026-10-23",
+     "last_seen": "2026-10-24",
      "pct": 0,
      "points_pct": 1
     },
     "B0HJBHDFY6": {
-     "last_seen": "2026-10-23",
+     "last_seen": "2026-10-24",
      "pct": 0,
      "points_pct": 1
     }
