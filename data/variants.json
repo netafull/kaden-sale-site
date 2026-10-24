@@ -1823,8 +1823,8 @@
     },
     "B0FQG5SZS9": {
      "last_seen": "2026-10-24",
-     "pct": 0,
-     "points_pct": 0
+     "pct": null,
+     "points_pct": null
     },
     "B0FQGJTXYQ": {
      "last_seen": "2026-10-24",
@@ -3587,8 +3587,8 @@
    "members": {
     "B0GR1LGT2H": {
      "last_seen": "2026-10-24",
-     "pct": null,
-     "points_pct": null
+     "pct": 0,
+     "points_pct": 1
     },
     "B0GR1LSZ8D": {
      "last_seen": "2026-10-24",
@@ -3981,7 +3981,7 @@
    "aliases": {},
    "genre": "Apple製品",
    "label": "Apple Watch Series 12（GPSモデル）",
-   "last_sweep_at": "2026-10-24T05:07:13+09:00",
+   "last_sweep_at": "2026-10-24T12:07:13+09:00",
    "members": {
     "B0HJ9V2FK4": {
      "last_seen": "2026-10-24",
@@ -4029,7 +4029,7 @@
      "points_pct": 1
     },
     "B0HJB812TG": {
-     "last_seen": "2026-10-23",
+     "last_seen": "2026-10-24",
      "pct": 0,
      "points_pct": 1
     },
@@ -4048,6 +4048,11 @@
      "pct": 0,
      "points_pct": 1
     },
+    "B0HJBCTPN2": {
+     "last_seen": "2026-10-24",
+     "pct": 0,
+     "points_pct": 1
+    },
     "B0HJBL7HVL": {
      "last_seen": "2026-10-24",
      "pct": 0,
@@ -4056,13 +4061,13 @@
    },
    "no_variations": false,
    "seed": "B0HJBBZBQQ",
-   "variation_count": 10
+   "variation_count": 12
   },
   "B0HJC57H3V": {
    "aliases": {},
    "genre": "Apple製品",
    "label": "Apple Watch Ultra 4（GPS + Cellularモデル）",
-   "last_sweep_at": "2026-10-24T06:07:12+09:00",
+   "last_sweep_at": "2026-10-24T12:07:13+09:00",
    "members": {
     "B0HJ9SL1FK": {
      "last_seen": "2026-10-24",
@@ -4080,7 +4085,7 @@
      "points_pct": 1
     },
     "B0HJ9ZJ8RG": {
-     "last_seen": "2026-10-15",
+     "last_seen": "2026-10-24",
      "pct": 0,
      "points_pct": 1
     },
@@ -4147,7 +4152,7 @@
    },
    "no_variations": false,
    "seed": "B0HJB8GWLH",
-   "variation_count": 12
+   "variation_count": 13
   },
   "B0HJC6FRBB": {
    "aliases": {
