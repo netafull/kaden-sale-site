@@ -655,8 +655,8 @@
     },
     "B0DL783NXK": {
      "last_seen": "2026-10-24",
-     "pct": 20,
-     "points_pct": 0
+     "pct": null,
+     "points_pct": null
     },
     "B0DL78FFFR": {
      "last_seen": "2026-10-24",
@@ -3814,6 +3814,16 @@
    "seed": "B0HC764YLN",
    "variation_count": null
   },
+  "B0HC7B72BY": {
+   "aliases": {},
+   "genre": "Apple製品",
+   "label": "iPad Wi-Fi + Cellularモデル 128GB - シルバー + ",
+   "last_sweep_at": "2026-10-24T19:07:15+09:00",
+   "members": {},
+   "no_variations": true,
+   "seed": "B0HC7B72BY",
+   "variation_count": null
+  },
   "B0HJBYHPRM": {
    "aliases": {},
    "genre": "Apple製品",
@@ -4004,7 +4014,7 @@
    "aliases": {},
    "genre": "Apple製品",
    "label": "Apple Watch Series 12（GPSモデル）",
-   "last_sweep_at": "2026-10-24T12:07:13+09:00",
+   "last_sweep_at": "2026-10-24T19:07:15+09:00",
    "members": {
     "B0HJ9V2FK4": {
      "last_seen": "2026-10-24",
@@ -4061,6 +4071,11 @@
      "pct": 0,
      "points_pct": 1
     },
+    "B0HJB96X85": {
+     "last_seen": "2026-10-24",
+     "pct": 0,
+     "points_pct": 1
+    },
     "B0HJB9GLPB": {
      "last_seen": "2026-10-24",
      "pct": 0,
@@ -4084,13 +4099,13 @@
    },
    "no_variations": false,
    "seed": "B0HJBBZBQQ",
-   "variation_count": 12
+   "variation_count": 13
   },
   "B0HJC57H3V": {
    "aliases": {},
    "genre": "Apple製品",
    "label": "Apple Watch Ultra 4（GPS + Cellularモデル）",
-   "last_sweep_at": "2026-10-24T12:07:13+09:00",
+   "last_sweep_at": "2026-10-24T19:07:15+09:00",
    "members": {
     "B0HJ9SL1FK": {
      "last_seen": "2026-10-24",
