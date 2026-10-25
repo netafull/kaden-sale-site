@@ -165,7 +165,7 @@
     "first_seen_at": "2026-10-17T03:14:59+09:00",
     "last_seen": "2026-10-25",
     "title": "Anker Soundcore Space One Pro ミッドナイトブラック | （Bluetooth 5.3 ワイヤレス ヘッドホン）【最大60時間音楽再生 / ウルトラノイズキャンセリング 3.5 / LDAC/ハイレゾ対応 （ワイヤレス/有線） / マルチポイント対応/外音取り込み/マイク内蔵】",
-    "percent_off": null
+    "percent_off": 16
   },
   "B0FCSGGHLL": {
     "first_seen": "2026-07-24",
@@ -235,6 +235,13 @@
     "first_seen_at": "2026-07-27T12:00:00+09:00",
     "last_seen": "2026-10-25",
     "title": "Anker Power Bank (10000mAh, Fusion, Built-In USB-C ケーブル) ブラック | 10K 30W出力モバイルバッテリー搭載 30W出力USB充電器 / LEDディスプレイ/ケーブル一体型/コンセント一体型/折りたたみ式プラグ 1台3役 / iPhone 18 / 17 / 16 / 15 Android その他各種機器対応",
+    "percent_off": null
+  },
+  "B0GMWY26HF": {
+    "first_seen": "2026-10-13",
+    "first_seen_at": "2026-10-13T00:16:25+09:00",
+    "last_seen": "2026-10-25",
+    "title": "CIO 半固体モバイルバッテリー 10000mAh SMARTCOBY SLIMⅡ Wireless2.2 Pro SS10K (シルバー) | Qi2.2 ワイヤレス充電 25W / USB-C35W出力, iPhone18対応, iPad対応, パススルー充電対応",
     "percent_off": null
   },
   "B098SQSRRV": {
@@ -447,6 +454,13 @@
     "title": "LG 有機EL ゲーミング モニター 27GX700A-B 26.5インチ/WQHD@280Hz/タンデムOLED/0.03ms/HDR TB500 | FF14推奨/最大輝度1500nit/DCI-P3 99.5%/VRR/AMD FreeSync Premium NVIDIA G-SYNC/アンチグレア/ハードウェアキャリブレーション/多機能スタンド/VGP2026 特別賞 金賞受賞",
     "percent_off": 36
   },
+  "B0GF29FF6N": {
+    "first_seen": "2026-10-05",
+    "first_seen_at": "2026-10-05T00:14:58+09:00",
+    "last_seen": "2026-10-25",
+    "title": "Anker Nano Charger (45W, Display, スイングプラグ) ブルー | 45W USB-C急速充電器 充電状況が見えるディスプレイ搭載。iPhoneのモデルを検知し出力を最適化。180度スイングプラグ採用。iPhone iPad Galaxy MacBook Air対応 PSE技術基準適合",
+    "percent_off": 30
+  },
   "B0DNKC8HXP": {
     "first_seen": "2026-08-02",
     "first_seen_at": "2026-08-02T11:33:18+09:00",
@@ -460,13 +474,6 @@
     "last_seen": "2026-10-25",
     "title": "IODATA GigaCrysta ゲーミングモニター 27型 WQHD 200Hz MiniLED (HDMI/DP) EX-GDQ271JLAQ | 量子ドット, HDR1000, 0.9ms, 無輝点保証",
     "percent_off": 17
-  },
-  "B0H4LGQM6H": {
-    "first_seen": "2026-10-13",
-    "first_seen_at": "2026-10-13T00:16:25+09:00",
-    "last_seen": "2026-10-25",
-    "title": "ハイセンス 32V型 32S6S 4K チューナーレステレビ タッチパネル 大画面移動式タブレット スマートモニター Android 15搭載 バッテリー内蔵 最大10時間稼働 静音キャスター 縦横回転 8GB+128GB",
-    "percent_off": 15
   },
   "B0F23V7KK5": {
     "first_seen": "2026-10-20",
@@ -713,12 +720,26 @@
     "title": "ロジクール SIGNATURE SLIM ワイヤレス キーボード K950GR 薄型 静かなタイピング Bluetooth Logi Bolt ワイヤレスキーボード テンキー 無線 Easy-Switch 日本語配列 電池寿命36ケ月 Windows Mac Chrome Android K950 グラファイト 国内正規品",
     "percent_off": 15
   },
+  "B0CVRGCGWJ": {
+    "first_seen": "2026-10-17",
+    "first_seen_at": "2026-10-17T03:14:59+09:00",
+    "last_seen": "2026-10-25",
+    "title": "Razer Viper V3 Pro ゲーミングマウス ワイヤレス 無線 Focus Pro 35Kセンサー 35000DPI 高速応答 オプティカルスイッチ 6ボタン",
+    "percent_off": 15
+  },
   "B07NDM4CQZ": {
     "first_seen": "2026-10-08",
     "first_seen_at": "2026-10-08T22:14:47+09:00",
     "last_seen": "2026-10-25",
     "title": "エレコム USB キーボード ワイヤレス (レシーバー付属) メンブレン コンパクトキーボード ブラック TK-FDM105TXBK",
     "percent_off": 14
+  },
+  "B0H4LGQM6H": {
+    "first_seen": "2026-10-13",
+    "first_seen_at": "2026-10-13T00:16:25+09:00",
+    "last_seen": "2026-10-25",
+    "title": "ハイセンス 32V型 32S6S 4K チューナーレステレビ タッチパネル 大画面移動式タブレット スマートモニター Android 15搭載 バッテリー内蔵 最大10時間稼働 静音キャスター 縦横回転 8GB+128GB",
+    "percent_off": 15
   },
   "B0H3TMF8K4": {
     "first_seen": "2026-10-17",
@@ -979,13 +1000,6 @@
     "title": "Logicool G ゲーミングマウス G304 LIGHTSPEED ワイヤレス ゲーミング マウス G304rWH 軽量 99g HERO 12Kセンサー 6個プログラムボタン 250時間連続使用可能 ホワイト PC windows mac 国内正規品 【 ファイナルファンタジー XIV 推奨モデル 】",
     "percent_off": 15
   },
-  "B0CVRGCGWJ": {
-    "first_seen": "2026-10-17",
-    "first_seen_at": "2026-10-17T03:14:59+09:00",
-    "last_seen": "2026-10-24",
-    "title": "Razer Viper V3 Pro ゲーミングマウス ワイヤレス 無線 Focus Pro 35Kセンサー 35000DPI 高速応答 オプティカルスイッチ 6ボタン",
-    "percent_off": 16
-  },
   "B0DL783NXK": {
     "first_seen": "2026-10-10",
     "first_seen_at": "2026-10-10T06:15:04+09:00",
@@ -999,20 +1013,6 @@
     "last_seen": "2026-10-24",
     "title": "ソニー ゲーミングイヤホン INZONE Buds:WF-G700N Fnatic監修/ワイヤレス / 低遅延2.4GHzワイヤレス接続 USBType-Cトランシーバー同梱/LE Audio対応/アクティブノイズキャンセリング/立体音響 / 最大約24時間バッテリー / 急速充電/マイク付き / PS5 スマホ PC Switch グラスパープル",
     "percent_off": 15
-  },
-  "B0GMWY26HF": {
-    "first_seen": "2026-10-13",
-    "first_seen_at": "2026-10-13T00:16:25+09:00",
-    "last_seen": "2026-10-24",
-    "title": "CIO 半固体モバイルバッテリー 10000mAh SMARTCOBY SLIMⅡ Wireless2.2 Pro SS10K (シルバー) | Qi2.2 ワイヤレス充電 25W / USB-C35W出力, iPhone18対応, iPad対応, パススルー充電対応",
-    "percent_off": null
-  },
-  "B0GF29FF6N": {
-    "first_seen": "2026-10-05",
-    "first_seen_at": "2026-10-05T00:14:58+09:00",
-    "last_seen": "2026-10-24",
-    "title": "Anker Nano Charger (45W, Display, スイングプラグ) ブルー | 45W USB-C急速充電器 充電状況が見えるディスプレイ搭載。iPhoneのモデルを検知し出力を最適化。180度スイングプラグ採用。iPhone iPad Galaxy MacBook Air対応 PSE技術基準適合",
-    "percent_off": 30
   },
   "B0FQG9BXMF": {
     "first_seen": "2026-10-18",
