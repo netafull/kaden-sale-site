@@ -209,12 +209,12 @@
     "title": "UGREEN 100W モバイルバッテリー 20000mAh 大容量 3ポート USB-C×2Type-A×1 iPhone 18 Pro/Duo対応 | 急速充電対応 PD・PPS 2.0 パススルー/低電流モード PSE技術基準適合 MacBook/iPhone 18 Duo/17/16/15シリーズなど/スマホ/ノートPC/出張/防災/旅行対応 PB720【VGP2024受賞】",
     "percent_off": 36
   },
-  "B0F6NC41DZ": {
-    "first_seen": "2026-08-06",
-    "first_seen_at": "2026-08-06T21:18:24+09:00",
+  "B0F6NFHB31": {
+    "first_seen": "2026-07-25",
+    "first_seen_at": "2026-07-25T12:00:00+09:00",
     "last_seen": "2026-10-25",
-    "title": "UGREEN Air モバイルバッテリー 10000mAh 薄型 Qi2 15W MagSafe ケーブル内蔵 iPhone18Pro対応 | 【ATL製セル×難燃技術】マグネット式ワイヤレス充電｜軽量・小型設計｜USB-C PD 30W対応 ｜パススルー充電対応｜ iPhone18 Pro/17/16/15 シリーズ/ Air対応｜PB570｜グレー",
-    "percent_off": 30
+    "title": "UGREEN Air モバイルバッテリー 5000mAh 8.6mm超薄型 Qi2 15W MagSafe iPhone18Pro対応 | 【ATL製セル×難燃技術】マグネット式ワイヤレス充電｜軽量・小型設計｜USB-C PD 20W対応 ｜パススルー充電対応｜iPhone18 Pro/17/16/15 シリーズ/ Air対応｜PB580｜グレー",
+    "percent_off": 35
   },
   "B0DSPVP337": {
     "first_seen": "2026-08-29",
@@ -453,13 +453,6 @@
     "last_seen": "2026-10-25",
     "title": "LG 有機EL ゲーミング モニター 27GX700A-B 26.5インチ/WQHD@280Hz/タンデムOLED/0.03ms/HDR TB500 | FF14推奨/最大輝度1500nit/DCI-P3 99.5%/VRR/AMD FreeSync Premium NVIDIA G-SYNC/アンチグレア/ハードウェアキャリブレーション/多機能スタンド/VGP2026 特別賞 金賞受賞",
     "percent_off": 36
-  },
-  "B0DNKC8HXP": {
-    "first_seen": "2026-08-02",
-    "first_seen_at": "2026-08-02T11:33:18+09:00",
-    "last_seen": "2026-10-25",
-    "title": "INNOCN ゲーミングモニター 24.5インチ 200Hz IPS 1ms(GTG) フルHD 非光沢 フレームレス PS5/Xbox対応 Adaptive-Sync VESA100×100 HDMI2.0/DP1.4接続 25G2G",
-    "percent_off": 22
   },
   "B0F7X3VJ99": {
     "first_seen": "2026-08-02",
@@ -734,12 +727,19 @@
     "title": "アイリスオーヤマ コンベクションオーブン オーヤマくん ノンフライヤー 2026年モデル トースター 低温調理 15L FVC-D15C-H | 大容量,パン作り,揚げ物,惣菜,焼き魚,パン,ケーキ,クッキー,食パン4枚焼き,ピザ",
     "percent_off": 27
   },
-  "B0F6NFHB31": {
-    "first_seen": "2026-07-25",
-    "first_seen_at": "2026-07-25T12:00:00+09:00",
+  "B0F6NC41DZ": {
+    "first_seen": "2026-08-06",
+    "first_seen_at": "2026-08-06T21:18:24+09:00",
     "last_seen": "2026-10-25",
-    "title": "UGREEN Air モバイルバッテリー 5000mAh 8.6mm超薄型 Qi2 15W MagSafe iPhone18Pro対応 | 【ATL製セル×難燃技術】マグネット式ワイヤレス充電｜軽量・小型設計｜USB-C PD 20W対応 ｜パススルー充電対応｜iPhone18 Pro/17/16/15 シリーズ/ Air対応｜PB580｜グレー",
-    "percent_off": 35
+    "title": "UGREEN Air モバイルバッテリー 10000mAh 薄型 Qi2 15W MagSafe ケーブル内蔵 iPhone18Pro対応 | 【ATL製セル×難燃技術】マグネット式ワイヤレス充電｜軽量・小型設計｜USB-C PD 30W対応 ｜パススルー充電対応｜ iPhone18 Pro/17/16/15 シリーズ/ Air対応｜PB570｜グレー",
+    "percent_off": 30
+  },
+  "B0DNKC8HXP": {
+    "first_seen": "2026-08-02",
+    "first_seen_at": "2026-08-02T11:33:18+09:00",
+    "last_seen": "2026-10-25",
+    "title": "INNOCN ゲーミングモニター 24.5インチ 200Hz IPS 1ms(GTG) フルHD 非光沢 フレームレス PS5/Xbox対応 Adaptive-Sync VESA100×100 HDMI2.0/DP1.4接続 25G2G",
+    "percent_off": 22
   },
   "B0FJS3P8NT": {
     "first_seen": "2026-07-27",

@@ -3824,6 +3824,16 @@
    "seed": "B0HC74ZZWZ",
    "variation_count": null
   },
+  "B0HC75VZ2N": {
+   "aliases": {},
+   "genre": "Apple製品",
+   "label": "13インチiPad Air Wi‑Fi + Cellularモデル 128GB ",
+   "last_sweep_at": "2026-10-25T13:07:13+09:00",
+   "members": {},
+   "no_variations": true,
+   "seed": "B0HC75VZ2N",
+   "variation_count": null
+  },
   "B0HC764YLN": {
    "aliases": {},
    "genre": "Apple製品",
@@ -3938,7 +3948,7 @@
    "aliases": {},
    "genre": "Apple製品",
    "label": "Apple Watch Series 12（GPS + Cellularモデル）",
-   "last_sweep_at": "2026-10-25T06:07:12+09:00",
+   "last_sweep_at": "2026-10-25T13:07:13+09:00",
    "members": {
     "B0HJ9SBCS2": {
      "last_seen": "2026-10-25",
