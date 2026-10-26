@@ -42,14 +42,14 @@
   "new_arrival_exclude_genres": [],
   "variation_discovery": {
     "enabled": true,
-    "dry_run": true,
+    "dry_run": false,
     "genres": ["Apple製品"],
     "sweep_families_per_run": 20,
     "sweep_min_interval_hours": 6,
     "max_requests_per_run": 70,
     "hot_floor_ratio": 0.5,
     "member_grace_days": 14,
-    "exclude_any": ["セット"]
+    "exclude_any": ["セット", "Watch Band"]
   },
   "genres": [
     {

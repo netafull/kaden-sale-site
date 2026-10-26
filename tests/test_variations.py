@@ -627,6 +627,43 @@ class TestSweepInterval(unittest.TestCase):
         self.assertEqual(cfg["sweep_min_interval_hours"], 3)
 
 
+class TestExcludeWatchBand(unittest.TestCase):
+    """本番の設定(exclude_any に「Watch Band」)で、バンド(アクセサリー)だけが除かれること。
+
+    2026-10-26のドライランで、割引0%・ポイント5%だけで条件を満たす純粋なバンドが4件
+    混ざった(¥7,800)。本体の Apple Watch はタイトルに「Watch Band」を含まない。
+    """
+
+    EXCLUDE = ["セット", "Watch Band"]
+
+    def test_band_accessories_are_excluded(self):
+        for title in (
+            "[アップル] Watch Band - スポーツループ | (46mm)ケース用 - ライム",
+            "Apple Watch Band - Ocean Band - (49mm)ケース用",
+            "apple watch band 41mm",  # 大文字小文字は区別しない
+        ):
+            self.assertTrue(fd.is_excluded(title, self.EXCLUDE), title)
+
+    def test_apple_watch_products_are_kept(self):
+        for title in (
+            "Apple Watch Series 11(GPSモデル)- 42mmジェットブラックアルミニウムケースとブラックスポーツバンド - M/L",
+            "Apple Watch Ultra 3(GPS + Cellularモデル)- 49mmブラックチタニウムケースとブラック/チャコールトレイルループ - M/L",
+            "Apple Watch SE 3(GPSモデル)- 40mmミッドナイトアルミニウムケースとミッドナイトスポーツバンド",
+        ):
+            self.assertFalse(fd.is_excluded(title, self.EXCLUDE), title)
+
+    def test_split_excluded_keeps_hand_picked_static_asins(self):
+        band = {"asin": "B_BAND", "title": "[アップル] Watch Band - スポーツループ"}
+        watch = {"asin": "B_WATCH", "title": "Apple Watch Series 11(GPSモデル)"}
+        kept, excluded = fd.split_excluded([band, watch], self.EXCLUDE, protected_asins=set())
+        self.assertEqual([i["asin"] for i in kept], ["B_WATCH"])
+        self.assertEqual([i["asin"] for i in excluded], ["B_BAND"])
+        # 人が名指しで登録した静的ASINは、バンドでも除外しない(従来どおり)
+        kept2, excluded2 = fd.split_excluded([band], self.EXCLUDE, protected_asins={"B_BAND"})
+        self.assertEqual(len(kept2), 1)
+        self.assertEqual(excluded2, [])
+
+
 class TestFetchFamilyVariationsErrors(unittest.TestCase):
     """getVariations のエラー応答の扱い(単品=NoResults は正常、それ以外は失敗)。"""
 
