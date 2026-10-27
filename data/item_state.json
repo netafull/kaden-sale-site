@@ -384,13 +384,6 @@
     "title": "Anker 736 Charger (Nano ll 100W) ブラック | (USB急速充電器 ACアダプタ) (ブラック)",
     "percent_off": 34
   },
-  "B0FPCYJ6K5": {
-    "first_seen": "2026-09-26",
-    "first_seen_at": "2026-09-26T22:15:02+09:00",
-    "last_seen": "2026-10-28",
-    "title": "UGREEN 充電器 type-c 30W (2*USB-C+1*USB-A) 【PSE技術基準適合/PD3.0対応/30W急速充電/コンパクト】 | iphone18/17/16/15/14/13/iPad/GalaxyS25-S10/Google Pixel/AirPodsなどに対応",
-    "percent_off": 32
-  },
   "B0D3GG4M9N": {
     "first_seen": "2026-10-17",
     "first_seen_at": "2026-10-17T23:15:03+09:00",
@@ -516,6 +509,13 @@
     "last_seen": "2026-10-28",
     "title": "Anker Prime Charger (160W, 3 Ports) シルバー | 急速充電器 160W type-c 3ポート【PSE技術基準適合/折りたたみ式プラグ】iphone 18 MacBook PD対応Windows PC iPad Galaxy Android スマートフォン ノートPC 各種",
     "percent_off": 22
+  },
+  "B07WGPPZQK": {
+    "first_seen": "2026-10-17",
+    "first_seen_at": "2026-10-17T06:15:09+09:00",
+    "last_seen": "2026-10-28",
+    "title": "Anker PowerWave 10 Stand | ワイヤレス充電器 Qi認証 iPhone 16シリーズ / 15シリーズ / 14シリーズ Galaxy 各種対応 最大10W出力",
+    "percent_off": 20
   },
   "B0C8HMLHTB": {
     "first_seen": "2026-10-06",
@@ -839,12 +839,12 @@
     "title": "エレコム USB キーボード ワイヤレス (レシーバー付属) メンブレン コンパクトキーボード ブラック TK-FDM105TXBK",
     "percent_off": 14
   },
-  "B07WGPPZQK": {
-    "first_seen": "2026-10-17",
-    "first_seen_at": "2026-10-17T06:15:09+09:00",
+  "B0FPCYJ6K5": {
+    "first_seen": "2026-09-26",
+    "first_seen_at": "2026-09-26T22:15:02+09:00",
     "last_seen": "2026-10-28",
-    "title": "Anker PowerWave 10 Stand | ワイヤレス充電器 Qi認証 iPhone 16シリーズ / 15シリーズ / 14シリーズ Galaxy 各種対応 最大10W出力",
-    "percent_off": 20
+    "title": "UGREEN 充電器 type-c 30W (2*USB-C+1*USB-A) 【PSE技術基準適合/PD3.0対応/30W急速充電/コンパクト】 | iphone18/17/16/15/14/13/iPad/GalaxyS25-S10/Google Pixel/AirPodsなどに対応",
+    "percent_off": 32
   },
   "B0HC79NYM4": {
     "first_seen": "2026-10-27",
