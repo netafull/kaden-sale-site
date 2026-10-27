@@ -167,13 +167,6 @@
     "title": "[アップル] Watch Ultra 3(GPS + Cellularモデル)- 49mmナチュラルチタニウムケースとナチュラルチタニウムミラネーゼループ - M + 2年延長 AppleCare+ for Apple Watch Ultra 3",
     "percent_off": 8
   },
-  "B0FQFQDN6K": {
-    "first_seen": "2026-10-13",
-    "first_seen_at": "2026-10-13T00:16:25+09:00",
-    "last_seen": "2026-10-27",
-    "title": "Apple AirPods Pro 3 ワイヤレスイヤホン、アクティブノイズキャンセリング、ライブ翻訳、心拍センサー、補聴機能、Bluetoothヘッドホン、空間オーディオ サウンド、USB-C充電ケース、防塵性能と耐汗耐水性能、「探す」対応、Qi充電",
-    "percent_off": null
-  },
   "B0FWDBWC7F": {
     "first_seen": "2026-10-22",
     "first_seen_at": "2026-10-22T00:16:22+09:00",
@@ -384,13 +377,6 @@
     "title": "Anker 323 Charger (33W) (USB PD 充電器 USB-C USB-A 33W)【PSE技術基準適合/USB PD対応/折りたたみ式プラグ】MacBook USB PD対応Windows PC iPhone14 iPad Pixel Galaxy Android PC各種対応 (ホワイト)",
     "percent_off": null
   },
-  "B09SYV3P5B": {
-    "first_seen": "2026-09-09",
-    "first_seen_at": "2026-09-09T00:14:37+09:00",
-    "last_seen": "2026-10-27",
-    "title": "Anker 736 Charger (Nano ll 100W) ブラック | (USB急速充電器 ACアダプタ) (ブラック)",
-    "percent_off": 34
-  },
   "B0D3GG4M9N": {
     "first_seen": "2026-10-17",
     "first_seen_at": "2026-10-17T23:15:03+09:00",
@@ -545,6 +531,13 @@
     "title": "Anker PowerPort 2 Elite (USB充電器 24W 2ポート) | 【PSE認証済 / PowerIQ搭載 / 折りたたみ式プラグ搭載】iPhone&Android各種対応",
     "percent_off": 17
   },
+  "B0DW2SYD5H": {
+    "first_seen": "2026-08-15",
+    "first_seen_at": "2026-08-15T20:37:29+09:00",
+    "last_seen": "2026-10-27",
+    "title": "Anker Zolo Wireless Charger (Magnetic, Pad) ブラック | ブラック Qi2対応 マグネット式 ワイヤレス充電/ワイヤレス出力 iPhone MagSafe対応 iPhone 18 / 18 / 17 / 16 / 14 シリーズ対応 Pixel10非対応",
+    "percent_off": null
+  },
   "B0DM8WZB8M": {
     "first_seen": "2026-10-26",
     "first_seen_at": "2026-10-26T16:14:59+09:00",
@@ -586,13 +579,6 @@
     "last_seen": "2026-10-27",
     "title": "SwitchBot スイッチボット スイッチ ボタンに適用 指ロボット スマートスイッチ スマートホーム ワイヤレス タイマー スマホで遠隔操作 Alexa, Google Home, Siri, IFTTTなどに対応(ハブ必要) ホワイト",
     "percent_off": 21
-  },
-  "B08BLSLWH4": {
-    "first_seen": "2026-10-27",
-    "first_seen_at": "2026-10-27T12:15:23+09:00",
-    "last_seen": "2026-10-27",
-    "title": "Nature Remo 3 ネイチャーリモ スマートリモコン 温湿度/照度/人感センサー搭載 スマートロック対応 Alexa/Google Home/Siri対応 Remo-1W3",
-    "percent_off": 17
   },
   "B0F5WNVHH7": {
     "first_seen": "2026-07-30",
@@ -831,6 +817,27 @@
     "last_seen": "2026-10-27",
     "title": "エレコム USB キーボード ワイヤレス (レシーバー付属) メンブレン コンパクトキーボード ブラック TK-FDM105TXBK",
     "percent_off": 14
+  },
+  "B0FQFQDN6K": {
+    "first_seen": "2026-10-13",
+    "first_seen_at": "2026-10-13T00:16:25+09:00",
+    "last_seen": "2026-10-27",
+    "title": "Apple AirPods Pro 3 ワイヤレスイヤホン、アクティブノイズキャンセリング、ライブ翻訳、心拍センサー、補聴機能、Bluetoothヘッドホン、空間オーディオ サウンド、USB-C充電ケース、防塵性能と耐汗耐水性能、「探す」対応、Qi充電",
+    "percent_off": null
+  },
+  "B09SYV3P5B": {
+    "first_seen": "2026-09-09",
+    "first_seen_at": "2026-09-09T00:14:37+09:00",
+    "last_seen": "2026-10-27",
+    "title": "Anker 736 Charger (Nano ll 100W) ブラック | (USB急速充電器 ACアダプタ) (ブラック)",
+    "percent_off": 34
+  },
+  "B08BLSLWH4": {
+    "first_seen": "2026-10-27",
+    "first_seen_at": "2026-10-27T12:15:23+09:00",
+    "last_seen": "2026-10-27",
+    "title": "Nature Remo 3 ネイチャーリモ スマートリモコン 温湿度/照度/人感センサー搭載 スマートロック対応 Alexa/Google Home/Siri対応 Remo-1W3",
+    "percent_off": 17
   },
   "B0C9D8VTH7": {
     "first_seen": "2026-09-26",
@@ -1789,13 +1796,6 @@
     "first_seen_at": "2026-10-17T21:15:05+09:00",
     "last_seen": "2026-10-22",
     "title": "Anker MagGo Wireless Charging Station (Foldable 3-in-1) ブラック | 旅行 / 持ち運び 充電器 / ワイヤレス充電器 / magsafe充電器 / apple watch 充電器 / Qi2 15W / magsafe対応 / Airpods充電 / iPhone 18 / 17 / 16 シリーズ",
-    "percent_off": null
-  },
-  "B0DW2SYD5H": {
-    "first_seen": "2026-08-15",
-    "first_seen_at": "2026-08-15T20:37:29+09:00",
-    "last_seen": "2026-10-22",
-    "title": "Anker Zolo Wireless Charger (Magnetic, Pad) ブラック | ブラック Qi2対応 マグネット式 ワイヤレス充電/ワイヤレス出力 iPhone MagSafe対応 iPhone 18 / 18 / 17 / 16 / 14 シリーズ対応 Pixel10非対応",
     "percent_off": null
   },
   "B07TJ1CRLF": {
