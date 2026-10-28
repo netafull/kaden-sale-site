@@ -256,7 +256,7 @@
     "first_seen_at": "2026-08-16T23:40:53+09:00",
     "last_seen": "2026-10-29",
     "title": "ソニー(SONY) 完全ワイヤレスイヤホン WF-C510 / 軽量小型4.6g / 高精度通話品質/外音取り込み対応/マルチポイント対応 / IPX4防滴性能 / ブラック/WF-C510 BC",
-    "percent_off": 22
+    "percent_off": 23
   },
   "B0F7RVW2QG": {
     "first_seen": "2026-10-16",
@@ -299,6 +299,13 @@
     "last_seen": "2026-10-29",
     "title": "UGREEN 145W 4-in-1モバイルバッテリー 20000mAh 15Wワイヤレス充電対応 3ポート iPhone 18 Pro/Duo対応 | Qi2/Magsafe対応 TFTディスプレイ 大容量 縦置き 急速充電対応 パススルー/低電流モード PSE技術基準適合 MacBook/iPhone 18 17シリーズなど/スマホ/ノートPC/出張/防災/旅行対応 PB771",
     "percent_off": 40
+  },
+  "B0FRSR6BVR": {
+    "first_seen": "2026-08-07",
+    "first_seen_at": "2026-08-07T22:31:51+09:00",
+    "last_seen": "2026-10-29",
+    "title": "Belkin MagSafe対応 モバイルバッテリー 軽量 5000mAh USB-C 15W 薄型 iPhone対応 ブラック | 7.5Wワイヤレス、USB-C最大15W、2台同時充電、PPS対応、パススルー充電、iPhone18~12・Android対応、カメラを妨げにくい薄型設計、PSE・中国CCC認証、1m USB-Cケーブル付属、2年保証・最大2,500米ドルCEW",
+    "percent_off": 27
   },
   "B0F37VLJQW": {
     "first_seen": "2026-09-15",
@@ -566,13 +573,6 @@
     "title": "Anker PowerPort 2 Elite (USB充電器 24W 2ポート) | 【PSE認証済 / PowerIQ搭載 / 折りたたみ式プラグ搭載】iPhone&Android各種対応",
     "percent_off": 17
   },
-  "B0BF44GF6J": {
-    "first_seen": "2026-08-09",
-    "first_seen_at": "2026-08-09T01:55:23+09:00",
-    "last_seen": "2026-10-29",
-    "title": "Anker 523 Charger (Nano 3, 47W) ブラック | USB PD USB-C 急速充電器【PowerIQ 3.0 (Gen2)搭載/PSE技術基準適合/折りたたみ式プラグ】iPhone 18 / 17 / 16シリーズ / Air MacBook Air その他各種機器対応 (ブラック)",
-    "percent_off": null
-  },
   "B0DW2SYD5H": {
     "first_seen": "2026-08-15",
     "first_seen_at": "2026-08-15T20:37:29+09:00",
@@ -586,13 +586,6 @@
     "last_seen": "2026-10-29",
     "title": "バッファロー 充電器 65W 2ポート Type-C USB PD対応 GaN 折りたたみ式 PSE適合 BSACPD6505C2BK | USB充電器 USB-C 日本メーカー Windows / Chrome / Mac / iPhone / iPad / Android / スマートウォッチ / ワイヤレスイヤホン 対応",
     "percent_off": 15
-  },
-  "B0B5QKMCZD": {
-    "first_seen": "2026-10-19",
-    "first_seen_at": "2026-10-19T20:15:04+09:00",
-    "last_seen": "2026-10-29",
-    "title": "Belkin BoostCharge Pro GaN 65W 充電器 type-c USB-C×2 2台同時充電 急速充電 ホワイト | PD3.0・PPS対応 USB-C×2 単ポート最大65W 2台同時充電45W＋20W 折り畳みプラグ PSE技術基準適合 iPhone17〜12・MacBook・iPad・Galaxy対応 2年保証・最大2,500米ドルCEW ホワイト",
-    "percent_off": 16
   },
   "B0FMY19G96": {
     "first_seen": "2026-08-29",
@@ -790,13 +783,6 @@
     "title": "エレコム ワイヤレスキーボード メンブレン 薄型 フルキーボード テンキー ブラック TK-FDM110TXBK",
     "percent_off": 29
   },
-  "B0BKPL1VKW": {
-    "first_seen": "2026-07-26",
-    "first_seen_at": "2026-07-26T12:00:00+09:00",
-    "last_seen": "2026-10-29",
-    "title": "ロジクール ワイヤレスマウス 静音 無線 高速スクロール Signature M750MGR レギュラー グラファイト M750 国内正規品 | レギュラーサイズ、6ボタン、サイドボタン、電池式（単3形乾電池x1）、Easy-Switch、DPI切り替え、Bluetooth、Logi Bolt、Windows10、Windows11、macOS、iPadOS、Android、ChromeOS",
-    "percent_off": 25
-  },
   "B0FJRCJ1SN": {
     "first_seen": "2026-07-26",
     "first_seen_at": "2026-07-26T12:00:00+09:00",
@@ -874,6 +860,20 @@
     "title": "ロジクール ワイヤレスキーボード PEBBLE KEYS 2 K380sGR 薄型 軽量 415g 小型 Bluetooth Logi Bolt ワイヤレス 無線 キーボード Easy-Switch 日本語配列 電池寿命36ケ月 Windows Mac iPad iOS Android Chrome K380s グラファイト 国内正規品",
     "percent_off": 17
   },
+  "B0BKPL1VKW": {
+    "first_seen": "2026-07-26",
+    "first_seen_at": "2026-07-26T12:00:00+09:00",
+    "last_seen": "2026-10-29",
+    "title": "ロジクール ワイヤレスマウス 静音 無線 高速スクロール Signature M750MGR レギュラー グラファイト M750 国内正規品 | レギュラーサイズ、6ボタン、サイドボタン、電池式（単3形乾電池x1）、Easy-Switch、DPI切り替え、Bluetooth、Logi Bolt、Windows10、Windows11、macOS、iPadOS、Android、ChromeOS",
+    "percent_off": 16
+  },
+  "B0GL26M6Z2": {
+    "first_seen": "2026-08-21",
+    "first_seen_at": "2026-08-21T12:19:55+09:00",
+    "last_seen": "2026-10-29",
+    "title": "エレコム ワイヤレスキーボード 静音 フルサイズ テンキー付 無線2.4GHz Windows macOS ChromeOS メンブレン式 ブラック TK-QT11FDMABK",
+    "percent_off": 13
+  },
   "B0CZ8X3DH8": {
     "first_seen": "2026-07-26",
     "first_seen_at": "2026-07-26T12:00:00+09:00",
@@ -887,6 +887,20 @@
     "last_seen": "2026-10-29",
     "title": "エレコム USB キーボード ワイヤレス (レシーバー付属) メンブレン コンパクトキーボード ブラック TK-FDM105TXBK",
     "percent_off": 14
+  },
+  "B0BF44GF6J": {
+    "first_seen": "2026-08-09",
+    "first_seen_at": "2026-08-09T01:55:23+09:00",
+    "last_seen": "2026-10-29",
+    "title": "Anker 523 Charger (Nano 3, 47W) ブラック | USB PD USB-C 急速充電器【PowerIQ 3.0 (Gen2)搭載/PSE技術基準適合/折りたたみ式プラグ】iPhone 18 / 17 / 16シリーズ / Air MacBook Air その他各種機器対応 (ブラック)",
+    "percent_off": null
+  },
+  "B0B5QKMCZD": {
+    "first_seen": "2026-10-19",
+    "first_seen_at": "2026-10-19T20:15:04+09:00",
+    "last_seen": "2026-10-29",
+    "title": "Belkin BoostCharge Pro GaN 65W 充電器 type-c USB-C×2 2台同時充電 急速充電 ホワイト | PD3.0・PPS対応 USB-C×2 単ポート最大65W 2台同時充電45W＋20W 折り畳みプラグ PSE技術基準適合 iPhone17〜12・MacBook・iPad・Galaxy対応 2年保証・最大2,500米ドルCEW ホワイト",
+    "percent_off": 16
   },
   "B0DB17C63X": {
     "first_seen": "2026-09-26",
@@ -943,13 +957,6 @@
     "last_seen": "2026-10-28",
     "title": "Anker Soundcore Sleep A30 パステルグリーン | （ワイヤレスイヤホン Bluetooth 5.3）【睡眠用/完全ワイヤレスイヤホン / IPX4防水規格 / 最大50時間音楽再生 / 専用アプリ対応/睡眠時モニタリング/コンパクト/軽量設計/PSE技術基準適合】",
     "percent_off": null
-  },
-  "B0FRSR6BVR": {
-    "first_seen": "2026-08-07",
-    "first_seen_at": "2026-08-07T22:31:51+09:00",
-    "last_seen": "2026-10-28",
-    "title": "Belkin MagSafe対応 モバイルバッテリー 軽量 5000mAh USB-C 15W 薄型 iPhone対応 ブラック | 7.5Wワイヤレス、USB-C最大15W、2台同時充電、PPS対応、パススルー充電、iPhone18~12・Android対応、カメラを妨げにくい薄型設計、PSE・中国CCC認証、1m USB-Cケーブル付属、2年保証・最大2,500米ドルCEW",
-    "percent_off": 27
   },
   "B0CT2JNCT5": {
     "first_seen": "2026-10-21",
@@ -1027,13 +1034,6 @@
     "last_seen": "2026-10-28",
     "title": "Ray-Ban Meta AIスマートグラス WAYFARER 12MPカメラ搭載 IPX4防水 最大48h駆動 フレーム/SHINY BLACK (シャイニーブラック) レンズ/ G15 GREEN (グリーン) レンズ横幅50mm 0RW4012 601/7150",
     "percent_off": 19
-  },
-  "B0GL26M6Z2": {
-    "first_seen": "2026-08-21",
-    "first_seen_at": "2026-08-21T12:19:55+09:00",
-    "last_seen": "2026-10-28",
-    "title": "エレコム ワイヤレスキーボード 静音 フルサイズ テンキー付 無線2.4GHz Windows macOS ChromeOS メンブレン式 ブラック TK-QT11FDMABK",
-    "percent_off": 13
   },
   "B0FL2H6GJ5": {
     "first_seen": "2026-10-28",
