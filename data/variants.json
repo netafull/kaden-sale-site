@@ -1323,8 +1323,8 @@
     },
     "B0HJWCJCL2": {
      "last_seen": "2026-10-28",
-     "pct": 4,
-     "points_pct": 0
+     "pct": null,
+     "points_pct": null
     }
    },
    "no_variations": false,
