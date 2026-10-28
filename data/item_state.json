@@ -256,7 +256,7 @@
     "first_seen_at": "2026-10-17T03:14:59+09:00",
     "last_seen": "2026-10-28",
     "title": "Anker Soundcore Space One Pro ミッドナイトブラック | （Bluetooth 5.3 ワイヤレス ヘッドホン）【最大60時間音楽再生 / ウルトラノイズキャンセリング 3.5 / LDAC/ハイレゾ対応 （ワイヤレス/有線） / マルチポイント対応/外音取り込み/マイク内蔵】",
-    "percent_off": null
+    "percent_off": 16
   },
   "B0FCSGGHLL": {
     "first_seen": "2026-07-24",
@@ -285,6 +285,13 @@
     "last_seen": "2026-10-28",
     "title": "Belkin MagSafe対応 モバイルバッテリー 軽量 5000mAh USB-C 15W 薄型 iPhone対応 ブラック | 7.5Wワイヤレス、USB-C最大15W、2台同時充電、PPS対応、パススルー充電、iPhone18~12・Android対応、カメラを妨げにくい薄型設計、PSE・中国CCC認証、1m USB-Cケーブル付属、2年保証・最大2,500米ドルCEW",
     "percent_off": 27
+  },
+  "B0FFKZR6JP": {
+    "first_seen": "2026-10-28",
+    "first_seen_at": "2026-10-28T16:14:52+09:00",
+    "last_seen": "2026-10-28",
+    "title": "エレコム モバイルバッテリー 10000mAh ケーブル一体型 30W PD対応 残量表示 USB-C USB-A 機内持ち込み対応 【iPhone 16シリーズ iPad 第10世代】 ブラック EC-C43LBK",
+    "percent_off": 40
   },
   "B0F37VLJQW": {
     "first_seen": "2026-09-15",
@@ -643,19 +650,19 @@
     "title": "HUAWEI WATCH D2 ウェアラブル血圧計LCA-B10:ブラック",
     "percent_off": 18
   },
-  "B0BWF35J1G": {
-    "first_seen": "2026-10-15",
-    "first_seen_at": "2026-10-15T14:15:44+09:00",
-    "last_seen": "2026-10-28",
-    "title": "GARMIN（ガーミン）GPSランニングウォッチ Forerunner 265 Music White 【日本正規品】",
-    "percent_off": 23
-  },
   "B0FKH3WQ41": {
     "first_seen": "2026-07-30",
     "first_seen_at": "2026-07-30T12:00:00+09:00",
     "last_seen": "2026-10-28",
     "title": "HUAWEI WATCH GT 6 Pro 46mm スマートウォッチ 大画面 GPS搭載 21日間バッテリー 心電図 ゴルフ GPS 通知 ブラック | iPhone対応 android対応 1.47インチ画面 3000nits高輝度 サイクリング/登山/進化したゴルフナビ スポーツモード100種類以上 ランニング 防水 健康管理 情緒測定",
     "percent_off": 24
+  },
+  "B0BWF35J1G": {
+    "first_seen": "2026-10-15",
+    "first_seen_at": "2026-10-15T14:15:44+09:00",
+    "last_seen": "2026-10-28",
+    "title": "GARMIN（ガーミン）GPSランニングウォッチ Forerunner 265 Music White 【日本正規品】",
+    "percent_off": 23
   },
   "B0BWF162WJ": {
     "first_seen": "2026-09-21",
