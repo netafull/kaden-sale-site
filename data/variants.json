@@ -1511,8 +1511,8 @@
     },
     "B0FQFJ5RTR": {
      "last_seen": "2026-10-30",
-     "pct": 8,
-     "points_pct": 6
+     "pct": null,
+     "points_pct": null
     },
     "B0FQFJ8BVB": {
      "last_seen": "2026-10-30",
@@ -1551,8 +1551,8 @@
     },
     "B0FRZ2CMR8": {
      "last_seen": "2026-10-30",
-     "pct": 8,
-     "points_pct": 0
+     "pct": null,
+     "points_pct": null
     },
     "B0FRZ2RXQC": {
      "last_seen": "2026-10-30",
@@ -4742,10 +4742,10 @@
    "aliases": {},
    "genre": "Apple製品",
    "label": "Apple AirPods 4 アクティブノイズ キャンセリング搭載、ワイヤレス",
-   "last_sweep_at": "2026-10-29T18:07:13+09:00",
+   "last_sweep_at": "2026-10-30T01:07:15+09:00",
    "members": {
     "B0DGJ63QY8": {
-     "last_seen": "2026-10-29",
+     "last_seen": "2026-10-30",
      "pct": null,
      "points_pct": null
     },

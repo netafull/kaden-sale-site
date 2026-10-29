@@ -41,13 +41,6 @@
     "title": "Apple 11インチiPad Air (M4) 用Magic Keyboard - 中国語(注音) - ブラック",
     "percent_off": 14
   },
-  "B0FQFJ5RTR": {
-    "first_seen": "2026-10-26",
-    "first_seen_at": "2026-10-26T22:25:29+09:00",
-    "last_seen": "2026-10-30",
-    "title": "Apple Watch Series 11(GPSモデル)- 42mmジェットブラックアルミニウムケースとブラックスポーツバンド - M/L、睡眠時無呼吸、高血圧パターン、血中酸素、心電図、排卵推定、心拍数、服薬、マインドフルネス、ノイズ、睡眠スコア、転倒検出、IPX6X防塵、泳げる耐水、Suica対応、高速充電対応",
-    "percent_off": 8
-  },
   "B0FQGP2P41": {
     "first_seen": "2026-10-05",
     "first_seen_at": "2026-10-05T23:16:13+09:00",
@@ -167,13 +160,6 @@
     "title": "Apple Watch Series 11(GPSモデル)- 42mmスペースグレイアルミニウムケースとブラックスポーツバンド - M/L + 2年延長 AppleCare+ for Apple Watch Series 11",
     "percent_off": 8
   },
-  "B0FRZ2CMR8": {
-    "first_seen": "2026-10-26",
-    "first_seen_at": "2026-10-26T22:25:29+09:00",
-    "last_seen": "2026-10-30",
-    "title": "Apple Watch Series 11(GPSモデル)- 42mmジェットブラックアルミニウムケースとブラックスポーツバンド - M/L + 2年延長 AppleCare+ for Apple Watch Series 11",
-    "percent_off": 8
-  },
   "B0FRZ28FST": {
     "first_seen": "2026-10-28",
     "first_seen_at": "2026-10-28T13:16:03+09:00",
@@ -270,7 +256,7 @@
     "first_seen_at": "2026-08-16T23:40:53+09:00",
     "last_seen": "2026-10-30",
     "title": "ソニー(SONY) 完全ワイヤレスイヤホン WF-C510 / 軽量小型4.6g / 高精度通話品質/外音取り込み対応/マルチポイント対応 / IPX4防滴性能 / ブラック/WF-C510 BC",
-    "percent_off": 25
+    "percent_off": 23
   },
   "B0F7RVW2QG": {
     "first_seen": "2026-10-16",
@@ -369,13 +355,6 @@
     "last_seen": "2026-10-30",
     "title": "Anker Power Bank (25000mAh, Built-In & 巻取り式USB-Cケーブル) ブラック | モバイルバッテリー 大容量/PD対応/PSE技術基準適合/機内持ち込み可/ 165W出力/ 一体型ケーブル MacBook Windows PC iPad Pro iPhone 18 / 17 / 16 / 15 Galaxy Android対応",
     "percent_off": 15
-  },
-  "B0C5CBV6L3": {
-    "first_seen": "2026-10-30",
-    "first_seen_at": "2026-10-30T00:15:48+09:00",
-    "last_seen": "2026-10-30",
-    "title": "Anker Prime Wall Charger (67W, 3 ports, GaN) (ブラック) | 充電器【 PD対応/PSE技術基準適合/折りたたみ式プラグ】iphone 18 / 17 Pro / 17 Pro Max 他 iPhone シリーズ MacBook Windows PC iPad Galaxy Android スマートフォン",
-    "percent_off": 48
   },
   "B098SQSRRV": {
     "first_seen": "2026-07-31",
@@ -831,6 +810,27 @@
     "last_seen": "2026-10-30",
     "title": "アイリスオーヤマ コンベクションオーブン オーヤマくん ノンフライヤー 2026年モデル トースター 低温調理 15L FVC-D15C-H | 大容量,パン作り,揚げ物,惣菜,焼き魚,パン,ケーキ,クッキー,食パン4枚焼き,ピザ",
     "percent_off": 17
+  },
+  "B0FQFJ5RTR": {
+    "first_seen": "2026-10-26",
+    "first_seen_at": "2026-10-26T22:25:29+09:00",
+    "last_seen": "2026-10-30",
+    "title": "Apple Watch Series 11(GPSモデル)- 42mmジェットブラックアルミニウムケースとブラックスポーツバンド - M/L、睡眠時無呼吸、高血圧パターン、血中酸素、心電図、排卵推定、心拍数、服薬、マインドフルネス、ノイズ、睡眠スコア、転倒検出、IPX6X防塵、泳げる耐水、Suica対応、高速充電対応",
+    "percent_off": 8
+  },
+  "B0FRZ2CMR8": {
+    "first_seen": "2026-10-26",
+    "first_seen_at": "2026-10-26T22:25:29+09:00",
+    "last_seen": "2026-10-30",
+    "title": "Apple Watch Series 11(GPSモデル)- 42mmジェットブラックアルミニウムケースとブラックスポーツバンド - M/L + 2年延長 AppleCare+ for Apple Watch Series 11",
+    "percent_off": 8
+  },
+  "B0C5CBV6L3": {
+    "first_seen": "2026-10-30",
+    "first_seen_at": "2026-10-30T00:15:48+09:00",
+    "last_seen": "2026-10-30",
+    "title": "Anker Prime Wall Charger (67W, 3 ports, GaN) (ブラック) | 充電器【 PD対応/PSE技術基準適合/折りたたみ式プラグ】iphone 18 / 17 Pro / 17 Pro Max 他 iPhone シリーズ MacBook Windows PC iPad Galaxy Android スマートフォン",
+    "percent_off": 48
   },
   "B0FCSCKGPH": {
     "first_seen": "2026-09-05",
