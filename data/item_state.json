@@ -270,7 +270,7 @@
     "first_seen_at": "2026-08-16T23:40:53+09:00",
     "last_seen": "2026-10-29",
     "title": "ソニー(SONY) 完全ワイヤレスイヤホン WF-C510 / 軽量小型4.6g / 高精度通話品質/外音取り込み対応/マルチポイント対応 / IPX4防滴性能 / ブラック/WF-C510 BC",
-    "percent_off": 24
+    "percent_off": 23
   },
   "B0F7RVW2QG": {
     "first_seen": "2026-10-16",
@@ -355,6 +355,13 @@
     "last_seen": "2026-10-29",
     "title": "UGREEN 100W モバイルバッテリー 20000mAh 大容量 3ポート USB-C×2Type-A×1 iPhone 18 Pro/Duo対応 | 急速充電対応 PD・PPS 2.0 パススルー/低電流モード PSE技術基準適合 MacBook/iPhone 18 Duo/17/16/15シリーズなど/スマホ/ノートPC/出張/防災/旅行対応 PB720【VGP2024受賞】",
     "percent_off": 30
+  },
+  "B0G2YK453K": {
+    "first_seen": "2026-10-29",
+    "first_seen_at": "2026-10-29T20:14:40+09:00",
+    "last_seen": "2026-10-29",
+    "title": "UGREEN Nexode Wavy（燃えにくい型 安全情報見える化 20000mAh 55W コード付属）モバイルバッテリー ブラック PB602 | 3C認証／ディスプレイ搭載／BMSバッテリー監視／高安全性／バッテリー寿命向上／ストラップ型／Dymondcell™難燃技術／MacBook／iPhone18～13／Xperia／Galaxy／Android／iPad／Switch 2などに適用",
+    "percent_off": 25
   },
   "B0DSPVDYQ9": {
     "first_seen": "2026-10-13",
@@ -475,13 +482,6 @@
     "title": "Anker 313 Charger (Ace, 45W) ホワイト | (USB PD 充電器 USB-C) 【GaN(窒化ガリウム) II採用/USB PD対応/PPS規格対応/PSE技術基準適合/折りたたみ式プラグ】MacBook PD対応Windows PC iPhone iPad",
     "percent_off": 29
   },
-  "B0B2QSZRCV": {
-    "first_seen": "2026-09-22",
-    "first_seen_at": "2026-09-22T22:14:54+09:00",
-    "last_seen": "2026-10-29",
-    "title": "Anker 511 Charger (Nano 3, 30W) ブルー | 30W USB-C急速充電器 手のひらサイズでノートPCにも給電。GaN採用で折りたたみ式プラグ搭載。PD PPS対応 MacBook Air iPhone iPad Galaxy Pixel対応 PSE技術基準適合",
-    "percent_off": 29
-  },
   "B0DL993DZB": {
     "first_seen": "2026-10-16",
     "first_seen_at": "2026-10-16T19:15:14+09:00",
@@ -559,19 +559,19 @@
     "title": "Anker PowerWave 10 Stand | ワイヤレス充電器 Qi認証 iPhone 16シリーズ / 15シリーズ / 14シリーズ Galaxy 各種対応 最大10W出力",
     "percent_off": 20
   },
-  "B0C8HMLHTB": {
-    "first_seen": "2026-10-06",
-    "first_seen_at": "2026-10-06T03:15:02+09:00",
-    "last_seen": "2026-10-29",
-    "title": "エレコム 充電器 65W USB PD対応 3ポート Type-C USB-A 【 iPhone 16 15 14 iPad Macbook Air ノートPC】 ブラック EC-AC4465BK",
-    "percent_off": null
-  },
   "B06ZXXQGZ8": {
     "first_seen": "2026-10-13",
     "first_seen_at": "2026-10-13T00:16:25+09:00",
     "last_seen": "2026-10-29",
     "title": "Anker PowerPort 2 Elite (USB充電器 24W 2ポート) | 【PSE認証済 / PowerIQ搭載 / 折りたたみ式プラグ搭載】iPhone&Android各種対応",
     "percent_off": 17
+  },
+  "B0DW2SYD5H": {
+    "first_seen": "2026-08-15",
+    "first_seen_at": "2026-08-15T20:37:29+09:00",
+    "last_seen": "2026-10-29",
+    "title": "Anker Zolo Wireless Charger (Magnetic, Pad) ブラック | ブラック Qi2対応 マグネット式 ワイヤレス充電/ワイヤレス出力 iPhone MagSafe対応 iPhone 18 / 18 / 17 / 16 / 14 シリーズ対応 Pixel10非対応",
+    "percent_off": null
   },
   "B0DM8WZB8M": {
     "first_seen": "2026-10-26",
@@ -839,6 +839,27 @@
     "title": "エレコム USB キーボード ワイヤレス (レシーバー付属) メンブレン コンパクトキーボード ブラック TK-FDM105TXBK",
     "percent_off": 14
   },
+  "B0H3TMF8K4": {
+    "first_seen": "2026-10-17",
+    "first_seen_at": "2026-10-17T19:16:01+09:00",
+    "last_seen": "2026-10-29",
+    "title": "アイリスオーヤマ コンベクションオーブン オーヤマくん ノンフライヤー 2026年モデル トースター 低温調理 15L FVC-D15C-H | 大容量,パン作り,揚げ物,惣菜,焼き魚,パン,ケーキ,クッキー,食パン4枚焼き,ピザ",
+    "percent_off": 17
+  },
+  "B0B2QSZRCV": {
+    "first_seen": "2026-09-22",
+    "first_seen_at": "2026-09-22T22:14:54+09:00",
+    "last_seen": "2026-10-29",
+    "title": "Anker 511 Charger (Nano 3, 30W) ブルー | 30W USB-C急速充電器 手のひらサイズでノートPCにも給電。GaN採用で折りたたみ式プラグ搭載。PD PPS対応 MacBook Air iPhone iPad Galaxy Pixel対応 PSE技術基準適合",
+    "percent_off": 29
+  },
+  "B0C8HMLHTB": {
+    "first_seen": "2026-10-06",
+    "first_seen_at": "2026-10-06T03:15:02+09:00",
+    "last_seen": "2026-10-29",
+    "title": "エレコム 充電器 65W USB PD対応 3ポート Type-C USB-A 【 iPhone 16 15 14 iPad Macbook Air ノートPC】 ブラック EC-AC4465BK",
+    "percent_off": null
+  },
   "B0FQGJ91GZ": {
     "first_seen": "2026-09-24",
     "first_seen_at": "2026-09-24T23:14:59+09:00",
@@ -908,13 +929,6 @@
     "last_seen": "2026-10-29",
     "title": "Anker 736 Charger (Nano ll 100W) ブラック | (USB急速充電器 ACアダプタ) (ブラック)",
     "percent_off": 34
-  },
-  "B0DW2SYD5H": {
-    "first_seen": "2026-08-15",
-    "first_seen_at": "2026-08-15T20:37:29+09:00",
-    "last_seen": "2026-10-29",
-    "title": "Anker Zolo Wireless Charger (Magnetic, Pad) ブラック | ブラック Qi2対応 マグネット式 ワイヤレス充電/ワイヤレス出力 iPhone MagSafe対応 iPhone 18 / 18 / 17 / 16 / 14 シリーズ対応 Pixel10非対応",
-    "percent_off": null
   },
   "B0BKPL1VKW": {
     "first_seen": "2026-07-26",
@@ -1755,13 +1769,6 @@
     "last_seen": "2026-10-25",
     "title": "Razer Viper V3 Pro ゲーミングマウス ワイヤレス 無線 Focus Pro 35Kセンサー 35000DPI 高速応答 オプティカルスイッチ 6ボタン",
     "percent_off": 15
-  },
-  "B0H3TMF8K4": {
-    "first_seen": "2026-10-17",
-    "first_seen_at": "2026-10-17T19:16:01+09:00",
-    "last_seen": "2026-10-25",
-    "title": "アイリスオーヤマ コンベクションオーブン オーヤマくん ノンフライヤー 2026年モデル トースター 低温調理 15L FVC-D15C-H | 大容量,パン作り,揚げ物,惣菜,焼き魚,パン,ケーキ,クッキー,食パン4枚焼き,ピザ",
-    "percent_off": 17
   },
   "B0GJTW9CL8": {
     "first_seen": "2026-08-07",
