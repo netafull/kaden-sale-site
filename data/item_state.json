@@ -48,6 +48,13 @@
     "title": "Apple Watch Series 11(GPSモデル)- 42mmジェットブラックアルミニウムケースとブラックスポーツバンド - S/M、睡眠時無呼吸、高血圧パターン、血中酸素、心電図、排卵推定、心拍数、服薬、マインドフルネス、ノイズ、睡眠スコア、転倒検出、IPX6X防塵、泳げる耐水、Suica対応、高速充電対応",
     "percent_off": 8
   },
+  "B0FQFJ5RTR": {
+    "first_seen": "2026-10-26",
+    "first_seen_at": "2026-10-26T22:25:29+09:00",
+    "last_seen": "2026-10-29",
+    "title": "Apple Watch Series 11(GPSモデル)- 42mmジェットブラックアルミニウムケースとブラックスポーツバンド - M/L、睡眠時無呼吸、高血圧パターン、血中酸素、心電図、排卵推定、心拍数、服薬、マインドフルネス、ノイズ、睡眠スコア、転倒検出、IPX6X防塵、泳げる耐水、Suica対応、高速充電対応",
+    "percent_off": 8
+  },
   "B0FQG6NZ6T": {
     "first_seen": "2026-10-11",
     "first_seen_at": "2026-10-11T18:14:49+09:00",
@@ -151,6 +158,13 @@
     "first_seen_at": "2026-10-24T01:15:07+09:00",
     "last_seen": "2026-10-29",
     "title": "Apple Watch Series 11(GPSモデル)- 42mmスペースグレイアルミニウムケースとブラックスポーツバンド - M/L + 2年延長 AppleCare+ for Apple Watch Series 11",
+    "percent_off": 8
+  },
+  "B0FRZ2CMR8": {
+    "first_seen": "2026-10-26",
+    "first_seen_at": "2026-10-26T22:25:29+09:00",
+    "last_seen": "2026-10-29",
+    "title": "Apple Watch Series 11(GPSモデル)- 42mmジェットブラックアルミニウムケースとブラックスポーツバンド - M/L + 2年延長 AppleCare+ for Apple Watch Series 11",
     "percent_off": 8
   },
   "B0FRZ3XVFD": {
@@ -270,7 +284,7 @@
     "first_seen_at": "2026-08-16T23:40:53+09:00",
     "last_seen": "2026-10-29",
     "title": "ソニー(SONY) 完全ワイヤレスイヤホン WF-C510 / 軽量小型4.6g / 高精度通話品質/外音取り込み対応/マルチポイント対応 / IPX4防滴性能 / ブラック/WF-C510 BC",
-    "percent_off": 23
+    "percent_off": 24
   },
   "B0F7RVW2QG": {
     "first_seen": "2026-10-16",
@@ -454,13 +468,6 @@
     "title": "Anker MagGo Wireless Charger (Stand) ブラック | Qi2対応 マグネット式 ワイヤレス充電ステーション/ワイヤレス出力 MagSafe対応 iPhone 18 / 18 / 17 / 16",
     "percent_off": null
   },
-  "B07K13Z1Q4": {
-    "first_seen": "2026-10-17",
-    "first_seen_at": "2026-10-17T23:15:03+09:00",
-    "last_seen": "2026-10-29",
-    "title": "Anker PowerPort mini 2個セット ホワイト | （USB充電器 12W 2ポート）【PSE技術基準適合/折りたたみ式プラグ/PowerIQ/超コンパクトサイズ 】iPhone iPad Android各種対応 ホワイト",
-    "percent_off": 30
-  },
   "B0GF29FF6N": {
     "first_seen": "2026-10-05",
     "first_seen_at": "2026-10-05T00:14:58+09:00",
@@ -635,13 +642,6 @@
     "last_seen": "2026-10-29",
     "title": "SwitchBot スイッチボット スイッチ ボタンに適用 指ロボット スマートスイッチ スマートホーム ワイヤレス タイマー スマホで遠隔操作 Alexa, Google Home, Siri, IFTTTなどに対応(ハブ必要) ホワイト",
     "percent_off": 21
-  },
-  "B08BLSLWH4": {
-    "first_seen": "2026-10-27",
-    "first_seen_at": "2026-10-27T12:15:23+09:00",
-    "last_seen": "2026-10-29",
-    "title": "Nature Remo 3 ネイチャーリモ スマートリモコン 温湿度/照度/人感センサー搭載 スマートロック対応 Alexa/Google Home/Siri対応 Remo-1W3",
-    "percent_off": 18
   },
   "B0F5WNVHH7": {
     "first_seen": "2026-07-30",
@@ -866,6 +866,20 @@
     "last_seen": "2026-10-29",
     "title": "エレコム USB キーボード ワイヤレス (レシーバー付属) メンブレン コンパクトキーボード ブラック TK-FDM105TXBK",
     "percent_off": 14
+  },
+  "B07K13Z1Q4": {
+    "first_seen": "2026-10-17",
+    "first_seen_at": "2026-10-17T23:15:03+09:00",
+    "last_seen": "2026-10-29",
+    "title": "Anker PowerPort mini 2個セット ホワイト | （USB充電器 12W 2ポート）【PSE技術基準適合/折りたたみ式プラグ/PowerIQ/超コンパクトサイズ 】iPhone iPad Android各種対応 ホワイト",
+    "percent_off": 30
+  },
+  "B08BLSLWH4": {
+    "first_seen": "2026-10-27",
+    "first_seen_at": "2026-10-27T12:15:23+09:00",
+    "last_seen": "2026-10-29",
+    "title": "Nature Remo 3 ネイチャーリモ スマートリモコン 温湿度/照度/人感センサー搭載 スマートロック対応 Alexa/Google Home/Siri対応 Remo-1W3",
+    "percent_off": 18
   },
   "B08K2RGTHY": {
     "first_seen": "2026-07-26",
@@ -1440,20 +1454,6 @@
     "last_seen": "2026-10-27",
     "title": "Apple 2026 MacBook Air M5チップ搭載13インチノートブック：AIとApple Intelligence、13.6インチLiquid Retinaディスプレイ、16GBユニファイドメモリ、1TB SSDストレージ、12MPセンターフレームカメラ、日本語キーボード、Touch ID - スカイブルー",
     "percent_off": null
-  },
-  "B0FQFJ5RTR": {
-    "first_seen": "2026-10-26",
-    "first_seen_at": "2026-10-26T22:25:29+09:00",
-    "last_seen": "2026-10-27",
-    "title": "Apple Watch Series 11(GPSモデル)- 42mmジェットブラックアルミニウムケースとブラックスポーツバンド - M/L、睡眠時無呼吸、高血圧パターン、血中酸素、心電図、排卵推定、心拍数、服薬、マインドフルネス、ノイズ、睡眠スコア、転倒検出、IPX6X防塵、泳げる耐水、Suica対応、高速充電対応",
-    "percent_off": 8
-  },
-  "B0FRZ2CMR8": {
-    "first_seen": "2026-10-26",
-    "first_seen_at": "2026-10-26T22:25:29+09:00",
-    "last_seen": "2026-10-27",
-    "title": "Apple Watch Series 11(GPSモデル)- 42mmジェットブラックアルミニウムケースとブラックスポーツバンド - M/L + 2年延長 AppleCare+ for Apple Watch Series 11",
-    "percent_off": 8
   },
   "B0DB1RBQM4": {
     "first_seen": "2026-10-13",
