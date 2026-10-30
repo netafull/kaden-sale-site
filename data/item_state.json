@@ -272,6 +272,34 @@
     "title": "Apple 2026 MacBook Pro 18コアCPU、20コアGPUのM5 Proチップ搭載ノートパソコン：AIのために設計、14.2インチLiquid Retina XDRディスプレイ、24GBユニファイドメモリ、2TBのSSDストレージ - スペースブラック + 3年延長 AppleCare+ for 14インチMacBook Pro(M5 Pro/M5 Max)|ダウンロード版",
     "percent_off": 5
   },
+  "B0GQW2J67Z": {
+    "first_seen": "2026-10-17",
+    "first_seen_at": "2026-10-17T22:15:06+09:00",
+    "last_seen": "2026-10-31",
+    "title": "Apple 11インチiPad Air（M4）：Liquid Retinaディスプレイ、256GB、12MPフロント/バックカメラ、Apple N1によるWi-Fi 7、Touch ID、一日中使えるバッテリー — スターライト",
+    "percent_off": null
+  },
+  "B0GQW5P438": {
+    "first_seen": "2026-10-31",
+    "first_seen_at": "2026-10-31T07:16:05+09:00",
+    "last_seen": "2026-10-31",
+    "title": "Apple 11インチiPad Air（M4）：Liquid Retinaディスプレイ、128GB、12MPフロント/バックカメラ、Apple N1によるWi-Fi 7、Touch ID、一日中使えるバッテリー — スターライト",
+    "percent_off": null
+  },
+  "B0GQWJCR4K": {
+    "first_seen": "2026-09-23",
+    "first_seen_at": "2026-09-23T17:14:35+09:00",
+    "last_seen": "2026-10-31",
+    "title": "Apple 11インチiPad Air（M4）：Liquid Retinaディスプレイ、128GB、12MPフロント/バックカメラ、Apple N1によるWi-Fi 7、Touch ID、一日中使えるバッテリー — スペースグレイ",
+    "percent_off": null
+  },
+  "B0GQWWWH1T": {
+    "first_seen": "2026-10-13",
+    "first_seen_at": "2026-10-13T10:16:05+09:00",
+    "last_seen": "2026-10-31",
+    "title": "Apple 11インチiPad Air（M4）：Liquid Retinaディスプレイ、256GB、12MPフロント/バックカメラ、Apple N1によるWi-Fi 7、Touch ID、一日中使えるバッテリー — スペースグレイ",
+    "percent_off": null
+  },
   "B0BRXQYJFN": {
     "first_seen": "2026-10-17",
     "first_seen_at": "2026-10-17T19:16:01+09:00",
@@ -440,25 +468,11 @@
     "title": "UGREEN Nexode 急速 充電器 65W Type-C 2C1A 3ポート PD/PPS 4.5A/QC3.0/SCP/FCP対応 折り畳み式 | 3台同時充電 USB-C *2とUSB-A*1 GaNII技術 iPhone18/17/16/15/14/MacBook/iPad/Galaxy/Android/その他USB-Cデバイス PSE技術基準適合[2022レッド・ドット・デザイン賞]",
     "percent_off": 30
   },
-  "B0BF43HS1G": {
-    "first_seen": "2026-07-27",
-    "first_seen_at": "2026-07-27T12:00:00+09:00",
-    "last_seen": "2026-10-31",
-    "title": "Anker 523 Charger (Nano 3, 47W) ホワイト | 最大47W・USB-C 2ポートでスマホとタブレットを同時に急速充電。小型でもMacBook Airにも対応。USB-C 充電器 急速充電器 47W PD GaN iPhone iPad",
-    "percent_off": 30
-  },
   "B07K13Z1Q4": {
     "first_seen": "2026-10-17",
     "first_seen_at": "2026-10-17T23:15:03+09:00",
     "last_seen": "2026-10-31",
     "title": "Anker PowerPort mini 2個セット ホワイト | （USB充電器 12W 2ポート）【PSE技術基準適合/折りたたみ式プラグ/PowerIQ/超コンパクトサイズ 】iPhone iPad Android各種対応 ホワイト",
-    "percent_off": 30
-  },
-  "B0GF29FF6N": {
-    "first_seen": "2026-10-05",
-    "first_seen_at": "2026-10-05T00:14:58+09:00",
-    "last_seen": "2026-10-31",
-    "title": "Anker Nano Charger (45W, Display, スイングプラグ) ブルー | 45W USB-C急速充電器 充電状況が見えるディスプレイ搭載。iPhoneのモデルを検知し出力を最適化。180度スイングプラグ採用。iPhone iPad Galaxy MacBook Air対応 PSE技術基準適合",
     "percent_off": 30
   },
   "B0D8Q93VMG": {
@@ -838,6 +852,20 @@
     "last_seen": "2026-10-31",
     "title": "アイリスオーヤマ エア フライヤー 3L 過熱水蒸気式 | FV-M30A-C,1台5役,ほったらかし調理,ヘルシー調理,オリジナルレシピ公開中",
     "percent_off": 22
+  },
+  "B0BF43HS1G": {
+    "first_seen": "2026-07-27",
+    "first_seen_at": "2026-07-27T12:00:00+09:00",
+    "last_seen": "2026-10-31",
+    "title": "Anker 523 Charger (Nano 3, 47W) ホワイト | 最大47W・USB-C 2ポートでスマホとタブレットを同時に急速充電。小型でもMacBook Airにも対応。USB-C 充電器 急速充電器 47W PD GaN iPhone iPad",
+    "percent_off": 30
+  },
+  "B0GF29FF6N": {
+    "first_seen": "2026-10-05",
+    "first_seen_at": "2026-10-05T00:14:58+09:00",
+    "last_seen": "2026-10-31",
+    "title": "Anker Nano Charger (45W, Display, スイングプラグ) ブルー | 45W USB-C急速充電器 充電状況が見えるディスプレイ搭載。iPhoneのモデルを検知し出力を最適化。180度スイングプラグ採用。iPhone iPad Galaxy MacBook Air対応 PSE技術基準適合",
+    "percent_off": 30
   },
   "B0DZ7WF87P": {
     "first_seen": "2026-10-30",
@@ -2568,13 +2596,6 @@
     "title": "Apple iPhone Air 256GB (SIMフリー) | 最大120HzのProMotionを採用した6.5インチディスプレイ、パワフルなA19 Proチップ、センターフレームフロントカメラ、一日中使えるバッテリー；クラウドホワイト",
     "percent_off": 21
   },
-  "B0GQWWWH1T": {
-    "first_seen": "2026-10-13",
-    "first_seen_at": "2026-10-13T10:16:05+09:00",
-    "last_seen": "2026-10-19",
-    "title": "Apple 11インチiPad Air（M4）：Liquid Retinaディスプレイ、256GB、12MPフロント/バックカメラ、Apple N1によるWi-Fi 7、Touch ID、一日中使えるバッテリー — スペースグレイ",
-    "percent_off": 9
-  },
   "B07QJ6RZN6": {
     "first_seen": "2026-10-17",
     "first_seen_at": "2026-10-17T22:15:06+09:00",
@@ -3492,13 +3513,6 @@
     "title": "Apple 13インチiPad Air（M4）：Liquid Retinaディスプレイ、1TB、12MPフロント/バックカメラ、Apple N1によるWi-Fi 7、Touch ID、一日中使えるバッテリー — スターライト",
     "percent_off": 15
   },
-  "B0GQW2J67Z": {
-    "first_seen": "2026-10-17",
-    "first_seen_at": "2026-10-17T22:15:06+09:00",
-    "last_seen": "2026-10-19",
-    "title": "Apple 11インチiPad Air（M4）：Liquid Retinaディスプレイ、256GB、12MPフロント/バックカメラ、Apple N1によるWi-Fi 7、Touch ID、一日中使えるバッテリー — スターライト",
-    "percent_off": 9
-  },
   "B0BVKPXRDS": {
     "first_seen": "2026-10-16",
     "first_seen_at": "2026-10-16T19:15:14+09:00",
@@ -3750,13 +3764,6 @@
     "last_seen": "2026-10-18",
     "title": "ロジクール MX KEYS mini KX700PG ミニマリスト ワイヤレス イルミネイテッド キーボード ペイルグレー 充電式 bluetooth Logi Bolt Unifying非対応 USB-C-A 日本語配列 windows mac chrome ios Android 無線 KX700 国内正規品",
     "percent_off": 14
-  },
-  "B0GQWJCR4K": {
-    "first_seen": "2026-09-23",
-    "first_seen_at": "2026-09-23T17:14:35+09:00",
-    "last_seen": "2026-10-18",
-    "title": "Apple 11インチiPad Air（M4）：Liquid Retinaディスプレイ、128GB、12MPフロント/バックカメラ、Apple N1によるWi-Fi 7、Touch ID、一日中使えるバッテリー — スペースグレイ",
-    "percent_off": 10
   },
   "B0BHW435R7": {
     "first_seen": "2026-10-18",
