@@ -209,13 +209,6 @@
     "title": "Apple 2026 MacBook Air M5チップ搭載15インチノートブック：AIとApple Intelligence、15.3インチLiquid Retinaディスプレイ、24GBユニファイドメモリ、1TB SSD、12MPセンターフレームカメラ、Touch ID - ミッドナイト + 3年延長 AppleCare+ for 15インチMacBook Air(M5)|ダウンロード版",
     "percent_off": 7
   },
-  "B0DZ7WF87P": {
-    "first_seen": "2026-10-30",
-    "first_seen_at": "2026-10-30T17:14:51+09:00",
-    "last_seen": "2026-10-30",
-    "title": "Apple 11 インチ iPad (A16): 11 インチモデル、Liquid Retina ディスプレイ、128GB、Wi-Fi 6、12MP フロント/12MP バックカメラ、Touch ID、一日中使えるバ ッテリー - シルバー",
-    "percent_off": 5
-  },
   "B0FWDBWC7F": {
     "first_seen": "2026-10-22",
     "first_seen_at": "2026-10-22T00:16:22+09:00",
@@ -277,7 +270,7 @@
     "first_seen_at": "2026-10-17T03:14:59+09:00",
     "last_seen": "2026-10-30",
     "title": "Anker Soundcore Space One Pro ミッドナイトブラック | （Bluetooth 5.3 ワイヤレス ヘッドホン）【最大60時間音楽再生 / ウルトラノイズキャンセリング 3.5 / LDAC/ハイレゾ対応 （ワイヤレス/有線） / マルチポイント対応/外音取り込み/マイク内蔵】",
-    "percent_off": 16
+    "percent_off": null
   },
   "B0FCSGGHLL": {
     "first_seen": "2026-07-24",
@@ -307,6 +300,13 @@
     "title": "Belkin MagSafe対応 ワイヤレスモバイルバッテリー 5000mAh 最大7.5W キックスタンド付き ブラック | 7.5Wワイヤレス、USB-C最大15W、2台同時充電、PPS対応、パススルー充電、iPhone18~12・Android対応、カメラを妨げにくい薄型設計、PSE・中国CCC認証、1m USB-Cケーブル付属、2年保証・最大2,500米ドルCEW",
     "percent_off": 39
   },
+  "B0F37VLJQW": {
+    "first_seen": "2026-09-15",
+    "first_seen_at": "2026-09-15T02:14:33+09:00",
+    "last_seen": "2026-10-30",
+    "title": "UGREEN MagFlow Qi2 25W認証 モバイルバッテリー Magsafe マグネット式ワイヤレス急速充電 10000mAh 水色 | Qi 25W/PD 30W｜USB-Cケーブル内蔵｜iPhone18Pro/17/16シリーズ｜ディスプレイ搭載｜強力な吸着力｜PSE技術基準適合｜iOS 26バージョンのスマホ、磁力対応機種に適用 PB773",
+    "percent_off": 37
+  },
   "B0F6NFHB31": {
     "first_seen": "2026-07-25",
     "first_seen_at": "2026-07-25T12:00:00+09:00",
@@ -335,11 +335,11 @@
     "title": "UGREEN 100W モバイルバッテリー 20000mAh 大容量 3ポート USB-C×2Type-A×1 iPhone 18 Pro/Duo対応 | 急速充電対応 PD・PPS 2.0 パススルー/低電流モード PSE技術基準適合 MacBook/iPhone 18 Duo/17/16/15シリーズなど/スマホ/ノートPC/出張/防災/旅行対応 PB720【VGP2024受賞】",
     "percent_off": 30
   },
-  "B0G39944C8": {
-    "first_seen": "2026-10-30",
-    "first_seen_at": "2026-10-30T09:14:51+09:00",
+  "B0D9J5MSBH": {
+    "first_seen": "2026-10-15",
+    "first_seen_at": "2026-10-15T01:15:57+09:00",
     "last_seen": "2026-10-30",
-    "title": "UGREEN Nexode Wavy（燃えにくい薄型 安全情報見える化 10000mAh 45W コード付属）モバイルバッテリー ブラック PB603 | 3C認証／ディスプレイ搭載／BMSバッテリー監視／高安全性／ATLバッテリー寿命向上／ストラップ型／Dymondcell™難燃技術／MacBook／iPhone18～13／Xperia／Galaxy／Android／iPad／Switch 2に適用",
+    "title": "エレコム モバイルバッテリー 5000mAh ワイヤレス マグネット対応 7.5W スタンド付き Type-C ブラック DE-C53-5000BK",
     "percent_off": 25
   },
   "B0DSPVDYQ9": {
@@ -454,13 +454,6 @@
     "title": "Anker 313 Charger (Ace, 45W) ホワイト | (USB PD 充電器 USB-C) 【GaN(窒化ガリウム) II採用/USB PD対応/PPS規格対応/PSE技術基準適合/折りたたみ式プラグ】MacBook PD対応Windows PC iPhone iPad",
     "percent_off": 29
   },
-  "B0B2QQDKR8": {
-    "first_seen": "2026-10-29",
-    "first_seen_at": "2026-10-29T21:15:15+09:00",
-    "last_seen": "2026-10-30",
-    "title": "Anker 511 Charger (Nano 3, 30W) ブラック | (充電器 USB-C)【USB PD 対応/PSE技術基準適合/PPS規格対応】MacBook Windows PC iPad iphone 18 シリーズ Galaxy Android スマートフォン ノートPC 各種 その他機器対応 (ブラック)",
-    "percent_off": 29
-  },
   "B0DL993DZB": {
     "first_seen": "2026-10-16",
     "first_seen_at": "2026-10-16T19:15:14+09:00",
@@ -524,6 +517,13 @@
     "title": "Anker PowerWave 10 Stand | ワイヤレス充電器 Qi認証 iPhone 16シリーズ / 15シリーズ / 14シリーズ Galaxy 各種対応 最大10W出力",
     "percent_off": 20
   },
+  "B0C8HMLHTB": {
+    "first_seen": "2026-10-06",
+    "first_seen_at": "2026-10-06T03:15:02+09:00",
+    "last_seen": "2026-10-30",
+    "title": "エレコム 充電器 65W USB PD対応 3ポート Type-C USB-A 【 iPhone 16 15 14 iPad Macbook Air ノートPC】 ブラック EC-AC4465BK",
+    "percent_off": null
+  },
   "B06ZXXQGZ8": {
     "first_seen": "2026-10-13",
     "first_seen_at": "2026-10-13T00:16:25+09:00",
@@ -558,13 +558,6 @@
     "last_seen": "2026-10-30",
     "title": "Anker Nano Charger (45W, Display, スイングプラグ) ブラック | 45W USB-C急速充電器 充電状況が見えるディスプレイ搭載。iPhoneのモデルを検知し出力を最適化。180度スイングプラグ採用。iPhone iPad Galaxy MacBook Air対応 PSE技術基準適合",
     "percent_off": 30
-  },
-  "B0F2DW782K": {
-    "first_seen": "2026-10-30",
-    "first_seen_at": "2026-10-30T02:14:43+09:00",
-    "last_seen": "2026-10-30",
-    "title": "【Amazon.co.jp限定】Dell SE2225HM-A 21.5インチ モニター | 5年保証/FHD/VA,非光沢/HDMI1.4x1,VGAx1/傾き調整",
-    "percent_off": 21
   },
   "B0F7X3VJ99": {
     "first_seen": "2026-08-02",
@@ -685,6 +678,13 @@
     "title": "Ray-Ban Meta AIスマートグラス WAYFARER 12MPカメラ搭載 IPX4防水 最大48h駆動 フレーム/SHINY BLACK (シャイニーブラック) レンズ/ G15 GREEN (グリーン) レンズ横幅50mm 0RW4012 601/7150",
     "percent_off": 27
   },
+  "B0GVJG7D7K": {
+    "first_seen": "2026-07-31",
+    "first_seen_at": "2026-07-31T12:00:00+09:00",
+    "last_seen": "2026-10-30",
+    "title": "VITURE Luma Ultra XR グラス & Pro ネックバンド 12GBメモリ＆256GB内蔵ストレージ セット マルチスクリーン/6DoF/ハンドジェスチャー/スムーズフォロー/アンビエントモード搭載 PXPlay & XBXPlay 公式対応ワイヤレスゲームストリーミングメガネ",
+    "percent_off": 19
+  },
   "B0C9D8VTH7": {
     "first_seen": "2026-09-26",
     "first_seen_at": "2026-09-26T01:14:49+09:00",
@@ -719,6 +719,13 @@
     "last_seen": "2026-10-30",
     "title": "サンワサプライ(Sanwa Supply) ワイヤレスキーボード SKB-WL39BK",
     "percent_off": 37
+  },
+  "B0GL1B1L6Y": {
+    "first_seen": "2026-10-29",
+    "first_seen_at": "2026-10-29T23:15:00+09:00",
+    "last_seen": "2026-10-30",
+    "title": "東プレ REALFORCE GX1 Plus サザビー 日本語配列 ゲーミングキーボード X1PCS1",
+    "percent_off": 36
   },
   "B0FL6ZD3WL": {
     "first_seen": "2026-07-29",
@@ -755,26 +762,12 @@
     "title": "東プレ GX1 Keyboard 獅白ぼたん モデル 日本語配列 REALFORCE ゲーミングキーボード TKL 91キー X1UCS1 KB0911",
     "percent_off": 26
   },
-  "B0GL1G8PQZ": {
-    "first_seen": "2026-10-30",
-    "first_seen_at": "2026-10-30T18:15:39+09:00",
-    "last_seen": "2026-10-30",
-    "title": "東プレ REALFORCE GX1 Plus νガンダム (ニューガンダム) 日本語配列 ゲーミングキーボード X1PCN1",
-    "percent_off": 25
-  },
   "B0B8NLL6B6": {
     "first_seen": "2026-08-02",
     "first_seen_at": "2026-08-02T18:25:14+09:00",
     "last_seen": "2026-10-30",
     "title": "サンワサプライ USBハブ付コンパクトキーボード SKB-KG3UH2BK ブラック テンキーなし",
     "percent_off": 24
-  },
-  "B08K2RGTHY": {
-    "first_seen": "2026-07-26",
-    "first_seen_at": "2026-07-26T12:00:00+09:00",
-    "last_seen": "2026-10-30",
-    "title": "ロジクール ワイヤレスマウス キーボード セット MK295GP 静音 耐水 国内正規品 | 無線、USBレシーバー接続、Unifying非対応、グラファイト、MK295",
-    "percent_off": 23
   },
   "B00FJ0GDLQ": {
     "first_seen": "2026-09-26",
@@ -839,19 +832,61 @@
     "title": "エレコム USB キーボード ワイヤレス (レシーバー付属) メンブレン コンパクトキーボード ブラック TK-FDM105TXBK",
     "percent_off": 14
   },
+  "B0G4CC1S2F": {
+    "first_seen": "2026-10-30",
+    "first_seen_at": "2026-10-30T19:14:56+09:00",
+    "last_seen": "2026-10-30",
+    "title": "アイリスオーヤマ エア フライヤー 3L 過熱水蒸気式 | FV-M30A-C,1台5役,ほったらかし調理,ヘルシー調理,オリジナルレシピ公開中",
+    "percent_off": 22
+  },
+  "B0DZ7WF87P": {
+    "first_seen": "2026-10-30",
+    "first_seen_at": "2026-10-30T17:14:51+09:00",
+    "last_seen": "2026-10-30",
+    "title": "Apple 11 インチ iPad (A16): 11 インチモデル、Liquid Retina ディスプレイ、128GB、Wi-Fi 6、12MP フロント/12MP バックカメラ、Touch ID、一日中使えるバ ッテリー - シルバー",
+    "percent_off": 5
+  },
+  "B0G39944C8": {
+    "first_seen": "2026-10-30",
+    "first_seen_at": "2026-10-30T09:14:51+09:00",
+    "last_seen": "2026-10-30",
+    "title": "UGREEN Nexode Wavy（燃えにくい薄型 安全情報見える化 10000mAh 45W コード付属）モバイルバッテリー ブラック PB603 | 3C認証／ディスプレイ搭載／BMSバッテリー監視／高安全性／ATLバッテリー寿命向上／ストラップ型／Dymondcell™難燃技術／MacBook／iPhone18～13／Xperia／Galaxy／Android／iPad／Switch 2に適用",
+    "percent_off": 25
+  },
+  "B0B2QQDKR8": {
+    "first_seen": "2026-10-29",
+    "first_seen_at": "2026-10-29T21:15:15+09:00",
+    "last_seen": "2026-10-30",
+    "title": "Anker 511 Charger (Nano 3, 30W) ブラック | (充電器 USB-C)【USB PD 対応/PSE技術基準適合/PPS規格対応】MacBook Windows PC iPad iphone 18 シリーズ Galaxy Android スマートフォン ノートPC 各種 その他機器対応 (ブラック)",
+    "percent_off": 29
+  },
+  "B0F2DW782K": {
+    "first_seen": "2026-10-30",
+    "first_seen_at": "2026-10-30T02:14:43+09:00",
+    "last_seen": "2026-10-30",
+    "title": "【Amazon.co.jp限定】Dell SE2225HM-A 21.5インチ モニター | 5年保証/FHD/VA,非光沢/HDMI1.4x1,VGAx1/傾き調整",
+    "percent_off": 21
+  },
+  "B0GL1G8PQZ": {
+    "first_seen": "2026-10-30",
+    "first_seen_at": "2026-10-30T18:15:39+09:00",
+    "last_seen": "2026-10-30",
+    "title": "東プレ REALFORCE GX1 Plus νガンダム (ニューガンダム) 日本語配列 ゲーミングキーボード X1PCN1",
+    "percent_off": 25
+  },
+  "B08K2RGTHY": {
+    "first_seen": "2026-07-26",
+    "first_seen_at": "2026-07-26T12:00:00+09:00",
+    "last_seen": "2026-10-30",
+    "title": "ロジクール ワイヤレスマウス キーボード セット MK295GP 静音 耐水 国内正規品 | 無線、USBレシーバー接続、Unifying非対応、グラファイト、MK295",
+    "percent_off": 23
+  },
   "B0H3TMF8K4": {
     "first_seen": "2026-10-17",
     "first_seen_at": "2026-10-17T19:16:01+09:00",
     "last_seen": "2026-10-30",
     "title": "アイリスオーヤマ コンベクションオーブン オーヤマくん ノンフライヤー 2026年モデル トースター 低温調理 15L FVC-D15C-H | 大容量,パン作り,揚げ物,惣菜,焼き魚,パン,ケーキ,クッキー,食パン4枚焼き,ピザ",
     "percent_off": 17
-  },
-  "B0GL1B1L6Y": {
-    "first_seen": "2026-10-29",
-    "first_seen_at": "2026-10-29T23:15:00+09:00",
-    "last_seen": "2026-10-30",
-    "title": "東プレ REALFORCE GX1 Plus サザビー 日本語配列 ゲーミングキーボード X1PCS1",
-    "percent_off": 36
   },
   "B0DGJ63QY8": {
     "first_seen": "2026-09-14",
@@ -1175,13 +1210,6 @@
     "title": "Anker 511 Charger (Nano 3, 30W) ブルー | 30W USB-C急速充電器 手のひらサイズでノートPCにも給電。GaN採用で折りたたみ式プラグ搭載。PD PPS対応 MacBook Air iPhone iPad Galaxy Pixel対応 PSE技術基準適合",
     "percent_off": 29
   },
-  "B0C8HMLHTB": {
-    "first_seen": "2026-10-06",
-    "first_seen_at": "2026-10-06T03:15:02+09:00",
-    "last_seen": "2026-10-29",
-    "title": "エレコム 充電器 65W USB PD対応 3ポート Type-C USB-A 【 iPhone 16 15 14 iPad Macbook Air ノートPC】 ブラック EC-AC4465BK",
-    "percent_off": null
-  },
   "B0FQGJ91GZ": {
     "first_seen": "2026-09-24",
     "first_seen_at": "2026-09-24T23:14:59+09:00",
@@ -1195,20 +1223,6 @@
     "last_seen": "2026-10-29",
     "title": "Apple Watch Series 11(GPSモデル)- 46mmスペースグレイアルミニウムケースとブラックスポーツバンド - M/L + 2年延長 AppleCare+ for Apple Watch Series 11",
     "percent_off": 6
-  },
-  "B0F37VLJQW": {
-    "first_seen": "2026-09-15",
-    "first_seen_at": "2026-09-15T02:14:33+09:00",
-    "last_seen": "2026-10-29",
-    "title": "UGREEN MagFlow Qi2 25W認証 モバイルバッテリー Magsafe マグネット式ワイヤレス急速充電 10000mAh 水色 | Qi 25W/PD 30W｜USB-Cケーブル内蔵｜iPhone18Pro/17/16シリーズ｜ディスプレイ搭載｜強力な吸着力｜PSE技術基準適合｜iOS 26バージョンのスマホ、磁力対応機種に適用 PB773",
-    "percent_off": 37
-  },
-  "B0GVJG7D7K": {
-    "first_seen": "2026-07-31",
-    "first_seen_at": "2026-07-31T12:00:00+09:00",
-    "last_seen": "2026-10-29",
-    "title": "VITURE Luma Ultra XR グラス & Pro ネックバンド 12GBメモリ＆256GB内蔵ストレージ セット マルチスクリーン/6DoF/ハンドジェスチャー/スムーズフォロー/アンビエントモード搭載 PXPlay & XBXPlay 公式対応ワイヤレスゲームストリーミングメガネ",
-    "percent_off": 19
   },
   "B0B5QKMCZD": {
     "first_seen": "2026-10-19",
@@ -1461,13 +1475,6 @@
     "last_seen": "2026-10-28",
     "title": "Apple Watch SE 3(GPSモデル)- 40mmミッドナイトアルミニウムケースとミッドナイトスポーツバンド - S/M + 2年延長 AppleCare+ for Apple Watch SE 第3世代",
     "percent_off": 9
-  },
-  "B0D9J5MSBH": {
-    "first_seen": "2026-10-15",
-    "first_seen_at": "2026-10-15T01:15:57+09:00",
-    "last_seen": "2026-10-28",
-    "title": "エレコム モバイルバッテリー 5000mAh ワイヤレス マグネット対応 7.5W スタンド付き Type-C ブラック DE-C53-5000BK",
-    "percent_off": 24
   },
   "B0GQWBTXPR": {
     "first_seen": "2026-10-26",
