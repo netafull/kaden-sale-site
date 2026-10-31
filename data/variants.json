@@ -1170,8 +1170,8 @@
     },
     "B0F4WHB7NB": {
      "last_seen": "2026-10-31",
-     "pct": 4,
-     "points_pct": 0
+     "pct": null,
+     "points_pct": null
     },
     "B0F4WHFY47": {
      "last_seen": "2026-10-31",
@@ -1710,7 +1710,7 @@
    "aliases": {},
    "genre": "Apple製品",
    "label": "Apple Watch Band - スポーツバンド - （40mm）ケース用 ",
-   "last_sweep_at": "2026-10-31T11:07:13+09:00",
+   "last_sweep_at": "2026-10-31T17:07:13+09:00",
    "members": {
     "B0FQFM1QKM": {
      "last_seen": "2026-10-31",
@@ -3605,8 +3605,8 @@
     },
     "B0GR1Q5WHT": {
      "last_seen": "2026-10-31",
-     "pct": 8,
-     "points_pct": 0
+     "pct": 0,
+     "points_pct": 1
     },
     "B0GR1RYD3V": {
      "last_seen": "2026-10-31",
@@ -3675,7 +3675,7 @@
     },
     "B0GRTVRZWP": {
      "last_seen": "2026-10-31",
-     "pct": 7,
+     "pct": 1,
      "points_pct": 0
     },
     "B0GRTWCKWK": {
@@ -4231,7 +4231,7 @@
     "B0HJB343DH": {
      "last_seen": "2026-10-31",
      "pct": 0,
-     "points_pct": 3
+     "points_pct": 4
     },
     "B0HJB34QFS": {
      "last_seen": "2026-10-31",
@@ -4281,7 +4281,7 @@
     "B0HJB7NN4W": {
      "last_seen": "2026-10-31",
      "pct": 0,
-     "points_pct": 3
+     "points_pct": 4
     },
     "B0HJB93F4G": {
      "last_seen": "2026-10-31",
@@ -4291,7 +4291,7 @@
     "B0HJB9T11W": {
      "last_seen": "2026-10-31",
      "pct": 0,
-     "points_pct": 3
+     "points_pct": 4
     },
     "B0HJBB1Z5L": {
      "last_seen": "2026-10-31",
@@ -4372,7 +4372,7 @@
     "B0HJ9V2FK4": {
      "last_seen": "2026-10-31",
      "pct": 0,
-     "points_pct": 3
+     "points_pct": 4
     },
     "B0HJ9VPLKQ": {
      "last_seen": "2026-10-31",
@@ -4533,7 +4533,7 @@
     "B0HJBHDFY6": {
      "last_seen": "2026-10-31",
      "pct": 0,
-     "points_pct": 3
+     "points_pct": 4
     }
    },
    "no_variations": false,
@@ -4684,7 +4684,7 @@
    "aliases": {},
    "genre": "Apple製品",
    "label": "Apple AirPods 4 アクティブノイズ キャンセリング搭載、ワイヤレス",
-   "last_sweep_at": "2026-10-31T10:07:12+09:00",
+   "last_sweep_at": "2026-10-31T17:07:13+09:00",
    "members": {
     "B0DGJ63QY8": {
      "last_seen": "2026-10-31",
