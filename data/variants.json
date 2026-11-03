@@ -3292,7 +3292,7 @@
    "aliases": {},
    "genre": "Apple製品",
    "label": "Apple 13インチiPad Air（M4）：Liquid Retinaディス",
-   "last_sweep_at": "2026-11-03T12:07:14+09:00",
+   "last_sweep_at": "2026-11-03T19:07:14+09:00",
    "members": {
     "B0GQW7QF6T": {
      "last_seen": "2026-11-03",
@@ -3567,13 +3567,13 @@
    },
    "no_variations": false,
    "seed": "B0GQW7QF6T",
-   "variation_count": 33
+   "variation_count": 30
   },
   "B0GR526ZC3": {
    "aliases": {},
    "genre": "Apple製品",
    "label": "Apple 2026 MacBook Air M5チップ搭載15インチノートブッ",
-   "last_sweep_at": "2026-11-03T12:07:14+09:00",
+   "last_sweep_at": "2026-11-03T19:07:14+09:00",
    "members": {
     "B0GR1JD976": {
      "last_seen": "2026-11-03",
@@ -3706,7 +3706,7 @@
    },
    "genre": "Apple製品",
    "label": "Apple 2026 MacBook Air M5チップ搭載13インチノートブッ",
-   "last_sweep_at": "2026-11-03T12:07:14+09:00",
+   "last_sweep_at": "2026-11-03T19:07:14+09:00",
    "members": {
     "B0GR1LGT2H": {
      "last_seen": "2026-11-03",
@@ -3721,7 +3721,7 @@
     "B0GR1PWX8D": {
      "last_seen": "2026-11-03",
      "pct": 0,
-     "points_pct": 2
+     "points_pct": 1
     },
     "B0GR1PZQ8G": {
      "last_seen": "2026-11-03",
@@ -4674,7 +4674,7 @@
     "B0HJ9ZYXPV": "2026-10-29",
     "B0HJB4LCRD": "2026-10-24",
     "B0HJB65BLC": "2026-10-30",
-    "B0HJBCT1D5": "2026-11-02"
+    "B0HJBCT1D5": "2026-11-03"
    },
    "genre": "Apple製品",
    "label": "Apple iPhone 18 Pro Max (2 TB) - バーガンディ",
@@ -4729,7 +4729,7 @@
    "aliases": {},
    "genre": "Apple製品",
    "label": "Apple AirPods 4 アクティブノイズ キャンセリング搭載、ワイヤレス",
-   "last_sweep_at": "2026-11-03T12:07:14+09:00",
+   "last_sweep_at": "2026-11-03T19:07:14+09:00",
    "members": {
     "B0DGJ63QY8": {
      "last_seen": "2026-11-03",
