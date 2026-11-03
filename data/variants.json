@@ -1056,8 +1056,8 @@
     },
     "B0FWDFGWTT": {
      "last_seen": "2026-11-04",
-     "pct": 23,
-     "points_pct": 0
+     "pct": 0,
+     "points_pct": 1
     },
     "B0FWDMTVRS": {
      "last_seen": "2026-11-04",
@@ -3267,12 +3267,12 @@
    "aliases": {},
    "genre": "Apple製品",
    "label": "Apple 13インチiPad Air（M4）：Liquid Retinaディス",
-   "last_sweep_at": "2026-11-04T01:07:14+09:00",
+   "last_sweep_at": "2026-11-04T07:07:17+09:00",
    "members": {
     "B0GQW7QF6T": {
      "last_seen": "2026-11-04",
      "pct": 0,
-     "points_pct": 1
+     "points_pct": 0
     },
     "B0GQWBPTGB": {
      "last_seen": "2026-11-02",
@@ -3548,7 +3548,7 @@
    "aliases": {},
    "genre": "Apple製品",
    "label": "Apple 2026 MacBook Air M5チップ搭載15インチノートブッ",
-   "last_sweep_at": "2026-11-04T01:07:14+09:00",
+   "last_sweep_at": "2026-11-04T07:07:17+09:00",
    "members": {
     "B0GR1JD976": {
      "last_seen": "2026-11-04",
@@ -3681,7 +3681,7 @@
    },
    "genre": "Apple製品",
    "label": "Apple 2026 MacBook Air M5チップ搭載13インチノートブッ",
-   "last_sweep_at": "2026-11-04T01:07:14+09:00",
+   "last_sweep_at": "2026-11-04T07:07:17+09:00",
    "members": {
     "B0GR1LGT2H": {
      "last_seen": "2026-11-04",
@@ -4694,7 +4694,7 @@
    "aliases": {},
    "genre": "Apple製品",
    "label": "Apple AirPods 4 アクティブノイズ キャンセリング搭載、ワイヤレス",
-   "last_sweep_at": "2026-11-04T01:07:14+09:00",
+   "last_sweep_at": "2026-11-04T07:07:17+09:00",
    "members": {
     "B0DGJ63QY8": {
      "last_seen": "2026-11-04",
