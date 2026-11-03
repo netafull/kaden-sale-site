@@ -139,13 +139,6 @@
     "title": "Apple 2024 iMac 8 コア CPU、8 コア GPU の M4 チップ搭載オールインワンデスクト ップコンピュータ: Apple Intelligence のために設計、24 インチ Retina ディスプレイ、 16GBユニファイドメモリ、256GBの SSD ストレージ、ボディと同じカラーの アクセサリ、iPhone や iPad との連係機能 - ピンク",
     "percent_off": 7
   },
-  "B0DL75NDN8": {
-    "first_seen": "2026-11-03",
-    "first_seen_at": "2026-11-03T02:15:59+09:00",
-    "last_seen": "2026-11-03",
-    "title": "Apple 2024 iMac 8 コア CPU、8 コア GPU の M4 チップ搭載オールインワンデスクト ップコンピュータ: Apple Intelligence のために設計、24 インチ Retina ディスプレイ、 16GBユニファイドメモリ、256GBの SSD ストレージ、ボディと同じカラーの アクセサリ、iPhone や iPad との連係機能 - シルバー",
-    "percent_off": 7
-  },
   "B0DL783NXK": {
     "first_seen": "2026-10-10",
     "first_seen_at": "2026-10-10T06:15:04+09:00",
@@ -370,20 +363,6 @@
     "title": "ソニー(SONY) 完全ワイヤレスイヤホン WF-C510 / 軽量小型4.6g / 高精度通話品質/外音取り込み対応/マルチポイント対応 / IPX4防滴性能 / ブラック/WF-C510 BC",
     "percent_off": 21
   },
-  "B071G7JJRL": {
-    "first_seen": "2026-11-01",
-    "first_seen_at": "2026-11-01T16:15:01+09:00",
-    "last_seen": "2026-11-03",
-    "title": "ソニー(SONY) 有線イヤホン MDR-EX155 : カナル型 ライトブルー MDR-EX155 L",
-    "percent_off": 17
-  },
-  "B072MMRMFL": {
-    "first_seen": "2026-11-02",
-    "first_seen_at": "2026-11-02T14:15:20+09:00",
-    "last_seen": "2026-11-03",
-    "title": "ソニー(SONY) 有線イヤホン MDR-EX155 : カナル型 ライトピンク MDR-EX155 P",
-    "percent_off": 16
-  },
   "B0FCSGGHLL": {
     "first_seen": "2026-07-24",
     "first_seen_at": "2026-07-24T12:00:00+09:00",
@@ -398,13 +377,6 @@
     "title": "CIO モバイルバッテリー PD急速充電 USB-C×2 8000mAh 30W SMARTCOBY SLIMⅡ Pro 8K (シルバー) | スマホ対応, タブレット対応, パススルー充電対応, 薄型軽量, 持ち運びやすい",
     "percent_off": null
   },
-  "B0B6DLWMJF": {
-    "first_seen": "2026-08-25",
-    "first_seen_at": "2026-08-25T13:56:30+09:00",
-    "last_seen": "2026-11-03",
-    "title": "Belkin MagSafe対応 ワイヤレスモバイルバッテリー 5000mAh 最大7.5W キックスタンド付き ブラック | 7.5Wワイヤレス、USB-C最大15W、2台同時充電、PPS対応、パススルー充電、iPhone18~12・Android対応、カメラを妨げにくい薄型設計、PSE・中国CCC認証、1m USB-Cケーブル付属、2年保証・最大2,500米ドルCEW",
-    "percent_off": 39
-  },
   "B0FRSR6BVR": {
     "first_seen": "2026-08-07",
     "first_seen_at": "2026-08-07T22:31:51+09:00",
@@ -418,6 +390,13 @@
     "last_seen": "2026-11-03",
     "title": "エレコム モバイルバッテリー 5000mAh ワイヤレス マグネット対応 7.5W スタンド付き Type-C ブラック DE-C53-5000BK",
     "percent_off": 29
+  },
+  "B0CZPTG7H8": {
+    "first_seen": "2026-10-29",
+    "first_seen_at": "2026-10-29T21:15:15+09:00",
+    "last_seen": "2026-11-03",
+    "title": "エレコム モバイルバッテリー 15W 5000mAh Type-C 1ポート 入出力 小型 軽量 【 iPhone15 Pixel OPPO 等対応】 しろちゃん EC-C15WF",
+    "percent_off": 23
   },
   "B0F6NFHB31": {
     "first_seen": "2026-07-25",
@@ -769,19 +748,19 @@
     "title": "【リニューアル】 エレコム ワイヤレスマウス 静音 充電式 OSMOD Six Bluetooth 無線2.4GHz両対応 2台まで接続 マルチペアリング 6ボタン ブラック M-MY35MBSABK",
     "percent_off": 25
   },
-  "B0B8NLL6B6": {
-    "first_seen": "2026-08-02",
-    "first_seen_at": "2026-08-02T18:25:14+09:00",
-    "last_seen": "2026-11-03",
-    "title": "サンワサプライ USBハブ付コンパクトキーボード SKB-KG3UH2BK ブラック テンキーなし",
-    "percent_off": 24
-  },
   "B0DPF33WVV": {
     "first_seen": "2026-09-17",
     "first_seen_at": "2026-09-17T00:14:58+09:00",
     "last_seen": "2026-11-03",
     "title": "東プレ GX1 Keyboard 獅白ぼたん モデル 日本語配列 REALFORCE ゲーミングキーボード TKL 91キー X1UCS1 KB0911",
     "percent_off": 25
+  },
+  "B0B8NLL6B6": {
+    "first_seen": "2026-08-02",
+    "first_seen_at": "2026-08-02T18:25:14+09:00",
+    "last_seen": "2026-11-03",
+    "title": "サンワサプライ USBハブ付コンパクトキーボード SKB-KG3UH2BK ブラック テンキーなし",
+    "percent_off": 24
   },
   "B08K2RGTHY": {
     "first_seen": "2026-07-26",
@@ -894,6 +873,34 @@
     "last_seen": "2026-11-03",
     "title": "アイリスオーヤマ エア フライヤー 3L 過熱水蒸気式 | FV-M30A-C,1台5役,ほったらかし調理,ヘルシー調理,オリジナルレシピ公開中",
     "percent_off": 22
+  },
+  "B0DL75NDN8": {
+    "first_seen": "2026-11-03",
+    "first_seen_at": "2026-11-03T02:15:59+09:00",
+    "last_seen": "2026-11-03",
+    "title": "Apple 2024 iMac 8 コア CPU、8 コア GPU の M4 チップ搭載オールインワンデスクト ップコンピュータ: Apple Intelligence のために設計、24 インチ Retina ディスプレイ、 16GBユニファイドメモリ、256GBの SSD ストレージ、ボディと同じカラーの アクセサリ、iPhone や iPad との連係機能 - シルバー",
+    "percent_off": 7
+  },
+  "B071G7JJRL": {
+    "first_seen": "2026-11-01",
+    "first_seen_at": "2026-11-01T16:15:01+09:00",
+    "last_seen": "2026-11-03",
+    "title": "ソニー(SONY) 有線イヤホン MDR-EX155 : カナル型 ライトブルー MDR-EX155 L",
+    "percent_off": 17
+  },
+  "B072MMRMFL": {
+    "first_seen": "2026-11-02",
+    "first_seen_at": "2026-11-02T14:15:20+09:00",
+    "last_seen": "2026-11-03",
+    "title": "ソニー(SONY) 有線イヤホン MDR-EX155 : カナル型 ライトピンク MDR-EX155 P",
+    "percent_off": 16
+  },
+  "B0B6DLWMJF": {
+    "first_seen": "2026-08-25",
+    "first_seen_at": "2026-08-25T13:56:30+09:00",
+    "last_seen": "2026-11-03",
+    "title": "Belkin MagSafe対応 ワイヤレスモバイルバッテリー 5000mAh 最大7.5W キックスタンド付き ブラック | 7.5Wワイヤレス、USB-C最大15W、2台同時充電、PPS対応、パススルー充電、iPhone18~12・Android対応、カメラを妨げにくい薄型設計、PSE・中国CCC認証、1m USB-Cケーブル付属、2年保証・最大2,500米ドルCEW",
+    "percent_off": 39
   },
   "B0DDCR5WYQ": {
     "first_seen": "2026-11-03",
@@ -1859,13 +1866,6 @@
     "first_seen_at": "2026-09-22T21:14:54+09:00",
     "last_seen": "2026-10-29",
     "title": "Logicool G ゲーミングマウス G304 LIGHTSPEED ワイヤレスマウス ライラック 軽量 99g 国内正規品 | HERO 12Kセンサー, 6個プログラムボタン, 250時間連続使用可能,PC ,windows, mac, 軽量マウス, PCゲーミングマウス,マウス, ファイナルファンタジー XIV 推奨モデル",
-    "percent_off": 18
-  },
-  "B0CZPTG7H8": {
-    "first_seen": "2026-10-29",
-    "first_seen_at": "2026-10-29T21:15:15+09:00",
-    "last_seen": "2026-10-29",
-    "title": "エレコム モバイルバッテリー 15W 5000mAh Type-C 1ポート 入出力 小型 軽量 【 iPhone15 Pixel OPPO 等対応】 しろちゃん EC-C15WF",
     "percent_off": 18
   },
   "B0FQTLFFXP": {
