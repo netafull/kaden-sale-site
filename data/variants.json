@@ -591,6 +591,16 @@
    "seed": "B0DL6YXPCW",
    "variation_count": null
   },
+  "B0DL79YQRH": {
+   "aliases": {},
+   "genre": "Apple製品",
+   "label": "Appleシリコン搭載Macモデル用Touch ID搭載Magic Keyboa",
+   "last_sweep_at": "2026-11-04T15:07:15+09:00",
+   "members": {},
+   "no_variations": true,
+   "seed": "B0DL79YQRH",
+   "variation_count": null
+  },
   "B0DL93J5PN": {
    "aliases": {},
    "genre": "Apple製品",
@@ -970,6 +980,16 @@
    "no_variations": false,
    "seed": "B0D3J7HJYN",
    "variation_count": 14
+  },
+  "B0DWXHXXW5": {
+   "aliases": {},
+   "genre": "Apple製品",
+   "label": "Apple Magic Keyboard（テンキー付き）- 日本語（JIS） -",
+   "last_sweep_at": "2026-11-04T15:07:15+09:00",
+   "members": {},
+   "no_variations": true,
+   "seed": "B0DWXHXXW5",
+   "variation_count": null
   },
   "B0DZC8M8W8": {
    "aliases": {
@@ -3782,7 +3802,7 @@
    "aliases": {},
    "genre": "Apple製品",
    "label": "Apple AirPods Max 2 - スターライト",
-   "last_sweep_at": "2026-11-04T09:07:13+09:00",
+   "last_sweep_at": "2026-11-04T15:07:15+09:00",
    "members": {
     "B0GSS8DBTH": {
      "last_seen": "2026-11-04",
@@ -4187,6 +4207,16 @@
    "members": {},
    "no_variations": true,
    "seed": "B0HC7QHPQT",
+   "variation_count": null
+  },
+  "B0HGGTS7VZ": {
+   "aliases": {},
+   "genre": "Apple製品",
+   "label": "Apple Appleシリコン搭載Macモデル用Touch ID搭載Magic ",
+   "last_sweep_at": "2026-11-04T15:07:15+09:00",
+   "members": {},
+   "no_variations": true,
+   "seed": "B0HGGTS7VZ",
    "variation_count": null
   },
   "B0HJBYHPRM": {
@@ -4726,7 +4756,7 @@
    "aliases": {},
    "genre": "Apple製品",
    "label": "Apple Watch Band - ミラネーゼループ - （46mm）ケース用",
-   "last_sweep_at": "2026-11-04T09:07:13+09:00",
+   "last_sweep_at": "2026-11-04T15:07:15+09:00",
    "members": {
     "B0FQFMCFQ9": {
      "last_seen": "2026-11-04",
