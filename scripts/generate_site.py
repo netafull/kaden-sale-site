@@ -530,7 +530,6 @@ gtag('config', '{esc(ga_id)}');
 <header>
 <h1><a href="./" data-google-vignette="false"><img src="assets/logo.png" alt="" width="32" height="32">{esc(CONFIG["site_title"])}</a></h1>
 <p>{esc(CONFIG["site_description"])} ｜ {esc(threshold_note)} ｜ 最終更新: {updated}</p>
-{related_html}
 </header>
 {header_ad}
 {tabs_html}
