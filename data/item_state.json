@@ -307,6 +307,13 @@
     "title": "Apple 2026 MacBook Air M5チップ搭載13インチノートブック：AIとApple Intelligence、13.6インチLiquid Retinaディスプレイ、16GBユニファイドメモリ、512GB SSDストレージ、12MPセンターフレームカメラ、日本語キーボード、Touch ID - スターライト",
     "percent_off": null
   },
+  "B0GR1RPK7S": {
+    "first_seen": "2026-11-06",
+    "first_seen_at": "2026-11-06T11:15:52+09:00",
+    "last_seen": "2026-11-06",
+    "title": "Apple 2026 MacBook Air M5チップ搭載13インチノートブック：AIとApple Intelligence、13.6インチLiquid Retinaディスプレイ、16GBユニファイドメモリ、512GB SSDストレージ、12MPセンターフレームカメラ、日本語キーボード、Touch ID - スカイブルー",
+    "percent_off": null
+  },
   "B0GR1T11D6": {
     "first_seen": "2026-10-31",
     "first_seen_at": "2026-10-31T20:16:18+09:00",
@@ -340,7 +347,7 @@
     "first_seen_at": "2026-11-01T02:15:45+09:00",
     "last_seen": "2026-11-06",
     "title": "ソニー(SONY) WF-C710N ブラック ワイヤレスイヤホン 高性能ノイズキャンセリング Bluetoothロングバッテリー 外音取り込み IPX4防滴性能 軽量 コンパクト マルチポイント接続",
-    "percent_off": 28
+    "percent_off": 27
   },
   "B0FPQN7DBD": {
     "first_seen": "2026-10-14",
@@ -396,7 +403,7 @@
     "first_seen_at": "2026-08-16T23:40:53+09:00",
     "last_seen": "2026-11-06",
     "title": "ソニー(SONY) 完全ワイヤレスイヤホン WF-C510 / 軽量小型4.6g / 高精度通話品質/外音取り込み対応/マルチポイント対応 / IPX4防滴性能 / ブラック/WF-C510 BC",
-    "percent_off": 16
+    "percent_off": 15
   },
   "B0FCSGGHLL": {
     "first_seen": "2026-07-24",
@@ -720,13 +727,6 @@
     "title": "Anker Zolo Charger (50W, 4 Ports) ブラック | 最大50W・4ポートでスマホやタブレットをまとめて充電。複数の充電器を1台に集約。USB-C 充電器 急速充電器 50W PD 充電器 iPhone iPad 4ポート",
     "percent_off": 17
   },
-  "B0CTJDLWV4": {
-    "first_seen": "2026-11-04",
-    "first_seen_at": "2026-11-04T22:14:46+09:00",
-    "last_seen": "2026-11-06",
-    "title": "エレコム 充電器 65W USB PD対応 小型 Type-C 1ポート PPS対応 GaN II採用 PSE認証 ブラック 【iPhone 16 15 iPad Macbook 等対応】 EC-AC8565BK",
-    "percent_off": 17
-  },
   "B0FBM6X15S": {
     "first_seen": "2026-11-04",
     "first_seen_at": "2026-11-04T00:15:51+09:00",
@@ -846,19 +846,19 @@
     "title": "SwitchBot スイッチボット スイッチ ボタンに適用 指ロボット スマートスイッチ スマートホーム ワイヤレス タイマー スマホで遠隔操作 Alexa, Google Home, Siri, IFTTTなどに対応(ハブ必要) ホワイト",
     "percent_off": 27
   },
-  "B0DYD1R49S": {
-    "first_seen": "2026-11-06",
-    "first_seen_at": "2026-11-06T00:15:23+09:00",
-    "last_seen": "2026-11-06",
-    "title": "SwitchBot 空気清浄機Table スマートリモコン ハブ2 アレクサ - スイッチボット 25畳 小型 省エネ 大風量 360度全方位 浄化 消臭 除菌 集じん HEPA フィルター 花粉 ニオイ対策 タイマー機能 Alexa Google Home Siriに対応 (空気清浄機Table 1点+ハブ2 1点)",
-    "percent_off": 23
-  },
   "B0CL4R54X4": {
     "first_seen": "2026-11-04",
     "first_seen_at": "2026-11-04T00:15:51+09:00",
     "last_seen": "2026-11-06",
     "title": "SwitchBot 気化式加湿器 Alexa 大容量 4.5L 21畳対応 省エネ 上から給水 18dB静音 抗菌 フィルター洗濯機可 スマートホーム | フィルター自動乾燥・加湿量750ml/h・最大22.5時間稼働・Google Home / Siri対応",
     "percent_off": 20
+  },
+  "B0DYD1CZHM": {
+    "first_seen": "2026-11-06",
+    "first_seen_at": "2026-11-06T11:15:52+09:00",
+    "last_seen": "2026-11-06",
+    "title": "SwitchBot 空気清浄機 スマートリモコン ハブ2 アレクサ - スイッチボット 25畳 小型 省エネ 大風量 360度全方位 浄化 消臭 除菌 集じん HEPA フィルター 花粉 ニオイ対策 抜け毛対策 タイマー機能 Alexa Google Home Siriに対応 (空気清浄機 1点+ハブ2 1点)",
+    "percent_off": 21
   },
   "B0F7GGN94D": {
     "first_seen": "2026-11-04",
@@ -1019,6 +1019,13 @@
     "first_seen_at": "2026-11-04T00:15:51+09:00",
     "last_seen": "2026-11-06",
     "title": "RayNeo GT AR/XRグラス 201インチ 120Hz Native 3DoF Dolby Vision対応 68g | 201インチ大画面と120Hzの滑らかな映像。Native 3DoF、Dolby Vision、1200nitsに対応した次世代AR/XRグラス。",
+    "percent_off": 15
+  },
+  "B0HKS8CPVQ": {
+    "first_seen": "2026-10-17",
+    "first_seen_at": "2026-10-17T14:15:08+09:00",
+    "last_seen": "2026-11-06",
+    "title": "XREAL 1S + XREAL Hub セット | 最大500インチ大画面・52°広視野角・最大120Hz対応ARグラス｜X1チップ・Native 3DoF・3D Mode搭載｜最大45W充電・120Hz映像パススルー対応｜ゲーム・動画を大画面で楽しむ",
     "percent_off": 15
   },
   "B0G3YCRJKX": {
@@ -1315,6 +1322,20 @@
     "title": "COSORI コソリ ノンフライヤー 2L 一人用 エアフライヤー オイル97％カット ミニ 卓上 フライヤー ブラック CAF-LI211-KJP | ノンフライヤー 人気 ランキング,省エネ,カラー:ブラック,PSE認証済み,一人用 ,専用レシピ付き,揚げ物,エアーフライヤー,電気フライヤー,ヘルシー",
     "percent_off": 15
   },
+  "B0CTJDLWV4": {
+    "first_seen": "2026-11-04",
+    "first_seen_at": "2026-11-04T22:14:46+09:00",
+    "last_seen": "2026-11-06",
+    "title": "エレコム 充電器 65W USB PD対応 小型 Type-C 1ポート PPS対応 GaN II採用 PSE認証 ブラック 【iPhone 16 15 iPad Macbook 等対応】 EC-AC8565BK",
+    "percent_off": 17
+  },
+  "B0DYD1R49S": {
+    "first_seen": "2026-11-06",
+    "first_seen_at": "2026-11-06T00:15:23+09:00",
+    "last_seen": "2026-11-06",
+    "title": "SwitchBot 空気清浄機Table スマートリモコン ハブ2 アレクサ - スイッチボット 25畳 小型 省エネ 大風量 360度全方位 浄化 消臭 除菌 集じん HEPA フィルター 花粉 ニオイ対策 タイマー機能 Alexa Google Home Siriに対応 (空気清浄機Table 1点+ハブ2 1点)",
+    "percent_off": 23
+  },
   "B09SYV3P5B": {
     "first_seen": "2026-09-09",
     "first_seen_at": "2026-09-09T00:14:37+09:00",
@@ -1341,13 +1362,6 @@
     "first_seen_at": "2026-11-04T22:14:46+09:00",
     "last_seen": "2026-11-06",
     "title": "【セット買い】Amazon Fire TV Stick 4K Max + Amazon Fire TV Soundbar Plus",
-    "percent_off": 15
-  },
-  "B0HKS8CPVQ": {
-    "first_seen": "2026-10-17",
-    "first_seen_at": "2026-10-17T14:15:08+09:00",
-    "last_seen": "2026-11-06",
-    "title": "XREAL 1S + XREAL Hub セット | 最大500インチ大画面・52°広視野角・最大120Hz対応ARグラス｜X1チップ・Native 3DoF・3D Mode搭載｜最大45W充電・120Hz映像パススルー対応｜ゲーム・動画を大画面で楽しむ",
     "percent_off": 15
   },
   "B0FQFQDN6K": {
