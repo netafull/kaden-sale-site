@@ -35,7 +35,7 @@ header h1 { font-size: 24px; }
 header h1 a { color: var(--text); text-decoration: none;
   display: inline-flex; align-items: center; gap: 8px; }
 /* ロゴは文字とほぼ同じ高さに揃える(96px画像を縮小して表示) */
-header h1 img { width: 32px; height: 32px; }
+header h1 img { width: 44px; height: 44px; }
 header p { color: var(--muted); font-size: 13px; margin-top: 4px; }
 .sites { margin-top: 10px; display: flex; gap: 8px; flex-wrap: wrap;
   align-items: baseline; }
@@ -528,7 +528,7 @@ gtag('config', '{esc(ga_id)}');
 </head>
 <body>
 <header>
-<h1><a href="./" data-google-vignette="false"><img src="assets/logo.png" alt="" width="32" height="32">{esc(CONFIG["site_title"])}</a></h1>
+<h1><a href="./" data-google-vignette="false"><img src="assets/logo.png" alt="" width="44" height="44">{esc(CONFIG["site_title"])}</a></h1>
 <p>{esc(CONFIG["site_description"])} ｜ {esc(threshold_note)} ｜ 最終更新: {updated}</p>
 </header>
 {header_ad}
