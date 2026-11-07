@@ -69,6 +69,13 @@
     "title": "Apple Watch Ultra 3(GPS + Cellularモデル)- 49mmナチュラルチタニウムケースとナチュラルチタニウムミラネーゼループ - M",
     "percent_off": 12
   },
+  "B0FRZ3XVFD": {
+    "first_seen": "2026-10-21",
+    "first_seen_at": "2026-10-21T22:14:51+09:00",
+    "last_seen": "2026-11-08",
+    "title": "Apple Watch Series 11(GPSモデル)- 42mmジェットブラックアルミニウムケースとブラックスポーツバンド - S/M + 2年延長 AppleCare+ for Apple Watch Series 11",
+    "percent_off": 12
+  },
   "B0FRYZJPDJ": {
     "first_seen": "2026-10-11",
     "first_seen_at": "2026-10-11T18:14:49+09:00",
@@ -195,13 +202,6 @@
     "title": "Apple 2024 iMac 8 コア CPU、8 コア GPU の M4 チップ搭載オールインワンデスクト ップコンピュータ: Apple Intelligence のために設計、24 インチ Retina ディスプレイ、 16GBユニファイドメモリ、256GBの SSD ストレージ、ボディと同じカラーの アクセサリ、iPhone や iPad との連係機能 - ピンク",
     "percent_off": 5
   },
-  "B0DL78NHX7": {
-    "first_seen": "2026-11-03",
-    "first_seen_at": "2026-11-03T09:16:01+09:00",
-    "last_seen": "2026-11-08",
-    "title": "Apple 2024 iMac 10 コア CPU、10 コア GPU の M4 チップ搭載オールインワンデスク トップコンピュータ: Apple Intelligence のために設計、24 インチ Retina ディスプレ イ、16GBユニファイドメモリ、256GBの SSD ストレージ、ボディと同じカラーのアクセサリ、iPhone や iPad との連係機能 - シルバー",
-    "percent_off": 5
-  },
   "B0FWDBWC7F": {
     "first_seen": "2026-10-22",
     "first_seen_at": "2026-10-22T00:16:22+09:00",
@@ -326,7 +326,7 @@
     "first_seen_at": "2026-10-17T19:16:01+09:00",
     "last_seen": "2026-11-08",
     "title": "ゼンハイザー（Sennheiser）イヤホン 有線 IE 200 ブラック ダイナミック カナル型 オーディオファイル ゲーミング TrueResponseトランスデューサー ブレードケーブル イヤーフック イヤフォン デュアルチューニングシステム 【国内正規品】",
-    "percent_off": 37
+    "percent_off": 38
   },
   "B0GW7WT5SQ": {
     "first_seen": "2026-10-07",
@@ -683,13 +683,6 @@
     "first_seen_at": "2026-11-07T07:15:07+09:00",
     "last_seen": "2026-11-08",
     "title": "Anker PowerPort III 3-Port 65W Pod ホワイト | 65W 充電器 USB-C PD【独自技術Anker GaN II採用/PD対応/PSE技術基準適合/折りたたみ式プラグ】MacBook PD対応Windows PC iPad iPhone Galaxy Android",
-    "percent_off": 27
-  },
-  "B09CH44769": {
-    "first_seen": "2026-11-04",
-    "first_seen_at": "2026-11-04T01:15:06+09:00",
-    "last_seen": "2026-11-08",
-    "title": "Anker PowerPort III 3-Port 65W Pod ブラック | 65W 充電器 USB-C PD【独自技術Anker GaN II採用/PD対応/PSE技術基準適合/折りたたみ式プラグ】MacBook PD対応Windows PC iPad iPhone Galaxy Android",
     "percent_off": 27
   },
   "B0D53VKL36": {
@@ -1084,6 +1077,13 @@
     "title": "Amazon Kindle Colorsoft | 16GBストレージ、防水、7インチカラーディスプレイ、色調調節ライト、最大8週間持続バッテリー、広告無し、ブラック (2025年発売)",
     "percent_off": 19
   },
+  "B09S3RC9T8": {
+    "first_seen": "2026-09-20",
+    "first_seen_at": "2026-09-20T21:14:52+09:00",
+    "last_seen": "2026-11-08",
+    "title": "サンワサプライ(Sanwa Supply) USBキーボード(ホワイト) SKB-L1UN",
+    "percent_off": 49
+  },
   "B0DP6VCXRF": {
     "first_seen": "2026-10-13",
     "first_seen_at": "2026-10-13T07:15:09+09:00",
@@ -1091,12 +1091,12 @@
     "title": "エレコム ワイヤレスマウス Type-C接続 Lサイズ 3ボタン ブラック M-LE10DRCBK",
     "percent_off": 48
   },
-  "B07NDLV8M9": {
-    "first_seen": "2026-09-10",
-    "first_seen_at": "2026-09-10T20:14:59+09:00",
+  "B0FL6ZD3WL": {
+    "first_seen": "2026-07-29",
+    "first_seen_at": "2026-07-29T12:00:00+09:00",
     "last_seen": "2026-11-08",
-    "title": "エレコム キーボード 【マウスセット】 ワイヤレス (レシーバー付属) メンブレン フルキーボード ブラック TK-FDM106MBK",
-    "percent_off": 42
+    "title": "エレコム ワイヤレスキーボード Precisionist プレシジョニスト Bluetooth 無線2.4GHz マルチペアリング4台 充電式 薄型パンタグラフ式 フルサイズ ブラック TK-PN10FMPABK",
+    "percent_off": 40
   },
   "B0FL77NZXM": {
     "first_seen": "2026-07-29",
@@ -1110,13 +1110,6 @@
     "first_seen_at": "2026-07-26T12:00:00+09:00",
     "last_seen": "2026-11-08",
     "title": "エレコム ワイヤレスキーボード メンブレン 薄型 フルキーボード テンキー ブラック TK-FDM110TXBK",
-    "percent_off": 37
-  },
-  "B0C9CS34KJ": {
-    "first_seen": "2026-09-25",
-    "first_seen_at": "2026-09-25T08:14:52+09:00",
-    "last_seen": "2026-11-08",
-    "title": "サンワサプライ(Sanwa Supply) ワイヤレスキーボード SKB-WL39BK",
     "percent_off": 37
   },
   "B0GL1B1L6Y": {
@@ -1161,13 +1154,6 @@
     "title": "Razer ラピッドトリガー 搭載 Huntsman V3 Pro Mini JP ラピッドトリガーと調整可能なアクチュエーション搭載のアナログ ゲーミングキーボード アナログオプティカルスイッチ 調整可能なアクチュエーション 押下圧 40G 日本語配列 ハンツマン ブイスリー プロ ミニ ジェイピー【日本正規代理店保証品】 ブラック",
     "percent_off": 30
   },
-  "B00FJ0GDLQ": {
-    "first_seen": "2026-09-26",
-    "first_seen_at": "2026-09-26T02:14:52+09:00",
-    "last_seen": "2026-11-08",
-    "title": "エレコム USB キーボード ワイヤレス (レシーバー付属) メンブレン フルキーボード 1000万回高耐久 PlayStation4 対応 ブラック TK-FDM063TBK",
-    "percent_off": 27
-  },
   "B0BKP2XWY5": {
     "first_seen": "2026-11-03",
     "first_seen_at": "2026-11-03T17:15:15+09:00",
@@ -1189,13 +1175,6 @@
     "title": "サンワサプライ USBハブ付コンパクトキーボード SKB-KG3UH2BK ブラック テンキーなし",
     "percent_off": 24
   },
-  "B07NDM4CQZ": {
-    "first_seen": "2026-10-08",
-    "first_seen_at": "2026-10-08T22:14:47+09:00",
-    "last_seen": "2026-11-08",
-    "title": "エレコム USB キーボード ワイヤレス (レシーバー付属) メンブレン コンパクトキーボード ブラック TK-FDM105TXBK",
-    "percent_off": 23
-  },
   "B0D9VVL9DY": {
     "first_seen": "2026-10-06",
     "first_seen_at": "2026-10-06T00:16:13+09:00",
@@ -1215,6 +1194,13 @@
     "first_seen_at": "2026-11-03T01:15:11+09:00",
     "last_seen": "2026-11-08",
     "title": "ロジクール ワイヤレスマウス 無線 高速スクロール 7ボタン マウス Unifying SEB-M705 ブラック 国内正規品 | 【Amazon.co.jp限定】 、電池式（単3形乾電池x2）、電池寿命最大36ケ月、Windows 10, 11 以降、macOS 10.5以降、ChromeOS、Amazon.co.jp限定 壁紙ダウンロード付き",
+    "percent_off": 21
+  },
+  "B01L8VIHAY": {
+    "first_seen": "2026-11-08",
+    "first_seen_at": "2026-11-08T07:15:36+09:00",
+    "last_seen": "2026-11-08",
+    "title": "バッファロー キーボード 有線 Tabキー付き ホワイト BSTK100WH",
     "percent_off": 21
   },
   "B088P8QYWN": {
@@ -1322,6 +1308,48 @@
     "title": "COSORI コソリ ノンフライヤー 2L 一人用 エアフライヤー オイル97％カット ミニ 卓上 フライヤー ブラック CAF-LI211-KJP | ノンフライヤー 人気 ランキング,省エネ,カラー:ブラック,PSE認証済み,一人用 ,専用レシピ付き,揚げ物,エアーフライヤー,電気フライヤー,ヘルシー",
     "percent_off": 15
   },
+  "B0DL78NHX7": {
+    "first_seen": "2026-11-03",
+    "first_seen_at": "2026-11-03T09:16:01+09:00",
+    "last_seen": "2026-11-08",
+    "title": "Apple 2024 iMac 10 コア CPU、10 コア GPU の M4 チップ搭載オールインワンデスク トップコンピュータ: Apple Intelligence のために設計、24 インチ Retina ディスプレ イ、16GBユニファイドメモリ、256GBの SSD ストレージ、ボディと同じカラーのアクセサリ、iPhone や iPad との連係機能 - シルバー",
+    "percent_off": 5
+  },
+  "B09CH44769": {
+    "first_seen": "2026-11-04",
+    "first_seen_at": "2026-11-04T01:15:06+09:00",
+    "last_seen": "2026-11-08",
+    "title": "Anker PowerPort III 3-Port 65W Pod ブラック | 65W 充電器 USB-C PD【独自技術Anker GaN II採用/PD対応/PSE技術基準適合/折りたたみ式プラグ】MacBook PD対応Windows PC iPad iPhone Galaxy Android",
+    "percent_off": 27
+  },
+  "B07NDLV8M9": {
+    "first_seen": "2026-09-10",
+    "first_seen_at": "2026-09-10T20:14:59+09:00",
+    "last_seen": "2026-11-08",
+    "title": "エレコム キーボード 【マウスセット】 ワイヤレス (レシーバー付属) メンブレン フルキーボード ブラック TK-FDM106MBK",
+    "percent_off": 42
+  },
+  "B0C9CS34KJ": {
+    "first_seen": "2026-09-25",
+    "first_seen_at": "2026-09-25T08:14:52+09:00",
+    "last_seen": "2026-11-08",
+    "title": "サンワサプライ(Sanwa Supply) ワイヤレスキーボード SKB-WL39BK",
+    "percent_off": 37
+  },
+  "B00FJ0GDLQ": {
+    "first_seen": "2026-09-26",
+    "first_seen_at": "2026-09-26T02:14:52+09:00",
+    "last_seen": "2026-11-08",
+    "title": "エレコム USB キーボード ワイヤレス (レシーバー付属) メンブレン フルキーボード 1000万回高耐久 PlayStation4 対応 ブラック TK-FDM063TBK",
+    "percent_off": 27
+  },
+  "B07NDM4CQZ": {
+    "first_seen": "2026-10-08",
+    "first_seen_at": "2026-10-08T22:14:47+09:00",
+    "last_seen": "2026-11-08",
+    "title": "エレコム USB キーボード ワイヤレス (レシーバー付属) メンブレン コンパクトキーボード ブラック TK-FDM105TXBK",
+    "percent_off": 23
+  },
   "B0F99FCSX7": {
     "first_seen": "2026-07-27",
     "first_seen_at": "2026-07-27T12:00:00+09:00",
@@ -1335,13 +1363,6 @@
     "last_seen": "2026-11-08",
     "title": "XREAL One Pro M (IPD57-66mm) + XREAL Eye セット | 57°広視野角・最大120Hz対応ARグラス｜X1チップ・Native 3DoF搭載｜空間撮影・写真・動画に対応｜AR体験と日常の瞬間を記録",
     "percent_off": 15
-  },
-  "B0FL6ZD3WL": {
-    "first_seen": "2026-07-29",
-    "first_seen_at": "2026-07-29T12:00:00+09:00",
-    "last_seen": "2026-11-08",
-    "title": "エレコム ワイヤレスキーボード Precisionist プレシジョニスト Bluetooth 無線2.4GHz マルチペアリング4台 充電式 薄型パンタグラフ式 フルサイズ ブラック TK-PN10FMPABK",
-    "percent_off": 40
   },
   "B0DYD1R49S": {
     "first_seen": "2026-11-06",
@@ -1734,13 +1755,6 @@
     "last_seen": "2026-11-07",
     "title": "ロジクール ワイヤレスマウス 静音 無線 高速スクロール Signature M750LGR ラージ グラファイト M750 国内正規品 | 手の大きめな方向け、6ボタン、サイドボタン、電池式（単3形乾電池x1）、Easy-Switch、DPI切り替え、Bluetooth、Logi Bolt、Windows10、Windows11、macOS、iPadOS、Android、ChromeOS",
     "percent_off": 17
-  },
-  "B0FRZ3XVFD": {
-    "first_seen": "2026-10-21",
-    "first_seen_at": "2026-10-21T22:14:51+09:00",
-    "last_seen": "2026-11-07",
-    "title": "Apple Watch Series 11(GPSモデル)- 42mmジェットブラックアルミニウムケースとブラックスポーツバンド - S/M + 2年延長 AppleCare+ for Apple Watch Series 11",
-    "percent_off": 12
   },
   "B0HBPLCGQF": {
     "first_seen": "2026-11-04",
@@ -3365,12 +3379,5 @@
     "last_seen": "2026-10-25",
     "title": "Razer Viper V3 Pro ゲーミングマウス ワイヤレス 無線 Focus Pro 35Kセンサー 35000DPI 高速応答 オプティカルスイッチ 6ボタン",
     "percent_off": 15
-  },
-  "B09S3RC9T8": {
-    "first_seen": "2026-09-20",
-    "first_seen_at": "2026-09-20T21:14:52+09:00",
-    "last_seen": "2026-10-25",
-    "title": "サンワサプライ(Sanwa Supply) USBキーボード(ホワイト) SKB-L1UN",
-    "percent_off": 49
   }
 }
