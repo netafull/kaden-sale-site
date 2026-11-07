@@ -629,6 +629,13 @@
     "title": "Anker Charger (25W) パープル | USB-C 急速充電器 【USB PD 対応/PSE技術基準適合/PPS規格対応】Galaxy S24 / iPhone 16 / iPad 各種 その他機器対応",
     "percent_off": 32
   },
+  "B0F99FCSX7": {
+    "first_seen": "2026-07-27",
+    "first_seen_at": "2026-07-27T12:00:00+09:00",
+    "last_seen": "2026-11-08",
+    "title": "Anker Nano Charger (70W, 3 Ports) ブラック | 70W USB-C急速充電器 小型で3台同時充電。USB-C2ポートとUSB-A1ポート搭載。GaN採用で持ち運びにも便利。MacBook Pro MacBook Air iPhone iPad Galaxy対応 PSE技術基準適合",
+    "percent_off": null
+  },
   "B0D9QP375K": {
     "first_seen": "2026-11-04",
     "first_seen_at": "2026-11-04T10:15:10+09:00",
@@ -965,13 +972,6 @@
     "title": "GARMIN(ガーミン)スマートウォッチ Forerunner 170 Whitestone/Cloud Blue スマートウォッチモード 約 10 日間 高精度GPS ランニングウォッチ iOS/Android AMOLEDディスプレイ1.2インチ マラソン 軽量 防水 心拍数 睡眠スコア 健康管理 Suicaタッチ決済 Garmin Pay",
     "percent_off": 17
   },
-  "B0GX8DRYCX": {
-    "first_seen": "2026-09-03",
-    "first_seen_at": "2026-09-03T12:14:47+09:00",
-    "last_seen": "2026-11-08",
-    "title": "HUAWEI WATCH FIT 5 スマートウォッチ 薄型軽量 大画面 GPS内蔵 10日間ロングバッテリー 通知 健康管理 心拍数 睡眠 ブラック | iPhone対応 android対応 1.82インチ画面 2500nits高輝度 ワークアウト 転倒検知 情緒測定 生理周期管理 64GBストレージ 録音機能 ランニング 防水",
-    "percent_off": 17
-  },
   "B094VSZPPP": {
     "first_seen": "2026-10-07",
     "first_seen_at": "2026-10-07T13:15:11+09:00",
@@ -1026,6 +1026,13 @@
     "first_seen_at": "2026-10-17T14:15:08+09:00",
     "last_seen": "2026-11-08",
     "title": "XREAL 1S + XREAL Hub セット | 最大500インチ大画面・52°広視野角・最大120Hz対応ARグラス｜X1チップ・Native 3DoF・3D Mode搭載｜最大45W充電・120Hz映像パススルー対応｜ゲーム・動画を大画面で楽しむ",
+    "percent_off": 15
+  },
+  "B0HKMWFQWN": {
+    "first_seen": "2026-11-03",
+    "first_seen_at": "2026-11-03T20:14:58+09:00",
+    "last_seen": "2026-11-08",
+    "title": "XREAL One Pro M (IPD57-66mm) + XREAL Eye セット | 57°広視野角・最大120Hz対応ARグラス｜X1チップ・Native 3DoF搭載｜空間撮影・写真・動画に対応｜AR体験と日常の瞬間を記録",
     "percent_off": 15
   },
   "B0G3YCRJKX": {
@@ -1083,13 +1090,6 @@
     "last_seen": "2026-11-08",
     "title": "エレコム キーボード 【マウスセット】 ワイヤレス (レシーバー付属) メンブレン フルキーボード ブラック TK-FDM106MBK",
     "percent_off": 42
-  },
-  "B0FL6ZD3WL": {
-    "first_seen": "2026-07-29",
-    "first_seen_at": "2026-07-29T12:00:00+09:00",
-    "last_seen": "2026-11-08",
-    "title": "エレコム ワイヤレスキーボード Precisionist プレシジョニスト Bluetooth 無線2.4GHz マルチペアリング4台 充電式 薄型パンタグラフ式 フルサイズ ブラック TK-PN10FMPABK",
-    "percent_off": 40
   },
   "B0FL77NZXM": {
     "first_seen": "2026-07-29",
@@ -1315,6 +1315,20 @@
     "title": "COSORI コソリ ノンフライヤー 2L 一人用 エアフライヤー オイル97％カット ミニ 卓上 フライヤー ブラック CAF-LI211-KJP | ノンフライヤー 人気 ランキング,省エネ,カラー:ブラック,PSE認証済み,一人用 ,専用レシピ付き,揚げ物,エアーフライヤー,電気フライヤー,ヘルシー",
     "percent_off": 15
   },
+  "B0GX8DRYCX": {
+    "first_seen": "2026-09-03",
+    "first_seen_at": "2026-09-03T12:14:47+09:00",
+    "last_seen": "2026-11-08",
+    "title": "HUAWEI WATCH FIT 5 スマートウォッチ 薄型軽量 大画面 GPS内蔵 10日間ロングバッテリー 通知 健康管理 心拍数 睡眠 ブラック | iPhone対応 android対応 1.82インチ画面 2500nits高輝度 ワークアウト 転倒検知 情緒測定 生理周期管理 64GBストレージ 録音機能 ランニング 防水",
+    "percent_off": 17
+  },
+  "B0FL6ZD3WL": {
+    "first_seen": "2026-07-29",
+    "first_seen_at": "2026-07-29T12:00:00+09:00",
+    "last_seen": "2026-11-08",
+    "title": "エレコム ワイヤレスキーボード Precisionist プレシジョニスト Bluetooth 無線2.4GHz マルチペアリング4台 充電式 薄型パンタグラフ式 フルサイズ ブラック TK-PN10FMPABK",
+    "percent_off": 40
+  },
   "B09CH44769": {
     "first_seen": "2026-11-04",
     "first_seen_at": "2026-11-04T01:15:06+09:00",
@@ -1370,13 +1384,6 @@
     "last_seen": "2026-11-08",
     "title": "Anker Nano Charger (70W, 3 Ports) ブルー | 70W USB-C急速充電器 小型で3台同時充電。USB-C2ポートとUSB-A1ポート搭載。GaN採用で持ち運びにも便利。MacBook Pro MacBook Air iPhone iPad Galaxy対応 PSE技術基準適合",
     "percent_off": null
-  },
-  "B0HKMWFQWN": {
-    "first_seen": "2026-11-03",
-    "first_seen_at": "2026-11-03T20:14:58+09:00",
-    "last_seen": "2026-11-08",
-    "title": "XREAL One Pro M (IPD57-66mm) + XREAL Eye セット | 57°広視野角・最大120Hz対応ARグラス｜X1チップ・Native 3DoF搭載｜空間撮影・写真・動画に対応｜AR体験と日常の瞬間を記録",
-    "percent_off": 15
   },
   "B0GBW6HF6Z": {
     "first_seen": "2026-11-01",
@@ -1545,13 +1552,6 @@
     "last_seen": "2026-11-07",
     "title": "UGREEN Zapix【小型・軽量／10000mAh／USB－C＆USB－A／PD20W／2台同時充電】モバイルバッテリー ねり色 PB507 | 急速充電／小電流モード／残量パーセント表示／コンパクト／PSE技術基準適合 iPhone18/Android/iPad 各種 USB-C 機器に対応",
     "percent_off": 14
-  },
-  "B0F99FCSX7": {
-    "first_seen": "2026-07-27",
-    "first_seen_at": "2026-07-27T12:00:00+09:00",
-    "last_seen": "2026-11-07",
-    "title": "Anker Nano Charger (70W, 3 Ports) ブラック | 70W USB-C急速充電器 小型で3台同時充電。USB-C2ポートとUSB-A1ポート搭載。GaN採用で持ち運びにも便利。MacBook Pro MacBook Air iPhone iPad Galaxy対応 PSE技術基準適合",
-    "percent_off": null
   },
   "B09BJR4F5M": {
     "first_seen": "2026-11-05",
