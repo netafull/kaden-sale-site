@@ -1,10 +1,10 @@
 {
-  "B0GR1VZY4W": {
-    "first_seen": "2026-10-24",
-    "first_seen_at": "2026-10-24T17:15:04+09:00",
+  "B0DGJBNYVY": {
+    "first_seen": "2026-09-05",
+    "first_seen_at": "2026-09-05T08:14:38+09:00",
     "last_seen": "2026-11-09",
-    "title": "Apple 2026 MacBook Pro 15コアCPU、16コアGPUのM5 Proチップ搭載ノートパソコン：AIのために設計、14.2インチLiquid Retina XDRディスプレイ、24GBユニファイドメモリ、2TBのSSDストレージ - スペースブラック",
-    "percent_off": 17
+    "title": "Apple AirPods 4 アクティブノイズ キャンセリング搭載、ワイヤレスイヤホン、Bluetooth 5.3、ライブ翻訳、適応型オーディオ、外部音取り込みモード、パーソナライズされた空間オーディオ、USB-C充電ケース、ワイヤレス充電、H2チップ、防塵性能と耐汗耐水性能、「探す」対応、Qi充電",
+    "percent_off": 26
   },
   "B0FQFW26JS": {
     "first_seen": "2026-09-26",
@@ -390,13 +390,6 @@
     "last_seen": "2026-11-09",
     "title": "Bose QuietComfort Ultra Earbuds (第2世代) ワイヤレス ノイズキャンセリング Bluetooth イヤホン 最長6時間連続再生 IPX4規格準拠 イマーシブオーディオ 迫力の重低音 ブラック",
     "percent_off": 14
-  },
-  "B0CDBY9P5Q": {
-    "first_seen": "2026-10-20",
-    "first_seen_at": "2026-10-20T21:15:01+09:00",
-    "last_seen": "2026-11-09",
-    "title": "Anker Nano Power Bank (30W, Built-In USB-C Cable) ブラック | モバイルバッテリー 10000mAh 30W出力 大容量 ディスプレイ搭載 USB-Cケーブル一体型)【PD/PowerIQ搭載/PSE技術基準適合】iPhone 18 / 17 / 16 / 15 Android MacBook その他各種機器対応",
-    "percent_off": 36
   },
   "B0F6NFHB31": {
     "first_seen": "2026-07-25",
@@ -1000,6 +993,13 @@
     "title": "Amazon Fire TV Stick HD | 手軽にストリーミングをはじめよう | ストリーミングメディアプレイヤー",
     "percent_off": 50
   },
+  "B0G2TXCWFH": {
+    "first_seen": "2026-11-04",
+    "first_seen_at": "2026-11-04T09:15:07+09:00",
+    "last_seen": "2026-11-09",
+    "title": "Amazon Fire TV Stick 4K Select | 4Kの高画質ストリーミング | ストリーミングメディアプレイヤー",
+    "percent_off": 46
+  },
   "B0G2TQZMY1": {
     "first_seen": "2026-11-04",
     "first_seen_at": "2026-11-04T10:15:10+09:00",
@@ -1021,19 +1021,19 @@
     "title": "Alexa対応音声認識リモコン Pro | 対応する別売りのFire TV本体が必要です",
     "percent_off": 30
   },
-  "B0H25V3WSP": {
-    "first_seen": "2026-11-04",
-    "first_seen_at": "2026-11-04T22:14:46+09:00",
-    "last_seen": "2026-11-09",
-    "title": "【セット買い】Amazon Fire TV Stick 4K Select + Amazon Fire TV Soundbar Plus",
-    "percent_off": 27
-  },
   "B0CX8MT2M2": {
     "first_seen": "2026-11-04",
     "first_seen_at": "2026-11-04T05:15:15+09:00",
     "last_seen": "2026-11-09",
     "title": "Amazon Kindle Colorsoft | 16GBストレージ、防水、7インチカラーディスプレイ、色調調節ライト、最大8週間持続バッテリー、広告無し、ブラック (2025年発売)",
     "percent_off": 19
+  },
+  "B0C9D8VTH7": {
+    "first_seen": "2026-09-26",
+    "first_seen_at": "2026-09-26T01:14:49+09:00",
+    "last_seen": "2026-11-09",
+    "title": "サンワサプライ ワイヤレス静音キーボード（2.4GHzワイヤレス・テンキーあり） SKB-WL37BK",
+    "percent_off": 50
   },
   "B0DP6VCXRF": {
     "first_seen": "2026-10-13",
@@ -1280,12 +1280,26 @@
     "title": "COSORI コソリ ノンフライヤー 2L 一人用 エアフライヤー オイル97％カット ミニ 卓上 フライヤー ブラック CAF-LI211-KJP | ノンフライヤー 人気 ランキング,省エネ,カラー:ブラック,PSE認証済み,一人用 ,専用レシピ付き,揚げ物,エアーフライヤー,電気フライヤー,ヘルシー",
     "percent_off": 15
   },
-  "B0DGJBNYVY": {
-    "first_seen": "2026-09-05",
-    "first_seen_at": "2026-09-05T08:14:38+09:00",
+  "B0GR1VZY4W": {
+    "first_seen": "2026-10-24",
+    "first_seen_at": "2026-10-24T17:15:04+09:00",
     "last_seen": "2026-11-09",
-    "title": "Apple AirPods 4 アクティブノイズ キャンセリング搭載、ワイヤレスイヤホン、Bluetooth 5.3、ライブ翻訳、適応型オーディオ、外部音取り込みモード、パーソナライズされた空間オーディオ、USB-C充電ケース、ワイヤレス充電、H2チップ、防塵性能と耐汗耐水性能、「探す」対応、Qi充電",
-    "percent_off": 26
+    "title": "Apple 2026 MacBook Pro 15コアCPU、16コアGPUのM5 Proチップ搭載ノートパソコン：AIのために設計、14.2インチLiquid Retina XDRディスプレイ、24GBユニファイドメモリ、2TBのSSDストレージ - スペースブラック",
+    "percent_off": 17
+  },
+  "B0CDBY9P5Q": {
+    "first_seen": "2026-10-20",
+    "first_seen_at": "2026-10-20T21:15:01+09:00",
+    "last_seen": "2026-11-09",
+    "title": "Anker Nano Power Bank (30W, Built-In USB-C Cable) ブラック | モバイルバッテリー 10000mAh 30W出力 大容量 ディスプレイ搭載 USB-Cケーブル一体型)【PD/PowerIQ搭載/PSE技術基準適合】iPhone 18 / 17 / 16 / 15 Android MacBook その他各種機器対応",
+    "percent_off": 36
+  },
+  "B0H25V3WSP": {
+    "first_seen": "2026-11-04",
+    "first_seen_at": "2026-11-04T22:14:46+09:00",
+    "last_seen": "2026-11-09",
+    "title": "【セット買い】Amazon Fire TV Stick 4K Select + Amazon Fire TV Soundbar Plus",
+    "percent_off": 27
   },
   "B0HBPTD3RC": {
     "first_seen": "2026-11-05",
@@ -1650,13 +1664,6 @@
     "last_seen": "2026-11-08",
     "title": "【Amazon.co.jp限定】 ロジクール ワイヤレスマウス 静音 無線 M220RO ローズ 国内正規品 | 静音マウス、小型、2.4GHz USBワイヤレス接続、電池式（単3形乾電池x1）、電池寿命最大18ケ月、左右対称、M220、無線マウス、Windows 、macOS、ChromeOS、 Linux、壁紙ダウンロード付き",
     "percent_off": 18
-  },
-  "B0G2TXCWFH": {
-    "first_seen": "2026-11-04",
-    "first_seen_at": "2026-11-04T09:15:07+09:00",
-    "last_seen": "2026-11-08",
-    "title": "Amazon Fire TV Stick 4K Select | 4Kの高画質ストリーミング | ストリーミングメディアプレイヤー",
-    "percent_off": 46
   },
   "B0GSVQBSFY": {
     "first_seen": "2026-11-06",
@@ -2434,13 +2441,6 @@
     "last_seen": "2026-11-04",
     "title": "Apple 13インチiPad Pro（M5）用Magic Keyboard - 日本語 - ブラック ​​​​​​​",
     "percent_off": 8
-  },
-  "B0C9D8VTH7": {
-    "first_seen": "2026-09-26",
-    "first_seen_at": "2026-09-26T01:14:49+09:00",
-    "last_seen": "2026-11-04",
-    "title": "サンワサプライ ワイヤレス静音キーボード（2.4GHzワイヤレス・テンキーあり） SKB-WL37BK",
-    "percent_off": 50
   },
   "B0G529YNFK": {
     "first_seen": "2026-09-05",
