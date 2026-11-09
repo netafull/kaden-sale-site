@@ -15,7 +15,7 @@ on:
   #
   # **間隔を変えたら config.json の文言も必ず直すこと。**
   # サイトのヘッダーと「〜について」セクションに更新頻度を書いており
-  # （config.json の site_description と about）、cronだけ変えると表示が
+  # （config.json の site_description・meta_description と about）、cronだけ変えると表示が
   # 嘘になる。実際2026-08時点で、3サイトとも「1時間ごと」と表示しながら
   # 実態は家電2時間・電書6時間・林檎30分とすべて食い違っていた。
   # 間隔は毎時。Creators API の上限8,640req/日を電書ポチ

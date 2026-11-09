@@ -218,7 +218,7 @@ def render_book(item: dict, badge: str | None = None, is_new: bool = False) -> s
         else ""
     )
     img_html = (
-        f'<img src="{esc(item.get("image"))}" alt="" loading="lazy">'
+        f'<img src="{esc(item.get("image"))}" alt="{esc(shorten_title(item["title"]))}" loading="lazy">'
         if item.get("image")
         else "<img alt=''>"
     )
@@ -375,6 +375,8 @@ def generate_html(data: dict) -> str:
         )
 
     site_url = CONFIG.get("site_url", "")
+    # 検索結果用の説明文。ヘッダーに出す短い site_description とは別に持つ
+    meta_description = CONFIG.get("meta_description") or CONFIG["site_description"]
     tagline = CONFIG.get("site_tagline", "")
     page_title = (
         f'{CONFIG["site_title"]}｜{tagline}' if tagline else CONFIG["site_title"]
@@ -505,7 +507,7 @@ gtag('config', '{esc(ga_id)}');
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>{esc(page_title)}</title>
-<meta name="description" content="{esc(CONFIG["site_description"])}">
+<meta name="description" content="{esc(meta_description)}">
 <link rel="canonical" href="{esc(site_url)}">
 {gsv_tag}
 {ga_tag}
@@ -514,7 +516,7 @@ gtag('config', '{esc(ga_id)}');
 <link rel="apple-touch-icon" href="assets/apple-touch-icon.png">
 <meta property="og:type" content="website">
 <meta property="og:title" content="{esc(page_title)}">
-<meta property="og:description" content="{esc(CONFIG["site_description"])}">
+<meta property="og:description" content="{esc(meta_description)}">
 <meta property="og:url" content="{esc(site_url)}">
 <meta property="og:site_name" content="{esc(CONFIG["site_title"])}">
 <meta property="og:locale" content="ja_JP">
