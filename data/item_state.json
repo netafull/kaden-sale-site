@@ -510,19 +510,19 @@
     "title": "UGREEN 卓上急速充電器 200W Type-C 6C2A 8ポート PPS 5A/PD3.0/QC4+規格対応 電源コード付き 縦型省スペース | 8ポート付き USB-C*6とUSB-A*2 充電保護システム iPhone18/17/16/15/14/MacBook/iPad/Galaxy/Android各種/その他USB-C機器対応 PSE技術基準適合 ベース付き",
     "percent_off": 34
   },
+  "B0DMN885ZF": {
+    "first_seen": "2026-08-05",
+    "first_seen_at": "2026-08-05T03:07:44+09:00",
+    "last_seen": "2026-11-12",
+    "title": "UGREEN 45W USB-C 急速充電器 Type-C PD GaNⅡ充電器 PSE適合タイプc充電器 PD/PPS/SCP/QC3.0 | MacBook PD対応 iphone17/15/14/13/12 iPad Galaxy Android スマートフォン ノートPC 各機種対応",
+    "percent_off": 34
+  },
   "B0CD1NVW7R": {
     "first_seen": "2026-09-15",
     "first_seen_at": "2026-09-15T23:14:42+09:00",
     "last_seen": "2026-11-12",
     "title": "UGREEN NexodePro 充電器 当社比超薄15mm 65W Type-C 2C1A 3ポート PD3.0/PPS4.5A 対応 折り畳み式 | USB-C *2とUSB-A*1 QC4.0/SCP/FCP対応 MacBook/ノートPC/iPad/iPhone18/17/16/15/14/13/12シリーズ対応 GaN搭載【VGP 2025／レッドドット・デザイン賞受賞】",
     "percent_off": 34
-  },
-  "B0F99DF9RQ": {
-    "first_seen": "2026-08-26",
-    "first_seen_at": "2026-08-26T22:18:31+09:00",
-    "last_seen": "2026-11-12",
-    "title": "Anker Nano Charger (70W, 3 Ports) ホワイト | 70W USB-C急速充電器 小型で3台同時充電。USB-C2ポートとUSB-A1ポート搭載。GaN採用で持ち運びにも便利。MacBook Pro MacBook Air iPhone iPad Galaxy対応 PSE技術基準適合",
-    "percent_off": null
   },
   "B0CM66LY5F": {
     "first_seen": "2026-10-17",
@@ -594,6 +594,13 @@
     "title": "Anker 725 Charger (65W) ホワイト | (USB PD 65W 急速充電器)【超コンパクト設計/PowerIQ 3.0 (Gen2)搭載/PSE技術基準適合/折りたたみ式プラグ】MacBook PD対応Windows PC iPad iPhone Galaxy Android",
     "percent_off": 29
   },
+  "B09CH44769": {
+    "first_seen": "2026-11-04",
+    "first_seen_at": "2026-11-04T01:15:06+09:00",
+    "last_seen": "2026-11-12",
+    "title": "Anker PowerPort III 3-Port 65W Pod ブラック | 65W 充電器 USB-C PD【独自技術Anker GaN II採用/PD対応/PSE技術基準適合/折りたたみ式プラグ】MacBook PD対応Windows PC iPad iPhone Galaxy Android",
+    "percent_off": 27
+  },
   "B09JK9F927": {
     "first_seen": "2026-11-07",
     "first_seen_at": "2026-11-07T07:15:07+09:00",
@@ -648,13 +655,6 @@
     "first_seen_at": "2026-10-31T21:15:12+09:00",
     "last_seen": "2026-11-12",
     "title": "Anker PowerWave 10 Stand | ワイヤレス充電器 Qi認証 iPhone 15シリーズ / 14シリーズ Galaxy 各種対応 最大10W出力",
-    "percent_off": 20
-  },
-  "B0FJS3P8NT": {
-    "first_seen": "2026-07-27",
-    "first_seen_at": "2026-07-27T12:00:00+09:00",
-    "last_seen": "2026-11-12",
-    "title": "UGREEN 45W USB-C*4+USB-A*1 急速充電器 Type-C GaNⅡ タイプc PSE適合/PD3.0/PPS/SCP/QC3.0 | マルチポートタイプCアダプター iPhone18/17/16/15 Galaxy S26 S25 Ultra、Pixel 10、iPadに対応",
     "percent_off": 20
   },
   "B0FWJ65HX2": {
@@ -804,6 +804,13 @@
     "title": "HUAWEI WATCH D2 ウェアラブル血圧計 LCA-B29:ブルー",
     "percent_off": 27
   },
+  "B0DDCR5WYQ": {
+    "first_seen": "2026-11-03",
+    "first_seen_at": "2026-11-03T12:15:59+09:00",
+    "last_seen": "2026-11-12",
+    "title": "ガーミン(GARMIN) フラッグシップモデル fenix 8 Sapphire AMOLED 47mm Ti Carbon Gray DLC/Black マルチスポーツGPSウォッチ【AMOLEDディスプレイ】 【ランニング・ゴルフ・登山・サイクリング等30種類以上対応】【Android/iOS対応】【Suica機能搭載】【ビジネスシーンもOK】【日本正規品】心電図(ECG)アプリ対応モデル",
+    "percent_off": 13
+  },
   "B0F5WR3KP9": {
     "first_seen": "2026-10-20",
     "first_seen_at": "2026-10-20T21:15:01+09:00",
@@ -929,13 +936,6 @@
     "last_seen": "2026-11-12",
     "title": "VITURE Luma Ultra AR/XRグラス VGP&BEST BUY受賞 フル6DoF対応 ARハンドジェスチャー 1500nit | 152型XRグラス 2D-3D変換対応 iPhone 15シリーズ以降（iPhone AirおよびiPhone eシリーズを除く）、DP出力Android、Mac/PC対応 PS5, Xbx, Switch/Switch 2は別売ドック必要",
     "percent_off": 16
-  },
-  "B0GQZVG4MD": {
-    "first_seen": "2026-11-10",
-    "first_seen_at": "2026-11-10T15:15:03+09:00",
-    "last_seen": "2026-11-12",
-    "title": "Ray-Ban Meta スマートグラス WAYFARER 調光レンズ IPX4防水トランスP.グレー/サファイア 50mm 0RW4012",
-    "percent_off": 15
   },
   "B0H8PKFJG4": {
     "first_seen": "2026-11-04",
@@ -1082,7 +1082,7 @@
     "first_seen_at": "2026-11-05T21:15:35+09:00",
     "last_seen": "2026-11-12",
     "title": "Logicool G ゲーミングマウス G705 ワイヤレス マウス LIGHTSPEED Bluetooth 2種類無線接続に対応 LIGHTSYNC RGB 85g 軽量 PC windows mac ホワイト G705WL 国内正規品",
-    "percent_off": 30
+    "percent_off": 31
   },
   "B00FJ0GDLQ": {
     "first_seen": "2026-09-26",
@@ -1097,13 +1097,6 @@
     "last_seen": "2026-11-12",
     "title": "【Amazon.co.jp限定】 ロジクールワイヤレスマウス 静音 無線 Signature M550MBKs レギュラー ブラック 国内正規品 | レギュラーサイズ、3ボタン、電池式（単3形乾電池x1）、Bluetooth、Logi Bolt、Windows10、Windows11、macOS、iPadOS、Android、ChromeOS、M550、M550M、壁紙ダウンロード付き",
     "percent_off": 26
-  },
-  "B0DRJJT13G": {
-    "first_seen": "2026-11-11",
-    "first_seen_at": "2026-11-11T00:14:56+09:00",
-    "last_seen": "2026-11-12",
-    "title": "REALFORCE リアルフォース ラピッドトリガー キーボードGX1 ホワイト 静音 30ｇ TKLサイズ 静電容量無接点方式 最速0.1mm作動 Windows かな無し 日本語配列 日本製 ゲーミングキーボード 91キー X1UC23",
-    "percent_off": 25
   },
   "B0GL26M6Z2": {
     "first_seen": "2026-08-21",
@@ -1251,6 +1244,34 @@
     "last_seen": "2026-11-12",
     "title": "COSORI コソリ ノンフライヤー 2L 一人用 エアフライヤー オイル97％カット ミニ 卓上 フライヤー ブラック CAF-LI211-KJP | ノンフライヤー 人気 ランキング,省エネ,カラー:ブラック,PSE認証済み,一人用 ,専用レシピ付き,揚げ物,エアーフライヤー,電気フライヤー,ヘルシー",
     "percent_off": 15
+  },
+  "B0F99DF9RQ": {
+    "first_seen": "2026-08-26",
+    "first_seen_at": "2026-08-26T22:18:31+09:00",
+    "last_seen": "2026-11-12",
+    "title": "Anker Nano Charger (70W, 3 Ports) ホワイト | 70W USB-C急速充電器 小型で3台同時充電。USB-C2ポートとUSB-A1ポート搭載。GaN採用で持ち運びにも便利。MacBook Pro MacBook Air iPhone iPad Galaxy対応 PSE技術基準適合",
+    "percent_off": null
+  },
+  "B0FJS3P8NT": {
+    "first_seen": "2026-07-27",
+    "first_seen_at": "2026-07-27T12:00:00+09:00",
+    "last_seen": "2026-11-12",
+    "title": "UGREEN 45W USB-C*4+USB-A*1 急速充電器 Type-C GaNⅡ タイプc PSE適合/PD3.0/PPS/SCP/QC3.0 | マルチポートタイプCアダプター iPhone18/17/16/15 Galaxy S26 S25 Ultra、Pixel 10、iPadに対応",
+    "percent_off": 20
+  },
+  "B0GQZVG4MD": {
+    "first_seen": "2026-11-10",
+    "first_seen_at": "2026-11-10T15:15:03+09:00",
+    "last_seen": "2026-11-12",
+    "title": "Ray-Ban Meta スマートグラス WAYFARER 調光レンズ IPX4防水トランスP.グレー/サファイア 50mm 0RW4012",
+    "percent_off": 15
+  },
+  "B0DRJJT13G": {
+    "first_seen": "2026-11-11",
+    "first_seen_at": "2026-11-11T00:14:56+09:00",
+    "last_seen": "2026-11-12",
+    "title": "REALFORCE リアルフォース ラピッドトリガー キーボードGX1 ホワイト 静音 30ｇ TKLサイズ 静電容量無接点方式 最速0.1mm作動 Windows かな無し 日本語配列 日本製 ゲーミングキーボード 91キー X1UC23",
+    "percent_off": 25
   },
   "B09QMCFQJL": {
     "first_seen": "2026-11-06",
@@ -1546,13 +1567,6 @@
     "title": "Anker MagGo Wireless Charging Station (Foldable 3-in-1) ホワイト | 旅行 / 持ち運び 充電器 / ワイヤレス充電器 / magsafe充電器 / apple watch 充電器 / Qi2 15W / magsafe対応 / Airpods充電 / iPhone 18 / 17 / 16 シリーズ",
     "percent_off": 33
   },
-  "B09CH44769": {
-    "first_seen": "2026-11-04",
-    "first_seen_at": "2026-11-04T01:15:06+09:00",
-    "last_seen": "2026-11-11",
-    "title": "Anker PowerPort III 3-Port 65W Pod ブラック | 65W 充電器 USB-C PD【独自技術Anker GaN II採用/PD対応/PSE技術基準適合/折りたたみ式プラグ】MacBook PD対応Windows PC iPad iPhone Galaxy Android",
-    "percent_off": 27
-  },
   "B099ZNTRL5": {
     "first_seen": "2026-10-23",
     "first_seen_at": "2026-10-23T21:15:12+09:00",
@@ -1573,13 +1587,6 @@
     "last_seen": "2026-11-11",
     "title": "HUAWEI WATCH FIT 4 Pro スマートウォッチ 薄型軽量 大画面 GPS内蔵 10日間ロングバッテリー ゴルフ 心電図 睡眠 グリーン | iPhone対応 android対応 ゴルフ機能 アウトドアに適した気圧計と測位システム 1.82インチ 3000nitsディスプレイ サファイアガラス チタン合金ベゼル LINE通知 健康管理 情緒測定 ランニング 防水",
     "percent_off": 27
-  },
-  "B0DDCR5WYQ": {
-    "first_seen": "2026-11-03",
-    "first_seen_at": "2026-11-03T12:15:59+09:00",
-    "last_seen": "2026-11-11",
-    "title": "ガーミン(GARMIN) フラッグシップモデル fenix 8 Sapphire AMOLED 47mm Ti Carbon Gray DLC/Black マルチスポーツGPSウォッチ【AMOLEDディスプレイ】 【ランニング・ゴルフ・登山・サイクリング等30種類以上対応】【Android/iOS対応】【Suica機能搭載】【ビジネスシーンもOK】【日本正規品】心電図(ECG)アプリ対応モデル",
-    "percent_off": 13
   },
   "B0FKH323P1": {
     "first_seen": "2026-10-29",
@@ -1790,13 +1797,6 @@
     "last_seen": "2026-11-11",
     "title": "CIO 半固体 モバイルバッテリー ワイヤレス充電 5000mAh SMARTCOBY SLIM Ⅱ Wireless 2.2 SS5K(シルバー) | iPhone18 Pro対応, Pixel10対応, ワイヤレス25W急速, USB-C20W対応, 超薄型で携帯",
     "percent_off": 14
-  },
-  "B0DMN885ZF": {
-    "first_seen": "2026-08-05",
-    "first_seen_at": "2026-08-05T03:07:44+09:00",
-    "last_seen": "2026-11-11",
-    "title": "UGREEN 45W USB-C 急速充電器 Type-C PD GaNⅡ充電器 PSE適合タイプc充電器 PD/PPS/SCP/QC3.0 | MacBook PD対応 iphone17/15/14/13/12 iPad Galaxy Android スマートフォン ノートPC 各機種対応",
-    "percent_off": 34
   },
   "B0BWF4JPWS": {
     "first_seen": "2026-10-22",

@@ -1423,10 +1423,12 @@
    "variation_count": 1
   },
   "B0FQHS9C5V": {
-   "aliases": {},
+   "aliases": {
+    "B0FQFQHJRC": "2026-11-12"
+   },
    "genre": "Apple製品",
    "label": "Apple Watch Series 11(GPSモデル)- 42mmローズゴー",
-   "last_sweep_at": "2026-11-12T01:07:16+09:00",
+   "last_sweep_at": "2026-11-12T02:07:17+09:00",
    "members": {
     "B0FQFJ1XJN": {
      "last_seen": "2026-11-12",
@@ -4487,7 +4489,7 @@
     "B0HJ9ZQ95N": "2026-11-01",
     "B0HJB462SW": "2026-11-03",
     "B0HJBC9KB8": "2026-10-31",
-    "B0HJBCWLXC": "2026-11-11"
+    "B0HJBCWLXC": "2026-11-12"
    },
    "genre": "Apple製品",
    "label": "Apple iPhone 18 Pro (256 GB) - シルバー",
@@ -4557,15 +4559,15 @@
    "aliases": {},
    "genre": "Apple製品",
    "label": "ワイヤレス充電ケース付きApple AirPods 5ワイヤレスイヤーバッド",
-   "last_sweep_at": "2026-11-11T20:07:13+09:00",
+   "last_sweep_at": "2026-11-12T02:07:17+09:00",
    "members": {
     "B0HJ9VNBZ8": {
-     "last_seen": "2026-11-11",
+     "last_seen": "2026-11-12",
      "pct": 0,
      "points_pct": 2
     },
     "B0HJB2HN1R": {
-     "last_seen": "2026-11-11",
+     "last_seen": "2026-11-12",
      "pct": 0,
      "points_pct": 1
     }
