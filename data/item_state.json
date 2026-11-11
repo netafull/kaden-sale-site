@@ -1,4 +1,18 @@
 {
+  "B0GR1N1QRX": {
+    "first_seen": "2026-11-07",
+    "first_seen_at": "2026-11-07T06:16:05+09:00",
+    "last_seen": "2026-11-11",
+    "title": "Apple 2026 MacBook Pro 15コアCPU、16コアGPUのM5 Proチップ搭載ノートパソコン：AIのために設計、14.2インチLiquid Retina XDRディスプレイ、24GBユニファイドメモリ、2TBのSSDストレージ - シルバー",
+    "percent_off": 17
+  },
+  "B0HF7K6YZD": {
+    "first_seen": "2026-11-07",
+    "first_seen_at": "2026-11-07T06:16:05+09:00",
+    "last_seen": "2026-11-11",
+    "title": "Apple 2026 MacBook Pro 15コアCPU、16コアGPUのM5 Proチップ搭載ノートパソコン：AIのために設計、14.2インチLiquid Retina XDRディスプレイ、24GBユニファイドメモリ、2TBのSSDストレージ - シルバー (× 3)",
+    "percent_off": 17
+  },
   "B0FQFW26JS": {
     "first_seen": "2026-09-26",
     "first_seen_at": "2026-09-26T22:15:02+09:00",
@@ -111,13 +125,6 @@
     "title": "Apple 2024 iMac 10 コア CPU、10 コア GPU の M4 チップ搭載オールインワンデスク トップコンピュータ: Apple Intelligence のために設計、24 インチ Retina ディスプレ イ、16GBユニファイドメモリ、512GBの SSD ストレージ、ボディと同じカラーのアクセサリ、iPhone や iPad との連係機能 - グリーン",
     "percent_off": 8
   },
-  "B0DL6RT3DN": {
-    "first_seen": "2026-10-30",
-    "first_seen_at": "2026-10-30T20:16:01+09:00",
-    "last_seen": "2026-11-11",
-    "title": "Apple 2024 iMac 10 コア CPU、10 コア GPU の M4 チップ搭載オールインワンデスク トップコンピュータ: Apple Intelligence のために設計、24 インチ Retina ディスプレ イ、16GBユニファイドメモリ、256GBの SSD ストレージ、ボディと同じカラーのアクセサリ、iPhone や iPad との連係機能 - ピンク",
-    "percent_off": 9
-  },
   "B0DL7CSGCG": {
     "first_seen": "2026-11-03",
     "first_seen_at": "2026-11-03T22:15:46+09:00",
@@ -131,6 +138,13 @@
     "last_seen": "2026-11-11",
     "title": "iPad(A16と第10世代)用Magic Keyboard Folio - 日本語",
     "percent_off": 8
+  },
+  "B0DL6RT3DN": {
+    "first_seen": "2026-10-30",
+    "first_seen_at": "2026-10-30T20:16:01+09:00",
+    "last_seen": "2026-11-11",
+    "title": "Apple 2024 iMac 10 コア CPU、10 コア GPU の M4 チップ搭載オールインワンデスク トップコンピュータ: Apple Intelligence のために設計、24 インチ Retina ディスプレ イ、16GBユニファイドメモリ、256GBの SSD ストレージ、ボディと同じカラーのアクセサリ、iPhone や iPad との連係機能 - ピンク",
+    "percent_off": 7
   },
   "B0DZ88B84T": {
     "first_seen": "2026-10-23",
@@ -151,20 +165,6 @@
     "first_seen_at": "2026-10-28T13:16:03+09:00",
     "last_seen": "2026-11-11",
     "title": "Apple Watch Ultra 3(GPS + Cellularモデル)- 49mmブラックチタニウムケースとブラック/チャコールトレイルループ - S/M + 2年延長 AppleCare+ for Apple Watch Ultra 3",
-    "percent_off": 8
-  },
-  "B0GR1N1QRX": {
-    "first_seen": "2026-11-07",
-    "first_seen_at": "2026-11-07T06:16:05+09:00",
-    "last_seen": "2026-11-11",
-    "title": "Apple 2026 MacBook Pro 15コアCPU、16コアGPUのM5 Proチップ搭載ノートパソコン：AIのために設計、14.2インチLiquid Retina XDRディスプレイ、24GBユニファイドメモリ、2TBのSSDストレージ - シルバー",
-    "percent_off": 8
-  },
-  "B0HF7K6YZD": {
-    "first_seen": "2026-11-07",
-    "first_seen_at": "2026-11-07T06:16:05+09:00",
-    "last_seen": "2026-11-11",
-    "title": "Apple 2026 MacBook Pro 15コアCPU、16コアGPUのM5 Proチップ搭載ノートパソコン：AIのために設計、14.2インチLiquid Retina XDRディスプレイ、24GBユニファイドメモリ、2TBのSSDストレージ - シルバー (× 3)",
     "percent_off": 8
   },
   "B0FQFQDN6K": {
@@ -741,19 +741,19 @@
     "title": "SwitchBot スイッチボット スイッチ ボタンに適用 指ロボット スマートスイッチ スマートホーム ワイヤレス タイマー スマホで遠隔操作 Alexa, Google Home, Siri, IFTTTなどに対応(ハブ必要) ホワイト",
     "percent_off": 27
   },
+  "B0DYD1R49S": {
+    "first_seen": "2026-11-06",
+    "first_seen_at": "2026-11-06T00:15:23+09:00",
+    "last_seen": "2026-11-11",
+    "title": "SwitchBot 空気清浄機Table スマートリモコン ハブ2 アレクサ - スイッチボット 25畳 小型 省エネ 大風量 360度全方位 浄化 消臭 除菌 集じん HEPA フィルター 花粉 ニオイ対策 タイマー機能 Alexa Google Home Siriに対応 (空気清浄機Table 1点+ハブ2 1点)",
+    "percent_off": 23
+  },
   "B0CL4R54X4": {
     "first_seen": "2026-11-04",
     "first_seen_at": "2026-11-04T00:15:51+09:00",
     "last_seen": "2026-11-11",
     "title": "SwitchBot 気化式加湿器 Alexa 大容量 4.5L 21畳対応 省エネ 上から給水 18dB静音 抗菌 フィルター洗濯機可 スマートホーム | フィルター自動乾燥・加湿量750ml/h・最大22.5時間稼働・Google Home / Siri対応",
     "percent_off": 20
-  },
-  "B0DYD1CZHM": {
-    "first_seen": "2026-11-06",
-    "first_seen_at": "2026-11-06T11:15:52+09:00",
-    "last_seen": "2026-11-11",
-    "title": "SwitchBot 空気清浄機 スマートリモコン ハブ2 アレクサ - スイッチボット 25畳 小型 省エネ 大風量 360度全方位 浄化 消臭 除菌 集じん HEPA フィルター 花粉 ニオイ対策 抜け毛対策 タイマー機能 Alexa Google Home Siriに対応 (空気清浄機 1点+ハブ2 1点)",
-    "percent_off": 21
   },
   "B0F7GGN94D": {
     "first_seen": "2026-11-04",
@@ -965,6 +965,13 @@
     "title": "Amazon Fire TV Stick HD | 手軽にストリーミングをはじめよう | ストリーミングメディアプレイヤー",
     "percent_off": 50
   },
+  "B0G2TXCWFH": {
+    "first_seen": "2026-11-04",
+    "first_seen_at": "2026-11-04T09:15:07+09:00",
+    "last_seen": "2026-11-11",
+    "title": "Amazon Fire TV Stick 4K Select | 4Kの高画質ストリーミング | ストリーミングメディアプレイヤー",
+    "percent_off": 46
+  },
   "B0G2TQZMY1": {
     "first_seen": "2026-11-04",
     "first_seen_at": "2026-11-04T10:15:10+09:00",
@@ -986,26 +993,12 @@
     "title": "Alexa対応音声認識リモコン Pro | 対応する別売りのFire TV本体が必要です",
     "percent_off": 30
   },
-  "B0H25V3WSP": {
-    "first_seen": "2026-11-04",
-    "first_seen_at": "2026-11-04T22:14:46+09:00",
-    "last_seen": "2026-11-11",
-    "title": "【セット買い】Amazon Fire TV Stick 4K Select + Amazon Fire TV Soundbar Plus",
-    "percent_off": 27
-  },
   "B0CX8MT2M2": {
     "first_seen": "2026-11-04",
     "first_seen_at": "2026-11-04T05:15:15+09:00",
     "last_seen": "2026-11-11",
     "title": "Amazon Kindle Colorsoft | 16GBストレージ、防水、7インチカラーディスプレイ、色調調節ライト、最大8週間持続バッテリー、広告無し、ブラック (2025年発売)",
     "percent_off": 19
-  },
-  "B0H262HBX2": {
-    "first_seen": "2026-11-04",
-    "first_seen_at": "2026-11-04T22:14:46+09:00",
-    "last_seen": "2026-11-11",
-    "title": "【セット買い】Amazon Fire TV Stick 4K Max + Amazon Fire TV Soundbar Plus",
-    "percent_off": 15
   },
   "B0C9D8VTH7": {
     "first_seen": "2026-09-26",
@@ -1259,6 +1252,27 @@
     "title": "COSORI コソリ ノンフライヤー 2L 一人用 エアフライヤー オイル97％カット ミニ 卓上 フライヤー ブラック CAF-LI211-KJP | ノンフライヤー 人気 ランキング,省エネ,カラー:ブラック,PSE認証済み,一人用 ,専用レシピ付き,揚げ物,エアーフライヤー,電気フライヤー,ヘルシー",
     "percent_off": 15
   },
+  "B0DYD1CZHM": {
+    "first_seen": "2026-11-06",
+    "first_seen_at": "2026-11-06T11:15:52+09:00",
+    "last_seen": "2026-11-11",
+    "title": "SwitchBot 空気清浄機 スマートリモコン ハブ2 アレクサ - スイッチボット 25畳 小型 省エネ 大風量 360度全方位 浄化 消臭 除菌 集じん HEPA フィルター 花粉 ニオイ対策 抜け毛対策 タイマー機能 Alexa Google Home Siriに対応 (空気清浄機 1点+ハブ2 1点)",
+    "percent_off": 21
+  },
+  "B0H25V3WSP": {
+    "first_seen": "2026-11-04",
+    "first_seen_at": "2026-11-04T22:14:46+09:00",
+    "last_seen": "2026-11-11",
+    "title": "【セット買い】Amazon Fire TV Stick 4K Select + Amazon Fire TV Soundbar Plus",
+    "percent_off": 27
+  },
+  "B0H262HBX2": {
+    "first_seen": "2026-11-04",
+    "first_seen_at": "2026-11-04T22:14:46+09:00",
+    "last_seen": "2026-11-11",
+    "title": "【セット買い】Amazon Fire TV Stick 4K Max + Amazon Fire TV Soundbar Plus",
+    "percent_off": 15
+  },
   "B08X11GD52": {
     "first_seen": "2026-11-04",
     "first_seen_at": "2026-11-04T00:15:51+09:00",
@@ -1279,13 +1293,6 @@
     "last_seen": "2026-11-11",
     "title": "KIOXIA(キオクシア) 旧東芝メモリ microSD 128GB UHS-I Class10 (最大読出速度100MB/s) Nintendo Switch動作確認済 国内サポート正規品 メーカー保証5年 KLMEA128G (× 5)",
     "percent_off": 22
-  },
-  "B0DYD1R49S": {
-    "first_seen": "2026-11-06",
-    "first_seen_at": "2026-11-06T00:15:23+09:00",
-    "last_seen": "2026-11-11",
-    "title": "SwitchBot 空気清浄機Table スマートリモコン ハブ2 アレクサ - スイッチボット 25畳 小型 省エネ 大風量 360度全方位 浄化 消臭 除菌 集じん HEPA フィルター 花粉 ニオイ対策 タイマー機能 Alexa Google Home Siriに対応 (空気清浄機Table 1点+ハブ2 1点)",
-    "percent_off": 23
   },
   "B0DGJBNYVY": {
     "first_seen": "2026-09-05",
@@ -1566,13 +1573,6 @@
     "last_seen": "2026-11-10",
     "title": "GARMIN(ガーミン)Venu 4 Silver/Gray 45mm スマートウォッチ AMOLED ディスプレイ ロングバッテリー 健康 フィットネス ワークアウト Suica対応/心拍センサー/ストレスレベル・睡眠時間測定/iOS・アンドロイド対応/心電図(ECG)アプリ対応モデル【日本正規品】",
     "percent_off": 15
-  },
-  "B0G2TXCWFH": {
-    "first_seen": "2026-11-04",
-    "first_seen_at": "2026-11-04T09:15:07+09:00",
-    "last_seen": "2026-11-10",
-    "title": "Amazon Fire TV Stick 4K Select | 4Kの高画質ストリーミング | ストリーミングメディアプレイヤー",
-    "percent_off": 46
   },
   "B0F1FD99K8": {
     "first_seen": "2026-09-25",
