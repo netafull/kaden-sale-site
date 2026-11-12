@@ -4696,8 +4696,8 @@
     },
     "B0DGJBNYVY": {
      "last_seen": "2026-11-13",
-     "pct": 24,
-     "points_pct": 1
+     "pct": null,
+     "points_pct": null
     },
     "B0DT2X3TKG": {
      "last_seen": "2026-11-12",
@@ -4706,8 +4706,8 @@
     },
     "B0DT3XJKH9": {
      "last_seen": "2026-11-13",
-     "pct": 22,
-     "points_pct": 0
+     "pct": null,
+     "points_pct": null
     }
    },
    "no_variations": false,
