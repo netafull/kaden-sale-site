@@ -1617,6 +1617,122 @@
    "seed": "B0HJB1CR9Q",
    "variation_count": 9
   },
+  "B0FQJ56MKH": {
+   "aliases": {},
+   "genre": "Apple製品",
+   "label": "Apple Watch Band - モダンバックル - （42mm）ケース用 ",
+   "last_sweep_at": "2026-11-12T17:07:14+09:00",
+   "members": {
+    "B0FQFJFZ44": {
+     "last_seen": "2026-11-12",
+     "pct": null,
+     "points_pct": null
+    },
+    "B0FQG21TRG": {
+     "last_seen": "2026-11-12",
+     "pct": 32,
+     "points_pct": 0
+    },
+    "B0FQG75VGH": {
+     "last_seen": "2026-11-12",
+     "pct": null,
+     "points_pct": null
+    },
+    "B0FQG9K843": {
+     "last_seen": "2026-11-12",
+     "pct": 0,
+     "points_pct": 1
+    },
+    "B0FQGLL8WR": {
+     "last_seen": "2026-11-12",
+     "pct": 27,
+     "points_pct": 1
+    },
+    "B0FQGPHLH1": {
+     "last_seen": "2026-11-12",
+     "pct": 26,
+     "points_pct": 1
+    },
+    "B0FQGWJXBK": {
+     "last_seen": "2026-11-12",
+     "pct": 0,
+     "points_pct": 1
+    },
+    "B0FQGY7V77": {
+     "last_seen": "2026-11-12",
+     "pct": null,
+     "points_pct": null
+    },
+    "B0FQGYRXCK": {
+     "last_seen": "2026-11-12",
+     "pct": 0,
+     "points_pct": 1
+    },
+    "B0HJ9QKZLK": {
+     "last_seen": "2026-11-12",
+     "pct": 0,
+     "points_pct": 1
+    },
+    "B0HJ9XGMK4": {
+     "last_seen": "2026-11-12",
+     "pct": 0,
+     "points_pct": 1
+    },
+    "B0HJ9Y3FDP": {
+     "last_seen": "2026-11-12",
+     "pct": 0,
+     "points_pct": 1
+    },
+    "B0HJB1DFY2": {
+     "last_seen": "2026-11-12",
+     "pct": 0,
+     "points_pct": 1
+    },
+    "B0HJB2JXB3": {
+     "last_seen": "2026-11-12",
+     "pct": 0,
+     "points_pct": 1
+    },
+    "B0HJB2WGJ3": {
+     "last_seen": "2026-11-12",
+     "pct": 0,
+     "points_pct": 1
+    },
+    "B0HJB3FQFM": {
+     "last_seen": "2026-11-12",
+     "pct": 0,
+     "points_pct": 1
+    },
+    "B0HJB9B57K": {
+     "last_seen": "2026-11-12",
+     "pct": 0,
+     "points_pct": 1
+    },
+    "B0HJBCHMPV": {
+     "last_seen": "2026-11-12",
+     "pct": 0,
+     "points_pct": 1
+    },
+    "B0HJBCHY6V": {
+     "last_seen": "2026-11-12",
+     "pct": 0,
+     "points_pct": 1
+    },
+    "B0HJBF4KSN": {
+     "last_seen": "2026-11-12",
+     "pct": 0,
+     "points_pct": 1
+    },
+    "B0HJBHPFDH": {
+     "last_seen": "2026-11-12",
+     "pct": 0,
+     "points_pct": 5
+    }
+   },
+   "no_variations": false,
+   "seed": "B0FQG21TRG",
+   "variation_count": 21
+  },
   "B0FQJ5KGWW": {
    "aliases": {},
    "genre": "Apple製品",
