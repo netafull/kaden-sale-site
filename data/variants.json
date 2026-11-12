@@ -57,7 +57,7 @@
    },
    "genre": "Apple製品",
    "label": "2022 Apple TV 4K 128GBストレージ搭載Wi‑Fi + Eth",
-   "last_sweep_at": "2026-11-12T06:08:30+09:00",
+   "last_sweep_at": "2026-11-12T13:07:14+09:00",
    "members": {
     "B0BJLHHQ7H": {
      "last_seen": "2026-11-12",
@@ -1365,7 +1365,7 @@
    },
    "genre": "Apple製品",
    "label": "Apple iPhone 17 256GB (SIMフリー)：ProMotion",
-   "last_sweep_at": "2026-11-12T06:08:30+09:00",
+   "last_sweep_at": "2026-11-12T13:07:14+09:00",
    "members": {
     "B0FQFWNSB8": {
      "last_seen": "2026-11-09",
@@ -1400,7 +1400,7 @@
    },
    "no_variations": false,
    "seed": "B0FQG91G3M",
-   "variation_count": 4
+   "variation_count": 3
   },
   "B0FQHD1GNH": {
    "aliases": {
@@ -2339,7 +2339,7 @@
    },
    "genre": "Apple製品",
    "label": "Apple Watch Ultra 3(GPS + Cellularモデル)- ",
-   "last_sweep_at": "2026-11-12T06:08:30+09:00",
+   "last_sweep_at": "2026-11-12T13:07:14+09:00",
    "members": {
     "B0FQFW26JS": {
      "last_seen": "2026-11-12",
@@ -2434,7 +2434,7 @@
    },
    "no_variations": false,
    "seed": "B0FQFW26JS",
-   "variation_count": 16
+   "variation_count": 14
   },
   "B0FTZ8XV4Y": {
    "aliases": {},
@@ -2646,7 +2646,7 @@
    },
    "genre": "Apple製品",
    "label": "Apple 2025 MacBook Pro 10 コアCPU、10 コアGPU",
-   "last_sweep_at": "2026-11-12T06:08:30+09:00",
+   "last_sweep_at": "2026-11-12T13:07:14+09:00",
    "members": {
     "B0GR1LNP9V": {
      "last_seen": "2026-11-12",
@@ -2690,7 +2690,7 @@
     },
     "B0HF7K6YZD": {
      "last_seen": "2026-11-12",
-     "pct": 17,
+     "pct": 0,
      "points_pct": 0
     }
    },
@@ -4603,8 +4603,8 @@
     },
     "B0DGJBNYVY": {
      "last_seen": "2026-11-12",
-     "pct": 26,
-     "points_pct": 1
+     "pct": null,
+     "points_pct": null
     },
     "B0DT2X3TKG": {
      "last_seen": "2026-11-12",
@@ -4613,8 +4613,8 @@
     },
     "B0DT3XJKH9": {
      "last_seen": "2026-11-12",
-     "pct": 24,
-     "points_pct": 0
+     "pct": null,
+     "points_pct": null
     }
    },
    "no_variations": false,
