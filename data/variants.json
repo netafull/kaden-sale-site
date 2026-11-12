@@ -57,7 +57,7 @@
    },
    "genre": "Apple製品",
    "label": "2022 Apple TV 4K 128GBストレージ搭載Wi‑Fi + Eth",
-   "last_sweep_at": "2026-11-12T13:07:14+09:00",
+   "last_sweep_at": "2026-11-12T19:07:18+09:00",
    "members": {
     "B0BJLHHQ7H": {
      "last_seen": "2026-11-12",
@@ -1365,7 +1365,7 @@
    },
    "genre": "Apple製品",
    "label": "Apple iPhone 17 256GB (SIMフリー)：ProMotion",
-   "last_sweep_at": "2026-11-12T13:07:14+09:00",
+   "last_sweep_at": "2026-11-12T19:07:18+09:00",
    "members": {
     "B0FQFWNSB8": {
      "last_seen": "2026-11-09",
@@ -2455,7 +2455,7 @@
    },
    "genre": "Apple製品",
    "label": "Apple Watch Ultra 3(GPS + Cellularモデル)- ",
-   "last_sweep_at": "2026-11-12T13:07:14+09:00",
+   "last_sweep_at": "2026-11-12T19:07:18+09:00",
    "members": {
     "B0FQFW26JS": {
      "last_seen": "2026-11-12",
@@ -2550,7 +2550,7 @@
    },
    "no_variations": false,
    "seed": "B0FQFW26JS",
-   "variation_count": 14
+   "variation_count": 12
   },
   "B0FTZ8XV4Y": {
    "aliases": {},
@@ -2762,7 +2762,7 @@
    },
    "genre": "Apple製品",
    "label": "Apple 2025 MacBook Pro 10 コアCPU、10 コアGPU",
-   "last_sweep_at": "2026-11-12T13:07:14+09:00",
+   "last_sweep_at": "2026-11-12T19:07:18+09:00",
    "members": {
     "B0GR1LNP9V": {
      "last_seen": "2026-11-12",
@@ -4719,8 +4719,8 @@
     },
     "B0DGJBNYVY": {
      "last_seen": "2026-11-12",
-     "pct": 26,
-     "points_pct": 1
+     "pct": null,
+     "points_pct": null
     },
     "B0DT2X3TKG": {
      "last_seen": "2026-11-12",
