@@ -1,11 +1,4 @@
 {
-  "B0DGJBNYVY": {
-    "first_seen": "2026-09-05",
-    "first_seen_at": "2026-09-05T08:14:38+09:00",
-    "last_seen": "2026-11-13",
-    "title": "Apple AirPods 4 アクティブノイズ キャンセリング搭載、ワイヤレスイヤホン、Bluetooth 5.3、ライブ翻訳、適応型オーディオ、外部音取り込みモード、パーソナライズされた空間オーディオ、USB-C充電ケース、ワイヤレス充電、H2チップ、防塵性能と耐汗耐水性能、「探す」対応、Qi充電",
-    "percent_off": 24
-  },
   "B0DL79BMXJ": {
     "first_seen": "2026-10-26",
     "first_seen_at": "2026-10-26T22:25:29+09:00",
@@ -20,11 +13,25 @@
     "title": "Apple 2024 iMac 10 コア CPU、10 コア GPU の M4 チップ搭載オールインワンデスク トップコンピュータ: Apple Intelligence のために設計、24 インチ Retina ディスプレ イ、16GBユニファイドメモリ、512GBの SSD ストレージ、ボディと同じカラーのアクセサリ、iPhone や iPad との連係機能 - グリーン",
     "percent_off": 17
   },
+  "B0DZ7YJC17": {
+    "first_seen": "2026-10-26",
+    "first_seen_at": "2026-10-26T22:25:29+09:00",
+    "last_seen": "2026-11-13",
+    "title": "Apple 11 イン チ iPad Air (M4) 用 Apple Magic Keyboard ケース: 快適にタイピングできるキー ボード、内蔵トラックパッド、中国語(注音) - ホワイト",
+    "percent_off": 15
+  },
   "B0FQFW26JS": {
     "first_seen": "2026-09-26",
     "first_seen_at": "2026-09-26T22:15:02+09:00",
     "last_seen": "2026-11-13",
     "title": "Apple Watch Ultra 3(GPS + Cellularモデル)- 49mmナチュラルチタニウムケースとライトブルーアルパインループ - M",
+    "percent_off": 13
+  },
+  "B0FQG6NZ6T": {
+    "first_seen": "2026-10-11",
+    "first_seen_at": "2026-10-11T18:14:49+09:00",
+    "last_seen": "2026-11-13",
+    "title": "Apple Watch Ultra 3(GPS + Cellularモデル)- 49mmナチュラルチタニウムケースとブルー/ブライトブルートレイルループ - M/L",
     "percent_off": 13
   },
   "B0FQGHYWRH": {
@@ -53,6 +60,13 @@
     "first_seen_at": "2026-10-17T07:14:46+09:00",
     "last_seen": "2026-11-13",
     "title": "Apple Watch Ultra 3(GPS + Cellularモデル)- 49mmナチュラルチタニウムケースとナチュラルチタニウムミラネーゼループ - M",
+    "percent_off": 12
+  },
+  "B0FRYZJPDJ": {
+    "first_seen": "2026-10-11",
+    "first_seen_at": "2026-10-11T18:14:49+09:00",
+    "last_seen": "2026-11-13",
+    "title": "Apple Watch Ultra 3(GPS + Cellularモデル)- 49mmナチュラルチタニウムケースとブルー/ブライトブルートレイルループ - M/L + 2年延長 AppleCare+ for Apple Watch Ultra 3",
     "percent_off": 12
   },
   "B0FRZ2CS5T": {
@@ -111,13 +125,6 @@
     "title": "Apple Watch Ultra 3(GPS + Cellularモデル)- 49mmブラックチタニウムケースとブラック/チャコールトレイルループ - S/M",
     "percent_off": 9
   },
-  "B0FQG6NZ6T": {
-    "first_seen": "2026-10-11",
-    "first_seen_at": "2026-10-11T18:14:49+09:00",
-    "last_seen": "2026-11-13",
-    "title": "Apple Watch Ultra 3(GPS + Cellularモデル)- 49mmナチュラルチタニウムケースとブルー/ブライトブルートレイルループ - M/L",
-    "percent_off": 10
-  },
   "B0DL6MTB5K": {
     "first_seen": "2026-11-02",
     "first_seen_at": "2026-11-02T13:15:20+09:00",
@@ -138,13 +145,6 @@
     "last_seen": "2026-11-13",
     "title": "iPad(A16と第10世代)用Magic Keyboard Folio - 日本語",
     "percent_off": 8
-  },
-  "B0FRYZJPDJ": {
-    "first_seen": "2026-10-11",
-    "first_seen_at": "2026-10-11T18:14:49+09:00",
-    "last_seen": "2026-11-13",
-    "title": "Apple Watch Ultra 3(GPS + Cellularモデル)- 49mmナチュラルチタニウムケースとブルー/ブライトブルートレイルループ - M/L + 2年延長 AppleCare+ for Apple Watch Ultra 3",
-    "percent_off": 9
   },
   "B0DL6RT3DN": {
     "first_seen": "2026-10-30",
@@ -194,13 +194,6 @@
     "last_seen": "2026-11-13",
     "title": "Apple 2024 iMac 8 コア CPU、8 コア GPU の M4 チップ搭載オールインワンデスクト ップコンピュータ: Apple Intelligence のために設計、24 インチ Retina ディスプレイ、 16GBユニファイドメモリ、256GBの SSD ストレージ、ボディと同じカラーの アクセサリ、iPhone や iPad との連係機能 - ピンク",
     "percent_off": 5
-  },
-  "B0DZ7YJC17": {
-    "first_seen": "2026-10-26",
-    "first_seen_at": "2026-10-26T22:25:29+09:00",
-    "last_seen": "2026-11-13",
-    "title": "Apple 11 イン チ iPad Air (M4) 用 Apple Magic Keyboard ケース: 快適にタイピングできるキー ボード、内蔵トラックパッド、中国語(注音) - ホワイト",
-    "percent_off": 6
   },
   "B0FWDBWC7F": {
     "first_seen": "2026-10-22",
@@ -342,13 +335,6 @@
     "title": "Anker Nano Power Bank (30W, Built-In USB-C Cable) ブラック | モバイルバッテリー 10000mAh 30W出力 大容量 ディスプレイ搭載 USB-Cケーブル一体型)【PD/PowerIQ搭載/PSE技術基準適合】iPhone 18 / 17 / 16 / 15 Android MacBook その他各種機器対応",
     "percent_off": 16
   },
-  "B0C5CBV6L3": {
-    "first_seen": "2026-10-30",
-    "first_seen_at": "2026-10-30T00:15:48+09:00",
-    "last_seen": "2026-11-13",
-    "title": "Anker Prime Wall Charger (67W, 3 ports, GaN) (ブラック) | 充電器【 PD対応/PSE技術基準適合/折りたたみ式プラグ】iphone 18 / 17 Pro / 17 Pro Max 他 iPhone シリーズ MacBook Windows PC iPad Galaxy Android スマートフォン",
-    "percent_off": 53
-  },
   "B098SQSRRV": {
     "first_seen": "2026-07-31",
     "first_seen_at": "2026-07-31T12:00:00+09:00",
@@ -363,6 +349,13 @@
     "title": "【VGP受賞】Belkin 充電器 USB-C 2ポート PPS規格対応 GaN採用 小型 ACアダプター タイプC 急速充電 軽量【PD3.0対応 /PSE認証/折りたたみ式プラグ】45W(25W+20W) MacBook Windows PC Surface Pro iPad iPhone 17,16～12対応 Galaxy Android スマホ 各種ノートPC対応 WCH011dqWH",
     "percent_off": 42
   },
+  "B0FL1SH21C": {
+    "first_seen": "2026-09-07",
+    "first_seen_at": "2026-09-07T21:14:48+09:00",
+    "last_seen": "2026-11-13",
+    "title": "Anker Zolo Charger (70W, 4 Ports) ホワイト | 70W USB-C急速充電器 4台同時充電対応。USB-C3ポートとUSB-A1ポートを搭載しPCとスマホをまとめて充電。MacBook Pro MacBook Air iPhone iPad Galaxy対応 PSE技術基準適合",
+    "percent_off": 39
+  },
   "B0D53VJJ7F": {
     "first_seen": "2026-07-28",
     "first_seen_at": "2026-07-28T12:00:00+09:00",
@@ -375,13 +368,6 @@
     "first_seen_at": "2026-08-09T19:54:50+09:00",
     "last_seen": "2026-11-13",
     "title": "Anker 511 Charger (Nano 3, 30W) ホワイト | 30W USB-C急速充電器 手のひらサイズでノートPCにも給電。GaN採用で折りたたみ式プラグ搭載。PD PPS対応 MacBook Air iPhone iPad Galaxy Pixel対応 PSE技術基準適合",
-    "percent_off": null
-  },
-  "B0CMQK8CMJ": {
-    "first_seen": "2026-08-05",
-    "first_seen_at": "2026-08-05T21:15:31+09:00",
-    "last_seen": "2026-11-13",
-    "title": "UGREEN NexodeX 100W GaNII充電器 USB-C*2+USB-A タイプC Type-C 急速充電器 PD3.0/PPS/QC4+ | PSE認証済/MacBook/iPhone17/16/15/Galaxy S26 ultra/Xperia ノートPC 各種対応 折りたたみ式プラグ",
     "percent_off": null
   },
   "B0GSVNFT8T": {
@@ -433,6 +419,13 @@
     "title": "Anker PowerPort III 3-Port 65W Pod ブラック | 65W 充電器 USB-C PD【独自技術Anker GaN II採用/PD対応/PSE技術基準適合/折りたたみ式プラグ】MacBook PD対応Windows PC iPad iPhone Galaxy Android",
     "percent_off": 24
   },
+  "B0CLGZGXMD": {
+    "first_seen": "2026-11-13",
+    "first_seen_at": "2026-11-13T14:14:50+09:00",
+    "last_seen": "2026-11-13",
+    "title": "UGREEN Nexode【当社比最小】65W PD充電器 USB-C*2+USB-A*1 急速充電器 PSE適合 PD/PPS/QC4+対応 | GaNチップ PD3.0/QC4+ 出張/旅行用 ノートPC iPad iphone17/Galaxy S26/Pixel8/Xperia5以降対応",
+    "percent_off": null
+  },
   "B06ZXXQGZ8": {
     "first_seen": "2026-10-13",
     "first_seen_at": "2026-10-13T00:16:25+09:00",
@@ -474,6 +467,13 @@
     "last_seen": "2026-11-13",
     "title": "UGREEN 45W USB-C 急速充電器 Type-C PD GaNⅡ充電器 PSE適合タイプc充電器 PD/PPS/SCP/QC3.0 | MacBook PD対応 iphone17/15/14/13/12 iPad Galaxy Android スマートフォン ノートPC 各機種対応",
     "percent_off": null
+  },
+  "B08PTPTMH5": {
+    "first_seen": "2026-10-13",
+    "first_seen_at": "2026-10-13T09:15:04+09:00",
+    "last_seen": "2026-11-13",
+    "title": "KIOXIA(キオクシア) 旧東芝メモリ microSD 128GB UHS-I Class10 (最大読出速度100MB/s) Nintendo Switch動作確認済 国内サポート正規品 メーカー保証5年 KLMEA128G",
+    "percent_off": 15
   },
   "B0GF26RSYQ": {
     "first_seen": "2026-07-27",
@@ -636,6 +636,13 @@
     "title": "東プレ REALFORCE GX1 Plus サザビー 日本語配列 ゲーミングキーボード X1PCS1",
     "percent_off": 38
   },
+  "B0FL6ZD3WL": {
+    "first_seen": "2026-07-29",
+    "first_seen_at": "2026-07-29T12:00:00+09:00",
+    "last_seen": "2026-11-13",
+    "title": "エレコム ワイヤレスキーボード Precisionist プレシジョニスト Bluetooth 無線2.4GHz マルチペアリング4台 充電式 薄型パンタグラフ式 フルサイズ ブラック TK-PN10FMPABK",
+    "percent_off": 36
+  },
   "B0FL77NZXM": {
     "first_seen": "2026-07-29",
     "first_seen_at": "2026-07-29T12:00:00+09:00",
@@ -650,19 +657,12 @@
     "title": "エレコム ワイヤレスキーボード メンブレン 薄型 フルキーボード テンキー ブラック TK-FDM110TXBK",
     "percent_off": 29
   },
-  "B07NDLV8M9": {
-    "first_seen": "2026-09-10",
-    "first_seen_at": "2026-09-10T20:14:59+09:00",
-    "last_seen": "2026-11-13",
-    "title": "エレコム キーボード 【マウスセット】 ワイヤレス (レシーバー付属) メンブレン フルキーボード ブラック TK-FDM106MBK",
-    "percent_off": 27
-  },
   "B0D9Y1J4NH": {
     "first_seen": "2026-09-26",
     "first_seen_at": "2026-09-26T10:14:59+09:00",
     "last_seen": "2026-11-13",
     "title": "【Amazon.co.jp限定】 ロジクール 静音 ワイヤレス トラックボール マウス 無線 M575SPd 国内正規品 | 筋肉緊張を軽減するエルゴノミックデザイン、Bluetooth、Logibolt、電池式（単三形乾電池x1）、windows、maOS、 iPadOS、ChromeOS、ブラック、M575、M575SP、Amazon.co.jp限定壁紙ダウンロード付き",
-    "percent_off": 21
+    "percent_off": 26
   },
   "B0FJRCJ1SN": {
     "first_seen": "2026-07-26",
@@ -776,6 +776,34 @@
     "title": "アイリスオーヤマ エア フライヤー 3L 過熱水蒸気式 | FV-M30A-C,1台5役,ほったらかし調理,ヘルシー調理,オリジナルレシピ公開中",
     "percent_off": 22
   },
+  "B0DGJBNYVY": {
+    "first_seen": "2026-09-05",
+    "first_seen_at": "2026-09-05T08:14:38+09:00",
+    "last_seen": "2026-11-13",
+    "title": "Apple AirPods 4 アクティブノイズ キャンセリング搭載、ワイヤレスイヤホン、Bluetooth 5.3、ライブ翻訳、適応型オーディオ、外部音取り込みモード、パーソナライズされた空間オーディオ、USB-C充電ケース、ワイヤレス充電、H2チップ、防塵性能と耐汗耐水性能、「探す」対応、Qi充電",
+    "percent_off": 24
+  },
+  "B0C5CBV6L3": {
+    "first_seen": "2026-10-30",
+    "first_seen_at": "2026-10-30T00:15:48+09:00",
+    "last_seen": "2026-11-13",
+    "title": "Anker Prime Wall Charger (67W, 3 ports, GaN) (ブラック) | 充電器【 PD対応/PSE技術基準適合/折りたたみ式プラグ】iphone 18 / 17 Pro / 17 Pro Max 他 iPhone シリーズ MacBook Windows PC iPad Galaxy Android スマートフォン",
+    "percent_off": 53
+  },
+  "B0CMQK8CMJ": {
+    "first_seen": "2026-08-05",
+    "first_seen_at": "2026-08-05T21:15:31+09:00",
+    "last_seen": "2026-11-13",
+    "title": "UGREEN NexodeX 100W GaNII充電器 USB-C*2+USB-A タイプC Type-C 急速充電器 PD3.0/PPS/QC4+ | PSE認証済/MacBook/iPhone17/16/15/Galaxy S26 ultra/Xperia ノートPC 各種対応 折りたたみ式プラグ",
+    "percent_off": null
+  },
+  "B07NDLV8M9": {
+    "first_seen": "2026-09-10",
+    "first_seen_at": "2026-09-10T20:14:59+09:00",
+    "last_seen": "2026-11-13",
+    "title": "エレコム キーボード 【マウスセット】 ワイヤレス (レシーバー付属) メンブレン フルキーボード ブラック TK-FDM106MBK",
+    "percent_off": 27
+  },
   "B0D8Q93VMG": {
     "first_seen": "2026-10-20",
     "first_seen_at": "2026-10-20T10:16:15+09:00",
@@ -796,13 +824,6 @@
     "last_seen": "2026-11-13",
     "title": "Amazon Kindle Colorsoft | 16GBストレージ、防水、7インチカラーディスプレイ、色調調節ライト、最大8週間持続バッテリー、広告無し、ブラック (2025年発売)",
     "percent_off": 19
-  },
-  "B0FL6ZD3WL": {
-    "first_seen": "2026-07-29",
-    "first_seen_at": "2026-07-29T12:00:00+09:00",
-    "last_seen": "2026-11-13",
-    "title": "エレコム ワイヤレスキーボード Precisionist プレシジョニスト Bluetooth 無線2.4GHz マルチペアリング4台 充電式 薄型パンタグラフ式 フルサイズ ブラック TK-PN10FMPABK",
-    "percent_off": 36
   },
   "B0DNKC8HXP": {
     "first_seen": "2026-08-02",
@@ -1146,13 +1167,6 @@
     "last_seen": "2026-11-12",
     "title": "【Amazon.co.jp限定】SanDisk SSD 外付け SDSSDE61-2T00-GH25 エクストリーム エコパッケージ | ポータブル V2 Win Mac PS4/5 2TB USB3.2Gen2 読出最大1050MB/秒 防滴防塵 メーカー5年保証",
     "percent_off": 27
-  },
-  "B08PTPTMH5": {
-    "first_seen": "2026-10-13",
-    "first_seen_at": "2026-10-13T09:15:04+09:00",
-    "last_seen": "2026-11-12",
-    "title": "KIOXIA(キオクシア) 旧東芝メモリ microSD 128GB UHS-I Class10 (最大読出速度100MB/s) Nintendo Switch動作確認済 国内サポート正規品 メーカー保証5年 KLMEA128G",
-    "percent_off": 22
   },
   "B0F9WJLW45": {
     "first_seen": "2026-11-04",
@@ -3050,13 +3064,6 @@
     "last_seen": "2026-11-02",
     "title": "UGREEN Nexode Wavy（燃えにくい薄型 安全情報見える化 10000mAh 45W コード付属）モバイルバッテリー シルバー PB603 | 3C認証／ディスプレイ搭載BMSバッテリー監視／高安全性／ATLバッテリー寿命向上／ストラップ型／Dymondcell™難燃技術／MacBook／iPhone18～13／Xperia／Galaxy／Android／iPad／Switch2などに適用",
     "percent_off": 25
-  },
-  "B0FL1SH21C": {
-    "first_seen": "2026-09-07",
-    "first_seen_at": "2026-09-07T21:14:48+09:00",
-    "last_seen": "2026-11-02",
-    "title": "Anker Zolo Charger (70W, 4 Ports) ホワイト | 70W USB-C急速充電器 4台同時充電対応。USB-C3ポートとUSB-A1ポートを搭載しPCとスマホをまとめて充電。MacBook Pro MacBook Air iPhone iPad Galaxy対応 PSE技術基準適合",
-    "percent_off": 39
   },
   "B07K13Z1Q4": {
     "first_seen": "2026-10-17",
