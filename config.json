@@ -82,6 +82,27 @@
     "member_grace_days": 14,
     "exclude_any": ["セット", "Watch Band"]
   },
+  "brand_pages": [
+    {"slug": "anker", "name": "Anker", "match": ["Anker", "アンカー", "Soundcore", "サウンドコア"]},
+    {"slug": "switchbot", "name": "SwitchBot", "match": ["SwitchBot", "スイッチボット"]},
+    {"slug": "apple", "name": "Apple", "match": ["Apple", "アップル"]},
+    {"slug": "amazon-devices", "name": "Amazonデバイス", "match": ["Amazon", "アマゾン", "Ring", "eero", "Blink"]},
+    {"slug": "sony", "name": "ソニー", "match": ["Sony", "ソニー"]},
+    {"slug": "logicool", "name": "ロジクール", "match": ["Logicool", "Logitech", "ロジクール"]},
+    {"slug": "elecom", "name": "エレコム", "match": ["ELECOM", "エレコム"]},
+    {"slug": "ugreen", "name": "UGREEN", "match": ["UGREEN", "ユーグリーン"]},
+    {"slug": "belkin", "name": "Belkin", "match": ["Belkin", "ベルキン"]},
+    {"slug": "cio", "name": "CIO", "match": ["CIO"]},
+    {"slug": "sandisk", "name": "SanDisk", "match": ["SanDisk", "サンディスク"]},
+    {"slug": "panasonic", "name": "パナソニック", "match": ["Panasonic", "パナソニック"]},
+    {"slug": "sharp", "name": "シャープ", "match": ["SHARP", "Sharp", "シャープ"]},
+    {"slug": "yamazen", "name": "山善", "match": ["YAMAZEN", "山善"]},
+    {"slug": "irisohyama", "name": "アイリスオーヤマ", "match": ["アイリスオーヤマ", "IRIS", "アイリス"]},
+    {"slug": "huawei", "name": "HUAWEI", "match": ["HUAWEI", "ファーウェイ"]},
+    {"slug": "garmin", "name": "ガーミン", "match": ["Garmin", "ガーミン"]},
+    {"slug": "jbl", "name": "JBL", "match": ["JBL"]},
+    {"slug": "bose", "name": "BOSE", "match": ["Bose", "ボーズ"]}
+  ],
   "genres": [
     {
       "name": "Apple製品",

@@ -116,6 +116,32 @@ sh scripts/setup_merge_driver.sh
 一度実行すれば、以降のコンフリクトは「first_seenは古い方、last_seenは新しい方」を
 採る規則で自動解決されます(`scripts/merge_state.py`)。
 
+## ブランド別ページとセール履歴
+
+繰り返しセールを行う主要ブランドには、固定URLのブランドページ
+(`https://kaden.netaful.jp/brands/<slug>/`)を持ち、現在セール中の商品と
+過去のセール履歴を載せます。ブランドの定義は `config.json` の `brand_pages`
+(slug / name / match)。判定はジャンルの `known_brands` と同じく、商品の
+`brand` 文字列への部分一致(大文字小文字は区別しない)で、最初に一致した
+ブランドに帰属させます。現在の商品も履歴も無いブランドはページ自体を
+作りません。生成は `scripts/generate_site.py` が行い、`sitemap.xml` にも
+含めます。トップページの変更はブランド別ナビの追加だけです。
+
+履歴は `data/item_state.json` の中に蓄積します。CI(ワークフローの
+Persistステップ)がコミットするのは `item_state.json` と `variants.json`
+だけで、新しい履歴ファイルを作っても毎時実行のたびに消えてしまうためです。
+
+- 掲載中エントリには `brand` と `price`(最終観測価格)も記録する
+  (`merge_state.py` は first_seen / last_seen しか触らないため互換)
+- 猶予期間(`STATE_GRACE_DAYS`)を超えたエントリは削除せず、`archived`
+  の印を付けて保持し続ける
+- archived な商品が再登場したら、旧ラウンドを `past`(上限
+  `PAST_ROUNDS_MAX` 件)に畳んで新しいラウンドを始める。再登場時は
+  従来どおり「新規」として通知される
+
+テスト: `python3 -m unittest discover -s tests`(ブランドページは
+`tests/test_brand_pages.py`、履歴の蓄積は `tests/test_item_history.py`)
+
 ## ローカルでのテスト
 
 キーをコマンドに直接打つとシェル履歴に残るため、`.env` ファイル(gitignore済み)を使います。
