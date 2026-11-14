@@ -111,13 +111,6 @@
     "title": "Apple Watch Ultra 3(GPS + Cellularモデル)- 49mmブラックチタニウムケースとブラック/チャコールトレイルループ - S/M",
     "percent_off": 9
   },
-  "B0DL6MTB5K": {
-    "first_seen": "2026-11-02",
-    "first_seen_at": "2026-11-02T13:15:20+09:00",
-    "last_seen": "2026-11-14",
-    "title": "Apple 2024 iMac 10 コア CPU、10 コア GPU の M4 チップ搭載オールインワンデスク トップコンピュータ: Apple Intelligence のために設計、24 インチ Retina ディスプレ イ、24GBユニファイドメモリ、512GBの SSD ストレージ、ボディと同じカラーのアクセサリ、iPhone や iPad との連係機能 - シルバー",
-    "percent_off": 8
-  },
   "B0BJN7ZJF6": {
     "first_seen": "2026-09-11",
     "first_seen_at": "2026-09-11T22:14:45+09:00",
@@ -221,14 +214,14 @@
     "first_seen_at": "2026-11-09T22:14:55+09:00",
     "last_seen": "2026-11-14",
     "title": "JBL LIVE BEAM 3 ワイヤレスイヤホン スマート充電ケース/LDAC対応ハイレゾ/マルチポイント/ハイブリッド ノイズキャンセリング/IP55防水/ワイヤレス充電対応/ブラック/JBLLIVEBEAM3BLK",
-    "percent_off": 48
+    "percent_off": 49
   },
   "B0F3XFNHCW": {
     "first_seen": "2026-11-01",
     "first_seen_at": "2026-11-01T02:15:45+09:00",
     "last_seen": "2026-11-14",
     "title": "ソニー(SONY) WF-C710N ブラック ワイヤレスイヤホン 高性能ノイズキャンセリング Bluetoothロングバッテリー 外音取り込み IPX4防滴性能 軽量 コンパクト マルチポイント接続",
-    "percent_off": 29
+    "percent_off": 30
   },
   "B0DPX7W84T": {
     "first_seen": "2026-10-20",
@@ -761,6 +754,13 @@
     "last_seen": "2026-11-14",
     "title": "アイリスオーヤマ エア フライヤー 3L 過熱水蒸気式 | FV-M30A-C,1台5役,ほったらかし調理,ヘルシー調理,オリジナルレシピ公開中",
     "percent_off": 22
+  },
+  "B0DL6MTB5K": {
+    "first_seen": "2026-11-02",
+    "first_seen_at": "2026-11-02T13:15:20+09:00",
+    "last_seen": "2026-11-14",
+    "title": "Apple 2024 iMac 10 コア CPU、10 コア GPU の M4 チップ搭載オールインワンデスク トップコンピュータ: Apple Intelligence のために設計、24 インチ Retina ディスプレ イ、24GBユニファイドメモリ、512GBの SSD ストレージ、ボディと同じカラーのアクセサリ、iPhone や iPad との連係機能 - シルバー",
+    "percent_off": 8
   },
   "B0CLGZGXMD": {
     "first_seen": "2026-11-13",
