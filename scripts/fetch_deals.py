@@ -62,6 +62,10 @@ STATE_PATH = ROOT / "data" / "item_state.json"
 # 検出されなくなった商品の状態を保持する日数。検索の取りこぼしによる
 # 一時的な消失で初検出日がリセットされるのを防ぐための猶予期間
 STATE_GRACE_DAYS = 14
+# 1商品あたり保持する過去ラウンド(掲載期間の記録)の上限。猶予期間を
+# 超えた商品は削除せず履歴として残すが(carry_over_state 参照)、
+# 再登場のたびにラウンドが増えるため際限なく大きくならないよう制限する
+PAST_ROUNDS_MAX = 12
 # 送信予定の通知の置き場。実際の送信はサイトが公開されたあとに
 # scripts/notify.py が行う。コミットしない一時ファイル
 NOTIFY_PATH = ROOT / "data" / "pending_notification.json"
@@ -1379,6 +1383,98 @@ def load_state() -> dict:
         sys.exit(1)
 
 
+def round_record(entry: dict) -> dict:
+    """状態エントリ1件を「1回の掲載ラウンド」の記録として切り出す。
+
+    ブランドページのセール履歴はこの記録を並べて作る。価格はそのラウンドで
+    最後に観測したもの(掲載中の価格は毎時変わるため、履歴には代表値として
+    最終観測価格を残す)。
+    """
+    return {
+        "first_seen": entry.get("first_seen"),
+        "last_seen": entry.get("last_seen") or entry.get("first_seen"),
+        "title": entry.get("title"),
+        "brand": entry.get("brand"),
+        "price": entry.get("price"),
+        "percent_off": entry.get("percent_off"),
+    }
+
+
+def build_state_entry(prev: dict, item: dict, today: str, now_iso: str) -> dict:
+    """掲載中商品の新しい状態エントリを作る。
+
+    prev が archived の場合は前ラウンドが終了済みなので、その記録を past に
+    畳んでから新しいラウンドを始める(first_seen は今日になる。新規扱いに
+    なる点は、従来「剪定された商品が再登場すると新規になる」挙動と同じ)。
+    archived でない prev は同じラウンドの継続として first_seen を引き継ぎ、
+    既にある past もそのまま持ち越す。
+
+    brand と price はブランドページへの帰属と履歴表示のために併せて残す。
+    merge_state.py は first_seen / last_seen しか触らないため、この2つを
+    追加してもマージドライバの規則は壊れない。
+    """
+    past = list(prev.get("past") or [])
+    if prev.get("archived"):
+        past.append(round_record(prev))
+        past = past[-PAST_ROUNDS_MAX:]
+        first_seen, first_seen_at = today, now_iso
+    else:
+        first_seen = prev.get("first_seen") or today
+        # 「新着セール」を時間単位で出せるよう初検出の時刻も残す。
+        # 日付だけだと深夜0時をまたいだ瞬間に新着が消えてしまう
+        first_seen_at = prev.get("first_seen_at") or now_iso
+    entry = {
+        "first_seen": first_seen,
+        "first_seen_at": first_seen_at,
+        "last_seen": today,
+        "title": item["title"],
+        "percent_off": item.get("percent_off"),
+        "brand": item.get("brand"),
+        "price": item.get("price"),
+    }
+    if past:
+        entry["past"] = past
+    return entry
+
+
+def carry_over_state(state: dict, new_state: dict, today_dt) -> tuple[int, int]:
+    """今回検出されなかった商品の状態を引き継ぐ。(保持件数, アーカイブ件数)
+
+    検索は「キーワードごとに数ページ」という限られた窓しか見ないため、
+    セール継続中の商品でもランキング変動で一時的に窓の外に出ることが
+    頻繁にある。猶予期間(STATE_GRACE_DAYS)内はそのまま保持し、即座に
+    削除して復活時に初検出日が今日にリセットされるのを防ぐ(従来どおり)。
+
+    猶予を超えたものは従来は削除していたが、ブランドページのセール履歴
+    として残すため、archived の印を付けて保持し続ける。履歴の置き場を
+    item_state.json の中にしたのは、CI(ワークフローの Persist ステップ)が
+    コミットするのがこのファイルと variants.json だけだから。新しい
+    ファイルを作っても毎時実行のたびに消えてしまい、履歴が積み上がらない。
+    日付が壊れているエントリは従来どおり破棄する。
+    """
+    kept = 0
+    archived = 0
+    for asin, entry in state.items():
+        if asin in new_state:
+            continue
+        last_seen = entry.get("last_seen") or entry.get("first_seen")
+        try:
+            elapsed = (today_dt - datetime.date.fromisoformat(last_seen)).days
+        except (TypeError, ValueError):
+            continue  # 日付が壊れているエントリは破棄する
+        if elapsed <= STATE_GRACE_DAYS:
+            new_state[asin] = entry
+            kept += 1
+        elif entry.get("archived"):
+            new_state[asin] = entry  # 履歴として保持し続ける
+        else:
+            archived_entry = dict(entry)
+            archived_entry["archived"] = True
+            new_state[asin] = archived_entry
+            archived += 1
+    return kept, archived
+
+
 def main() -> int:
     credential_id = os.environ.get("CREATORSAPI_CREDENTIAL_ID")
     credential_secret = os.environ.get("CREATORSAPI_CREDENTIAL_SECRET")
@@ -1688,10 +1784,14 @@ def main() -> int:
         for item in g["items"]:
             asin = item["asin"]
             prev = state.get(asin) or {}
-            if asin not in state:
+            # archived な prev は前ラウンドが終了済みという意味なので、
+            # 新規・値下げの判定では「状態に無い」ものとして扱う。
+            # 従来は剪定で消えていたため、再登場時は新規になっていた
+            prev_active = {} if prev.get("archived") else prev
+            if not prev_active:
                 new_items.append(item["title"])
             else:
-                prev_off, cur_off = prev.get("percent_off"), item.get("percent_off")
+                prev_off, cur_off = prev_active.get("percent_off"), item.get("percent_off")
                 if (
                     isinstance(prev_off, (int, float))
                     and isinstance(cur_off, (int, float))
@@ -1700,39 +1800,22 @@ def main() -> int:
                     price_drops.append(
                         f"{item['title']}({prev_off}%→{cur_off}%)"
                     )
-            first_seen = prev.get("first_seen") or today
-            # 「新着セール」を時間単位で出せるよう初検出の時刻も残す。
-            # 日付だけだと深夜0時をまたいだ瞬間に新着が消えてしまう
-            first_seen_at = prev.get("first_seen_at") or now_iso
-            item["since"] = first_seen
-            item["since_at"] = first_seen_at
-            new_state[asin] = {
-                "first_seen": first_seen,
-                "first_seen_at": first_seen_at,
-                "last_seen": today,
-                "title": item["title"],
-                "percent_off": item.get("percent_off"),
-            }
-
-    # 今回検出されなかった商品も猶予期間内は状態を保持する。
-    # 検索は「キーワードごとに数ページ」という限られた窓しか見ないため、
-    # セール継続中の商品でもランキング変動で一時的に窓の外に出ることが
-    # 頻繁にある。即座に削除すると復活時に初検出日が今日にリセットされ、
-    # 「7/23から掲載」の表示が実態と食い違ってしまう
-    kept = 0
-    for asin, entry in state.items():
-        if asin in new_state:
-            continue
-        last_seen = entry.get("last_seen") or entry.get("first_seen")
-        try:
-            elapsed = (today_dt - datetime.date.fromisoformat(last_seen)).days
-        except (TypeError, ValueError):
-            continue  # 日付が壊れているエントリは破棄する
-        if elapsed <= STATE_GRACE_DAYS:
+            entry = build_state_entry(prev, item, today, now_iso)
+            item["since"] = entry["first_seen"]
+            item["since_at"] = entry["first_seen_at"]
             new_state[asin] = entry
-            kept += 1
+
+    # 今回検出されなかった商品の状態の引き継ぎ。猶予期間内はそのまま
+    # 保持し、超えたものは削除せずセール履歴としてアーカイブする
+    # (詳細は carry_over_state の docstring を参照)
+    kept, archived = carry_over_state(state, new_state, today_dt)
     if kept:
         print(f"(一時的に検出されなかった{kept}件は掲載開始日を保持)")
+    if archived:
+        print(
+            f"(検出されなくなって{STATE_GRACE_DAYS}日を超えた{archived}件を"
+            "セール履歴としてアーカイブ)"
+        )
 
     STATE_PATH.parent.mkdir(parents=True, exist_ok=True)
     STATE_PATH.write_text(
