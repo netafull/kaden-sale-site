@@ -116,7 +116,7 @@ sh scripts/setup_merge_driver.sh
 一度実行すれば、以降のコンフリクトは「first_seenは古い方、last_seenは新しい方」を
 採る規則で自動解決されます(`scripts/merge_state.py`)。
 
-## ブランド別ページとセール履歴
+## ブランド別・ジャンル別ページとセール履歴
 
 繰り返しセールを行う主要ブランドには、固定URLのブランドページ
 (`https://kaden.netaful.jp/brands/<slug>/`)を持ち、現在セール中の商品と
@@ -125,13 +125,24 @@ sh scripts/setup_merge_driver.sh
 `brand` 文字列への部分一致(大文字小文字は区別しない)で、最初に一致した
 ブランドに帰属させます。現在の商品も履歴も無いブランドはページ自体を
 作りません。生成は `scripts/generate_site.py` が行い、`sitemap.xml` にも
-含めます。トップページの変更はブランド別ナビの追加だけです。
+含めます。
+
+ジャンルにも同じ形の固定URLページ
+(`https://kaden.netaful.jp/genres/<slug>/`)を持ちます。定義は
+`config.json` の `genre_pages`(slug / name)で、帰属は商品が検出された
+ジャンル名の完全一致です。現在の商品も履歴も無いジャンルはページ自体を
+作りません。トップページと各個別ページには、ジャンル別・ブランド別の
+ピル型ナビを2段で出します(現在地はピルの色で示す)。トップページに
+あったジャンルの絞り込みタブは、ジャンル別ページへの置き換えとして
+廃止しました(全件は常時DOMに残り、カテゴリ単位の閲覧は個別ページが
+担います)。
 
 履歴は `data/item_state.json` の中に蓄積します。CI(ワークフローの
 Persistステップ)がコミットするのは `item_state.json` と `variants.json`
 だけで、新しい履歴ファイルを作っても毎時実行のたびに消えてしまうためです。
 
-- 掲載中エントリには `brand` と `price`(最終観測価格)も記録する
+- 掲載中エントリには `brand` と `price`(最終観測価格)、`genre`
+  (検出されたジャンル名。ジャンルページへの帰属用)も記録する
   (`merge_state.py` は first_seen / last_seen しか触らないため互換)
 - 猶予期間(`STATE_GRACE_DAYS`)を超えたエントリは削除せず、`archived`
   の印を付けて保持し続ける
@@ -140,7 +151,8 @@ Persistステップ)がコミットするのは `item_state.json` と `variants.
   従来どおり「新規」として通知される
 
 テスト: `python3 -m unittest discover -s tests`(ブランドページは
-`tests/test_brand_pages.py`、履歴の蓄積は `tests/test_item_history.py`)
+`tests/test_brand_pages.py`、ジャンルページは
+`tests/test_genre_pages.py`、履歴の蓄積は `tests/test_item_history.py`)
 
 ## ローカルでのテスト
 

@@ -69,8 +69,8 @@ class TestRoundRecord(unittest.TestCase):
             fd.round_record(entry),
             {
                 "first_seen": "2026-09-01", "last_seen": "2026-09-15",
-                "title": "商品", "brand": "Anker", "price": 4500,
-                "percent_off": 35,
+                "title": "商品", "brand": "Anker", "genre": None,
+                "price": 4500, "percent_off": 35,
             },
         )
 
@@ -78,6 +78,7 @@ class TestRoundRecord(unittest.TestCase):
         r = fd.round_record({"first_seen": "2026-09-01"})
         self.assertEqual(r["last_seen"], "2026-09-01")
         self.assertIsNone(r["brand"])
+        self.assertIsNone(r["genre"])
         self.assertIsNone(r["price"])
 
 

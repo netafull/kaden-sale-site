@@ -13,9 +13,10 @@ CONFIG = json.loads((ROOT / "config.json").read_text(encoding="utf-8"))
 DATA_PATH = ROOT / "data" / "sales.json"
 STATE_PATH = ROOT / "data" / "item_state.json"
 DOCS = ROOT / "docs"
-# ブランドページの履歴に表示する上限(新しい順)。履歴そのものは
-# item_state.json に無期限で蓄積されるため、表示側で絞る
+# ブランドページ・ジャンルページの履歴に表示する上限(新しい順)。
+# 履歴そのものは item_state.json に無期限で蓄積されるため、表示側で絞る
 BRAND_HISTORY_MAX = 60
+GENRE_HISTORY_MAX = 60
 
 CSS = """
 :root {
@@ -119,31 +120,6 @@ details > .grid, details > .empty { margin-top: 12px; }
 footer { max-width: 960px; margin: 0 auto; padding: 16px;
   color: var(--muted); font-size: 12px; border-top: 1px solid var(--line); }
 .empty { color: var(--muted); font-size: 14px; padding: 12px 0; }
-/* ジャンルの絞り込みタブ。別ページを作らずCSSで表示を切り替えるので、
-   URLは1つのままでコンテンツも全てDOMに残る(検索エンジンには全件見える) */
-/* 狭い画面では折り返すと縦に伸びて商品が押し下げられるため横スクロールにする。
-   ただしPCはマウスホイールが縦スクロールに使われ、スクロールバーも隠している
-   ので横に動かす手段が無くなる。広い画面では折り返しに切り替える */
-.tabs { display: flex; gap: 6px; margin: 20px auto 4px; padding: 0 16px;
-  max-width: 960px; overflow-x: auto; scrollbar-width: none;
-  -webkit-overflow-scrolling: touch; }
-.tabs::-webkit-scrollbar { display: none; }
-.tabs button { flex: 0 0 auto; white-space: nowrap; }
-@media (min-width: 700px) {
-  .tabs { flex-wrap: wrap; overflow-x: visible; }
-}
-.tabs button { font-size: 13px; padding: 5px 12px; border-radius: 999px;
-  border: 1px solid var(--line); background: var(--card); color: var(--text);
-  cursor: pointer; font-family: inherit; }
-.tabs button:hover { border-color: var(--accent); }
-.tabs button[aria-selected="true"] { background: var(--text); color: var(--bg);
-  border-color: var(--text); font-weight: 600; }
-.tabs button .n { color: var(--muted); font-size: 11px; margin-left: 4px; }
-.tabs button[aria-selected="true"] .n { color: var(--bg); opacity: .7; }
-.tabs button:disabled { opacity: .4; cursor: default; }
-/* JSが無い環境ではタブを出さない(全件表示のままにする) */
-.tabs { display: none; }
-.js .tabs { display: flex; }
 /* サイトの説明。訪問者の目的(セール情報)を邪魔しないよう本文の最後に置く。
    AIは位置に関わらずページ全体を読むため、下でも検索・AI向けの効果は落ちない */
 .about { max-width: 960px; margin: 40px auto 0; padding: 20px 16px 0;
@@ -152,8 +128,8 @@ footer { max-width: 960px; margin: 0 auto; padding: 16px;
 .about h2 { font-size: 14px; border-left-width: 3px; margin-bottom: 8px;
   color: var(--text); }
 .about p { margin-top: 8px; }
-/* ブランド別ページへの導線(トップと各ブランドページに出す)と、
-   ブランドページ内の見出し・セール履歴の表示 */
+/* ブランド別・ジャンル別ページへの導線(ピル型。トップと各個別ページに
+   出す)と、個別ページ内の見出し・セール履歴の表示 */
 .brands { margin: 14px auto 0; padding: 0 16px; max-width: 960px;
   display: flex; gap: 8px; flex-wrap: wrap; align-items: baseline; }
 .brands .lbl { font-size: 12px; color: var(--muted); }
@@ -471,6 +447,118 @@ def render_brand_nav(
     )
 
 
+def genre_page_defs() -> list[dict]:
+    """config.json の genre_pages を検証して返す。
+
+    固定URLのページを持たせるジャンルのキュレーション。ジャンルへの
+    帰属はジャンル名の完全一致で判定するため、brand_pages のような
+    match は持たず、slug / name が揃っていないエントリは落とす。
+    """
+    defs = []
+    for raw in CONFIG.get("genre_pages") or []:
+        if not isinstance(raw, dict):
+            continue
+        slug, name = raw.get("slug"), raw.get("name")
+        if not (isinstance(slug, str) and slug and isinstance(name, str) and name):
+            continue
+        defs.append({"slug": slug, "name": name})
+    return defs
+
+
+def collect_genre_data(data: dict, state: dict) -> list[dict]:
+    """各ジャンルページの材料(現在の商品と過去のセール履歴)を集める。
+
+    現在の商品は sales.json のジャンル別バケツから、履歴は
+    item_state.json の past(過去ラウンド)と archived なエントリ
+    (終了した最新ラウンド)から、genre が一致するものを作る。
+    genre が記録されていない旧エントリは帰属できないため履歴に
+    入らない(記録は fetch_deals.py が 2026-11-14 から開始)。
+    どちらも0件のジャンルは返り値に含めない(空ページを量産しない
+    ため)。並びは config の genre_pages の定義順に揃える。
+    """
+    defs = genre_page_defs()
+    by_slug: dict[str, dict] = {}
+
+    def bucket(d: dict) -> dict:
+        return by_slug.setdefault(
+            d["slug"],
+            {"slug": d["slug"], "name": d["name"], "current": [], "history": []},
+        )
+
+    def sort_key(b: dict):
+        return (b.get("percent_off") or 0) + (b.get("points_percent") or 0)
+
+    defs_by_name = {d["name"]: d for d in defs}
+    seen_asins: set[str] = set()
+    for g in data.get("genres") or []:
+        d = defs_by_name.get(g.get("name"))
+        if d is None:
+            continue
+        for item in g.get("items") or []:
+            if item["asin"] in seen_asins:
+                continue
+            seen_asins.add(item["asin"])
+            bucket(d)["current"].append(item)
+    for b in by_slug.values():
+        b["current"].sort(key=sort_key, reverse=True)
+
+    for asin, entry in (state or {}).items():
+        if not isinstance(entry, dict):
+            continue
+        rounds = [r for r in entry.get("past") or [] if isinstance(r, dict)]
+        if entry.get("archived"):
+            rounds.append(
+                {
+                    "first_seen": entry.get("first_seen"),
+                    "last_seen": entry.get("last_seen") or entry.get("first_seen"),
+                    "title": entry.get("title"),
+                    "brand": entry.get("brand"),
+                    "genre": entry.get("genre"),
+                    "price": entry.get("price"),
+                    "percent_off": entry.get("percent_off"),
+                }
+            )
+        for r in rounds:
+            d = defs_by_name.get(r.get("genre"))
+            if d is None or not r.get("title"):
+                continue
+            bucket(d)["history"].append({"asin": asin, **r})
+    for b in by_slug.values():
+        b["history"].sort(
+            key=lambda r: (r.get("last_seen") or "", r.get("first_seen") or ""),
+            reverse=True,
+        )
+        b["history"] = b["history"][:GENRE_HISTORY_MAX]
+
+    return [
+        by_slug[d["slug"]]
+        for d in defs
+        if d["slug"] in by_slug
+        and (by_slug[d["slug"]]["current"] or by_slug[d["slug"]]["history"])
+    ]
+
+
+def render_genre_nav(
+    genre_data: list[dict], current_slug: str | None = None, base: str = "genres/"
+) -> str:
+    """ジャンルページへの導線。トップでは base="genres/"、
+    個別ページ内では base="../" を渡して相対リンクを揃える。
+    見た目はブランド別ナビと同じピル型(.brands のスタイルを共用)。"""
+    if not genre_data:
+        return ""
+    links = "\n".join(
+        f'<a href="{base}{b["slug"]}/" data-google-vignette="false"'
+        + (' class="cur" aria-current="page"' if b["slug"] == current_slug else "")
+        + f'>{esc(b["name"])}</a>'
+        for b in genre_data
+    )
+    return (
+        '<nav class="brands" aria-label="ジャンル別セール">'
+        '<span class="lbl">ジャンル別</span>\n'
+        f"{links}\n</nav>"
+    )
+
+
 def fmt_day(iso) -> str:
     try:
         d = datetime.date.fromisoformat(iso)
@@ -507,7 +595,12 @@ def render_history_row(r: dict) -> str:
 </li>"""
 
 
-def generate_brand_page(brand: dict, data: dict, brand_data: list[dict]) -> str:
+def generate_brand_page(
+    brand: dict,
+    data: dict,
+    brand_data: list[dict],
+    genre_data: list[dict] | None = None,
+) -> str:
     """ブランドページ(/brands/<slug>/)のHTMLを組み立てる。
 
     現在セール中の商品はトップと同じカードで出し、過去のセール履歴は
@@ -662,6 +755,7 @@ gtag('config', '{esc(ga_id)}');
 <p>{esc(CONFIG["site_description"])} ｜ 最終更新: {updated}</p>
 </header>
 {header_ad}
+{render_genre_nav(genre_data or [], base="../")}
 {render_brand_nav(brand_data, current_slug=brand["slug"], base="../")}
 <main>
 <h1 class="ptitle">{esc(name)}のセール・値下げ情報</h1>
@@ -697,7 +791,206 @@ syncAds();
 """
 
 
-def generate_html(data: dict, brand_data: list[dict] | None = None) -> str:
+def generate_genre_page(
+    genre: dict,
+    data: dict,
+    brand_data: list[dict],
+    genre_data: list[dict],
+) -> str:
+    """ジャンルページ(/genres/<slug>/)のHTMLを組み立てる。
+
+    構成はブランドページと同型。現在セール中の商品はトップの
+    ジャンル別セクションと同じカードで出し、過去のセール履歴は
+    item_state.json に蓄積されたラウンドを新しい順に並べる。
+    """
+    fetched = datetime.datetime.fromisoformat(data["fetched_at"]).astimezone(
+        datetime.timezone(datetime.timedelta(hours=9))
+    )
+    updated = fetched.strftime("%Y年%m月%d日 %H:%M")
+    site_url = CONFIG.get("site_url", "")
+    page_url = f"{site_url}genres/{genre['slug']}/"
+    name = genre["name"]
+    page_title = f"{name}のセール・値下げ情報｜{CONFIG['site_title']}"
+    meta_description = (
+        f"{name}のガジェット・家電セール情報を自動更新で掲載。"
+        "現在セール中の商品と、過去のセール履歴(価格・掲載期間)をまとめています。"
+    )
+    gsv = CONFIG.get("google_site_verification", "")
+    gsv_tag = (
+        f'<meta name="google-site-verification" content="{esc(gsv)}">' if gsv else ""
+    )
+    ga_id = CONFIG.get("ga_measurement_id", "")
+    ga_tag = (
+        f"""<script async src="https://www.googletagmanager.com/gtag/js?id={esc(ga_id)}"></script>
+<script>
+window.dataLayer = window.dataLayer || [];
+function gtag(){{dataLayer.push(arguments);}}
+gtag('js', new Date());
+gtag('config', '{esc(ga_id)}');
+</script>"""
+        if ga_id
+        else ""
+    )
+    adsense_id = CONFIG.get("adsense_client_id", "")
+    adsense_tag = (
+        '<script async src="https://pagead2.googlesyndication.com/pagead/js/'
+        f'adsbygoogle.js?client={esc(adsense_id)}" crossorigin="anonymous"></script>'
+        if adsense_id
+        else ""
+    )
+    header_ad = render_ad_slot()
+    policy_url = CONFIG.get("policy_url", "")
+    policy_link = (
+        f'｜ <a href="{esc(policy_url)}" data-google-vignette="false" style="color:inherit">メディアポリシー</a>\n'
+        if policy_url
+        else ""
+    )
+    related = CONFIG.get("related_sites") or []
+    related_html = ""
+    if related:
+        links = "\n".join(
+            f'<a href="{esc(s["url"])}" data-google-vignette="false">{esc(s["name"])}'
+            + (f'<span class="lbl"> {esc(s["desc"])}</span>' if s.get("desc") else "")
+            + "</a>"
+            for s in related
+        )
+        related_html = (
+            f'<div class="sites"><span class="lbl">関連サイト</span>\n{links}\n</div>'
+        )
+
+    current = genre["current"]
+    if current:
+        cards = intersperse_ads([render_book(item) for item in current])
+        current_body = f'<div class="grid">\n{cards}\n</div>'
+    else:
+        current_body = '<p class="empty">現在セール中の商品はありません。</p>'
+    current_section = (
+        '<section class="bsec">\n'
+        f'<h2>現在セール中の商品 ({len(current)}件)</h2>\n'
+        f"{current_body}\n</section>"
+    )
+
+    history = genre["history"]
+    history_section = ""
+    if history:
+        rows = "\n".join(render_history_row(r) for r in history)
+        history_section = (
+            '<section class="bsec">\n'
+            f'<h2>過去のセール履歴 (直近{len(history)}件)</h2>\n'
+            f'<ul class="hist">\n{rows}\n</ul>\n'
+            '<p class="hnote">履歴はセール検出の記録をもとに自動で蓄積しています。'
+            "価格・割引率はその掲載期間の最後に観測した時点のものです。</p>\n"
+            "</section>"
+        )
+
+    json_ld_obj: list[dict] = [
+        {
+            "@context": "https://schema.org",
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+                {
+                    "@type": "ListItem",
+                    "position": 1,
+                    "name": CONFIG["site_title"],
+                    "item": site_url,
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 2,
+                    "name": f"{name}のセール",
+                    "item": page_url,
+                },
+            ],
+        }
+    ]
+    if current:
+        json_ld_obj.append(
+            {
+                "@context": "https://schema.org",
+                "@type": "ItemList",
+                "name": f"{name}のセール中の商品",
+                "itemListElement": [
+                    {"@type": "ListItem", "position": i + 1, "name": item["title"]}
+                    for i, item in enumerate(current)
+                ],
+            }
+        )
+    json_ld = json.dumps(json_ld_obj, ensure_ascii=False).replace("</", "<\\/")
+
+    return f"""<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{esc(page_title)}</title>
+<meta name="description" content="{esc(meta_description)}">
+<link rel="canonical" href="{esc(page_url)}">
+{gsv_tag}
+{ga_tag}
+{adsense_tag}
+<link rel="icon" type="image/png" sizes="96x96" href="../../assets/favicon.png">
+<link rel="apple-touch-icon" href="../../assets/apple-touch-icon.png">
+<meta property="og:type" content="website">
+<meta property="og:title" content="{esc(page_title)}">
+<meta property="og:description" content="{esc(meta_description)}">
+<meta property="og:url" content="{esc(page_url)}">
+<meta property="og:site_name" content="{esc(CONFIG["site_title"])}">
+<meta property="og:locale" content="ja_JP">
+<meta property="og:image" content="{esc(site_url)}assets/ogp.jpg">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta name="twitter:card" content="summary_large_image">
+<link rel="alternate" type="application/rss+xml" title="RSS" href="../../rss.xml">
+<script type="application/ld+json">{json_ld}</script>
+<style>{CSS}</style>
+</head>
+<body>
+<header>
+<p class="brand"><a href="../../" data-google-vignette="false"><img src="../../assets/logo.png" alt="" width="44" height="44">{esc(CONFIG["site_title"])}</a></p>
+<p>{esc(CONFIG["site_description"])} ｜ 最終更新: {updated}</p>
+</header>
+{header_ad}
+{render_genre_nav(genre_data, current_slug=genre["slug"], base="../")}
+{render_brand_nav(brand_data, base="../")}
+<main>
+<h1 class="ptitle">{esc(name)}のセール・値下げ情報</h1>
+<p class="pdesc">{esc(name)}の商品だけを集めたページです。現在セール中の商品は{len(current)}件、過去のセール履歴は{len(history)}件を掲載しています。</p>
+{current_section}
+{history_section}
+</main>
+<footer>
+価格・割引率は取得時点のものです。購入前にAmazonの商品ページで最新の価格をご確認ください。
+Amazonのアソシエイトとして、当サイトは適格販売により収入を得ています。
+当サイトはアクセス解析のためGoogle Analyticsを利用しています(データは匿名で収集され、Googleに送信されます)。
+{policy_link}｜ <a href="../../rss.xml" data-google-vignette="false" style="color:inherit">RSS</a>
+{related_html}
+</footer>
+<script>
+// 広告枠はトップページと同じく、表示されている枠だけを読み込む
+function syncAds() {{
+  document.querySelectorAll("ins[data-ad-slot]").forEach(function (ins) {{
+    if (ins.dataset.pushed) return;
+    if (ins.offsetParent === null) {{
+      ins.classList.remove("adsbygoogle");
+      return;
+    }}
+    ins.classList.add("adsbygoogle");
+    ins.dataset.pushed = "1";
+    (adsbygoogle = window.adsbygoogle || []).push({{}});
+  }});
+}}
+syncAds();
+</script>
+</body>
+</html>
+"""
+
+
+def generate_html(
+    data: dict,
+    brand_data: list[dict] | None = None,
+    genre_data: list[dict] | None = None,
+) -> str:
     fetched = datetime.datetime.fromisoformat(data["fetched_at"]).astimezone(
         datetime.timezone(datetime.timedelta(hours=9))
     )
@@ -789,19 +1082,6 @@ def generate_html(data: dict, brand_data: list[dict] | None = None) -> str:
         f'<meta name="google-site-verification" content="{esc(gsv)}">' if gsv else ""
     )
     # 姉妹サイト・運営ブログへの相互リンク(ヘッダーとフッターの両方に出す)
-    # ジャンルの絞り込みタブ。件数を添え、0件は押せないようにする
-    tab_defs = [("all", "すべて", sum(len(g.get("items") or []) for g in genres))]
-    for i, g in enumerate(genres):
-        tab_defs.append((f"g{i}", g["name"], len(g.get("items") or [])))
-    buttons = "\n".join(
-        f'<button type="button" data-target="{tid}" '
-        f'aria-selected="{"true" if tid == "all" else "false"}"'
-        f'{" disabled" if n == 0 and tid != "all" else ""}>'
-        f'{esc(name)}<span class="n">{n}</span></button>'
-        for tid, name, n in tab_defs
-    )
-    tabs_html = f'<nav class="tabs" aria-label="ジャンル">\n{buttons}\n</nav>'
-
     # サイトの説明。データ元・更新頻度・掲載基準・運営者を明記して、
     # 検索エンジンやAIが「このサイトは何者か」を判断できるようにする
     about = CONFIG.get("about") or []
@@ -937,7 +1217,7 @@ gtag('config', '{esc(ga_id)}');
 <p>{esc(CONFIG["site_description"])} ｜ {esc(threshold_note)} ｜ 最終更新: {updated}</p>
 </header>
 {header_ad}
-{tabs_html}
+{render_genre_nav(genre_data or [])}
 {render_brand_nav(brand_data or [])}
 <main>
 {chr(10).join(sections)}
@@ -951,10 +1231,7 @@ Amazonのアソシエイトとして、当サイトは適格販売により収�
 {related_html}
 </footer>
 <script>
-// ジャンルタブ。該当セクション以外を隠すだけで、DOMからは取り除かない。
-// 「すべて」に戻せば元通りになり、検索エンジンには常に全件が見えている
-document.documentElement.classList.add("js");
-// 広告は表示中のセクションのぶんだけ読み込む。隠れたまま処理されると
+// 広告は表示されている枠だけ読み込む。隠れたまま処理されると
 // 幅0で失敗し、あとで表示しても二度と入らないので、隠れている枠は
 // adsbygoogleクラスを外してAdSenseの対象から一時的に除外しておく。
 // pushはDOM順に未処理の枠へ結び付くため、押した枠には印を付けて
@@ -971,35 +1248,6 @@ function syncAds() {{
     (adsbygoogle = window.adsbygoogle || []).push({{}});
   }});
 }}
-(function () {{
-  var tabs = document.querySelector(".tabs");
-  if (!tabs) return;
-  var sections = Array.prototype.slice.call(
-    document.querySelectorAll("main > details")
-  );
-  function apply(target) {{
-    sections.forEach(function (s) {{
-      // 新着セールは全ジャンル横断の情報なので「すべて」のときだけ出す
-      s.style.display = target === "all" || s.id === target ? "" : "none";
-    }});
-    tabs.querySelectorAll("button").forEach(function (b) {{
-      b.setAttribute(
-        "aria-selected", b.dataset.target === target ? "true" : "false"
-      );
-    }});
-    if (history.replaceState) {{
-      history.replaceState(null, "", target === "all" ? location.pathname : "#" + target);
-    }}
-    syncAds();
-  }}
-  tabs.addEventListener("click", function (e) {{
-    var b = e.target.closest("button");
-    if (!b || b.disabled) return;
-    apply(b.dataset.target);
-  }});
-  var initial = location.hash.replace("#", "");
-  if (initial && document.getElementById(initial)) apply(initial);
-}})();
 syncAds();
 </script>
 </body>
@@ -1085,7 +1333,11 @@ def generate_rss(data: dict) -> str:
 """
 
 
-def generate_sitemap(data: dict, brand_data: list[dict] | None = None) -> str:
+def generate_sitemap(
+    data: dict,
+    brand_data: list[dict] | None = None,
+    genre_data: list[dict] | None = None,
+) -> str:
     site_url = CONFIG.get("site_url", "")
     lastmod = data["fetched_at"][:10]
     brand_urls = ""
@@ -1099,6 +1351,17 @@ def generate_sitemap(data: dict, brand_data: list[dict] | None = None) -> str:
 """
             for b in brand_data
         )
+    genre_urls = ""
+    if genre_data:
+        genre_urls = "".join(
+            f"""<url>
+<loc>{esc(site_url)}genres/{b["slug"]}/</loc>
+<lastmod>{lastmod}</lastmod>
+<changefreq>hourly</changefreq>
+</url>
+"""
+            for b in genre_data
+        )
     return f"""<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
@@ -1106,7 +1369,7 @@ def generate_sitemap(data: dict, brand_data: list[dict] | None = None) -> str:
 <lastmod>{lastmod}</lastmod>
 <changefreq>hourly</changefreq>
 </url>
-{brand_urls}</urlset>
+{brand_urls}{genre_urls}</urlset>
 """
 
 
@@ -1445,13 +1708,14 @@ def main():
     site_url = CONFIG.get("site_url", "")
     state = load_state_for_display()
     brand_data = collect_brand_data(data, state)
+    genre_data = collect_genre_data(data, state)
     DOCS.mkdir(exist_ok=True)
     (DOCS / "index.html").write_text(
-        generate_html(data, brand_data), encoding="utf-8"
+        generate_html(data, brand_data, genre_data), encoding="utf-8"
     )
     (DOCS / "rss.xml").write_text(generate_rss(data), encoding="utf-8")
     (DOCS / "sitemap.xml").write_text(
-        generate_sitemap(data, brand_data), encoding="utf-8"
+        generate_sitemap(data, brand_data, genre_data), encoding="utf-8"
     )
     (DOCS / "robots.txt").write_text(
         f"User-agent: *\nAllow: /\nSitemap: {site_url}sitemap.xml\n",
@@ -1473,7 +1737,8 @@ def main():
         page_dir = brands_root / b["slug"]
         page_dir.mkdir(parents=True, exist_ok=True)
         (page_dir / "index.html").write_text(
-            generate_brand_page(b, data, brand_data), encoding="utf-8"
+            generate_brand_page(b, data, brand_data, genre_data),
+            encoding="utf-8",
         )
         generated_slugs.add(b["slug"])
     if brands_root.exists():
@@ -1484,11 +1749,30 @@ def main():
                     child.rmdir()
                 except OSError:
                     pass
+    # ジャンルページもブランドページと同じ扱いにする
+    genres_root = DOCS / "genres"
+    generated_genre_slugs: set[str] = set()
+    for b in genre_data:
+        page_dir = genres_root / b["slug"]
+        page_dir.mkdir(parents=True, exist_ok=True)
+        (page_dir / "index.html").write_text(
+            generate_genre_page(b, data, brand_data, genre_data),
+            encoding="utf-8",
+        )
+        generated_genre_slugs.add(b["slug"])
+    if genres_root.exists():
+        for child in genres_root.iterdir():
+            if child.is_dir() and child.name not in generated_genre_slugs:
+                try:
+                    (child / "index.html").unlink(missing_ok=True)
+                    child.rmdir()
+                except OSError:
+                    pass
     total = sum(len(g.get("items") or []) for g in data.get("genres") or [])
     print(
         f"generated: index.html, rss.xml, sitemap.xml, robots.txt, "
         f"widget.json, widget.js, widget-test.html, "
-        f"brands x{len(brand_data)} ({total}件)"
+        f"brands x{len(brand_data)}, genres x{len(genre_data)} ({total}件)"
     )
 
 
