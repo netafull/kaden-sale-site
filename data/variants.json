@@ -3561,14 +3561,12 @@
    "aliases": {
     "B0GR1JXRZW": "2026-11-14",
     "B0GR1KF8VV": "2026-11-14",
-    "B0GR1PRMDS": "2026-11-14",
-    "B0GRTLPM22": "2026-11-14",
     "B0GRTM5MYB": "2026-11-14",
     "B0GRTQ8Y1X": "2026-11-14"
    },
    "genre": "Apple製品",
    "label": "Apple 2026 MacBook Air M5チップ搭載15インチノートブッ",
-   "last_sweep_at": "2026-11-14T14:07:14+09:00",
+   "last_sweep_at": "2026-11-14T21:07:12+09:00",
    "members": {
     "B0GR1JD976": {
      "last_seen": "2026-11-14",
@@ -3579,6 +3577,11 @@
      "last_seen": "2026-11-14",
      "pct": 0,
      "points_pct": 2
+    },
+    "B0GR1PRMDS": {
+     "last_seen": "2026-11-14",
+     "pct": 0,
+     "points_pct": 1
     },
     "B0GR1Q5WHT": {
      "last_seen": "2026-11-09",
@@ -3614,6 +3617,11 @@
      "last_seen": "2026-11-02",
      "pct": 0,
      "points_pct": 1
+    },
+    "B0GRTLPM22": {
+     "last_seen": "2026-11-14",
+     "pct": 1,
+     "points_pct": 0
     },
     "B0GRTQ1GSS": {
      "last_seen": "2026-11-14",
@@ -3663,7 +3671,7 @@
    },
    "no_variations": false,
    "seed": "B0GR1K6TPF",
-   "variation_count": 10
+   "variation_count": 12
   },
   "B0GR5JCTNC": {
    "aliases": {
@@ -4531,8 +4539,8 @@
     },
     "B0HJBBZYPB": {
      "last_seen": "2026-11-14",
-     "pct": 0,
-     "points_pct": 4
+     "pct": null,
+     "points_pct": null
     },
     "B0HJBHDFXV": {
      "last_seen": "2026-10-31",
@@ -4625,7 +4633,7 @@
    "aliases": {},
    "genre": "Apple製品",
    "label": "ワイヤレス充電ケース付きApple AirPods 5ワイヤレスイヤーバッド",
-   "last_sweep_at": "2026-11-14T14:07:14+09:00",
+   "last_sweep_at": "2026-11-14T21:07:12+09:00",
    "members": {
     "B0HJ9VNBZ8": {
      "last_seen": "2026-11-14",
