@@ -559,16 +559,6 @@
     "genre": "充電器",
     "price": 5480
   },
-  "B0GF29FF6N": {
-    "first_seen": "2026-10-05",
-    "first_seen_at": "2026-10-05T00:14:58+09:00",
-    "last_seen": "2026-11-15",
-    "title": "Anker Nano Charger (45W, Display, スイングプラグ) ブルー | 45W USB-C急速充電器 充電状況が見えるディスプレイ搭載。iPhoneのモデルを検知し出力を最適化。180度スイングプラグ採用。iPhone iPad Galaxy MacBook Air対応 PSE技術基準適合",
-    "percent_off": 25,
-    "brand": "Anker",
-    "genre": "充電器",
-    "price": 2990
-  },
   "B09CH44769": {
     "first_seen": "2026-11-04",
     "first_seen_at": "2026-11-04T01:15:06+09:00",
@@ -968,6 +958,16 @@
     "brand": "BRUNO",
     "genre": "エアフライヤー",
     "price": 12000
+  },
+  "B0GF29FF6N": {
+    "first_seen": "2026-10-05",
+    "first_seen_at": "2026-10-05T00:14:58+09:00",
+    "last_seen": "2026-11-15",
+    "title": "Anker Nano Charger (45W, Display, スイングプラグ) ブルー | 45W USB-C急速充電器 充電状況が見えるディスプレイ搭載。iPhoneのモデルを検知し出力を最適化。180度スイングプラグ採用。iPhone iPad Galaxy MacBook Air対応 PSE技術基準適合",
+    "percent_off": 25,
+    "brand": "Anker",
+    "genre": "充電器",
+    "price": 2990
   },
   "B0CLGZGXMD": {
     "first_seen": "2026-11-13",
