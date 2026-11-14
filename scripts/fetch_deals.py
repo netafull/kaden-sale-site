@@ -1386,21 +1386,24 @@ def load_state() -> dict:
 def round_record(entry: dict) -> dict:
     """状態エントリ1件を「1回の掲載ラウンド」の記録として切り出す。
 
-    ブランドページのセール履歴はこの記録を並べて作る。価格はそのラウンドで
-    最後に観測したもの(掲載中の価格は毎時変わるため、履歴には代表値として
-    最終観測価格を残す)。
+    ブランドページ・ジャンルページのセール履歴はこの記録を並べて作る。
+    価格はそのラウンドで最後に観測したもの(掲載中の価格は毎時変わるため、
+    履歴には代表値として最終観測価格を残す)。
     """
     return {
         "first_seen": entry.get("first_seen"),
         "last_seen": entry.get("last_seen") or entry.get("first_seen"),
         "title": entry.get("title"),
         "brand": entry.get("brand"),
+        "genre": entry.get("genre"),
         "price": entry.get("price"),
         "percent_off": entry.get("percent_off"),
     }
 
 
-def build_state_entry(prev: dict, item: dict, today: str, now_iso: str) -> dict:
+def build_state_entry(
+    prev: dict, item: dict, today: str, now_iso: str, genre: str | None = None
+) -> dict:
     """掲載中商品の新しい状態エントリを作る。
 
     prev が archived の場合は前ラウンドが終了済みなので、その記録を past に
@@ -1409,8 +1412,9 @@ def build_state_entry(prev: dict, item: dict, today: str, now_iso: str) -> dict:
     archived でない prev は同じラウンドの継続として first_seen を引き継ぎ、
     既にある past もそのまま持ち越す。
 
-    brand と price はブランドページへの帰属と履歴表示のために併せて残す。
-    merge_state.py は first_seen / last_seen しか触らないため、この2つを
+    brand と price はブランドページへの帰属と履歴表示のために、genre は
+    ジャンルページへの帰属のために併せて残す。
+    merge_state.py は first_seen / last_seen しか触らないため、これらを
     追加してもマージドライバの規則は壊れない。
     """
     past = list(prev.get("past") or [])
@@ -1430,6 +1434,7 @@ def build_state_entry(prev: dict, item: dict, today: str, now_iso: str) -> dict:
         "title": item["title"],
         "percent_off": item.get("percent_off"),
         "brand": item.get("brand"),
+        "genre": genre if genre is not None else prev.get("genre"),
         "price": item.get("price"),
     }
     if past:
@@ -1445,8 +1450,8 @@ def carry_over_state(state: dict, new_state: dict, today_dt) -> tuple[int, int]:
     頻繁にある。猶予期間(STATE_GRACE_DAYS)内はそのまま保持し、即座に
     削除して復活時に初検出日が今日にリセットされるのを防ぐ(従来どおり)。
 
-    猶予を超えたものは従来は削除していたが、ブランドページのセール履歴
-    として残すため、archived の印を付けて保持し続ける。履歴の置き場を
+    猶予を超えたものは従来は削除していたが、ブランドページ・ジャンル
+    ページのセール履歴として残すため、archived の印を付けて保持し続ける。履歴の置き場を
     item_state.json の中にしたのは、CI(ワークフローの Persist ステップ)が
     コミットするのがこのファイルと variants.json だけだから。新しい
     ファイルを作っても毎時実行のたびに消えてしまい、履歴が積み上がらない。
@@ -1800,7 +1805,7 @@ def main() -> int:
                     price_drops.append(
                         f"{item['title']}({prev_off}%→{cur_off}%)"
                     )
-            entry = build_state_entry(prev, item, today, now_iso)
+            entry = build_state_entry(prev, item, today, now_iso, genre=g["name"])
             item["since"] = entry["first_seen"]
             item["since_at"] = entry["first_seen_at"]
             new_state[asin] = entry

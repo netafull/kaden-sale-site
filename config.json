@@ -103,6 +103,20 @@
     {"slug": "jbl", "name": "JBL", "match": ["JBL"]},
     {"slug": "bose", "name": "BOSE", "match": ["Bose", "ボーズ"]}
   ],
+  "genre_pages": [
+    {"slug": "apple-products", "name": "Apple製品"},
+    {"slug": "wireless-earbuds", "name": "ワイヤレスイヤホン"},
+    {"slug": "mobile-battery", "name": "モバイルバッテリー"},
+    {"slug": "charger", "name": "充電器"},
+    {"slug": "ssd-memory", "name": "SSD・メモリーカード"},
+    {"slug": "monitor", "name": "モニター・ディスプレイ"},
+    {"slug": "smart-home", "name": "スマートホーム"},
+    {"slug": "smartwatch", "name": "スマートウォッチ"},
+    {"slug": "xr-ar", "name": "XR・ARグラス"},
+    {"slug": "amazon-devices", "name": "Amazonデバイス"},
+    {"slug": "keyboard-mouse", "name": "キーボード・マウス"},
+    {"slug": "air-fryer", "name": "エアフライヤー"}
+  ],
   "genres": [
     {
       "name": "Apple製品",
