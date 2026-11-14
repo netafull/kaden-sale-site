@@ -399,25 +399,15 @@
     "genre": "モバイルバッテリー",
     "price": 6880
   },
-  "B0DB1JV955": {
-    "first_seen": "2026-11-15",
-    "first_seen_at": "2026-11-15T01:15:01+09:00",
-    "last_seen": "2026-11-15",
-    "title": "Anker MagGo Power Bank (10000mAh, Slim) ピンク | モバイルバッテリー 10000mAh Qi2認証 ワイヤレス充電 最大出力15W マグセーフ対応 マグネット式ワイヤレス充電対応 コンパクト 薄型 小型 magsafe iPhone 18 / 17 / 16 / 15 シリーズ対応",
-    "percent_off": null,
-    "brand": "Anker",
-    "genre": "モバイルバッテリー",
-    "price": 9990
-  },
   "B0D9J5MSBH": {
     "first_seen": "2026-10-15",
     "first_seen_at": "2026-10-15T01:15:57+09:00",
     "last_seen": "2026-11-15",
     "title": "エレコム モバイルバッテリー 5000mAh ワイヤレス マグネット対応 7.5W スタンド付き Type-C ブラック DE-C53-5000BK",
-    "percent_off": 18,
+    "percent_off": 22,
     "brand": "エレコム(ELECOM)",
     "genre": "モバイルバッテリー",
-    "price": 1800
+    "price": 1700
   },
   "B0CDBY9P5Q": {
     "first_seen": "2026-10-20",
@@ -579,6 +569,16 @@
     "genre": "充電器",
     "price": 2990
   },
+  "B09CH44769": {
+    "first_seen": "2026-11-04",
+    "first_seen_at": "2026-11-04T01:15:06+09:00",
+    "last_seen": "2026-11-15",
+    "title": "Anker PowerPort III 3-Port 65W Pod ブラック | 65W 充電器 USB-C PD【独自技術Anker GaN II採用/PD対応/PSE技術基準適合/折りたたみ式プラグ】MacBook PD対応Windows PC iPad iPhone Galaxy Android",
+    "percent_off": 24,
+    "brand": "Anker",
+    "genre": "充電器",
+    "price": 4190
+  },
   "B06ZXXQGZ8": {
     "first_seen": "2026-10-13",
     "first_seen_at": "2026-10-13T00:16:25+09:00",
@@ -638,16 +638,6 @@
     "brand": "UGREEN",
     "genre": "充電器",
     "price": 3180
-  },
-  "B0FL1S48XY": {
-    "first_seen": "2026-09-08",
-    "first_seen_at": "2026-09-08T21:14:34+09:00",
-    "last_seen": "2026-11-15",
-    "title": "Anker Zolo Charger (70W, 4 Ports) ブラック | 70W USB-C急速充電器 4台同時充電対応。USB-C3ポートとUSB-A1ポートを搭載しPCとスマホをまとめて充電。MacBook Pro MacBook Air iPhone iPad Galaxy対応 PSE技術基準適合",
-    "percent_off": null,
-    "brand": "Anker",
-    "genre": "充電器",
-    "price": 6490
   },
   "B0DNKC8HXP": {
     "first_seen": "2026-08-02",
@@ -869,16 +859,6 @@
     "genre": "キーボード・マウス",
     "price": 5290
   },
-  "B0GL1G8PQZ": {
-    "first_seen": "2026-10-30",
-    "first_seen_at": "2026-10-30T18:15:39+09:00",
-    "last_seen": "2026-11-15",
-    "title": "東プレ REALFORCE GX1 Plus νガンダム (ニューガンダム) 日本語配列 ゲーミングキーボード X1PCN1",
-    "percent_off": 31,
-    "brand": "REALFORCE",
-    "genre": "キーボード・マウス",
-    "price": 41770
-  },
   "B07PJW2X2F": {
     "first_seen": "2026-07-26",
     "first_seen_at": "2026-07-26T12:00:00+09:00",
@@ -888,6 +868,16 @@
     "brand": "エレコム(ELECOM)",
     "genre": "キーボード・マウス",
     "price": 1899
+  },
+  "B0GL1G8PQZ": {
+    "first_seen": "2026-10-30",
+    "first_seen_at": "2026-10-30T18:15:39+09:00",
+    "last_seen": "2026-11-15",
+    "title": "東プレ REALFORCE GX1 Plus νガンダム (ニューガンダム) 日本語配列 ゲーミングキーボード X1PCN1",
+    "percent_off": 30,
+    "brand": "REALFORCE",
+    "genre": "キーボード・マウス",
+    "price": 42003
   },
   "B0CLGVLBMV": {
     "first_seen": "2026-08-23",
@@ -969,6 +959,16 @@
     "genre": "キーボード・マウス",
     "price": 2709
   },
+  "B07DVC25R2": {
+    "first_seen": "2026-07-26",
+    "first_seen_at": "2026-07-26T12:00:00+09:00",
+    "last_seen": "2026-11-15",
+    "title": "Logicool G ゲーミングマウス G304 LIGHTSPEED ワイヤレスマウス ブラック 軽量 99g 国内正規品 | HERO 12Kセンサー, 6個プログラムボタン, 250時間連続使用可能,PC ,windows, mac, 軽量マウス, PCゲーミングマウス,マウス, ファイナルファンタジー XIV 推奨モデル",
+    "percent_off": 18,
+    "brand": "Logicool G(ロジクール G)",
+    "genre": "キーボード・マウス",
+    "price": 4709
+  },
   "B0DPF33WVV": {
     "first_seen": "2026-09-17",
     "first_seen_at": "2026-09-17T00:14:58+09:00",
@@ -1028,6 +1028,26 @@
     "brand": "BRUNO",
     "genre": "エアフライヤー",
     "price": 12000
+  },
+  "B0DB1JV955": {
+    "first_seen": "2026-11-15",
+    "first_seen_at": "2026-11-15T01:15:01+09:00",
+    "last_seen": "2026-11-15",
+    "title": "Anker MagGo Power Bank (10000mAh, Slim) ピンク | モバイルバッテリー 10000mAh Qi2認証 ワイヤレス充電 最大出力15W マグセーフ対応 マグネット式ワイヤレス充電対応 コンパクト 薄型 小型 magsafe iPhone 18 / 17 / 16 / 15 シリーズ対応",
+    "percent_off": null,
+    "brand": "Anker",
+    "genre": "モバイルバッテリー",
+    "price": 9990
+  },
+  "B0FL1S48XY": {
+    "first_seen": "2026-09-08",
+    "first_seen_at": "2026-09-08T21:14:34+09:00",
+    "last_seen": "2026-11-15",
+    "title": "Anker Zolo Charger (70W, 4 Ports) ブラック | 70W USB-C急速充電器 4台同時充電対応。USB-C3ポートとUSB-A1ポートを搭載しPCとスマホをまとめて充電。MacBook Pro MacBook Air iPhone iPad Galaxy対応 PSE技術基準適合",
+    "percent_off": null,
+    "brand": "Anker",
+    "genre": "充電器",
+    "price": 6490
   },
   "B0CX4FKYCS": {
     "first_seen": "2026-10-10",
@@ -1244,15 +1264,6 @@
     "brand": "Anker",
     "price": 9990
   },
-  "B09CH44769": {
-    "first_seen": "2026-11-04",
-    "first_seen_at": "2026-11-04T01:15:06+09:00",
-    "last_seen": "2026-11-14",
-    "title": "Anker PowerPort III 3-Port 65W Pod ブラック | 65W 充電器 USB-C PD【独自技術Anker GaN II採用/PD対応/PSE技術基準適合/折りたたみ式プラグ】MacBook PD対応Windows PC iPad iPhone Galaxy Android",
-    "percent_off": 24,
-    "brand": "Anker",
-    "price": 4190
-  },
   "B0CJR5FFN6": {
     "first_seen": "2026-09-27",
     "first_seen_at": "2026-09-27T21:15:00+09:00",
@@ -1351,13 +1362,6 @@
     "first_seen_at": "2026-11-03T22:15:46+09:00",
     "last_seen": "2026-11-14",
     "title": "ロジクール ワイヤレスキーボード K295OW 静音 耐水 キーボード 無線 Unifying K295 オフホワイト 国内正規品 | 電池式（単4形乾電池x2）、電池寿命最大24ヶ月、Unifying USBレシーバー、テンキー、フルサイズ、8個のショートカットキー、windows10、Windows11以降、chromeOS",
-    "percent_off": 18
-  },
-  "B07DVC25R2": {
-    "first_seen": "2026-07-26",
-    "first_seen_at": "2026-07-26T12:00:00+09:00",
-    "last_seen": "2026-11-14",
-    "title": "Logicool G ゲーミングマウス G304 LIGHTSPEED ワイヤレスマウス ブラック 軽量 99g 国内正規品 | HERO 12Kセンサー, 6個プログラムボタン, 250時間連続使用可能,PC ,windows, mac, 軽量マウス, PCゲーミングマウス,マウス, ファイナルファンタジー XIV 推奨モデル",
     "percent_off": 18
   },
   "B0DC5WQQ2J": {
