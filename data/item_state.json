@@ -314,10 +314,10 @@
     "first_seen_at": "2026-11-09T22:14:55+09:00",
     "last_seen": "2026-11-15",
     "title": "JBL LIVE BEAM 3 ワイヤレスイヤホン スマート充電ケース/LDAC対応ハイレゾ/マルチポイント/ハイブリッド ノイズキャンセリング/IP55防水/ワイヤレス充電対応/ブラック/JBLLIVEBEAM3BLK",
-    "percent_off": 49,
+    "percent_off": 48,
     "brand": "JBL",
     "genre": "ワイヤレスイヤホン",
-    "price": 14400
+    "price": 14536
   },
   "B0F3XFNHCW": {
     "first_seen": "2026-11-01",
@@ -439,6 +439,16 @@
     "genre": "充電器",
     "price": 1400
   },
+  "B0CMQK8CMJ": {
+    "first_seen": "2026-08-05",
+    "first_seen_at": "2026-08-05T21:15:31+09:00",
+    "last_seen": "2026-11-15",
+    "title": "UGREEN NexodeX 100W GaNII充電器 USB-C*2+USB-A タイプC Type-C 急速充電器 PD3.0/PPS/QC4+ | PSE認証済/MacBook/iPhone17/16/15/Galaxy S26 ultra/Xperia ノートPC 各種対応 折りたたみ式プラグ",
+    "percent_off": 44,
+    "brand": "UGREEN",
+    "genre": "充電器",
+    "price": 4980
+  },
   "B0BF9ZYCQ5": {
     "first_seen": "2026-07-31",
     "first_seen_at": "2026-07-31T12:00:00+09:00",
@@ -448,16 +458,6 @@
     "brand": "Belkin",
     "genre": "充電器",
     "price": 2782
-  },
-  "B0CLGZGXMD": {
-    "first_seen": "2026-11-13",
-    "first_seen_at": "2026-11-13T14:14:50+09:00",
-    "last_seen": "2026-11-15",
-    "title": "UGREEN Nexode【当社比最小】65W PD充電器 USB-C*2+USB-A*1 急速充電器 PSE適合 PD/PPS/QC4+対応 | GaNチップ PD3.0/QC4+ 出張/旅行用 ノートPC iPad iphone17/Galaxy S26/Pixel8/Xperia5以降対応",
-    "percent_off": 40,
-    "brand": "UGREEN",
-    "genre": "充電器",
-    "price": 3600
   },
   "B0FL1SH21C": {
     "first_seen": "2026-09-07",
@@ -699,61 +699,11 @@
     "genre": "スマートウォッチ",
     "price": 36800
   },
-  "B0FMDBYSQ9": {
-    "first_seen": "2026-10-17",
-    "first_seen_at": "2026-10-17T05:15:28+09:00",
-    "last_seen": "2026-11-15",
-    "title": "HUAWEI WATCH D2 ウェアラブル血圧計 LCA-B29:ブルー",
-    "percent_off": 23,
-    "brand": "HUAWEI(ファーウェイ)",
-    "genre": "スマートウォッチ",
-    "price": 46127
-  },
-  "B0BWF162WJ": {
-    "first_seen": "2026-09-21",
-    "first_seen_at": "2026-09-21T17:14:46+09:00",
-    "last_seen": "2026-11-15",
-    "title": "GARMIN（ガーミン）GPSランニングウォッチ Forerunner 965 White 【日本正規品】",
-    "percent_off": 20,
-    "brand": "ガーミン(GARMIN)",
-    "genre": "スマートウォッチ",
-    "price": 67800
-  },
   "B0GZ294HH3": {
     "first_seen": "2026-08-16",
     "first_seen_at": "2026-08-16T00:38:29+09:00",
     "last_seen": "2026-11-15",
     "title": "GARMIN(ガーミン)スマートウォッチ Forerunner 170 Black/Amp Yellow スマートウォッチモード 約 10 日間 高精度GPS ランニングウォッチ iOS/Android AMOLEDディスプレイ1.2インチ マラソン 軽量 防水 心拍数 睡眠スコア 健康管理 Suicaタッチ決済 Garmin Pay",
-    "percent_off": 17,
-    "brand": "ガーミン(GARMIN)",
-    "genre": "スマートウォッチ",
-    "price": 39591
-  },
-  "B0GX8BVR4L": {
-    "first_seen": "2026-11-01",
-    "first_seen_at": "2026-11-01T19:15:08+09:00",
-    "last_seen": "2026-11-15",
-    "title": "HUAWEI WATCH FIT 5 スマートウォッチ 薄型軽量 大画面 GPS内蔵 10日間ロングバッテリー 通知 健康管理 心拍数 睡眠 ホワイト | iPhone対応 android対応 1.82インチ画面 2500nits高輝度 ワークアウト 転倒検知 情緒測定 生理周期管理 64GBストレージ 録音機能 ランニング 防水",
-    "percent_off": 17,
-    "brand": "HUAWEI(ファーウェイ)",
-    "genre": "スマートウォッチ",
-    "price": 22770
-  },
-  "B0B4JHS716": {
-    "first_seen": "2026-09-25",
-    "first_seen_at": "2026-09-25T10:14:58+09:00",
-    "last_seen": "2026-11-15",
-    "title": "ガーミン vivomove Sport Peach Gold/Cocoa ハイブリッドスマートウォッチ 【日本正規品】 ユニセックス",
-    "percent_off": 17,
-    "brand": "ガーミン(GARMIN)",
-    "genre": "スマートウォッチ",
-    "price": 24800
-  },
-  "B0GZ2NBP8V": {
-    "first_seen": "2026-09-23",
-    "first_seen_at": "2026-09-23T21:15:01+09:00",
-    "last_seen": "2026-11-15",
-    "title": "GARMIN(ガーミン)スマートウォッチ Forerunner 170 Whitestone/Cloud Blue スマートウォッチモード 約 10 日間 高精度GPS ランニングウォッチ iOS/Android AMOLEDディスプレイ1.2インチ マラソン 軽量 防水 心拍数 睡眠スコア 健康管理 Suicaタッチ決済 Garmin Pay",
     "percent_off": 17,
     "brand": "ガーミン(GARMIN)",
     "genre": "スマートウォッチ",
@@ -788,16 +738,6 @@
     "brand": "HUAWEI(ファーウェイ)",
     "genre": "スマートウォッチ",
     "price": 50900
-  },
-  "B094VSZPPP": {
-    "first_seen": "2026-10-07",
-    "first_seen_at": "2026-10-07T13:15:11+09:00",
-    "last_seen": "2026-11-15",
-    "title": "GARMIN(ガーミン) スマートウォッチ GPS Venu 2 Black/Slate【日本正規品】 010-02430-61 小",
-    "percent_off": 15,
-    "brand": "ガーミン(GARMIN)",
-    "genre": "スマートウォッチ",
-    "price": 46800
   },
   "B0GVJG7D7K": {
     "first_seen": "2026-07-31",
@@ -1029,6 +969,76 @@
     "genre": "エアフライヤー",
     "price": 12000
   },
+  "B0CLGZGXMD": {
+    "first_seen": "2026-11-13",
+    "first_seen_at": "2026-11-13T14:14:50+09:00",
+    "last_seen": "2026-11-15",
+    "title": "UGREEN Nexode【当社比最小】65W PD充電器 USB-C*2+USB-A*1 急速充電器 PSE適合 PD/PPS/QC4+対応 | GaNチップ PD3.0/QC4+ 出張/旅行用 ノートPC iPad iphone17/Galaxy S26/Pixel8/Xperia5以降対応",
+    "percent_off": 40,
+    "brand": "UGREEN",
+    "genre": "充電器",
+    "price": 3600
+  },
+  "B0FMDBYSQ9": {
+    "first_seen": "2026-10-17",
+    "first_seen_at": "2026-10-17T05:15:28+09:00",
+    "last_seen": "2026-11-15",
+    "title": "HUAWEI WATCH D2 ウェアラブル血圧計 LCA-B29:ブルー",
+    "percent_off": 23,
+    "brand": "HUAWEI(ファーウェイ)",
+    "genre": "スマートウォッチ",
+    "price": 46127
+  },
+  "B0BWF162WJ": {
+    "first_seen": "2026-09-21",
+    "first_seen_at": "2026-09-21T17:14:46+09:00",
+    "last_seen": "2026-11-15",
+    "title": "GARMIN（ガーミン）GPSランニングウォッチ Forerunner 965 White 【日本正規品】",
+    "percent_off": 20,
+    "brand": "ガーミン(GARMIN)",
+    "genre": "スマートウォッチ",
+    "price": 67800
+  },
+  "B0GX8BVR4L": {
+    "first_seen": "2026-11-01",
+    "first_seen_at": "2026-11-01T19:15:08+09:00",
+    "last_seen": "2026-11-15",
+    "title": "HUAWEI WATCH FIT 5 スマートウォッチ 薄型軽量 大画面 GPS内蔵 10日間ロングバッテリー 通知 健康管理 心拍数 睡眠 ホワイト | iPhone対応 android対応 1.82インチ画面 2500nits高輝度 ワークアウト 転倒検知 情緒測定 生理周期管理 64GBストレージ 録音機能 ランニング 防水",
+    "percent_off": 17,
+    "brand": "HUAWEI(ファーウェイ)",
+    "genre": "スマートウォッチ",
+    "price": 22770
+  },
+  "B0B4JHS716": {
+    "first_seen": "2026-09-25",
+    "first_seen_at": "2026-09-25T10:14:58+09:00",
+    "last_seen": "2026-11-15",
+    "title": "ガーミン vivomove Sport Peach Gold/Cocoa ハイブリッドスマートウォッチ 【日本正規品】 ユニセックス",
+    "percent_off": 17,
+    "brand": "ガーミン(GARMIN)",
+    "genre": "スマートウォッチ",
+    "price": 24800
+  },
+  "B0GZ2NBP8V": {
+    "first_seen": "2026-09-23",
+    "first_seen_at": "2026-09-23T21:15:01+09:00",
+    "last_seen": "2026-11-15",
+    "title": "GARMIN(ガーミン)スマートウォッチ Forerunner 170 Whitestone/Cloud Blue スマートウォッチモード 約 10 日間 高精度GPS ランニングウォッチ iOS/Android AMOLEDディスプレイ1.2インチ マラソン 軽量 防水 心拍数 睡眠スコア 健康管理 Suicaタッチ決済 Garmin Pay",
+    "percent_off": 17,
+    "brand": "ガーミン(GARMIN)",
+    "genre": "スマートウォッチ",
+    "price": 39591
+  },
+  "B094VSZPPP": {
+    "first_seen": "2026-10-07",
+    "first_seen_at": "2026-10-07T13:15:11+09:00",
+    "last_seen": "2026-11-15",
+    "title": "GARMIN(ガーミン) スマートウォッチ GPS Venu 2 Black/Slate【日本正規品】 010-02430-61 小",
+    "percent_off": 15,
+    "brand": "ガーミン(GARMIN)",
+    "genre": "スマートウォッチ",
+    "price": 46800
+  },
   "B0DB1JV955": {
     "first_seen": "2026-11-15",
     "first_seen_at": "2026-11-15T01:15:01+09:00",
@@ -1068,16 +1078,6 @@
     "brand": "UGREEN",
     "genre": "モバイルバッテリー",
     "price": 6880
-  },
-  "B0CMQK8CMJ": {
-    "first_seen": "2026-08-05",
-    "first_seen_at": "2026-08-05T21:15:31+09:00",
-    "last_seen": "2026-11-15",
-    "title": "UGREEN NexodeX 100W GaNII充電器 USB-C*2+USB-A タイプC Type-C 急速充電器 PD3.0/PPS/QC4+ | PSE認証済/MacBook/iPhone17/16/15/Galaxy S26 ultra/Xperia ノートPC 各種対応 折りたたみ式プラグ",
-    "percent_off": 44,
-    "brand": "UGREEN",
-    "genre": "充電器",
-    "price": 4980
   },
   "B0F1FD99K8": {
     "first_seen": "2026-09-25",
