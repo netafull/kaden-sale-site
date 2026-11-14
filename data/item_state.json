@@ -249,16 +249,6 @@
     "genre": "Apple製品",
     "price": 237184
   },
-  "B0DL7CSGCG": {
-    "first_seen": "2026-11-03",
-    "first_seen_at": "2026-11-03T22:15:46+09:00",
-    "last_seen": "2026-11-15",
-    "title": "Apple 2024 iMac 10 コア CPU、10 コア GPU の M4 チップ搭載オールインワンデスク トップコンピュータ: Apple Intelligence のために設計、24 インチ Retina ディスプレ イ、24GBユニファイドメモリ、512GBの SSD ストレージ、ボディと同じカラーのアクセサリ、iPhone や iPad との連係機能 - グリーン",
-    "percent_off": 5,
-    "brand": "Apple(アップル)",
-    "genre": "Apple製品",
-    "price": 343526
-  },
   "B0FWDBWC7F": {
     "first_seen": "2026-10-22",
     "first_seen_at": "2026-10-22T00:16:22+09:00",
@@ -559,6 +549,16 @@
     "genre": "充電器",
     "price": 5480
   },
+  "B0DMN885ZF": {
+    "first_seen": "2026-08-05",
+    "first_seen_at": "2026-08-05T03:07:44+09:00",
+    "last_seen": "2026-11-15",
+    "title": "UGREEN 45W USB-C 急速充電器 Type-C PD GaNⅡ充電器 PSE適合タイプc充電器 PD/PPS/SCP/QC3.0 | MacBook PD対応 iphone17/15/14/13/12 iPad Galaxy Android スマートフォン ノートPC 各機種対応",
+    "percent_off": 27,
+    "brand": "UGREEN",
+    "genre": "充電器",
+    "price": 2180
+  },
   "B09CH44769": {
     "first_seen": "2026-11-04",
     "first_seen_at": "2026-11-04T01:15:06+09:00",
@@ -618,16 +618,6 @@
     "brand": "UGREEN",
     "genre": "充電器",
     "price": 1584
-  },
-  "B0FJS3P8NT": {
-    "first_seen": "2026-07-27",
-    "first_seen_at": "2026-07-27T12:00:00+09:00",
-    "last_seen": "2026-11-15",
-    "title": "UGREEN 45W USB-C*4+USB-A*1 急速充電器 Type-C GaNⅡ タイプc PSE適合/PD3.0/PPS/SCP/QC3.0 | マルチポートタイプCアダプター iPhone18/17/16/15 Galaxy S26 S25 Ultra、Pixel 10、iPadに対応",
-    "percent_off": 20,
-    "brand": "UGREEN",
-    "genre": "充電器",
-    "price": 3180
   },
   "B0DNKC8HXP": {
     "first_seen": "2026-08-02",
@@ -727,7 +717,7 @@
     "percent_off": 16,
     "brand": "HUAWEI(ファーウェイ)",
     "genre": "スマートウォッチ",
-    "price": 50900
+    "price": 50800
   },
   "B0GVJG7D7K": {
     "first_seen": "2026-07-31",
@@ -958,6 +948,26 @@
     "brand": "BRUNO",
     "genre": "エアフライヤー",
     "price": 12000
+  },
+  "B0DL7CSGCG": {
+    "first_seen": "2026-11-03",
+    "first_seen_at": "2026-11-03T22:15:46+09:00",
+    "last_seen": "2026-11-15",
+    "title": "Apple 2024 iMac 10 コア CPU、10 コア GPU の M4 チップ搭載オールインワンデスク トップコンピュータ: Apple Intelligence のために設計、24 インチ Retina ディスプレ イ、24GBユニファイドメモリ、512GBの SSD ストレージ、ボディと同じカラーのアクセサリ、iPhone や iPad との連係機能 - グリーン",
+    "percent_off": 5,
+    "brand": "Apple(アップル)",
+    "genre": "Apple製品",
+    "price": 343526
+  },
+  "B0FJS3P8NT": {
+    "first_seen": "2026-07-27",
+    "first_seen_at": "2026-07-27T12:00:00+09:00",
+    "last_seen": "2026-11-15",
+    "title": "UGREEN 45W USB-C*4+USB-A*1 急速充電器 Type-C GaNⅡ タイプc PSE適合/PD3.0/PPS/SCP/QC3.0 | マルチポートタイプCアダプター iPhone18/17/16/15 Galaxy S26 S25 Ultra、Pixel 10、iPadに対応",
+    "percent_off": 20,
+    "brand": "UGREEN",
+    "genre": "充電器",
+    "price": 3180
   },
   "B0GF29FF6N": {
     "first_seen": "2026-10-05",
@@ -1412,13 +1422,6 @@
     "last_seen": "2026-11-14",
     "title": "HUAWEI Band 11 Pro GPS搭載 スマートウォッチ 8.99mm/18g薄型軽量ボディ 高輝度 2000nits 1.62大画面 24時間睡眠管理 14日間持続バッテリー ランニングモード 情緒モニタリング LINE通知 ブラック",
     "percent_off": 18
-  },
-  "B0DMN885ZF": {
-    "first_seen": "2026-08-05",
-    "first_seen_at": "2026-08-05T03:07:44+09:00",
-    "last_seen": "2026-11-14",
-    "title": "UGREEN 45W USB-C 急速充電器 Type-C PD GaNⅡ充電器 PSE適合タイプc充電器 PD/PPS/SCP/QC3.0 | MacBook PD対応 iphone17/15/14/13/12 iPad Galaxy Android スマートフォン ノートPC 各機種対応",
-    "percent_off": 27
   },
   "B0BKPHMVPL": {
     "first_seen": "2026-09-26",
