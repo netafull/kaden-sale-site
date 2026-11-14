@@ -163,7 +163,8 @@ footer { max-width: 960px; margin: 0 auto; padding: 16px;
 .brands a:hover { border-color: var(--accent); color: var(--accent); }
 .brands a.cur { background: var(--text); color: var(--bg);
   border-color: var(--text); font-weight: 600; }
-.ptitle { font-size: 20px; margin: 10px 0 4px; }
+.ptitle { font-size: 20px; margin: 10px 0 4px; padding-left: 10px;
+  border-left: 4px solid var(--accent); }
 .pdesc { color: var(--muted); font-size: 13px; margin-bottom: 8px; }
 .bsec { margin-top: 28px; }
 .hist { list-style: none; margin-top: 12px; }
