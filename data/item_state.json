@@ -305,15 +305,6 @@
     "brand": "Anker",
     "price": 7990
   },
-  "B0CXPJ6TJ9": {
-    "first_seen": "2026-10-30",
-    "first_seen_at": "2026-10-30T21:15:02+09:00",
-    "last_seen": "2026-11-14",
-    "title": "Anker Power Bank (20000mAh, 87W, Built-In USB-C ケーブル) パープル | モバイルバッテリー 20000mAh 87W出力 大容量 ディスプレイ USB-Cケーブル内蔵【PD/PowerIQ搭載/PSE技術基準適合/急速充電】PC iPhone 18 / 17 / 16 / 15 MacBook 各種機器対応",
-    "percent_off": null,
-    "brand": "Anker",
-    "price": 9990
-  },
   "B0CX4FKYCS": {
     "first_seen": "2026-10-10",
     "first_seen_at": "2026-10-10T23:14:49+09:00",
@@ -386,6 +377,15 @@
     "brand": "Belkin",
     "price": 1400
   },
+  "B0CMQK8CMJ": {
+    "first_seen": "2026-08-05",
+    "first_seen_at": "2026-08-05T21:15:31+09:00",
+    "last_seen": "2026-11-14",
+    "title": "UGREEN NexodeX 100W GaNII充電器 USB-C*2+USB-A タイプC Type-C 急速充電器 PD3.0/PPS/QC4+ | PSE認証済/MacBook/iPhone17/16/15/Galaxy S26 ultra/Xperia ノートPC 各種対応 折りたたみ式プラグ",
+    "percent_off": 44,
+    "brand": "UGREEN",
+    "price": 4980
+  },
   "B0BF9ZYCQ5": {
     "first_seen": "2026-07-31",
     "first_seen_at": "2026-07-31T12:00:00+09:00",
@@ -394,15 +394,6 @@
     "percent_off": 42,
     "brand": "Belkin",
     "price": 2782
-  },
-  "B0CLGZGXMD": {
-    "first_seen": "2026-11-13",
-    "first_seen_at": "2026-11-13T14:14:50+09:00",
-    "last_seen": "2026-11-14",
-    "title": "UGREEN Nexode【当社比最小】65W PD充電器 USB-C*2+USB-A*1 急速充電器 PSE適合 PD/PPS/QC4+対応 | GaNチップ PD3.0/QC4+ 出張/旅行用 ノートPC iPad iphone17/Galaxy S26/Pixel8/Xperia5以降対応",
-    "percent_off": 40,
-    "brand": "UGREEN",
-    "price": 3600
   },
   "B0FL1SH21C": {
     "first_seen": "2026-09-07",
@@ -485,24 +476,6 @@
     "brand": "CIO",
     "price": 5480
   },
-  "B0GF29FF6N": {
-    "first_seen": "2026-10-05",
-    "first_seen_at": "2026-10-05T00:14:58+09:00",
-    "last_seen": "2026-11-14",
-    "title": "Anker Nano Charger (45W, Display, スイングプラグ) ブルー | 45W USB-C急速充電器 充電状況が見えるディスプレイ搭載。iPhoneのモデルを検知し出力を最適化。180度スイングプラグ採用。iPhone iPad Galaxy MacBook Air対応 PSE技術基準適合",
-    "percent_off": 25,
-    "brand": "Anker",
-    "price": 2990
-  },
-  "B09CH44769": {
-    "first_seen": "2026-11-04",
-    "first_seen_at": "2026-11-04T01:15:06+09:00",
-    "last_seen": "2026-11-14",
-    "title": "Anker PowerPort III 3-Port 65W Pod ブラック | 65W 充電器 USB-C PD【独自技術Anker GaN II採用/PD対応/PSE技術基準適合/折りたたみ式プラグ】MacBook PD対応Windows PC iPad iPhone Galaxy Android",
-    "percent_off": 24,
-    "brand": "Anker",
-    "price": 4190
-  },
   "B06ZXXQGZ8": {
     "first_seen": "2026-10-13",
     "first_seen_at": "2026-10-13T00:16:25+09:00",
@@ -556,6 +529,15 @@
     "percent_off": 20,
     "brand": "UGREEN",
     "price": 3180
+  },
+  "B0FL1S48XY": {
+    "first_seen": "2026-09-08",
+    "first_seen_at": "2026-09-08T21:14:34+09:00",
+    "last_seen": "2026-11-14",
+    "title": "Anker Zolo Charger (70W, 4 Ports) ブラック | 70W USB-C急速充電器 4台同時充電対応。USB-C3ポートとUSB-A1ポートを搭載しPCとスマホをまとめて充電。MacBook Pro MacBook Air iPhone iPad Galaxy対応 PSE技術基準適合",
+    "percent_off": null,
+    "brand": "Anker",
+    "price": 6490
   },
   "B0DNKC8HXP": {
     "first_seen": "2026-08-02",
@@ -791,11 +773,11 @@
     "brand": "エレコム(ELECOM)",
     "price": 2090
   },
-  "B0CJR5FFN6": {
-    "first_seen": "2026-09-27",
-    "first_seen_at": "2026-09-27T21:15:00+09:00",
+  "B0CJR7N5MG": {
+    "first_seen": "2026-11-05",
+    "first_seen_at": "2026-11-05T23:15:06+09:00",
     "last_seen": "2026-11-14",
-    "title": "ロジクール ワイヤレスマウス PEBBLE MOUSE2 M350sOW 薄型 静音 Bluetooth Logi Bolt マウス 無線 ワイヤレス 左右対称 Easy-Switch 4000dpi 電池寿命24ケ月 windows mac Chrome Android iPad M350 オフホワイト 国内正規品",
+    "title": "ロジクール ワイヤレスマウス PEBBLE MOUSE2 M350sBL 薄型 静音 Bluetooth Logi Bolt マウス 無線 ワイヤレス 左右対称 Easy-Switch 4000dpi 電池寿命24ケ月 windows mac Chrome Android iPad M350 ブルー 国内正規品",
     "percent_off": 19,
     "brand": "Logicool(ロジクール)",
     "price": 2936
@@ -890,6 +872,51 @@
     "brand": "BRUNO",
     "price": 11870
   },
+  "B0CXPJ6TJ9": {
+    "first_seen": "2026-10-30",
+    "first_seen_at": "2026-10-30T21:15:02+09:00",
+    "last_seen": "2026-11-14",
+    "title": "Anker Power Bank (20000mAh, 87W, Built-In USB-C ケーブル) パープル | モバイルバッテリー 20000mAh 87W出力 大容量 ディスプレイ USB-Cケーブル内蔵【PD/PowerIQ搭載/PSE技術基準適合/急速充電】PC iPhone 18 / 17 / 16 / 15 MacBook 各種機器対応",
+    "percent_off": null,
+    "brand": "Anker",
+    "price": 9990
+  },
+  "B0CLGZGXMD": {
+    "first_seen": "2026-11-13",
+    "first_seen_at": "2026-11-13T14:14:50+09:00",
+    "last_seen": "2026-11-14",
+    "title": "UGREEN Nexode【当社比最小】65W PD充電器 USB-C*2+USB-A*1 急速充電器 PSE適合 PD/PPS/QC4+対応 | GaNチップ PD3.0/QC4+ 出張/旅行用 ノートPC iPad iphone17/Galaxy S26/Pixel8/Xperia5以降対応",
+    "percent_off": 40,
+    "brand": "UGREEN",
+    "price": 3600
+  },
+  "B0GF29FF6N": {
+    "first_seen": "2026-10-05",
+    "first_seen_at": "2026-10-05T00:14:58+09:00",
+    "last_seen": "2026-11-14",
+    "title": "Anker Nano Charger (45W, Display, スイングプラグ) ブルー | 45W USB-C急速充電器 充電状況が見えるディスプレイ搭載。iPhoneのモデルを検知し出力を最適化。180度スイングプラグ採用。iPhone iPad Galaxy MacBook Air対応 PSE技術基準適合",
+    "percent_off": 25,
+    "brand": "Anker",
+    "price": 2990
+  },
+  "B09CH44769": {
+    "first_seen": "2026-11-04",
+    "first_seen_at": "2026-11-04T01:15:06+09:00",
+    "last_seen": "2026-11-14",
+    "title": "Anker PowerPort III 3-Port 65W Pod ブラック | 65W 充電器 USB-C PD【独自技術Anker GaN II採用/PD対応/PSE技術基準適合/折りたたみ式プラグ】MacBook PD対応Windows PC iPad iPhone Galaxy Android",
+    "percent_off": 24,
+    "brand": "Anker",
+    "price": 4190
+  },
+  "B0CJR5FFN6": {
+    "first_seen": "2026-09-27",
+    "first_seen_at": "2026-09-27T21:15:00+09:00",
+    "last_seen": "2026-11-14",
+    "title": "ロジクール ワイヤレスマウス PEBBLE MOUSE2 M350sOW 薄型 静音 Bluetooth Logi Bolt マウス 無線 ワイヤレス 左右対称 Easy-Switch 4000dpi 電池寿命24ケ月 windows mac Chrome Android iPad M350 オフホワイト 国内正規品",
+    "percent_off": 19,
+    "brand": "Logicool(ロジクール)",
+    "price": 2936
+  },
   "B0DPX84MBM": {
     "first_seen": "2026-11-10",
     "first_seen_at": "2026-11-10T23:15:54+09:00",
@@ -966,13 +993,6 @@
     "last_seen": "2026-11-14",
     "title": "UGREEN Air モバイルバッテリー 5000mAh 8.6mm超薄型 Qi2 15W MagSafe iPhone18Pro対応 | 【ATL製セル×難燃技術】マグネット式ワイヤレス充電｜軽量・小型設計｜USB-C PD 20W対応 ｜パススルー充電対応｜iPhone18 Pro/17/16/15 シリーズ/ Air対応｜PB580｜グレー",
     "percent_off": null
-  },
-  "B0CMQK8CMJ": {
-    "first_seen": "2026-08-05",
-    "first_seen_at": "2026-08-05T21:15:31+09:00",
-    "last_seen": "2026-11-14",
-    "title": "UGREEN NexodeX 100W GaNII充電器 USB-C*2+USB-A タイプC Type-C 急速充電器 PD3.0/PPS/QC4+ | PSE認証済/MacBook/iPhone17/16/15/Galaxy S26 ultra/Xperia ノートPC 各種対応 折りたたみ式プラグ",
-    "percent_off": 44
   },
   "B0B2QSZRCV": {
     "first_seen": "2026-09-22",
@@ -1596,13 +1616,6 @@
     "last_seen": "2026-11-12",
     "title": "エレコム 充電器 65W USB PD対応 小型 Type-C 1ポート PPS対応 GaN II採用 PSE認証 ブラック 【iPhone 16 15 iPad Macbook 等対応】 EC-AC8565BK",
     "percent_off": 17
-  },
-  "B0FL1S48XY": {
-    "first_seen": "2026-09-08",
-    "first_seen_at": "2026-09-08T21:14:34+09:00",
-    "last_seen": "2026-11-12",
-    "title": "Anker Zolo Charger (70W, 4 Ports) ブラック | 70W USB-C急速充電器 4台同時充電対応。USB-C3ポートとUSB-A1ポートを搭載しPCとスマホをまとめて充電。MacBook Pro MacBook Air iPhone iPad Galaxy対応 PSE技術基準適合",
-    "percent_off": null
   },
   "B0DW2SYD5H": {
     "first_seen": "2026-08-15",
@@ -3080,13 +3093,6 @@
     "last_seen": "2026-11-05",
     "title": "UGREEN MagFlow Qi2 25W認証 モバイルバッテリー Magsafe マグネット式ワイヤレス急速充電 10000mAh ブラック | Qi 25W/PD 30W｜USB-Cケーブル内蔵｜iPhone18Pro/17/16シリーズ｜ディスプレイ搭載｜強力な吸着力｜PSE技術基準適合｜iOS 26バージョンのスマホ、磁力対応機種に適用 PB773",
     "percent_off": 30
-  },
-  "B0CJR7N5MG": {
-    "first_seen": "2026-11-05",
-    "first_seen_at": "2026-11-05T23:15:06+09:00",
-    "last_seen": "2026-11-05",
-    "title": "ロジクール ワイヤレスマウス PEBBLE MOUSE2 M350sBL 薄型 静音 Bluetooth Logi Bolt マウス 無線 ワイヤレス 左右対称 Easy-Switch 4000dpi 電池寿命24ケ月 windows mac Chrome Android iPad M350 ブルー 国内正規品",
-    "percent_off": 19
   },
   "B0DL783NXK": {
     "first_seen": "2026-10-10",
