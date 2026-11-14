@@ -314,10 +314,10 @@
     "first_seen_at": "2026-11-01T02:15:45+09:00",
     "last_seen": "2026-11-15",
     "title": "ソニー(SONY) WF-C710N ブラック ワイヤレスイヤホン 高性能ノイズキャンセリング Bluetoothロングバッテリー 外音取り込み IPX4防滴性能 軽量 コンパクト マルチポイント接続",
-    "percent_off": 30,
+    "percent_off": 29,
     "brand": "Sony",
     "genre": "ワイヤレスイヤホン",
-    "price": 12400
+    "price": 12580
   },
   "B0DPX7W84T": {
     "first_seen": "2026-10-20",
@@ -559,6 +559,16 @@
     "genre": "充電器",
     "price": 2180
   },
+  "B0GF29FF6N": {
+    "first_seen": "2026-10-05",
+    "first_seen_at": "2026-10-05T00:14:58+09:00",
+    "last_seen": "2026-11-15",
+    "title": "Anker Nano Charger (45W, Display, スイングプラグ) ブルー | 45W USB-C急速充電器 充電状況が見えるディスプレイ搭載。iPhoneのモデルを検知し出力を最適化。180度スイングプラグ採用。iPhone iPad Galaxy MacBook Air対応 PSE技術基準適合",
+    "percent_off": 25,
+    "brand": "Anker",
+    "genre": "充電器",
+    "price": 2990
+  },
   "B09CH44769": {
     "first_seen": "2026-11-04",
     "first_seen_at": "2026-11-04T01:15:06+09:00",
@@ -739,15 +749,15 @@
     "genre": "XR・ARグラス",
     "price": 140762
   },
-  "B0C9D8VTH7": {
-    "first_seen": "2026-09-26",
-    "first_seen_at": "2026-09-26T01:14:49+09:00",
+  "B09S3RC9T8": {
+    "first_seen": "2026-09-20",
+    "first_seen_at": "2026-09-20T21:14:52+09:00",
     "last_seen": "2026-11-15",
-    "title": "サンワサプライ ワイヤレス静音キーボード（2.4GHzワイヤレス・テンキーあり） SKB-WL37BK",
-    "percent_off": 50,
+    "title": "サンワサプライ(Sanwa Supply) USBキーボード(ホワイト) SKB-L1UN",
+    "percent_off": 49,
     "brand": "サンワサプライ(Sanwa Supply)",
     "genre": "キーボード・マウス",
-    "price": 2109
+    "price": 1000
   },
   "B0DP6VCXRF": {
     "first_seen": "2026-10-13",
@@ -829,15 +839,15 @@
     "genre": "キーボード・マウス",
     "price": 2773
   },
-  "B00FJ0GDLQ": {
-    "first_seen": "2026-09-26",
-    "first_seen_at": "2026-09-26T02:14:52+09:00",
+  "B01L8VIHAY": {
+    "first_seen": "2026-11-08",
+    "first_seen_at": "2026-11-08T07:15:36+09:00",
     "last_seen": "2026-11-15",
-    "title": "エレコム USB キーボード ワイヤレス (レシーバー付属) メンブレン フルキーボード 1000万回高耐久 PlayStation4 対応 ブラック TK-FDM063TBK",
-    "percent_off": 22,
-    "brand": "エレコム(ELECOM)",
+    "title": "バッファロー キーボード 有線 Tabキー付き ホワイト BSTK100WH",
+    "percent_off": 24,
+    "brand": "バッファロー",
     "genre": "キーボード・マウス",
-    "price": 2090
+    "price": 1106
   },
   "B0CJR5HBMN": {
     "first_seen": "2026-08-04",
@@ -848,16 +858,6 @@
     "brand": "Logicool(ロジクール)",
     "genre": "キーボード・マウス",
     "price": 2936
-  },
-  "B07NDM4CQZ": {
-    "first_seen": "2026-10-08",
-    "first_seen_at": "2026-10-08T22:14:47+09:00",
-    "last_seen": "2026-11-15",
-    "title": "エレコム USB キーボード ワイヤレス (レシーバー付属) メンブレン コンパクトキーボード ブラック TK-FDM105TXBK",
-    "percent_off": 19,
-    "brand": "エレコム(ELECOM)",
-    "genre": "キーボード・マウス",
-    "price": 1790
   },
   "B0D9Y1J4NH": {
     "first_seen": "2026-09-26",
@@ -949,6 +949,36 @@
     "genre": "エアフライヤー",
     "price": 12000
   },
+  "B0C9D8VTH7": {
+    "first_seen": "2026-09-26",
+    "first_seen_at": "2026-09-26T01:14:49+09:00",
+    "last_seen": "2026-11-15",
+    "title": "サンワサプライ ワイヤレス静音キーボード（2.4GHzワイヤレス・テンキーあり） SKB-WL37BK",
+    "percent_off": 50,
+    "brand": "サンワサプライ(Sanwa Supply)",
+    "genre": "キーボード・マウス",
+    "price": 2109
+  },
+  "B00FJ0GDLQ": {
+    "first_seen": "2026-09-26",
+    "first_seen_at": "2026-09-26T02:14:52+09:00",
+    "last_seen": "2026-11-15",
+    "title": "エレコム USB キーボード ワイヤレス (レシーバー付属) メンブレン フルキーボード 1000万回高耐久 PlayStation4 対応 ブラック TK-FDM063TBK",
+    "percent_off": 22,
+    "brand": "エレコム(ELECOM)",
+    "genre": "キーボード・マウス",
+    "price": 2090
+  },
+  "B07NDM4CQZ": {
+    "first_seen": "2026-10-08",
+    "first_seen_at": "2026-10-08T22:14:47+09:00",
+    "last_seen": "2026-11-15",
+    "title": "エレコム USB キーボード ワイヤレス (レシーバー付属) メンブレン コンパクトキーボード ブラック TK-FDM105TXBK",
+    "percent_off": 19,
+    "brand": "エレコム(ELECOM)",
+    "genre": "キーボード・マウス",
+    "price": 1790
+  },
   "B0DL7CSGCG": {
     "first_seen": "2026-11-03",
     "first_seen_at": "2026-11-03T22:15:46+09:00",
@@ -968,16 +998,6 @@
     "brand": "UGREEN",
     "genre": "充電器",
     "price": 3180
-  },
-  "B0GF29FF6N": {
-    "first_seen": "2026-10-05",
-    "first_seen_at": "2026-10-05T00:14:58+09:00",
-    "last_seen": "2026-11-15",
-    "title": "Anker Nano Charger (45W, Display, スイングプラグ) ブルー | 45W USB-C急速充電器 充電状況が見えるディスプレイ搭載。iPhoneのモデルを検知し出力を最適化。180度スイングプラグ採用。iPhone iPad Galaxy MacBook Air対応 PSE技術基準適合",
-    "percent_off": 25,
-    "brand": "Anker",
-    "genre": "充電器",
-    "price": 2990
   },
   "B0CLGZGXMD": {
     "first_seen": "2026-11-13",
@@ -3109,20 +3129,6 @@
     "last_seen": "2026-11-08",
     "title": "UGREEN MagFlow Qi2 25W認証 モバイルバッテリー Magsafe マグネット式ワイヤレス急速充電 10000mAh 水色 | Qi 25W/PD 30W｜USB-Cケーブル内蔵｜iPhone18Pro/17/16シリーズ｜ディスプレイ搭載｜強力な吸着力｜PSE技術基準適合｜iOS 26バージョンのスマホ、磁力対応機種に適用 PB773",
     "percent_off": 37
-  },
-  "B09S3RC9T8": {
-    "first_seen": "2026-09-20",
-    "first_seen_at": "2026-09-20T21:14:52+09:00",
-    "last_seen": "2026-11-08",
-    "title": "サンワサプライ(Sanwa Supply) USBキーボード(ホワイト) SKB-L1UN",
-    "percent_off": 49
-  },
-  "B01L8VIHAY": {
-    "first_seen": "2026-11-08",
-    "first_seen_at": "2026-11-08T07:15:36+09:00",
-    "last_seen": "2026-11-08",
-    "title": "バッファロー キーボード 有線 Tabキー付き ホワイト BSTK100WH",
-    "percent_off": 21
   },
   "B0DL78NHX7": {
     "first_seen": "2026-11-03",
