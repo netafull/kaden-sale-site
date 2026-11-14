@@ -40,6 +40,13 @@ header h1 a { color: var(--text); text-decoration: none;
   display: inline-flex; align-items: center; gap: 8px; }
 /* ロゴは文字とほぼ同じ高さに揃える(96px画像を縮小して表示) */
 header h1 img { width: 44px; height: 44px; }
+/* ブランドページではサイト名を見出しにせず小さなブランド行として出し、
+   ページの主題の h1 は main 側の .ptitle だけにする(見出し階層の統一。
+   オーナー指示 2026-11-14) */
+header .brand { font-size: 15px; font-weight: 700; }
+header .brand a { color: var(--text); text-decoration: none;
+  display: inline-flex; align-items: center; gap: 6px; }
+header .brand img { width: 26px; height: 26px; }
 header p { color: var(--muted); font-size: 13px; margin-top: 4px; }
 .sites { margin-top: 10px; display: flex; gap: 8px; flex-wrap: wrap;
   align-items: baseline; }
@@ -650,7 +657,7 @@ gtag('config', '{esc(ga_id)}');
 </head>
 <body>
 <header>
-<h1><a href="../../" data-google-vignette="false"><img src="../../assets/logo.png" alt="" width="44" height="44">{esc(CONFIG["site_title"])}</a></h1>
+<p class="brand"><a href="../../" data-google-vignette="false"><img src="../../assets/logo.png" alt="" width="44" height="44">{esc(CONFIG["site_title"])}</a></p>
 <p>{esc(CONFIG["site_description"])} ｜ 最終更新: {updated}</p>
 </header>
 {header_ad}
