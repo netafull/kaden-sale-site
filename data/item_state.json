@@ -589,16 +589,6 @@
     "genre": "充電器",
     "price": 1340
   },
-  "B09CH44769": {
-    "first_seen": "2026-11-04",
-    "first_seen_at": "2026-11-04T01:15:06+09:00",
-    "last_seen": "2026-11-16",
-    "title": "Anker PowerPort III 3-Port 65W Pod ブラック | 65W 充電器 USB-C PD【独自技術Anker GaN II採用/PD対応/PSE技術基準適合/折りたたみ式プラグ】MacBook PD対応Windows PC iPad iPhone Galaxy Android",
-    "percent_off": 24,
-    "brand": "Anker",
-    "genre": "充電器",
-    "price": 4190
-  },
   "B06ZXXQGZ8": {
     "first_seen": "2026-10-13",
     "first_seen_at": "2026-10-13T00:16:25+09:00",
@@ -938,6 +928,16 @@
     "brand": "BRUNO",
     "genre": "エアフライヤー",
     "price": 12000
+  },
+  "B09CH44769": {
+    "first_seen": "2026-11-04",
+    "first_seen_at": "2026-11-04T01:15:06+09:00",
+    "last_seen": "2026-11-16",
+    "title": "Anker PowerPort III 3-Port 65W Pod ブラック | 65W 充電器 USB-C PD【独自技術Anker GaN II採用/PD対応/PSE技術基準適合/折りたたみ式プラグ】MacBook PD対応Windows PC iPad iPhone Galaxy Android",
+    "percent_off": 24,
+    "brand": "Anker",
+    "genre": "充電器",
+    "price": 4190
   },
   "B0GF29FF6N": {
     "first_seen": "2026-10-05",
