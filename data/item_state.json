@@ -9,16 +9,6 @@
     "genre": "Apple製品",
     "price": 22984
   },
-  "B0DGJBNYVY": {
-    "first_seen": "2026-09-05",
-    "first_seen_at": "2026-09-05T08:14:38+09:00",
-    "last_seen": "2026-11-15",
-    "title": "Apple AirPods 4 アクティブノイズ キャンセリング搭載、ワイヤレスイヤホン、Bluetooth 5.3、ライブ翻訳、適応型オーディオ、外部音取り込みモード、パーソナライズされた空間オーディオ、USB-C充電ケース、ワイヤレス充電、H2チップ、防塵性能と耐汗耐水性能、「探す」対応、Qi充電",
-    "percent_off": 24,
-    "brand": "Apple(アップル)",
-    "genre": "Apple製品",
-    "price": 25051
-  },
   "B0DL6PS74M": {
     "first_seen": "2026-11-04",
     "first_seen_at": "2026-11-04T18:16:02+09:00",
@@ -324,10 +314,10 @@
     "first_seen_at": "2026-11-09T22:14:55+09:00",
     "last_seen": "2026-11-15",
     "title": "JBL LIVE BEAM 3 ワイヤレスイヤホン スマート充電ケース/LDAC対応ハイレゾ/マルチポイント/ハイブリッド ノイズキャンセリング/IP55防水/ワイヤレス充電対応/ブラック/JBLLIVEBEAM3BLK",
-    "percent_off": 48,
+    "percent_off": 49,
     "brand": "JBL",
     "genre": "ワイヤレスイヤホン",
-    "price": 14524
+    "price": 14350
   },
   "B0F3XFNHCW": {
     "first_seen": "2026-11-01",
@@ -379,6 +369,16 @@
     "genre": "モバイルバッテリー",
     "price": 7990
   },
+  "B0CL8S3WMX": {
+    "first_seen": "2026-10-15",
+    "first_seen_at": "2026-10-15T00:15:14+09:00",
+    "last_seen": "2026-11-15",
+    "title": "Anker Power Bank (30W, Fusion, Built-In USB-C ケーブル) ブラック | 5K 22.5W出力モバイルバッテリー搭載 30W出力USB充電器 / LEDディスプレイ搭載/USB-Cケーブル一体型/コンセント一体型/折りたたみ式プラグ 1台3役 / iPhone 18 / 17 / 16 / 15 その他各種機器対応",
+    "percent_off": null,
+    "brand": "Anker",
+    "genre": "モバイルバッテリー",
+    "price": 6990
+  },
   "B0CXNY69DC": {
     "first_seen": "2026-10-07",
     "first_seen_at": "2026-10-07T00:14:58+09:00",
@@ -428,6 +428,16 @@
     "brand": "Anker",
     "genre": "モバイルバッテリー",
     "price": 6990
+  },
+  "B0C5CBV6L3": {
+    "first_seen": "2026-10-30",
+    "first_seen_at": "2026-10-30T00:15:48+09:00",
+    "last_seen": "2026-11-15",
+    "title": "Anker Prime Wall Charger (67W, 3 ports, GaN) (ブラック) | 充電器【 PD対応/PSE技術基準適合/折りたたみ式プラグ】iphone 18 / 17 Pro / 17 Pro Max 他 iPhone シリーズ MacBook Windows PC iPad Galaxy Android スマートフォン",
+    "percent_off": 53,
+    "brand": "Anker",
+    "genre": "充電器",
+    "price": 3990
   },
   "B098SQSRRV": {
     "first_seen": "2026-07-31",
@@ -539,11 +549,11 @@
     "genre": "充電器",
     "price": 3050
   },
-  "B0BF43HS1G": {
-    "first_seen": "2026-07-27",
-    "first_seen_at": "2026-07-27T12:00:00+09:00",
+  "B0BF42YVSR": {
+    "first_seen": "2026-10-13",
+    "first_seen_at": "2026-10-13T21:14:47+09:00",
     "last_seen": "2026-11-15",
-    "title": "Anker 523 Charger (Nano 3, 47W) ホワイト | 最大47W・USB-C 2ポートでスマホとタブレットを同時に急速充電。小型でもMacBook Airにも対応。USB-C 充電器 急速充電器 47W PD GaN iPhone iPad",
+    "title": "Anker 523 Charger (Nano 3, 47W) ブルー | 最大47W・USB-C 2ポートでスマホとタブレットを同時に急速充電。小型でもMacBook Airにも対応。USB-C 充電器 急速充電器 47W PD GaN iPhone iPad",
     "percent_off": 30,
     "brand": "Anker",
     "genre": "充電器",
@@ -559,16 +569,6 @@
     "genre": "充電器",
     "price": 1750
   },
-  "B0BF44GF6J": {
-    "first_seen": "2026-08-09",
-    "first_seen_at": "2026-08-09T01:55:23+09:00",
-    "last_seen": "2026-11-15",
-    "title": "Anker 523 Charger (Nano 3, 47W) ブラック | USB PD USB-C 急速充電器【PowerIQ 3.0 (Gen2)搭載/PSE技術基準適合/折りたたみ式プラグ】iPhone 18 / 17 / 16シリーズ / Air MacBook Air その他各種機器対応 (ブラック)",
-    "percent_off": 30,
-    "brand": "Anker",
-    "genre": "充電器",
-    "price": 2790
-  },
   "B0D53VKL36": {
     "first_seen": "2026-07-29",
     "first_seen_at": "2026-07-29T12:00:00+09:00",
@@ -578,6 +578,16 @@
     "brand": "CIO",
     "genre": "充電器",
     "price": 5480
+  },
+  "B0FYFDD1WW": {
+    "first_seen": "2026-11-14",
+    "first_seen_at": "2026-11-14T01:15:03+09:00",
+    "last_seen": "2026-11-15",
+    "title": "UGREEN 160W 急速 充電器 カラーディスプレイ搭載 Type-C 4C1A 5ポート PD3.2/PPS5A/QC4対応 折り畳み式 | 5ポート USB-C*4とUSB-A*1 ワンタッチで縦横表示切替・アニメーション表示・リアルタイム充電状況確認 MacBook/iPhone18/17/16/15/14/13/Galaxy S26 Ultra/Xperia他各種対応 PSE適合",
+    "percent_off": 26,
+    "brand": "UGREEN",
+    "genre": "充電器",
+    "price": 9580
   },
   "B0C8K2LZD2": {
     "first_seen": "2026-10-23",
@@ -598,16 +608,6 @@
     "brand": "Anker",
     "genre": "充電器",
     "price": 2990
-  },
-  "B09CH44769": {
-    "first_seen": "2026-11-04",
-    "first_seen_at": "2026-11-04T01:15:06+09:00",
-    "last_seen": "2026-11-15",
-    "title": "Anker PowerPort III 3-Port 65W Pod ブラック | 65W 充電器 USB-C PD【独自技術Anker GaN II採用/PD対応/PSE技術基準適合/折りたたみ式プラグ】MacBook PD対応Windows PC iPad iPhone Galaxy Android",
-    "percent_off": 24,
-    "brand": "Anker",
-    "genre": "充電器",
-    "price": 4190
   },
   "B06ZXXQGZ8": {
     "first_seen": "2026-10-13",
@@ -658,6 +658,16 @@
     "brand": "UGREEN",
     "genre": "充電器",
     "price": 3180
+  },
+  "B08PTQMZY3": {
+    "first_seen": "2026-10-27",
+    "first_seen_at": "2026-10-27T21:14:38+09:00",
+    "last_seen": "2026-11-15",
+    "title": "KIOXIA(キオクシア) 旧東芝メモリ microSD 64GB UHS-I Class10 (最大読出速度100MB/s) Nintendo Switch動作確認済 国内サポート正規品 メーカー保証5年 KLMEA064G",
+    "percent_off": 27,
+    "brand": "KIOXIA",
+    "genre": "SSD・メモリーカード",
+    "price": 1730
   },
   "B0DNKC8HXP": {
     "first_seen": "2026-08-02",
@@ -729,15 +739,15 @@
     "genre": "スマートウォッチ",
     "price": 39591
   },
-  "B0GX8DRYCX": {
-    "first_seen": "2026-09-03",
-    "first_seen_at": "2026-09-03T12:14:47+09:00",
+  "B0GX8BVR4L": {
+    "first_seen": "2026-11-01",
+    "first_seen_at": "2026-11-01T19:15:08+09:00",
     "last_seen": "2026-11-15",
-    "title": "HUAWEI WATCH FIT 5 スマートウォッチ 薄型軽量 大画面 GPS内蔵 10日間ロングバッテリー 通知 健康管理 心拍数 睡眠 ブラック | iPhone対応 android対応 1.82インチ画面 2500nits高輝度 ワークアウト 転倒検知 情緒測定 生理周期管理 64GBストレージ 録音機能 ランニング 防水",
+    "title": "HUAWEI WATCH FIT 5 スマートウォッチ 薄型軽量 大画面 GPS内蔵 10日間ロングバッテリー 通知 健康管理 心拍数 睡眠 ホワイト | iPhone対応 android対応 1.82インチ画面 2500nits高輝度 ワークアウト 転倒検知 情緒測定 生理周期管理 64GBストレージ 録音機能 ランニング 防水",
     "percent_off": 17,
     "brand": "HUAWEI(ファーウェイ)",
     "genre": "スマートウォッチ",
-    "price": 22774
+    "price": 22770
   },
   "B0BWF35J1G": {
     "first_seen": "2026-10-15",
@@ -869,11 +879,11 @@
     "genre": "キーボード・マウス",
     "price": 2090
   },
-  "B0CJR5HBMN": {
-    "first_seen": "2026-08-04",
-    "first_seen_at": "2026-08-04T21:17:38+09:00",
+  "B0CJR74NF3": {
+    "first_seen": "2026-08-13",
+    "first_seen_at": "2026-08-13T22:45:41+09:00",
     "last_seen": "2026-11-15",
-    "title": "ロジクール ワイヤレスマウス PEBBLE MOUSE2 M350sGR 薄型 静音 Bluetooth Logi Bolt マウス 無線 ワイヤレス 左右対称 Easy-Switch 4000dpi 電池寿命24ケ月 windows mac Chrome Android iPad M350 グラファイト 国内正規品",
+    "title": "ロジクール ワイヤレスマウス PEBBLE MOUSE2 M350sGY 薄型 静音 Bluetooth Logi Bolt マウス 無線 ワイヤレス 左右対称 Easy-Switch 4000dpi 電池寿命24ケ月 windows mac Chrome Android iPad M350 グレージュ 国内正規品",
     "percent_off": 19,
     "brand": "Logicool(ロジクール)",
     "genre": "キーボード・マウス",
@@ -949,16 +959,6 @@
     "genre": "キーボード・マウス",
     "price": 1790
   },
-  "B0H33PTLSH": {
-    "first_seen": "2026-11-14",
-    "first_seen_at": "2026-11-14T21:14:56+09:00",
-    "last_seen": "2026-11-15",
-    "title": "【Amazon.co.jp限定】 Ninja ニンジャ Crispi クリスピー FN100JGNNR 自動調理器 3つの調理モード (クリスプ/ベイク・ロースト/リクリスプ) 煮る 焼く 蒸す 炒める 煮込む 炊く 温風調理 エアフライヤー ノンフライヤー FN100J ミント",
-    "percent_off": 27,
-    "brand": "NINJA",
-    "genre": "エアフライヤー",
-    "price": 18000
-  },
   "B0G4CC1S2F": {
     "first_seen": "2026-10-30",
     "first_seen_at": "2026-10-30T19:14:56+09:00",
@@ -979,6 +979,76 @@
     "genre": "エアフライヤー",
     "price": 12000
   },
+  "B0DGJBNYVY": {
+    "first_seen": "2026-09-05",
+    "first_seen_at": "2026-09-05T08:14:38+09:00",
+    "last_seen": "2026-11-15",
+    "title": "Apple AirPods 4 アクティブノイズ キャンセリング搭載、ワイヤレスイヤホン、Bluetooth 5.3、ライブ翻訳、適応型オーディオ、外部音取り込みモード、パーソナライズされた空間オーディオ、USB-C充電ケース、ワイヤレス充電、H2チップ、防塵性能と耐汗耐水性能、「探す」対応、Qi充電",
+    "percent_off": 24,
+    "brand": "Apple(アップル)",
+    "genre": "Apple製品",
+    "price": 25051
+  },
+  "B0BF43HS1G": {
+    "first_seen": "2026-07-27",
+    "first_seen_at": "2026-07-27T12:00:00+09:00",
+    "last_seen": "2026-11-15",
+    "title": "Anker 523 Charger (Nano 3, 47W) ホワイト | 最大47W・USB-C 2ポートでスマホとタブレットを同時に急速充電。小型でもMacBook Airにも対応。USB-C 充電器 急速充電器 47W PD GaN iPhone iPad",
+    "percent_off": 30,
+    "brand": "Anker",
+    "genre": "充電器",
+    "price": 2790
+  },
+  "B0BF44GF6J": {
+    "first_seen": "2026-08-09",
+    "first_seen_at": "2026-08-09T01:55:23+09:00",
+    "last_seen": "2026-11-15",
+    "title": "Anker 523 Charger (Nano 3, 47W) ブラック | USB PD USB-C 急速充電器【PowerIQ 3.0 (Gen2)搭載/PSE技術基準適合/折りたたみ式プラグ】iPhone 18 / 17 / 16シリーズ / Air MacBook Air その他各種機器対応 (ブラック)",
+    "percent_off": 30,
+    "brand": "Anker",
+    "genre": "充電器",
+    "price": 2790
+  },
+  "B09CH44769": {
+    "first_seen": "2026-11-04",
+    "first_seen_at": "2026-11-04T01:15:06+09:00",
+    "last_seen": "2026-11-15",
+    "title": "Anker PowerPort III 3-Port 65W Pod ブラック | 65W 充電器 USB-C PD【独自技術Anker GaN II採用/PD対応/PSE技術基準適合/折りたたみ式プラグ】MacBook PD対応Windows PC iPad iPhone Galaxy Android",
+    "percent_off": 24,
+    "brand": "Anker",
+    "genre": "充電器",
+    "price": 4190
+  },
+  "B0GX8DRYCX": {
+    "first_seen": "2026-09-03",
+    "first_seen_at": "2026-09-03T12:14:47+09:00",
+    "last_seen": "2026-11-15",
+    "title": "HUAWEI WATCH FIT 5 スマートウォッチ 薄型軽量 大画面 GPS内蔵 10日間ロングバッテリー 通知 健康管理 心拍数 睡眠 ブラック | iPhone対応 android対応 1.82インチ画面 2500nits高輝度 ワークアウト 転倒検知 情緒測定 生理周期管理 64GBストレージ 録音機能 ランニング 防水",
+    "percent_off": 17,
+    "brand": "HUAWEI(ファーウェイ)",
+    "genre": "スマートウォッチ",
+    "price": 22774
+  },
+  "B0CJR5HBMN": {
+    "first_seen": "2026-08-04",
+    "first_seen_at": "2026-08-04T21:17:38+09:00",
+    "last_seen": "2026-11-15",
+    "title": "ロジクール ワイヤレスマウス PEBBLE MOUSE2 M350sGR 薄型 静音 Bluetooth Logi Bolt マウス 無線 ワイヤレス 左右対称 Easy-Switch 4000dpi 電池寿命24ケ月 windows mac Chrome Android iPad M350 グラファイト 国内正規品",
+    "percent_off": 19,
+    "brand": "Logicool(ロジクール)",
+    "genre": "キーボード・マウス",
+    "price": 2936
+  },
+  "B0H33PTLSH": {
+    "first_seen": "2026-11-14",
+    "first_seen_at": "2026-11-14T21:14:56+09:00",
+    "last_seen": "2026-11-15",
+    "title": "【Amazon.co.jp限定】 Ninja ニンジャ Crispi クリスピー FN100JGNNR 自動調理器 3つの調理モード (クリスプ/ベイク・ロースト/リクリスプ) 煮る 焼く 蒸す 炒める 煮込む 炊く 温風調理 エアフライヤー ノンフライヤー FN100J ミント",
+    "percent_off": 27,
+    "brand": "NINJA",
+    "genre": "エアフライヤー",
+    "price": 18000
+  },
   "B0GL1G8PQZ": {
     "first_seen": "2026-10-30",
     "first_seen_at": "2026-10-30T18:15:39+09:00",
@@ -998,16 +1068,6 @@
     "brand": "NINJA",
     "genre": "エアフライヤー",
     "price": 18000
-  },
-  "B0GX8BVR4L": {
-    "first_seen": "2026-11-01",
-    "first_seen_at": "2026-11-01T19:15:08+09:00",
-    "last_seen": "2026-11-15",
-    "title": "HUAWEI WATCH FIT 5 スマートウォッチ 薄型軽量 大画面 GPS内蔵 10日間ロングバッテリー 通知 健康管理 心拍数 睡眠 ホワイト | iPhone対応 android対応 1.82インチ画面 2500nits高輝度 ワークアウト 転倒検知 情緒測定 生理周期管理 64GBストレージ 録音機能 ランニング 防水",
-    "percent_off": 17,
-    "brand": "HUAWEI(ファーウェイ)",
-    "genre": "スマートウォッチ",
-    "price": 22770
   },
   "B0GVJG7D7K": {
     "first_seen": "2026-07-31",
@@ -1384,13 +1444,6 @@
     "title": "UGREEN Air モバイルバッテリー 10000mAh 薄型 Qi2 15W MagSafe ケーブル内蔵 iPhone18Pro対応 | 【ATL製セル×難燃技術】マグネット式ワイヤレス充電｜軽量・小型設計｜USB-C PD 30W対応 ｜パススルー充電対応｜ iPhone18 Pro/17/16/15 シリーズ/ Air対応｜PB570｜グレー",
     "percent_off": null
   },
-  "B0CL8S3WMX": {
-    "first_seen": "2026-10-15",
-    "first_seen_at": "2026-10-15T00:15:14+09:00",
-    "last_seen": "2026-11-14",
-    "title": "Anker Power Bank (30W, Fusion, Built-In USB-C ケーブル) ブラック | 5K 22.5W出力モバイルバッテリー搭載 30W出力USB充電器 / LEDディスプレイ搭載/USB-Cケーブル一体型/コンセント一体型/折りたたみ式プラグ 1台3役 / iPhone 18 / 17 / 16 / 15 その他各種機器対応",
-    "percent_off": null
-  },
   "B0C3GTMX5M": {
     "first_seen": "2026-09-18",
     "first_seen_at": "2026-09-18T21:14:31+09:00",
@@ -1419,33 +1472,12 @@
     "title": "Anker 511 Charger (Nano 3, 30W) ブルー | 30W USB-C急速充電器 手のひらサイズでノートPCにも給電。GaN採用で折りたたみ式プラグ搭載。PD PPS対応 MacBook Air iPhone iPad Galaxy Pixel対応 PSE技術基準適合",
     "percent_off": null
   },
-  "B0FYFDD1WW": {
-    "first_seen": "2026-11-14",
-    "first_seen_at": "2026-11-14T01:15:03+09:00",
-    "last_seen": "2026-11-14",
-    "title": "UGREEN 160W 急速 充電器 カラーディスプレイ搭載 Type-C 4C1A 5ポート PD3.2/PPS5A/QC4対応 折り畳み式 | 5ポート USB-C*4とUSB-A*1 ワンタッチで縦横表示切替・アニメーション表示・リアルタイム充電状況確認 MacBook/iPhone18/17/16/15/14/13/Galaxy S26 Ultra/Xperia他各種対応 PSE適合",
-    "percent_off": 26
-  },
-  "B08PTQMZY3": {
-    "first_seen": "2026-10-27",
-    "first_seen_at": "2026-10-27T21:14:38+09:00",
-    "last_seen": "2026-11-14",
-    "title": "KIOXIA(キオクシア) 旧東芝メモリ microSD 64GB UHS-I Class10 (最大読出速度100MB/s) Nintendo Switch動作確認済 国内サポート正規品 メーカー保証5年 KLMEA064G",
-    "percent_off": 25
-  },
   "B0BF9QJWBY": {
     "first_seen": "2026-11-05",
     "first_seen_at": "2026-11-05T21:15:35+09:00",
     "last_seen": "2026-11-14",
     "title": "Logicool G ゲーミングマウス G705 ワイヤレス マウス LIGHTSPEED Bluetooth 2種類無線接続に対応 LIGHTSYNC RGB 85g 軽量 PC windows mac ホワイト G705WL 国内正規品",
     "percent_off": 24
-  },
-  "B0CJR74NF3": {
-    "first_seen": "2026-08-13",
-    "first_seen_at": "2026-08-13T22:45:41+09:00",
-    "last_seen": "2026-11-14",
-    "title": "ロジクール ワイヤレスマウス PEBBLE MOUSE2 M350sGY 薄型 静音 Bluetooth Logi Bolt マウス 無線 ワイヤレス 左右対称 Easy-Switch 4000dpi 電池寿命24ケ月 windows mac Chrome Android iPad M350 グレージュ 国内正規品",
-    "percent_off": 19
   },
   "B08K2V1B28": {
     "first_seen": "2026-11-03",
@@ -1537,13 +1569,6 @@
     "last_seen": "2026-11-14",
     "title": "Belkin MagSafe対応 ワイヤレスモバイルバッテリー 5000mAh 最大7.5W キックスタンド付き ホワイト | 7.5Wワイヤレス、USB-C最大15W、2台同時充電、PPS対応、パススルー充電、iPhone18~12・Android対応、カメラを妨げにくい薄型設計、PSE・中国CCC認証、1m USB-Cケーブル付属、2年保証・最大2,500米ドルCEW",
     "percent_off": 39
-  },
-  "B0BF42YVSR": {
-    "first_seen": "2026-10-13",
-    "first_seen_at": "2026-10-13T21:14:47+09:00",
-    "last_seen": "2026-11-14",
-    "title": "Anker 523 Charger (Nano 3, 47W) ブルー | 最大47W・USB-C 2ポートでスマホとタブレットを同時に急速充電。小型でもMacBook Airにも対応。USB-C 充電器 急速充電器 47W PD GaN iPhone iPad",
-    "percent_off": 30
   },
   "B0BKPLSSBZ": {
     "first_seen": "2026-11-10",
@@ -1656,13 +1681,6 @@
     "last_seen": "2026-11-13",
     "title": "AirPods 5 + AppleCare+ for Headphones - AirPods",
     "percent_off": 9
-  },
-  "B0C5CBV6L3": {
-    "first_seen": "2026-10-30",
-    "first_seen_at": "2026-10-30T00:15:48+09:00",
-    "last_seen": "2026-11-13",
-    "title": "Anker Prime Wall Charger (67W, 3 ports, GaN) (ブラック) | 充電器【 PD対応/PSE技術基準適合/折りたたみ式プラグ】iphone 18 / 17 Pro / 17 Pro Max 他 iPhone シリーズ MacBook Windows PC iPad Galaxy Android スマートフォン",
-    "percent_off": 53
   },
   "B07NDLV8M9": {
     "first_seen": "2026-09-10",
