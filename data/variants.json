@@ -609,6 +609,22 @@
    "seed": "B0DL6ZMCV9",
    "variation_count": 2
   },
+  "B0DNPT3S1K": {
+   "aliases": {},
+   "genre": "Apple製品",
+   "label": "Apple iPhone 16 (128 GB) - ブラック SIMフリー 5",
+   "last_sweep_at": "2026-11-15T22:07:13+09:00",
+   "members": {
+    "B0DGJ3R51V": {
+     "last_seen": "2026-11-15",
+     "pct": 0,
+     "points_pct": 1
+    }
+   },
+   "no_variations": false,
+   "seed": "B0DGJ3R51V",
+   "variation_count": 1
+  },
   "B0DNQBK6BV": {
    "aliases": {
     "B0DL78FFFR": "2026-11-15"
@@ -3551,7 +3567,7 @@
    },
    "genre": "Apple製品",
    "label": "Apple 2026 MacBook Air M5チップ搭載15インチノートブッ",
-   "last_sweep_at": "2026-11-15T16:07:13+09:00",
+   "last_sweep_at": "2026-11-15T22:07:13+09:00",
    "members": {
     "B0GR1JD976": {
      "last_seen": "2026-11-15",
@@ -4362,7 +4378,7 @@
    "aliases": {},
    "genre": "Apple製品",
    "label": "Apple Watch Series 12（GPSモデル）",
-   "last_sweep_at": "2026-11-15T15:07:20+09:00",
+   "last_sweep_at": "2026-11-15T22:07:13+09:00",
    "members": {
     "B0HJ9V2FK4": {
      "last_seen": "2026-11-15",
@@ -4470,7 +4486,7 @@
    },
    "genre": "Apple製品",
    "label": "Apple Watch Ultra 4（GPS + Cellularモデル）",
-   "last_sweep_at": "2026-11-15T15:07:20+09:00",
+   "last_sweep_at": "2026-11-15T22:07:13+09:00",
    "members": {
     "B0HJ9SL1FK": {
      "last_seen": "2026-11-15",
@@ -4546,7 +4562,7 @@
    },
    "genre": "Apple製品",
    "label": "Apple iPhone 18 Pro (256 GB) - シルバー",
-   "last_sweep_at": "2026-11-15T15:07:20+09:00",
+   "last_sweep_at": "2026-11-15T22:07:13+09:00",
    "members": {
     "B0HJ9TVNN6": {
      "last_seen": "2026-11-08",
@@ -4586,7 +4602,7 @@
    },
    "no_variations": false,
    "seed": "B0HJBCWLXC",
-   "variation_count": 3
+   "variation_count": 2
   },
   "B0HJC83N5V": {
    "aliases": {},
@@ -4602,7 +4618,7 @@
    "aliases": {},
    "genre": "Apple製品",
    "label": "ワイヤレス充電ケース付きApple AirPods 5ワイヤレスイヤーバッド",
-   "last_sweep_at": "2026-11-15T16:07:13+09:00",
+   "last_sweep_at": "2026-11-15T22:07:13+09:00",
    "members": {
     "B0HJ9VNBZ8": {
      "last_seen": "2026-11-15",
@@ -4699,7 +4715,7 @@
    "aliases": {},
    "genre": "Apple製品",
    "label": "Apple Watch Band - ミラネーゼループ - （46mm）ケース用",
-   "last_sweep_at": "2026-11-15T15:07:20+09:00",
+   "last_sweep_at": "2026-11-15T22:07:13+09:00",
    "members": {
     "B0FQFMCFQ9": {
      "last_seen": "2026-11-15",
