@@ -9,6 +9,16 @@
     "genre": "Apple製品",
     "price": 22984
   },
+  "B0DL6PS74M": {
+    "first_seen": "2026-11-04",
+    "first_seen_at": "2026-11-04T18:16:02+09:00",
+    "last_seen": "2026-11-15",
+    "title": "Apple 2024 iMac 10 コア CPU、10 コア GPU の M4 チップ搭載オールインワンデスク トップコンピュータ: Apple Intelligence のために設計、24 インチ Retina ディスプレ イ、16GBユニファイドメモリ、512GBの SSD ストレージ、ボディと同じカラーのアクセサリ、iPhone や iPad との連係機能 - グリーン",
+    "percent_off": 25,
+    "brand": "Apple(アップル)",
+    "genre": "Apple製品",
+    "price": 243654
+  },
   "B0DL79BMXJ": {
     "first_seen": "2026-10-26",
     "first_seen_at": "2026-10-26T22:25:29+09:00",
@@ -18,16 +28,6 @@
     "brand": "Apple(アップル)",
     "genre": "Apple製品",
     "price": 237109
-  },
-  "B0DL6PS74M": {
-    "first_seen": "2026-11-04",
-    "first_seen_at": "2026-11-04T18:16:02+09:00",
-    "last_seen": "2026-11-15",
-    "title": "Apple 2024 iMac 10 コア CPU、10 コア GPU の M4 チップ搭載オールインワンデスク トップコンピュータ: Apple Intelligence のために設計、24 インチ Retina ディスプレ イ、16GBユニファイドメモリ、512GBの SSD ストレージ、ボディと同じカラーのアクセサリ、iPhone や iPad との連係機能 - グリーン",
-    "percent_off": 17,
-    "brand": "Apple(アップル)",
-    "genre": "Apple製品",
-    "price": 270727
   },
   "B0DZ7YJC17": {
     "first_seen": "2026-10-26",
@@ -334,10 +334,10 @@
     "first_seen_at": "2026-08-16T23:40:53+09:00",
     "last_seen": "2026-11-15",
     "title": "ソニー(SONY) 完全ワイヤレスイヤホン WF-C510 / 軽量小型4.6g / 高精度通話品質/外音取り込み対応/マルチポイント対応 / IPX4防滴性能 / ブラック/WF-C510 BC",
-    "percent_off": 19,
+    "percent_off": 18,
     "brand": "Sony",
     "genre": "ワイヤレスイヤホン",
-    "price": 8019
+    "price": 8131
   },
   "B071G7JJRL": {
     "first_seen": "2026-11-01",
@@ -489,6 +489,16 @@
     "genre": "充電器",
     "price": 2790
   },
+  "B0CM66LY5F": {
+    "first_seen": "2026-10-17",
+    "first_seen_at": "2026-10-17T21:15:05+09:00",
+    "last_seen": "2026-11-15",
+    "title": "Anker MagGo Wireless Charging Station (Foldable 3-in-1) ブラック | 旅行 / 持ち運び 充電器 / ワイヤレス充電器 / magsafe充電器 / apple watch 充電器 / Qi2 15W / magsafe対応 / Airpods充電 / iPhone 18 / 17 / 16 シリーズ",
+    "percent_off": null,
+    "brand": "Anker",
+    "genre": "充電器",
+    "price": 14990
+  },
   "B0D6QQFMCS": {
     "first_seen": "2026-11-05",
     "first_seen_at": "2026-11-05T21:15:35+09:00",
@@ -548,16 +558,6 @@
     "brand": "CIO",
     "genre": "充電器",
     "price": 5480
-  },
-  "B0DMN885ZF": {
-    "first_seen": "2026-08-05",
-    "first_seen_at": "2026-08-05T03:07:44+09:00",
-    "last_seen": "2026-11-15",
-    "title": "UGREEN 45W USB-C 急速充電器 Type-C PD GaNⅡ充電器 PSE適合タイプc充電器 PD/PPS/SCP/QC3.0 | MacBook PD対応 iphone17/15/14/13/12 iPad Galaxy Android スマートフォン ノートPC 各機種対応",
-    "percent_off": 27,
-    "brand": "UGREEN",
-    "genre": "充電器",
-    "price": 2180
   },
   "B0GF29FF6N": {
     "first_seen": "2026-10-05",
@@ -629,6 +629,16 @@
     "genre": "充電器",
     "price": 1584
   },
+  "B0FJS3P8NT": {
+    "first_seen": "2026-07-27",
+    "first_seen_at": "2026-07-27T12:00:00+09:00",
+    "last_seen": "2026-11-15",
+    "title": "UGREEN 45W USB-C*4+USB-A*1 急速充電器 Type-C GaNⅡ タイプc PSE適合/PD3.0/PPS/SCP/QC3.0 | マルチポートタイプCアダプター iPhone18/17/16/15 Galaxy S26 S25 Ultra、Pixel 10、iPadに対応",
+    "percent_off": 20,
+    "brand": "UGREEN",
+    "genre": "充電器",
+    "price": 3180
+  },
   "B0DNKC8HXP": {
     "first_seen": "2026-08-02",
     "first_seen_at": "2026-08-02T11:33:18+09:00",
@@ -689,6 +699,16 @@
     "genre": "スマートウォッチ",
     "price": 36800
   },
+  "B0DQ7MJ8P3": {
+    "first_seen": "2026-08-22",
+    "first_seen_at": "2026-08-22T00:50:58+09:00",
+    "last_seen": "2026-11-15",
+    "title": "HUAWEI WATCH D2 ウェアラブル血圧計LCA-B10:ブラック",
+    "percent_off": 24,
+    "brand": "HUAWEI(ファーウェイ)",
+    "genre": "スマートウォッチ",
+    "price": 45600
+  },
   "B0GZ294HH3": {
     "first_seen": "2026-08-16",
     "first_seen_at": "2026-08-16T00:38:29+09:00",
@@ -718,16 +738,6 @@
     "brand": "ガーミン(GARMIN)",
     "genre": "スマートウォッチ",
     "price": 52600
-  },
-  "B0DQ7MJ8P3": {
-    "first_seen": "2026-08-22",
-    "first_seen_at": "2026-08-22T00:50:58+09:00",
-    "last_seen": "2026-11-15",
-    "title": "HUAWEI WATCH D2 ウェアラブル血圧計LCA-B10:ブラック",
-    "percent_off": 16,
-    "brand": "HUAWEI(ファーウェイ)",
-    "genre": "スマートウォッチ",
-    "price": 50800
   },
   "B0GVJG7D7K": {
     "first_seen": "2026-07-31",
@@ -959,6 +969,16 @@
     "genre": "エアフライヤー",
     "price": 12000
   },
+  "B0DMN885ZF": {
+    "first_seen": "2026-08-05",
+    "first_seen_at": "2026-08-05T03:07:44+09:00",
+    "last_seen": "2026-11-15",
+    "title": "UGREEN 45W USB-C 急速充電器 Type-C PD GaNⅡ充電器 PSE適合タイプc充電器 PD/PPS/SCP/QC3.0 | MacBook PD対応 iphone17/15/14/13/12 iPad Galaxy Android スマートフォン ノートPC 各機種対応",
+    "percent_off": 27,
+    "brand": "UGREEN",
+    "genre": "充電器",
+    "price": 2180
+  },
   "B09S3RC9T8": {
     "first_seen": "2026-09-20",
     "first_seen_at": "2026-09-20T21:14:52+09:00",
@@ -998,16 +1018,6 @@
     "brand": "Apple(アップル)",
     "genre": "Apple製品",
     "price": 343526
-  },
-  "B0FJS3P8NT": {
-    "first_seen": "2026-07-27",
-    "first_seen_at": "2026-07-27T12:00:00+09:00",
-    "last_seen": "2026-11-15",
-    "title": "UGREEN 45W USB-C*4+USB-A*1 急速充電器 Type-C GaNⅡ タイプc PSE適合/PD3.0/PPS/SCP/QC3.0 | マルチポートタイプCアダプター iPhone18/17/16/15 Galaxy S26 S25 Ultra、Pixel 10、iPadに対応",
-    "percent_off": 20,
-    "brand": "UGREEN",
-    "genre": "充電器",
-    "price": 3180
   },
   "B0CLGZGXMD": {
     "first_seen": "2026-11-13",
@@ -1771,13 +1781,6 @@
     "last_seen": "2026-11-12",
     "title": "Prime Charger (200W, 6 Ports, GaN) | 急速充電器 2000W type-c 6ポート【PSE技術基準適合/USB PD対応】MacBook USB PD対応Windows PC iPad iPhone Galaxy Android スマートフォン ノートPC 各種",
     "percent_off": 35
-  },
-  "B0CM66LY5F": {
-    "first_seen": "2026-10-17",
-    "first_seen_at": "2026-10-17T21:15:05+09:00",
-    "last_seen": "2026-11-12",
-    "title": "Anker MagGo Wireless Charging Station (Foldable 3-in-1) ブラック | 旅行 / 持ち運び 充電器 / ワイヤレス充電器 / magsafe充電器 / apple watch 充電器 / Qi2 15W / magsafe対応 / Airpods充電 / iPhone 18 / 17 / 16 シリーズ",
-    "percent_off": 33
   },
   "B0DBKTPD26": {
     "first_seen": "2026-11-04",
