@@ -304,10 +304,10 @@
     "first_seen_at": "2026-11-09T22:14:55+09:00",
     "last_seen": "2026-11-15",
     "title": "JBL LIVE BEAM 3 ワイヤレスイヤホン スマート充電ケース/LDAC対応ハイレゾ/マルチポイント/ハイブリッド ノイズキャンセリング/IP55防水/ワイヤレス充電対応/ブラック/JBLLIVEBEAM3BLK",
-    "percent_off": 48,
+    "percent_off": 49,
     "brand": "JBL",
     "genre": "ワイヤレスイヤホン",
-    "price": 14536
+    "price": 14350
   },
   "B0F3XFNHCW": {
     "first_seen": "2026-11-01",
@@ -408,16 +408,6 @@
     "brand": "Anker",
     "genre": "モバイルバッテリー",
     "price": 6990
-  },
-  "B0BF44GF6J": {
-    "first_seen": "2026-08-09",
-    "first_seen_at": "2026-08-09T01:55:23+09:00",
-    "last_seen": "2026-11-15",
-    "title": "Anker 523 Charger (Nano 3, 47W) ブラック | USB PD USB-C 急速充電器【PowerIQ 3.0 (Gen2)搭載/PSE技術基準適合/折りたたみ式プラグ】iPhone 18 / 17 / 16シリーズ / Air MacBook Air その他各種機器対応 (ブラック)",
-    "percent_off": 30,
-    "brand": "Anker",
-    "genre": "充電器",
-    "price": 2790
   },
   "B098SQSRRV": {
     "first_seen": "2026-07-31",
@@ -539,6 +529,16 @@
     "genre": "充電器",
     "price": 1750
   },
+  "B0BF44GF6J": {
+    "first_seen": "2026-08-09",
+    "first_seen_at": "2026-08-09T01:55:23+09:00",
+    "last_seen": "2026-11-15",
+    "title": "Anker 523 Charger (Nano 3, 47W) ブラック | USB PD USB-C 急速充電器【PowerIQ 3.0 (Gen2)搭載/PSE技術基準適合/折りたたみ式プラグ】iPhone 18 / 17 / 16シリーズ / Air MacBook Air その他各種機器対応 (ブラック)",
+    "percent_off": 30,
+    "brand": "Anker",
+    "genre": "充電器",
+    "price": 2790
+  },
   "B0D53VKL36": {
     "first_seen": "2026-07-29",
     "first_seen_at": "2026-07-29T12:00:00+09:00",
@@ -654,10 +654,10 @@
     "first_seen_at": "2026-07-30T12:00:00+09:00",
     "last_seen": "2026-11-15",
     "title": "HUAWEI WATCH FIT 4 スマートウォッチ 薄型軽量 1.82インチ大画面 アウトドアに適した気圧計と測位システム 通知 フィットネス ヘルストラッカー 情緒測定 10日間ロングバッテリー iOS/Android対応 ブラック",
-    "percent_off": 33,
+    "percent_off": 34,
     "brand": "HUAWEI(ファーウェイ)",
     "genre": "スマートウォッチ",
-    "price": 16064
+    "price": 15850
   },
   "B0DDCR5WYQ": {
     "first_seen": "2026-11-03",
@@ -667,7 +667,7 @@
     "percent_off": 28,
     "brand": "ガーミン(GARMIN)",
     "genre": "スマートウォッチ",
-    "price": 104121
+    "price": 104120
   },
   "B0F5WR3KP9": {
     "first_seen": "2026-10-20",
@@ -749,15 +749,15 @@
     "genre": "XR・ARグラス",
     "price": 140762
   },
-  "B09S3RC9T8": {
-    "first_seen": "2026-09-20",
-    "first_seen_at": "2026-09-20T21:14:52+09:00",
+  "B0C9D8VTH7": {
+    "first_seen": "2026-09-26",
+    "first_seen_at": "2026-09-26T01:14:49+09:00",
     "last_seen": "2026-11-15",
-    "title": "サンワサプライ(Sanwa Supply) USBキーボード(ホワイト) SKB-L1UN",
-    "percent_off": 49,
+    "title": "サンワサプライ ワイヤレス静音キーボード（2.4GHzワイヤレス・テンキーあり） SKB-WL37BK",
+    "percent_off": 50,
     "brand": "サンワサプライ(Sanwa Supply)",
     "genre": "キーボード・マウス",
-    "price": 1000
+    "price": 2109
   },
   "B0DP6VCXRF": {
     "first_seen": "2026-10-13",
@@ -839,15 +839,15 @@
     "genre": "キーボード・マウス",
     "price": 2773
   },
-  "B01L8VIHAY": {
-    "first_seen": "2026-11-08",
-    "first_seen_at": "2026-11-08T07:15:36+09:00",
+  "B00FJ0GDLQ": {
+    "first_seen": "2026-09-26",
+    "first_seen_at": "2026-09-26T02:14:52+09:00",
     "last_seen": "2026-11-15",
-    "title": "バッファロー キーボード 有線 Tabキー付き ホワイト BSTK100WH",
-    "percent_off": 24,
-    "brand": "バッファロー",
+    "title": "エレコム USB キーボード ワイヤレス (レシーバー付属) メンブレン フルキーボード 1000万回高耐久 PlayStation4 対応 ブラック TK-FDM063TBK",
+    "percent_off": 22,
+    "brand": "エレコム(ELECOM)",
     "genre": "キーボード・マウス",
-    "price": 1106
+    "price": 2090
   },
   "B0CJR5HBMN": {
     "first_seen": "2026-08-04",
@@ -858,6 +858,16 @@
     "brand": "Logicool(ロジクール)",
     "genre": "キーボード・マウス",
     "price": 2936
+  },
+  "B07NDM4CQZ": {
+    "first_seen": "2026-10-08",
+    "first_seen_at": "2026-10-08T22:14:47+09:00",
+    "last_seen": "2026-11-15",
+    "title": "エレコム USB キーボード ワイヤレス (レシーバー付属) メンブレン コンパクトキーボード ブラック TK-FDM105TXBK",
+    "percent_off": 19,
+    "brand": "エレコム(ELECOM)",
+    "genre": "キーボード・マウス",
+    "price": 1790
   },
   "B0D9Y1J4NH": {
     "first_seen": "2026-09-26",
@@ -897,7 +907,7 @@
     "percent_off": 19,
     "brand": "REALFORCE",
     "genre": "キーボード・マウス",
-    "price": 39800
+    "price": 39380
   },
   "B0BKPL1VKW": {
     "first_seen": "2026-11-13",
@@ -949,6 +959,26 @@
     "genre": "エアフライヤー",
     "price": 12000
   },
+  "B09S3RC9T8": {
+    "first_seen": "2026-09-20",
+    "first_seen_at": "2026-09-20T21:14:52+09:00",
+    "last_seen": "2026-11-15",
+    "title": "サンワサプライ(Sanwa Supply) USBキーボード(ホワイト) SKB-L1UN",
+    "percent_off": 49,
+    "brand": "サンワサプライ(Sanwa Supply)",
+    "genre": "キーボード・マウス",
+    "price": 1000
+  },
+  "B01L8VIHAY": {
+    "first_seen": "2026-11-08",
+    "first_seen_at": "2026-11-08T07:15:36+09:00",
+    "last_seen": "2026-11-15",
+    "title": "バッファロー キーボード 有線 Tabキー付き ホワイト BSTK100WH",
+    "percent_off": 24,
+    "brand": "バッファロー",
+    "genre": "キーボード・マウス",
+    "price": 1106
+  },
   "B0GL1B1L6Y": {
     "first_seen": "2026-10-29",
     "first_seen_at": "2026-10-29T23:15:00+09:00",
@@ -958,36 +988,6 @@
     "brand": "REALFORCE",
     "genre": "キーボード・マウス",
     "price": 37549
-  },
-  "B0C9D8VTH7": {
-    "first_seen": "2026-09-26",
-    "first_seen_at": "2026-09-26T01:14:49+09:00",
-    "last_seen": "2026-11-15",
-    "title": "サンワサプライ ワイヤレス静音キーボード（2.4GHzワイヤレス・テンキーあり） SKB-WL37BK",
-    "percent_off": 50,
-    "brand": "サンワサプライ(Sanwa Supply)",
-    "genre": "キーボード・マウス",
-    "price": 2109
-  },
-  "B00FJ0GDLQ": {
-    "first_seen": "2026-09-26",
-    "first_seen_at": "2026-09-26T02:14:52+09:00",
-    "last_seen": "2026-11-15",
-    "title": "エレコム USB キーボード ワイヤレス (レシーバー付属) メンブレン フルキーボード 1000万回高耐久 PlayStation4 対応 ブラック TK-FDM063TBK",
-    "percent_off": 22,
-    "brand": "エレコム(ELECOM)",
-    "genre": "キーボード・マウス",
-    "price": 2090
-  },
-  "B07NDM4CQZ": {
-    "first_seen": "2026-10-08",
-    "first_seen_at": "2026-10-08T22:14:47+09:00",
-    "last_seen": "2026-11-15",
-    "title": "エレコム USB キーボード ワイヤレス (レシーバー付属) メンブレン コンパクトキーボード ブラック TK-FDM105TXBK",
-    "percent_off": 19,
-    "brand": "エレコム(ELECOM)",
-    "genre": "キーボード・マウス",
-    "price": 1790
   },
   "B0DL7CSGCG": {
     "first_seen": "2026-11-03",
