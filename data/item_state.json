@@ -329,6 +329,16 @@
     "genre": "ワイヤレスイヤホン",
     "price": 12500
   },
+  "B0DPX7W84T": {
+    "first_seen": "2026-10-20",
+    "first_seen_at": "2026-10-20T15:15:01+09:00",
+    "last_seen": "2026-11-16",
+    "title": "Anker Soundcore Q30i ブラック | （Bluetooth5.3 ワイヤレス ヘッドホン）【ウルトラノイズキャンセリング/外音取り込みモード/Bluetooth対応/ハイレゾ対応（AUX接続時） / 最大80時間音楽再生 / マイク内蔵/専用アプリ対応】",
+    "percent_off": 10,
+    "brand": "Soundcore",
+    "genre": "ワイヤレスイヤホン",
+    "price": 8990
+  },
   "B0DDKHF9XY": {
     "first_seen": "2026-08-16",
     "first_seen_at": "2026-08-16T23:40:53+09:00",
@@ -559,6 +569,16 @@
     "genre": "充電器",
     "price": 5480
   },
+  "B0DMN885ZF": {
+    "first_seen": "2026-08-05",
+    "first_seen_at": "2026-08-05T03:07:44+09:00",
+    "last_seen": "2026-11-16",
+    "title": "UGREEN 45W USB-C 急速充電器 Type-C PD GaNⅡ充電器 PSE適合タイプc充電器 PD/PPS/SCP/QC3.0 | MacBook PD対応 iphone17/15/14/13/12 iPad Galaxy Android スマートフォン ノートPC 各機種対応",
+    "percent_off": 27,
+    "brand": "UGREEN",
+    "genre": "充電器",
+    "price": 2180
+  },
   "B0C8K2LZD2": {
     "first_seen": "2026-10-23",
     "first_seen_at": "2026-10-23T19:15:02+09:00",
@@ -578,6 +598,16 @@
     "brand": "Anker",
     "genre": "充電器",
     "price": 2990
+  },
+  "B09CH44769": {
+    "first_seen": "2026-11-04",
+    "first_seen_at": "2026-11-04T01:15:06+09:00",
+    "last_seen": "2026-11-16",
+    "title": "Anker PowerPort III 3-Port 65W Pod ブラック | 65W 充電器 USB-C PD【独自技術Anker GaN II採用/PD対応/PSE技術基準適合/折りたたみ式プラグ】MacBook PD対応Windows PC iPad iPhone Galaxy Android",
+    "percent_off": 24,
+    "brand": "Anker",
+    "genre": "充電器",
+    "price": 4190
   },
   "B06ZXXQGZ8": {
     "first_seen": "2026-10-13",
@@ -618,26 +648,6 @@
     "brand": "UGREEN",
     "genre": "充電器",
     "price": 1584
-  },
-  "B0FJS3P8NT": {
-    "first_seen": "2026-07-27",
-    "first_seen_at": "2026-07-27T12:00:00+09:00",
-    "last_seen": "2026-11-16",
-    "title": "UGREEN 45W USB-C*4+USB-A*1 急速充電器 Type-C GaNⅡ タイプc PSE適合/PD3.0/PPS/SCP/QC3.0 | マルチポートタイプCアダプター iPhone18/17/16/15 Galaxy S26 S25 Ultra、Pixel 10、iPadに対応",
-    "percent_off": 20,
-    "brand": "UGREEN",
-    "genre": "充電器",
-    "price": 3180
-  },
-  "B0FL1S48XY": {
-    "first_seen": "2026-09-08",
-    "first_seen_at": "2026-09-08T21:14:34+09:00",
-    "last_seen": "2026-11-16",
-    "title": "Anker Zolo Charger (70W, 4 Ports) ブラック | 70W USB-C急速充電器 4台同時充電対応。USB-C3ポートとUSB-A1ポートを搭載しPCとスマホをまとめて充電。MacBook Pro MacBook Air iPhone iPad Galaxy対応 PSE技術基準適合",
-    "percent_off": null,
-    "brand": "Anker",
-    "genre": "充電器",
-    "price": 6490
   },
   "B0DNKC8HXP": {
     "first_seen": "2026-08-02",
@@ -939,6 +949,26 @@
     "genre": "エアフライヤー",
     "price": 12000
   },
+  "B0FJS3P8NT": {
+    "first_seen": "2026-07-27",
+    "first_seen_at": "2026-07-27T12:00:00+09:00",
+    "last_seen": "2026-11-16",
+    "title": "UGREEN 45W USB-C*4+USB-A*1 急速充電器 Type-C GaNⅡ タイプc PSE適合/PD3.0/PPS/SCP/QC3.0 | マルチポートタイプCアダプター iPhone18/17/16/15 Galaxy S26 S25 Ultra、Pixel 10、iPadに対応",
+    "percent_off": 20,
+    "brand": "UGREEN",
+    "genre": "充電器",
+    "price": 3180
+  },
+  "B0FL1S48XY": {
+    "first_seen": "2026-09-08",
+    "first_seen_at": "2026-09-08T21:14:34+09:00",
+    "last_seen": "2026-11-16",
+    "title": "Anker Zolo Charger (70W, 4 Ports) ブラック | 70W USB-C急速充電器 4台同時充電対応。USB-C3ポートとUSB-A1ポートを搭載しPCとスマホをまとめて充電。MacBook Pro MacBook Air iPhone iPad Galaxy対応 PSE技術基準適合",
+    "percent_off": null,
+    "brand": "Anker",
+    "genre": "充電器",
+    "price": 6490
+  },
   "B0FQG21TRG": {
     "first_seen": "2026-11-12",
     "first_seen_at": "2026-11-12T17:14:55+09:00",
@@ -1089,16 +1119,6 @@
     "genre": "充電器",
     "price": 3580
   },
-  "B0DMN885ZF": {
-    "first_seen": "2026-08-05",
-    "first_seen_at": "2026-08-05T03:07:44+09:00",
-    "last_seen": "2026-11-15",
-    "title": "UGREEN 45W USB-C 急速充電器 Type-C PD GaNⅡ充電器 PSE適合タイプc充電器 PD/PPS/SCP/QC3.0 | MacBook PD対応 iphone17/15/14/13/12 iPad Galaxy Android スマートフォン ノートPC 各機種対応",
-    "percent_off": 27,
-    "brand": "UGREEN",
-    "genre": "充電器",
-    "price": 2180
-  },
   "B0FYFDD1WW": {
     "first_seen": "2026-11-14",
     "first_seen_at": "2026-11-14T01:15:03+09:00",
@@ -1239,16 +1259,6 @@
     "genre": "キーボード・マウス",
     "price": 4373
   },
-  "B0DPX7W84T": {
-    "first_seen": "2026-10-20",
-    "first_seen_at": "2026-10-20T15:15:01+09:00",
-    "last_seen": "2026-11-15",
-    "title": "Anker Soundcore Q30i ブラック | （Bluetooth5.3 ワイヤレス ヘッドホン）【ウルトラノイズキャンセリング/外音取り込みモード/Bluetooth対応/ハイレゾ対応（AUX接続時） / 最大80時間音楽再生 / マイク内蔵/専用アプリ対応】",
-    "percent_off": 10,
-    "brand": "Soundcore",
-    "genre": "ワイヤレスイヤホン",
-    "price": 8990
-  },
   "B0C5CBV6L3": {
     "first_seen": "2026-10-30",
     "first_seen_at": "2026-10-30T00:15:48+09:00",
@@ -1318,16 +1328,6 @@
     "brand": "Apple(アップル)",
     "genre": "Apple製品",
     "price": 25051
-  },
-  "B09CH44769": {
-    "first_seen": "2026-11-04",
-    "first_seen_at": "2026-11-04T01:15:06+09:00",
-    "last_seen": "2026-11-15",
-    "title": "Anker PowerPort III 3-Port 65W Pod ブラック | 65W 充電器 USB-C PD【独自技術Anker GaN II採用/PD対応/PSE技術基準適合/折りたたみ式プラグ】MacBook PD対応Windows PC iPad iPhone Galaxy Android",
-    "percent_off": 24,
-    "brand": "Anker",
-    "genre": "充電器",
-    "price": 4190
   },
   "B0GL1G8PQZ": {
     "first_seen": "2026-10-30",
