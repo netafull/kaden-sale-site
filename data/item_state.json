@@ -19,6 +19,16 @@
     "genre": "Apple製品",
     "price": 243654
   },
+  "B0DZ7YJC17": {
+    "first_seen": "2026-10-26",
+    "first_seen_at": "2026-10-26T22:25:29+09:00",
+    "last_seen": "2026-11-15",
+    "title": "Apple 11 イン チ iPad Air (M4) 用 Apple Magic Keyboard ケース: 快適にタイピングできるキー ボード、内蔵トラックパッド、中国語(注音) - ホワイト",
+    "percent_off": 24,
+    "brand": "Apple(アップル)",
+    "genre": "Apple製品",
+    "price": 39111
+  },
   "B0DL79BMXJ": {
     "first_seen": "2026-10-26",
     "first_seen_at": "2026-10-26T22:25:29+09:00",
@@ -28,16 +38,6 @@
     "brand": "Apple(アップル)",
     "genre": "Apple製品",
     "price": 237109
-  },
-  "B0DZ7YJC17": {
-    "first_seen": "2026-10-26",
-    "first_seen_at": "2026-10-26T22:25:29+09:00",
-    "last_seen": "2026-11-15",
-    "title": "Apple 11 イン チ iPad Air (M4) 用 Apple Magic Keyboard ケース: 快適にタイピングできるキー ボード、内蔵トラックパッド、中国語(注音) - ホワイト",
-    "percent_off": 15,
-    "brand": "Apple(アップル)",
-    "genre": "Apple製品",
-    "price": 43457
   },
   "B0FQFW26JS": {
     "first_seen": "2026-09-26",
@@ -317,7 +317,7 @@
     "percent_off": 29,
     "brand": "Sony",
     "genre": "ワイヤレスイヤホン",
-    "price": 12454
+    "price": 12580
   },
   "B0DPX7W84T": {
     "first_seen": "2026-10-20",
@@ -674,10 +674,10 @@
     "first_seen_at": "2026-11-03T12:15:59+09:00",
     "last_seen": "2026-11-15",
     "title": "ガーミン(GARMIN) フラッグシップモデル fenix 8 Sapphire AMOLED 47mm Ti Carbon Gray DLC/Black マルチスポーツGPSウォッチ【AMOLEDディスプレイ】 【ランニング・ゴルフ・登山・サイクリング等30種類以上対応】【Android/iOS対応】【Suica機能搭載】【ビジネスシーンもOK】【日本正規品】心電図(ECG)アプリ対応モデル",
-    "percent_off": 28,
+    "percent_off": 29,
     "brand": "ガーミン(GARMIN)",
     "genre": "スマートウォッチ",
-    "price": 104120
+    "price": 102998
   },
   "B0FKH3WQ41": {
     "first_seen": "2026-07-30",
@@ -738,16 +738,6 @@
     "brand": "ガーミン(GARMIN)",
     "genre": "スマートウォッチ",
     "price": 52600
-  },
-  "B0GVJG7D7K": {
-    "first_seen": "2026-07-31",
-    "first_seen_at": "2026-07-31T12:00:00+09:00",
-    "last_seen": "2026-11-15",
-    "title": "VITURE Luma Ultra XR グラス & Pro ネックバンド 12GBメモリ＆256GB内蔵ストレージ セット マルチスクリーン/6DoF/ハンドジェスチャー/スムーズフォロー/アンビエントモード搭載 PXPlay & XBXPlay 公式対応ワイヤレスゲームストリーミングメガネ",
-    "percent_off": 19,
-    "brand": "VITURE",
-    "genre": "XR・ARグラス",
-    "price": 121387
   },
   "B0HBPTD3RC": {
     "first_seen": "2026-11-05",
@@ -869,16 +859,6 @@
     "genre": "キーボード・マウス",
     "price": 2936
   },
-  "B07NDM4CQZ": {
-    "first_seen": "2026-10-08",
-    "first_seen_at": "2026-10-08T22:14:47+09:00",
-    "last_seen": "2026-11-15",
-    "title": "エレコム USB キーボード ワイヤレス (レシーバー付属) メンブレン コンパクトキーボード ブラック TK-FDM105TXBK",
-    "percent_off": 19,
-    "brand": "エレコム(ELECOM)",
-    "genre": "キーボード・マウス",
-    "price": 1790
-  },
   "B0D9Y1J4NH": {
     "first_seen": "2026-09-26",
     "first_seen_at": "2026-09-26T10:14:59+09:00",
@@ -939,6 +919,16 @@
     "genre": "キーボード・マウス",
     "price": 4381
   },
+  "B07NDM4CQZ": {
+    "first_seen": "2026-10-08",
+    "first_seen_at": "2026-10-08T22:14:47+09:00",
+    "last_seen": "2026-11-15",
+    "title": "エレコム USB キーボード ワイヤレス (レシーバー付属) メンブレン コンパクトキーボード ブラック TK-FDM105TXBK",
+    "percent_off": 15,
+    "brand": "エレコム(ELECOM)",
+    "genre": "キーボード・マウス",
+    "price": 1790
+  },
   "B0H33R2TL2": {
     "first_seen": "2026-11-15",
     "first_seen_at": "2026-11-15T13:15:08+09:00",
@@ -968,6 +958,16 @@
     "brand": "BRUNO",
     "genre": "エアフライヤー",
     "price": 11870
+  },
+  "B0GVJG7D7K": {
+    "first_seen": "2026-07-31",
+    "first_seen_at": "2026-07-31T12:00:00+09:00",
+    "last_seen": "2026-11-15",
+    "title": "VITURE Luma Ultra XR グラス & Pro ネックバンド 12GBメモリ＆256GB内蔵ストレージ セット マルチスクリーン/6DoF/ハンドジェスチャー/スムーズフォロー/アンビエントモード搭載 PXPlay & XBXPlay 公式対応ワイヤレスゲームストリーミングメガネ",
+    "percent_off": 19,
+    "brand": "VITURE",
+    "genre": "XR・ARグラス",
+    "price": 121387
   },
   "B09NBDSW3T": {
     "first_seen": "2026-10-27",
