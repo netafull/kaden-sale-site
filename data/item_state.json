@@ -317,7 +317,7 @@
     "percent_off": 29,
     "brand": "Sony",
     "genre": "ワイヤレスイヤホン",
-    "price": 12580
+    "price": 12454
   },
   "B0DPX7W84T": {
     "first_seen": "2026-10-20",
@@ -639,6 +639,16 @@
     "genre": "充電器",
     "price": 3180
   },
+  "B0DNKC8HXP": {
+    "first_seen": "2026-08-02",
+    "first_seen_at": "2026-08-02T11:33:18+09:00",
+    "last_seen": "2026-11-15",
+    "title": "INNOCN ゲーミングモニター 24.5インチ 200Hz IPS 1ms(GTG) フルHD 非光沢 フレームレス PS5/Xbox対応 Adaptive-Sync VESA100×100 HDMI2.0/DP1.4接続 25G2G",
+    "percent_off": 20,
+    "brand": "INNOCN",
+    "genre": "モニター・ディスプレイ",
+    "price": 13625
+  },
   "B0F7X3VJ99": {
     "first_seen": "2026-08-02",
     "first_seen_at": "2026-08-02T11:33:18+09:00",
@@ -944,20 +954,10 @@
     "first_seen_at": "2026-11-08T00:15:18+09:00",
     "last_seen": "2026-11-15",
     "title": "BRUNO ブルーノ エアフライヤー ガラスエアフライヤー ノンフライヤー フライヤー 家庭用 油なし 卓上 アジフライ 自宅用 ガラス 温度調節 コンパクト 一人暮らし ノンオイル ヘルシー カロリーオフ 油分カット 揚げ物 温め直し 簡単収納 レシピ アイボリー レシピ付き BOE122-IV",
-    "percent_off": 17,
+    "percent_off": 16,
     "brand": "BRUNO",
     "genre": "エアフライヤー",
-    "price": 11870
-  },
-  "B0DNKC8HXP": {
-    "first_seen": "2026-08-02",
-    "first_seen_at": "2026-08-02T11:33:18+09:00",
-    "last_seen": "2026-11-15",
-    "title": "INNOCN ゲーミングモニター 24.5インチ 200Hz IPS 1ms(GTG) フルHD 非光沢 フレームレス PS5/Xbox対応 Adaptive-Sync VESA100×100 HDMI2.0/DP1.4接続 25G2G",
-    "percent_off": 20,
-    "brand": "INNOCN",
-    "genre": "モニター・ディスプレイ",
-    "price": 13625
+    "price": 12000
   },
   "B0GX8BVR4L": {
     "first_seen": "2026-11-01",
