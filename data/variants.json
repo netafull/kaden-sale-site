@@ -4347,7 +4347,7 @@
    "aliases": {},
    "genre": "Apple製品",
    "label": "Apple Watch Series 12（GPSモデル）",
-   "last_sweep_at": "2026-11-15T09:07:14+09:00",
+   "last_sweep_at": "2026-11-15T15:07:20+09:00",
    "members": {
     "B0HJ9V2FK4": {
      "last_seen": "2026-11-15",
@@ -4455,7 +4455,7 @@
    },
    "genre": "Apple製品",
    "label": "Apple Watch Ultra 4（GPS + Cellularモデル）",
-   "last_sweep_at": "2026-11-15T09:07:14+09:00",
+   "last_sweep_at": "2026-11-15T15:07:20+09:00",
    "members": {
     "B0HJ9SL1FK": {
      "last_seen": "2026-11-15",
@@ -4526,13 +4526,12 @@
    "aliases": {
     "B0HJ9TVNN6": "2026-11-09",
     "B0HJ9VQ6Q8": "2026-11-08",
-    "B0HJ9ZN22R": "2026-11-13",
     "B0HJ9ZQ95N": "2026-11-01",
     "B0HJBC9KB8": "2026-10-31"
    },
    "genre": "Apple製品",
    "label": "Apple iPhone 18 Pro (256 GB) - シルバー",
-   "last_sweep_at": "2026-11-15T09:07:14+09:00",
+   "last_sweep_at": "2026-11-15T15:07:20+09:00",
    "members": {
     "B0HJ9TVNN6": {
      "last_seen": "2026-11-08",
@@ -4550,7 +4549,7 @@
      "points_pct": 1
     },
     "B0HJ9ZN22R": {
-     "last_seen": "2026-11-11",
+     "last_seen": "2026-11-15",
      "pct": 0,
      "points_pct": 1
     },
@@ -4572,7 +4571,7 @@
    },
    "no_variations": false,
    "seed": "B0HJBCWLXC",
-   "variation_count": 2
+   "variation_count": 3
   },
   "B0HJC83N5V": {
    "aliases": {},
@@ -4679,7 +4678,7 @@
    "aliases": {},
    "genre": "Apple製品",
    "label": "Apple Watch Band - ミラネーゼループ - （46mm）ケース用",
-   "last_sweep_at": "2026-11-15T09:07:14+09:00",
+   "last_sweep_at": "2026-11-15T15:07:20+09:00",
    "members": {
     "B0FQFMCFQ9": {
      "last_seen": "2026-11-15",
