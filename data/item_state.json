@@ -304,10 +304,10 @@
     "first_seen_at": "2026-11-09T22:14:55+09:00",
     "last_seen": "2026-11-15",
     "title": "JBL LIVE BEAM 3 ワイヤレスイヤホン スマート充電ケース/LDAC対応ハイレゾ/マルチポイント/ハイブリッド ノイズキャンセリング/IP55防水/ワイヤレス充電対応/ブラック/JBLLIVEBEAM3BLK",
-    "percent_off": 49,
+    "percent_off": 48,
     "brand": "JBL",
     "genre": "ワイヤレスイヤホン",
-    "price": 14350
+    "price": 14536
   },
   "B0F3XFNHCW": {
     "first_seen": "2026-11-01",
@@ -438,6 +438,16 @@
     "brand": "UGREEN",
     "genre": "充電器",
     "price": 4980
+  },
+  "B0BF9ZYCQ5": {
+    "first_seen": "2026-07-31",
+    "first_seen_at": "2026-07-31T12:00:00+09:00",
+    "last_seen": "2026-11-15",
+    "title": "【VGP受賞】Belkin 充電器 USB-C 2ポート PPS規格対応 GaN採用 小型 ACアダプター タイプC 急速充電 軽量【PD3.0対応 /PSE認証/折りたたみ式プラグ】45W(25W+20W) MacBook Windows PC Surface Pro iPad iPhone 17,16～12対応 Galaxy Android スマホ 各種ノートPC対応 WCH011dqWH",
+    "percent_off": 42,
+    "brand": "Belkin",
+    "genre": "充電器",
+    "price": 2782
   },
   "B0FL1SH21C": {
     "first_seen": "2026-09-07",
@@ -759,16 +769,6 @@
     "genre": "キーボード・マウス",
     "price": 870
   },
-  "B0GL1B1L6Y": {
-    "first_seen": "2026-10-29",
-    "first_seen_at": "2026-10-29T23:15:00+09:00",
-    "last_seen": "2026-11-15",
-    "title": "東プレ REALFORCE GX1 Plus サザビー 日本語配列 ゲーミングキーボード X1PCS1",
-    "percent_off": 38,
-    "brand": "REALFORCE",
-    "genre": "キーボード・マウス",
-    "price": 37549
-  },
   "B0FL6ZD3WL": {
     "first_seen": "2026-07-29",
     "first_seen_at": "2026-07-29T12:00:00+09:00",
@@ -798,6 +798,16 @@
     "brand": "エレコム(ELECOM)",
     "genre": "キーボード・マウス",
     "price": 1899
+  },
+  "B0GL1G8PQZ": {
+    "first_seen": "2026-10-30",
+    "first_seen_at": "2026-10-30T18:15:39+09:00",
+    "last_seen": "2026-11-15",
+    "title": "東プレ REALFORCE GX1 Plus νガンダム (ニューガンダム) 日本語配列 ゲーミングキーボード X1PCN1",
+    "percent_off": 30,
+    "brand": "REALFORCE",
+    "genre": "キーボード・マウス",
+    "price": 42003
   },
   "B0CLGVLBMV": {
     "first_seen": "2026-08-23",
@@ -939,25 +949,15 @@
     "genre": "エアフライヤー",
     "price": 12000
   },
-  "B0BF9ZYCQ5": {
-    "first_seen": "2026-07-31",
-    "first_seen_at": "2026-07-31T12:00:00+09:00",
+  "B0GL1B1L6Y": {
+    "first_seen": "2026-10-29",
+    "first_seen_at": "2026-10-29T23:15:00+09:00",
     "last_seen": "2026-11-15",
-    "title": "【VGP受賞】Belkin 充電器 USB-C 2ポート PPS規格対応 GaN採用 小型 ACアダプター タイプC 急速充電 軽量【PD3.0対応 /PSE認証/折りたたみ式プラグ】45W(25W+20W) MacBook Windows PC Surface Pro iPad iPhone 17,16～12対応 Galaxy Android スマホ 各種ノートPC対応 WCH011dqWH",
-    "percent_off": 42,
-    "brand": "Belkin",
-    "genre": "充電器",
-    "price": 2782
-  },
-  "B0GL1G8PQZ": {
-    "first_seen": "2026-10-30",
-    "first_seen_at": "2026-10-30T18:15:39+09:00",
-    "last_seen": "2026-11-15",
-    "title": "東プレ REALFORCE GX1 Plus νガンダム (ニューガンダム) 日本語配列 ゲーミングキーボード X1PCN1",
-    "percent_off": 30,
+    "title": "東プレ REALFORCE GX1 Plus サザビー 日本語配列 ゲーミングキーボード X1PCS1",
+    "percent_off": 38,
     "brand": "REALFORCE",
     "genre": "キーボード・マウス",
-    "price": 42003
+    "price": 37549
   },
   "B0C9D8VTH7": {
     "first_seen": "2026-09-26",
