@@ -284,10 +284,10 @@
     "first_seen_at": "2026-11-09T22:14:55+09:00",
     "last_seen": "2026-11-16",
     "title": "JBL LIVE BEAM 3 ワイヤレスイヤホン スマート充電ケース/LDAC対応ハイレゾ/マルチポイント/ハイブリッド ノイズキャンセリング/IP55防水/ワイヤレス充電対応/ブラック/JBLLIVEBEAM3BLK",
-    "percent_off": 49,
+    "percent_off": 48,
     "brand": "JBL",
     "genre": "ワイヤレスイヤホン",
-    "price": 14350
+    "price": 14524
   },
   "B0F3XFNHCW": {
     "first_seen": "2026-11-01",
@@ -779,6 +779,16 @@
     "genre": "スマートウォッチ",
     "price": 46800
   },
+  "B0HBPTD3RC": {
+    "first_seen": "2026-11-05",
+    "first_seen_at": "2026-11-05T22:15:45+09:00",
+    "last_seen": "2026-11-16",
+    "title": "VITURE Luma Ultra XRグラス アルティメットセット（ネックバンド・ドック付属）",
+    "percent_off": 18,
+    "brand": "VITURE",
+    "genre": "XR・ARグラス",
+    "price": 140762
+  },
   "B0C9D8VTH7": {
     "first_seen": "2026-09-26",
     "first_seen_at": "2026-09-26T01:14:49+09:00",
@@ -798,6 +808,16 @@
     "brand": "エレコム(ELECOM)",
     "genre": "キーボード・マウス",
     "price": 870
+  },
+  "B0C9CS34KJ": {
+    "first_seen": "2026-09-25",
+    "first_seen_at": "2026-09-25T08:14:52+09:00",
+    "last_seen": "2026-11-16",
+    "title": "サンワサプライ(Sanwa Supply) ワイヤレスキーボード SKB-WL39BK",
+    "percent_off": 42,
+    "brand": "サンワサプライ(Sanwa Supply)",
+    "genre": "キーボード・マウス",
+    "price": 1891
   },
   "B0GL1B1L6Y": {
     "first_seen": "2026-10-29",
@@ -869,16 +889,6 @@
     "genre": "キーボード・マウス",
     "price": 2773
   },
-  "B0D9Y1J4NH": {
-    "first_seen": "2026-09-26",
-    "first_seen_at": "2026-09-26T10:14:59+09:00",
-    "last_seen": "2026-11-16",
-    "title": "【Amazon.co.jp限定】 ロジクール 静音 ワイヤレス トラックボール マウス 無線 M575SPd 国内正規品 | 筋肉緊張を軽減するエルゴノミックデザイン、Bluetooth、Logibolt、電池式（単三形乾電池x1）、windows、maOS、 iPadOS、ChromeOS、ブラック、M575、M575SP、Amazon.co.jp限定壁紙ダウンロード付き",
-    "percent_off": 23,
-    "brand": "Logicool(ロジクール)",
-    "genre": "キーボード・マウス",
-    "price": 6480
-  },
   "B00FJ0GDLQ": {
     "first_seen": "2026-09-26",
     "first_seen_at": "2026-09-26T02:14:52+09:00",
@@ -888,6 +898,16 @@
     "brand": "エレコム(ELECOM)",
     "genre": "キーボード・マウス",
     "price": 2090
+  },
+  "B0D9Y1J4NH": {
+    "first_seen": "2026-09-26",
+    "first_seen_at": "2026-09-26T10:14:59+09:00",
+    "last_seen": "2026-11-16",
+    "title": "【Amazon.co.jp限定】 ロジクール 静音 ワイヤレス トラックボール マウス 無線 M575SPd 国内正規品 | 筋肉緊張を軽減するエルゴノミックデザイン、Bluetooth、Logibolt、電池式（単三形乾電池x1）、windows、maOS、 iPadOS、ChromeOS、ブラック、M575、M575SP、Amazon.co.jp限定壁紙ダウンロード付き",
+    "percent_off": 20,
+    "brand": "Logicool(ロジクール)",
+    "genre": "キーボード・マウス",
+    "price": 6800
   },
   "B0CJR5HBMN": {
     "first_seen": "2026-08-04",
@@ -1038,16 +1058,6 @@
     "brand": "Apple(アップル)",
     "genre": "Apple製品",
     "price": 124800
-  },
-  "B0HBPTD3RC": {
-    "first_seen": "2026-11-05",
-    "first_seen_at": "2026-11-05T22:15:45+09:00",
-    "last_seen": "2026-11-16",
-    "title": "VITURE Luma Ultra XRグラス アルティメットセット（ネックバンド・ドック付属）",
-    "percent_off": 18,
-    "brand": "VITURE",
-    "genre": "XR・ARグラス",
-    "price": 140762
   },
   "B09CH44769": {
     "first_seen": "2026-11-04",
@@ -3160,13 +3170,6 @@
     "last_seen": "2026-11-09",
     "title": "Apple 2026 MacBook Pro 15コアCPU、16コアGPUのM5 Proチップ搭載ノートパソコン：AIのために設計、14.2インチLiquid Retina XDRディスプレイ、24GBユニファイドメモリ、2TBのSSDストレージ - スペースブラック",
     "percent_off": 17
-  },
-  "B0C9CS34KJ": {
-    "first_seen": "2026-09-25",
-    "first_seen_at": "2026-09-25T08:14:52+09:00",
-    "last_seen": "2026-11-09",
-    "title": "サンワサプライ(Sanwa Supply) ワイヤレスキーボード SKB-WL39BK",
-    "percent_off": 37
   },
   "B0FQGP2P41": {
     "first_seen": "2026-10-05",
