@@ -617,8 +617,8 @@
    "members": {
     "B0DGJ3R51V": {
      "last_seen": "2026-11-16",
-     "pct": 11,
-     "points_pct": 1
+     "pct": null,
+     "points_pct": null
     }
    },
    "no_variations": false,

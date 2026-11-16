@@ -89,16 +89,6 @@
     "genre": "Apple製品",
     "price": 140202
   },
-  "B0DGJ3R51V": {
-    "first_seen": "2026-11-15",
-    "first_seen_at": "2026-11-15T23:15:05+09:00",
-    "last_seen": "2026-11-16",
-    "title": "Apple iPhone 16 (128 GB) - ブラック SIMフリー 5G対応",
-    "percent_off": 11,
-    "brand": "Apple(アップル)",
-    "genre": "Apple製品",
-    "price": 124800
-  },
   "B0FRYZJPDJ": {
     "first_seen": "2026-10-11",
     "first_seen_at": "2026-10-11T18:14:49+09:00",
@@ -344,10 +334,10 @@
     "first_seen_at": "2026-08-16T23:40:53+09:00",
     "last_seen": "2026-11-16",
     "title": "ソニー(SONY) 完全ワイヤレスイヤホン WF-C510 / 軽量小型4.6g / 高精度通話品質/外音取り込み対応/マルチポイント対応 / IPX4防滴性能 / ブラック/WF-C510 BC",
-    "percent_off": 18,
+    "percent_off": 19,
     "brand": "Sony",
     "genre": "ワイヤレスイヤホン",
-    "price": 8131
+    "price": 7998
   },
   "B071G7JJRL": {
     "first_seen": "2026-11-01",
@@ -569,6 +559,16 @@
     "genre": "充電器",
     "price": 5480
   },
+  "B0DMN885ZF": {
+    "first_seen": "2026-08-05",
+    "first_seen_at": "2026-08-05T03:07:44+09:00",
+    "last_seen": "2026-11-16",
+    "title": "UGREEN 45W USB-C 急速充電器 Type-C PD GaNⅡ充電器 PSE適合タイプc充電器 PD/PPS/SCP/QC3.0 | MacBook PD対応 iphone17/15/14/13/12 iPad Galaxy Android スマートフォン ノートPC 各機種対応",
+    "percent_off": 27,
+    "brand": "UGREEN",
+    "genre": "充電器",
+    "price": 2180
+  },
   "B0C8K2LZD2": {
     "first_seen": "2026-10-23",
     "first_seen_at": "2026-10-23T19:15:02+09:00",
@@ -628,16 +628,6 @@
     "brand": "UGREEN",
     "genre": "充電器",
     "price": 1584
-  },
-  "B0FJS3P8NT": {
-    "first_seen": "2026-07-27",
-    "first_seen_at": "2026-07-27T12:00:00+09:00",
-    "last_seen": "2026-11-16",
-    "title": "UGREEN 45W USB-C*4+USB-A*1 急速充電器 Type-C GaNⅡ タイプc PSE適合/PD3.0/PPS/SCP/QC3.0 | マルチポートタイプCアダプター iPhone18/17/16/15 Galaxy S26 S25 Ultra、Pixel 10、iPadに対応",
-    "percent_off": 20,
-    "brand": "UGREEN",
-    "genre": "充電器",
-    "price": 3180
   },
   "B0DNKC8HXP": {
     "first_seen": "2026-08-02",
@@ -789,16 +779,6 @@
     "genre": "スマートウォッチ",
     "price": 46800
   },
-  "B0HBPTD3RC": {
-    "first_seen": "2026-11-05",
-    "first_seen_at": "2026-11-05T22:15:45+09:00",
-    "last_seen": "2026-11-16",
-    "title": "VITURE Luma Ultra XRグラス アルティメットセット（ネックバンド・ドック付属）",
-    "percent_off": 18,
-    "brand": "VITURE",
-    "genre": "XR・ARグラス",
-    "price": 140762
-  },
   "B0C9D8VTH7": {
     "first_seen": "2026-09-26",
     "first_seen_at": "2026-09-26T01:14:49+09:00",
@@ -949,6 +929,16 @@
     "genre": "キーボード・マウス",
     "price": 39380
   },
+  "B0BKPL1VKW": {
+    "first_seen": "2026-11-13",
+    "first_seen_at": "2026-11-13T21:14:48+09:00",
+    "last_seen": "2026-11-16",
+    "title": "ロジクール ワイヤレスマウス 静音 無線 高速スクロール Signature M750MGR レギュラー グラファイト M750 国内正規品 | レギュラーサイズ、6ボタン、サイドボタン、電池式（単3形乾電池x1）、Easy-Switch、DPI切り替え、Bluetooth、Logi Bolt、Windows10、Windows11、macOS、iPadOS、Android、ChromeOS",
+    "percent_off": 17,
+    "brand": "Logicool(ロジクール)",
+    "genre": "キーボード・マウス",
+    "price": 4364
+  },
   "B0CJR8Y56J": {
     "first_seen": "2026-07-26",
     "first_seen_at": "2026-07-26T12:00:00+09:00",
@@ -999,15 +989,35 @@
     "genre": "エアフライヤー",
     "price": 12000
   },
-  "B0DMN885ZF": {
-    "first_seen": "2026-08-05",
-    "first_seen_at": "2026-08-05T03:07:44+09:00",
+  "B0DGJ3R51V": {
+    "first_seen": "2026-11-15",
+    "first_seen_at": "2026-11-15T23:15:05+09:00",
     "last_seen": "2026-11-16",
-    "title": "UGREEN 45W USB-C 急速充電器 Type-C PD GaNⅡ充電器 PSE適合タイプc充電器 PD/PPS/SCP/QC3.0 | MacBook PD対応 iphone17/15/14/13/12 iPad Galaxy Android スマートフォン ノートPC 各機種対応",
-    "percent_off": 27,
+    "title": "Apple iPhone 16 (128 GB) - ブラック SIMフリー 5G対応",
+    "percent_off": 11,
+    "brand": "Apple(アップル)",
+    "genre": "Apple製品",
+    "price": 124800
+  },
+  "B0FJS3P8NT": {
+    "first_seen": "2026-07-27",
+    "first_seen_at": "2026-07-27T12:00:00+09:00",
+    "last_seen": "2026-11-16",
+    "title": "UGREEN 45W USB-C*4+USB-A*1 急速充電器 Type-C GaNⅡ タイプc PSE適合/PD3.0/PPS/SCP/QC3.0 | マルチポートタイプCアダプター iPhone18/17/16/15 Galaxy S26 S25 Ultra、Pixel 10、iPadに対応",
+    "percent_off": 20,
     "brand": "UGREEN",
     "genre": "充電器",
-    "price": 2180
+    "price": 3180
+  },
+  "B0HBPTD3RC": {
+    "first_seen": "2026-11-05",
+    "first_seen_at": "2026-11-05T22:15:45+09:00",
+    "last_seen": "2026-11-16",
+    "title": "VITURE Luma Ultra XRグラス アルティメットセット（ネックバンド・ドック付属）",
+    "percent_off": 18,
+    "brand": "VITURE",
+    "genre": "XR・ARグラス",
+    "price": 140762
   },
   "B09CH44769": {
     "first_seen": "2026-11-04",
@@ -1348,16 +1358,6 @@
     "brand": "HUAWEI(ファーウェイ)",
     "genre": "スマートウォッチ",
     "price": 29500
-  },
-  "B0BKPL1VKW": {
-    "first_seen": "2026-11-13",
-    "first_seen_at": "2026-11-13T21:14:48+09:00",
-    "last_seen": "2026-11-15",
-    "title": "ロジクール ワイヤレスマウス 静音 無線 高速スクロール Signature M750MGR レギュラー グラファイト M750 国内正規品 | レギュラーサイズ、6ボタン、サイドボタン、電池式（単3形乾電池x1）、Easy-Switch、DPI切り替え、Bluetooth、Logi Bolt、Windows10、Windows11、macOS、iPadOS、Android、ChromeOS",
-    "percent_off": 17,
-    "brand": "Logicool(ロジクール)",
-    "genre": "キーボード・マウス",
-    "price": 4364
   },
   "B0DGJBNYVY": {
     "first_seen": "2026-09-05",
