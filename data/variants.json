@@ -613,7 +613,7 @@
    "aliases": {},
    "genre": "Apple製品",
    "label": "Apple iPhone 16 (128 GB) - ブラック SIMフリー 5",
-   "last_sweep_at": "2026-11-17T00:07:29+09:00",
+   "last_sweep_at": "2026-11-17T07:07:14+09:00",
    "members": {
     "B0DGJ3R51V": {
      "last_seen": "2026-11-16",
@@ -685,8 +685,8 @@
     },
     "B0DL79BMXJ": {
      "last_seen": "2026-11-17",
-     "pct": 18,
-     "points_pct": 0
+     "pct": 0,
+     "points_pct": 1
     },
     "B0DL7CSGCG": {
      "last_seen": "2026-11-17",
@@ -2421,6 +2421,7 @@
    "aliases": {
     "B0FQFQT3VK": "2026-11-17",
     "B0FQFV6VZL": "2026-11-17",
+    "B0FQFWV3SK": "2026-11-17",
     "B0FQG5MZVW": "2026-11-17",
     "B0FQG5PN5S": "2026-11-17",
     "B0FQG6MZSB": "2026-11-17",
@@ -2430,13 +2431,14 @@
     "B0FRZ3M7BB": "2026-11-17",
     "B0FRZ3TX6V": "2026-11-17",
     "B0FRZ3Y3SG": "2026-11-17",
+    "B0FRZ44Q6H": "2026-11-17",
     "B0FRZ4FW4S": "2026-11-17",
     "B0FRZ52Z6Z": "2026-11-17",
     "B0FRZ58QFK": "2026-11-17"
    },
    "genre": "Apple製品",
    "label": "Apple Watch Ultra 3(GPS + Cellularモデル)- ",
-   "last_sweep_at": "2026-11-17T06:07:13+09:00",
+   "last_sweep_at": "2026-11-17T07:07:14+09:00",
    "members": {
     "B0FQFW26JS": {
      "last_seen": "2026-11-17",
@@ -4305,7 +4307,7 @@
    "aliases": {},
    "genre": "Apple製品",
    "label": "Apple Watch Series 12（GPSモデル）",
-   "last_sweep_at": "2026-11-17T00:07:29+09:00",
+   "last_sweep_at": "2026-11-17T07:07:14+09:00",
    "members": {
     "B0HJ9V2FK4": {
      "last_seen": "2026-11-17",
@@ -4413,7 +4415,7 @@
    },
    "genre": "Apple製品",
    "label": "Apple Watch Ultra 4（GPS + Cellularモデル）",
-   "last_sweep_at": "2026-11-17T00:07:29+09:00",
+   "last_sweep_at": "2026-11-17T07:07:14+09:00",
    "members": {
     "B0HJ9SL1FK": {
      "last_seen": "2026-11-17",
@@ -4489,7 +4491,7 @@
    },
    "genre": "Apple製品",
    "label": "Apple iPhone 18 Pro (256 GB) - シルバー",
-   "last_sweep_at": "2026-11-17T00:07:29+09:00",
+   "last_sweep_at": "2026-11-17T07:07:14+09:00",
    "members": {
     "B0HJ9TVNN6": {
      "last_seen": "2026-11-08",
@@ -4545,7 +4547,7 @@
    "aliases": {},
    "genre": "Apple製品",
    "label": "ワイヤレス充電ケース付きApple AirPods 5ワイヤレスイヤーバッド",
-   "last_sweep_at": "2026-11-17T00:07:29+09:00",
+   "last_sweep_at": "2026-11-17T07:07:14+09:00",
    "members": {
     "B0HJ9VNBZ8": {
      "last_seen": "2026-11-17",
@@ -4645,7 +4647,7 @@
    "aliases": {},
    "genre": "Apple製品",
    "label": "Apple Watch Band - ミラネーゼループ - （46mm）ケース用",
-   "last_sweep_at": "2026-11-17T00:07:29+09:00",
+   "last_sweep_at": "2026-11-17T07:07:14+09:00",
    "members": {
     "B0FQFMCFQ9": {
      "last_seen": "2026-11-17",
