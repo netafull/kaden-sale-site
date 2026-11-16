@@ -9,6 +9,16 @@
     "genre": "Apple製品",
     "price": 39111
   },
+  "B0DGJBNYVY": {
+    "first_seen": "2026-09-05",
+    "first_seen_at": "2026-09-05T08:14:38+09:00",
+    "last_seen": "2026-11-16",
+    "title": "Apple AirPods 4 アクティブノイズ キャンセリング搭載、ワイヤレスイヤホン、Bluetooth 5.3、ライブ翻訳、適応型オーディオ、外部音取り込みモード、パーソナライズされた空間オーディオ、USB-C充電ケース、ワイヤレス充電、H2チップ、防塵性能と耐汗耐水性能、「探す」対応、Qi充電",
+    "percent_off": 21,
+    "brand": "Apple(アップル)",
+    "genre": "Apple製品",
+    "price": 25800
+  },
   "B0DL79BMXJ": {
     "first_seen": "2026-10-26",
     "first_seen_at": "2026-10-26T22:25:29+09:00",
@@ -289,15 +299,15 @@
     "genre": "ワイヤレスイヤホン",
     "price": 14190
   },
-  "B0F3XFNHCW": {
-    "first_seen": "2026-11-01",
-    "first_seen_at": "2026-11-01T02:15:45+09:00",
+  "B0F3XBK3HK": {
+    "first_seen": "2026-11-10",
+    "first_seen_at": "2026-11-10T22:15:00+09:00",
     "last_seen": "2026-11-16",
-    "title": "ソニー(SONY) WF-C710N ブラック ワイヤレスイヤホン 高性能ノイズキャンセリング Bluetoothロングバッテリー 外音取り込み IPX4防滴性能 軽量 コンパクト マルチポイント接続",
+    "title": "ソニー(SONY) WF-C710N ホワイト ワイヤレスイヤホン 高性能ノイズキャンセリング Bluetoothロングバッテリー 外音取り込み IPX4防滴性能 軽量 コンパクト マルチポイント接続",
     "percent_off": 29,
     "brand": "Sony",
     "genre": "ワイヤレスイヤホン",
-    "price": 12500
+    "price": 12495
   },
   "B0DPX7W84T": {
     "first_seen": "2026-10-20",
@@ -309,26 +319,6 @@
     "genre": "ワイヤレスイヤホン",
     "price": 8990
   },
-  "B0DDKGK41D": {
-    "first_seen": "2026-10-14",
-    "first_seen_at": "2026-10-14T00:15:56+09:00",
-    "last_seen": "2026-11-16",
-    "title": "ソニー(SONY) 完全ワイヤレスイヤホン WF-C510 / 軽量小型4.6g / 高精度通話品質/外音取り込み対応/マルチポイント対応 / IPX4防滴性能 / ホワイト/WF-C510 WC",
-    "percent_off": 18,
-    "brand": "Sony",
-    "genre": "ワイヤレスイヤホン",
-    "price": 8100
-  },
-  "B071G7JJRL": {
-    "first_seen": "2026-11-01",
-    "first_seen_at": "2026-11-01T16:15:01+09:00",
-    "last_seen": "2026-11-16",
-    "title": "ソニー(SONY) 有線イヤホン MDR-EX155 : カナル型 ライトブルー MDR-EX155 L",
-    "percent_off": 16,
-    "brand": "Sony",
-    "genre": "ワイヤレスイヤホン",
-    "price": 1291
-  },
   "B0DNLVY85L": {
     "first_seen": "2026-10-01",
     "first_seen_at": "2026-10-01T23:14:55+09:00",
@@ -338,6 +328,26 @@
     "brand": "Anker",
     "genre": "モバイルバッテリー",
     "price": 7990
+  },
+  "B0FKTL1CPV": {
+    "first_seen": "2026-11-11",
+    "first_seen_at": "2026-11-11T23:14:53+09:00",
+    "last_seen": "2026-11-16",
+    "title": "Anker Nano Power Bank (10000mAh, 45W, 巻取り式 USB-Cケーブル) ピンク | モバイルバッテリー 10000mAh (36Wh/10K) / 45W出力 / ディスプレイ搭載/巻取り式USB-Cケーブル一体型/iPhone 18 / 17 / 16 / 15シリーズ Android iPad その他各種機器対応",
+    "percent_off": null,
+    "brand": "Anker",
+    "genre": "モバイルバッテリー",
+    "price": 7990
+  },
+  "B0F6NC41DZ": {
+    "first_seen": "2026-08-06",
+    "first_seen_at": "2026-08-06T21:18:24+09:00",
+    "last_seen": "2026-11-16",
+    "title": "UGREEN Air モバイルバッテリー 10000mAh 薄型 Qi2 15W MagSafe ケーブル内蔵 iPhone18Pro対応 | 【ATL製セル×難燃技術】マグネット式ワイヤレス充電｜軽量・小型設計｜USB-C PD 30W対応 ｜パススルー充電対応｜ iPhone18 Pro/17/16/15 シリーズ/ Air対応｜PB570｜グレー",
+    "percent_off": null,
+    "brand": "UGREEN",
+    "genre": "モバイルバッテリー",
+    "price": 8580
   },
   "B0CXNY69DC": {
     "first_seen": "2026-10-07",
@@ -349,25 +359,15 @@
     "genre": "モバイルバッテリー",
     "price": 9990
   },
-  "B0CX4FKYCS": {
-    "first_seen": "2026-10-10",
-    "first_seen_at": "2026-10-10T23:14:49+09:00",
+  "B0CX4PBCKH": {
+    "first_seen": "2026-10-14",
+    "first_seen_at": "2026-10-14T21:15:08+09:00",
     "last_seen": "2026-11-16",
-    "title": "Anker Power Bank (10000mAh, Fusion, Built-In USB-C ケーブル) ホワイト | 10K 30W出力モバイルバッテリー搭載 30W出力USB充電器 / LEDディスプレイ/ケーブル一体型/コンセント一体型/折りたたみ式プラグ 1台3役 / iPhone 18 / 17 / 16 / 15 Android その他各種機器対応",
+    "title": "Anker Power Bank (10000mAh, Fusion, Built-In USB-C ケーブル) ピンク | 10K 30W出力モバイルバッテリー搭載 30W出力USB充電器 / LEDディスプレイ/ケーブル一体型/コンセント一体型/折りたたみ式プラグ 1台3役 / iPhone 18 / 17 / 16 / 15 Android その他各種機器対応",
     "percent_off": null,
     "brand": "Anker",
     "genre": "モバイルバッテリー",
     "price": 8990
-  },
-  "B0F6NFHB31": {
-    "first_seen": "2026-07-25",
-    "first_seen_at": "2026-07-25T12:00:00+09:00",
-    "last_seen": "2026-11-16",
-    "title": "UGREEN Air モバイルバッテリー 5000mAh 8.6mm超薄型 Qi2 15W MagSafe iPhone18Pro対応 | 【ATL製セル×難燃技術】マグネット式ワイヤレス充電｜軽量・小型設計｜USB-C PD 20W対応 ｜パススルー充電対応｜iPhone18 Pro/17/16/15 シリーズ/ Air対応｜PB580｜グレー",
-    "percent_off": null,
-    "brand": "UGREEN",
-    "genre": "モバイルバッテリー",
-    "price": 6880
   },
   "B0D9J5MSBH": {
     "first_seen": "2026-10-15",
@@ -378,6 +378,16 @@
     "brand": "エレコム(ELECOM)",
     "genre": "モバイルバッテリー",
     "price": 1700
+  },
+  "B0DB17C63X": {
+    "first_seen": "2026-09-26",
+    "first_seen_at": "2026-09-26T00:14:56+09:00",
+    "last_seen": "2026-11-16",
+    "title": "Anker MagGo Power Bank (10000mAh, Slim) ブラック | モバイルバッテリー 10000mAh Qi2認証 ワイヤレス充電 最大出力15W マグセーフ対応 マグネット式ワイヤレス充電対応 コンパクト 薄型 小型 magsafe iPhone 18 / 17 / 16 / 15 シリーズ対応",
+    "percent_off": null,
+    "brand": "Anker",
+    "genre": "モバイルバッテリー",
+    "price": 9990
   },
   "B0FTZ46NF8": {
     "first_seen": "2026-11-04",
@@ -469,11 +479,11 @@
     "genre": "充電器",
     "price": 8880
   },
-  "B0CM66LY5F": {
-    "first_seen": "2026-10-17",
-    "first_seen_at": "2026-10-17T21:15:05+09:00",
+  "B0CM61GJFN": {
+    "first_seen": "2026-10-18",
+    "first_seen_at": "2026-10-18T12:16:10+09:00",
     "last_seen": "2026-11-16",
-    "title": "Anker MagGo Wireless Charging Station (Foldable 3-in-1) ブラック | 旅行 / 持ち運び 充電器 / ワイヤレス充電器 / magsafe充電器 / apple watch 充電器 / Qi2 15W / magsafe対応 / Airpods充電 / iPhone 18 / 17 / 16 シリーズ",
+    "title": "Anker MagGo Wireless Charging Station (Foldable 3-in-1) ホワイト | 旅行 / 持ち運び 充電器 / ワイヤレス充電器 / magsafe充電器 / apple watch 充電器 / Qi2 15W / magsafe対応 / Airpods充電 / iPhone 18 / 17 / 16 シリーズ",
     "percent_off": null,
     "brand": "Anker",
     "genre": "充電器",
@@ -659,26 +669,6 @@
     "genre": "スマートウォッチ",
     "price": 15850
   },
-  "B0DDCR5WYQ": {
-    "first_seen": "2026-11-03",
-    "first_seen_at": "2026-11-03T12:15:59+09:00",
-    "last_seen": "2026-11-16",
-    "title": "ガーミン(GARMIN) フラッグシップモデル fenix 8 Sapphire AMOLED 47mm Ti Carbon Gray DLC/Black マルチスポーツGPSウォッチ【AMOLEDディスプレイ】 【ランニング・ゴルフ・登山・サイクリング等30種類以上対応】【Android/iOS対応】【Suica機能搭載】【ビジネスシーンもOK】【日本正規品】心電図(ECG)アプリ対応モデル",
-    "percent_off": 28,
-    "brand": "ガーミン(GARMIN)",
-    "genre": "スマートウォッチ",
-    "price": 104088
-  },
-  "B0FKH3WQ41": {
-    "first_seen": "2026-07-30",
-    "first_seen_at": "2026-07-30T12:00:00+09:00",
-    "last_seen": "2026-11-16",
-    "title": "HUAWEI WATCH GT 6 Pro 46mm スマートウォッチ 大画面 GPS搭載 21日間バッテリー 心電図 ゴルフ GPS 通知 ブラック | iPhone対応 android対応 1.47インチ画面 3000nits高輝度 サイクリング/登山/進化したゴルフナビ スポーツモード100種類以上 ランニング 防水 健康管理 情緒測定",
-    "percent_off": 24,
-    "brand": "HUAWEI(ファーウェイ)",
-    "genre": "スマートウォッチ",
-    "price": 36800
-  },
   "B0FMDBYSQ9": {
     "first_seen": "2026-10-17",
     "first_seen_at": "2026-10-17T05:15:28+09:00",
@@ -699,11 +689,21 @@
     "genre": "スマートウォッチ",
     "price": 67800
   },
-  "B0GZ294HH3": {
-    "first_seen": "2026-08-16",
-    "first_seen_at": "2026-08-16T00:38:29+09:00",
+  "B0GX8DRYCX": {
+    "first_seen": "2026-09-03",
+    "first_seen_at": "2026-09-03T12:14:47+09:00",
     "last_seen": "2026-11-16",
-    "title": "GARMIN(ガーミン)スマートウォッチ Forerunner 170 Black/Amp Yellow スマートウォッチモード 約 10 日間 高精度GPS ランニングウォッチ iOS/Android AMOLEDディスプレイ1.2インチ マラソン 軽量 防水 心拍数 睡眠スコア 健康管理 Suicaタッチ決済 Garmin Pay",
+    "title": "HUAWEI WATCH FIT 5 スマートウォッチ 薄型軽量 大画面 GPS内蔵 10日間ロングバッテリー 通知 健康管理 心拍数 睡眠 ブラック | iPhone対応 android対応 1.82インチ画面 2500nits高輝度 ワークアウト 転倒検知 情緒測定 生理周期管理 64GBストレージ 録音機能 ランニング 防水",
+    "percent_off": 19,
+    "brand": "HUAWEI(ファーウェイ)",
+    "genre": "スマートウォッチ",
+    "price": 22222
+  },
+  "B0GZ2NBP8V": {
+    "first_seen": "2026-09-23",
+    "first_seen_at": "2026-09-23T21:15:01+09:00",
+    "last_seen": "2026-11-16",
+    "title": "GARMIN(ガーミン)スマートウォッチ Forerunner 170 Whitestone/Cloud Blue スマートウォッチモード 約 10 日間 高精度GPS ランニングウォッチ iOS/Android AMOLEDディスプレイ1.2インチ マラソン 軽量 防水 心拍数 睡眠スコア 健康管理 Suicaタッチ決済 Garmin Pay",
     "percent_off": 17,
     "brand": "ガーミン(GARMIN)",
     "genre": "スマートウォッチ",
@@ -718,16 +718,6 @@
     "brand": "ガーミン(GARMIN)",
     "genre": "スマートウォッチ",
     "price": 24800
-  },
-  "B0GZ2NBP8V": {
-    "first_seen": "2026-09-23",
-    "first_seen_at": "2026-09-23T21:15:01+09:00",
-    "last_seen": "2026-11-16",
-    "title": "GARMIN(ガーミン)スマートウォッチ Forerunner 170 Whitestone/Cloud Blue スマートウォッチモード 約 10 日間 高精度GPS ランニングウォッチ iOS/Android AMOLEDディスプレイ1.2インチ マラソン 軽量 防水 心拍数 睡眠スコア 健康管理 Suicaタッチ決済 Garmin Pay",
-    "percent_off": 17,
-    "brand": "ガーミン(GARMIN)",
-    "genre": "スマートウォッチ",
-    "price": 39591
   },
   "B0BWF4JPWS": {
     "first_seen": "2026-10-22",
@@ -769,15 +759,15 @@
     "genre": "スマートウォッチ",
     "price": 46800
   },
-  "B0HBPTD3RC": {
-    "first_seen": "2026-11-05",
-    "first_seen_at": "2026-11-05T22:15:45+09:00",
+  "B0F5WP177R": {
+    "first_seen": "2026-10-24",
+    "first_seen_at": "2026-10-24T21:15:02+09:00",
     "last_seen": "2026-11-16",
-    "title": "VITURE Luma Ultra XRグラス アルティメットセット（ネックバンド・ドック付属）",
-    "percent_off": 18,
-    "brand": "VITURE",
-    "genre": "XR・ARグラス",
-    "price": 140762
+    "title": "HUAWEI WATCH FIT 4 Pro スマートウォッチ 薄型軽量 大画面 GPS内蔵 10日間ロングバッテリー ゴルフ 心電図 睡眠 グリーン | iPhone対応 android対応 ゴルフ機能 アウトドアに適した気圧計と測位システム 1.82インチ 3000nitsディスプレイ サファイアガラス チタン合金ベゼル LINE通知 健康管理 情緒測定 ランニング 防水",
+    "percent_off": 15,
+    "brand": "HUAWEI(ファーウェイ)",
+    "genre": "スマートウォッチ",
+    "price": 33300
   },
   "B0C9D8VTH7": {
     "first_seen": "2026-09-26",
@@ -869,16 +859,6 @@
     "genre": "キーボード・マウス",
     "price": 2990
   },
-  "B09Q83ZRZW": {
-    "first_seen": "2026-11-05",
-    "first_seen_at": "2026-11-05T19:15:08+09:00",
-    "last_seen": "2026-11-16",
-    "title": "Logicool G(ロジクール G) PRO ゲーミングキーボード テンキーレス GXスイッチ クリッキー 有線 メカニカル キーボード 静音 日本語配列 LIGHTSYNC RGB 着脱式ケーブル G-PKB-002CK 国内正規品 ※別売りのGXスイッチの入れ替えはできません",
-    "percent_off": 26,
-    "brand": "Logicool G(ロジクール G)",
-    "genre": "キーボード・マウス",
-    "price": 10300
-  },
   "B0B8NLL6B6": {
     "first_seen": "2026-08-02",
     "first_seen_at": "2026-08-02T18:25:14+09:00",
@@ -909,16 +889,6 @@
     "genre": "キーボード・マウス",
     "price": 20000
   },
-  "B0CJR5HBMN": {
-    "first_seen": "2026-08-04",
-    "first_seen_at": "2026-08-04T21:17:38+09:00",
-    "last_seen": "2026-11-16",
-    "title": "ロジクール ワイヤレスマウス PEBBLE MOUSE2 M350sGR 薄型 静音 Bluetooth Logi Bolt マウス 無線 ワイヤレス 左右対称 Easy-Switch 4000dpi 電池寿命24ケ月 windows mac Chrome Android iPad M350 グラファイト 国内正規品",
-    "percent_off": 19,
-    "brand": "Logicool(ロジクール)",
-    "genre": "キーボード・マウス",
-    "price": 2936
-  },
   "B0D9Y1J4NH": {
     "first_seen": "2026-09-26",
     "first_seen_at": "2026-09-26T10:14:59+09:00",
@@ -928,6 +898,16 @@
     "brand": "Logicool(ロジクール)",
     "genre": "キーボード・マウス",
     "price": 6800
+  },
+  "B0CJR5HBMN": {
+    "first_seen": "2026-08-04",
+    "first_seen_at": "2026-08-04T21:17:38+09:00",
+    "last_seen": "2026-11-16",
+    "title": "ロジクール ワイヤレスマウス PEBBLE MOUSE2 M350sGR 薄型 静音 Bluetooth Logi Bolt マウス 無線 ワイヤレス 左右対称 Easy-Switch 4000dpi 電池寿命24ケ月 windows mac Chrome Android iPad M350 グラファイト 国内正規品",
+    "percent_off": 19,
+    "brand": "Logicool(ロジクール)",
+    "genre": "キーボード・マウス",
+    "price": 2936
   },
   "B08K2V1B28": {
     "first_seen": "2026-11-03",
@@ -939,11 +919,11 @@
     "genre": "キーボード・マウス",
     "price": 2708
   },
-  "B0BKPHMVPL": {
-    "first_seen": "2026-09-26",
-    "first_seen_at": "2026-09-26T21:14:55+09:00",
+  "B0BKPLSSBZ": {
+    "first_seen": "2026-11-10",
+    "first_seen_at": "2026-11-10T00:15:10+09:00",
     "last_seen": "2026-11-16",
-    "title": "ロジクール ワイヤレスマウス 静音 無線 高速スクロール Signature M750MOW レギュラー オフホワイト M750 国内正規品 | レギュラーサイズ、6ボタン、サイドボタン、電池式（単3形乾電池x1）、Easy-Switch、DPI切り替え、Bluetooth、Logi Bolt、Windows10、Windows11、macOS、iPadOS、Android、ChromeOS",
+    "title": "ロジクール ワイヤレスマウス 静音 無線 高速スクロール Signature M750MBL レギュラー ブルー M750 国内正規品 | レギュラーサイズ、6ボタン、サイドボタン、電池式（単3形乾電池x1）、Easy-Switch、DPI切り替え、Bluetooth、Logi Bolt、Windows10、Windows11、macOS、iPadOS、Android、ChromeOS",
     "percent_off": 17,
     "brand": "Logicool(ロジクール)",
     "genre": "キーボード・マウス",
@@ -968,6 +948,16 @@
     "brand": "エレコム(ELECOM)",
     "genre": "キーボード・マウス",
     "price": 2690
+  },
+  "B0CZ8X3DH8": {
+    "first_seen": "2026-07-26",
+    "first_seen_at": "2026-07-26T12:00:00+09:00",
+    "last_seen": "2026-11-16",
+    "title": "ロジクール SIGNATURE SLIM ワイヤレス キーボード K950GR 薄型 静かなタイピング Bluetooth Logi Bolt ワイヤレスキーボード テンキー 無線 Easy-Switch 日本語配列 電池寿命36ケ月 Windows Mac Chrome Android K950 グラファイト 国内正規品",
+    "percent_off": 15,
+    "brand": "Logicool(ロジクール)",
+    "genre": "キーボード・マウス",
+    "price": 9281
   },
   "B07NDM4CQZ": {
     "first_seen": "2026-10-08",
@@ -1009,15 +999,125 @@
     "genre": "エアフライヤー",
     "price": 12000
   },
-  "B0DGJBNYVY": {
-    "first_seen": "2026-09-05",
-    "first_seen_at": "2026-09-05T08:14:38+09:00",
+  "B0F3XFNHCW": {
+    "first_seen": "2026-11-01",
+    "first_seen_at": "2026-11-01T02:15:45+09:00",
     "last_seen": "2026-11-16",
-    "title": "Apple AirPods 4 アクティブノイズ キャンセリング搭載、ワイヤレスイヤホン、Bluetooth 5.3、ライブ翻訳、適応型オーディオ、外部音取り込みモード、パーソナライズされた空間オーディオ、USB-C充電ケース、ワイヤレス充電、H2チップ、防塵性能と耐汗耐水性能、「探す」対応、Qi充電",
-    "percent_off": 21,
-    "brand": "Apple(アップル)",
-    "genre": "Apple製品",
-    "price": 25800
+    "title": "ソニー(SONY) WF-C710N ブラック ワイヤレスイヤホン 高性能ノイズキャンセリング Bluetoothロングバッテリー 外音取り込み IPX4防滴性能 軽量 コンパクト マルチポイント接続",
+    "percent_off": 29,
+    "brand": "Sony",
+    "genre": "ワイヤレスイヤホン",
+    "price": 12500
+  },
+  "B0DDKGK41D": {
+    "first_seen": "2026-10-14",
+    "first_seen_at": "2026-10-14T00:15:56+09:00",
+    "last_seen": "2026-11-16",
+    "title": "ソニー(SONY) 完全ワイヤレスイヤホン WF-C510 / 軽量小型4.6g / 高精度通話品質/外音取り込み対応/マルチポイント対応 / IPX4防滴性能 / ホワイト/WF-C510 WC",
+    "percent_off": 18,
+    "brand": "Sony",
+    "genre": "ワイヤレスイヤホン",
+    "price": 8100
+  },
+  "B071G7JJRL": {
+    "first_seen": "2026-11-01",
+    "first_seen_at": "2026-11-01T16:15:01+09:00",
+    "last_seen": "2026-11-16",
+    "title": "ソニー(SONY) 有線イヤホン MDR-EX155 : カナル型 ライトブルー MDR-EX155 L",
+    "percent_off": 16,
+    "brand": "Sony",
+    "genre": "ワイヤレスイヤホン",
+    "price": 1291
+  },
+  "B0CX4FKYCS": {
+    "first_seen": "2026-10-10",
+    "first_seen_at": "2026-10-10T23:14:49+09:00",
+    "last_seen": "2026-11-16",
+    "title": "Anker Power Bank (10000mAh, Fusion, Built-In USB-C ケーブル) ホワイト | 10K 30W出力モバイルバッテリー搭載 30W出力USB充電器 / LEDディスプレイ/ケーブル一体型/コンセント一体型/折りたたみ式プラグ 1台3役 / iPhone 18 / 17 / 16 / 15 Android その他各種機器対応",
+    "percent_off": null,
+    "brand": "Anker",
+    "genre": "モバイルバッテリー",
+    "price": 8990
+  },
+  "B0F6NFHB31": {
+    "first_seen": "2026-07-25",
+    "first_seen_at": "2026-07-25T12:00:00+09:00",
+    "last_seen": "2026-11-16",
+    "title": "UGREEN Air モバイルバッテリー 5000mAh 8.6mm超薄型 Qi2 15W MagSafe iPhone18Pro対応 | 【ATL製セル×難燃技術】マグネット式ワイヤレス充電｜軽量・小型設計｜USB-C PD 20W対応 ｜パススルー充電対応｜iPhone18 Pro/17/16/15 シリーズ/ Air対応｜PB580｜グレー",
+    "percent_off": null,
+    "brand": "UGREEN",
+    "genre": "モバイルバッテリー",
+    "price": 6880
+  },
+  "B0CM66LY5F": {
+    "first_seen": "2026-10-17",
+    "first_seen_at": "2026-10-17T21:15:05+09:00",
+    "last_seen": "2026-11-16",
+    "title": "Anker MagGo Wireless Charging Station (Foldable 3-in-1) ブラック | 旅行 / 持ち運び 充電器 / ワイヤレス充電器 / magsafe充電器 / apple watch 充電器 / Qi2 15W / magsafe対応 / Airpods充電 / iPhone 18 / 17 / 16 シリーズ",
+    "percent_off": null,
+    "brand": "Anker",
+    "genre": "充電器",
+    "price": 14990
+  },
+  "B0DDCR5WYQ": {
+    "first_seen": "2026-11-03",
+    "first_seen_at": "2026-11-03T12:15:59+09:00",
+    "last_seen": "2026-11-16",
+    "title": "ガーミン(GARMIN) フラッグシップモデル fenix 8 Sapphire AMOLED 47mm Ti Carbon Gray DLC/Black マルチスポーツGPSウォッチ【AMOLEDディスプレイ】 【ランニング・ゴルフ・登山・サイクリング等30種類以上対応】【Android/iOS対応】【Suica機能搭載】【ビジネスシーンもOK】【日本正規品】心電図(ECG)アプリ対応モデル",
+    "percent_off": 28,
+    "brand": "ガーミン(GARMIN)",
+    "genre": "スマートウォッチ",
+    "price": 104088
+  },
+  "B0FKH3WQ41": {
+    "first_seen": "2026-07-30",
+    "first_seen_at": "2026-07-30T12:00:00+09:00",
+    "last_seen": "2026-11-16",
+    "title": "HUAWEI WATCH GT 6 Pro 46mm スマートウォッチ 大画面 GPS搭載 21日間バッテリー 心電図 ゴルフ GPS 通知 ブラック | iPhone対応 android対応 1.47インチ画面 3000nits高輝度 サイクリング/登山/進化したゴルフナビ スポーツモード100種類以上 ランニング 防水 健康管理 情緒測定",
+    "percent_off": 24,
+    "brand": "HUAWEI(ファーウェイ)",
+    "genre": "スマートウォッチ",
+    "price": 36800
+  },
+  "B0GZ294HH3": {
+    "first_seen": "2026-08-16",
+    "first_seen_at": "2026-08-16T00:38:29+09:00",
+    "last_seen": "2026-11-16",
+    "title": "GARMIN(ガーミン)スマートウォッチ Forerunner 170 Black/Amp Yellow スマートウォッチモード 約 10 日間 高精度GPS ランニングウォッチ iOS/Android AMOLEDディスプレイ1.2インチ マラソン 軽量 防水 心拍数 睡眠スコア 健康管理 Suicaタッチ決済 Garmin Pay",
+    "percent_off": 17,
+    "brand": "ガーミン(GARMIN)",
+    "genre": "スマートウォッチ",
+    "price": 39591
+  },
+  "B0HBPTD3RC": {
+    "first_seen": "2026-11-05",
+    "first_seen_at": "2026-11-05T22:15:45+09:00",
+    "last_seen": "2026-11-16",
+    "title": "VITURE Luma Ultra XRグラス アルティメットセット（ネックバンド・ドック付属）",
+    "percent_off": 18,
+    "brand": "VITURE",
+    "genre": "XR・ARグラス",
+    "price": 140762
+  },
+  "B09Q83ZRZW": {
+    "first_seen": "2026-11-05",
+    "first_seen_at": "2026-11-05T19:15:08+09:00",
+    "last_seen": "2026-11-16",
+    "title": "Logicool G(ロジクール G) PRO ゲーミングキーボード テンキーレス GXスイッチ クリッキー 有線 メカニカル キーボード 静音 日本語配列 LIGHTSYNC RGB 着脱式ケーブル G-PKB-002CK 国内正規品 ※別売りのGXスイッチの入れ替えはできません",
+    "percent_off": 26,
+    "brand": "Logicool G(ロジクール G)",
+    "genre": "キーボード・マウス",
+    "price": 10300
+  },
+  "B0BKPHMVPL": {
+    "first_seen": "2026-09-26",
+    "first_seen_at": "2026-09-26T21:14:55+09:00",
+    "last_seen": "2026-11-16",
+    "title": "ロジクール ワイヤレスマウス 静音 無線 高速スクロール Signature M750MOW レギュラー オフホワイト M750 国内正規品 | レギュラーサイズ、6ボタン、サイドボタン、電池式（単3形乾電池x1）、Easy-Switch、DPI切り替え、Bluetooth、Logi Bolt、Windows10、Windows11、macOS、iPadOS、Android、ChromeOS",
+    "percent_off": 17,
+    "brand": "Logicool(ロジクール)",
+    "genre": "キーボード・マウス",
+    "price": 4364
   },
   "B0DT3XJKH9": {
     "first_seen": "2026-09-05",
@@ -1048,16 +1148,6 @@
     "brand": "Anker",
     "genre": "モバイルバッテリー",
     "price": 8990
-  },
-  "B0GX8DRYCX": {
-    "first_seen": "2026-09-03",
-    "first_seen_at": "2026-09-03T12:14:47+09:00",
-    "last_seen": "2026-11-16",
-    "title": "HUAWEI WATCH FIT 5 スマートウォッチ 薄型軽量 大画面 GPS内蔵 10日間ロングバッテリー 通知 健康管理 心拍数 睡眠 ブラック | iPhone対応 android対応 1.82インチ画面 2500nits高輝度 ワークアウト 転倒検知 情緒測定 生理周期管理 64GBストレージ 録音機能 ランニング 防水",
-    "percent_off": 19,
-    "brand": "HUAWEI(ファーウェイ)",
-    "genre": "スマートウォッチ",
-    "price": 22222
   },
   "B0BWF35J1G": {
     "first_seen": "2026-10-15",
@@ -1269,16 +1359,6 @@
     "genre": "モバイルバッテリー",
     "price": 7990
   },
-  "B0F6NC41DZ": {
-    "first_seen": "2026-08-06",
-    "first_seen_at": "2026-08-06T21:18:24+09:00",
-    "last_seen": "2026-11-16",
-    "title": "UGREEN Air モバイルバッテリー 10000mAh 薄型 Qi2 15W MagSafe ケーブル内蔵 iPhone18Pro対応 | 【ATL製セル×難燃技術】マグネット式ワイヤレス充電｜軽量・小型設計｜USB-C PD 30W対応 ｜パススルー充電対応｜ iPhone18 Pro/17/16/15 シリーズ/ Air対応｜PB570｜グレー",
-    "percent_off": null,
-    "brand": "UGREEN",
-    "genre": "モバイルバッテリー",
-    "price": 8580
-  },
   "B0DSPVDYQ9": {
     "first_seen": "2026-10-13",
     "first_seen_at": "2026-10-13T00:16:25+09:00",
@@ -1379,16 +1459,6 @@
     "genre": "充電器",
     "price": 1340
   },
-  "B0BKPLSSBZ": {
-    "first_seen": "2026-11-10",
-    "first_seen_at": "2026-11-10T00:15:10+09:00",
-    "last_seen": "2026-11-15",
-    "title": "ロジクール ワイヤレスマウス 静音 無線 高速スクロール Signature M750MBL レギュラー ブルー M750 国内正規品 | レギュラーサイズ、6ボタン、サイドボタン、電池式（単3形乾電池x1）、Easy-Switch、DPI切り替え、Bluetooth、Logi Bolt、Windows10、Windows11、macOS、iPadOS、Android、ChromeOS",
-    "percent_off": 17,
-    "brand": "Logicool(ロジクール)",
-    "genre": "キーボード・マウス",
-    "price": 4364
-  },
   "B0DPX84MBM": {
     "first_seen": "2026-11-10",
     "first_seen_at": "2026-11-10T23:15:54+09:00",
@@ -1418,16 +1488,6 @@
     "brand": "Anker",
     "genre": "モバイルバッテリー",
     "price": 6990
-  },
-  "B0DB17C63X": {
-    "first_seen": "2026-09-26",
-    "first_seen_at": "2026-09-26T00:14:56+09:00",
-    "last_seen": "2026-11-15",
-    "title": "Anker MagGo Power Bank (10000mAh, Slim) ブラック | モバイルバッテリー 10000mAh Qi2認証 ワイヤレス充電 最大出力15W マグセーフ対応 マグネット式ワイヤレス充電対応 コンパクト 薄型 小型 magsafe iPhone 18 / 17 / 16 / 15 シリーズ対応",
-    "percent_off": null,
-    "brand": "Anker",
-    "genre": "モバイルバッテリー",
-    "price": 9990
   },
   "B0GQP998K2": {
     "first_seen": "2026-11-15",
@@ -2701,13 +2761,6 @@
     "title": "Bose QuietComfort Ultra Earbuds LE (第2世代) ワイヤレス ノイズキャンセリング Bluetooth イヤホン 最長6時間連続再生 IPX4規格準拠 イマーシブオーディオ 迫力の重低音 デザートゴールド",
     "percent_off": 14
   },
-  "B0FKTL1CPV": {
-    "first_seen": "2026-11-11",
-    "first_seen_at": "2026-11-11T23:14:53+09:00",
-    "last_seen": "2026-11-11",
-    "title": "Anker Nano Power Bank (10000mAh, 45W, 巻取り式 USB-Cケーブル) ピンク | モバイルバッテリー 10000mAh (36Wh/10K) / 45W出力 / ディスプレイ搭載/巻取り式USB-Cケーブル一体型/iPhone 18 / 17 / 16 / 15シリーズ Android iPad その他各種機器対応",
-    "percent_off": null
-  },
   "B0DMFFK5LV": {
     "first_seen": "2026-07-29",
     "first_seen_at": "2026-07-29T12:00:00+09:00",
@@ -2785,13 +2838,6 @@
     "title": "ロジクール ワイヤレスマウス 静音 無線 高速スクロール Signature M750LOW ラージ オフホワイト M750 国内正規品 | 手の大きめな方向け、6ボタン、サイドボタン、電池式（単3形乾電池x1）、Easy-Switch、DPI切り替え、Bluetooth、Logi Bolt、Windows10、Windows11、macOS、iPadOS、Android、ChromeOS",
     "percent_off": 17
   },
-  "B0F3XBK3HK": {
-    "first_seen": "2026-11-10",
-    "first_seen_at": "2026-11-10T22:15:00+09:00",
-    "last_seen": "2026-11-11",
-    "title": "ソニー(SONY) WF-C710N ホワイト ワイヤレスイヤホン 高性能ノイズキャンセリング Bluetoothロングバッテリー 外音取り込み IPX4防滴性能 軽量 コンパクト マルチポイント接続",
-    "percent_off": 29
-  },
   "B0FNRL2QMT": {
     "first_seen": "2026-11-11",
     "first_seen_at": "2026-11-11T21:15:03+09:00",
@@ -2820,13 +2866,6 @@
     "title": "CIO NovaPort TRIOⅡ 65W 2C1A PD急速充電器 USB-C×2+USB-A×1 3台同時充電 世界最小級 (ホワイト) | ノートPC対応, MacBook対応, iPhone対応, iPad対応, Android対応, 電力を自動最適配分",
     "percent_off": 34
   },
-  "B0CM61GJFN": {
-    "first_seen": "2026-10-18",
-    "first_seen_at": "2026-10-18T12:16:10+09:00",
-    "last_seen": "2026-11-11",
-    "title": "Anker MagGo Wireless Charging Station (Foldable 3-in-1) ホワイト | 旅行 / 持ち運び 充電器 / ワイヤレス充電器 / magsafe充電器 / apple watch 充電器 / Qi2 15W / magsafe対応 / Airpods充電 / iPhone 18 / 17 / 16 シリーズ",
-    "percent_off": 33
-  },
   "B099ZNTRL5": {
     "first_seen": "2026-10-23",
     "first_seen_at": "2026-10-23T21:15:12+09:00",
@@ -2840,13 +2879,6 @@
     "last_seen": "2026-11-11",
     "title": "エレコム 充電器 合計65W 3ポート Type-C USB PD対応 スイング式プラグ採用 しろちゃん EC-AC11267WF",
     "percent_off": 14
-  },
-  "B0F5WP177R": {
-    "first_seen": "2026-10-24",
-    "first_seen_at": "2026-10-24T21:15:02+09:00",
-    "last_seen": "2026-11-11",
-    "title": "HUAWEI WATCH FIT 4 Pro スマートウォッチ 薄型軽量 大画面 GPS内蔵 10日間ロングバッテリー ゴルフ 心電図 睡眠 グリーン | iPhone対応 android対応 ゴルフ機能 アウトドアに適した気圧計と測位システム 1.82インチ 3000nitsディスプレイ サファイアガラス チタン合金ベゼル LINE通知 健康管理 情緒測定 ランニング 防水",
-    "percent_off": 27
   },
   "B0FKH323P1": {
     "first_seen": "2026-10-29",
@@ -3106,13 +3138,6 @@
     "last_seen": "2026-11-09",
     "title": "UGREEN 充電器 type-c 30W (2*USB-C+1*USB-A) 【PSE技術基準適合/PD3.0対応/30W急速充電/コンパクト】 | iphone18/17/16/15/14/13/iPad/GalaxyS25-S10/Google Pixel/AirPodsなどに対応",
     "percent_off": 32
-  },
-  "B0CZ8X3DH8": {
-    "first_seen": "2026-07-26",
-    "first_seen_at": "2026-07-26T12:00:00+09:00",
-    "last_seen": "2026-11-09",
-    "title": "ロジクール SIGNATURE SLIM ワイヤレス キーボード K950GR 薄型 静かなタイピング Bluetooth Logi Bolt ワイヤレスキーボード テンキー 無線 Easy-Switch 日本語配列 電池寿命36ケ月 Windows Mac Chrome Android K950 グラファイト 国内正規品",
-    "percent_off": 15
   },
   "B005EUPRB8": {
     "first_seen": "2026-11-05",
@@ -3596,13 +3621,6 @@
     "last_seen": "2026-11-04",
     "title": "エレコム ワイヤレスキーボード Bluetooth 静音 TK-FFBM03SKBK 最大3台マルチペアリング対応 抗菌 iPad/macbook/Surface/Chromebook テンキー付 ブラック",
     "percent_off": 14
-  },
-  "B0CX4PBCKH": {
-    "first_seen": "2026-10-14",
-    "first_seen_at": "2026-10-14T21:15:08+09:00",
-    "last_seen": "2026-11-04",
-    "title": "Anker Power Bank (10000mAh, Fusion, Built-In USB-C ケーブル) ピンク",
-    "percent_off": null
   },
   "B0D3J7HJYN": {
     "first_seen": "2026-10-25",
