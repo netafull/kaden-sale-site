@@ -613,7 +613,7 @@
    "aliases": {},
    "genre": "Apple製品",
    "label": "Apple iPhone 16 (128 GB) - ブラック SIMフリー 5",
-   "last_sweep_at": "2026-11-16T11:07:19+09:00",
+   "last_sweep_at": "2026-11-16T18:07:26+09:00",
    "members": {
     "B0DGJ3R51V": {
      "last_seen": "2026-11-16",
@@ -3557,7 +3557,7 @@
    },
    "genre": "Apple製品",
    "label": "Apple 2026 MacBook Air M5チップ搭載15インチノートブッ",
-   "last_sweep_at": "2026-11-16T11:07:19+09:00",
+   "last_sweep_at": "2026-11-16T18:07:26+09:00",
    "members": {
     "B0GR1JD976": {
      "last_seen": "2026-11-16",
@@ -4363,7 +4363,7 @@
    "aliases": {},
    "genre": "Apple製品",
    "label": "Apple Watch Series 12（GPSモデル）",
-   "last_sweep_at": "2026-11-16T11:07:19+09:00",
+   "last_sweep_at": "2026-11-16T18:07:26+09:00",
    "members": {
     "B0HJ9V2FK4": {
      "last_seen": "2026-11-16",
@@ -4471,7 +4471,7 @@
    },
    "genre": "Apple製品",
    "label": "Apple Watch Ultra 4（GPS + Cellularモデル）",
-   "last_sweep_at": "2026-11-16T11:07:19+09:00",
+   "last_sweep_at": "2026-11-16T18:07:26+09:00",
    "members": {
     "B0HJ9SL1FK": {
      "last_seen": "2026-11-16",
@@ -4547,7 +4547,7 @@
    },
    "genre": "Apple製品",
    "label": "Apple iPhone 18 Pro (256 GB) - シルバー",
-   "last_sweep_at": "2026-11-16T11:07:19+09:00",
+   "last_sweep_at": "2026-11-16T18:07:26+09:00",
    "members": {
     "B0HJ9TVNN6": {
      "last_seen": "2026-11-08",
@@ -4603,7 +4603,7 @@
    "aliases": {},
    "genre": "Apple製品",
    "label": "ワイヤレス充電ケース付きApple AirPods 5ワイヤレスイヤーバッド",
-   "last_sweep_at": "2026-11-16T11:07:19+09:00",
+   "last_sweep_at": "2026-11-16T18:07:26+09:00",
    "members": {
     "B0HJ9VNBZ8": {
      "last_seen": "2026-11-16",
@@ -4708,7 +4708,7 @@
    "aliases": {},
    "genre": "Apple製品",
    "label": "Apple Watch Band - ミラネーゼループ - （46mm）ケース用",
-   "last_sweep_at": "2026-11-16T11:07:19+09:00",
+   "last_sweep_at": "2026-11-16T18:07:26+09:00",
    "members": {
     "B0FQFMCFQ9": {
      "last_seen": "2026-11-16",
@@ -4747,8 +4747,8 @@
     },
     "B0FQGPH8JJ": {
      "last_seen": "2026-11-16",
-     "pct": null,
-     "points_pct": null
+     "pct": 0,
+     "points_pct": 1
     },
     "B0FQGVZR8V": {
      "last_seen": "2026-11-16",
