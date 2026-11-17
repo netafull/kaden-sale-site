@@ -4,10 +4,10 @@
     "first_seen_at": "2026-11-12T17:14:55+09:00",
     "last_seen": "2026-11-17",
     "title": "Apple Watch Band - モダンバックル - （42mm）ケース用 - ミッドナイトパープル - L",
-    "percent_off": 32,
+    "percent_off": 39,
     "brand": "Apple(アップル)",
     "genre": "Apple製品",
-    "price": 22984
+    "price": 20686
   },
   "B0DZ7YJC17": {
     "first_seen": "2026-10-26",
@@ -294,10 +294,10 @@
     "first_seen_at": "2026-11-01T02:15:45+09:00",
     "last_seen": "2026-11-17",
     "title": "ソニー(SONY) WF-C710N ブラック ワイヤレスイヤホン 高性能ノイズキャンセリング Bluetoothロングバッテリー 外音取り込み IPX4防滴性能 軽量 コンパクト マルチポイント接続",
-    "percent_off": 29,
+    "percent_off": 28,
     "brand": "Sony",
     "genre": "ワイヤレスイヤホン",
-    "price": 12500
+    "price": 12626
   },
   "B0DPX7W84T": {
     "first_seen": "2026-10-20",
@@ -669,16 +669,6 @@
     "genre": "充電器",
     "price": 7580
   },
-  "B08PTPTMH5": {
-    "first_seen": "2026-10-13",
-    "first_seen_at": "2026-10-13T09:15:04+09:00",
-    "last_seen": "2026-11-17",
-    "title": "KIOXIA(キオクシア) 旧東芝メモリ microSD 128GB UHS-I Class10 (最大読出速度100MB/s) Nintendo Switch動作確認済 国内サポート正規品 メーカー保証5年 KLMEA128G",
-    "percent_off": 15,
-    "brand": "KIOXIA",
-    "genre": "SSD・メモリーカード",
-    "price": 2290
-  },
   "B0GF26RSYQ": {
     "first_seen": "2026-07-27",
     "first_seen_at": "2026-07-27T12:00:00+09:00",
@@ -727,7 +717,7 @@
     "percent_off": 28,
     "brand": "ガーミン(GARMIN)",
     "genre": "スマートウォッチ",
-    "price": 103928
+    "price": 103908
   },
   "B0FKH3WQ41": {
     "first_seen": "2026-07-30",
@@ -777,7 +767,7 @@
     "percent_off": 17,
     "brand": "ガーミン(GARMIN)",
     "genre": "スマートウォッチ",
-    "price": 39587
+    "price": 39590
   },
   "B0B4JHS716": {
     "first_seen": "2026-09-25",
@@ -1058,6 +1048,16 @@
     "brand": "BRUNO",
     "genre": "エアフライヤー",
     "price": 12000
+  },
+  "B08PTPTMH5": {
+    "first_seen": "2026-10-13",
+    "first_seen_at": "2026-10-13T09:15:04+09:00",
+    "last_seen": "2026-11-17",
+    "title": "KIOXIA(キオクシア) 旧東芝メモリ microSD 128GB UHS-I Class10 (最大読出速度100MB/s) Nintendo Switch動作確認済 国内サポート正規品 メーカー保証5年 KLMEA128G",
+    "percent_off": 15,
+    "brand": "KIOXIA",
+    "genre": "SSD・メモリーカード",
+    "price": 2290
   },
   "B0FQFQDN6K": {
     "first_seen": "2026-10-13",
