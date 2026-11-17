@@ -287,7 +287,7 @@
     "percent_off": 49,
     "brand": "JBL",
     "genre": "ワイヤレスイヤホン",
-    "price": 14370
+    "price": 14190
   },
   "B0F3XFNHCW": {
     "first_seen": "2026-11-01",
@@ -489,6 +489,16 @@
     "genre": "充電器",
     "price": 14990
   },
+  "B09SYV3P5B": {
+    "first_seen": "2026-09-09",
+    "first_seen_at": "2026-09-09T00:14:37+09:00",
+    "last_seen": "2026-11-17",
+    "title": "Anker 736 Charger (Nano ll 100W) ブラック | (USB急速充電器 ACアダプタ) (ブラック)",
+    "percent_off": 34,
+    "brand": "Anker",
+    "genre": "充電器",
+    "price": 5900
+  },
   "B0B2QR8HN9": {
     "first_seen": "2026-08-09",
     "first_seen_at": "2026-08-09T19:54:50+09:00",
@@ -569,16 +579,6 @@
     "genre": "充電器",
     "price": 1390
   },
-  "B0DL993DZB": {
-    "first_seen": "2026-10-16",
-    "first_seen_at": "2026-10-16T19:15:14+09:00",
-    "last_seen": "2026-11-17",
-    "title": "UGREEN 卓上急速充電器 200W Type-C 6C2A 8ポート PPS 5A/PD3.0/QC4+規格対応 電源コード付き 縦型省スペース | 8ポート付き USB-C*6とUSB-A*2 充電保護システム iPhone18/17/16/15/14/MacBook/iPad/Galaxy/Android各種/その他USB-C機器対応 PSE技術基準適合 ベース付き",
-    "percent_off": 22,
-    "brand": "UGREEN",
-    "genre": "充電器",
-    "price": 11500
-  },
   "B07WGPPZQK": {
     "first_seen": "2026-10-17",
     "first_seen_at": "2026-10-17T06:15:09+09:00",
@@ -598,6 +598,16 @@
     "brand": "UGREEN",
     "genre": "充電器",
     "price": 1584
+  },
+  "B0CTC7KYZF": {
+    "first_seen": "2026-09-26",
+    "first_seen_at": "2026-09-26T23:15:00+09:00",
+    "last_seen": "2026-11-17",
+    "title": "UGREEN 卓上急速充電器 300W Type-C 4C1A 5ポート 単ポート140W常時対応 縦型省スペース PD3.1/PPS 5A対応 | 5ポート同時急速充電 USB-C *4とUSB-A*1 ダブルGaN MacBook Pro16/PD対応Macbook M4/iPad/iphone18/17/16/Galaxy/Android/PCに急速充電対応【レッドドット・デザイン賞受賞】",
+    "percent_off": 20,
+    "brand": "UGREEN",
+    "genre": "充電器",
+    "price": 17800
   },
   "B0FJS3P8NT": {
     "first_seen": "2026-07-27",
@@ -684,10 +694,10 @@
     "first_seen_at": "2026-07-30T12:00:00+09:00",
     "last_seen": "2026-11-17",
     "title": "HUAWEI WATCH GT 6 Pro 46mm スマートウォッチ 大画面 GPS搭載 21日間バッテリー 心電図 ゴルフ GPS 通知 ブラック | iPhone対応 android対応 1.47インチ画面 3000nits高輝度 サイクリング/登山/進化したゴルフナビ スポーツモード100種類以上 ランニング 防水 健康管理 情緒測定",
-    "percent_off": 24,
+    "percent_off": 28,
     "brand": "HUAWEI(ファーウェイ)",
     "genre": "スマートウォッチ",
-    "price": 36800
+    "price": 34840
   },
   "B0FMDBYSQ9": {
     "first_seen": "2026-10-17",
@@ -708,6 +718,16 @@
     "brand": "ガーミン(GARMIN)",
     "genre": "スマートウォッチ",
     "price": 67800
+  },
+  "B0GX8DRYCX": {
+    "first_seen": "2026-09-03",
+    "first_seen_at": "2026-09-03T12:14:47+09:00",
+    "last_seen": "2026-11-17",
+    "title": "HUAWEI WATCH FIT 5 スマートウォッチ 薄型軽量 大画面 GPS内蔵 10日間ロングバッテリー 通知 健康管理 心拍数 睡眠 ブラック | iPhone対応 android対応 1.82インチ画面 2500nits高輝度 ワークアウト 転倒検知 情緒測定 生理周期管理 64GBストレージ 録音機能 ランニング 防水",
+    "percent_off": 19,
+    "brand": "HUAWEI(ファーウェイ)",
+    "genre": "スマートウォッチ",
+    "price": 22222
   },
   "B0GZ294HH3": {
     "first_seen": "2026-08-16",
@@ -979,6 +999,16 @@
     "genre": "キーボード・マウス",
     "price": 4373
   },
+  "B0CZ8X3DH8": {
+    "first_seen": "2026-07-26",
+    "first_seen_at": "2026-07-26T12:00:00+09:00",
+    "last_seen": "2026-11-17",
+    "title": "ロジクール SIGNATURE SLIM ワイヤレス キーボード K950GR 薄型 静かなタイピング Bluetooth Logi Bolt ワイヤレスキーボード テンキー 無線 Easy-Switch 日本語配列 電池寿命36ケ月 Windows Mac Chrome Android K950 グラファイト 国内正規品",
+    "percent_off": 15,
+    "brand": "Logicool(ロジクール)",
+    "genre": "キーボード・マウス",
+    "price": 9281
+  },
   "B0H33R2TL2": {
     "first_seen": "2026-11-15",
     "first_seen_at": "2026-11-15T13:15:08+09:00",
@@ -1009,6 +1039,16 @@
     "genre": "エアフライヤー",
     "price": 12000
   },
+  "B0DL993DZB": {
+    "first_seen": "2026-10-16",
+    "first_seen_at": "2026-10-16T19:15:14+09:00",
+    "last_seen": "2026-11-17",
+    "title": "UGREEN 卓上急速充電器 200W Type-C 6C2A 8ポート PPS 5A/PD3.0/QC4+規格対応 電源コード付き 縦型省スペース | 8ポート付き USB-C*6とUSB-A*2 充電保護システム iPhone18/17/16/15/14/MacBook/iPad/Galaxy/Android各種/その他USB-C機器対応 PSE技術基準適合 ベース付き",
+    "percent_off": 22,
+    "brand": "UGREEN",
+    "genre": "充電器",
+    "price": 11500
+  },
   "B0DL6PRKX9": {
     "first_seen": "2026-10-30",
     "first_seen_at": "2026-10-30T20:16:01+09:00",
@@ -1028,16 +1068,6 @@
     "brand": "UGREEN",
     "genre": "モバイルバッテリー",
     "price": 4530
-  },
-  "B0GX8DRYCX": {
-    "first_seen": "2026-09-03",
-    "first_seen_at": "2026-09-03T12:14:47+09:00",
-    "last_seen": "2026-11-17",
-    "title": "HUAWEI WATCH FIT 5 スマートウォッチ 薄型軽量 大画面 GPS内蔵 10日間ロングバッテリー 通知 健康管理 心拍数 睡眠 ブラック | iPhone対応 android対応 1.82インチ画面 2500nits高輝度 ワークアウト 転倒検知 情緒測定 生理周期管理 64GBストレージ 録音機能 ランニング 防水",
-    "percent_off": 19,
-    "brand": "HUAWEI(ファーウェイ)",
-    "genre": "スマートウォッチ",
-    "price": 22222
   },
   "B0GF26RSYQ": {
     "first_seen": "2026-07-27",
@@ -1078,16 +1108,6 @@
     "brand": "Anker",
     "genre": "充電器",
     "price": 11000
-  },
-  "B09SYV3P5B": {
-    "first_seen": "2026-09-09",
-    "first_seen_at": "2026-09-09T00:14:37+09:00",
-    "last_seen": "2026-11-17",
-    "title": "Anker 736 Charger (Nano ll 100W) ブラック | (USB急速充電器 ACアダプタ) (ブラック)",
-    "percent_off": null,
-    "brand": "Anker",
-    "genre": "充電器",
-    "price": 8990
   },
   "B0CD1NVW7R": {
     "first_seen": "2026-09-15",
@@ -1368,16 +1388,6 @@
     "brand": "エレコム(ELECOM)",
     "genre": "キーボード・マウス",
     "price": 2990
-  },
-  "B0CZ8X3DH8": {
-    "first_seen": "2026-07-26",
-    "first_seen_at": "2026-07-26T12:00:00+09:00",
-    "last_seen": "2026-11-16",
-    "title": "ロジクール SIGNATURE SLIM ワイヤレス キーボード K950GR 薄型 静かなタイピング Bluetooth Logi Bolt ワイヤレスキーボード テンキー 無線 Easy-Switch 日本語配列 電池寿命36ケ月 Windows Mac Chrome Android K950 グラファイト 国内正規品",
-    "percent_off": 15,
-    "brand": "Logicool(ロジクール)",
-    "genre": "キーボード・マウス",
-    "price": 9281
   },
   "B0H33S3D6P": {
     "first_seen": "2026-11-16",
@@ -3334,13 +3344,6 @@
     "last_seen": "2026-11-09",
     "title": "Belkin MagSafe対応 モバイルバッテリー 軽量 5000mAh USB-C 15W 薄型 iPhone対応 ブラック | 7.5Wワイヤレス、USB-C最大15W、2台同時充電、PPS対応、パススルー充電、iPhone18~12・Android対応、カメラを妨げにくい薄型設計、PSE・中国CCC認証、1m USB-Cケーブル付属、2年保証・最大2,500米ドルCEW",
     "percent_off": 36
-  },
-  "B0CTC7KYZF": {
-    "first_seen": "2026-09-26",
-    "first_seen_at": "2026-09-26T23:15:00+09:00",
-    "last_seen": "2026-11-09",
-    "title": "UGREEN 卓上急速充電器 300W Type-C 4C1A 5ポート 単ポート140W常時対応 縦型省スペース PD3.1/PPS 5A対応 | 5ポート同時急速充電 USB-C *4とUSB-A*1 ダブルGaN MacBook Pro16/PD対応Macbook M4/iPad/iphone18/17/16/Galaxy/Android/PCに急速充電対応【レッドドット・デザイン賞受賞】",
-    "percent_off": 32
   },
   "B0GHQ3GZ6G": {
     "first_seen": "2026-11-04",
