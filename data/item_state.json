@@ -279,16 +279,6 @@
     "genre": "Apple製品",
     "price": 231800
   },
-  "B0D3T5ZW6Z": {
-    "first_seen": "2026-11-09",
-    "first_seen_at": "2026-11-09T22:14:55+09:00",
-    "last_seen": "2026-11-17",
-    "title": "JBL LIVE BEAM 3 ワイヤレスイヤホン スマート充電ケース/LDAC対応ハイレゾ/マルチポイント/ハイブリッド ノイズキャンセリング/IP55防水/ワイヤレス充電対応/ブラック/JBLLIVEBEAM3BLK",
-    "percent_off": 49,
-    "brand": "JBL",
-    "genre": "ワイヤレスイヤホン",
-    "price": 14370
-  },
   "B0F3XFNHCW": {
     "first_seen": "2026-11-01",
     "first_seen_at": "2026-11-01T02:15:45+09:00",
@@ -349,16 +339,6 @@
     "genre": "モバイルバッテリー",
     "price": 8386
   },
-  "B0C3GTMX5M": {
-    "first_seen": "2026-09-18",
-    "first_seen_at": "2026-09-18T21:14:31+09:00",
-    "last_seen": "2026-11-17",
-    "title": "UGREEN 100W モバイルバッテリー 20000mAh 大容量 3ポート USB-C×2Type-A×1 iPhone 18 Pro/Duo対応 | 急速充電対応 PD・PPS 2.0 パススルー/低電流モード PSE技術基準適合 MacBook/iPhone 18 Duo/17/16/15シリーズなど/スマホ/ノートPC/出張/防災/旅行対応 PB720【VGP2024受賞】",
-    "percent_off": 30,
-    "brand": "UGREEN",
-    "genre": "モバイルバッテリー",
-    "price": 6998
-  },
   "B0DZ1TGX6T": {
     "first_seen": "2026-07-24",
     "first_seen_at": "2026-07-24T12:00:00+09:00",
@@ -378,6 +358,26 @@
     "brand": "Anker",
     "genre": "モバイルバッテリー",
     "price": 8990
+  },
+  "B0CX4FKYCS": {
+    "first_seen": "2026-10-10",
+    "first_seen_at": "2026-10-10T23:14:49+09:00",
+    "last_seen": "2026-11-17",
+    "title": "Anker Power Bank (10000mAh, Fusion, Built-In USB-C ケーブル) ホワイト | 10K 30W出力モバイルバッテリー搭載 30W出力USB充電器 / LEDディスプレイ/ケーブル一体型/コンセント一体型/折りたたみ式プラグ 1台3役 / iPhone 18 / 17 / 16 / 15 Android その他各種機器対応",
+    "percent_off": null,
+    "brand": "Anker",
+    "genre": "モバイルバッテリー",
+    "price": 8990
+  },
+  "B0FTZ46NF8": {
+    "first_seen": "2026-11-04",
+    "first_seen_at": "2026-11-04T00:15:51+09:00",
+    "last_seen": "2026-11-17",
+    "title": "CIO 半固体モバイルバッテリー 25W 5000mAh SMARTCOBY Ex04 Wireless2.2 CABLE SS5K (ブラック) | Qi2.2 ワイヤレス充電 25W / Type-C USB-C ケーブル内蔵 20W, iPhone18対応, Pixel10対応, Galaxy S26対応",
+    "percent_off": null,
+    "brand": "CIO",
+    "genre": "モバイルバッテリー",
+    "price": 7130
   },
   "B0D9J5MSBH": {
     "first_seen": "2026-10-15",
@@ -689,26 +689,6 @@
     "genre": "スマートウォッチ",
     "price": 16064
   },
-  "B0DDCR5WYQ": {
-    "first_seen": "2026-11-03",
-    "first_seen_at": "2026-11-03T12:15:59+09:00",
-    "last_seen": "2026-11-17",
-    "title": "ガーミン(GARMIN) フラッグシップモデル fenix 8 Sapphire AMOLED 47mm Ti Carbon Gray DLC/Black マルチスポーツGPSウォッチ【AMOLEDディスプレイ】 【ランニング・ゴルフ・登山・サイクリング等30種類以上対応】【Android/iOS対応】【Suica機能搭載】【ビジネスシーンもOK】【日本正規品】心電図(ECG)アプリ対応モデル",
-    "percent_off": 28,
-    "brand": "ガーミン(GARMIN)",
-    "genre": "スマートウォッチ",
-    "price": 103888
-  },
-  "B0FKH3WQ41": {
-    "first_seen": "2026-07-30",
-    "first_seen_at": "2026-07-30T12:00:00+09:00",
-    "last_seen": "2026-11-17",
-    "title": "HUAWEI WATCH GT 6 Pro 46mm スマートウォッチ 大画面 GPS搭載 21日間バッテリー 心電図 ゴルフ GPS 通知 ブラック | iPhone対応 android対応 1.47インチ画面 3000nits高輝度 サイクリング/登山/進化したゴルフナビ スポーツモード100種類以上 ランニング 防水 健康管理 情緒測定",
-    "percent_off": 28,
-    "brand": "HUAWEI(ファーウェイ)",
-    "genre": "スマートウォッチ",
-    "price": 34840
-  },
   "B0FMDBYSQ9": {
     "first_seen": "2026-10-17",
     "first_seen_at": "2026-10-17T05:15:28+09:00",
@@ -759,11 +739,11 @@
     "genre": "スマートウォッチ",
     "price": 22770
   },
-  "B0B4JHS716": {
-    "first_seen": "2026-09-25",
-    "first_seen_at": "2026-09-25T10:14:58+09:00",
+  "B09R1TYM93": {
+    "first_seen": "2026-10-31",
+    "first_seen_at": "2026-10-31T21:15:12+09:00",
     "last_seen": "2026-11-17",
-    "title": "ガーミン vivomove Sport Peach Gold/Cocoa ハイブリッドスマートウォッチ 【日本正規品】 ユニセックス",
+    "title": "GARMIN(ガーミン) vivomove Sport Slate/Black ハイブリッドスマートウォッチ 【日本正規品】 小",
     "percent_off": 17,
     "brand": "ガーミン(GARMIN)",
     "genre": "スマートウォッチ",
@@ -849,16 +829,6 @@
     "genre": "キーボード・マウス",
     "price": 2093
   },
-  "B0GL1B1L6Y": {
-    "first_seen": "2026-10-29",
-    "first_seen_at": "2026-10-29T23:15:00+09:00",
-    "last_seen": "2026-11-17",
-    "title": "東プレ REALFORCE GX1 Plus サザビー 日本語配列 ゲーミングキーボード X1PCS1",
-    "percent_off": 38,
-    "brand": "REALFORCE",
-    "genre": "キーボード・マウス",
-    "price": 37549
-  },
   "B0FL6ZD3WL": {
     "first_seen": "2026-07-29",
     "first_seen_at": "2026-07-29T12:00:00+09:00",
@@ -868,6 +838,16 @@
     "brand": "エレコム(ELECOM)",
     "genre": "キーボード・マウス",
     "price": 5790
+  },
+  "B0GL17FPP3": {
+    "first_seen": "2026-11-04",
+    "first_seen_at": "2026-11-04T00:15:51+09:00",
+    "last_seen": "2026-11-17",
+    "title": "東プレ REALFORCE GX1 Plus 百式 日本語配列 ゲーミングキーボード X1PCH1",
+    "percent_off": 35,
+    "brand": "REALFORCE",
+    "genre": "キーボード・マウス",
+    "price": 46716
   },
   "B0FL77NZXM": {
     "first_seen": "2026-07-29",
@@ -949,11 +929,11 @@
     "genre": "キーボード・マウス",
     "price": 20000
   },
-  "B0CJR5HBMN": {
-    "first_seen": "2026-08-04",
-    "first_seen_at": "2026-08-04T21:17:38+09:00",
+  "B0CJR74NF3": {
+    "first_seen": "2026-08-13",
+    "first_seen_at": "2026-08-13T22:45:41+09:00",
     "last_seen": "2026-11-17",
-    "title": "ロジクール ワイヤレスマウス PEBBLE MOUSE2 M350sGR 薄型 静音 Bluetooth Logi Bolt マウス 無線 ワイヤレス 左右対称 Easy-Switch 4000dpi 電池寿命24ケ月 windows mac Chrome Android iPad M350 グラファイト 国内正規品",
+    "title": "ロジクール ワイヤレスマウス PEBBLE MOUSE2 M350sGY 薄型 静音 Bluetooth Logi Bolt マウス 無線 ワイヤレス 左右対称 Easy-Switch 4000dpi 電池寿命24ケ月 windows mac Chrome Android iPad M350 グレージュ 国内正規品",
     "percent_off": 19,
     "brand": "Logicool(ロジクール)",
     "genre": "キーボード・マウス",
@@ -1018,6 +998,76 @@
     "brand": "Logicool(ロジクール)",
     "genre": "キーボード・マウス",
     "price": 9281
+  },
+  "B0D3T5ZW6Z": {
+    "first_seen": "2026-11-09",
+    "first_seen_at": "2026-11-09T22:14:55+09:00",
+    "last_seen": "2026-11-17",
+    "title": "JBL LIVE BEAM 3 ワイヤレスイヤホン スマート充電ケース/LDAC対応ハイレゾ/マルチポイント/ハイブリッド ノイズキャンセリング/IP55防水/ワイヤレス充電対応/ブラック/JBLLIVEBEAM3BLK",
+    "percent_off": 49,
+    "brand": "JBL",
+    "genre": "ワイヤレスイヤホン",
+    "price": 14370
+  },
+  "B0C3GTMX5M": {
+    "first_seen": "2026-09-18",
+    "first_seen_at": "2026-09-18T21:14:31+09:00",
+    "last_seen": "2026-11-17",
+    "title": "UGREEN 100W モバイルバッテリー 20000mAh 大容量 3ポート USB-C×2Type-A×1 iPhone 18 Pro/Duo対応 | 急速充電対応 PD・PPS 2.0 パススルー/低電流モード PSE技術基準適合 MacBook/iPhone 18 Duo/17/16/15シリーズなど/スマホ/ノートPC/出張/防災/旅行対応 PB720【VGP2024受賞】",
+    "percent_off": 30,
+    "brand": "UGREEN",
+    "genre": "モバイルバッテリー",
+    "price": 6998
+  },
+  "B0DDCR5WYQ": {
+    "first_seen": "2026-11-03",
+    "first_seen_at": "2026-11-03T12:15:59+09:00",
+    "last_seen": "2026-11-17",
+    "title": "ガーミン(GARMIN) フラッグシップモデル fenix 8 Sapphire AMOLED 47mm Ti Carbon Gray DLC/Black マルチスポーツGPSウォッチ【AMOLEDディスプレイ】 【ランニング・ゴルフ・登山・サイクリング等30種類以上対応】【Android/iOS対応】【Suica機能搭載】【ビジネスシーンもOK】【日本正規品】心電図(ECG)アプリ対応モデル",
+    "percent_off": 28,
+    "brand": "ガーミン(GARMIN)",
+    "genre": "スマートウォッチ",
+    "price": 103888
+  },
+  "B0FKH3WQ41": {
+    "first_seen": "2026-07-30",
+    "first_seen_at": "2026-07-30T12:00:00+09:00",
+    "last_seen": "2026-11-17",
+    "title": "HUAWEI WATCH GT 6 Pro 46mm スマートウォッチ 大画面 GPS搭載 21日間バッテリー 心電図 ゴルフ GPS 通知 ブラック | iPhone対応 android対応 1.47インチ画面 3000nits高輝度 サイクリング/登山/進化したゴルフナビ スポーツモード100種類以上 ランニング 防水 健康管理 情緒測定",
+    "percent_off": 28,
+    "brand": "HUAWEI(ファーウェイ)",
+    "genre": "スマートウォッチ",
+    "price": 34840
+  },
+  "B0B4JHS716": {
+    "first_seen": "2026-09-25",
+    "first_seen_at": "2026-09-25T10:14:58+09:00",
+    "last_seen": "2026-11-17",
+    "title": "ガーミン vivomove Sport Peach Gold/Cocoa ハイブリッドスマートウォッチ 【日本正規品】 ユニセックス",
+    "percent_off": 17,
+    "brand": "ガーミン(GARMIN)",
+    "genre": "スマートウォッチ",
+    "price": 24800
+  },
+  "B0GL1B1L6Y": {
+    "first_seen": "2026-10-29",
+    "first_seen_at": "2026-10-29T23:15:00+09:00",
+    "last_seen": "2026-11-17",
+    "title": "東プレ REALFORCE GX1 Plus サザビー 日本語配列 ゲーミングキーボード X1PCS1",
+    "percent_off": 38,
+    "brand": "REALFORCE",
+    "genre": "キーボード・マウス",
+    "price": 37549
+  },
+  "B0CJR5HBMN": {
+    "first_seen": "2026-08-04",
+    "first_seen_at": "2026-08-04T21:17:38+09:00",
+    "last_seen": "2026-11-17",
+    "title": "ロジクール ワイヤレスマウス PEBBLE MOUSE2 M350sGR 薄型 静音 Bluetooth Logi Bolt マウス 無線 ワイヤレス 左右対称 Easy-Switch 4000dpi 電池寿命24ケ月 windows mac Chrome Android iPad M350 グラファイト 国内正規品",
+    "percent_off": 19,
+    "brand": "Logicool(ロジクール)",
+    "genre": "キーボード・マウス",
+    "price": 2936
   },
   "B0H33R2TL2": {
     "first_seen": "2026-11-15",
@@ -1128,16 +1178,6 @@
     "brand": "Anker",
     "genre": "モニター・ディスプレイ",
     "price": 2990
-  },
-  "B0FTZ46NF8": {
-    "first_seen": "2026-11-04",
-    "first_seen_at": "2026-11-04T00:15:51+09:00",
-    "last_seen": "2026-11-17",
-    "title": "CIO 半固体モバイルバッテリー 25W 5000mAh SMARTCOBY Ex04 Wireless2.2 CABLE SS5K (ブラック) | Qi2.2 ワイヤレス充電 25W / Type-C USB-C ケーブル内蔵 20W, iPhone18対応, Pixel10対応, Galaxy S26対応",
-    "percent_off": null,
-    "brand": "CIO",
-    "genre": "モバイルバッテリー",
-    "price": 7130
   },
   "B07NDM4CQZ": {
     "first_seen": "2026-10-08",
@@ -1459,16 +1499,6 @@
     "genre": "ワイヤレスイヤホン",
     "price": 8100
   },
-  "B0CX4FKYCS": {
-    "first_seen": "2026-10-10",
-    "first_seen_at": "2026-10-10T23:14:49+09:00",
-    "last_seen": "2026-11-16",
-    "title": "Anker Power Bank (10000mAh, Fusion, Built-In USB-C ケーブル) ホワイト | 10K 30W出力モバイルバッテリー搭載 30W出力USB充電器 / LEDディスプレイ/ケーブル一体型/コンセント一体型/折りたたみ式プラグ 1台3役 / iPhone 18 / 17 / 16 / 15 Android その他各種機器対応",
-    "percent_off": null,
-    "brand": "Anker",
-    "genre": "モバイルバッテリー",
-    "price": 8990
-  },
   "B0HBPTD3RC": {
     "first_seen": "2026-11-05",
     "first_seen_at": "2026-11-05T22:15:45+09:00",
@@ -1639,16 +1669,6 @@
     "genre": "キーボード・マウス",
     "price": 16744
   },
-  "B0GL17FPP3": {
-    "first_seen": "2026-11-04",
-    "first_seen_at": "2026-11-04T00:15:51+09:00",
-    "last_seen": "2026-11-16",
-    "title": "東プレ REALFORCE GX1 Plus 百式 日本語配列 ゲーミングキーボード X1PCH1",
-    "percent_off": 31,
-    "brand": "REALFORCE",
-    "genre": "キーボード・マウス",
-    "price": 50232
-  },
   "B0F99FCSX7": {
     "first_seen": "2026-07-27",
     "first_seen_at": "2026-07-27T12:00:00+09:00",
@@ -1738,16 +1758,6 @@
     "brand": "UGREEN",
     "genre": "充電器",
     "price": 5290
-  },
-  "B0CJR74NF3": {
-    "first_seen": "2026-08-13",
-    "first_seen_at": "2026-08-13T22:45:41+09:00",
-    "last_seen": "2026-11-15",
-    "title": "ロジクール ワイヤレスマウス PEBBLE MOUSE2 M350sGY 薄型 静音 Bluetooth Logi Bolt マウス 無線 ワイヤレス 左右対称 Easy-Switch 4000dpi 電池寿命24ケ月 windows mac Chrome Android iPad M350 グレージュ 国内正規品",
-    "percent_off": 19,
-    "brand": "Logicool(ロジクール)",
-    "genre": "キーボード・マウス",
-    "price": 2936
   },
   "B0CJR7JYGJ": {
     "first_seen": "2026-09-09",
@@ -1928,16 +1938,6 @@
     "brand": "Logicool G(ロジクール G)",
     "genre": "キーボード・マウス",
     "price": 4709
-  },
-  "B09R1TYM93": {
-    "first_seen": "2026-10-31",
-    "first_seen_at": "2026-10-31T21:15:12+09:00",
-    "last_seen": "2026-11-14",
-    "title": "GARMIN(ガーミン) vivomove Sport Slate/Black ハイブリッドスマートウォッチ 【日本正規品】 小",
-    "percent_off": 17,
-    "brand": "ガーミン(GARMIN)",
-    "genre": "スマートウォッチ",
-    "price": 24800
   },
   "B0CJR8MJTK": {
     "first_seen": "2026-10-01",
