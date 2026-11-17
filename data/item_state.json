@@ -219,6 +219,16 @@
     "genre": "Apple製品",
     "price": 433813
   },
+  "B0DGJL1BBJ": {
+    "first_seen": "2026-11-17",
+    "first_seen_at": "2026-11-17T11:14:58+09:00",
+    "last_seen": "2026-11-17",
+    "title": "Apple Watch Band - 46mmケース用ブラックスポーツバンド - S/M",
+    "percent_off": 5,
+    "brand": "Apple(アップル)",
+    "genre": "Apple製品",
+    "price": 7485
+  },
   "B0DL6PRKX9": {
     "first_seen": "2026-10-30",
     "first_seen_at": "2026-10-30T20:16:01+09:00",
@@ -284,10 +294,10 @@
     "first_seen_at": "2026-11-09T22:14:55+09:00",
     "last_seen": "2026-11-17",
     "title": "JBL LIVE BEAM 3 ワイヤレスイヤホン スマート充電ケース/LDAC対応ハイレゾ/マルチポイント/ハイブリッド ノイズキャンセリング/IP55防水/ワイヤレス充電対応/ブラック/JBLLIVEBEAM3BLK",
-    "percent_off": 52,
+    "percent_off": 49,
     "brand": "JBL",
     "genre": "ワイヤレスイヤホン",
-    "price": 13516
+    "price": 14374
   },
   "B0F3XFNHCW": {
     "first_seen": "2026-11-01",
@@ -317,7 +327,7 @@
     "percent_off": 19,
     "brand": "Sony",
     "genre": "ワイヤレスイヤホン",
-    "price": 7998
+    "price": 8058
   },
   "B071G7JJRL": {
     "first_seen": "2026-11-01",
@@ -489,6 +499,16 @@
     "genre": "充電器",
     "price": 6589
   },
+  "B09SYV3P5B": {
+    "first_seen": "2026-09-09",
+    "first_seen_at": "2026-09-09T00:14:37+09:00",
+    "last_seen": "2026-11-17",
+    "title": "Anker 736 Charger (Nano ll 100W) ブラック | (USB急速充電器 ACアダプタ) (ブラック)",
+    "percent_off": null,
+    "brand": "Anker",
+    "genre": "充電器",
+    "price": 8990
+  },
   "B0B2QR8HN9": {
     "first_seen": "2026-08-09",
     "first_seen_at": "2026-08-09T19:54:50+09:00",
@@ -508,16 +528,6 @@
     "brand": "Anker",
     "genre": "充電器",
     "price": 14990
-  },
-  "B09SYV3P5B": {
-    "first_seen": "2026-09-09",
-    "first_seen_at": "2026-09-09T00:14:37+09:00",
-    "last_seen": "2026-11-17",
-    "title": "Anker 736 Charger (Nano ll 100W) ブラック | (USB急速充電器 ACアダプタ) (ブラック)",
-    "percent_off": 34,
-    "brand": "Anker",
-    "genre": "充電器",
-    "price": 5900
   },
   "B0D6QQFMCS": {
     "first_seen": "2026-11-05",
@@ -539,16 +549,6 @@
     "genre": "充電器",
     "price": 2790
   },
-  "B08NVDHCD8": {
-    "first_seen": "2026-10-21",
-    "first_seen_at": "2026-10-21T00:15:48+09:00",
-    "last_seen": "2026-11-17",
-    "title": "Anker PowerPort mini 2個セット ブラック | （USB充電器 12W 2ポート）【PSE技術基準適合/折りたたみ式プラグ/PowerIQ/超コンパクトサイズ 】iPhone iPad Android各種対応 ホワイト",
-    "percent_off": 30,
-    "brand": "Anker",
-    "genre": "充電器",
-    "price": 1750
-  },
   "B0BF44GF6J": {
     "first_seen": "2026-08-09",
     "first_seen_at": "2026-08-09T01:55:23+09:00",
@@ -558,6 +558,16 @@
     "brand": "Anker",
     "genre": "充電器",
     "price": 2790
+  },
+  "B0D3GG4M9N": {
+    "first_seen": "2026-10-17",
+    "first_seen_at": "2026-10-17T23:15:03+09:00",
+    "last_seen": "2026-11-17",
+    "title": "Prime Charger (200W, 6 Ports, GaN) | 急速充電器 2000W type-c 6ポート【PSE技術基準適合/USB PD対応】MacBook USB PD対応Windows PC iPad iPhone Galaxy Android スマートフォン ノートPC 各種",
+    "percent_off": null,
+    "brand": "Anker",
+    "genre": "充電器",
+    "price": 12990
   },
   "B0D53VKL36": {
     "first_seen": "2026-07-29",
@@ -1048,6 +1058,16 @@
     "brand": "BRUNO",
     "genre": "エアフライヤー",
     "price": 12000
+  },
+  "B08NVDHCD8": {
+    "first_seen": "2026-10-21",
+    "first_seen_at": "2026-10-21T00:15:48+09:00",
+    "last_seen": "2026-11-17",
+    "title": "Anker PowerPort mini 2個セット ブラック | （USB充電器 12W 2ポート）【PSE技術基準適合/折りたたみ式プラグ/PowerIQ/超コンパクトサイズ 】iPhone iPad Android各種対応 ホワイト",
+    "percent_off": 30,
+    "brand": "Anker",
+    "genre": "充電器",
+    "price": 1750
   },
   "B08PTPTMH5": {
     "first_seen": "2026-10-13",
@@ -2170,13 +2190,6 @@
     "last_seen": "2026-11-12",
     "title": "エレコム モバイルバッテリー Qi2対応 ワイヤレス充電 5000mAh 薄型 約8.5mm 軽量 約120g MagSafe対応 マグネット式 最大15W USB-C 20W PD対応 パススルー iPhone 17/16/15 シリーズ対応 Switch 2 対応 機内持ち込み可 PSE技術基準適合 ブラック EC-C71BK",
     "percent_off": 17
-  },
-  "B0D3GG4M9N": {
-    "first_seen": "2026-10-17",
-    "first_seen_at": "2026-10-17T23:15:03+09:00",
-    "last_seen": "2026-11-12",
-    "title": "Prime Charger (200W, 6 Ports, GaN) | 急速充電器 2000W type-c 6ポート【PSE技術基準適合/USB PD対応】MacBook USB PD対応Windows PC iPad iPhone Galaxy Android スマートフォン ノートPC 各種",
-    "percent_off": 35
   },
   "B0DBKTPD26": {
     "first_seen": "2026-11-04",
