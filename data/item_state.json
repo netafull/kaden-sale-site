@@ -299,15 +299,15 @@
     "genre": "ワイヤレスイヤホン",
     "price": 14165
   },
-  "B0F3XFNHCW": {
-    "first_seen": "2026-11-01",
-    "first_seen_at": "2026-11-01T02:15:45+09:00",
+  "B0F3X9RLT6": {
+    "first_seen": "2026-11-07",
+    "first_seen_at": "2026-11-07T21:14:56+09:00",
     "last_seen": "2026-11-18",
-    "title": "ソニー(SONY) WF-C710N ブラック ワイヤレスイヤホン 高性能ノイズキャンセリング Bluetoothロングバッテリー 外音取り込み IPX4防滴性能 軽量 コンパクト マルチポイント接続",
+    "title": "ソニー(SONY) WF-C710N グラスブルー ワイヤレスイヤホン 高性能ノイズキャンセリング Bluetoothロングバッテリー 外音取り込み IPX4防滴性能 軽量 コンパクト マルチポイント接続",
     "percent_off": 29,
     "brand": "Sony",
     "genre": "ワイヤレスイヤホン",
-    "price": 12500
+    "price": 12570
   },
   "B0DPX7W84T": {
     "first_seen": "2026-10-20",
@@ -589,6 +589,16 @@
     "genre": "充電器",
     "price": 1584
   },
+  "B0DW2SYD5H": {
+    "first_seen": "2026-08-15",
+    "first_seen_at": "2026-08-15T20:37:29+09:00",
+    "last_seen": "2026-11-18",
+    "title": "Anker Zolo Wireless Charger (Magnetic, Pad) ブラック | ブラック Qi2対応 マグネット式 ワイヤレス充電/ワイヤレス出力 iPhone MagSafe対応 iPhone 18 / 18 / 17 / 16 / 14 シリーズ対応 Pixel10非対応",
+    "percent_off": 20,
+    "brand": "Anker",
+    "genre": "充電器",
+    "price": 2390
+  },
   "B0FK4P37J1": {
     "first_seen": "2026-10-07",
     "first_seen_at": "2026-10-07T22:16:02+09:00",
@@ -664,10 +674,10 @@
     "first_seen_at": "2026-08-02T11:33:18+09:00",
     "last_seen": "2026-11-18",
     "title": "IODATA GigaCrysta ゲーミングモニター 27型 WQHD 200Hz MiniLED (HDMI/DP) EX-GDQ271JLAQ | 量子ドット, HDR1000, 0.9ms, 無輝点保証",
-    "percent_off": 18,
+    "percent_off": 17,
     "brand": "アイオーデータ",
     "genre": "モニター・ディスプレイ",
-    "price": 49293
+    "price": 49341
   },
   "B0F5WNVHH7": {
     "first_seen": "2026-07-30",
@@ -687,7 +697,7 @@
     "percent_off": 28,
     "brand": "ガーミン(GARMIN)",
     "genre": "スマートウォッチ",
-    "price": 103780
+    "price": 103764
   },
   "B0FKH3WQ41": {
     "first_seen": "2026-07-30",
@@ -839,16 +849,6 @@
     "genre": "キーボード・マウス",
     "price": 2093
   },
-  "B0GL1B1L6Y": {
-    "first_seen": "2026-10-29",
-    "first_seen_at": "2026-10-29T23:15:00+09:00",
-    "last_seen": "2026-11-18",
-    "title": "東プレ REALFORCE GX1 Plus サザビー 日本語配列 ゲーミングキーボード X1PCS1",
-    "percent_off": 38,
-    "brand": "REALFORCE",
-    "genre": "キーボード・マウス",
-    "price": 37549
-  },
   "B0FL6ZD3WL": {
     "first_seen": "2026-07-29",
     "first_seen_at": "2026-07-29T12:00:00+09:00",
@@ -868,6 +868,16 @@
     "brand": "エレコム(ELECOM)",
     "genre": "キーボード・マウス",
     "price": 5290
+  },
+  "B0GL1G8PQZ": {
+    "first_seen": "2026-10-30",
+    "first_seen_at": "2026-10-30T18:15:39+09:00",
+    "last_seen": "2026-11-18",
+    "title": "東プレ REALFORCE GX1 Plus νガンダム (ニューガンダム) 日本語配列 ゲーミングキーボード X1PCN1",
+    "percent_off": 31,
+    "brand": "REALFORCE",
+    "genre": "キーボード・マウス",
+    "price": 41531
   },
   "B07PJW2X2F": {
     "first_seen": "2026-07-26",
@@ -939,6 +949,16 @@
     "genre": "キーボード・マウス",
     "price": 2936
   },
+  "B0D9Y1J4NH": {
+    "first_seen": "2026-09-26",
+    "first_seen_at": "2026-09-26T10:14:59+09:00",
+    "last_seen": "2026-11-18",
+    "title": "【Amazon.co.jp限定】 ロジクール 静音 ワイヤレス トラックボール マウス 無線 M575SPd 国内正規品 | 筋肉緊張を軽減するエルゴノミックデザイン、Bluetooth、Logibolt、電池式（単三形乾電池x1）、windows、maOS、 iPadOS、ChromeOS、ブラック、M575、M575SP、Amazon.co.jp限定壁紙ダウンロード付き",
+    "percent_off": 19,
+    "brand": "Logicool(ロジクール)",
+    "genre": "キーボード・マウス",
+    "price": 6900
+  },
   "B08K2CHMWK": {
     "first_seen": "2026-08-04",
     "first_seen_at": "2026-08-04T18:28:41+09:00",
@@ -958,16 +978,6 @@
     "brand": "Logicool G(ロジクール G)",
     "genre": "キーボード・マウス",
     "price": 4709
-  },
-  "B0D9Y1J4NH": {
-    "first_seen": "2026-09-26",
-    "first_seen_at": "2026-09-26T10:14:59+09:00",
-    "last_seen": "2026-11-18",
-    "title": "【Amazon.co.jp限定】 ロジクール 静音 ワイヤレス トラックボール マウス 無線 M575SPd 国内正規品 | 筋肉緊張を軽減するエルゴノミックデザイン、Bluetooth、Logibolt、電池式（単三形乾電池x1）、windows、maOS、 iPadOS、ChromeOS、ブラック、M575、M575SP、Amazon.co.jp限定壁紙ダウンロード付き",
-    "percent_off": 19,
-    "brand": "Logicool(ロジクール)",
-    "genre": "キーボード・マウス",
-    "price": 6900
   },
   "B0BKPL1VKW": {
     "first_seen": "2026-11-13",
@@ -1028,6 +1038,26 @@
     "brand": "BRUNO",
     "genre": "エアフライヤー",
     "price": 12000
+  },
+  "B0F3XFNHCW": {
+    "first_seen": "2026-11-01",
+    "first_seen_at": "2026-11-01T02:15:45+09:00",
+    "last_seen": "2026-11-18",
+    "title": "ソニー(SONY) WF-C710N ブラック ワイヤレスイヤホン 高性能ノイズキャンセリング Bluetoothロングバッテリー 外音取り込み IPX4防滴性能 軽量 コンパクト マルチポイント接続",
+    "percent_off": 29,
+    "brand": "Sony",
+    "genre": "ワイヤレスイヤホン",
+    "price": 12500
+  },
+  "B0GL1B1L6Y": {
+    "first_seen": "2026-10-29",
+    "first_seen_at": "2026-10-29T23:15:00+09:00",
+    "last_seen": "2026-11-18",
+    "title": "東プレ REALFORCE GX1 Plus サザビー 日本語配列 ゲーミングキーボード X1PCS1",
+    "percent_off": 38,
+    "brand": "REALFORCE",
+    "genre": "キーボード・マウス",
+    "price": 37549
   },
   "B0GSVNFT8T": {
     "first_seen": "2026-09-30",
@@ -1171,16 +1201,6 @@
       }
     ]
   },
-  "B0DW2SYD5H": {
-    "first_seen": "2026-08-15",
-    "first_seen_at": "2026-08-15T20:37:29+09:00",
-    "last_seen": "2026-11-17",
-    "title": "Anker Zolo Wireless Charger (Magnetic, Pad) ブラック | ブラック Qi2対応 マグネット式 ワイヤレス充電/ワイヤレス出力 iPhone MagSafe対応 iPhone 18 / 18 / 17 / 16 / 14 シリーズ対応 Pixel10非対応",
-    "percent_off": 20,
-    "brand": "Anker",
-    "genre": "充電器",
-    "price": 2390
-  },
   "B0BWF463MW": {
     "first_seen": "2026-08-04",
     "first_seen_at": "2026-08-04T12:38:09+09:00",
@@ -1280,16 +1300,6 @@
     "brand": "Razer(レイザー)",
     "genre": "キーボード・マウス",
     "price": 16744
-  },
-  "B0GL1G8PQZ": {
-    "first_seen": "2026-10-30",
-    "first_seen_at": "2026-10-30T18:15:39+09:00",
-    "last_seen": "2026-11-17",
-    "title": "東プレ REALFORCE GX1 Plus νガンダム (ニューガンダム) 日本語配列 ゲーミングキーボード X1PCN1",
-    "percent_off": 31,
-    "brand": "REALFORCE",
-    "genre": "キーボード・マウス",
-    "price": 41531
   },
   "B0CX4FKYCS": {
     "first_seen": "2026-10-10",
@@ -2190,13 +2200,6 @@
     "last_seen": "2026-11-13",
     "title": "BRUNO ブルーノ エアフライヤー ガラスエアフライヤー ノンフライヤー フライヤー 家庭用 油なし 卓上 アジフライ 自宅用 温度調節 コンパクト 一人暮らし 簡単収納 ノンオイル ヘルシー カロリーオフ 油分カット 揚げ物 温め直し レシピ グレージュ （レシピ付き）BOE122-GRG",
     "percent_off": 16
-  },
-  "B0F3X9RLT6": {
-    "first_seen": "2026-11-07",
-    "first_seen_at": "2026-11-07T21:14:56+09:00",
-    "last_seen": "2026-11-13",
-    "title": "ソニー(SONY) WF-C710N グラスブルー ワイヤレスイヤホン 高性能ノイズキャンセリング Bluetoothロングバッテリー 外音取り込み IPX4防滴性能 軽量 コンパクト マルチポイント接続",
-    "percent_off": 28
   },
   "B0F99DF9RQ": {
     "first_seen": "2026-08-26",
