@@ -399,16 +399,6 @@
     "genre": "モバイルバッテリー",
     "price": 2150
   },
-  "B0FTZ46NF8": {
-    "first_seen": "2026-11-04",
-    "first_seen_at": "2026-11-04T00:15:51+09:00",
-    "last_seen": "2026-11-17",
-    "title": "CIO 半固体モバイルバッテリー 25W 5000mAh SMARTCOBY Ex04 Wireless2.2 CABLE SS5K (ブラック) | Qi2.2 ワイヤレス充電 25W / Type-C USB-C ケーブル内蔵 20W, iPhone18対応, Pixel10対応, Galaxy S26対応",
-    "percent_off": null,
-    "brand": "CIO",
-    "genre": "モバイルバッテリー",
-    "price": 7130
-  },
   "B0D9J5MSBH": {
     "first_seen": "2026-10-15",
     "first_seen_at": "2026-10-15T01:15:57+09:00",
@@ -648,6 +638,16 @@
     "brand": "UGREEN",
     "genre": "充電器",
     "price": 4380
+  },
+  "B08PTPTMH5": {
+    "first_seen": "2026-10-13",
+    "first_seen_at": "2026-10-13T09:15:04+09:00",
+    "last_seen": "2026-11-17",
+    "title": "KIOXIA(キオクシア) 旧東芝メモリ microSD 128GB UHS-I Class10 (最大読出速度100MB/s) Nintendo Switch動作確認済 国内サポート正規品 メーカー保証5年 KLMEA128G",
+    "percent_off": 15,
+    "brand": "KIOXIA",
+    "genre": "SSD・メモリーカード",
+    "price": 2290
   },
   "B0GF26RSYQ": {
     "first_seen": "2026-07-27",
@@ -1009,16 +1009,6 @@
     "genre": "キーボード・マウス",
     "price": 4373
   },
-  "B07NDM4CQZ": {
-    "first_seen": "2026-10-08",
-    "first_seen_at": "2026-10-08T22:14:47+09:00",
-    "last_seen": "2026-11-17",
-    "title": "エレコム USB キーボード ワイヤレス (レシーバー付属) メンブレン コンパクトキーボード ブラック TK-FDM105TXBK",
-    "percent_off": 15,
-    "brand": "エレコム(ELECOM)",
-    "genre": "キーボード・マウス",
-    "price": 1790
-  },
   "B0G4CC1S2F": {
     "first_seen": "2026-10-30",
     "first_seen_at": "2026-10-30T19:14:56+09:00",
@@ -1038,6 +1028,26 @@
     "brand": "BRUNO",
     "genre": "エアフライヤー",
     "price": 12000
+  },
+  "B0FTZ46NF8": {
+    "first_seen": "2026-11-04",
+    "first_seen_at": "2026-11-04T00:15:51+09:00",
+    "last_seen": "2026-11-17",
+    "title": "CIO 半固体モバイルバッテリー 25W 5000mAh SMARTCOBY Ex04 Wireless2.2 CABLE SS5K (ブラック) | Qi2.2 ワイヤレス充電 25W / Type-C USB-C ケーブル内蔵 20W, iPhone18対応, Pixel10対応, Galaxy S26対応",
+    "percent_off": null,
+    "brand": "CIO",
+    "genre": "モバイルバッテリー",
+    "price": 7130
+  },
+  "B07NDM4CQZ": {
+    "first_seen": "2026-10-08",
+    "first_seen_at": "2026-10-08T22:14:47+09:00",
+    "last_seen": "2026-11-17",
+    "title": "エレコム USB キーボード ワイヤレス (レシーバー付属) メンブレン コンパクトキーボード ブラック TK-FDM105TXBK",
+    "percent_off": 15,
+    "brand": "エレコム(ELECOM)",
+    "genre": "キーボード・マウス",
+    "price": 1790
   },
   "B0D3GG4M9N": {
     "first_seen": "2026-10-17",
@@ -1078,16 +1088,6 @@
     "brand": "Anker",
     "genre": "充電器",
     "price": 1750
-  },
-  "B08PTPTMH5": {
-    "first_seen": "2026-10-13",
-    "first_seen_at": "2026-10-13T09:15:04+09:00",
-    "last_seen": "2026-11-17",
-    "title": "KIOXIA(キオクシア) 旧東芝メモリ microSD 128GB UHS-I Class10 (最大読出速度100MB/s) Nintendo Switch動作確認済 国内サポート正規品 メーカー保証5年 KLMEA128G",
-    "percent_off": 15,
-    "brand": "KIOXIA",
-    "genre": "SSD・メモリーカード",
-    "price": 2290
   },
   "B0FQFQDN6K": {
     "first_seen": "2026-10-13",
