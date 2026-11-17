@@ -294,10 +294,10 @@
     "first_seen_at": "2026-11-09T22:14:55+09:00",
     "last_seen": "2026-11-18",
     "title": "JBL LIVE BEAM 3 ワイヤレスイヤホン スマート充電ケース/LDAC対応ハイレゾ/マルチポイント/ハイブリッド ノイズキャンセリング/IP55防水/ワイヤレス充電対応/ブラック/JBLLIVEBEAM3BLK",
-    "percent_off": 49,
+    "percent_off": 50,
     "brand": "JBL",
     "genre": "ワイヤレスイヤホン",
-    "price": 14178
+    "price": 14165
   },
   "B0F3XFNHCW": {
     "first_seen": "2026-11-01",
@@ -469,6 +469,16 @@
     "genre": "充電器",
     "price": 3990
   },
+  "B0GSVNFT8T": {
+    "first_seen": "2026-09-30",
+    "first_seen_at": "2026-09-30T05:14:49+09:00",
+    "last_seen": "2026-11-18",
+    "title": "UGREEN 100W充電器 USB-C×3+USB-A×1 4ポート充電器 タッチモニター搭載/画面切り替え可能 PD3.0/PPS/QC4対応 | ボタン一つで縦横表示/アニメ絵文字表示/リアルタイム充電状況 PD/PPS/QC対応, MacBook/iPhone18/17/16/15/Galaxy S26 ultra/Xperia他各種対応",
+    "percent_off": 39,
+    "brand": "UGREEN",
+    "genre": "充電器",
+    "price": 6080
+  },
   "B0D53VJJ7F": {
     "first_seen": "2026-07-28",
     "first_seen_at": "2026-07-28T12:00:00+09:00",
@@ -599,16 +609,6 @@
     "genre": "充電器",
     "price": 1584
   },
-  "B0FK4P37J1": {
-    "first_seen": "2026-10-07",
-    "first_seen_at": "2026-10-07T22:16:02+09:00",
-    "last_seen": "2026-11-18",
-    "title": "UGREEN 30W PD充電器 USB-C*3 急速充電器 PSE技術基準適合 PD3.0対応GaNⅡ type c | タイプc充電器 iphone18/17/16/15/iPad/GalaxyS25-S10/Android各種機器対応 3*USB-Cポート",
-    "percent_off": 20,
-    "brand": "UGREEN",
-    "genre": "充電器",
-    "price": 1980
-  },
   "B0CTC7KYZF": {
     "first_seen": "2026-09-26",
     "first_seen_at": "2026-09-26T23:15:00+09:00",
@@ -728,6 +728,16 @@
     "brand": "ガーミン(GARMIN)",
     "genre": "スマートウォッチ",
     "price": 67800
+  },
+  "B0F5WR3KP9": {
+    "first_seen": "2026-10-20",
+    "first_seen_at": "2026-10-20T21:15:01+09:00",
+    "last_seen": "2026-11-18",
+    "title": "HUAWEI WATCH FIT 4 Pro スマートウォッチ 薄型軽量 大画面 GPS内蔵 10日間ロングバッテリー ゴルフ 心電図 睡眠 ブラック | iPhone対応 android対応 ゴルフ機能 アウトドアに適した気圧計と測位システム 1.82インチ 3000nitsディスプレイ サファイアガラス チタン合金ベゼル LINE通知 健康管理 情緒測定 ランニング 防水",
+    "percent_off": 21,
+    "brand": "HUAWEI(ファーウェイ)",
+    "genre": "スマートウォッチ",
+    "price": 29200
   },
   "B0GX8DRYCX": {
     "first_seen": "2026-09-03",
@@ -1029,15 +1039,15 @@
     "genre": "エアフライヤー",
     "price": 12000
   },
-  "B0GSVNFT8T": {
-    "first_seen": "2026-09-30",
-    "first_seen_at": "2026-09-30T05:14:49+09:00",
+  "B0FK4P37J1": {
+    "first_seen": "2026-10-07",
+    "first_seen_at": "2026-10-07T22:16:02+09:00",
     "last_seen": "2026-11-18",
-    "title": "UGREEN 100W充電器 USB-C×3+USB-A×1 4ポート充電器 タッチモニター搭載/画面切り替え可能 PD3.0/PPS/QC4対応 | ボタン一つで縦横表示/アニメ絵文字表示/リアルタイム充電状況 PD/PPS/QC対応, MacBook/iPhone18/17/16/15/Galaxy S26 ultra/Xperia他各種対応",
-    "percent_off": 39,
+    "title": "UGREEN 30W PD充電器 USB-C*3 急速充電器 PSE技術基準適合 PD3.0対応GaNⅡ type c | タイプc充電器 iphone18/17/16/15/iPad/GalaxyS25-S10/Android各種機器対応 3*USB-Cポート",
+    "percent_off": 20,
     "brand": "UGREEN",
     "genre": "充電器",
-    "price": 6080
+    "price": 1980
   },
   "B0D53WHQD6": {
     "first_seen": "2026-09-01",
@@ -1930,16 +1940,6 @@
     "brand": "KIOXIA",
     "genre": "SSD・メモリーカード",
     "price": 1730
-  },
-  "B0F5WR3KP9": {
-    "first_seen": "2026-10-20",
-    "first_seen_at": "2026-10-20T21:15:01+09:00",
-    "last_seen": "2026-11-15",
-    "title": "HUAWEI WATCH FIT 4 Pro スマートウォッチ 薄型軽量 大画面 GPS内蔵 10日間ロングバッテリー ゴルフ 心電図 睡眠 ブラック | iPhone対応 android対応 ゴルフ機能 アウトドアに適した気圧計と測位システム 1.82インチ 3000nitsディスプレイ サファイアガラス チタン合金ベゼル LINE通知 健康管理 情緒測定 ランニング 防水",
-    "percent_off": 21,
-    "brand": "HUAWEI(ファーウェイ)",
-    "genre": "スマートウォッチ",
-    "price": 29500
   },
   "B0GVJG7D7K": {
     "first_seen": "2026-07-31",
