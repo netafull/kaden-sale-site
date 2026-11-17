@@ -297,7 +297,7 @@
     "percent_off": 49,
     "brand": "JBL",
     "genre": "ワイヤレスイヤホン",
-    "price": 14179
+    "price": 14178
   },
   "B0F3XFNHCW": {
     "first_seen": "2026-11-01",
@@ -429,6 +429,16 @@
     "genre": "充電器",
     "price": 4880
   },
+  "B0BF9ZYCQ5": {
+    "first_seen": "2026-07-31",
+    "first_seen_at": "2026-07-31T12:00:00+09:00",
+    "last_seen": "2026-11-18",
+    "title": "【VGP受賞】Belkin 充電器 USB-C 2ポート PPS規格対応 GaN採用 小型 ACアダプター タイプC 急速充電 軽量【PD3.0対応 /PSE認証/折りたたみ式プラグ】45W(25W+20W) MacBook Windows PC Surface Pro iPad iPhone 17,16～12対応 Galaxy Android スマホ 各種ノートPC対応 WCH011dqWH",
+    "percent_off": 42,
+    "brand": "Belkin",
+    "genre": "充電器",
+    "price": 2782
+  },
   "B096S2CTHS": {
     "first_seen": "2026-10-20",
     "first_seen_at": "2026-10-20T00:15:15+09:00",
@@ -458,16 +468,6 @@
     "brand": "Anker",
     "genre": "充電器",
     "price": 3990
-  },
-  "B0GSVNFT8T": {
-    "first_seen": "2026-09-30",
-    "first_seen_at": "2026-09-30T05:14:49+09:00",
-    "last_seen": "2026-11-18",
-    "title": "UGREEN 100W充電器 USB-C×3+USB-A×1 4ポート充電器 タッチモニター搭載/画面切り替え可能 PD3.0/PPS/QC4対応 | ボタン一つで縦横表示/アニメ絵文字表示/リアルタイム充電状況 PD/PPS/QC対応, MacBook/iPhone18/17/16/15/Galaxy S26 ultra/Xperia他各種対応",
-    "percent_off": 39,
-    "brand": "UGREEN",
-    "genre": "充電器",
-    "price": 6080
   },
   "B0D53VJJ7F": {
     "first_seen": "2026-07-28",
@@ -598,6 +598,16 @@
     "brand": "UGREEN",
     "genre": "充電器",
     "price": 1584
+  },
+  "B0FK4P37J1": {
+    "first_seen": "2026-10-07",
+    "first_seen_at": "2026-10-07T22:16:02+09:00",
+    "last_seen": "2026-11-18",
+    "title": "UGREEN 30W PD充電器 USB-C*3 急速充電器 PSE技術基準適合 PD3.0対応GaNⅡ type c | タイプc充電器 iphone18/17/16/15/iPad/GalaxyS25-S10/Android各種機器対応 3*USB-Cポート",
+    "percent_off": 20,
+    "brand": "UGREEN",
+    "genre": "充電器",
+    "price": 1980
   },
   "B0CTC7KYZF": {
     "first_seen": "2026-09-26",
@@ -1019,6 +1029,16 @@
     "genre": "エアフライヤー",
     "price": 12000
   },
+  "B0GSVNFT8T": {
+    "first_seen": "2026-09-30",
+    "first_seen_at": "2026-09-30T05:14:49+09:00",
+    "last_seen": "2026-11-18",
+    "title": "UGREEN 100W充電器 USB-C×3+USB-A×1 4ポート充電器 タッチモニター搭載/画面切り替え可能 PD3.0/PPS/QC4対応 | ボタン一つで縦横表示/アニメ絵文字表示/リアルタイム充電状況 PD/PPS/QC対応, MacBook/iPhone18/17/16/15/Galaxy S26 ultra/Xperia他各種対応",
+    "percent_off": 39,
+    "brand": "UGREEN",
+    "genre": "充電器",
+    "price": 6080
+  },
   "B0D53WHQD6": {
     "first_seen": "2026-09-01",
     "first_seen_at": "2026-09-01T22:14:34+09:00",
@@ -1029,16 +1049,6 @@
     "genre": "充電器",
     "price": 6589
   },
-  "B0FK4P37J1": {
-    "first_seen": "2026-10-07",
-    "first_seen_at": "2026-10-07T22:16:02+09:00",
-    "last_seen": "2026-11-18",
-    "title": "UGREEN 30W PD充電器 USB-C*3 急速充電器 PSE技術基準適合 PD3.0対応GaNⅡ type c | タイプc充電器 iphone18/17/16/15/iPad/GalaxyS25-S10/Android各種機器対応 3*USB-Cポート",
-    "percent_off": 20,
-    "brand": "UGREEN",
-    "genre": "充電器",
-    "price": 1980
-  },
   "B0DB1HFZLK": {
     "first_seen": "2026-11-17",
     "first_seen_at": "2026-11-17T23:15:39+09:00",
@@ -1048,16 +1058,6 @@
     "brand": "Anker",
     "genre": "モバイルバッテリー",
     "price": 9990
-  },
-  "B0BF9ZYCQ5": {
-    "first_seen": "2026-07-31",
-    "first_seen_at": "2026-07-31T12:00:00+09:00",
-    "last_seen": "2026-11-18",
-    "title": "【VGP受賞】Belkin 充電器 USB-C 2ポート PPS規格対応 GaN採用 小型 ACアダプター タイプC 急速充電 軽量【PD3.0対応 /PSE認証/折りたたみ式プラグ】45W(25W+20W) MacBook Windows PC Surface Pro iPad iPhone 17,16～12対応 Galaxy Android スマホ 各種ノートPC対応 WCH011dqWH",
-    "percent_off": 42,
-    "brand": "Belkin",
-    "genre": "充電器",
-    "price": 2782
   },
   "B0D53T41CB": {
     "first_seen": "2026-11-05",
