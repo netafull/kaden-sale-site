@@ -294,10 +294,10 @@
     "first_seen_at": "2026-11-09T22:14:55+09:00",
     "last_seen": "2026-11-18",
     "title": "JBL LIVE BEAM 3 ワイヤレスイヤホン スマート充電ケース/LDAC対応ハイレゾ/マルチポイント/ハイブリッド ノイズキャンセリング/IP55防水/ワイヤレス充電対応/ブラック/JBLLIVEBEAM3BLK",
-    "percent_off": 50,
+    "percent_off": 49,
     "brand": "JBL",
     "genre": "ワイヤレスイヤホン",
-    "price": 14000
+    "price": 14179
   },
   "B0F3XFNHCW": {
     "first_seen": "2026-11-01",
@@ -379,16 +379,6 @@
     "genre": "モバイルバッテリー",
     "price": 8990
   },
-  "B0DB1HFZLK": {
-    "first_seen": "2026-11-17",
-    "first_seen_at": "2026-11-17T23:15:39+09:00",
-    "last_seen": "2026-11-18",
-    "title": "Anker MagGo Power Bank (10000mAh, Slim) ホワイト | モバイルバッテリー 10000mAh Qi2認証 ワイヤレス充電 最大出力15W マグセーフ対応 マグネット式ワイヤレス充電対応 コンパクト 薄型 小型 magsafe iPhone 18 / 17 / 16 / 15 シリーズ対応",
-    "percent_off": null,
-    "brand": "Anker",
-    "genre": "モバイルバッテリー",
-    "price": 9990
-  },
   "B0FTZ46NF8": {
     "first_seen": "2026-11-04",
     "first_seen_at": "2026-11-04T00:15:51+09:00",
@@ -429,16 +419,6 @@
     "genre": "充電器",
     "price": 4880
   },
-  "B0BF9ZYCQ5": {
-    "first_seen": "2026-07-31",
-    "first_seen_at": "2026-07-31T12:00:00+09:00",
-    "last_seen": "2026-11-18",
-    "title": "【VGP受賞】Belkin 充電器 USB-C 2ポート PPS規格対応 GaN採用 小型 ACアダプター タイプC 急速充電 軽量【PD3.0対応 /PSE認証/折りたたみ式プラグ】45W(25W+20W) MacBook Windows PC Surface Pro iPad iPhone 17,16～12対応 Galaxy Android スマホ 各種ノートPC対応 WCH011dqWH",
-    "percent_off": 42,
-    "brand": "Belkin",
-    "genre": "充電器",
-    "price": 2782
-  },
   "B096S2CTHS": {
     "first_seen": "2026-10-20",
     "first_seen_at": "2026-10-20T00:15:15+09:00",
@@ -469,16 +449,6 @@
     "genre": "充電器",
     "price": 3990
   },
-  "B0GSVNFT8T": {
-    "first_seen": "2026-09-30",
-    "first_seen_at": "2026-09-30T05:14:49+09:00",
-    "last_seen": "2026-11-18",
-    "title": "UGREEN 100W充電器 USB-C×3+USB-A×1 4ポート充電器 タッチモニター搭載/画面切り替え可能 PD3.0/PPS/QC4対応 | ボタン一つで縦横表示/アニメ絵文字表示/リアルタイム充電状況 PD/PPS/QC対応, MacBook/iPhone18/17/16/15/Galaxy S26 ultra/Xperia他各種対応",
-    "percent_off": 39,
-    "brand": "UGREEN",
-    "genre": "充電器",
-    "price": 6080
-  },
   "B0D53VJJ7F": {
     "first_seen": "2026-07-28",
     "first_seen_at": "2026-07-28T12:00:00+09:00",
@@ -488,6 +458,26 @@
     "brand": "CIO",
     "genre": "充電器",
     "price": 6589
+  },
+  "B0D53WHQD6": {
+    "first_seen": "2026-09-01",
+    "first_seen_at": "2026-09-01T22:14:34+09:00",
+    "last_seen": "2026-11-18",
+    "title": "CIO NovaPort TRIOⅡ 65W 2C1A PD急速充電器 USB-C×2+USB-A×1 3台同時充電 世界最小級 (ホワイト) | ノートPC対応, MacBook対応, iPhone対応, iPad対応, Android対応, 電力を自動最適配分",
+    "percent_off": null,
+    "brand": "CIO",
+    "genre": "充電器",
+    "price": 6589
+  },
+  "B0CM66LY5F": {
+    "first_seen": "2026-10-17",
+    "first_seen_at": "2026-10-17T21:15:05+09:00",
+    "last_seen": "2026-11-18",
+    "title": "Anker MagGo Wireless Charging Station (Foldable 3-in-1) ブラック | 旅行 / 持ち運び 充電器 / ワイヤレス充電器 / magsafe充電器 / apple watch 充電器 / Qi2 15W / magsafe対応 / Airpods充電 / iPhone 18 / 17 / 16 シリーズ",
+    "percent_off": null,
+    "brand": "Anker",
+    "genre": "充電器",
+    "price": 14990
   },
   "B09SYV3P5B": {
     "first_seen": "2026-09-09",
@@ -519,6 +509,16 @@
     "genre": "充電器",
     "price": 2979
   },
+  "B0D6QQFMCS": {
+    "first_seen": "2026-11-05",
+    "first_seen_at": "2026-11-05T21:15:35+09:00",
+    "last_seen": "2026-11-18",
+    "title": "Anker MagGo Wireless Charger (2-in-1, Stand) ブラック | Qi2対応 マグネット式 2-in-1 ワイヤレス充電ステーション/ワイヤレス出力 MagSafe対応 iPhone 18 / 17 / 16 / 14 シリーズ対応",
+    "percent_off": null,
+    "brand": "Anker",
+    "genre": "充電器",
+    "price": 6990
+  },
   "B0BF43HS1G": {
     "first_seen": "2026-07-27",
     "first_seen_at": "2026-07-27T12:00:00+09:00",
@@ -548,16 +548,6 @@
     "brand": "Anker",
     "genre": "充電器",
     "price": 2790
-  },
-  "B0D53T41CB": {
-    "first_seen": "2026-11-05",
-    "first_seen_at": "2026-11-05T22:15:45+09:00",
-    "last_seen": "2026-11-18",
-    "title": "CIO NovaPort DUOⅡ 65W PD急速充電器 USB-C×2 2台同時充電 世界最小級（ホワイト） | ノートPC対応, MacBook対応, iPhone対応, iPad対応, 電力を自動最適配分",
-    "percent_off": null,
-    "brand": "CIO",
-    "genre": "充電器",
-    "price": 5480
   },
   "B0D53VKL36": {
     "first_seen": "2026-07-29",
@@ -598,6 +588,16 @@
     "brand": "UGREEN",
     "genre": "充電器",
     "price": 1584
+  },
+  "B0FK4P37J1": {
+    "first_seen": "2026-10-07",
+    "first_seen_at": "2026-10-07T22:16:02+09:00",
+    "last_seen": "2026-11-18",
+    "title": "UGREEN 30W PD充電器 USB-C*3 急速充電器 PSE技術基準適合 PD3.0対応GaNⅡ type c | タイプc充電器 iphone18/17/16/15/iPad/GalaxyS25-S10/Android各種機器対応 3*USB-Cポート",
+    "percent_off": 20,
+    "brand": "UGREEN",
+    "genre": "充電器",
+    "price": 1980
   },
   "B0CTC7KYZF": {
     "first_seen": "2026-09-26",
@@ -1009,6 +1009,46 @@
     "genre": "エアフライヤー",
     "price": 12000
   },
+  "B0DB1HFZLK": {
+    "first_seen": "2026-11-17",
+    "first_seen_at": "2026-11-17T23:15:39+09:00",
+    "last_seen": "2026-11-18",
+    "title": "Anker MagGo Power Bank (10000mAh, Slim) ホワイト | モバイルバッテリー 10000mAh Qi2認証 ワイヤレス充電 最大出力15W マグセーフ対応 マグネット式ワイヤレス充電対応 コンパクト 薄型 小型 magsafe iPhone 18 / 17 / 16 / 15 シリーズ対応",
+    "percent_off": null,
+    "brand": "Anker",
+    "genre": "モバイルバッテリー",
+    "price": 9990
+  },
+  "B0BF9ZYCQ5": {
+    "first_seen": "2026-07-31",
+    "first_seen_at": "2026-07-31T12:00:00+09:00",
+    "last_seen": "2026-11-18",
+    "title": "【VGP受賞】Belkin 充電器 USB-C 2ポート PPS規格対応 GaN採用 小型 ACアダプター タイプC 急速充電 軽量【PD3.0対応 /PSE認証/折りたたみ式プラグ】45W(25W+20W) MacBook Windows PC Surface Pro iPad iPhone 17,16～12対応 Galaxy Android スマホ 各種ノートPC対応 WCH011dqWH",
+    "percent_off": 42,
+    "brand": "Belkin",
+    "genre": "充電器",
+    "price": 2782
+  },
+  "B0GSVNFT8T": {
+    "first_seen": "2026-09-30",
+    "first_seen_at": "2026-09-30T05:14:49+09:00",
+    "last_seen": "2026-11-18",
+    "title": "UGREEN 100W充電器 USB-C×3+USB-A×1 4ポート充電器 タッチモニター搭載/画面切り替え可能 PD3.0/PPS/QC4対応 | ボタン一つで縦横表示/アニメ絵文字表示/リアルタイム充電状況 PD/PPS/QC対応, MacBook/iPhone18/17/16/15/Galaxy S26 ultra/Xperia他各種対応",
+    "percent_off": 39,
+    "brand": "UGREEN",
+    "genre": "充電器",
+    "price": 6080
+  },
+  "B0D53T41CB": {
+    "first_seen": "2026-11-05",
+    "first_seen_at": "2026-11-05T22:15:45+09:00",
+    "last_seen": "2026-11-18",
+    "title": "CIO NovaPort DUOⅡ 65W PD急速充電器 USB-C×2 2台同時充電 世界最小級（ホワイト） | ノートPC対応, MacBook対応, iPhone対応, iPad対応, 電力を自動最適配分",
+    "percent_off": null,
+    "brand": "CIO",
+    "genre": "充電器",
+    "price": 5480
+  },
   "B0F6NC41DZ": {
     "first_seen": "2026-08-06",
     "first_seen_at": "2026-08-06T21:18:24+09:00",
@@ -1050,16 +1090,6 @@
       }
     ]
   },
-  "B0FK4P37J1": {
-    "first_seen": "2026-10-07",
-    "first_seen_at": "2026-10-07T22:16:02+09:00",
-    "last_seen": "2026-11-18",
-    "title": "UGREEN 30W PD充電器 USB-C*3 急速充電器 PSE技術基準適合 PD3.0対応GaNⅡ type c | タイプc充電器 iphone18/17/16/15/iPad/GalaxyS25-S10/Android各種機器対応 3*USB-Cポート",
-    "percent_off": 20,
-    "brand": "UGREEN",
-    "genre": "充電器",
-    "price": 1980
-  },
   "B0GHNXTK95": {
     "first_seen": "2026-11-01",
     "first_seen_at": "2026-11-01T01:14:55+09:00",
@@ -1089,16 +1119,6 @@
     "brand": "UGREEN",
     "genre": "モバイルバッテリー",
     "price": 3116
-  },
-  "B0D6QQFMCS": {
-    "first_seen": "2026-11-05",
-    "first_seen_at": "2026-11-05T21:15:35+09:00",
-    "last_seen": "2026-11-17",
-    "title": "Anker MagGo Wireless Charger (2-in-1, Stand) ブラック | Qi2対応 マグネット式 2-in-1 ワイヤレス充電ステーション/ワイヤレス出力 MagSafe対応 iPhone 18 / 17 / 16 / 14 シリーズ対応",
-    "percent_off": null,
-    "brand": "Anker",
-    "genre": "充電器",
-    "price": 6990
   },
   "B0G64K1H7N": {
     "first_seen": "2026-11-17",
@@ -1270,16 +1290,6 @@
     "brand": "Anker",
     "genre": "モバイルバッテリー",
     "price": 8990
-  },
-  "B0CM66LY5F": {
-    "first_seen": "2026-10-17",
-    "first_seen_at": "2026-10-17T21:15:05+09:00",
-    "last_seen": "2026-11-17",
-    "title": "Anker MagGo Wireless Charging Station (Foldable 3-in-1) ブラック | 旅行 / 持ち運び 充電器 / ワイヤレス充電器 / magsafe充電器 / apple watch 充電器 / Qi2 15W / magsafe対応 / Airpods充電 / iPhone 18 / 17 / 16 シリーズ",
-    "percent_off": null,
-    "brand": "Anker",
-    "genre": "充電器",
-    "price": 14990
   },
   "B08PTPTMH5": {
     "first_seen": "2026-10-13",
@@ -3062,13 +3072,6 @@
     "last_seen": "2026-11-11",
     "title": "CIO NovaPort TRIOⅡ 65W 3C PD急速充電器 USB-C×3 3台同時充電 軽量 世界最小級 (ホワイト) | ノートPC対応, MacBook対応, iPhone対応, iPad対応, Android対応, 電力を自動最適配分",
     "percent_off": 35
-  },
-  "B0D53WHQD6": {
-    "first_seen": "2026-09-01",
-    "first_seen_at": "2026-09-01T22:14:34+09:00",
-    "last_seen": "2026-11-11",
-    "title": "CIO NovaPort TRIOⅡ 65W 2C1A PD急速充電器 USB-C×2+USB-A×1 3台同時充電 世界最小級 (ホワイト) | ノートPC対応, MacBook対応, iPhone対応, iPad対応, Android対応, 電力を自動最適配分",
-    "percent_off": 34
   },
   "B0F43S7J2N": {
     "first_seen": "2026-11-04",
