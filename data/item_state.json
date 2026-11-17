@@ -297,17 +297,17 @@
     "percent_off": 49,
     "brand": "JBL",
     "genre": "ワイヤレスイヤホン",
-    "price": 14374
+    "price": 14190
   },
   "B0F3XFNHCW": {
     "first_seen": "2026-11-01",
     "first_seen_at": "2026-11-01T02:15:45+09:00",
     "last_seen": "2026-11-17",
     "title": "ソニー(SONY) WF-C710N ブラック ワイヤレスイヤホン 高性能ノイズキャンセリング Bluetoothロングバッテリー 外音取り込み IPX4防滴性能 軽量 コンパクト マルチポイント接続",
-    "percent_off": 28,
+    "percent_off": 29,
     "brand": "Sony",
     "genre": "ワイヤレスイヤホン",
-    "price": 12626
+    "price": 12500
   },
   "B0DPX7W84T": {
     "first_seen": "2026-10-20",
@@ -499,16 +499,6 @@
     "genre": "充電器",
     "price": 6589
   },
-  "B09SYV3P5B": {
-    "first_seen": "2026-09-09",
-    "first_seen_at": "2026-09-09T00:14:37+09:00",
-    "last_seen": "2026-11-17",
-    "title": "Anker 736 Charger (Nano ll 100W) ブラック | (USB急速充電器 ACアダプタ) (ブラック)",
-    "percent_off": null,
-    "brand": "Anker",
-    "genre": "充電器",
-    "price": 8990
-  },
   "B0B2QR8HN9": {
     "first_seen": "2026-08-09",
     "first_seen_at": "2026-08-09T19:54:50+09:00",
@@ -559,16 +549,6 @@
     "genre": "充電器",
     "price": 2790
   },
-  "B0D3GG4M9N": {
-    "first_seen": "2026-10-17",
-    "first_seen_at": "2026-10-17T23:15:03+09:00",
-    "last_seen": "2026-11-17",
-    "title": "Prime Charger (200W, 6 Ports, GaN) | 急速充電器 2000W type-c 6ポート【PSE技術基準適合/USB PD対応】MacBook USB PD対応Windows PC iPad iPhone Galaxy Android スマートフォン ノートPC 各種",
-    "percent_off": null,
-    "brand": "Anker",
-    "genre": "充電器",
-    "price": 12990
-  },
   "B0D53VKL36": {
     "first_seen": "2026-07-29",
     "first_seen_at": "2026-07-29T12:00:00+09:00",
@@ -609,6 +589,16 @@
     "genre": "充電器",
     "price": 1390
   },
+  "B0DL993DZB": {
+    "first_seen": "2026-10-16",
+    "first_seen_at": "2026-10-16T19:15:14+09:00",
+    "last_seen": "2026-11-17",
+    "title": "UGREEN 卓上急速充電器 200W Type-C 6C2A 8ポート PPS 5A/PD3.0/QC4+規格対応 電源コード付き 縦型省スペース | 8ポート付き USB-C*6とUSB-A*2 充電保護システム iPhone18/17/16/15/14/MacBook/iPad/Galaxy/Android各種/その他USB-C機器対応 PSE技術基準適合 ベース付き",
+    "percent_off": 22,
+    "brand": "UGREEN",
+    "genre": "充電器",
+    "price": 11500
+  },
   "B07WGPPZQK": {
     "first_seen": "2026-10-17",
     "first_seen_at": "2026-10-17T06:15:09+09:00",
@@ -639,6 +629,16 @@
     "genre": "充電器",
     "price": 3180
   },
+  "B0G64NF1FQ": {
+    "first_seen": "2026-09-16",
+    "first_seen_at": "2026-09-16T01:14:30+09:00",
+    "last_seen": "2026-11-17",
+    "title": "UGREEN Air 急速充電器 45W Type-C 薄型設計 当社比67%小型化超薄モデル PD3.0/PPS/QC4/SCP対応 折り畳み式 | USB-C 新生代GaNInfinity™チップ＋UGREEN独自Airpyra技術 MacBook/PC/iPad/iPhone18/17/16/15/14/13/12シリーズ対応 PSE認証済",
+    "percent_off": 20,
+    "brand": "UGREEN",
+    "genre": "充電器",
+    "price": 3350
+  },
   "B091BGMKYS": {
     "first_seen": "2026-07-27",
     "first_seen_at": "2026-07-27T12:00:00+09:00",
@@ -649,35 +649,15 @@
     "genre": "充電器",
     "price": 4380
   },
-  "B0DL993DZB": {
-    "first_seen": "2026-10-16",
-    "first_seen_at": "2026-10-16T19:15:14+09:00",
+  "B0D3GG4M9N": {
+    "first_seen": "2026-10-17",
+    "first_seen_at": "2026-10-17T23:15:03+09:00",
     "last_seen": "2026-11-17",
-    "title": "UGREEN 卓上急速充電器 200W Type-C 6C2A 8ポート PPS 5A/PD3.0/QC4+規格対応 電源コード付き 縦型省スペース | 8ポート付き USB-C*6とUSB-A*2 充電保護システム iPhone18/17/16/15/14/MacBook/iPad/Galaxy/Android各種/その他USB-C機器対応 PSE技術基準適合 ベース付き",
-    "percent_off": null,
-    "brand": "UGREEN",
+    "title": "Prime Charger (200W, 6 Ports, GaN) | 急速充電器 2000W type-c 6ポート【PSE技術基準適合/USB PD対応】MacBook USB PD対応Windows PC iPad iPhone Galaxy Android スマートフォン ノートPC 各種",
+    "percent_off": 15,
+    "brand": "Anker",
     "genre": "充電器",
-    "price": 14780
-  },
-  "B0G64NF1FQ": {
-    "first_seen": "2026-09-16",
-    "first_seen_at": "2026-09-16T01:14:30+09:00",
-    "last_seen": "2026-11-17",
-    "title": "UGREEN Air 急速充電器 45W Type-C 薄型設計 当社比67%小型化超薄モデル PD3.0/PPS/QC4/SCP対応 折り畳み式 | USB-C 新生代GaNInfinity™チップ＋UGREEN独自Airpyra技術 MacBook/PC/iPad/iPhone18/17/16/15/14/13/12シリーズ対応 PSE認証済",
-    "percent_off": null,
-    "brand": "UGREEN",
-    "genre": "充電器",
-    "price": 4180
-  },
-  "B0CD1NVW7R": {
-    "first_seen": "2026-09-15",
-    "first_seen_at": "2026-09-15T23:14:42+09:00",
-    "last_seen": "2026-11-17",
-    "title": "UGREEN NexodePro 充電器 当社比超薄15mm 65W Type-C 2C1A 3ポート PD3.0/PPS4.5A 対応 折り畳み式 | USB-C *2とUSB-A*1 QC4.0/SCP/FCP対応 MacBook/ノートPC/iPad/iPhone18/17/16/15/14/13/12シリーズ対応 GaN搭載【VGP 2025／レッドドット・デザイン賞受賞】",
-    "percent_off": null,
-    "brand": "UGREEN",
-    "genre": "充電器",
-    "price": 7580
+    "price": 11000
   },
   "B0GF26RSYQ": {
     "first_seen": "2026-07-27",
@@ -727,7 +707,7 @@
     "percent_off": 28,
     "brand": "ガーミン(GARMIN)",
     "genre": "スマートウォッチ",
-    "price": 103908
+    "price": 103888
   },
   "B0FKH3WQ41": {
     "first_seen": "2026-07-30",
@@ -1058,6 +1038,26 @@
     "brand": "BRUNO",
     "genre": "エアフライヤー",
     "price": 12000
+  },
+  "B09SYV3P5B": {
+    "first_seen": "2026-09-09",
+    "first_seen_at": "2026-09-09T00:14:37+09:00",
+    "last_seen": "2026-11-17",
+    "title": "Anker 736 Charger (Nano ll 100W) ブラック | (USB急速充電器 ACアダプタ) (ブラック)",
+    "percent_off": null,
+    "brand": "Anker",
+    "genre": "充電器",
+    "price": 8990
+  },
+  "B0CD1NVW7R": {
+    "first_seen": "2026-09-15",
+    "first_seen_at": "2026-09-15T23:14:42+09:00",
+    "last_seen": "2026-11-17",
+    "title": "UGREEN NexodePro 充電器 当社比超薄15mm 65W Type-C 2C1A 3ポート PD3.0/PPS4.5A 対応 折り畳み式 | USB-C *2とUSB-A*1 QC4.0/SCP/FCP対応 MacBook/ノートPC/iPad/iPhone18/17/16/15/14/13/12シリーズ対応 GaN搭載【VGP 2025／レッドドット・デザイン賞受賞】",
+    "percent_off": null,
+    "brand": "UGREEN",
+    "genre": "充電器",
+    "price": 7580
   },
   "B08NVDHCD8": {
     "first_seen": "2026-10-21",
