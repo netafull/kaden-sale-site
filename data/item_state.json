@@ -299,15 +299,15 @@
     "genre": "ワイヤレスイヤホン",
     "price": 14165
   },
-  "B0F3X9RLT6": {
-    "first_seen": "2026-11-07",
-    "first_seen_at": "2026-11-07T21:14:56+09:00",
+  "B0F3XFNHCW": {
+    "first_seen": "2026-11-01",
+    "first_seen_at": "2026-11-01T02:15:45+09:00",
     "last_seen": "2026-11-18",
-    "title": "ソニー(SONY) WF-C710N グラスブルー ワイヤレスイヤホン 高性能ノイズキャンセリング Bluetoothロングバッテリー 外音取り込み IPX4防滴性能 軽量 コンパクト マルチポイント接続",
+    "title": "ソニー(SONY) WF-C710N ブラック ワイヤレスイヤホン 高性能ノイズキャンセリング Bluetoothロングバッテリー 外音取り込み IPX4防滴性能 軽量 コンパクト マルチポイント接続",
     "percent_off": 29,
     "brand": "Sony",
     "genre": "ワイヤレスイヤホン",
-    "price": 12570
+    "price": 12500
   },
   "B0DPX7W84T": {
     "first_seen": "2026-10-20",
@@ -559,6 +559,16 @@
     "genre": "充電器",
     "price": 5480
   },
+  "B0DMN885ZF": {
+    "first_seen": "2026-08-05",
+    "first_seen_at": "2026-08-05T03:07:44+09:00",
+    "last_seen": "2026-11-18",
+    "title": "UGREEN 45W USB-C 急速充電器 Type-C PD GaNⅡ充電器 PSE適合タイプc充電器 PD/PPS/SCP/QC3.0 | MacBook PD対応 iphone17/15/14/13/12 iPad Galaxy Android スマートフォン ノートPC 各機種対応",
+    "percent_off": 27,
+    "brand": "UGREEN",
+    "genre": "充電器",
+    "price": 2180
+  },
   "B0C8K2LZD2": {
     "first_seen": "2026-10-23",
     "first_seen_at": "2026-10-23T19:15:02+09:00",
@@ -568,6 +578,16 @@
     "brand": "Anker",
     "genre": "充電器",
     "price": 1340
+  },
+  "B0GF29FF6N": {
+    "first_seen": "2026-10-05",
+    "first_seen_at": "2026-10-05T00:14:58+09:00",
+    "last_seen": "2026-11-18",
+    "title": "Anker Nano Charger (45W, Display, スイングプラグ) ブルー | 45W USB-C急速充電器 充電状況が見えるディスプレイ搭載。iPhoneのモデルを検知し出力を最適化。180度スイングプラグ採用。iPhone iPad Galaxy MacBook Air対応 PSE技術基準適合",
+    "percent_off": 25,
+    "brand": "Anker",
+    "genre": "充電器",
+    "price": 2990
   },
   "B06ZXXQGZ8": {
     "first_seen": "2026-10-13",
@@ -618,16 +638,6 @@
     "brand": "UGREEN",
     "genre": "充電器",
     "price": 17800
-  },
-  "B0FJS3P8NT": {
-    "first_seen": "2026-07-27",
-    "first_seen_at": "2026-07-27T12:00:00+09:00",
-    "last_seen": "2026-11-18",
-    "title": "UGREEN 45W USB-C*4+USB-A*1 急速充電器 Type-C GaNⅡ タイプc PSE適合/PD3.0/PPS/SCP/QC3.0 | マルチポートタイプCアダプター iPhone18/17/16/15 Galaxy S26 S25 Ultra、Pixel 10、iPadに対応",
-    "percent_off": 20,
-    "brand": "UGREEN",
-    "genre": "充電器",
-    "price": 3180
   },
   "B0G64NF1FQ": {
     "first_seen": "2026-09-16",
@@ -697,7 +707,7 @@
     "percent_off": 28,
     "brand": "ガーミン(GARMIN)",
     "genre": "スマートウォッチ",
-    "price": 103764
+    "price": 103744
   },
   "B0FKH3WQ41": {
     "first_seen": "2026-07-30",
@@ -889,6 +899,16 @@
     "genre": "キーボード・マウス",
     "price": 1899
   },
+  "B08K2RGTHY": {
+    "first_seen": "2026-07-26",
+    "first_seen_at": "2026-07-26T12:00:00+09:00",
+    "last_seen": "2026-11-18",
+    "title": "ロジクール ワイヤレスマウス キーボード セット MK295GP 静音 耐水 国内正規品 | 無線、USBレシーバー接続、Unifying非対応、グラファイト、MK295",
+    "percent_off": 26,
+    "brand": "Logicool(ロジクール)",
+    "genre": "キーボード・マウス",
+    "price": 3073
+  },
   "B0CLGVLBMV": {
     "first_seen": "2026-08-23",
     "first_seen_at": "2026-08-23T20:37:59+09:00",
@@ -999,6 +1019,16 @@
     "genre": "キーボード・マウス",
     "price": 4373
   },
+  "B0GL26M6Z2": {
+    "first_seen": "2026-08-21",
+    "first_seen_at": "2026-08-21T12:19:55+09:00",
+    "last_seen": "2026-11-18",
+    "title": "エレコム ワイヤレスキーボード 静音 フルサイズ テンキー付 無線2.4GHz Windows macOS ChromeOS メンブレン式 ブラック TK-QT11FDMABK",
+    "percent_off": 16,
+    "brand": "エレコム(ELECOM)",
+    "genre": "キーボード・マウス",
+    "price": 2690
+  },
   "B0CZ8X3DH8": {
     "first_seen": "2026-07-26",
     "first_seen_at": "2026-07-26T12:00:00+09:00",
@@ -1039,15 +1069,25 @@
     "genre": "エアフライヤー",
     "price": 12000
   },
-  "B0F3XFNHCW": {
-    "first_seen": "2026-11-01",
-    "first_seen_at": "2026-11-01T02:15:45+09:00",
+  "B0F3X9RLT6": {
+    "first_seen": "2026-11-07",
+    "first_seen_at": "2026-11-07T21:14:56+09:00",
     "last_seen": "2026-11-18",
-    "title": "ソニー(SONY) WF-C710N ブラック ワイヤレスイヤホン 高性能ノイズキャンセリング Bluetoothロングバッテリー 外音取り込み IPX4防滴性能 軽量 コンパクト マルチポイント接続",
+    "title": "ソニー(SONY) WF-C710N グラスブルー ワイヤレスイヤホン 高性能ノイズキャンセリング Bluetoothロングバッテリー 外音取り込み IPX4防滴性能 軽量 コンパクト マルチポイント接続",
     "percent_off": 29,
     "brand": "Sony",
     "genre": "ワイヤレスイヤホン",
-    "price": 12500
+    "price": 12570
+  },
+  "B0FJS3P8NT": {
+    "first_seen": "2026-07-27",
+    "first_seen_at": "2026-07-27T12:00:00+09:00",
+    "last_seen": "2026-11-18",
+    "title": "UGREEN 45W USB-C*4+USB-A*1 急速充電器 Type-C GaNⅡ タイプc PSE適合/PD3.0/PPS/SCP/QC3.0 | マルチポートタイプCアダプター iPhone18/17/16/15 Galaxy S26 S25 Ultra、Pixel 10、iPadに対応",
+    "percent_off": 20,
+    "brand": "UGREEN",
+    "genre": "充電器",
+    "price": 3180
   },
   "B0GL1B1L6Y": {
     "first_seen": "2026-10-29",
@@ -1391,16 +1431,6 @@
     "genre": "モバイルバッテリー",
     "price": 9990
   },
-  "B0GF29FF6N": {
-    "first_seen": "2026-10-05",
-    "first_seen_at": "2026-10-05T00:14:58+09:00",
-    "last_seen": "2026-11-17",
-    "title": "Anker Nano Charger (45W, Display, スイングプラグ) ブルー | 45W USB-C急速充電器 充電状況が見えるディスプレイ搭載。iPhoneのモデルを検知し出力を最適化。180度スイングプラグ採用。iPhone iPad Galaxy MacBook Air対応 PSE技術基準適合",
-    "percent_off": 25,
-    "brand": "Anker",
-    "genre": "充電器",
-    "price": 2990
-  },
   "B07WGPPZQK": {
     "first_seen": "2026-10-17",
     "first_seen_at": "2026-10-17T06:15:09+09:00",
@@ -1531,16 +1561,6 @@
     "genre": "充電器",
     "price": 25980
   },
-  "B0GL26M6Z2": {
-    "first_seen": "2026-08-21",
-    "first_seen_at": "2026-08-21T12:19:55+09:00",
-    "last_seen": "2026-11-17",
-    "title": "エレコム ワイヤレスキーボード 静音 フルサイズ テンキー付 無線2.4GHz Windows macOS ChromeOS メンブレン式 ブラック TK-QT11FDMABK",
-    "percent_off": 16,
-    "brand": "エレコム(ELECOM)",
-    "genre": "キーボード・マウス",
-    "price": 2690
-  },
   "B0B2QR2VC9": {
     "first_seen": "2026-11-09",
     "first_seen_at": "2026-11-09T23:14:46+09:00",
@@ -1651,16 +1671,6 @@
     "genre": "スマートウォッチ",
     "price": 52600
   },
-  "B08K2RGTHY": {
-    "first_seen": "2026-07-26",
-    "first_seen_at": "2026-07-26T12:00:00+09:00",
-    "last_seen": "2026-11-16",
-    "title": "ロジクール ワイヤレスマウス キーボード セット MK295GP 静音 耐水 国内正規品 | 無線、USBレシーバー接続、Unifying非対応、グラファイト、MK295",
-    "percent_off": 26,
-    "brand": "Logicool(ロジクール)",
-    "genre": "キーボード・マウス",
-    "price": 3073
-  },
   "B0FJRGKP9F": {
     "first_seen": "2026-10-13",
     "first_seen_at": "2026-10-13T22:15:31+09:00",
@@ -1740,16 +1750,6 @@
     "brand": "Apple(アップル)",
     "genre": "Apple製品",
     "price": 243654
-  },
-  "B0DMN885ZF": {
-    "first_seen": "2026-08-05",
-    "first_seen_at": "2026-08-05T03:07:44+09:00",
-    "last_seen": "2026-11-16",
-    "title": "UGREEN 45W USB-C 急速充電器 Type-C PD GaNⅡ充電器 PSE適合タイプc充電器 PD/PPS/SCP/QC3.0 | MacBook PD対応 iphone17/15/14/13/12 iPad Galaxy Android スマートフォン ノートPC 各機種対応",
-    "percent_off": 27,
-    "brand": "UGREEN",
-    "genre": "充電器",
-    "price": 2180
   },
   "B0DGJ3R51V": {
     "first_seen": "2026-11-15",
