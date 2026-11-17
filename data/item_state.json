@@ -199,16 +199,6 @@
     "genre": "Apple製品",
     "price": 146599
   },
-  "B0FQFQDN6K": {
-    "first_seen": "2026-10-13",
-    "first_seen_at": "2026-10-13T00:16:25+09:00",
-    "last_seen": "2026-11-17",
-    "title": "Apple AirPods Pro 3 ワイヤレスイヤホン、アクティブノイズキャンセリング、ライブ翻訳、心拍センサー、補聴機能、Bluetoothヘッドホン、空間オーディオ サウンド、USB-C充電ケース、防塵性能と耐汗耐水性能、「探す」対応、Qi充電",
-    "percent_off": null,
-    "brand": "Apple(アップル)",
-    "genre": "Apple製品",
-    "price": 42800
-  },
   "B0FWDCD7YC": {
     "first_seen": "2026-11-09",
     "first_seen_at": "2026-11-09T06:15:48+09:00",
@@ -679,6 +669,16 @@
     "genre": "充電器",
     "price": 7580
   },
+  "B08PTPTMH5": {
+    "first_seen": "2026-10-13",
+    "first_seen_at": "2026-10-13T09:15:04+09:00",
+    "last_seen": "2026-11-17",
+    "title": "KIOXIA(キオクシア) 旧東芝メモリ microSD 128GB UHS-I Class10 (最大読出速度100MB/s) Nintendo Switch動作確認済 国内サポート正規品 メーカー保証5年 KLMEA128G",
+    "percent_off": 15,
+    "brand": "KIOXIA",
+    "genre": "SSD・メモリーカード",
+    "price": 2290
+  },
   "B0GF26RSYQ": {
     "first_seen": "2026-07-27",
     "first_seen_at": "2026-07-27T12:00:00+09:00",
@@ -1058,6 +1058,16 @@
     "brand": "BRUNO",
     "genre": "エアフライヤー",
     "price": 12000
+  },
+  "B0FQFQDN6K": {
+    "first_seen": "2026-10-13",
+    "first_seen_at": "2026-10-13T00:16:25+09:00",
+    "last_seen": "2026-11-17",
+    "title": "Apple AirPods Pro 3 ワイヤレスイヤホン、アクティブノイズキャンセリング、ライブ翻訳、心拍センサー、補聴機能、Bluetoothヘッドホン、空間オーディオ サウンド、USB-C充電ケース、防塵性能と耐汗耐水性能、「探す」対応、Qi充電",
+    "percent_off": null,
+    "brand": "Apple(アップル)",
+    "genre": "Apple製品",
+    "price": 42800
   },
   "B0DL79BMXJ": {
     "first_seen": "2026-10-26",
@@ -1957,13 +1967,6 @@
     "last_seen": "2026-11-14",
     "title": "HUAWEI Band 11 Pro GPS搭載 スマートウォッチ 8.99mm/18g薄型軽量ボディ 高輝度 2000nits 1.62大画面 24時間睡眠管理 14日間持続バッテリー ランニングモード 情緒モニタリング LINE通知 ブラック",
     "percent_off": 18
-  },
-  "B08PTPTMH5": {
-    "first_seen": "2026-10-13",
-    "first_seen_at": "2026-10-13T09:15:04+09:00",
-    "last_seen": "2026-11-14",
-    "title": "KIOXIA(キオクシア) 旧東芝メモリ microSD 128GB UHS-I Class10 (最大読出速度100MB/s) Nintendo Switch動作確認済 国内サポート正規品 メーカー保証5年 KLMEA128G",
-    "percent_off": 15
   },
   "B0DW2LFVBB": {
     "first_seen": "2026-11-07",
