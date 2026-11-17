@@ -287,7 +287,7 @@
     "percent_off": 49,
     "brand": "JBL",
     "genre": "ワイヤレスイヤホン",
-    "price": 14190
+    "price": 14370
   },
   "B0F3XFNHCW": {
     "first_seen": "2026-11-01",
@@ -349,16 +349,6 @@
     "genre": "モバイルバッテリー",
     "price": 8386
   },
-  "B0CXNY69DC": {
-    "first_seen": "2026-10-07",
-    "first_seen_at": "2026-10-07T00:14:58+09:00",
-    "last_seen": "2026-11-17",
-    "title": "Anker Power Bank (20000mAh, 87W, Built-In USB-C ケーブル) ブラック | モバイルバッテリー 20000mAh 87W出力 大容量 ディスプレイ USB-Cケーブル内蔵【PD/PowerIQ搭載/PSE技術基準適合/急速充電】PC iPhone 18 / 17 / 16 / 15 MacBook 各種機器対応",
-    "percent_off": null,
-    "brand": "Anker",
-    "genre": "モバイルバッテリー",
-    "price": 9990
-  },
   "B0C3GTMX5M": {
     "first_seen": "2026-09-18",
     "first_seen_at": "2026-09-18T21:14:31+09:00",
@@ -369,16 +359,6 @@
     "genre": "モバイルバッテリー",
     "price": 6998
   },
-  "B0CX4C1TVK": {
-    "first_seen": "2026-07-27",
-    "first_seen_at": "2026-07-27T12:00:00+09:00",
-    "last_seen": "2026-11-17",
-    "title": "Anker Power Bank (10000mAh, Fusion, Built-In USB-C ケーブル) ブラック | 10K 30W出力モバイルバッテリー搭載 30W出力USB充電器 / LEDディスプレイ/ケーブル一体型/コンセント一体型/折りたたみ式プラグ 1台3役 / iPhone 18 / 17 / 16 / 15 Android その他各種機器対応",
-    "percent_off": null,
-    "brand": "Anker",
-    "genre": "モバイルバッテリー",
-    "price": 8990
-  },
   "B0DZ1TGX6T": {
     "first_seen": "2026-07-24",
     "first_seen_at": "2026-07-24T12:00:00+09:00",
@@ -388,6 +368,16 @@
     "brand": "UGREEN",
     "genre": "モバイルバッテリー",
     "price": 2150
+  },
+  "B0CX4C1TVK": {
+    "first_seen": "2026-07-27",
+    "first_seen_at": "2026-07-27T12:00:00+09:00",
+    "last_seen": "2026-11-17",
+    "title": "Anker Power Bank (10000mAh, Fusion, Built-In USB-C ケーブル) ブラック | 10K 30W出力モバイルバッテリー搭載 30W出力USB充電器 / LEDディスプレイ/ケーブル一体型/コンセント一体型/折りたたみ式プラグ 1台3役 / iPhone 18 / 17 / 16 / 15 Android その他各種機器対応",
+    "percent_off": null,
+    "brand": "Anker",
+    "genre": "モバイルバッテリー",
+    "price": 8990
   },
   "B0D9J5MSBH": {
     "first_seen": "2026-10-15",
@@ -458,16 +448,6 @@
     "brand": "Anker",
     "genre": "充電器",
     "price": 3990
-  },
-  "B0GSVNFT8T": {
-    "first_seen": "2026-09-30",
-    "first_seen_at": "2026-09-30T05:14:49+09:00",
-    "last_seen": "2026-11-17",
-    "title": "UGREEN 100W充電器 USB-C×3+USB-A×1 4ポート充電器 タッチモニター搭載/画面切り替え可能 PD3.0/PPS/QC4対応 | ボタン一つで縦横表示/アニメ絵文字表示/リアルタイム充電状況 PD/PPS/QC対応, MacBook/iPhone18/17/16/15/Galaxy S26 ultra/Xperia他各種対応",
-    "percent_off": 39,
-    "brand": "UGREEN",
-    "genre": "充電器",
-    "price": 6080
   },
   "B0D53VJJ7F": {
     "first_seen": "2026-07-28",
@@ -549,6 +529,16 @@
     "genre": "充電器",
     "price": 5480
   },
+  "B0FPCYJ6K5": {
+    "first_seen": "2026-09-26",
+    "first_seen_at": "2026-09-26T22:15:02+09:00",
+    "last_seen": "2026-11-17",
+    "title": "UGREEN 充電器 type-c 30W (2*USB-C+1*USB-A) 【PSE技術基準適合/PD3.0対応/30W急速充電/コンパクト】 | iphone18/17/16/15/14/13/iPad/GalaxyS25-S10/Google Pixel/AirPodsなどに対応",
+    "percent_off": 27,
+    "brand": "UGREEN",
+    "genre": "充電器",
+    "price": 1584
+  },
   "B0C8K2LZD2": {
     "first_seen": "2026-10-23",
     "first_seen_at": "2026-10-23T19:15:02+09:00",
@@ -558,16 +548,6 @@
     "brand": "Anker",
     "genre": "充電器",
     "price": 1340
-  },
-  "B0GF29FF6N": {
-    "first_seen": "2026-10-05",
-    "first_seen_at": "2026-10-05T00:14:58+09:00",
-    "last_seen": "2026-11-17",
-    "title": "Anker Nano Charger (45W, Display, スイングプラグ) ブルー | 45W USB-C急速充電器 充電状況が見えるディスプレイ搭載。iPhoneのモデルを検知し出力を最適化。180度スイングプラグ採用。iPhone iPad Galaxy MacBook Air対応 PSE技術基準適合",
-    "percent_off": 25,
-    "brand": "Anker",
-    "genre": "充電器",
-    "price": 2990
   },
   "B06ZXXQGZ8": {
     "first_seen": "2026-10-13",
@@ -579,16 +559,6 @@
     "genre": "充電器",
     "price": 1390
   },
-  "B07WGPPZQK": {
-    "first_seen": "2026-10-17",
-    "first_seen_at": "2026-10-17T06:15:09+09:00",
-    "last_seen": "2026-11-17",
-    "title": "Anker PowerWave 10 Stand | ワイヤレス充電器 Qi認証 iPhone 16シリーズ / 15シリーズ / 14シリーズ Galaxy 各種対応 最大10W出力",
-    "percent_off": null,
-    "brand": "Anker",
-    "genre": "充電器",
-    "price": 2499
-  },
   "B0DG93MZCR": {
     "first_seen": "2026-07-27",
     "first_seen_at": "2026-07-27T12:00:00+09:00",
@@ -598,6 +568,46 @@
     "brand": "UGREEN",
     "genre": "充電器",
     "price": 1584
+  },
+  "B0FJMD3Y45": {
+    "first_seen": "2026-09-27",
+    "first_seen_at": "2026-09-27T21:15:00+09:00",
+    "last_seen": "2026-11-17",
+    "title": "UGREEN 充電器 type-c 30W (2*USB-C+1*USB-A) 【PSE技術基準適合/PD3.0対応/30W急速充電/コンパクト】 | iPhone18/17/16/15/14/13/iPad/GalaxyS25-S10/Google Pixel/AirPodsなどに対応（ブルー）",
+    "percent_off": 20,
+    "brand": "UGREEN",
+    "genre": "充電器",
+    "price": 1584
+  },
+  "B0DG8Z9Y1R": {
+    "first_seen": "2026-08-11",
+    "first_seen_at": "2026-08-11T21:00:42+09:00",
+    "last_seen": "2026-11-17",
+    "title": "UGREEN 30W PD充電器 USB-C 急速充電器 タイプc充電器 GaNⅡ type c | PD3.0 PSE適合 タイプc iPhone18/17/16/15 GalaxyS24-S10 Google Pixelシリーズ iPadAirPodsなどに対応",
+    "percent_off": 20,
+    "brand": "UGREEN",
+    "genre": "充電器",
+    "price": 1350
+  },
+  "B0FLQ3W8X7": {
+    "first_seen": "2026-11-06",
+    "first_seen_at": "2026-11-06T23:16:09+09:00",
+    "last_seen": "2026-11-17",
+    "title": "UGREEN 充電器 type-c 30W (2*USB-C+1*USB-A) 【PSE技術基準適合/PD3.0対応/30W急速充電/コンパクト】 | GaN アダプター iphone18/17/16/15/14/13/iPad/GalaxyS25-S10/Google Pixel/AirPodsなどに対応（ピンク）",
+    "percent_off": 20,
+    "brand": "UGREEN",
+    "genre": "充電器",
+    "price": 1584
+  },
+  "B0FK4P37J1": {
+    "first_seen": "2026-10-07",
+    "first_seen_at": "2026-10-07T22:16:02+09:00",
+    "last_seen": "2026-11-17",
+    "title": "UGREEN 30W PD充電器 USB-C*3 急速充電器 PSE技術基準適合 PD3.0対応GaNⅡ type c | タイプc充電器 iphone18/17/16/15/iPad/GalaxyS25-S10/Android各種機器対応 3*USB-Cポート",
+    "percent_off": 20,
+    "brand": "UGREEN",
+    "genre": "充電器",
+    "price": 1980
   },
   "B0CTC7KYZF": {
     "first_seen": "2026-09-26",
@@ -1038,6 +1048,46 @@
     "brand": "BRUNO",
     "genre": "エアフライヤー",
     "price": 12000
+  },
+  "B0CXNY69DC": {
+    "first_seen": "2026-10-07",
+    "first_seen_at": "2026-10-07T00:14:58+09:00",
+    "last_seen": "2026-11-17",
+    "title": "Anker Power Bank (20000mAh, 87W, Built-In USB-C ケーブル) ブラック | モバイルバッテリー 20000mAh 87W出力 大容量 ディスプレイ USB-Cケーブル内蔵【PD/PowerIQ搭載/PSE技術基準適合/急速充電】PC iPhone 18 / 17 / 16 / 15 MacBook 各種機器対応",
+    "percent_off": null,
+    "brand": "Anker",
+    "genre": "モバイルバッテリー",
+    "price": 9990
+  },
+  "B0GSVNFT8T": {
+    "first_seen": "2026-09-30",
+    "first_seen_at": "2026-09-30T05:14:49+09:00",
+    "last_seen": "2026-11-17",
+    "title": "UGREEN 100W充電器 USB-C×3+USB-A×1 4ポート充電器 タッチモニター搭載/画面切り替え可能 PD3.0/PPS/QC4対応 | ボタン一つで縦横表示/アニメ絵文字表示/リアルタイム充電状況 PD/PPS/QC対応, MacBook/iPhone18/17/16/15/Galaxy S26 ultra/Xperia他各種対応",
+    "percent_off": 39,
+    "brand": "UGREEN",
+    "genre": "充電器",
+    "price": 6080
+  },
+  "B0GF29FF6N": {
+    "first_seen": "2026-10-05",
+    "first_seen_at": "2026-10-05T00:14:58+09:00",
+    "last_seen": "2026-11-17",
+    "title": "Anker Nano Charger (45W, Display, スイングプラグ) ブルー | 45W USB-C急速充電器 充電状況が見えるディスプレイ搭載。iPhoneのモデルを検知し出力を最適化。180度スイングプラグ採用。iPhone iPad Galaxy MacBook Air対応 PSE技術基準適合",
+    "percent_off": 25,
+    "brand": "Anker",
+    "genre": "充電器",
+    "price": 2990
+  },
+  "B07WGPPZQK": {
+    "first_seen": "2026-10-17",
+    "first_seen_at": "2026-10-17T06:15:09+09:00",
+    "last_seen": "2026-11-17",
+    "title": "Anker PowerWave 10 Stand | ワイヤレス充電器 Qi認証 iPhone 16シリーズ / 15シリーズ / 14シリーズ Galaxy 各種対応 最大10W出力",
+    "percent_off": null,
+    "brand": "Anker",
+    "genre": "充電器",
+    "price": 2499
   },
   "B0DL993DZB": {
     "first_seen": "2026-10-16",
@@ -1839,16 +1889,6 @@
     "genre": "モバイルバッテリー",
     "price": 9990
   },
-  "B0DG8Z9Y1R": {
-    "first_seen": "2026-08-11",
-    "first_seen_at": "2026-08-11T21:00:42+09:00",
-    "last_seen": "2026-11-15",
-    "title": "UGREEN 30W PD充電器 USB-C 急速充電器 タイプc充電器 GaNⅡ type c | PD3.0 PSE適合 タイプc iPhone18/17/16/15 GalaxyS24-S10 Google Pixelシリーズ iPadAirPodsなどに対応",
-    "percent_off": 20,
-    "brand": "UGREEN",
-    "genre": "充電器",
-    "price": 1350
-  },
   "B0DW2LPCFY": {
     "first_seen": "2026-11-14",
     "first_seen_at": "2026-11-14T23:22:00+09:00",
@@ -2293,13 +2333,6 @@
     "first_seen_at": "2026-11-04T09:15:07+09:00",
     "last_seen": "2026-11-12",
     "title": "エレコム 充電器 合計65W 3ポート Type-C USB-A USB PD対応 スイング式プラグ採用 ブラック EC-AC10367BK",
-    "percent_off": 14
-  },
-  "B0FJMD3Y45": {
-    "first_seen": "2026-09-27",
-    "first_seen_at": "2026-09-27T21:15:00+09:00",
-    "last_seen": "2026-11-12",
-    "title": "UGREEN 充電器 type-c 30W (2*USB-C+1*USB-A) 【PSE技術基準適合/PD3.0対応/30W急速充電/コンパクト】 | iPhone18/17/16/15/14/13/iPad/GalaxyS25-S10/Google Pixel/AirPodsなどに対応（ブルー）",
     "percent_off": 14
   },
   "B0DHTT13KN": {
@@ -2869,13 +2902,6 @@
     "title": "Anker Nano Charger (20W) ブルー | USB-C 急速充電器【PSE技術基準適合/PowerIQ 3.0",
     "percent_off": 21
   },
-  "B0FK4P37J1": {
-    "first_seen": "2026-10-07",
-    "first_seen_at": "2026-10-07T22:16:02+09:00",
-    "last_seen": "2026-11-11",
-    "title": "UGREEN 30W PD充電器 USB-C*3 急速充電器 PSE技術基準適合 PD3.0対応GaNⅡ type c | タイプc充電器 iphone18/17/16/15/iPad/GalaxyS25-S10/Android各種機器対応 3*USB-Cポート",
-    "percent_off": 20
-  },
   "B09R1S3MKH": {
     "first_seen": "2026-10-31",
     "first_seen_at": "2026-10-31T22:15:04+09:00",
@@ -3163,13 +3189,6 @@
     "title": "Anker Prime Wireless Charging Station (3-in-1, MagGo, AirCool, Foldable) | 旅行 / 持ち運び 充電器 / ワイヤレス充電器 / magsafe充電器 / apple watch 充電器 / Qi2 25W / magsafe対応 / Airpods充電 / iPhone 18 / 18 / 17 / 16シリーズ対応",
     "percent_off": 15
   },
-  "B0FLQ3W8X7": {
-    "first_seen": "2026-11-06",
-    "first_seen_at": "2026-11-06T23:16:09+09:00",
-    "last_seen": "2026-11-10",
-    "title": "UGREEN 充電器 type-c 30W (2*USB-C+1*USB-A) 【PSE技術基準適合/PD3.0対応/30W急速充電/コンパクト】 | GaN アダプター iphone18/17/16/15/14/13/iPad/GalaxyS25-S10/Google Pixel/AirPodsなどに対応（ピンク）",
-    "percent_off": 14
-  },
   "B0CYZ52VPX": {
     "first_seen": "2026-11-10",
     "first_seen_at": "2026-11-10T02:15:08+09:00",
@@ -3211,13 +3230,6 @@
     "last_seen": "2026-11-09",
     "title": "Belkin MagSafe対応 ワイヤレスモバイルバッテリー 5000mAh 最大7.5W キックスタンド付き ブラック | 7.5Wワイヤレス、USB-C最大15W、2台同時充電、PPS対応、パススルー充電、iPhone18~12・Android対応、カメラを妨げにくい薄型設計、PSE・中国CCC認証、1m USB-Cケーブル付属、2年保証・最大2,500米ドルCEW",
     "percent_off": 39
-  },
-  "B0FPCYJ6K5": {
-    "first_seen": "2026-09-26",
-    "first_seen_at": "2026-09-26T22:15:02+09:00",
-    "last_seen": "2026-11-09",
-    "title": "UGREEN 充電器 type-c 30W (2*USB-C+1*USB-A) 【PSE技術基準適合/PD3.0対応/30W急速充電/コンパクト】 | iphone18/17/16/15/14/13/iPad/GalaxyS25-S10/Google Pixel/AirPodsなどに対応",
-    "percent_off": 32
   },
   "B005EUPRB8": {
     "first_seen": "2026-11-05",
