@@ -329,6 +329,16 @@
     "genre": "ワイヤレスイヤホン",
     "price": 8055
   },
+  "B071G7JJRL": {
+    "first_seen": "2026-11-01",
+    "first_seen_at": "2026-11-01T16:15:01+09:00",
+    "last_seen": "2026-11-18",
+    "title": "ソニー(SONY) 有線イヤホン MDR-EX155 : カナル型 ライトブルー MDR-EX155 L",
+    "percent_off": 16,
+    "brand": "Sony",
+    "genre": "ワイヤレスイヤホン",
+    "price": 1291
+  },
   "B0F6NFHB31": {
     "first_seen": "2026-07-25",
     "first_seen_at": "2026-07-25T12:00:00+09:00",
@@ -449,21 +459,21 @@
     "genre": "充電器",
     "price": 3990
   },
+  "B0GSVNFT8T": {
+    "first_seen": "2026-09-30",
+    "first_seen_at": "2026-09-30T05:14:49+09:00",
+    "last_seen": "2026-11-18",
+    "title": "UGREEN 100W充電器 USB-C×3+USB-A×1 4ポート充電器 タッチモニター搭載/画面切り替え可能 PD3.0/PPS/QC4対応 | ボタン一つで縦横表示/アニメ絵文字表示/リアルタイム充電状況 PD/PPS/QC対応, MacBook/iPhone18/17/16/15/Galaxy S26 ultra/Xperia他各種対応",
+    "percent_off": 39,
+    "brand": "UGREEN",
+    "genre": "充電器",
+    "price": 6080
+  },
   "B0D53VJJ7F": {
     "first_seen": "2026-07-28",
     "first_seen_at": "2026-07-28T12:00:00+09:00",
     "last_seen": "2026-11-18",
     "title": "CIO NovaPort TRIOⅡ 65W 2C1A PD急速充電器 USB-C×2+USB-A×1 3台同時充電 世界最小級 (ブラック) | ノートPC対応, MacBook対応, iPhone対応, iPad対応, Android対応, 電力を自動最適配分",
-    "percent_off": null,
-    "brand": "CIO",
-    "genre": "充電器",
-    "price": 6589
-  },
-  "B0D53WHQD6": {
-    "first_seen": "2026-09-01",
-    "first_seen_at": "2026-09-01T22:14:34+09:00",
-    "last_seen": "2026-11-18",
-    "title": "CIO NovaPort TRIOⅡ 65W 2C1A PD急速充電器 USB-C×2+USB-A×1 3台同時充電 世界最小級 (ホワイト) | ノートPC対応, MacBook対応, iPhone対応, iPad対応, Android対応, 電力を自動最適配分",
     "percent_off": null,
     "brand": "CIO",
     "genre": "充電器",
@@ -588,16 +598,6 @@
     "brand": "UGREEN",
     "genre": "充電器",
     "price": 1584
-  },
-  "B0FK4P37J1": {
-    "first_seen": "2026-10-07",
-    "first_seen_at": "2026-10-07T22:16:02+09:00",
-    "last_seen": "2026-11-18",
-    "title": "UGREEN 30W PD充電器 USB-C*3 急速充電器 PSE技術基準適合 PD3.0対応GaNⅡ type c | タイプc充電器 iphone18/17/16/15/iPad/GalaxyS25-S10/Android各種機器対応 3*USB-Cポート",
-    "percent_off": 20,
-    "brand": "UGREEN",
-    "genre": "充電器",
-    "price": 1980
   },
   "B0CTC7KYZF": {
     "first_seen": "2026-09-26",
@@ -939,6 +939,16 @@
     "genre": "キーボード・マウス",
     "price": 2709
   },
+  "B07DVC25R2": {
+    "first_seen": "2026-07-26",
+    "first_seen_at": "2026-07-26T12:00:00+09:00",
+    "last_seen": "2026-11-18",
+    "title": "Logicool G ゲーミングマウス G304 LIGHTSPEED ワイヤレスマウス ブラック 軽量 99g 国内正規品 | HERO 12Kセンサー, 6個プログラムボタン, 250時間連続使用可能,PC ,windows, mac, 軽量マウス, PCゲーミングマウス,マウス, ファイナルファンタジー XIV 推奨モデル",
+    "percent_off": 18,
+    "brand": "Logicool G(ロジクール G)",
+    "genre": "キーボード・マウス",
+    "price": 4709
+  },
   "B0D9Y1J4NH": {
     "first_seen": "2026-09-26",
     "first_seen_at": "2026-09-26T10:14:59+09:00",
@@ -1009,6 +1019,26 @@
     "genre": "エアフライヤー",
     "price": 12000
   },
+  "B0D53WHQD6": {
+    "first_seen": "2026-09-01",
+    "first_seen_at": "2026-09-01T22:14:34+09:00",
+    "last_seen": "2026-11-18",
+    "title": "CIO NovaPort TRIOⅡ 65W 2C1A PD急速充電器 USB-C×2+USB-A×1 3台同時充電 世界最小級 (ホワイト) | ノートPC対応, MacBook対応, iPhone対応, iPad対応, Android対応, 電力を自動最適配分",
+    "percent_off": null,
+    "brand": "CIO",
+    "genre": "充電器",
+    "price": 6589
+  },
+  "B0FK4P37J1": {
+    "first_seen": "2026-10-07",
+    "first_seen_at": "2026-10-07T22:16:02+09:00",
+    "last_seen": "2026-11-18",
+    "title": "UGREEN 30W PD充電器 USB-C*3 急速充電器 PSE技術基準適合 PD3.0対応GaNⅡ type c | タイプc充電器 iphone18/17/16/15/iPad/GalaxyS25-S10/Android各種機器対応 3*USB-Cポート",
+    "percent_off": 20,
+    "brand": "UGREEN",
+    "genre": "充電器",
+    "price": 1980
+  },
   "B0DB1HFZLK": {
     "first_seen": "2026-11-17",
     "first_seen_at": "2026-11-17T23:15:39+09:00",
@@ -1028,16 +1058,6 @@
     "brand": "Belkin",
     "genre": "充電器",
     "price": 2782
-  },
-  "B0GSVNFT8T": {
-    "first_seen": "2026-09-30",
-    "first_seen_at": "2026-09-30T05:14:49+09:00",
-    "last_seen": "2026-11-18",
-    "title": "UGREEN 100W充電器 USB-C×3+USB-A×1 4ポート充電器 タッチモニター搭載/画面切り替え可能 PD3.0/PPS/QC4対応 | ボタン一つで縦横表示/アニメ絵文字表示/リアルタイム充電状況 PD/PPS/QC対応, MacBook/iPhone18/17/16/15/Galaxy S26 ultra/Xperia他各種対応",
-    "percent_off": 39,
-    "brand": "UGREEN",
-    "genre": "充電器",
-    "price": 6080
   },
   "B0D53T41CB": {
     "first_seen": "2026-11-05",
@@ -1161,16 +1181,6 @@
     "genre": "スマートウォッチ",
     "price": 67800
   },
-  "B07DVC25R2": {
-    "first_seen": "2026-07-26",
-    "first_seen_at": "2026-07-26T12:00:00+09:00",
-    "last_seen": "2026-11-17",
-    "title": "Logicool G ゲーミングマウス G304 LIGHTSPEED ワイヤレスマウス ブラック 軽量 99g 国内正規品 | HERO 12Kセンサー, 6個プログラムボタン, 250時間連続使用可能,PC ,windows, mac, 軽量マウス, PCゲーミングマウス,マウス, ファイナルファンタジー XIV 推奨モデル",
-    "percent_off": 18,
-    "brand": "Logicool G(ロジクール G)",
-    "genre": "キーボード・マウス",
-    "price": 4709
-  },
   "B0C3GTMX5M": {
     "first_seen": "2026-09-18",
     "first_seen_at": "2026-09-18T21:14:31+09:00",
@@ -1270,16 +1280,6 @@
     "brand": "REALFORCE",
     "genre": "キーボード・マウス",
     "price": 41531
-  },
-  "B071G7JJRL": {
-    "first_seen": "2026-11-01",
-    "first_seen_at": "2026-11-01T16:15:01+09:00",
-    "last_seen": "2026-11-17",
-    "title": "ソニー(SONY) 有線イヤホン MDR-EX155 : カナル型 ライトブルー MDR-EX155 L",
-    "percent_off": 16,
-    "brand": "Sony",
-    "genre": "ワイヤレスイヤホン",
-    "price": 1291
   },
   "B0CX4FKYCS": {
     "first_seen": "2026-10-10",
