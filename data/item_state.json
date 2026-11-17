@@ -399,16 +399,6 @@
     "genre": "モバイルバッテリー",
     "price": 2150
   },
-  "B0D9J5MSBH": {
-    "first_seen": "2026-10-15",
-    "first_seen_at": "2026-10-15T01:15:57+09:00",
-    "last_seen": "2026-11-17",
-    "title": "エレコム モバイルバッテリー 5000mAh ワイヤレス マグネット対応 7.5W スタンド付き Type-C ブラック DE-C53-5000BK",
-    "percent_off": 22,
-    "brand": "エレコム(ELECOM)",
-    "genre": "モバイルバッテリー",
-    "price": 1700
-  },
   "B0FTZ46NF8": {
     "first_seen": "2026-11-04",
     "first_seen_at": "2026-11-04T00:15:51+09:00",
@@ -418,6 +408,16 @@
     "brand": "CIO",
     "genre": "モバイルバッテリー",
     "price": 7130
+  },
+  "B0D9J5MSBH": {
+    "first_seen": "2026-10-15",
+    "first_seen_at": "2026-10-15T01:15:57+09:00",
+    "last_seen": "2026-11-17",
+    "title": "エレコム モバイルバッテリー 5000mAh ワイヤレス マグネット対応 7.5W スタンド付き Type-C ブラック DE-C53-5000BK",
+    "percent_off": 15,
+    "brand": "エレコム(ELECOM)",
+    "genre": "モバイルバッテリー",
+    "price": 1700
   },
   "B098SQSRRV": {
     "first_seen": "2026-07-31",
@@ -649,16 +649,6 @@
     "genre": "充電器",
     "price": 4380
   },
-  "B0D3GG4M9N": {
-    "first_seen": "2026-10-17",
-    "first_seen_at": "2026-10-17T23:15:03+09:00",
-    "last_seen": "2026-11-17",
-    "title": "Prime Charger (200W, 6 Ports, GaN) | 急速充電器 2000W type-c 6ポート【PSE技術基準適合/USB PD対応】MacBook USB PD対応Windows PC iPad iPhone Galaxy Android スマートフォン ノートPC 各種",
-    "percent_off": 15,
-    "brand": "Anker",
-    "genre": "充電器",
-    "price": 11000
-  },
   "B0GF26RSYQ": {
     "first_seen": "2026-07-27",
     "first_seen_at": "2026-07-27T12:00:00+09:00",
@@ -694,10 +684,10 @@
     "first_seen_at": "2026-07-30T12:00:00+09:00",
     "last_seen": "2026-11-17",
     "title": "HUAWEI WATCH FIT 4 スマートウォッチ 薄型軽量 1.82インチ大画面 アウトドアに適した気圧計と測位システム 通知 フィットネス ヘルストラッカー 情緒測定 10日間ロングバッテリー iOS/Android対応 ブラック",
-    "percent_off": 34,
+    "percent_off": 33,
     "brand": "HUAWEI(ファーウェイ)",
     "genre": "スマートウォッチ",
-    "price": 15850
+    "price": 16064
   },
   "B0DDCR5WYQ": {
     "first_seen": "2026-11-03",
@@ -757,7 +747,7 @@
     "percent_off": 17,
     "brand": "ガーミン(GARMIN)",
     "genre": "スマートウォッチ",
-    "price": 39590
+    "price": 39591
   },
   "B0B4JHS716": {
     "first_seen": "2026-09-25",
@@ -768,6 +758,16 @@
     "brand": "ガーミン(GARMIN)",
     "genre": "スマートウォッチ",
     "price": 24800
+  },
+  "B0GZ2NBP8V": {
+    "first_seen": "2026-09-23",
+    "first_seen_at": "2026-09-23T21:15:01+09:00",
+    "last_seen": "2026-11-17",
+    "title": "GARMIN(ガーミン)スマートウォッチ Forerunner 170 Whitestone/Cloud Blue スマートウォッチモード 約 10 日間 高精度GPS ランニングウォッチ iOS/Android AMOLEDディスプレイ1.2インチ マラソン 軽量 防水 心拍数 睡眠スコア 健康管理 Suicaタッチ決済 Garmin Pay",
+    "percent_off": 17,
+    "brand": "ガーミン(GARMIN)",
+    "genre": "スマートウォッチ",
+    "price": 39591
   },
   "B0BWF35J1G": {
     "first_seen": "2026-10-15",
@@ -949,16 +949,6 @@
     "genre": "キーボード・マウス",
     "price": 20000
   },
-  "B0D9Y1J4NH": {
-    "first_seen": "2026-09-26",
-    "first_seen_at": "2026-09-26T10:14:59+09:00",
-    "last_seen": "2026-11-17",
-    "title": "【Amazon.co.jp限定】 ロジクール 静音 ワイヤレス トラックボール マウス 無線 M575SPd 国内正規品 | 筋肉緊張を軽減するエルゴノミックデザイン、Bluetooth、Logibolt、電池式（単三形乾電池x1）、windows、maOS、 iPadOS、ChromeOS、ブラック、M575、M575SP、Amazon.co.jp限定壁紙ダウンロード付き",
-    "percent_off": 20,
-    "brand": "Logicool(ロジクール)",
-    "genre": "キーボード・マウス",
-    "price": 6800
-  },
   "B0CJR5HBMN": {
     "first_seen": "2026-08-04",
     "first_seen_at": "2026-08-04T21:17:38+09:00",
@@ -968,6 +958,16 @@
     "brand": "Logicool(ロジクール)",
     "genre": "キーボード・マウス",
     "price": 2936
+  },
+  "B0D9Y1J4NH": {
+    "first_seen": "2026-09-26",
+    "first_seen_at": "2026-09-26T10:14:59+09:00",
+    "last_seen": "2026-11-17",
+    "title": "【Amazon.co.jp限定】 ロジクール 静音 ワイヤレス トラックボール マウス 無線 M575SPd 国内正規品 | 筋肉緊張を軽減するエルゴノミックデザイン、Bluetooth、Logibolt、電池式（単三形乾電池x1）、windows、maOS、 iPadOS、ChromeOS、ブラック、M575、M575SP、Amazon.co.jp限定壁紙ダウンロード付き",
+    "percent_off": 19,
+    "brand": "Logicool(ロジクール)",
+    "genre": "キーボード・マウス",
+    "price": 6900
   },
   "B08K2CHMWK": {
     "first_seen": "2026-08-04",
@@ -1038,6 +1038,16 @@
     "brand": "BRUNO",
     "genre": "エアフライヤー",
     "price": 12000
+  },
+  "B0D3GG4M9N": {
+    "first_seen": "2026-10-17",
+    "first_seen_at": "2026-10-17T23:15:03+09:00",
+    "last_seen": "2026-11-17",
+    "title": "Prime Charger (200W, 6 Ports, GaN) | 急速充電器 2000W type-c 6ポート【PSE技術基準適合/USB PD対応】MacBook USB PD対応Windows PC iPad iPhone Galaxy Android スマートフォン ノートPC 各種",
+    "percent_off": 15,
+    "brand": "Anker",
+    "genre": "充電器",
+    "price": 11000
   },
   "B09SYV3P5B": {
     "first_seen": "2026-09-09",
@@ -1138,16 +1148,6 @@
     "brand": "Anker",
     "genre": "充電器",
     "price": 5490
-  },
-  "B0GZ2NBP8V": {
-    "first_seen": "2026-09-23",
-    "first_seen_at": "2026-09-23T21:15:01+09:00",
-    "last_seen": "2026-11-17",
-    "title": "GARMIN(ガーミン)スマートウォッチ Forerunner 170 Whitestone/Cloud Blue スマートウォッチモード 約 10 日間 高精度GPS ランニングウォッチ iOS/Android AMOLEDディスプレイ1.2インチ マラソン 軽量 防水 心拍数 睡眠スコア 健康管理 Suicaタッチ決済 Garmin Pay",
-    "percent_off": 17,
-    "brand": "ガーミン(GARMIN)",
-    "genre": "スマートウォッチ",
-    "price": 39591
   },
   "B0CXPJ6TJ9": {
     "first_seen": "2026-10-30",
