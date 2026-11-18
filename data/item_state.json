@@ -284,10 +284,10 @@
     "first_seen_at": "2026-11-09T22:14:55+09:00",
     "last_seen": "2026-11-18",
     "title": "JBL LIVE BEAM 3 ワイヤレスイヤホン スマート充電ケース/LDAC対応ハイレゾ/マルチポイント/ハイブリッド ノイズキャンセリング/IP55防水/ワイヤレス充電対応/ブラック/JBLLIVEBEAM3BLK",
-    "percent_off": 50,
+    "percent_off": 49,
     "brand": "JBL",
     "genre": "ワイヤレスイヤホン",
-    "price": 14000
+    "price": 14178
   },
   "B0F3XFNHCW": {
     "first_seen": "2026-11-01",
@@ -618,6 +618,16 @@
     "brand": "Anker",
     "genre": "充電器",
     "price": 2390
+  },
+  "B0FK4P37J1": {
+    "first_seen": "2026-10-07",
+    "first_seen_at": "2026-10-07T22:16:02+09:00",
+    "last_seen": "2026-11-18",
+    "title": "UGREEN 30W PD充電器 USB-C*3 急速充電器 PSE技術基準適合 PD3.0対応GaNⅡ type c | タイプc充電器 iphone18/17/16/15/iPad/GalaxyS25-S10/Android各種機器対応 3*USB-Cポート",
+    "percent_off": 20,
+    "brand": "UGREEN",
+    "genre": "充電器",
+    "price": 1980
   },
   "B0CTC7KYZF": {
     "first_seen": "2026-09-26",
@@ -1058,16 +1068,6 @@
     "brand": "BRUNO",
     "genre": "エアフライヤー",
     "price": 12000
-  },
-  "B0FK4P37J1": {
-    "first_seen": "2026-10-07",
-    "first_seen_at": "2026-10-07T22:16:02+09:00",
-    "last_seen": "2026-11-18",
-    "title": "UGREEN 30W PD充電器 USB-C*3 急速充電器 PSE技術基準適合 PD3.0対応GaNⅡ type c | タイプc充電器 iphone18/17/16/15/iPad/GalaxyS25-S10/Android各種機器対応 3*USB-Cポート",
-    "percent_off": 20,
-    "brand": "UGREEN",
-    "genre": "充電器",
-    "price": 1980
   },
   "B0DGJBNYVY": {
     "first_seen": "2026-09-05",
