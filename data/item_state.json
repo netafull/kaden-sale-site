@@ -1,4 +1,14 @@
 {
+  "B0FQG21TRG": {
+    "first_seen": "2026-11-12",
+    "first_seen_at": "2026-11-12T17:14:55+09:00",
+    "last_seen": "2026-11-19",
+    "title": "Apple Watch Band - モダンバックル - （42mm）ケース用 - ミッドナイトパープル - L",
+    "percent_off": 39,
+    "brand": "Apple(アップル)",
+    "genre": "Apple製品",
+    "price": 20686
+  },
   "B0DZ7YJC17": {
     "first_seen": "2026-10-26",
     "first_seen_at": "2026-10-26T22:25:29+09:00",
@@ -287,7 +297,7 @@
     "percent_off": 29,
     "brand": "Sony",
     "genre": "ワイヤレスイヤホン",
-    "price": 12580
+    "price": 12454
   },
   "B0DPX7W84T": {
     "first_seen": "2026-10-20",
@@ -747,7 +757,7 @@
     "percent_off": 28,
     "brand": "ガーミン(GARMIN)",
     "genre": "スマートウォッチ",
-    "price": 103632
+    "price": 103566
   },
   "B0FKH3WQ41": {
     "first_seen": "2026-07-30",
@@ -819,6 +829,16 @@
     "genre": "スマートウォッチ",
     "price": 39591
   },
+  "B0GX8DRYCX": {
+    "first_seen": "2026-09-03",
+    "first_seen_at": "2026-09-03T12:14:47+09:00",
+    "last_seen": "2026-11-19",
+    "title": "HUAWEI WATCH FIT 5 スマートウォッチ 薄型軽量 大画面 GPS内蔵 10日間ロングバッテリー 通知 健康管理 心拍数 睡眠 ブラック | iPhone対応 android対応 1.82インチ画面 2500nits高輝度 ワークアウト 転倒検知 情緒測定 生理周期管理 64GBストレージ 録音機能 ランニング 防水",
+    "percent_off": 18,
+    "brand": "HUAWEI(ファーウェイ)",
+    "genre": "スマートウォッチ",
+    "price": 22300
+  },
   "B0BWF35J1G": {
     "first_seen": "2026-10-15",
     "first_seen_at": "2026-10-15T14:15:44+09:00",
@@ -889,26 +909,6 @@
     "genre": "キーボード・マウス",
     "price": 37549
   },
-  "B0FL6ZD3WL": {
-    "first_seen": "2026-07-29",
-    "first_seen_at": "2026-07-29T12:00:00+09:00",
-    "last_seen": "2026-11-19",
-    "title": "エレコム ワイヤレスキーボード Precisionist プレシジョニスト Bluetooth 無線2.4GHz マルチペアリング4台 充電式 薄型パンタグラフ式 フルサイズ ブラック TK-PN10FMPABK",
-    "percent_off": 36,
-    "brand": "エレコム(ELECOM)",
-    "genre": "キーボード・マウス",
-    "price": 5790
-  },
-  "B07NDLV8M9": {
-    "first_seen": "2026-09-10",
-    "first_seen_at": "2026-09-10T20:14:59+09:00",
-    "last_seen": "2026-11-19",
-    "title": "エレコム キーボード 【マウスセット】 ワイヤレス (レシーバー付属) メンブレン フルキーボード ブラック TK-FDM106MBK",
-    "percent_off": 35,
-    "brand": "エレコム(ELECOM)",
-    "genre": "キーボード・マウス",
-    "price": 2318
-  },
   "B0FL77NZXM": {
     "first_seen": "2026-07-29",
     "first_seen_at": "2026-07-29T12:00:00+09:00",
@@ -928,16 +928,6 @@
     "brand": "エレコム(ELECOM)",
     "genre": "キーボード・マウス",
     "price": 1899
-  },
-  "B08K2RGTHY": {
-    "first_seen": "2026-07-26",
-    "first_seen_at": "2026-07-26T12:00:00+09:00",
-    "last_seen": "2026-11-19",
-    "title": "ロジクール ワイヤレスマウス キーボード セット MK295GP 静音 耐水 国内正規品 | 無線、USBレシーバー接続、Unifying非対応、グラファイト、MK295",
-    "percent_off": 26,
-    "brand": "Logicool(ロジクール)",
-    "genre": "キーボード・マウス",
-    "price": 3073
   },
   "B0FJRCJ1SN": {
     "first_seen": "2026-07-26",
@@ -1089,15 +1079,35 @@
     "genre": "エアフライヤー",
     "price": 12000
   },
-  "B0FQG21TRG": {
-    "first_seen": "2026-11-12",
-    "first_seen_at": "2026-11-12T17:14:55+09:00",
+  "B0FL6ZD3WL": {
+    "first_seen": "2026-07-29",
+    "first_seen_at": "2026-07-29T12:00:00+09:00",
     "last_seen": "2026-11-19",
-    "title": "Apple Watch Band - モダンバックル - （42mm）ケース用 - ミッドナイトパープル - L",
-    "percent_off": 39,
-    "brand": "Apple(アップル)",
-    "genre": "Apple製品",
-    "price": 20686
+    "title": "エレコム ワイヤレスキーボード Precisionist プレシジョニスト Bluetooth 無線2.4GHz マルチペアリング4台 充電式 薄型パンタグラフ式 フルサイズ ブラック TK-PN10FMPABK",
+    "percent_off": 36,
+    "brand": "エレコム(ELECOM)",
+    "genre": "キーボード・マウス",
+    "price": 5790
+  },
+  "B07NDLV8M9": {
+    "first_seen": "2026-09-10",
+    "first_seen_at": "2026-09-10T20:14:59+09:00",
+    "last_seen": "2026-11-19",
+    "title": "エレコム キーボード 【マウスセット】 ワイヤレス (レシーバー付属) メンブレン フルキーボード ブラック TK-FDM106MBK",
+    "percent_off": 35,
+    "brand": "エレコム(ELECOM)",
+    "genre": "キーボード・マウス",
+    "price": 2318
+  },
+  "B08K2RGTHY": {
+    "first_seen": "2026-07-26",
+    "first_seen_at": "2026-07-26T12:00:00+09:00",
+    "last_seen": "2026-11-19",
+    "title": "ロジクール ワイヤレスマウス キーボード セット MK295GP 静音 耐水 国内正規品 | 無線、USBレシーバー接続、Unifying非対応、グラファイト、MK295",
+    "percent_off": 26,
+    "brand": "Logicool(ロジクール)",
+    "genre": "キーボード・マウス",
+    "price": 3073
   },
   "B0GMWW1GFR": {
     "first_seen": "2026-11-09",
@@ -1139,16 +1149,6 @@
         "percent_off": 25
       }
     ]
-  },
-  "B0GX8DRYCX": {
-    "first_seen": "2026-09-03",
-    "first_seen_at": "2026-09-03T12:14:47+09:00",
-    "last_seen": "2026-11-19",
-    "title": "HUAWEI WATCH FIT 5 スマートウォッチ 薄型軽量 大画面 GPS内蔵 10日間ロングバッテリー 通知 健康管理 心拍数 睡眠 ブラック | iPhone対応 android対応 1.82インチ画面 2500nits高輝度 ワークアウト 転倒検知 情緒測定 生理周期管理 64GBストレージ 録音機能 ランニング 防水",
-    "percent_off": 18,
-    "brand": "HUAWEI(ファーウェイ)",
-    "genre": "スマートウォッチ",
-    "price": 22300
   },
   "B0CX4FKYCS": {
     "first_seen": "2026-10-10",
