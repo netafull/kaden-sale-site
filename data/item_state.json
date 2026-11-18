@@ -297,7 +297,7 @@
     "percent_off": 50,
     "brand": "JBL",
     "genre": "ワイヤレスイヤホン",
-    "price": 14165
+    "price": 14163
   },
   "B0F3XFNHCW": {
     "first_seen": "2026-11-01",
@@ -468,6 +468,16 @@
     "brand": "Anker",
     "genre": "充電器",
     "price": 3990
+  },
+  "B0C5CBV6L3": {
+    "first_seen": "2026-10-30",
+    "first_seen_at": "2026-10-30T00:15:48+09:00",
+    "last_seen": "2026-11-18",
+    "title": "Anker Prime Wall Charger (67W, 3 ports, GaN) (ブラック) | 充電器【 PD対応/PSE技術基準適合/折りたたみ式プラグ】iphone 18 / 17 Pro / 17 Pro Max 他 iPhone シリーズ MacBook Windows PC iPad Galaxy Android スマートフォン",
+    "percent_off": null,
+    "brand": "Anker",
+    "genre": "充電器",
+    "price": 8490
   },
   "B0D53VJJ7F": {
     "first_seen": "2026-07-28",
@@ -694,10 +704,10 @@
     "first_seen_at": "2026-07-30T12:00:00+09:00",
     "last_seen": "2026-11-18",
     "title": "HUAWEI WATCH FIT 4 スマートウォッチ 薄型軽量 1.82インチ大画面 アウトドアに適した気圧計と測位システム 通知 フィットネス ヘルストラッカー 情緒測定 10日間ロングバッテリー iOS/Android対応 ブラック",
-    "percent_off": 33,
+    "percent_off": 32,
     "brand": "HUAWEI(ファーウェイ)",
     "genre": "スマートウォッチ",
-    "price": 16064
+    "price": 16323
   },
   "B0DDCR5WYQ": {
     "first_seen": "2026-11-03",
@@ -859,15 +869,15 @@
     "genre": "キーボード・マウス",
     "price": 2093
   },
-  "B0FL6ZD3WL": {
-    "first_seen": "2026-07-29",
-    "first_seen_at": "2026-07-29T12:00:00+09:00",
+  "B0F1FD99K8": {
+    "first_seen": "2026-09-25",
+    "first_seen_at": "2026-09-25T22:14:49+09:00",
     "last_seen": "2026-11-18",
-    "title": "エレコム ワイヤレスキーボード Precisionist プレシジョニスト Bluetooth 無線2.4GHz マルチペアリング4台 充電式 薄型パンタグラフ式 フルサイズ ブラック TK-PN10FMPABK",
-    "percent_off": 36,
-    "brand": "エレコム(ELECOM)",
+    "title": "ラピッドトリガー 搭載 Razer レイザー Huntsman V3 Pro Mini JP (White Edition) ラピッドトリガーと調整可能なアクチュエーション搭載のアナログ ゲーミングキーボード アナログオプティカルスイッチ 調整可能なアクチュエーション 押下圧 40G 日本語配列 ハンツマン ブイスリー プロ ミニ ジェイピー ホワイト エディション【日本正規代理店保証品】",
+    "percent_off": 38,
+    "brand": "Razer(レイザー)",
     "genre": "キーボード・マウス",
-    "price": 5790
+    "price": 16744
   },
   "B0FL77NZXM": {
     "first_seen": "2026-07-29",
@@ -908,16 +918,6 @@
     "brand": "Logicool(ロジクール)",
     "genre": "キーボード・マウス",
     "price": 3073
-  },
-  "B0CLGVLBMV": {
-    "first_seen": "2026-08-23",
-    "first_seen_at": "2026-08-23T20:37:59+09:00",
-    "last_seen": "2026-11-18",
-    "title": "Razer ラピッドトリガー 搭載 Huntsman V3 Pro Mini JP ラピッドトリガーと調整可能なアクチュエーション搭載のアナログ ゲーミングキーボード アナログオプティカルスイッチ 調整可能なアクチュエーション 押下圧 40G 日本語配列 ハンツマン ブイスリー プロ ミニ ジェイピー【日本正規代理店保証品】 ブラック",
-    "percent_off": 26,
-    "brand": "Razer(レイザー)",
-    "genre": "キーボード・マウス",
-    "price": 20029
   },
   "B0FJRCJ1SN": {
     "first_seen": "2026-07-26",
@@ -1068,6 +1068,26 @@
     "brand": "BRUNO",
     "genre": "エアフライヤー",
     "price": 12000
+  },
+  "B0FL6ZD3WL": {
+    "first_seen": "2026-07-29",
+    "first_seen_at": "2026-07-29T12:00:00+09:00",
+    "last_seen": "2026-11-18",
+    "title": "エレコム ワイヤレスキーボード Precisionist プレシジョニスト Bluetooth 無線2.4GHz マルチペアリング4台 充電式 薄型パンタグラフ式 フルサイズ ブラック TK-PN10FMPABK",
+    "percent_off": 36,
+    "brand": "エレコム(ELECOM)",
+    "genre": "キーボード・マウス",
+    "price": 5790
+  },
+  "B0CLGVLBMV": {
+    "first_seen": "2026-08-23",
+    "first_seen_at": "2026-08-23T20:37:59+09:00",
+    "last_seen": "2026-11-18",
+    "title": "Razer ラピッドトリガー 搭載 Huntsman V3 Pro Mini JP ラピッドトリガーと調整可能なアクチュエーション搭載のアナログ ゲーミングキーボード アナログオプティカルスイッチ 調整可能なアクチュエーション 押下圧 40G 日本語配列 ハンツマン ブイスリー プロ ミニ ジェイピー【日本正規代理店保証品】 ブラック",
+    "percent_off": 26,
+    "brand": "Razer(レイザー)",
+    "genre": "キーボード・マウス",
+    "price": 20029
   },
   "B0F3X9RLT6": {
     "first_seen": "2026-11-07",
@@ -1330,16 +1350,6 @@
     "brand": "UGREEN",
     "genre": "充電器",
     "price": 1584
-  },
-  "B0F1FD99K8": {
-    "first_seen": "2026-09-25",
-    "first_seen_at": "2026-09-25T22:14:49+09:00",
-    "last_seen": "2026-11-17",
-    "title": "ラピッドトリガー 搭載 Razer レイザー Huntsman V3 Pro Mini JP (White Edition) ラピッドトリガーと調整可能なアクチュエーション搭載のアナログ ゲーミングキーボード アナログオプティカルスイッチ 調整可能なアクチュエーション 押下圧 40G 日本語配列 ハンツマン ブイスリー プロ ミニ ジェイピー ホワイト エディション【日本正規代理店保証品】",
-    "percent_off": 38,
-    "brand": "Razer(レイザー)",
-    "genre": "キーボード・マウス",
-    "price": 16744
   },
   "B0CX4FKYCS": {
     "first_seen": "2026-10-10",
@@ -1920,16 +1930,6 @@
     "brand": "Logicool(ロジクール)",
     "genre": "キーボード・マウス",
     "price": 4373
-  },
-  "B0C5CBV6L3": {
-    "first_seen": "2026-10-30",
-    "first_seen_at": "2026-10-30T00:15:48+09:00",
-    "last_seen": "2026-11-15",
-    "title": "Anker Prime Wall Charger (67W, 3 ports, GaN) (ブラック) | 充電器【 PD対応/PSE技術基準適合/折りたたみ式プラグ】iphone 18 / 17 Pro / 17 Pro Max 他 iPhone シリーズ MacBook Windows PC iPad Galaxy Android スマートフォン",
-    "percent_off": 53,
-    "brand": "Anker",
-    "genre": "充電器",
-    "price": 3990
   },
   "B0BF42YVSR": {
     "first_seen": "2026-10-13",
