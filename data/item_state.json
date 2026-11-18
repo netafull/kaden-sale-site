@@ -297,17 +297,37 @@
     "percent_off": 29,
     "brand": "Sony",
     "genre": "ワイヤレスイヤホン",
-    "price": 12580
+    "price": 12454
   },
-  "B0DSPX4RQ5": {
-    "first_seen": "2026-10-24",
-    "first_seen_at": "2026-10-24T21:15:02+09:00",
+  "B0DDKHF9XY": {
+    "first_seen": "2026-08-16",
+    "first_seen_at": "2026-08-16T23:40:53+09:00",
     "last_seen": "2026-11-18",
-    "title": "UGREEN 165W モバイルバッテリー【165W・25000mAh】ケーブル2本内蔵 4ポート 240W iPhone 18 Pro/Duo対応 | USB-Cケーブル2本内蔵 単ポート140W高出力・入力90W急速充電対応 パススルー/低電流モード PSE技術基準適合 MacBook/iPhone 18 17シリーズなど/スマホ/ノートPC/出張/防災/旅行対応 PB552",
-    "percent_off": 38,
+    "title": "ソニー(SONY) 完全ワイヤレスイヤホン WF-C510 / 軽量小型4.6g / 高精度通話品質/外音取り込み対応/マルチポイント対応 / IPX4防滴性能 / ブラック/WF-C510 BC",
+    "percent_off": 20,
+    "brand": "Sony",
+    "genre": "ワイヤレスイヤホン",
+    "price": 7900
+  },
+  "B071G7JJRL": {
+    "first_seen": "2026-11-01",
+    "first_seen_at": "2026-11-01T16:15:01+09:00",
+    "last_seen": "2026-11-18",
+    "title": "ソニー(SONY) 有線イヤホン MDR-EX155 : カナル型 ライトブルー MDR-EX155 L",
+    "percent_off": 16,
+    "brand": "Sony",
+    "genre": "ワイヤレスイヤホン",
+    "price": 1291
+  },
+  "B0F6NFHB31": {
+    "first_seen": "2026-07-25",
+    "first_seen_at": "2026-07-25T12:00:00+09:00",
+    "last_seen": "2026-11-18",
+    "title": "UGREEN Air モバイルバッテリー 5000mAh 8.6mm超薄型 Qi2 15W MagSafe iPhone18Pro対応 | 【ATL製セル×難燃技術】マグネット式ワイヤレス充電｜軽量・小型設計｜USB-C PD 20W対応 ｜パススルー充電対応｜iPhone18 Pro/17/16/15 シリーズ/ Air対応｜PB580｜グレー",
+    "percent_off": 39,
     "brand": "UGREEN",
     "genre": "モバイルバッテリー",
-    "price": 9461
+    "price": 4186
   },
   "B0DNLR2NYN": {
     "first_seen": "2026-10-13",
@@ -318,16 +338,6 @@
     "brand": "Anker",
     "genre": "モバイルバッテリー",
     "price": 7990
-  },
-  "B0F6NC41DZ": {
-    "first_seen": "2026-08-06",
-    "first_seen_at": "2026-08-06T21:18:24+09:00",
-    "last_seen": "2026-11-18",
-    "title": "UGREEN Air モバイルバッテリー 10000mAh 薄型 Qi2 15W MagSafe ケーブル内蔵 iPhone18Pro対応 | 【ATL製セル×難燃技術】マグネット式ワイヤレス充電｜軽量・小型設計｜USB-C PD 30W対応 ｜パススルー充電対応｜ iPhone18 Pro/17/16/15 シリーズ/ Air対応｜PB570｜グレー",
-    "percent_off": 35,
-    "brand": "UGREEN",
-    "genre": "モバイルバッテリー",
-    "price": 5586
   },
   "B0DNLVY85L": {
     "first_seen": "2026-10-01",
@@ -349,6 +359,16 @@
     "genre": "モバイルバッテリー",
     "price": 8386
   },
+  "B0C3GTMX5M": {
+    "first_seen": "2026-09-18",
+    "first_seen_at": "2026-09-18T21:14:31+09:00",
+    "last_seen": "2026-11-18",
+    "title": "UGREEN 100W モバイルバッテリー 20000mAh 大容量 3ポート USB-C×2Type-A×1 iPhone 18 Pro/Duo対応 | 急速充電対応 PD・PPS 2.0 パススルー/低電流モード PSE技術基準適合 MacBook/iPhone 18 Duo/17/16/15シリーズなど/スマホ/ノートPC/出張/防災/旅行対応 PB720【VGP2024受賞】",
+    "percent_off": 30,
+    "brand": "UGREEN",
+    "genre": "モバイルバッテリー",
+    "price": 6998
+  },
   "B0DZ1TGX6T": {
     "first_seen": "2026-07-24",
     "first_seen_at": "2026-07-24T12:00:00+09:00",
@@ -369,6 +389,16 @@
     "genre": "モバイルバッテリー",
     "price": 8990
   },
+  "B0CX4FKYCS": {
+    "first_seen": "2026-10-10",
+    "first_seen_at": "2026-10-10T23:14:49+09:00",
+    "last_seen": "2026-11-18",
+    "title": "Anker Power Bank (10000mAh, Fusion, Built-In USB-C ケーブル) ホワイト | 10K 30W出力モバイルバッテリー搭載 30W出力USB充電器 / LEDディスプレイ/ケーブル一体型/コンセント一体型/折りたたみ式プラグ 1台3役 / iPhone 18 / 17 / 16 / 15 Android その他各種機器対応",
+    "percent_off": null,
+    "brand": "Anker",
+    "genre": "モバイルバッテリー",
+    "price": 8990
+  },
   "B0CXNY69DC": {
     "first_seen": "2026-10-07",
     "first_seen_at": "2026-10-07T00:14:58+09:00",
@@ -379,15 +409,15 @@
     "genre": "モバイルバッテリー",
     "price": 7990
   },
-  "B0DB17C63X": {
-    "first_seen": "2026-09-26",
-    "first_seen_at": "2026-09-26T00:14:56+09:00",
+  "B0GMWW1GFR": {
+    "first_seen": "2026-11-09",
+    "first_seen_at": "2026-11-09T22:14:55+09:00",
     "last_seen": "2026-11-18",
-    "title": "Anker MagGo Power Bank (10000mAh, Slim) ブラック | モバイルバッテリー 10000mAh Qi2認証 ワイヤレス充電 最大出力15W マグセーフ対応 マグネット式ワイヤレス充電対応 コンパクト 薄型 小型 magsafe iPhone 18 / 17 / 16 / 15 シリーズ対応",
+    "title": "CIO 半固体 モバイルバッテリー ワイヤレス充電 5000mAh SMARTCOBY SLIM Ⅱ Wireless 2.2 SS5K(シルバー) | iPhone18 Pro対応, Pixel10対応, ワイヤレス25W急速, USB-C20W対応, 超薄型で携帯",
     "percent_off": null,
-    "brand": "Anker",
+    "brand": "CIO",
     "genre": "モバイルバッテリー",
-    "price": 9990
+    "price": 7280
   },
   "B0D9J5MSBH": {
     "first_seen": "2026-10-15",
@@ -429,6 +459,16 @@
     "genre": "充電器",
     "price": 2782
   },
+  "B0CYZQ8HVG": {
+    "first_seen": "2026-11-18",
+    "first_seen_at": "2026-11-18T23:15:10+09:00",
+    "last_seen": "2026-11-18",
+    "title": "UGREEN 急速充電器 100W Type-C 4C 4ポート PD3.1/PPS/QC4規格対応 GaN窒化ガリウム 折り畳み式 | USB-C *4 Nexode 軽量 iPhone18/17/16/15/14 /S26 Ultra/Android Galaxy 2 /Macbook iPad向け/ノートPC/その他USB-C機器対応 PSE技術基準適合 ブラック",
+    "percent_off": 41,
+    "brand": "UGREEN",
+    "genre": "充電器",
+    "price": 5579
+  },
   "B096S2CTHS": {
     "first_seen": "2026-10-20",
     "first_seen_at": "2026-10-20T00:15:15+09:00",
@@ -448,16 +488,6 @@
     "brand": "Anker",
     "genre": "充電器",
     "price": 1090
-  },
-  "B0982VFYYJ": {
-    "first_seen": "2026-08-29",
-    "first_seen_at": "2026-08-29T22:14:57+09:00",
-    "last_seen": "2026-11-18",
-    "title": "UGREEN Nexode 急速 充電器 100W Type-C 3C1A 4ポート PD3.0/PPS/QC3.0対応 折り畳み式 PSE適合 | 4台同時充電 USB-C*3とUSB-A*1 iPhone18/17/16/15/14/MacBook/Dell/iPad/S26 Ultra/Android対応/その他USB-Cデバイス GaN搭載・コンパクト設計 スマート電流管理機能搭載",
-    "percent_off": 38,
-    "brand": "UGREEN",
-    "genre": "充電器",
-    "price": 4586
   },
   "B0F9FHXPDF": {
     "first_seen": "2026-11-18",
@@ -479,6 +509,16 @@
     "genre": "充電器",
     "price": 2930
   },
+  "B0B2QSZRCV": {
+    "first_seen": "2026-09-22",
+    "first_seen_at": "2026-09-22T22:14:54+09:00",
+    "last_seen": "2026-11-18",
+    "title": "Anker 511 Charger (Nano 3, 30W) ブルー | 30W USB-C急速充電器 手のひらサイズでノートPCにも給電。GaN採用で折りたたみ式プラグ搭載。PD PPS対応 MacBook Air iPhone iPad Galaxy Pixel対応 PSE技術基準適合",
+    "percent_off": null,
+    "brand": "Anker",
+    "genre": "充電器",
+    "price": 2790
+  },
   "B0D53VJJ7F": {
     "first_seen": "2026-07-28",
     "first_seen_at": "2026-07-28T12:00:00+09:00",
@@ -489,15 +529,15 @@
     "genre": "充電器",
     "price": 6589
   },
-  "B0B2QR8HN9": {
-    "first_seen": "2026-08-09",
-    "first_seen_at": "2026-08-09T19:54:50+09:00",
+  "B0D53WHQD6": {
+    "first_seen": "2026-09-01",
+    "first_seen_at": "2026-09-01T22:14:34+09:00",
     "last_seen": "2026-11-18",
-    "title": "Anker 511 Charger (Nano 3, 30W) ホワイト | 30W USB-C急速充電器 手のひらサイズでノートPCにも給電。GaN採用で折りたたみ式プラグ搭載。PD PPS対応 MacBook Air iPhone iPad Galaxy Pixel対応 PSE技術基準適合",
+    "title": "CIO NovaPort TRIOⅡ 65W 2C1A PD急速充電器 USB-C×2+USB-A×1 3台同時充電 世界最小級 (ホワイト) | ノートPC対応, MacBook対応, iPhone対応, iPad対応, Android対応, 電力を自動最適配分",
     "percent_off": null,
-    "brand": "Anker",
+    "brand": "CIO",
     "genre": "充電器",
-    "price": 2790
+    "price": 6589
   },
   "B0CCVQB7MY": {
     "first_seen": "2026-11-18",
@@ -508,6 +548,16 @@
     "brand": "UGREEN",
     "genre": "充電器",
     "price": 6180
+  },
+  "B091BGMKYS": {
+    "first_seen": "2026-07-27",
+    "first_seen_at": "2026-07-27T12:00:00+09:00",
+    "last_seen": "2026-11-18",
+    "title": "UGREEN Nexode 急速 充電器 65W Type-C 2C1A 3ポート PD/PPS 4.5A/QC3.0/SCP/FCP対応 折り畳み式 | 3台同時充電 USB-C *2とUSB-A*1 GaNII技術 iPhone18/17/16/15/14/MacBook/iPad/Galaxy/Android/その他USB-Cデバイス PSE技術基準適合[2022レッド・ドット・デザイン賞]",
+    "percent_off": 32,
+    "brand": "UGREEN",
+    "genre": "充電器",
+    "price": 2979
   },
   "B0D3GG4M9N": {
     "first_seen": "2026-10-17",
@@ -549,15 +599,36 @@
     "genre": "充電器",
     "price": 2790
   },
-  "B0G7HZT7DN": {
-    "first_seen": "2026-11-18",
-    "first_seen_at": "2026-11-18T22:15:10+09:00",
+  "B0G64K1H7N": {
+    "first_seen": "2026-11-17",
+    "first_seen_at": "2026-11-17T23:15:39+09:00",
     "last_seen": "2026-11-18",
-    "title": "UGREEN Nexode 急速充電器 200W Type-C 3C1A 4ポート 単ポート140W PD3.1/PPS 5A/QC4規格対応 | USB-C *3とUSB-A*1 iPhone18/17/16/15/14 /S26 Ultra/Android Galaxy 2 /Macbook iPad向け/ノートPC/その他USB-C機器対応 PSE技術基準適合 安全保護機能",
-    "percent_off": 30,
+    "title": "UGREEN Air 45W USB-C 当社最小充電器 GaNII 急速充電器 | 折畳みプラグ PSE認証済 iPhone18/17/16/15iPad MacBook Air GalaxyS25/S24/S23各種機器対応",
+    "percent_off": 29,
     "brand": "UGREEN",
     "genre": "充電器",
-    "price": 10500
+    "price": 2337,
+    "past": [
+      {
+        "first_seen": "2026-10-04",
+        "last_seen": "2026-10-31",
+        "title": "UGREEN Air 45W USB-C 当社最小充電器 GaNII 急速充電器 | 折畳みプラグ PSE認証済 iPhone18/17/16/15iPad MacBook Air GalaxyS25/S24/S23各種機器対応",
+        "brand": null,
+        "genre": null,
+        "price": null,
+        "percent_off": 25
+      }
+    ]
+  },
+  "B0D53T41CB": {
+    "first_seen": "2026-11-05",
+    "first_seen_at": "2026-11-05T22:15:45+09:00",
+    "last_seen": "2026-11-18",
+    "title": "CIO NovaPort DUOⅡ 65W PD急速充電器 USB-C×2 2台同時充電 世界最小級（ホワイト） | ノートPC対応, MacBook対応, iPhone対応, iPad対応, 電力を自動最適配分",
+    "percent_off": null,
+    "brand": "CIO",
+    "genre": "充電器",
+    "price": 5480
   },
   "B0D53VKL36": {
     "first_seen": "2026-07-29",
@@ -568,6 +639,26 @@
     "brand": "CIO",
     "genre": "充電器",
     "price": 5480
+  },
+  "B0DMN885ZF": {
+    "first_seen": "2026-08-05",
+    "first_seen_at": "2026-08-05T03:07:44+09:00",
+    "last_seen": "2026-11-18",
+    "title": "UGREEN 45W USB-C 急速充電器 Type-C PD GaNⅡ充電器 PSE適合タイプc充電器 PD/PPS/SCP/QC3.0 | MacBook PD対応 iphone17/15/14/13/12 iPad Galaxy Android スマートフォン ノートPC 各機種対応",
+    "percent_off": 27,
+    "brand": "UGREEN",
+    "genre": "充電器",
+    "price": 2180
+  },
+  "B0C8K2LZD2": {
+    "first_seen": "2026-10-23",
+    "first_seen_at": "2026-10-23T19:15:02+09:00",
+    "last_seen": "2026-11-18",
+    "title": "Anker Nano Charger (20W) グレイッシュブルー | USB-C 急速充電器【PSE技術基準適合/PowerIQ 3.0",
+    "percent_off": 25,
+    "brand": "Anker",
+    "genre": "充電器",
+    "price": 1340
   },
   "B0G7HPMG6C": {
     "first_seen": "2026-11-18",
@@ -589,16 +680,6 @@
     "genre": "充電器",
     "price": 1390
   },
-  "B099ZNTRL5": {
-    "first_seen": "2026-10-23",
-    "first_seen_at": "2026-10-23T21:15:12+09:00",
-    "last_seen": "2026-11-18",
-    "title": "Anker Nano Charger (20W) ホワイト | USB-C 急速充電器【PSE技術基準適合/PowerIQ 3.0",
-    "percent_off": 21,
-    "brand": "Anker",
-    "genre": "充電器",
-    "price": 1340
-  },
   "B0DW2SYD5H": {
     "first_seen": "2026-08-15",
     "first_seen_at": "2026-08-15T20:37:29+09:00",
@@ -609,15 +690,15 @@
     "genre": "充電器",
     "price": 2390
   },
-  "B0FJS3P8NT": {
-    "first_seen": "2026-07-27",
-    "first_seen_at": "2026-07-27T12:00:00+09:00",
+  "B0CTC7KYZF": {
+    "first_seen": "2026-09-26",
+    "first_seen_at": "2026-09-26T23:15:00+09:00",
     "last_seen": "2026-11-18",
-    "title": "UGREEN 45W USB-C*4+USB-A*1 急速充電器 Type-C GaNⅡ タイプc PSE適合/PD3.0/PPS/SCP/QC3.0 | マルチポートタイプCアダプター iPhone18/17/16/15 Galaxy S26 S25 Ultra、Pixel 10、iPadに対応",
+    "title": "UGREEN 卓上急速充電器 300W Type-C 4C1A 5ポート 単ポート140W常時対応 縦型省スペース PD3.1/PPS 5A対応 | 5ポート同時急速充電 USB-C *4とUSB-A*1 ダブルGaN MacBook Pro16/PD対応Macbook M4/iPad/iphone18/17/16/Galaxy/Android/PCに急速充電対応【レッドドット・デザイン賞受賞】",
     "percent_off": 20,
     "brand": "UGREEN",
     "genre": "充電器",
-    "price": 3180
+    "price": 17800
   },
   "B0G64NF1FQ": {
     "first_seen": "2026-09-16",
@@ -679,15 +760,25 @@
     "genre": "モニター・ディスプレイ",
     "price": 49341
   },
-  "B0F5WN8DWD": {
-    "first_seen": "2026-09-30",
-    "first_seen_at": "2026-09-30T21:15:11+09:00",
+  "B0GR5MCH7C": {
+    "first_seen": "2026-11-18",
+    "first_seen_at": "2026-11-18T23:15:10+09:00",
     "last_seen": "2026-11-18",
-    "title": "HUAWEI WATCH FIT 4 スマートウォッチ 薄型軽量 大画面 GPS内蔵 10日間ロングバッテリー 通知 健康管理 心拍数 睡眠 ホワイト | iPhone対応 android対応 1.82インチ大画面 2000nits高輝度 アウトドア 気圧計 フィットネス ヘルストラッカー 情緒測定 ランニング 防水",
-    "percent_off": 33,
-    "brand": "HUAWEI(ファーウェイ)",
-    "genre": "スマートウォッチ",
-    "price": 16064
+    "title": "【セット買い】SwitchBot 空気清浄機 Table ナチュラル + 交換用 アクセサリー (プレフィルター1枚 + HEPA フィルター 1枚 + ペット専用活性炭 脱臭フィルター 1枚)",
+    "percent_off": 26,
+    "brand": "スイッチボット(SwitchBot)",
+    "genre": "スマートホーム",
+    "price": 27280
+  },
+  "B0GHNXTK95": {
+    "first_seen": "2026-11-01",
+    "first_seen_at": "2026-11-01T01:14:55+09:00",
+    "last_seen": "2026-11-18",
+    "title": "【セット販売】【超小型】SwitchBot ロボット掃除機 K11+ ブラック＋サイドブラシ（4個セット）",
+    "percent_off": 17,
+    "brand": "スイッチボット(SwitchBot)",
+    "genre": "スマートホーム",
+    "price": 40633
   },
   "B0F5WNVHH7": {
     "first_seen": "2026-07-30",
@@ -698,16 +789,6 @@
     "brand": "HUAWEI(ファーウェイ)",
     "genre": "スマートウォッチ",
     "price": 16323
-  },
-  "B0GQLM2HG7": {
-    "first_seen": "2026-11-18",
-    "first_seen_at": "2026-11-18T22:15:10+09:00",
-    "last_seen": "2026-11-18",
-    "title": "Xiaomi Redmi Watch 6 シャオミ スマートウォッチ GPS Bluetooth通話 着信通知 防水 24日間持続 iPhone対応 | 2.07インチ有機EL 2000nits高輝度 薄型軽量 GPS/GNSS搭載 Bluetooth通話対応 録音機能 24日間バッテリー 24時間モニタリング 女性健康管理 スポーツモード ランニング 5ATM防水 水中心拍測定",
-    "percent_off": 26,
-    "brand": "Xiaomi",
-    "genre": "スマートウォッチ",
-    "price": 10980
   },
   "B0FKH3WQ41": {
     "first_seen": "2026-07-30",
@@ -739,11 +820,11 @@
     "genre": "スマートウォッチ",
     "price": 67800
   },
-  "B0GZ2NBP8V": {
-    "first_seen": "2026-09-23",
-    "first_seen_at": "2026-09-23T21:15:01+09:00",
+  "B0GZ294HH3": {
+    "first_seen": "2026-08-16",
+    "first_seen_at": "2026-08-16T00:38:29+09:00",
     "last_seen": "2026-11-18",
-    "title": "GARMIN(ガーミン)スマートウォッチ Forerunner 170 Whitestone/Cloud Blue スマートウォッチモード 約 10 日間 高精度GPS ランニングウォッチ iOS/Android AMOLEDディスプレイ1.2インチ マラソン 軽量 防水 心拍数 睡眠スコア 健康管理 Suicaタッチ決済 Garmin Pay",
+    "title": "GARMIN(ガーミン)スマートウォッチ Forerunner 170 Black/Amp Yellow スマートウォッチモード 約 10 日間 高精度GPS ランニングウォッチ iOS/Android AMOLEDディスプレイ1.2インチ マラソン 軽量 防水 心拍数 睡眠スコア 健康管理 Suicaタッチ決済 Garmin Pay",
     "percent_off": 17,
     "brand": "ガーミン(GARMIN)",
     "genre": "スマートウォッチ",
@@ -759,6 +840,16 @@
     "genre": "スマートウォッチ",
     "price": 24800
   },
+  "B0GZ2NBP8V": {
+    "first_seen": "2026-09-23",
+    "first_seen_at": "2026-09-23T21:15:01+09:00",
+    "last_seen": "2026-11-18",
+    "title": "GARMIN(ガーミン)スマートウォッチ Forerunner 170 Whitestone/Cloud Blue スマートウォッチモード 約 10 日間 高精度GPS ランニングウォッチ iOS/Android AMOLEDディスプレイ1.2インチ マラソン 軽量 防水 心拍数 睡眠スコア 健康管理 Suicaタッチ決済 Garmin Pay",
+    "percent_off": 17,
+    "brand": "ガーミン(GARMIN)",
+    "genre": "スマートウォッチ",
+    "price": 39591
+  },
   "B0GX8DRYCX": {
     "first_seen": "2026-09-03",
     "first_seen_at": "2026-09-03T12:14:47+09:00",
@@ -769,11 +860,11 @@
     "genre": "スマートウォッチ",
     "price": 22300
   },
-  "B0BWF4JPWS": {
-    "first_seen": "2026-10-22",
-    "first_seen_at": "2026-10-22T13:15:00+09:00",
+  "B0BWF35J1G": {
+    "first_seen": "2026-10-15",
+    "first_seen_at": "2026-10-15T14:15:44+09:00",
     "last_seen": "2026-11-18",
-    "title": "GARMIN（ガーミン）GPSランニングウォッチ Forerunner 265 Music Aqua 【日本正規品】",
+    "title": "GARMIN（ガーミン）GPSランニングウォッチ Forerunner 265 Music White 【日本正規品】",
     "percent_off": 16,
     "brand": "ガーミン(GARMIN)",
     "genre": "スマートウォッチ",
@@ -839,6 +930,16 @@
     "genre": "キーボード・マウス",
     "price": 16744
   },
+  "B0GL1B1L6Y": {
+    "first_seen": "2026-10-29",
+    "first_seen_at": "2026-10-29T23:15:00+09:00",
+    "last_seen": "2026-11-18",
+    "title": "東プレ REALFORCE GX1 Plus サザビー 日本語配列 ゲーミングキーボード X1PCS1",
+    "percent_off": 38,
+    "brand": "REALFORCE",
+    "genre": "キーボード・マウス",
+    "price": 37549
+  },
   "B0FL77NZXM": {
     "first_seen": "2026-07-29",
     "first_seen_at": "2026-07-29T12:00:00+09:00",
@@ -848,16 +949,6 @@
     "brand": "エレコム(ELECOM)",
     "genre": "キーボード・マウス",
     "price": 5290
-  },
-  "B0GL1G8PQZ": {
-    "first_seen": "2026-10-30",
-    "first_seen_at": "2026-10-30T18:15:39+09:00",
-    "last_seen": "2026-11-18",
-    "title": "東プレ REALFORCE GX1 Plus νガンダム (ニューガンダム) 日本語配列 ゲーミングキーボード X1PCN1",
-    "percent_off": 31,
-    "brand": "REALFORCE",
-    "genre": "キーボード・マウス",
-    "price": 41531
   },
   "B07PJW2X2F": {
     "first_seen": "2026-07-26",
@@ -889,6 +980,16 @@
     "genre": "キーボード・マウス",
     "price": 2773
   },
+  "B0BF9QJWBY": {
+    "first_seen": "2026-11-05",
+    "first_seen_at": "2026-11-05T21:15:35+09:00",
+    "last_seen": "2026-11-18",
+    "title": "Logicool G ゲーミングマウス G705 ワイヤレス マウス LIGHTSPEED Bluetooth 2種類無線接続に対応 LIGHTSYNC RGB 85g 軽量 PC windows mac ホワイト G705WL 国内正規品",
+    "percent_off": 24,
+    "brand": "Logicool G(ロジクール G)",
+    "genre": "キーボード・マウス",
+    "price": 9800
+  },
   "B00FJ0GDLQ": {
     "first_seen": "2026-09-26",
     "first_seen_at": "2026-09-26T02:14:52+09:00",
@@ -909,11 +1010,11 @@
     "genre": "キーボード・マウス",
     "price": 20000
   },
-  "B0CJR74NF3": {
-    "first_seen": "2026-08-13",
-    "first_seen_at": "2026-08-13T22:45:41+09:00",
+  "B0CJR5HBMN": {
+    "first_seen": "2026-08-04",
+    "first_seen_at": "2026-08-04T21:17:38+09:00",
     "last_seen": "2026-11-18",
-    "title": "ロジクール ワイヤレスマウス PEBBLE MOUSE2 M350sGY 薄型 静音 Bluetooth Logi Bolt マウス 無線 ワイヤレス 左右対称 Easy-Switch 4000dpi 電池寿命24ケ月 windows mac Chrome Android iPad M350 グレージュ 国内正規品",
+    "title": "ロジクール ワイヤレスマウス PEBBLE MOUSE2 M350sGR 薄型 静音 Bluetooth Logi Bolt マウス 無線 ワイヤレス 左右対称 Easy-Switch 4000dpi 電池寿命24ケ月 windows mac Chrome Android iPad M350 グラファイト 国内正規品",
     "percent_off": 19,
     "brand": "Logicool(ロジクール)",
     "genre": "キーボード・マウス",
@@ -999,6 +1100,146 @@
     "genre": "エアフライヤー",
     "price": 7929
   },
+  "B0F8F5QC82": {
+    "first_seen": "2026-11-08",
+    "first_seen_at": "2026-11-08T00:15:18+09:00",
+    "last_seen": "2026-11-18",
+    "title": "BRUNO ブルーノ エアフライヤー ガラスエアフライヤー ノンフライヤー フライヤー 家庭用 油なし 卓上 アジフライ 自宅用 ガラス 温度調節 コンパクト 一人暮らし ノンオイル ヘルシー カロリーオフ 油分カット 揚げ物 温め直し 簡単収納 レシピ アイボリー レシピ付き BOE122-IV",
+    "percent_off": 16,
+    "brand": "BRUNO",
+    "genre": "エアフライヤー",
+    "price": 12000
+  },
+  "B0DSPX4RQ5": {
+    "first_seen": "2026-10-24",
+    "first_seen_at": "2026-10-24T21:15:02+09:00",
+    "last_seen": "2026-11-18",
+    "title": "UGREEN 165W モバイルバッテリー【165W・25000mAh】ケーブル2本内蔵 4ポート 240W iPhone 18 Pro/Duo対応 | USB-Cケーブル2本内蔵 単ポート140W高出力・入力90W急速充電対応 パススルー/低電流モード PSE技術基準適合 MacBook/iPhone 18 17シリーズなど/スマホ/ノートPC/出張/防災/旅行対応 PB552",
+    "percent_off": 38,
+    "brand": "UGREEN",
+    "genre": "モバイルバッテリー",
+    "price": 9461
+  },
+  "B0F6NC41DZ": {
+    "first_seen": "2026-08-06",
+    "first_seen_at": "2026-08-06T21:18:24+09:00",
+    "last_seen": "2026-11-18",
+    "title": "UGREEN Air モバイルバッテリー 10000mAh 薄型 Qi2 15W MagSafe ケーブル内蔵 iPhone18Pro対応 | 【ATL製セル×難燃技術】マグネット式ワイヤレス充電｜軽量・小型設計｜USB-C PD 30W対応 ｜パススルー充電対応｜ iPhone18 Pro/17/16/15 シリーズ/ Air対応｜PB570｜グレー",
+    "percent_off": 35,
+    "brand": "UGREEN",
+    "genre": "モバイルバッテリー",
+    "price": 5586
+  },
+  "B0DB17C63X": {
+    "first_seen": "2026-09-26",
+    "first_seen_at": "2026-09-26T00:14:56+09:00",
+    "last_seen": "2026-11-18",
+    "title": "Anker MagGo Power Bank (10000mAh, Slim) ブラック | モバイルバッテリー 10000mAh Qi2認証 ワイヤレス充電 最大出力15W マグセーフ対応 マグネット式ワイヤレス充電対応 コンパクト 薄型 小型 magsafe iPhone 18 / 17 / 16 / 15 シリーズ対応",
+    "percent_off": null,
+    "brand": "Anker",
+    "genre": "モバイルバッテリー",
+    "price": 9990
+  },
+  "B0982VFYYJ": {
+    "first_seen": "2026-08-29",
+    "first_seen_at": "2026-08-29T22:14:57+09:00",
+    "last_seen": "2026-11-18",
+    "title": "UGREEN Nexode 急速 充電器 100W Type-C 3C1A 4ポート PD3.0/PPS/QC3.0対応 折り畳み式 PSE適合 | 4台同時充電 USB-C*3とUSB-A*1 iPhone18/17/16/15/14/MacBook/Dell/iPad/S26 Ultra/Android対応/その他USB-Cデバイス GaN搭載・コンパクト設計 スマート電流管理機能搭載",
+    "percent_off": 38,
+    "brand": "UGREEN",
+    "genre": "充電器",
+    "price": 4586
+  },
+  "B0B2QR8HN9": {
+    "first_seen": "2026-08-09",
+    "first_seen_at": "2026-08-09T19:54:50+09:00",
+    "last_seen": "2026-11-18",
+    "title": "Anker 511 Charger (Nano 3, 30W) ホワイト | 30W USB-C急速充電器 手のひらサイズでノートPCにも給電。GaN採用で折りたたみ式プラグ搭載。PD PPS対応 MacBook Air iPhone iPad Galaxy Pixel対応 PSE技術基準適合",
+    "percent_off": null,
+    "brand": "Anker",
+    "genre": "充電器",
+    "price": 2790
+  },
+  "B0G7HZT7DN": {
+    "first_seen": "2026-11-18",
+    "first_seen_at": "2026-11-18T22:15:10+09:00",
+    "last_seen": "2026-11-18",
+    "title": "UGREEN Nexode 急速充電器 200W Type-C 3C1A 4ポート 単ポート140W PD3.1/PPS 5A/QC4規格対応 | USB-C *3とUSB-A*1 iPhone18/17/16/15/14 /S26 Ultra/Android Galaxy 2 /Macbook iPad向け/ノートPC/その他USB-C機器対応 PSE技術基準適合 安全保護機能",
+    "percent_off": 30,
+    "brand": "UGREEN",
+    "genre": "充電器",
+    "price": 10500
+  },
+  "B099ZNTRL5": {
+    "first_seen": "2026-10-23",
+    "first_seen_at": "2026-10-23T21:15:12+09:00",
+    "last_seen": "2026-11-18",
+    "title": "Anker Nano Charger (20W) ホワイト | USB-C 急速充電器【PSE技術基準適合/PowerIQ 3.0",
+    "percent_off": 21,
+    "brand": "Anker",
+    "genre": "充電器",
+    "price": 1340
+  },
+  "B0FJS3P8NT": {
+    "first_seen": "2026-07-27",
+    "first_seen_at": "2026-07-27T12:00:00+09:00",
+    "last_seen": "2026-11-18",
+    "title": "UGREEN 45W USB-C*4+USB-A*1 急速充電器 Type-C GaNⅡ タイプc PSE適合/PD3.0/PPS/SCP/QC3.0 | マルチポートタイプCアダプター iPhone18/17/16/15 Galaxy S26 S25 Ultra、Pixel 10、iPadに対応",
+    "percent_off": 20,
+    "brand": "UGREEN",
+    "genre": "充電器",
+    "price": 3180
+  },
+  "B0F5WN8DWD": {
+    "first_seen": "2026-09-30",
+    "first_seen_at": "2026-09-30T21:15:11+09:00",
+    "last_seen": "2026-11-18",
+    "title": "HUAWEI WATCH FIT 4 スマートウォッチ 薄型軽量 大画面 GPS内蔵 10日間ロングバッテリー 通知 健康管理 心拍数 睡眠 ホワイト | iPhone対応 android対応 1.82インチ大画面 2000nits高輝度 アウトドア 気圧計 フィットネス ヘルストラッカー 情緒測定 ランニング 防水",
+    "percent_off": 33,
+    "brand": "HUAWEI(ファーウェイ)",
+    "genre": "スマートウォッチ",
+    "price": 16064
+  },
+  "B0GQLM2HG7": {
+    "first_seen": "2026-11-18",
+    "first_seen_at": "2026-11-18T22:15:10+09:00",
+    "last_seen": "2026-11-18",
+    "title": "Xiaomi Redmi Watch 6 シャオミ スマートウォッチ GPS Bluetooth通話 着信通知 防水 24日間持続 iPhone対応 | 2.07インチ有機EL 2000nits高輝度 薄型軽量 GPS/GNSS搭載 Bluetooth通話対応 録音機能 24日間バッテリー 24時間モニタリング 女性健康管理 スポーツモード ランニング 5ATM防水 水中心拍測定",
+    "percent_off": 26,
+    "brand": "Xiaomi",
+    "genre": "スマートウォッチ",
+    "price": 10980
+  },
+  "B0BWF4JPWS": {
+    "first_seen": "2026-10-22",
+    "first_seen_at": "2026-10-22T13:15:00+09:00",
+    "last_seen": "2026-11-18",
+    "title": "GARMIN（ガーミン）GPSランニングウォッチ Forerunner 265 Music Aqua 【日本正規品】",
+    "percent_off": 16,
+    "brand": "ガーミン(GARMIN)",
+    "genre": "スマートウォッチ",
+    "price": 52600
+  },
+  "B0GL1G8PQZ": {
+    "first_seen": "2026-10-30",
+    "first_seen_at": "2026-10-30T18:15:39+09:00",
+    "last_seen": "2026-11-18",
+    "title": "東プレ REALFORCE GX1 Plus νガンダム (ニューガンダム) 日本語配列 ゲーミングキーボード X1PCN1",
+    "percent_off": 31,
+    "brand": "REALFORCE",
+    "genre": "キーボード・マウス",
+    "price": 41531
+  },
+  "B0CJR74NF3": {
+    "first_seen": "2026-08-13",
+    "first_seen_at": "2026-08-13T22:45:41+09:00",
+    "last_seen": "2026-11-18",
+    "title": "ロジクール ワイヤレスマウス PEBBLE MOUSE2 M350sGY 薄型 静音 Bluetooth Logi Bolt マウス 無線 ワイヤレス 左右対称 Easy-Switch 4000dpi 電池寿命24ケ月 windows mac Chrome Android iPad M350 グレージュ 国内正規品",
+    "percent_off": 19,
+    "brand": "Logicool(ロジクール)",
+    "genre": "キーボード・マウス",
+    "price": 2936
+  },
   "B0GK8X6DN1": {
     "first_seen": "2026-11-04",
     "first_seen_at": "2026-11-04T21:15:05+09:00",
@@ -1018,36 +1259,6 @@
     "brand": "Soundcore",
     "genre": "ワイヤレスイヤホン",
     "price": 8990
-  },
-  "B0DDKHF9XY": {
-    "first_seen": "2026-08-16",
-    "first_seen_at": "2026-08-16T23:40:53+09:00",
-    "last_seen": "2026-11-18",
-    "title": "ソニー(SONY) 完全ワイヤレスイヤホン WF-C510 / 軽量小型4.6g / 高精度通話品質/外音取り込み対応/マルチポイント対応 / IPX4防滴性能 / ブラック/WF-C510 BC",
-    "percent_off": 20,
-    "brand": "Sony",
-    "genre": "ワイヤレスイヤホン",
-    "price": 7900
-  },
-  "B071G7JJRL": {
-    "first_seen": "2026-11-01",
-    "first_seen_at": "2026-11-01T16:15:01+09:00",
-    "last_seen": "2026-11-18",
-    "title": "ソニー(SONY) 有線イヤホン MDR-EX155 : カナル型 ライトブルー MDR-EX155 L",
-    "percent_off": 16,
-    "brand": "Sony",
-    "genre": "ワイヤレスイヤホン",
-    "price": 1291
-  },
-  "B0F6NFHB31": {
-    "first_seen": "2026-07-25",
-    "first_seen_at": "2026-07-25T12:00:00+09:00",
-    "last_seen": "2026-11-18",
-    "title": "UGREEN Air モバイルバッテリー 5000mAh 8.6mm超薄型 Qi2 15W MagSafe iPhone18Pro対応 | 【ATL製セル×難燃技術】マグネット式ワイヤレス充電｜軽量・小型設計｜USB-C PD 20W対応 ｜パススルー充電対応｜iPhone18 Pro/17/16/15 シリーズ/ Air対応｜PB580｜グレー",
-    "percent_off": 39,
-    "brand": "UGREEN",
-    "genre": "モバイルバッテリー",
-    "price": 4186
   },
   "B0CT2JNCT5": {
     "first_seen": "2026-10-21",
@@ -1069,46 +1280,6 @@
     "genre": "充電器",
     "price": 14990
   },
-  "B091BGMKYS": {
-    "first_seen": "2026-07-27",
-    "first_seen_at": "2026-07-27T12:00:00+09:00",
-    "last_seen": "2026-11-18",
-    "title": "UGREEN Nexode 急速 充電器 65W Type-C 2C1A 3ポート PD/PPS 4.5A/QC3.0/SCP/FCP対応 折り畳み式 | 3台同時充電 USB-C *2とUSB-A*1 GaNII技術 iPhone18/17/16/15/14/MacBook/iPad/Galaxy/Android/その他USB-Cデバイス PSE技術基準適合[2022レッド・ドット・デザイン賞]",
-    "percent_off": 32,
-    "brand": "UGREEN",
-    "genre": "充電器",
-    "price": 2979
-  },
-  "B0DMN885ZF": {
-    "first_seen": "2026-08-05",
-    "first_seen_at": "2026-08-05T03:07:44+09:00",
-    "last_seen": "2026-11-18",
-    "title": "UGREEN 45W USB-C 急速充電器 Type-C PD GaNⅡ充電器 PSE適合タイプc充電器 PD/PPS/SCP/QC3.0 | MacBook PD対応 iphone17/15/14/13/12 iPad Galaxy Android スマートフォン ノートPC 各機種対応",
-    "percent_off": 27,
-    "brand": "UGREEN",
-    "genre": "充電器",
-    "price": 2180
-  },
-  "B0C8K2LZD2": {
-    "first_seen": "2026-10-23",
-    "first_seen_at": "2026-10-23T19:15:02+09:00",
-    "last_seen": "2026-11-18",
-    "title": "Anker Nano Charger (20W) グレイッシュブルー | USB-C 急速充電器【PSE技術基準適合/PowerIQ 3.0",
-    "percent_off": 25,
-    "brand": "Anker",
-    "genre": "充電器",
-    "price": 1340
-  },
-  "B0CTC7KYZF": {
-    "first_seen": "2026-09-26",
-    "first_seen_at": "2026-09-26T23:15:00+09:00",
-    "last_seen": "2026-11-18",
-    "title": "UGREEN 卓上急速充電器 300W Type-C 4C1A 5ポート 単ポート140W常時対応 縦型省スペース PD3.1/PPS 5A対応 | 5ポート同時急速充電 USB-C *4とUSB-A*1 ダブルGaN MacBook Pro16/PD対応Macbook M4/iPad/iphone18/17/16/Galaxy/Android/PCに急速充電対応【レッドドット・デザイン賞受賞】",
-    "percent_off": 20,
-    "brand": "UGREEN",
-    "genre": "充電器",
-    "price": 17800
-  },
   "B0F5WR3KP9": {
     "first_seen": "2026-10-20",
     "first_seen_at": "2026-10-20T21:15:01+09:00",
@@ -1129,26 +1300,6 @@
     "genre": "スマートウォッチ",
     "price": 22770
   },
-  "B0BWF35J1G": {
-    "first_seen": "2026-10-15",
-    "first_seen_at": "2026-10-15T14:15:44+09:00",
-    "last_seen": "2026-11-18",
-    "title": "GARMIN（ガーミン）GPSランニングウォッチ Forerunner 265 Music White 【日本正規品】",
-    "percent_off": 16,
-    "brand": "ガーミン(GARMIN)",
-    "genre": "スマートウォッチ",
-    "price": 52600
-  },
-  "B0GL1B1L6Y": {
-    "first_seen": "2026-10-29",
-    "first_seen_at": "2026-10-29T23:15:00+09:00",
-    "last_seen": "2026-11-18",
-    "title": "東プレ REALFORCE GX1 Plus サザビー 日本語配列 ゲーミングキーボード X1PCS1",
-    "percent_off": 38,
-    "brand": "REALFORCE",
-    "genre": "キーボード・マウス",
-    "price": 37549
-  },
   "B08K2RGTHY": {
     "first_seen": "2026-07-26",
     "first_seen_at": "2026-07-26T12:00:00+09:00",
@@ -1158,16 +1309,6 @@
     "brand": "Logicool(ロジクール)",
     "genre": "キーボード・マウス",
     "price": 3073
-  },
-  "B0CJR5HBMN": {
-    "first_seen": "2026-08-04",
-    "first_seen_at": "2026-08-04T21:17:38+09:00",
-    "last_seen": "2026-11-18",
-    "title": "ロジクール ワイヤレスマウス PEBBLE MOUSE2 M350sGR 薄型 静音 Bluetooth Logi Bolt マウス 無線 ワイヤレス 左右対称 Easy-Switch 4000dpi 電池寿命24ケ月 windows mac Chrome Android iPad M350 グラファイト 国内正規品",
-    "percent_off": 19,
-    "brand": "Logicool(ロジクール)",
-    "genre": "キーボード・マウス",
-    "price": 2936
   },
   "B0BKP56SXX": {
     "first_seen": "2026-11-10",
@@ -1229,16 +1370,6 @@
     "genre": "スマートウォッチ",
     "price": 103632
   },
-  "B0GZ294HH3": {
-    "first_seen": "2026-08-16",
-    "first_seen_at": "2026-08-16T00:38:29+09:00",
-    "last_seen": "2026-11-18",
-    "title": "GARMIN(ガーミン)スマートウォッチ Forerunner 170 Black/Amp Yellow スマートウォッチモード 約 10 日間 高精度GPS ランニングウォッチ iOS/Android AMOLEDディスプレイ1.2インチ マラソン 軽量 防水 心拍数 睡眠スコア 健康管理 Suicaタッチ決済 Garmin Pay",
-    "percent_off": 17,
-    "brand": "ガーミン(GARMIN)",
-    "genre": "スマートウォッチ",
-    "price": 39591
-  },
   "B09Q83ZRZW": {
     "first_seen": "2026-11-05",
     "first_seen_at": "2026-11-05T19:15:08+09:00",
@@ -1248,16 +1379,6 @@
     "brand": "Logicool G(ロジクール G)",
     "genre": "キーボード・マウス",
     "price": 11000
-  },
-  "B0F8F5QC82": {
-    "first_seen": "2026-11-08",
-    "first_seen_at": "2026-11-08T00:15:18+09:00",
-    "last_seen": "2026-11-18",
-    "title": "BRUNO ブルーノ エアフライヤー ガラスエアフライヤー ノンフライヤー フライヤー 家庭用 油なし 卓上 アジフライ 自宅用 ガラス 温度調節 コンパクト 一人暮らし ノンオイル ヘルシー カロリーオフ 油分カット 揚げ物 温め直し 簡単収納 レシピ アイボリー レシピ付き BOE122-IV",
-    "percent_off": 16,
-    "brand": "BRUNO",
-    "genre": "エアフライヤー",
-    "price": 12000
   },
   "B0C5CBV6L3": {
     "first_seen": "2026-10-30",
@@ -1409,16 +1530,6 @@
     "genre": "充電器",
     "price": 6990
   },
-  "B0D53WHQD6": {
-    "first_seen": "2026-09-01",
-    "first_seen_at": "2026-09-01T22:14:34+09:00",
-    "last_seen": "2026-11-18",
-    "title": "CIO NovaPort TRIOⅡ 65W 2C1A PD急速充電器 USB-C×2+USB-A×1 3台同時充電 世界最小級 (ホワイト) | ノートPC対応, MacBook対応, iPhone対応, iPad対応, Android対応, 電力を自動最適配分",
-    "percent_off": null,
-    "brand": "CIO",
-    "genre": "充電器",
-    "price": 6589
-  },
   "B0DB1HFZLK": {
     "first_seen": "2026-11-17",
     "first_seen_at": "2026-11-17T23:15:39+09:00",
@@ -1428,16 +1539,6 @@
     "brand": "Anker",
     "genre": "モバイルバッテリー",
     "price": 9990
-  },
-  "B0D53T41CB": {
-    "first_seen": "2026-11-05",
-    "first_seen_at": "2026-11-05T22:15:45+09:00",
-    "last_seen": "2026-11-18",
-    "title": "CIO NovaPort DUOⅡ 65W PD急速充電器 USB-C×2 2台同時充電 世界最小級（ホワイト） | ノートPC対応, MacBook対応, iPhone対応, iPad対応, 電力を自動最適配分",
-    "percent_off": null,
-    "brand": "CIO",
-    "genre": "充電器",
-    "price": 5480
   },
   "B0FKTHY9RR": {
     "first_seen": "2026-10-21",
@@ -1470,16 +1571,6 @@
       }
     ]
   },
-  "B0GHNXTK95": {
-    "first_seen": "2026-11-01",
-    "first_seen_at": "2026-11-01T01:14:55+09:00",
-    "last_seen": "2026-11-18",
-    "title": "【セット販売】【超小型】SwitchBot ロボット掃除機 K11+ ブラック＋サイドブラシ（4個セット）",
-    "percent_off": 17,
-    "brand": "スイッチボット(SwitchBot)",
-    "genre": "スマートホーム",
-    "price": 40633
-  },
   "B08K2V1B28": {
     "first_seen": "2026-11-03",
     "first_seen_at": "2026-11-03T22:15:46+09:00",
@@ -1500,27 +1591,6 @@
     "genre": "モバイルバッテリー",
     "price": 3116
   },
-  "B0G64K1H7N": {
-    "first_seen": "2026-11-17",
-    "first_seen_at": "2026-11-17T23:15:39+09:00",
-    "last_seen": "2026-11-17",
-    "title": "UGREEN Air 45W USB-C 当社最小充電器 GaNII 急速充電器 | 折畳みプラグ PSE認証済 iPhone18/17/16/15iPad MacBook Air GalaxyS25/S24/S23各種機器対応",
-    "percent_off": 25,
-    "brand": "UGREEN",
-    "genre": "充電器",
-    "price": 2460,
-    "past": [
-      {
-        "first_seen": "2026-10-04",
-        "last_seen": "2026-10-31",
-        "title": "UGREEN Air 45W USB-C 当社最小充電器 GaNII 急速充電器 | 折畳みプラグ PSE認証済 iPhone18/17/16/15iPad MacBook Air GalaxyS25/S24/S23各種機器対応",
-        "brand": null,
-        "genre": null,
-        "price": null,
-        "percent_off": 25
-      }
-    ]
-  },
   "B0BWF463MW": {
     "first_seen": "2026-08-04",
     "first_seen_at": "2026-08-04T12:38:09+09:00",
@@ -1530,26 +1600,6 @@
     "brand": "ガーミン(GARMIN)",
     "genre": "スマートウォッチ",
     "price": 67800
-  },
-  "B0C3GTMX5M": {
-    "first_seen": "2026-09-18",
-    "first_seen_at": "2026-09-18T21:14:31+09:00",
-    "last_seen": "2026-11-17",
-    "title": "UGREEN 100W モバイルバッテリー 20000mAh 大容量 3ポート USB-C×2Type-A×1 iPhone 18 Pro/Duo対応 | 急速充電対応 PD・PPS 2.0 パススルー/低電流モード PSE技術基準適合 MacBook/iPhone 18 Duo/17/16/15シリーズなど/スマホ/ノートPC/出張/防災/旅行対応 PB720【VGP2024受賞】",
-    "percent_off": 30,
-    "brand": "UGREEN",
-    "genre": "モバイルバッテリー",
-    "price": 6998
-  },
-  "B0B2QSZRCV": {
-    "first_seen": "2026-09-22",
-    "first_seen_at": "2026-09-22T22:14:54+09:00",
-    "last_seen": "2026-11-17",
-    "title": "Anker 511 Charger (Nano 3, 30W) ブルー | 30W USB-C急速充電器 手のひらサイズでノートPCにも給電。GaN採用で折りたたみ式プラグ搭載。PD PPS対応 MacBook Air iPhone iPad Galaxy Pixel対応 PSE技術基準適合",
-    "percent_off": null,
-    "brand": "Anker",
-    "genre": "充電器",
-    "price": 2790
   },
   "B0FPCYJ6K5": {
     "first_seen": "2026-09-26",
@@ -1590,16 +1640,6 @@
     "brand": "UGREEN",
     "genre": "充電器",
     "price": 1584
-  },
-  "B0CX4FKYCS": {
-    "first_seen": "2026-10-10",
-    "first_seen_at": "2026-10-10T23:14:49+09:00",
-    "last_seen": "2026-11-17",
-    "title": "Anker Power Bank (10000mAh, Fusion, Built-In USB-C ケーブル) ホワイト | 10K 30W出力モバイルバッテリー搭載 30W出力USB充電器 / LEDディスプレイ/ケーブル一体型/コンセント一体型/折りたたみ式プラグ 1台3役 / iPhone 18 / 17 / 16 / 15 Android その他各種機器対応",
-    "percent_off": null,
-    "brand": "Anker",
-    "genre": "モバイルバッテリー",
-    "price": 8990
   },
   "B08PTPTMH5": {
     "first_seen": "2026-10-13",
@@ -2256,13 +2296,6 @@
     "percent_off": 19,
     "brand": "Logicool(ロジクール)",
     "price": 2936
-  },
-  "B0BF9QJWBY": {
-    "first_seen": "2026-11-05",
-    "first_seen_at": "2026-11-05T21:15:35+09:00",
-    "last_seen": "2026-11-14",
-    "title": "Logicool G ゲーミングマウス G705 ワイヤレス マウス LIGHTSPEED Bluetooth 2種類無線接続に対応 LIGHTSYNC RGB 85g 軽量 PC windows mac ホワイト G705WL 国内正規品",
-    "percent_off": 24
   },
   "B0DC5WQQ2J": {
     "first_seen": "2026-10-24",
@@ -3270,13 +3303,6 @@
     "first_seen_at": "2026-09-05T22:14:44+09:00",
     "last_seen": "2026-11-11",
     "title": "Bose QuietComfort Ultra Earbuds LE (第2世代) ワイヤレス ノイズキャンセリング Bluetooth イヤホン 最長6時間連続再生 IPX4規格準拠 イマーシブオーディオ 迫力の重低音 ディーププラム",
-    "percent_off": 14
-  },
-  "B0GMWW1GFR": {
-    "first_seen": "2026-11-09",
-    "first_seen_at": "2026-11-09T22:14:55+09:00",
-    "last_seen": "2026-11-11",
-    "title": "CIO 半固体 モバイルバッテリー ワイヤレス充電 5000mAh SMARTCOBY SLIM Ⅱ Wireless 2.2 SS5K(シルバー) | iPhone18 Pro対応, Pixel10対応, ワイヤレス25W急速, USB-C20W対応, 超薄型で携帯",
     "percent_off": 14
   },
   "B0D4Z8X9WF": {
