@@ -459,16 +459,6 @@
     "genre": "充電器",
     "price": 1090
   },
-  "B0C5CBV6L3": {
-    "first_seen": "2026-10-30",
-    "first_seen_at": "2026-10-30T00:15:48+09:00",
-    "last_seen": "2026-11-18",
-    "title": "Anker Prime Wall Charger (67W, 3 ports, GaN) (ブラック) | 充電器【 PD対応/PSE技術基準適合/折りたたみ式プラグ】iphone 18 / 17 Pro / 17 Pro Max 他 iPhone シリーズ MacBook Windows PC iPad Galaxy Android スマートフォン",
-    "percent_off": null,
-    "brand": "Anker",
-    "genre": "充電器",
-    "price": 8490
-  },
   "B08X11GD52": {
     "first_seen": "2026-11-04",
     "first_seen_at": "2026-11-04T00:15:51+09:00",
@@ -678,6 +668,16 @@
     "brand": "バッファロー",
     "genre": "充電器",
     "price": 2950
+  },
+  "B0GF26RSYQ": {
+    "first_seen": "2026-07-27",
+    "first_seen_at": "2026-07-27T12:00:00+09:00",
+    "last_seen": "2026-11-18",
+    "title": "Anker Nano Charger (45W, Display, スイングプラグ) ブラック | 45W USB-C急速充電器 充電状況が見えるディスプレイ搭載。iPhoneのモデルを検知し出力を最適化。180度スイングプラグ採用。iPhone iPad Galaxy MacBook Air対応 PSE技術基準適合",
+    "percent_off": 25,
+    "brand": "Anker",
+    "genre": "モニター・ディスプレイ",
+    "price": 2990
   },
   "B0DNKC8HXP": {
     "first_seen": "2026-08-02",
@@ -1069,15 +1069,15 @@
     "genre": "エアフライヤー",
     "price": 12000
   },
-  "B0GF26RSYQ": {
-    "first_seen": "2026-07-27",
-    "first_seen_at": "2026-07-27T12:00:00+09:00",
+  "B0C5CBV6L3": {
+    "first_seen": "2026-10-30",
+    "first_seen_at": "2026-10-30T00:15:48+09:00",
     "last_seen": "2026-11-18",
-    "title": "Anker Nano Charger (45W, Display, スイングプラグ) ブラック | 45W USB-C急速充電器 充電状況が見えるディスプレイ搭載。iPhoneのモデルを検知し出力を最適化。180度スイングプラグ採用。iPhone iPad Galaxy MacBook Air対応 PSE技術基準適合",
-    "percent_off": 25,
+    "title": "Anker Prime Wall Charger (67W, 3 ports, GaN) (ブラック) | 充電器【 PD対応/PSE技術基準適合/折りたたみ式プラグ】iphone 18 / 17 Pro / 17 Pro Max 他 iPhone シリーズ MacBook Windows PC iPad Galaxy Android スマートフォン",
+    "percent_off": null,
     "brand": "Anker",
-    "genre": "モニター・ディスプレイ",
-    "price": 2990
+    "genre": "充電器",
+    "price": 8490
   },
   "B0DGJBNYVY": {
     "first_seen": "2026-09-05",
