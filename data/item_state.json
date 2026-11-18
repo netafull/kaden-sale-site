@@ -1,14 +1,4 @@
 {
-  "B0FQG21TRG": {
-    "first_seen": "2026-11-12",
-    "first_seen_at": "2026-11-12T17:14:55+09:00",
-    "last_seen": "2026-11-19",
-    "title": "Apple Watch Band - モダンバックル - （42mm）ケース用 - ミッドナイトパープル - L",
-    "percent_off": 39,
-    "brand": "Apple(アップル)",
-    "genre": "Apple製品",
-    "price": 20686
-  },
   "B0DZ7YJC17": {
     "first_seen": "2026-10-26",
     "first_seen_at": "2026-10-26T22:25:29+09:00",
@@ -199,6 +189,16 @@
     "genre": "Apple製品",
     "price": 146599
   },
+  "B0FQFQDN6K": {
+    "first_seen": "2026-10-13",
+    "first_seen_at": "2026-10-13T00:16:25+09:00",
+    "last_seen": "2026-11-19",
+    "title": "Apple AirPods Pro 3 ワイヤレスイヤホン、アクティブノイズキャンセリング、ライブ翻訳、心拍センサー、補聴機能、Bluetoothヘッドホン、空間オーディオ サウンド、USB-C充電ケース、防塵性能と耐汗耐水性能、「探す」対応、Qi充電",
+    "percent_off": null,
+    "brand": "Apple(アップル)",
+    "genre": "Apple製品",
+    "price": 42800
+  },
   "B0FWDCD7YC": {
     "first_seen": "2026-11-09",
     "first_seen_at": "2026-11-09T06:15:48+09:00",
@@ -297,7 +297,7 @@
     "percent_off": 29,
     "brand": "Sony",
     "genre": "ワイヤレスイヤホン",
-    "price": 12454
+    "price": 12450
   },
   "B0DPX7W84T": {
     "first_seen": "2026-10-20",
@@ -379,6 +379,16 @@
     "genre": "モバイルバッテリー",
     "price": 6998
   },
+  "B0CX4C1TVK": {
+    "first_seen": "2026-07-27",
+    "first_seen_at": "2026-07-27T12:00:00+09:00",
+    "last_seen": "2026-11-19",
+    "title": "Anker Power Bank (10000mAh, Fusion, Built-In USB-C ケーブル) ブラック | 10K 30W出力モバイルバッテリー搭載 30W出力USB充電器 / LEDディスプレイ/ケーブル一体型/コンセント一体型/折りたたみ式プラグ 1台3役 / iPhone 18 / 17 / 16 / 15 Android その他各種機器対応",
+    "percent_off": 26,
+    "brand": "Anker",
+    "genre": "モバイルバッテリー",
+    "price": 6620
+  },
   "B0DZ1TGX6T": {
     "first_seen": "2026-07-24",
     "first_seen_at": "2026-07-24T12:00:00+09:00",
@@ -398,16 +408,6 @@
     "brand": "UGREEN",
     "genre": "モバイルバッテリー",
     "price": 2979
-  },
-  "B0CX4C1TVK": {
-    "first_seen": "2026-07-27",
-    "first_seen_at": "2026-07-27T12:00:00+09:00",
-    "last_seen": "2026-11-19",
-    "title": "Anker Power Bank (10000mAh, Fusion, Built-In USB-C ケーブル) ブラック | 10K 30W出力モバイルバッテリー搭載 30W出力USB充電器 / LEDディスプレイ/ケーブル一体型/コンセント一体型/折りたたみ式プラグ 1台3役 / iPhone 18 / 17 / 16 / 15 Android その他各種機器対応",
-    "percent_off": null,
-    "brand": "Anker",
-    "genre": "モバイルバッテリー",
-    "price": 8990
   },
   "B0CXNY69DC": {
     "first_seen": "2026-10-07",
@@ -829,16 +829,6 @@
     "genre": "スマートウォッチ",
     "price": 39591
   },
-  "B0GX8DRYCX": {
-    "first_seen": "2026-09-03",
-    "first_seen_at": "2026-09-03T12:14:47+09:00",
-    "last_seen": "2026-11-19",
-    "title": "HUAWEI WATCH FIT 5 スマートウォッチ 薄型軽量 大画面 GPS内蔵 10日間ロングバッテリー 通知 健康管理 心拍数 睡眠 ブラック | iPhone対応 android対応 1.82インチ画面 2500nits高輝度 ワークアウト 転倒検知 情緒測定 生理周期管理 64GBストレージ 録音機能 ランニング 防水",
-    "percent_off": 18,
-    "brand": "HUAWEI(ファーウェイ)",
-    "genre": "スマートウォッチ",
-    "price": 22300
-  },
   "B0BWF35J1G": {
     "first_seen": "2026-10-15",
     "first_seen_at": "2026-10-15T14:15:44+09:00",
@@ -1078,6 +1068,26 @@
     "brand": "BRUNO",
     "genre": "エアフライヤー",
     "price": 12000
+  },
+  "B0FQG21TRG": {
+    "first_seen": "2026-11-12",
+    "first_seen_at": "2026-11-12T17:14:55+09:00",
+    "last_seen": "2026-11-19",
+    "title": "Apple Watch Band - モダンバックル - （42mm）ケース用 - ミッドナイトパープル - L",
+    "percent_off": 39,
+    "brand": "Apple(アップル)",
+    "genre": "Apple製品",
+    "price": 20686
+  },
+  "B0GX8DRYCX": {
+    "first_seen": "2026-09-03",
+    "first_seen_at": "2026-09-03T12:14:47+09:00",
+    "last_seen": "2026-11-19",
+    "title": "HUAWEI WATCH FIT 5 スマートウォッチ 薄型軽量 大画面 GPS内蔵 10日間ロングバッテリー 通知 健康管理 心拍数 睡眠 ブラック | iPhone対応 android対応 1.82インチ画面 2500nits高輝度 ワークアウト 転倒検知 情緒測定 生理周期管理 64GBストレージ 録音機能 ランニング 防水",
+    "percent_off": 18,
+    "brand": "HUAWEI(ファーウェイ)",
+    "genre": "スマートウォッチ",
+    "price": 22300
   },
   "B0FL6ZD3WL": {
     "first_seen": "2026-07-29",
@@ -1489,16 +1499,6 @@
     "brand": "Anker",
     "genre": "充電器",
     "price": 2990
-  },
-  "B0FQFQDN6K": {
-    "first_seen": "2026-10-13",
-    "first_seen_at": "2026-10-13T00:16:25+09:00",
-    "last_seen": "2026-11-18",
-    "title": "Apple AirPods Pro 3 ワイヤレスイヤホン、アクティブノイズキャンセリング、ライブ翻訳、心拍センサー、補聴機能、Bluetoothヘッドホン、空間オーディオ サウンド、USB-C充電ケース、防塵性能と耐汗耐水性能、「探す」対応、Qi充電",
-    "percent_off": null,
-    "brand": "Apple(アップル)",
-    "genre": "Apple製品",
-    "price": 42800
   },
   "B0GSVNFT8T": {
     "first_seen": "2026-09-30",
