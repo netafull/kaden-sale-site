@@ -244,10 +244,10 @@
     "first_seen_at": "2026-11-09T22:14:55+09:00",
     "last_seen": "2026-11-19",
     "title": "JBL LIVE BEAM 3 ワイヤレスイヤホン スマート充電ケース/LDAC対応ハイレゾ/マルチポイント/ハイブリッド ノイズキャンセリング/IP55防水/ワイヤレス充電対応/ブラック/JBLLIVEBEAM3BLK",
-    "percent_off": 50,
+    "percent_off": 49,
     "brand": "JBL",
     "genre": "ワイヤレスイヤホン",
-    "price": 14000
+    "price": 14179
   },
   "B0F3XFNHCW": {
     "first_seen": "2026-11-01",
@@ -759,6 +759,16 @@
     "genre": "スマートウォッチ",
     "price": 39591
   },
+  "B0GX8BVR4L": {
+    "first_seen": "2026-11-01",
+    "first_seen_at": "2026-11-01T19:15:08+09:00",
+    "last_seen": "2026-11-19",
+    "title": "HUAWEI WATCH FIT 5 スマートウォッチ 薄型軽量 大画面 GPS内蔵 10日間ロングバッテリー 通知 健康管理 心拍数 睡眠 ホワイト | iPhone対応 android対応 1.82インチ画面 2500nits高輝度 ワークアウト 転倒検知 情緒測定 生理周期管理 64GBストレージ 録音機能 ランニング 防水",
+    "percent_off": 17,
+    "brand": "HUAWEI(ファーウェイ)",
+    "genre": "スマートウォッチ",
+    "price": 22770
+  },
   "B0B4JHS716": {
     "first_seen": "2026-09-25",
     "first_seen_at": "2026-09-25T10:14:58+09:00",
@@ -788,16 +798,6 @@
     "brand": "HUAWEI(ファーウェイ)",
     "genre": "スマートウォッチ",
     "price": 22300
-  },
-  "B0GX8BVR4L": {
-    "first_seen": "2026-11-01",
-    "first_seen_at": "2026-11-01T19:15:08+09:00",
-    "last_seen": "2026-11-19",
-    "title": "HUAWEI WATCH FIT 5 スマートウォッチ 薄型軽量 大画面 GPS内蔵 10日間ロングバッテリー 通知 健康管理 心拍数 睡眠 ホワイト | iPhone対応 android対応 1.82インチ画面 2500nits高輝度 ワークアウト 転倒検知 情緒測定 生理周期管理 64GBストレージ 録音機能 ランニング 防水",
-    "percent_off": 17,
-    "brand": "HUAWEI(ファーウェイ)",
-    "genre": "スマートウォッチ",
-    "price": 22542
   },
   "B0DQ7MJ8P3": {
     "first_seen": "2026-08-22",
