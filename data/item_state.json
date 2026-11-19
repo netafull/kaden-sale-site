@@ -469,6 +469,16 @@
     "genre": "充電器",
     "price": 1090
   },
+  "B0FL1SH21C": {
+    "first_seen": "2026-09-07",
+    "first_seen_at": "2026-09-07T21:14:48+09:00",
+    "last_seen": "2026-11-19",
+    "title": "Anker Zolo Charger (70W, 4 Ports) ホワイト | 70W USB-C急速充電器 4台同時充電対応。USB-C3ポートとUSB-A1ポートを搭載しPCとスマホをまとめて充電。MacBook Pro MacBook Air iPhone iPad Galaxy対応 PSE技術基準適合",
+    "percent_off": 39,
+    "brand": "Anker",
+    "genre": "充電器",
+    "price": 3989
+  },
   "B08X11GD52": {
     "first_seen": "2026-11-04",
     "first_seen_at": "2026-11-04T00:15:51+09:00",
@@ -498,16 +508,6 @@
     "brand": "CIO",
     "genre": "充電器",
     "price": 6589
-  },
-  "B0F99DF9RQ": {
-    "first_seen": "2026-08-26",
-    "first_seen_at": "2026-08-26T22:18:31+09:00",
-    "last_seen": "2026-11-19",
-    "title": "Anker Nano Charger (70W, 3 Ports) ホワイト | 70W USB-C急速充電器 小型で3台同時充電。USB-C2ポートとUSB-A1ポート搭載。GaN採用で持ち運びにも便利。MacBook Pro MacBook Air iPhone iPad Galaxy対応 PSE技術基準適合",
-    "percent_off": 34,
-    "brand": "Anker",
-    "genre": "充電器",
-    "price": 3980
   },
   "B0B2QR8HN9": {
     "first_seen": "2026-08-09",
@@ -737,7 +737,7 @@
     "percent_off": 28,
     "brand": "ガーミン(GARMIN)",
     "genre": "スマートウォッチ",
-    "price": 103316
+    "price": 103216
   },
   "B0FKH3WQ41": {
     "first_seen": "2026-07-30",
@@ -779,6 +779,16 @@
     "genre": "スマートウォッチ",
     "price": 39591
   },
+  "B0GX8BVR4L": {
+    "first_seen": "2026-11-01",
+    "first_seen_at": "2026-11-01T19:15:08+09:00",
+    "last_seen": "2026-11-19",
+    "title": "HUAWEI WATCH FIT 5 スマートウォッチ 薄型軽量 大画面 GPS内蔵 10日間ロングバッテリー 通知 健康管理 心拍数 睡眠 ホワイト | iPhone対応 android対応 1.82インチ画面 2500nits高輝度 ワークアウト 転倒検知 情緒測定 生理周期管理 64GBストレージ 録音機能 ランニング 防水",
+    "percent_off": 17,
+    "brand": "HUAWEI(ファーウェイ)",
+    "genre": "スマートウォッチ",
+    "price": 22770
+  },
   "B0B4JHS716": {
     "first_seen": "2026-09-25",
     "first_seen_at": "2026-09-25T10:14:58+09:00",
@@ -818,16 +828,6 @@
     "brand": "ガーミン(GARMIN)",
     "genre": "スマートウォッチ",
     "price": 52074
-  },
-  "B0GX8BVR4L": {
-    "first_seen": "2026-11-01",
-    "first_seen_at": "2026-11-01T19:15:08+09:00",
-    "last_seen": "2026-11-19",
-    "title": "HUAWEI WATCH FIT 5 スマートウォッチ 薄型軽量 大画面 GPS内蔵 10日間ロングバッテリー 通知 健康管理 心拍数 睡眠 ホワイト | iPhone対応 android対応 1.82インチ画面 2500nits高輝度 ワークアウト 転倒検知 情緒測定 生理周期管理 64GBストレージ 録音機能 ランニング 防水",
-    "percent_off": 17,
-    "brand": "HUAWEI(ファーウェイ)",
-    "genre": "スマートウォッチ",
-    "price": 22542
   },
   "B0DQ7MJ8P3": {
     "first_seen": "2026-08-22",
@@ -1069,6 +1069,16 @@
     "genre": "エアフライヤー",
     "price": 12000
   },
+  "B0F99DF9RQ": {
+    "first_seen": "2026-08-26",
+    "first_seen_at": "2026-08-26T22:18:31+09:00",
+    "last_seen": "2026-11-19",
+    "title": "Anker Nano Charger (70W, 3 Ports) ホワイト | 70W USB-C急速充電器 小型で3台同時充電。USB-C2ポートとUSB-A1ポート搭載。GaN採用で持ち運びにも便利。MacBook Pro MacBook Air iPhone iPad Galaxy対応 PSE技術基準適合",
+    "percent_off": 34,
+    "brand": "Anker",
+    "genre": "充電器",
+    "price": 3980
+  },
   "B0FQFQDN6K": {
     "first_seen": "2026-10-13",
     "first_seen_at": "2026-10-13T00:16:25+09:00",
@@ -1098,16 +1108,6 @@
     "brand": "Logicool(ロジクール)",
     "genre": "キーボード・マウス",
     "price": 3251
-  },
-  "B0FL1SH21C": {
-    "first_seen": "2026-09-07",
-    "first_seen_at": "2026-09-07T21:14:48+09:00",
-    "last_seen": "2026-11-19",
-    "title": "Anker Zolo Charger (70W, 4 Ports) ホワイト | 70W USB-C急速充電器 4台同時充電対応。USB-C3ポートとUSB-A1ポートを搭載しPCとスマホをまとめて充電。MacBook Pro MacBook Air iPhone iPad Galaxy対応 PSE技術基準適合",
-    "percent_off": 39,
-    "brand": "Anker",
-    "genre": "充電器",
-    "price": 3989
   },
   "B0B2QQDKR8": {
     "first_seen": "2026-10-29",
