@@ -274,10 +274,10 @@
     "first_seen_at": "2026-11-09T22:14:55+09:00",
     "last_seen": "2026-11-20",
     "title": "JBL LIVE BEAM 3 ワイヤレスイヤホン スマート充電ケース/LDAC対応ハイレゾ/マルチポイント/ハイブリッド ノイズキャンセリング/IP55防水/ワイヤレス充電対応/ブラック/JBLLIVEBEAM3BLK",
-    "percent_off": 49,
+    "percent_off": 50,
     "brand": "JBL",
     "genre": "ワイヤレスイヤホン",
-    "price": 14181
+    "price": 14000
   },
   "B0F3XFNHCW": {
     "first_seen": "2026-11-01",
@@ -288,6 +288,16 @@
     "brand": "Sony",
     "genre": "ワイヤレスイヤホン",
     "price": 12450
+  },
+  "B0DPX7W84T": {
+    "first_seen": "2026-10-20",
+    "first_seen_at": "2026-10-20T15:15:01+09:00",
+    "last_seen": "2026-11-20",
+    "title": "Anker Soundcore Q30i ブラック | （Bluetooth5.3 ワイヤレス ヘッドホン）【ウルトラノイズキャンセリング/外音取り込みモード/Bluetooth対応/ハイレゾ対応（AUX接続時） / 最大80時間音楽再生 / マイク内蔵/専用アプリ対応】",
+    "percent_off": 10,
+    "brand": "Soundcore",
+    "genre": "ワイヤレスイヤホン",
+    "price": 8990
   },
   "B071G7JJRL": {
     "first_seen": "2026-11-01",
@@ -368,16 +378,6 @@
     "brand": "UGREEN",
     "genre": "モバイルバッテリー",
     "price": 2150
-  },
-  "B0GCZMBX21": {
-    "first_seen": "2026-11-19",
-    "first_seen_at": "2026-11-19T00:14:50+09:00",
-    "last_seen": "2026-11-20",
-    "title": "UGREEN 10000mAh PD20W 薄型モバイルバッテリー（着脱式・内蔵式USB-Cケーブル各1本付属）ブルー PB524 | USB-Cケーブル2本を本体に収納、10000mAh大容量と20WPD急速充電に対応、液晶ディスプレイで残量を一目で確認、iPhon18シリーズに対応、スマホ約2回分の充電が可能",
-    "percent_off": 25,
-    "brand": "UGREEN",
-    "genre": "モバイルバッテリー",
-    "price": 2979
   },
   "B0CX4C1TVK": {
     "first_seen": "2026-07-27",
@@ -509,16 +509,6 @@
     "genre": "充電器",
     "price": 6589
   },
-  "B0F99FCSX7": {
-    "first_seen": "2026-07-27",
-    "first_seen_at": "2026-07-27T12:00:00+09:00",
-    "last_seen": "2026-11-20",
-    "title": "Anker Nano Charger (70W, 3 Ports) ブラック | 70W USB-C急速充電器 小型で3台同時充電。USB-C2ポートとUSB-A1ポート搭載。GaN採用で持ち運びにも便利。MacBook Pro MacBook Air iPhone iPad Galaxy対応 PSE技術基準適合",
-    "percent_off": null,
-    "brand": "Anker",
-    "genre": "充電器",
-    "price": 5990
-  },
   "B0B2QR8HN9": {
     "first_seen": "2026-08-09",
     "first_seen_at": "2026-08-09T19:54:50+09:00",
@@ -649,16 +639,6 @@
     "genre": "充電器",
     "price": 1390
   },
-  "B0FJMD3Y45": {
-    "first_seen": "2026-09-27",
-    "first_seen_at": "2026-09-27T21:15:00+09:00",
-    "last_seen": "2026-11-20",
-    "title": "UGREEN 充電器 type-c 30W (2*USB-C+1*USB-A) 【PSE技術基準適合/PD3.0対応/30W急速充電/コンパクト】 | iPhone18/17/16/15/14/13/iPad/GalaxyS25-S10/Google Pixel/AirPodsなどに対応（ブルー）",
-    "percent_off": 20,
-    "brand": "UGREEN",
-    "genre": "充電器",
-    "price": 1584
-  },
   "B0DW2SYD5H": {
     "first_seen": "2026-08-15",
     "first_seen_at": "2026-08-15T20:37:29+09:00",
@@ -688,6 +668,16 @@
     "brand": "UGREEN",
     "genre": "充電器",
     "price": 3350
+  },
+  "B0FL1S48XY": {
+    "first_seen": "2026-09-08",
+    "first_seen_at": "2026-09-08T21:14:34+09:00",
+    "last_seen": "2026-11-20",
+    "title": "Anker Zolo Charger (70W, 4 Ports) ブラック | 70W USB-C急速充電器 4台同時充電対応。USB-C3ポートとUSB-A1ポートを搭載しPCとスマホをまとめて充電。MacBook Pro MacBook Air iPhone iPad Galaxy対応 PSE技術基準適合",
+    "percent_off": null,
+    "brand": "Anker",
+    "genre": "充電器",
+    "price": 6490
   },
   "B08W1VZRY7": {
     "first_seen": "2026-11-02",
@@ -768,6 +758,16 @@
     "brand": "ガーミン(GARMIN)",
     "genre": "スマートウォッチ",
     "price": 63800
+  },
+  "B0FKH3WQ41": {
+    "first_seen": "2026-07-30",
+    "first_seen_at": "2026-07-30T12:00:00+09:00",
+    "last_seen": "2026-11-20",
+    "title": "HUAWEI WATCH GT 6 Pro 46mm スマートウォッチ 大画面 GPS搭載 21日間バッテリー 心電図 ゴルフ GPS 通知 ブラック | iPhone対応 android対応 1.47インチ画面 3000nits高輝度 サイクリング/登山/進化したゴルフナビ スポーツモード100種類以上 ランニング 防水 健康管理 情緒測定",
+    "percent_off": 24,
+    "brand": "HUAWEI(ファーウェイ)",
+    "genre": "スマートウォッチ",
+    "price": 36800
   },
   "B0FMDBYSQ9": {
     "first_seen": "2026-10-17",
@@ -1059,6 +1059,36 @@
     "genre": "エアフライヤー",
     "price": 12000
   },
+  "B0GCZMBX21": {
+    "first_seen": "2026-11-19",
+    "first_seen_at": "2026-11-19T00:14:50+09:00",
+    "last_seen": "2026-11-20",
+    "title": "UGREEN 10000mAh PD20W 薄型モバイルバッテリー（着脱式・内蔵式USB-Cケーブル各1本付属）ブルー PB524 | USB-Cケーブル2本を本体に収納、10000mAh大容量と20WPD急速充電に対応、液晶ディスプレイで残量を一目で確認、iPhon18シリーズに対応、スマホ約2回分の充電が可能",
+    "percent_off": 25,
+    "brand": "UGREEN",
+    "genre": "モバイルバッテリー",
+    "price": 2979
+  },
+  "B0F99FCSX7": {
+    "first_seen": "2026-07-27",
+    "first_seen_at": "2026-07-27T12:00:00+09:00",
+    "last_seen": "2026-11-20",
+    "title": "Anker Nano Charger (70W, 3 Ports) ブラック | 70W USB-C急速充電器 小型で3台同時充電。USB-C2ポートとUSB-A1ポート搭載。GaN採用で持ち運びにも便利。MacBook Pro MacBook Air iPhone iPad Galaxy対応 PSE技術基準適合",
+    "percent_off": null,
+    "brand": "Anker",
+    "genre": "充電器",
+    "price": 5990
+  },
+  "B0FJMD3Y45": {
+    "first_seen": "2026-09-27",
+    "first_seen_at": "2026-09-27T21:15:00+09:00",
+    "last_seen": "2026-11-20",
+    "title": "UGREEN 充電器 type-c 30W (2*USB-C+1*USB-A) 【PSE技術基準適合/PD3.0対応/30W急速充電/コンパクト】 | iPhone18/17/16/15/14/13/iPad/GalaxyS25-S10/Google Pixel/AirPodsなどに対応（ブルー）",
+    "percent_off": 20,
+    "brand": "UGREEN",
+    "genre": "充電器",
+    "price": 1584
+  },
   "B0F6NC41DZ": {
     "first_seen": "2026-08-06",
     "first_seen_at": "2026-08-06T21:18:24+09:00",
@@ -1349,16 +1379,6 @@
     "genre": "SSD・メモリーカード",
     "price": 1705
   },
-  "B0FKH3WQ41": {
-    "first_seen": "2026-07-30",
-    "first_seen_at": "2026-07-30T12:00:00+09:00",
-    "last_seen": "2026-11-19",
-    "title": "HUAWEI WATCH GT 6 Pro 46mm スマートウォッチ 大画面 GPS搭載 21日間バッテリー 心電図 ゴルフ GPS 通知 ブラック | iPhone対応 android対応 1.47インチ画面 3000nits高輝度 サイクリング/登山/進化したゴルフナビ スポーツモード100種類以上 ランニング 防水 健康管理 情緒測定",
-    "percent_off": 24,
-    "brand": "HUAWEI(ファーウェイ)",
-    "genre": "スマートウォッチ",
-    "price": 36800
-  },
   "B0BWF463MW": {
     "first_seen": "2026-08-04",
     "first_seen_at": "2026-08-04T12:38:09+09:00",
@@ -1388,16 +1408,6 @@
     "brand": "HUAWEI(ファーウェイ)",
     "genre": "スマートウォッチ",
     "price": 22542
-  },
-  "B0DPX7W84T": {
-    "first_seen": "2026-10-20",
-    "first_seen_at": "2026-10-20T15:15:01+09:00",
-    "last_seen": "2026-11-19",
-    "title": "Anker Soundcore Q30i ブラック | （Bluetooth5.3 ワイヤレス ヘッドホン）【ウルトラノイズキャンセリング/外音取り込みモード/Bluetooth対応/ハイレゾ対応（AUX接続時） / 最大80時間音楽再生 / マイク内蔵/専用アプリ対応】",
-    "percent_off": 10,
-    "brand": "Soundcore",
-    "genre": "ワイヤレスイヤホン",
-    "price": 8990
   },
   "B0DDKHF9XY": {
     "first_seen": "2026-08-16",
@@ -2210,16 +2220,6 @@
     "brand": "UGREEN",
     "genre": "モバイルバッテリー",
     "price": 6880
-  },
-  "B0FL1S48XY": {
-    "first_seen": "2026-09-08",
-    "first_seen_at": "2026-09-08T21:14:34+09:00",
-    "last_seen": "2026-11-16",
-    "title": "Anker Zolo Charger (70W, 4 Ports) ブラック | 70W USB-C急速充電器 4台同時充電対応。USB-C3ポートとUSB-A1ポートを搭載しPCとスマホをまとめて充電。MacBook Pro MacBook Air iPhone iPad Galaxy対応 PSE技術基準適合",
-    "percent_off": null,
-    "brand": "Anker",
-    "genre": "充電器",
-    "price": 6490
   },
   "B0FH2981XZ": {
     "first_seen": "2026-11-15",
