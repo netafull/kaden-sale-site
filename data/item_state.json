@@ -209,16 +209,6 @@
     "genre": "Apple製品",
     "price": 433813
   },
-  "B0DGJL1BBJ": {
-    "first_seen": "2026-11-17",
-    "first_seen_at": "2026-11-17T11:14:58+09:00",
-    "last_seen": "2026-11-19",
-    "title": "Apple Watch Band - 46mmケース用ブラックスポーツバンド - S/M",
-    "percent_off": 5,
-    "brand": "Apple(アップル)",
-    "genre": "Apple製品",
-    "price": 7485
-  },
   "B0FWDBWC7F": {
     "first_seen": "2026-10-22",
     "first_seen_at": "2026-10-22T00:16:22+09:00",
@@ -274,20 +264,20 @@
     "first_seen_at": "2026-11-09T22:14:55+09:00",
     "last_seen": "2026-11-19",
     "title": "JBL LIVE BEAM 3 ワイヤレスイヤホン スマート充電ケース/LDAC対応ハイレゾ/マルチポイント/ハイブリッド ノイズキャンセリング/IP55防水/ワイヤレス充電対応/ブラック/JBLLIVEBEAM3BLK",
-    "percent_off": 49,
+    "percent_off": 50,
     "brand": "JBL",
     "genre": "ワイヤレスイヤホン",
-    "price": 14167
+    "price": 14000
   },
   "B0F3XFNHCW": {
     "first_seen": "2026-11-01",
     "first_seen_at": "2026-11-01T02:15:45+09:00",
     "last_seen": "2026-11-19",
     "title": "ソニー(SONY) WF-C710N ブラック ワイヤレスイヤホン 高性能ノイズキャンセリング Bluetoothロングバッテリー 外音取り込み IPX4防滴性能 軽量 コンパクト マルチポイント接続",
-    "percent_off": 29,
+    "percent_off": 30,
     "brand": "Sony",
     "genre": "ワイヤレスイヤホン",
-    "price": 12450
+    "price": 12325
   },
   "B0DPX7W84T": {
     "first_seen": "2026-10-20",
@@ -319,6 +309,16 @@
     "genre": "ワイヤレスイヤホン",
     "price": 1291
   },
+  "B0F6NFHB31": {
+    "first_seen": "2026-07-25",
+    "first_seen_at": "2026-07-25T12:00:00+09:00",
+    "last_seen": "2026-11-19",
+    "title": "UGREEN Air モバイルバッテリー 5000mAh 8.6mm超薄型 Qi2 15W MagSafe iPhone18Pro対応 | 【ATL製セル×難燃技術】マグネット式ワイヤレス充電｜軽量・小型設計｜USB-C PD 20W対応 ｜パススルー充電対応｜iPhone18 Pro/17/16/15 シリーズ/ Air対応｜PB580｜グレー",
+    "percent_off": 39,
+    "brand": "UGREEN",
+    "genre": "モバイルバッテリー",
+    "price": 4186
+  },
   "B0DNLR2NYN": {
     "first_seen": "2026-10-13",
     "first_seen_at": "2026-10-13T22:15:31+09:00",
@@ -328,16 +328,6 @@
     "brand": "Anker",
     "genre": "モバイルバッテリー",
     "price": 7990
-  },
-  "B0F6NC41DZ": {
-    "first_seen": "2026-08-06",
-    "first_seen_at": "2026-08-06T21:18:24+09:00",
-    "last_seen": "2026-11-19",
-    "title": "UGREEN Air モバイルバッテリー 10000mAh 薄型 Qi2 15W MagSafe ケーブル内蔵 iPhone18Pro対応 | 【ATL製セル×難燃技術】マグネット式ワイヤレス充電｜軽量・小型設計｜USB-C PD 30W対応 ｜パススルー充電対応｜ iPhone18 Pro/17/16/15 シリーズ/ Air対応｜PB570｜グレー",
-    "percent_off": 35,
-    "brand": "UGREEN",
-    "genre": "モバイルバッテリー",
-    "price": 5586
   },
   "B0DNLVY85L": {
     "first_seen": "2026-10-01",
@@ -359,6 +349,26 @@
     "genre": "モバイルバッテリー",
     "price": 8386
   },
+  "B0C3GTMX5M": {
+    "first_seen": "2026-09-18",
+    "first_seen_at": "2026-09-18T21:14:31+09:00",
+    "last_seen": "2026-11-19",
+    "title": "UGREEN 100W モバイルバッテリー 20000mAh 大容量 3ポート USB-C×2Type-A×1 iPhone 18 Pro/Duo対応 | 急速充電対応 PD・PPS 2.0 パススルー/低電流モード PSE技術基準適合 MacBook/iPhone 18 Duo/17/16/15シリーズなど/スマホ/ノートPC/出張/防災/旅行対応 PB720【VGP2024受賞】",
+    "percent_off": 30,
+    "brand": "UGREEN",
+    "genre": "モバイルバッテリー",
+    "price": 6998
+  },
+  "B0FB9JHXTX": {
+    "first_seen": "2026-11-10",
+    "first_seen_at": "2026-11-10T14:14:58+09:00",
+    "last_seen": "2026-11-19",
+    "title": "CIO SMARTCOBY TRIO 35W モバイルバッテリー PD USB-C×2 USB-A×1 大容量20000mAh (ホワイト) | MacBook対応, WindowsノートPC対応, iPhone対応, パススルー充電対応, 3ポート同時給電",
+    "percent_off": null,
+    "brand": "CIO",
+    "genre": "モバイルバッテリー",
+    "price": 6980
+  },
   "B0DZ1TGX6T": {
     "first_seen": "2026-07-24",
     "first_seen_at": "2026-07-24T12:00:00+09:00",
@@ -378,16 +388,6 @@
     "brand": "UGREEN",
     "genre": "モバイルバッテリー",
     "price": 2979
-  },
-  "B0DSPVDYQ9": {
-    "first_seen": "2026-10-13",
-    "first_seen_at": "2026-10-13T00:16:25+09:00",
-    "last_seen": "2026-11-19",
-    "title": "UGREEN Nexode【20000mAh／PD45W／USB-A×1＆Type-C×2／充電コード付き】モバイルバッテリー PB536 | PD・PPS対応 3台同時充電 LED残量表示 パススルー/低電流モード搭載 PSE技術基準適合 iPhone18/17/16/15 Android/iPad/MacBook/Switch対応 機内持ち込み可 旅行/出張/アウトドア/停電/防災緊急用",
-    "percent_off": 22,
-    "brand": "UGREEN",
-    "genre": "モバイルバッテリー",
-    "price": 4180
   },
   "B0CX4C1TVK": {
     "first_seen": "2026-07-27",
@@ -789,6 +789,16 @@
     "genre": "スマートウォッチ",
     "price": 39591
   },
+  "B0GX8BVR4L": {
+    "first_seen": "2026-11-01",
+    "first_seen_at": "2026-11-01T19:15:08+09:00",
+    "last_seen": "2026-11-19",
+    "title": "HUAWEI WATCH FIT 5 スマートウォッチ 薄型軽量 大画面 GPS内蔵 10日間ロングバッテリー 通知 健康管理 心拍数 睡眠 ホワイト | iPhone対応 android対応 1.82インチ画面 2500nits高輝度 ワークアウト 転倒検知 情緒測定 生理周期管理 64GBストレージ 録音機能 ランニング 防水",
+    "percent_off": 17,
+    "brand": "HUAWEI(ファーウェイ)",
+    "genre": "スマートウォッチ",
+    "price": 22770
+  },
   "B0B4JHS716": {
     "first_seen": "2026-09-25",
     "first_seen_at": "2026-09-25T10:14:58+09:00",
@@ -818,26 +828,6 @@
     "brand": "HUAWEI(ファーウェイ)",
     "genre": "スマートウォッチ",
     "price": 22300
-  },
-  "B0BWF35J1G": {
-    "first_seen": "2026-10-15",
-    "first_seen_at": "2026-10-15T14:15:44+09:00",
-    "last_seen": "2026-11-19",
-    "title": "GARMIN（ガーミン）GPSランニングウォッチ Forerunner 265 Music White 【日本正規品】",
-    "percent_off": 17,
-    "brand": "ガーミン(GARMIN)",
-    "genre": "スマートウォッチ",
-    "price": 52074
-  },
-  "B0GX8BVR4L": {
-    "first_seen": "2026-11-01",
-    "first_seen_at": "2026-11-01T19:15:08+09:00",
-    "last_seen": "2026-11-19",
-    "title": "HUAWEI WATCH FIT 5 スマートウォッチ 薄型軽量 大画面 GPS内蔵 10日間ロングバッテリー 通知 健康管理 心拍数 睡眠 ホワイト | iPhone対応 android対応 1.82インチ画面 2500nits高輝度 ワークアウト 転倒検知 情緒測定 生理周期管理 64GBストレージ 録音機能 ランニング 防水",
-    "percent_off": 17,
-    "brand": "HUAWEI(ファーウェイ)",
-    "genre": "スマートウォッチ",
-    "price": 22542
   },
   "B0DQ7MJ8P3": {
     "first_seen": "2026-08-22",
@@ -1049,6 +1039,16 @@
     "genre": "キーボード・マウス",
     "price": 4373
   },
+  "B0DPF33WVV": {
+    "first_seen": "2026-09-17",
+    "first_seen_at": "2026-09-17T00:14:58+09:00",
+    "last_seen": "2026-11-19",
+    "title": "東プレ GX1 Keyboard 獅白ぼたん モデル 日本語配列 REALFORCE ゲーミングキーボード TKL 91キー X1UCS1 KB0911",
+    "percent_off": 18,
+    "brand": "REALFORCE",
+    "genre": "キーボード・マウス",
+    "price": 39980
+  },
   "B0CZ8X3DH8": {
     "first_seen": "2026-07-26",
     "first_seen_at": "2026-07-26T12:00:00+09:00",
@@ -1089,25 +1089,45 @@
     "genre": "エアフライヤー",
     "price": 12000
   },
-  "B0F6NFHB31": {
-    "first_seen": "2026-07-25",
-    "first_seen_at": "2026-07-25T12:00:00+09:00",
+  "B0DGJL1BBJ": {
+    "first_seen": "2026-11-17",
+    "first_seen_at": "2026-11-17T11:14:58+09:00",
     "last_seen": "2026-11-19",
-    "title": "UGREEN Air モバイルバッテリー 5000mAh 8.6mm超薄型 Qi2 15W MagSafe iPhone18Pro対応 | 【ATL製セル×難燃技術】マグネット式ワイヤレス充電｜軽量・小型設計｜USB-C PD 20W対応 ｜パススルー充電対応｜iPhone18 Pro/17/16/15 シリーズ/ Air対応｜PB580｜グレー",
-    "percent_off": 39,
-    "brand": "UGREEN",
-    "genre": "モバイルバッテリー",
-    "price": 4186
+    "title": "Apple Watch Band - 46mmケース用ブラックスポーツバンド - S/M",
+    "percent_off": 5,
+    "brand": "Apple(アップル)",
+    "genre": "Apple製品",
+    "price": 7485
   },
-  "B0C3GTMX5M": {
-    "first_seen": "2026-09-18",
-    "first_seen_at": "2026-09-18T21:14:31+09:00",
+  "B0F6NC41DZ": {
+    "first_seen": "2026-08-06",
+    "first_seen_at": "2026-08-06T21:18:24+09:00",
     "last_seen": "2026-11-19",
-    "title": "UGREEN 100W モバイルバッテリー 20000mAh 大容量 3ポート USB-C×2Type-A×1 iPhone 18 Pro/Duo対応 | 急速充電対応 PD・PPS 2.0 パススルー/低電流モード PSE技術基準適合 MacBook/iPhone 18 Duo/17/16/15シリーズなど/スマホ/ノートPC/出張/防災/旅行対応 PB720【VGP2024受賞】",
-    "percent_off": 30,
+    "title": "UGREEN Air モバイルバッテリー 10000mAh 薄型 Qi2 15W MagSafe ケーブル内蔵 iPhone18Pro対応 | 【ATL製セル×難燃技術】マグネット式ワイヤレス充電｜軽量・小型設計｜USB-C PD 30W対応 ｜パススルー充電対応｜ iPhone18 Pro/17/16/15 シリーズ/ Air対応｜PB570｜グレー",
+    "percent_off": 35,
     "brand": "UGREEN",
     "genre": "モバイルバッテリー",
-    "price": 6998
+    "price": 5586
+  },
+  "B0DSPVDYQ9": {
+    "first_seen": "2026-10-13",
+    "first_seen_at": "2026-10-13T00:16:25+09:00",
+    "last_seen": "2026-11-19",
+    "title": "UGREEN Nexode【20000mAh／PD45W／USB-A×1＆Type-C×2／充電コード付き】モバイルバッテリー PB536 | PD・PPS対応 3台同時充電 LED残量表示 パススルー/低電流モード搭載 PSE技術基準適合 iPhone18/17/16/15 Android/iPad/MacBook/Switch対応 機内持ち込み可 旅行/出張/アウトドア/停電/防災緊急用",
+    "percent_off": 22,
+    "brand": "UGREEN",
+    "genre": "モバイルバッテリー",
+    "price": 4180
+  },
+  "B0BWF35J1G": {
+    "first_seen": "2026-10-15",
+    "first_seen_at": "2026-10-15T14:15:44+09:00",
+    "last_seen": "2026-11-19",
+    "title": "GARMIN（ガーミン）GPSランニングウォッチ Forerunner 265 Music White 【日本正規品】",
+    "percent_off": 17,
+    "brand": "ガーミン(GARMIN)",
+    "genre": "スマートウォッチ",
+    "price": 52074
   },
   "B0F99DF9RQ": {
     "first_seen": "2026-08-26",
@@ -1980,16 +2000,6 @@
     "brand": "Logicool(ロジクール)",
     "genre": "キーボード・マウス",
     "price": 4364
-  },
-  "B0DPF33WVV": {
-    "first_seen": "2026-09-17",
-    "first_seen_at": "2026-09-17T00:14:58+09:00",
-    "last_seen": "2026-11-16",
-    "title": "東プレ GX1 Keyboard 獅白ぼたん モデル 日本語配列 REALFORCE ゲーミングキーボード TKL 91キー X1UCS1 KB0911",
-    "percent_off": 19,
-    "brand": "REALFORCE",
-    "genre": "キーボード・マウス",
-    "price": 39380
   },
   "B0CDBY9P5Q": {
     "first_seen": "2026-10-20",
@@ -2995,13 +3005,6 @@
     "last_seen": "2026-11-12",
     "title": "[アップル] Watch Ultra 3(GPS + Cellularモデル)- 49mmブラックチタニウムケースとブラックチタニウムミラネーゼループ - L + 2年延長 AppleCare+ for Apple Watch Ultra 3",
     "percent_off": 11
-  },
-  "B0FB9JHXTX": {
-    "first_seen": "2026-11-10",
-    "first_seen_at": "2026-11-10T14:14:58+09:00",
-    "last_seen": "2026-11-12",
-    "title": "CIO SMARTCOBY TRIO 35W モバイルバッテリー PD USB-C×2 USB-A×1 大容量20000mAh (ホワイト) | MacBook対応, WindowsノートPC対応, iPhone対応, パススルー充電対応, 3ポート同時給電",
-    "percent_off": 36
   },
   "B0HF7K6YZD": {
     "first_seen": "2026-11-07",

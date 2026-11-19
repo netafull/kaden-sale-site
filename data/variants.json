@@ -480,8 +480,8 @@
     },
     "B0DGJL1BBJ": {
      "last_seen": "2026-11-19",
-     "pct": 5,
-     "points_pct": 1
+     "pct": null,
+     "points_pct": null
     },
     "B0DGJL49RX": {
      "last_seen": "2026-11-19",
@@ -3468,7 +3468,7 @@
    },
    "genre": "Apple製品",
    "label": "Apple 2026 MacBook Air M5チップ搭載15インチノートブッ",
-   "last_sweep_at": "2026-11-19T08:07:21+09:00",
+   "last_sweep_at": "2026-11-19T14:07:23+09:00",
    "members": {
     "B0GR1JD976": {
      "last_seen": "2026-11-19",
