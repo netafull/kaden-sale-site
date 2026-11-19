@@ -29,6 +29,16 @@
     "genre": "Apple製品",
     "price": 119800
   },
+  "B0FQGHYWRH": {
+    "first_seen": "2026-10-01",
+    "first_seen_at": "2026-10-01T23:14:55+09:00",
+    "last_seen": "2026-11-20",
+    "title": "Apple Watch Ultra 3(GPS + Cellularモデル)- 49mmナチュラルチタニウムケースとライトブルーアルパインループ - S",
+    "percent_off": 16,
+    "brand": "Apple(アップル)",
+    "genre": "Apple製品",
+    "price": 119800
+  },
   "B0GJTW9CL8": {
     "first_seen": "2026-08-07",
     "first_seen_at": "2026-08-07T09:18:51+09:00",
@@ -59,6 +69,16 @@
     "genre": "Apple製品",
     "price": 136599
   },
+  "B0FRZ35PL3": {
+    "first_seen": "2026-10-01",
+    "first_seen_at": "2026-10-01T23:14:55+09:00",
+    "last_seen": "2026-11-20",
+    "title": "Apple Watch Ultra 3(GPS + Cellularモデル)- 49mmナチュラルチタニウムケースとライトブルーアルパインループ - S + 2年延長 AppleCare+ for Apple Watch Ultra 3",
+    "percent_off": 15,
+    "brand": "Apple(アップル)",
+    "genre": "Apple製品",
+    "price": 136599
+  },
   "B0FQFW26JS": {
     "first_seen": "2026-09-26",
     "first_seen_at": "2026-09-26T22:15:02+09:00",
@@ -78,16 +98,6 @@
     "brand": "Apple(アップル)",
     "genre": "Apple製品",
     "price": 124800
-  },
-  "B0FQGHYWRH": {
-    "first_seen": "2026-10-01",
-    "first_seen_at": "2026-10-01T23:14:55+09:00",
-    "last_seen": "2026-11-20",
-    "title": "Apple Watch Ultra 3(GPS + Cellularモデル)- 49mmナチュラルチタニウムケースとライトブルーアルパインループ - S",
-    "percent_off": 13,
-    "brand": "Apple(アップル)",
-    "genre": "Apple製品",
-    "price": 124040
   },
   "B0FQFQ2PH4": {
     "first_seen": "2026-10-17",
@@ -124,16 +134,6 @@
     "first_seen_at": "2026-10-01T23:14:55+09:00",
     "last_seen": "2026-11-20",
     "title": "Apple Watch Ultra 3(GPS + Cellularモデル)- 49mmナチュラルチタニウムケースとライトブルーアルパインループ - M + 2年延長 AppleCare+ for Apple Watch Ultra 3",
-    "percent_off": 12,
-    "brand": "Apple(アップル)",
-    "genre": "Apple製品",
-    "price": 140839
-  },
-  "B0FRZ35PL3": {
-    "first_seen": "2026-10-01",
-    "first_seen_at": "2026-10-01T23:14:55+09:00",
-    "last_seen": "2026-11-20",
-    "title": "Apple Watch Ultra 3(GPS + Cellularモデル)- 49mmナチュラルチタニウムケースとライトブルーアルパインループ - S + 2年延長 AppleCare+ for Apple Watch Ultra 3",
     "percent_off": 12,
     "brand": "Apple(アップル)",
     "genre": "Apple製品",
@@ -284,10 +284,10 @@
     "first_seen_at": "2026-11-01T02:15:45+09:00",
     "last_seen": "2026-11-20",
     "title": "ソニー(SONY) WF-C710N ブラック ワイヤレスイヤホン 高性能ノイズキャンセリング Bluetoothロングバッテリー 外音取り込み IPX4防滴性能 軽量 コンパクト マルチポイント接続",
-    "percent_off": 29,
+    "percent_off": 30,
     "brand": "Sony",
     "genre": "ワイヤレスイヤホン",
-    "price": 12450
+    "price": 12325
   },
   "B0DPX7W84T": {
     "first_seen": "2026-10-20",
@@ -389,16 +389,6 @@
     "genre": "モバイルバッテリー",
     "price": 2150
   },
-  "B0GCZMBX21": {
-    "first_seen": "2026-11-19",
-    "first_seen_at": "2026-11-19T00:14:50+09:00",
-    "last_seen": "2026-11-20",
-    "title": "UGREEN 10000mAh PD20W 薄型モバイルバッテリー（着脱式・内蔵式USB-Cケーブル各1本付属）ブルー PB524 | USB-Cケーブル2本を本体に収納、10000mAh大容量と20WPD急速充電に対応、液晶ディスプレイで残量を一目で確認、iPhon18シリーズに対応、スマホ約2回分の充電が可能",
-    "percent_off": 25,
-    "brand": "UGREEN",
-    "genre": "モバイルバッテリー",
-    "price": 2979
-  },
   "B0CX4C1TVK": {
     "first_seen": "2026-07-27",
     "first_seen_at": "2026-07-27T12:00:00+09:00",
@@ -458,6 +448,16 @@
     "brand": "UGREEN",
     "genre": "充電器",
     "price": 4880
+  },
+  "B0BF9ZYCQ5": {
+    "first_seen": "2026-07-31",
+    "first_seen_at": "2026-07-31T12:00:00+09:00",
+    "last_seen": "2026-11-20",
+    "title": "【VGP受賞】Belkin 充電器 USB-C 2ポート PPS規格対応 GaN採用 小型 ACアダプター タイプC 急速充電 軽量【PD3.0対応 /PSE認証/折りたたみ式プラグ】45W(25W+20W) MacBook Windows PC Surface Pro iPad iPhone 17,16～12対応 Galaxy Android スマホ 各種ノートPC対応 WCH011dqWH",
+    "percent_off": 42,
+    "brand": "Belkin",
+    "genre": "充電器",
+    "price": 2782
   },
   "B096S2CTHS": {
     "first_seen": "2026-10-20",
@@ -1049,6 +1049,16 @@
     "genre": "エアフライヤー",
     "price": 12000
   },
+  "B0GCZMBX21": {
+    "first_seen": "2026-11-19",
+    "first_seen_at": "2026-11-19T00:14:50+09:00",
+    "last_seen": "2026-11-20",
+    "title": "UGREEN 10000mAh PD20W 薄型モバイルバッテリー（着脱式・内蔵式USB-Cケーブル各1本付属）ブルー PB524 | USB-Cケーブル2本を本体に収納、10000mAh大容量と20WPD急速充電に対応、液晶ディスプレイで残量を一目で確認、iPhon18シリーズに対応、スマホ約2回分の充電が可能",
+    "percent_off": 25,
+    "brand": "UGREEN",
+    "genre": "モバイルバッテリー",
+    "price": 2979
+  },
   "B0DGJBNYVY": {
     "first_seen": "2026-09-05",
     "first_seen_at": "2026-09-05T08:14:38+09:00",
@@ -1058,16 +1068,6 @@
     "brand": "Apple(アップル)",
     "genre": "Apple製品",
     "price": 25800
-  },
-  "B0BF9ZYCQ5": {
-    "first_seen": "2026-07-31",
-    "first_seen_at": "2026-07-31T12:00:00+09:00",
-    "last_seen": "2026-11-20",
-    "title": "【VGP受賞】Belkin 充電器 USB-C 2ポート PPS規格対応 GaN採用 小型 ACアダプター タイプC 急速充電 軽量【PD3.0対応 /PSE認証/折りたたみ式プラグ】45W(25W+20W) MacBook Windows PC Surface Pro iPad iPhone 17,16～12対応 Galaxy Android スマホ 各種ノートPC対応 WCH011dqWH",
-    "percent_off": 42,
-    "brand": "Belkin",
-    "genre": "充電器",
-    "price": 2782
   },
   "B0B2QQDKR8": {
     "first_seen": "2026-10-29",
