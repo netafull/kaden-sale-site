@@ -159,6 +159,16 @@
     "genre": "Apple製品",
     "price": 76234
   },
+  "B0DK467P86": {
+    "first_seen": "2026-11-21",
+    "first_seen_at": "2026-11-21T08:14:02+09:00",
+    "last_seen": "2026-11-21",
+    "title": "Apple iPad mini(A17 Pro):Apple Intelligence、8.3 インチ Liquid Retina ディスプレ イ、128GB、Wi-Fi 6E、12MP フロントカメラ/12MP バックカメ ラ、Touch ID、一日中使えるバッテリー ‒ スペースグレイ",
+    "percent_off": null,
+    "brand": "Apple(アップル)",
+    "genre": "Apple製品",
+    "price": 99800
+  },
   "B0BJN7ZJF6": {
     "first_seen": "2026-09-11",
     "first_seen_at": "2026-09-11T22:14:45+09:00",
@@ -939,6 +949,16 @@
     "brand": "HUAWEI(ファーウェイ)",
     "genre": "スマートウォッチ",
     "price": 36800
+  },
+  "B0FMDBYSQ9": {
+    "first_seen": "2026-10-17",
+    "first_seen_at": "2026-10-17T05:15:28+09:00",
+    "last_seen": "2026-11-21",
+    "title": "HUAWEI WATCH D2 ウェアラブル血圧計 LCA-B29:ブルー",
+    "percent_off": 22,
+    "brand": "HUAWEI(ファーウェイ)",
+    "genre": "スマートウォッチ",
+    "price": 47000
   },
   "B0GZ294HH3": {
     "first_seen": "2026-08-16",
@@ -1751,16 +1771,6 @@
     "brand": "Apple(アップル)",
     "genre": "Apple製品",
     "price": 18617
-  },
-  "B0FMDBYSQ9": {
-    "first_seen": "2026-10-17",
-    "first_seen_at": "2026-10-17T05:15:28+09:00",
-    "last_seen": "2026-11-20",
-    "title": "HUAWEI WATCH D2 ウェアラブル血圧計 LCA-B29:ブルー",
-    "percent_off": 23,
-    "brand": "HUAWEI(ファーウェイ)",
-    "genre": "スマートウォッチ",
-    "price": 46127
   },
   "B0DDCR5WYQ": {
     "first_seen": "2026-11-03",
