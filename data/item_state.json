@@ -29,6 +29,16 @@
     "genre": "Apple製品",
     "price": 119800
   },
+  "B0FQG6NZ6T": {
+    "first_seen": "2026-10-11",
+    "first_seen_at": "2026-10-11T18:14:49+09:00",
+    "last_seen": "2026-11-20",
+    "title": "Apple Watch Ultra 3(GPS + Cellularモデル)- 49mmナチュラルチタニウムケースとブルー/ブライトブルートレイルループ - M/L",
+    "percent_off": 16,
+    "brand": "Apple(アップル)",
+    "genre": "Apple製品",
+    "price": 119800
+  },
   "B0FQGHYWRH": {
     "first_seen": "2026-10-01",
     "first_seen_at": "2026-10-01T23:14:55+09:00",
@@ -58,6 +68,16 @@
     "brand": "Apple(アップル)",
     "genre": "Apple製品",
     "price": 15639
+  },
+  "B0FRYZJPDJ": {
+    "first_seen": "2026-10-11",
+    "first_seen_at": "2026-10-11T18:14:49+09:00",
+    "last_seen": "2026-11-20",
+    "title": "Apple Watch Ultra 3(GPS + Cellularモデル)- 49mmナチュラルチタニウムケースとブルー/ブライトブルートレイルループ - M/L + 2年延長 AppleCare+ for Apple Watch Ultra 3",
+    "percent_off": 15,
+    "brand": "Apple(アップル)",
+    "genre": "Apple製品",
+    "price": 136599
   },
   "B0FRZ28FST": {
     "first_seen": "2026-10-28",
@@ -89,16 +109,6 @@
     "genre": "Apple製品",
     "price": 124040
   },
-  "B0FQG6NZ6T": {
-    "first_seen": "2026-10-11",
-    "first_seen_at": "2026-10-11T18:14:49+09:00",
-    "last_seen": "2026-11-20",
-    "title": "Apple Watch Ultra 3(GPS + Cellularモデル)- 49mmナチュラルチタニウムケースとブルー/ブライトブルートレイルループ - M/L",
-    "percent_off": 13,
-    "brand": "Apple(アップル)",
-    "genre": "Apple製品",
-    "price": 124800
-  },
   "B0DL6RT3DN": {
     "first_seen": "2026-10-30",
     "first_seen_at": "2026-10-30T20:16:01+09:00",
@@ -128,16 +138,6 @@
     "brand": "Apple(アップル)",
     "genre": "Apple製品",
     "price": 140202
-  },
-  "B0FRYZJPDJ": {
-    "first_seen": "2026-10-11",
-    "first_seen_at": "2026-10-11T18:14:49+09:00",
-    "last_seen": "2026-11-20",
-    "title": "Apple Watch Ultra 3(GPS + Cellularモデル)- 49mmナチュラルチタニウムケースとブルー/ブライトブルートレイルループ - M/L + 2年延長 AppleCare+ for Apple Watch Ultra 3",
-    "percent_off": 12,
-    "brand": "Apple(アップル)",
-    "genre": "Apple製品",
-    "price": 141599
   },
   "B0FRZ2CS5T": {
     "first_seen": "2026-10-01",
@@ -789,16 +789,6 @@
     "genre": "スマートウォッチ",
     "price": 118798
   },
-  "B0GX8BVR4L": {
-    "first_seen": "2026-11-01",
-    "first_seen_at": "2026-11-01T19:15:08+09:00",
-    "last_seen": "2026-11-20",
-    "title": "HUAWEI WATCH FIT 5 スマートウォッチ 薄型軽量 大画面 GPS内蔵 10日間ロングバッテリー 通知 健康管理 心拍数 睡眠 ホワイト | iPhone対応 android対応 1.82インチ画面 2500nits高輝度 ワークアウト 転倒検知 情緒測定 生理周期管理 64GBストレージ 録音機能 ランニング 防水",
-    "percent_off": 17,
-    "brand": "HUAWEI(ファーウェイ)",
-    "genre": "スマートウォッチ",
-    "price": 22770
-  },
   "B0B4JHS716": {
     "first_seen": "2026-09-25",
     "first_seen_at": "2026-09-25T10:14:58+09:00",
@@ -838,6 +828,16 @@
     "brand": "ガーミン(GARMIN)",
     "genre": "スマートウォッチ",
     "price": 52074
+  },
+  "B0GX8BVR4L": {
+    "first_seen": "2026-11-01",
+    "first_seen_at": "2026-11-01T19:15:08+09:00",
+    "last_seen": "2026-11-20",
+    "title": "HUAWEI WATCH FIT 5 スマートウォッチ 薄型軽量 大画面 GPS内蔵 10日間ロングバッテリー 通知 健康管理 心拍数 睡眠 ホワイト | iPhone対応 android対応 1.82インチ画面 2500nits高輝度 ワークアウト 転倒検知 情緒測定 生理周期管理 64GBストレージ 録音機能 ランニング 防水",
+    "percent_off": 17,
+    "brand": "HUAWEI(ファーウェイ)",
+    "genre": "スマートウォッチ",
+    "price": 22542
   },
   "B0DQ7MJ8P3": {
     "first_seen": "2026-08-22",
