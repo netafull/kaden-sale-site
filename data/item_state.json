@@ -1,14 +1,4 @@
 {
-  "B0FQG21TRG": {
-    "first_seen": "2026-11-12",
-    "first_seen_at": "2026-11-12T17:14:55+09:00",
-    "last_seen": "2026-11-20",
-    "title": "Apple Watch Band - モダンバックル - （42mm）ケース用 - ミッドナイトパープル - L",
-    "percent_off": 45,
-    "brand": "Apple(アップル)",
-    "genre": "Apple製品",
-    "price": 18617
-  },
   "B0DZ7YJC17": {
     "first_seen": "2026-10-26",
     "first_seen_at": "2026-10-26T22:25:29+09:00",
@@ -18,6 +8,26 @@
     "brand": "Apple(アップル)",
     "genre": "Apple製品",
     "price": 34516
+  },
+  "B0FQGWJXBK": {
+    "first_seen": "2026-11-20",
+    "first_seen_at": "2026-11-20T21:14:48+09:00",
+    "last_seen": "2026-11-20",
+    "title": "Apple Watch Band - モダンバックル - （42mm）ケース用 - セージグレイ - L",
+    "percent_off": 30,
+    "brand": "Apple(アップル)",
+    "genre": "Apple製品",
+    "price": 23684
+  },
+  "B0FQFW26JS": {
+    "first_seen": "2026-09-26",
+    "first_seen_at": "2026-09-26T22:15:02+09:00",
+    "last_seen": "2026-11-20",
+    "title": "Apple Watch Ultra 3(GPS + Cellularモデル)- 49mmナチュラルチタニウムケースとライトブルーアルパインループ - M",
+    "percent_off": 16,
+    "brand": "Apple(アップル)",
+    "genre": "Apple製品",
+    "price": 119800
   },
   "B0FQG2HWLF": {
     "first_seen": "2026-10-28",
@@ -89,6 +99,16 @@
     "genre": "Apple製品",
     "price": 136599
   },
+  "B0FRZ2CS5T": {
+    "first_seen": "2026-10-01",
+    "first_seen_at": "2026-10-01T23:14:55+09:00",
+    "last_seen": "2026-11-20",
+    "title": "Apple Watch Ultra 3(GPS + Cellularモデル)- 49mmナチュラルチタニウムケースとライトブルーアルパインループ - M + 2年延長 AppleCare+ for Apple Watch Ultra 3",
+    "percent_off": 15,
+    "brand": "Apple(アップル)",
+    "genre": "Apple製品",
+    "price": 136599
+  },
   "B0FRZ35PL3": {
     "first_seen": "2026-10-01",
     "first_seen_at": "2026-10-01T23:14:55+09:00",
@@ -98,16 +118,6 @@
     "brand": "Apple(アップル)",
     "genre": "Apple製品",
     "price": 136599
-  },
-  "B0FQFW26JS": {
-    "first_seen": "2026-09-26",
-    "first_seen_at": "2026-09-26T22:15:02+09:00",
-    "last_seen": "2026-11-20",
-    "title": "Apple Watch Ultra 3(GPS + Cellularモデル)- 49mmナチュラルチタニウムケースとライトブルーアルパインループ - M",
-    "percent_off": 13,
-    "brand": "Apple(アップル)",
-    "genre": "Apple製品",
-    "price": 124040
   },
   "B0DL6RT3DN": {
     "first_seen": "2026-10-30",
@@ -138,16 +148,6 @@
     "brand": "Apple(アップル)",
     "genre": "Apple製品",
     "price": 140202
-  },
-  "B0FRZ2CS5T": {
-    "first_seen": "2026-10-01",
-    "first_seen_at": "2026-10-01T23:14:55+09:00",
-    "last_seen": "2026-11-20",
-    "title": "Apple Watch Ultra 3(GPS + Cellularモデル)- 49mmナチュラルチタニウムケースとライトブルーアルパインループ - M + 2年延長 AppleCare+ for Apple Watch Ultra 3",
-    "percent_off": 12,
-    "brand": "Apple(アップル)",
-    "genre": "Apple製品",
-    "price": 140839
   },
   "B0FRYXQ4K2": {
     "first_seen": "2026-10-24",
@@ -239,15 +239,15 @@
     "genre": "Apple製品",
     "price": 71800
   },
-  "B0HJBBZBQQ": {
+  "B0HJB1JJ9P": {
     "first_seen": "2026-11-20",
-    "first_seen_at": "2026-11-20T13:15:25+09:00",
+    "first_seen_at": "2026-11-20T15:14:56+09:00",
     "last_seen": "2026-11-20",
-    "title": "Apple Watch Series 12（GPSモデル） | 46mmブラックアルミニウムケースとブラックスポーツバンド - M/L。健康 + フィットネス + 睡眠記録、心拍数、安全",
+    "title": "Apple Watch Series 12（GPSモデル） | 46mmライトゴールドアルミニウムケースとサンドスポーツバンド - M/L。健康 + フィットネス + 睡眠記録、心拍数、安全",
     "percent_off": null,
     "brand": "Apple(アップル)",
     "genre": "Apple製品",
-    "price": 80801
+    "price": 80800
   },
   "B0FWDCD7YC": {
     "first_seen": "2026-11-09",
@@ -289,16 +289,6 @@
     "genre": "Apple製品",
     "price": 146801
   },
-  "B0HJB1JJ9P": {
-    "first_seen": "2026-11-20",
-    "first_seen_at": "2026-11-20T15:14:56+09:00",
-    "last_seen": "2026-11-20",
-    "title": "Apple Watch Series 12（GPSモデル） | 46mmライトゴールドアルミニウムケースとサンドスポーツバンド - M/L。健康 + フィットネス + 睡眠記録、心拍数、安全",
-    "percent_off": null,
-    "brand": "Apple(アップル)",
-    "genre": "Apple製品",
-    "price": 80800
-  },
   "B0HJB1QJH7": {
     "first_seen": "2026-11-20",
     "first_seen_at": "2026-11-20T14:15:01+09:00",
@@ -338,6 +328,16 @@
     "brand": "Apple(アップル)",
     "genre": "Apple製品",
     "price": 80800
+  },
+  "B0HJBBZBQQ": {
+    "first_seen": "2026-11-20",
+    "first_seen_at": "2026-11-20T13:15:25+09:00",
+    "last_seen": "2026-11-20",
+    "title": "Apple Watch Series 12（GPSモデル） | 46mmブラックアルミニウムケースとブラックスポーツバンド - M/L。健康 + フィットネス + 睡眠記録、心拍数、安全",
+    "percent_off": null,
+    "brand": "Apple(アップル)",
+    "genre": "Apple製品",
+    "price": 80801
   },
   "B0HJBCTPN2": {
     "first_seen": "2026-11-20",
@@ -430,16 +430,6 @@
       }
     ]
   },
-  "B0D3T5ZW6Z": {
-    "first_seen": "2026-11-09",
-    "first_seen_at": "2026-11-09T22:14:55+09:00",
-    "last_seen": "2026-11-20",
-    "title": "JBL LIVE BEAM 3 ワイヤレスイヤホン スマート充電ケース/LDAC対応ハイレゾ/マルチポイント/ハイブリッド ノイズキャンセリング/IP55防水/ワイヤレス充電対応/ブラック/JBLLIVEBEAM3BLK",
-    "percent_off": 50,
-    "brand": "JBL",
-    "genre": "ワイヤレスイヤホン",
-    "price": 14080
-  },
   "B0F3XFNHCW": {
     "first_seen": "2026-11-01",
     "first_seen_at": "2026-11-01T02:15:45+09:00",
@@ -480,16 +470,6 @@
     "genre": "ワイヤレスイヤホン",
     "price": 1291
   },
-  "B0F6NFHB31": {
-    "first_seen": "2026-07-25",
-    "first_seen_at": "2026-07-25T12:00:00+09:00",
-    "last_seen": "2026-11-20",
-    "title": "UGREEN Air モバイルバッテリー 5000mAh 8.6mm超薄型 Qi2 15W MagSafe iPhone18Pro対応 | 【ATL製セル×難燃技術】マグネット式ワイヤレス充電｜軽量・小型設計｜USB-C PD 20W対応 ｜パススルー充電対応｜iPhone18 Pro/17/16/15 シリーズ/ Air対応｜PB580｜ダークグレー",
-    "percent_off": 39,
-    "brand": "UGREEN",
-    "genre": "モバイルバッテリー",
-    "price": 4186
-  },
   "B0DNLR2NYN": {
     "first_seen": "2026-10-13",
     "first_seen_at": "2026-10-13T22:15:31+09:00",
@@ -499,6 +479,16 @@
     "brand": "Anker",
     "genre": "モバイルバッテリー",
     "price": 7990
+  },
+  "B0F37QGJHP": {
+    "first_seen": "2026-11-19",
+    "first_seen_at": "2026-11-19T22:14:42+09:00",
+    "last_seen": "2026-11-20",
+    "title": "UGREEN Air モバイルバッテリー 10000mAh 薄型 Qi2 15W MagSafe ケーブル内蔵 iPhone18Pro対応 | 【ATL製セル×難燃技術】マグネット式ワイヤレス充電｜軽量・小型設計｜USB-C PD 30W対応 ｜パススルー充電対応｜iPhone18 Pro/17/16/15 シリーズ/ Air対応 ｜PB570｜水色",
+    "percent_off": 35,
+    "brand": "UGREEN",
+    "genre": "モバイルバッテリー",
+    "price": 5586
   },
   "B0DNLVY85L": {
     "first_seen": "2026-10-01",
@@ -519,6 +509,16 @@
     "brand": "UGREEN",
     "genre": "モバイルバッテリー",
     "price": 8386
+  },
+  "B0FQTLFFXP": {
+    "first_seen": "2026-11-20",
+    "first_seen_at": "2026-11-20T21:14:48+09:00",
+    "last_seen": "2026-11-20",
+    "title": "UGREEN Zapix【20000mAh／PD20W／USB-A×2＆USB-C×1／3台同時充電】モバイルバッテリー ピンク PB312 | 急速充電／パススルー機能／小電流モード搭載／LCDバッテリー残量表示 小型 コンパクト PSE技術基準適合 iPhone18/Android/iPad 各種機器に対応 ピンク",
+    "percent_off": 30,
+    "brand": "UGREEN",
+    "genre": "モバイルバッテリー",
+    "price": 2980
   },
   "B0C3GTMX5M": {
     "first_seen": "2026-09-18",
@@ -630,16 +630,6 @@
     "genre": "充電器",
     "price": 1400
   },
-  "B0CMQK8CMJ": {
-    "first_seen": "2026-08-05",
-    "first_seen_at": "2026-08-05T21:15:31+09:00",
-    "last_seen": "2026-11-20",
-    "title": "UGREEN NexodeX 100W GaNII充電器 USB-C*2+USB-A タイプC Type-C 急速充電器 PD3.0/PPS/QC4+ | PSE認証済/MacBook/iPhone17/16/15/Galaxy S26 ultra/Xperia ノートPC 各種対応 折りたたみ式プラグ",
-    "percent_off": 45,
-    "brand": "UGREEN",
-    "genre": "充電器",
-    "price": 4880
-  },
   "B0BF9ZYCQ5": {
     "first_seen": "2026-07-31",
     "first_seen_at": "2026-07-31T12:00:00+09:00",
@@ -659,6 +649,16 @@
     "brand": "CIO",
     "genre": "充電器",
     "price": 6589
+  },
+  "B0CLGZGXMD": {
+    "first_seen": "2026-11-13",
+    "first_seen_at": "2026-11-13T14:14:50+09:00",
+    "last_seen": "2026-11-20",
+    "title": "UGREEN Nexode【当社比最小】65W PD充電器 USB-C*2+USB-A*1 急速充電器 PSE適合 PD/PPS/QC4+対応 | GaNチップ PD3.0/QC4+ 出張/旅行用 ノートPC iPad iphone17/Galaxy S26/Pixel8/Xperia5以降対応",
+    "percent_off": 40,
+    "brand": "UGREEN",
+    "genre": "充電器",
+    "price": 3600
   },
   "B096S2CTHS": {
     "first_seen": "2026-10-20",
@@ -709,6 +709,16 @@
     "brand": "Anker",
     "genre": "充電器",
     "price": 2790
+  },
+  "B0CCVQB7MY": {
+    "first_seen": "2026-11-18",
+    "first_seen_at": "2026-11-18T22:15:10+09:00",
+    "last_seen": "2026-11-20",
+    "title": "UGREEN NexodePro 急速充電器 100W Type-C 2C1A 3ポート PD3.0/PPS 5A対応 折り畳み式 PSE適合 | USB-C *2とUSB-A*1 UG独自Airpyra技術 QC4.0/SCP/FCP対応 ノートPC/iPad/iPhone18/Galaxy S24/Pixel8/XPeria5以降対応【レッドドット・デザイン賞受賞】",
+    "percent_off": 33,
+    "brand": "UGREEN",
+    "genre": "充電器",
+    "price": 6180
   },
   "B091BGMKYS": {
     "first_seen": "2026-07-27",
@@ -779,6 +789,37 @@
     "brand": "Anker",
     "genre": "充電器",
     "price": 2790
+  },
+  "B0GSVNFT8T": {
+    "first_seen": "2026-09-30",
+    "first_seen_at": "2026-09-30T05:14:49+09:00",
+    "last_seen": "2026-11-20",
+    "title": "UGREEN 100W充電器 USB-C×3+USB-A×1 4ポート充電器 タッチモニター搭載/画面切り替え可能 PD3.0/PPS/QC4対応 | ボタン一つで縦横表示/アニメ絵文字表示/リアルタイム充電状況 PD/PPS/QC対応, MacBook/iPhone18/17/16/15/Galaxy S26 ultra/Xperia他各種対応",
+    "percent_off": null,
+    "brand": "UGREEN",
+    "genre": "充電器",
+    "price": 9980
+  },
+  "B0G64K1H7N": {
+    "first_seen": "2026-11-17",
+    "first_seen_at": "2026-11-17T23:15:39+09:00",
+    "last_seen": "2026-11-20",
+    "title": "UGREEN Air 45W USB-C 当社最小充電器 GaNII 急速充電器 | 折畳みプラグ PSE認証済 iPhone18/17/16/15iPad MacBook Air GalaxyS25/S24/S23各種機器対応",
+    "percent_off": 29,
+    "brand": "UGREEN",
+    "genre": "充電器",
+    "price": 2337,
+    "past": [
+      {
+        "first_seen": "2026-10-04",
+        "last_seen": "2026-10-31",
+        "title": "UGREEN Air 45W USB-C 当社最小充電器 GaNII 急速充電器 | 折畳みプラグ PSE認証済 iPhone18/17/16/15iPad MacBook Air GalaxyS25/S24/S23各種機器対応",
+        "brand": null,
+        "genre": null,
+        "price": null,
+        "percent_off": 25
+      }
+    ]
   },
   "B0DMN885ZF": {
     "first_seen": "2026-08-05",
@@ -890,6 +931,16 @@
     "genre": "充電器",
     "price": 2950
   },
+  "B08PTQMZY3": {
+    "first_seen": "2026-10-27",
+    "first_seen_at": "2026-10-27T21:14:38+09:00",
+    "last_seen": "2026-11-20",
+    "title": "KIOXIA(キオクシア) 旧東芝メモリ microSD 64GB UHS-I Class10 (最大読出速度100MB/s) Nintendo Switch動作確認済 国内サポート正規品 メーカー保証5年 KLMEA064G",
+    "percent_off": 28,
+    "brand": "KIOXIA",
+    "genre": "SSD・メモリーカード",
+    "price": 1720
+  },
   "B0GF26RSYQ": {
     "first_seen": "2026-07-27",
     "first_seen_at": "2026-07-27T12:00:00+09:00",
@@ -930,16 +981,6 @@
     "genre": "スマートウォッチ",
     "price": 16323
   },
-  "B0GQLM2HG7": {
-    "first_seen": "2026-11-18",
-    "first_seen_at": "2026-11-18T22:15:10+09:00",
-    "last_seen": "2026-11-20",
-    "title": "Xiaomi Redmi Watch 6 シャオミ スマートウォッチ GPS Bluetooth通話 着信通知 防水 24日間持続 iPhone対応 | 2.07インチ有機EL 2000nits高輝度 薄型軽量 GPS/GNSS搭載 Bluetooth通話対応 録音機能 24日間バッテリー 24時間モニタリング 女性健康管理 スポーツモード ランニング 5ATM防水 水中心拍測定",
-    "percent_off": 26,
-    "brand": "Xiaomi",
-    "genre": "スマートウォッチ",
-    "price": 10980
-  },
   "B0BWF162WJ": {
     "first_seen": "2026-09-21",
     "first_seen_at": "2026-09-21T17:14:46+09:00",
@@ -960,16 +1001,6 @@
     "genre": "スマートウォッチ",
     "price": 36800
   },
-  "B0FMDBYSQ9": {
-    "first_seen": "2026-10-17",
-    "first_seen_at": "2026-10-17T05:15:28+09:00",
-    "last_seen": "2026-11-20",
-    "title": "HUAWEI WATCH D2 ウェアラブル血圧計 LCA-B29:ブルー",
-    "percent_off": 23,
-    "brand": "HUAWEI(ファーウェイ)",
-    "genre": "スマートウォッチ",
-    "price": 46127
-  },
   "B0GZ294HH3": {
     "first_seen": "2026-08-16",
     "first_seen_at": "2026-08-16T00:38:29+09:00",
@@ -979,26 +1010,6 @@
     "brand": "ガーミン(GARMIN)",
     "genre": "スマートウォッチ",
     "price": 39591
-  },
-  "B0DDCR5WYQ": {
-    "first_seen": "2026-11-03",
-    "first_seen_at": "2026-11-03T12:15:59+09:00",
-    "last_seen": "2026-11-20",
-    "title": "ガーミン(GARMIN) フラッグシップモデル fenix 8 Sapphire AMOLED 47mm Ti Carbon Gray DLC/Black マルチスポーツGPSウォッチ【AMOLEDディスプレイ】 【ランニング・ゴルフ・登山・サイクリング等30種類以上対応】【Android/iOS対応】【Suica機能搭載】【ビジネスシーンもOK】【日本正規品】心電図(ECG)アプリ対応モデル",
-    "percent_off": 18,
-    "brand": "ガーミン(GARMIN)",
-    "genre": "スマートウォッチ",
-    "price": 118798
-  },
-  "B0GX8BVR4L": {
-    "first_seen": "2026-11-01",
-    "first_seen_at": "2026-11-01T19:15:08+09:00",
-    "last_seen": "2026-11-20",
-    "title": "HUAWEI WATCH FIT 5 スマートウォッチ 薄型軽量 大画面 GPS内蔵 10日間ロングバッテリー 通知 健康管理 心拍数 睡眠 ホワイト | iPhone対応 android対応 1.82インチ画面 2500nits高輝度 ワークアウト 転倒検知 情緒測定 生理周期管理 64GBストレージ 録音機能 ランニング 防水",
-    "percent_off": 17,
-    "brand": "HUAWEI(ファーウェイ)",
-    "genre": "スマートウォッチ",
-    "price": 22770
   },
   "B0B4JHS716": {
     "first_seen": "2026-09-25",
@@ -1029,6 +1040,16 @@
     "brand": "HUAWEI(ファーウェイ)",
     "genre": "スマートウォッチ",
     "price": 22300
+  },
+  "B0GX8BVR4L": {
+    "first_seen": "2026-11-01",
+    "first_seen_at": "2026-11-01T19:15:08+09:00",
+    "last_seen": "2026-11-20",
+    "title": "HUAWEI WATCH FIT 5 スマートウォッチ 薄型軽量 大画面 GPS内蔵 10日間ロングバッテリー 通知 健康管理 心拍数 睡眠 ホワイト | iPhone対応 android対応 1.82インチ画面 2500nits高輝度 ワークアウト 転倒検知 情緒測定 生理周期管理 64GBストレージ 録音機能 ランニング 防水",
+    "percent_off": 17,
+    "brand": "HUAWEI(ファーウェイ)",
+    "genre": "スマートウォッチ",
+    "price": 22542
   },
   "B0DQ7MJ8P3": {
     "first_seen": "2026-08-22",
@@ -1150,6 +1171,16 @@
     "genre": "キーボード・マウス",
     "price": 20029
   },
+  "B0DC5WQQ2J": {
+    "first_seen": "2026-10-24",
+    "first_seen_at": "2026-10-24T21:15:02+09:00",
+    "last_seen": "2026-11-20",
+    "title": "ロジクール 静音 ワイヤレス トラックボール マウス M575SPGR Bluetooth Logibolt 無線 windows mac iPad OS Chrome トラックボールマウス グラファイト M575 M575SP 国内正規品",
+    "percent_off": 25,
+    "brand": "Logicool(ロジクール)",
+    "genre": "キーボード・マウス",
+    "price": 6318
+  },
   "B0FJRCJ1SN": {
     "first_seen": "2026-07-26",
     "first_seen_at": "2026-07-26T12:00:00+09:00",
@@ -1190,11 +1221,11 @@
     "genre": "キーボード・マウス",
     "price": 20000
   },
-  "B0CJR5HBMN": {
-    "first_seen": "2026-08-04",
-    "first_seen_at": "2026-08-04T21:17:38+09:00",
+  "B0CJR6YXPX": {
+    "first_seen": "2026-11-19",
+    "first_seen_at": "2026-11-19T22:14:42+09:00",
     "last_seen": "2026-11-20",
-    "title": "ロジクール ワイヤレスマウス PEBBLE MOUSE2 M350sGR 薄型 静音 Bluetooth Logi Bolt マウス 無線 ワイヤレス 左右対称 Easy-Switch 4000dpi 電池寿命24ケ月 windows mac Chrome Android iPad M350 グラファイト 国内正規品",
+    "title": "ロジクール ワイヤレスマウス PEBBLE MOUSE2 M350sRO 薄型 静音 Bluetooth Logi Bolt マウス 無線 ワイヤレス 左右対称 Easy-Switch 4000dpi 電池寿命24ケ月 windows mac Chrome Android iPad M350 ローズ 国内正規品",
     "percent_off": 19,
     "brand": "Logicool(ロジクール)",
     "genre": "キーボード・マウス",
@@ -1210,16 +1241,6 @@
     "genre": "キーボード・マウス",
     "price": 38880
   },
-  "B0D9Y1J4NH": {
-    "first_seen": "2026-09-26",
-    "first_seen_at": "2026-09-26T10:14:59+09:00",
-    "last_seen": "2026-11-20",
-    "title": "【Amazon.co.jp限定】 ロジクール 静音 ワイヤレス トラックボール マウス 無線 M575SPd 国内正規品 | 筋肉緊張を軽減するエルゴノミックデザイン、Bluetooth、Logibolt、電池式（単三形乾電池x1）、windows、maOS、 iPadOS、ChromeOS、ブラック、M575、M575SP、Amazon.co.jp限定壁紙ダウンロード付き",
-    "percent_off": 19,
-    "brand": "Logicool(ロジクール)",
-    "genre": "キーボード・マウス",
-    "price": 6880
-  },
   "B08K2CHMWK": {
     "first_seen": "2026-08-04",
     "first_seen_at": "2026-08-04T18:28:41+09:00",
@@ -1229,6 +1250,16 @@
     "brand": "Logicool(ロジクール)",
     "genre": "キーボード・マウス",
     "price": 2709
+  },
+  "B0D9Y1J4NH": {
+    "first_seen": "2026-09-26",
+    "first_seen_at": "2026-09-26T10:14:59+09:00",
+    "last_seen": "2026-11-20",
+    "title": "【Amazon.co.jp限定】 ロジクール 静音 ワイヤレス トラックボール マウス 無線 M575SPd 国内正規品 | 筋肉緊張を軽減するエルゴノミックデザイン、Bluetooth、Logibolt、電池式（単三形乾電池x1）、windows、maOS、 iPadOS、ChromeOS、ブラック、M575、M575SP、Amazon.co.jp限定壁紙ダウンロード付き",
+    "percent_off": 19,
+    "brand": "Logicool(ロジクール)",
+    "genre": "キーボード・マウス",
+    "price": 6880
   },
   "B0BKPL1VKW": {
     "first_seen": "2026-11-13",
@@ -1240,11 +1271,11 @@
     "genre": "キーボード・マウス",
     "price": 4364
   },
-  "B0CJR8Y56J": {
-    "first_seen": "2026-07-26",
-    "first_seen_at": "2026-07-26T12:00:00+09:00",
+  "B0CJR8MJTK": {
+    "first_seen": "2026-10-01",
+    "first_seen_at": "2026-10-01T22:15:01+09:00",
     "last_seen": "2026-11-20",
-    "title": "ロジクール ワイヤレスキーボード PEBBLE KEYS 2 K380sGR 薄型 軽量 415g 小型 Bluetooth Logi Bolt ワイヤレス 無線 キーボード Easy-Switch 日本語配列 電池寿命36ケ月 Windows Mac iPad iOS Android Chrome K380s グラファイト 国内正規品",
+    "title": "ロジクール ワイヤレスキーボード PEBBLE KEYS 2 K380sBL 薄型 軽量 415g 小型 Bluetooth Logi Bolt ワイヤレス 無線 キーボード Easy-Switch 日本語配列 電池寿命36ケ月 Windows Mac iPad iOS Android Chrome K380s ブルー 国内正規品",
     "percent_off": 17,
     "brand": "Logicool(ロジクール)",
     "genre": "キーボード・マウス",
@@ -1259,16 +1290,6 @@
     "brand": "Logicool(ロジクール)",
     "genre": "キーボード・マウス",
     "price": 9281
-  },
-  "B0H33PTLSH": {
-    "first_seen": "2026-11-14",
-    "first_seen_at": "2026-11-14T21:14:56+09:00",
-    "last_seen": "2026-11-20",
-    "title": "【Amazon.co.jp限定】 Ninja ニンジャ Crispi クリスピー FN100JGNNR 自動調理器 3つの調理モード (クリスプ/ベイク・ロースト/リクリスプ) 煮る 焼く 蒸す 炒める 煮込む 炊く 温風調理 エアフライヤー ノンフライヤー FN100J ミント",
-    "percent_off": 27,
-    "brand": "NINJA",
-    "genre": "エアフライヤー",
-    "price": 18000
   },
   "B0G4CC1S2F": {
     "first_seen": "2026-10-30",
@@ -1289,6 +1310,106 @@
     "brand": "BRUNO",
     "genre": "エアフライヤー",
     "price": 12000
+  },
+  "B0FQG21TRG": {
+    "first_seen": "2026-11-12",
+    "first_seen_at": "2026-11-12T17:14:55+09:00",
+    "last_seen": "2026-11-20",
+    "title": "Apple Watch Band - モダンバックル - （42mm）ケース用 - ミッドナイトパープル - L",
+    "percent_off": 45,
+    "brand": "Apple(アップル)",
+    "genre": "Apple製品",
+    "price": 18617
+  },
+  "B0D3T5ZW6Z": {
+    "first_seen": "2026-11-09",
+    "first_seen_at": "2026-11-09T22:14:55+09:00",
+    "last_seen": "2026-11-20",
+    "title": "JBL LIVE BEAM 3 ワイヤレスイヤホン スマート充電ケース/LDAC対応ハイレゾ/マルチポイント/ハイブリッド ノイズキャンセリング/IP55防水/ワイヤレス充電対応/ブラック/JBLLIVEBEAM3BLK",
+    "percent_off": 50,
+    "brand": "JBL",
+    "genre": "ワイヤレスイヤホン",
+    "price": 14080
+  },
+  "B0F6NFHB31": {
+    "first_seen": "2026-07-25",
+    "first_seen_at": "2026-07-25T12:00:00+09:00",
+    "last_seen": "2026-11-20",
+    "title": "UGREEN Air モバイルバッテリー 5000mAh 8.6mm超薄型 Qi2 15W MagSafe iPhone18Pro対応 | 【ATL製セル×難燃技術】マグネット式ワイヤレス充電｜軽量・小型設計｜USB-C PD 20W対応 ｜パススルー充電対応｜iPhone18 Pro/17/16/15 シリーズ/ Air対応｜PB580｜ダークグレー",
+    "percent_off": 39,
+    "brand": "UGREEN",
+    "genre": "モバイルバッテリー",
+    "price": 4186
+  },
+  "B0CMQK8CMJ": {
+    "first_seen": "2026-08-05",
+    "first_seen_at": "2026-08-05T21:15:31+09:00",
+    "last_seen": "2026-11-20",
+    "title": "UGREEN NexodeX 100W GaNII充電器 USB-C*2+USB-A タイプC Type-C 急速充電器 PD3.0/PPS/QC4+ | PSE認証済/MacBook/iPhone17/16/15/Galaxy S26 ultra/Xperia ノートPC 各種対応 折りたたみ式プラグ",
+    "percent_off": 45,
+    "brand": "UGREEN",
+    "genre": "充電器",
+    "price": 4880
+  },
+  "B0GQLM2HG7": {
+    "first_seen": "2026-11-18",
+    "first_seen_at": "2026-11-18T22:15:10+09:00",
+    "last_seen": "2026-11-20",
+    "title": "Xiaomi Redmi Watch 6 シャオミ スマートウォッチ GPS Bluetooth通話 着信通知 防水 24日間持続 iPhone対応 | 2.07インチ有機EL 2000nits高輝度 薄型軽量 GPS/GNSS搭載 Bluetooth通話対応 録音機能 24日間バッテリー 24時間モニタリング 女性健康管理 スポーツモード ランニング 5ATM防水 水中心拍測定",
+    "percent_off": 26,
+    "brand": "Xiaomi",
+    "genre": "スマートウォッチ",
+    "price": 10980
+  },
+  "B0FMDBYSQ9": {
+    "first_seen": "2026-10-17",
+    "first_seen_at": "2026-10-17T05:15:28+09:00",
+    "last_seen": "2026-11-20",
+    "title": "HUAWEI WATCH D2 ウェアラブル血圧計 LCA-B29:ブルー",
+    "percent_off": 23,
+    "brand": "HUAWEI(ファーウェイ)",
+    "genre": "スマートウォッチ",
+    "price": 46127
+  },
+  "B0DDCR5WYQ": {
+    "first_seen": "2026-11-03",
+    "first_seen_at": "2026-11-03T12:15:59+09:00",
+    "last_seen": "2026-11-20",
+    "title": "ガーミン(GARMIN) フラッグシップモデル fenix 8 Sapphire AMOLED 47mm Ti Carbon Gray DLC/Black マルチスポーツGPSウォッチ【AMOLEDディスプレイ】 【ランニング・ゴルフ・登山・サイクリング等30種類以上対応】【Android/iOS対応】【Suica機能搭載】【ビジネスシーンもOK】【日本正規品】心電図(ECG)アプリ対応モデル",
+    "percent_off": 18,
+    "brand": "ガーミン(GARMIN)",
+    "genre": "スマートウォッチ",
+    "price": 118798
+  },
+  "B0CJR5HBMN": {
+    "first_seen": "2026-08-04",
+    "first_seen_at": "2026-08-04T21:17:38+09:00",
+    "last_seen": "2026-11-20",
+    "title": "ロジクール ワイヤレスマウス PEBBLE MOUSE2 M350sGR 薄型 静音 Bluetooth Logi Bolt マウス 無線 ワイヤレス 左右対称 Easy-Switch 4000dpi 電池寿命24ケ月 windows mac Chrome Android iPad M350 グラファイト 国内正規品",
+    "percent_off": 19,
+    "brand": "Logicool(ロジクール)",
+    "genre": "キーボード・マウス",
+    "price": 2936
+  },
+  "B0CJR8Y56J": {
+    "first_seen": "2026-07-26",
+    "first_seen_at": "2026-07-26T12:00:00+09:00",
+    "last_seen": "2026-11-20",
+    "title": "ロジクール ワイヤレスキーボード PEBBLE KEYS 2 K380sGR 薄型 軽量 415g 小型 Bluetooth Logi Bolt ワイヤレス 無線 キーボード Easy-Switch 日本語配列 電池寿命36ケ月 Windows Mac iPad iOS Android Chrome K380s グラファイト 国内正規品",
+    "percent_off": 17,
+    "brand": "Logicool(ロジクール)",
+    "genre": "キーボード・マウス",
+    "price": 4373
+  },
+  "B0H33PTLSH": {
+    "first_seen": "2026-11-14",
+    "first_seen_at": "2026-11-14T21:14:56+09:00",
+    "last_seen": "2026-11-20",
+    "title": "【Amazon.co.jp限定】 Ninja ニンジャ Crispi クリスピー FN100JGNNR 自動調理器 3つの調理モード (クリスプ/ベイク・ロースト/リクリスプ) 煮る 焼く 蒸す 炒める 煮込む 炊く 温風調理 エアフライヤー ノンフライヤー FN100J ミント",
+    "percent_off": 27,
+    "brand": "NINJA",
+    "genre": "エアフライヤー",
+    "price": 18000
   },
   "B0G39944C8": {
     "first_seen": "2026-11-20",
@@ -1520,16 +1641,6 @@
     "genre": "モバイルバッテリー",
     "price": 9461
   },
-  "B0F37QGJHP": {
-    "first_seen": "2026-11-19",
-    "first_seen_at": "2026-11-19T22:14:42+09:00",
-    "last_seen": "2026-11-19",
-    "title": "UGREEN Air モバイルバッテリー 10000mAh 薄型 Qi2 15W MagSafe ケーブル内蔵 iPhone18Pro対応 | 【ATL製セル×難燃技術】マグネット式ワイヤレス充電｜軽量・小型設計｜USB-C PD 30W対応 ｜パススルー充電対応｜iPhone18 Pro/17/16/15 シリーズ/ Air対応 ｜PB570｜ブルー",
-    "percent_off": 35,
-    "brand": "UGREEN",
-    "genre": "モバイルバッテリー",
-    "price": 5586
-  },
   "B0DB17C63X": {
     "first_seen": "2026-09-26",
     "first_seen_at": "2026-09-26T00:14:56+09:00",
@@ -1549,16 +1660,6 @@
     "brand": "UGREEN",
     "genre": "充電器",
     "price": 5800
-  },
-  "B0CCVQB7MY": {
-    "first_seen": "2026-11-18",
-    "first_seen_at": "2026-11-18T22:15:10+09:00",
-    "last_seen": "2026-11-19",
-    "title": "UGREEN NexodePro 急速充電器 100W Type-C 2C1A 3ポート PD3.0/PPS 5A対応 折り畳み式 PSE適合 | USB-C *2とUSB-A*1 UG独自Airpyra技術 QC4.0/SCP/FCP対応 ノートPC/iPad/iPhone18/Galaxy S24/Pixel8/XPeria5以降対応【レッドドット・デザイン賞受賞】",
-    "percent_off": 33,
-    "brand": "UGREEN",
-    "genre": "充電器",
-    "price": 6180
   },
   "B0C3B132D3": {
     "first_seen": "2026-09-12",
@@ -1609,16 +1710,6 @@
     "brand": "HUAWEI(ファーウェイ)",
     "genre": "スマートウォッチ",
     "price": 25200
-  },
-  "B0CJR6YXPX": {
-    "first_seen": "2026-11-19",
-    "first_seen_at": "2026-11-19T22:14:42+09:00",
-    "last_seen": "2026-11-19",
-    "title": "ロジクール ワイヤレスマウス PEBBLE MOUSE2 M350sRO 薄型 静音 Bluetooth Logi Bolt マウス 無線 ワイヤレス 左右対称 Easy-Switch 4000dpi 電池寿命24ケ月 windows mac Chrome Android iPad M350 ローズ 国内正規品",
-    "percent_off": 19,
-    "brand": "Logicool(ロジクール)",
-    "genre": "キーボード・マウス",
-    "price": 2936
   },
   "B0BKPHMVPL": {
     "first_seen": "2026-09-26",
@@ -1679,16 +1770,6 @@
     "brand": "Anker",
     "genre": "充電器",
     "price": 6990
-  },
-  "B08PTQMZY3": {
-    "first_seen": "2026-10-27",
-    "first_seen_at": "2026-10-27T21:14:38+09:00",
-    "last_seen": "2026-11-19",
-    "title": "KIOXIA(キオクシア) 旧東芝メモリ microSD 64GB UHS-I Class10 (最大読出速度100MB/s) Nintendo Switch動作確認済 国内サポート正規品 メーカー保証5年 KLMEA064G",
-    "percent_off": 28,
-    "brand": "KIOXIA",
-    "genre": "SSD・メモリーカード",
-    "price": 1705
   },
   "B0BWF463MW": {
     "first_seen": "2026-08-04",
@@ -1799,27 +1880,6 @@
     "brand": "CIO",
     "genre": "モバイルバッテリー",
     "price": 7280
-  },
-  "B0G64K1H7N": {
-    "first_seen": "2026-11-17",
-    "first_seen_at": "2026-11-17T23:15:39+09:00",
-    "last_seen": "2026-11-19",
-    "title": "UGREEN Air 45W USB-C 当社最小充電器 GaNII 急速充電器 | 折畳みプラグ PSE認証済 iPhone18/17/16/15iPad MacBook Air GalaxyS25/S24/S23各種機器対応",
-    "percent_off": 29,
-    "brand": "UGREEN",
-    "genre": "充電器",
-    "price": 2337,
-    "past": [
-      {
-        "first_seen": "2026-10-04",
-        "last_seen": "2026-10-31",
-        "title": "UGREEN Air 45W USB-C 当社最小充電器 GaNII 急速充電器 | 折畳みプラグ PSE認証済 iPhone18/17/16/15iPad MacBook Air GalaxyS25/S24/S23各種機器対応",
-        "brand": null,
-        "genre": null,
-        "price": null,
-        "percent_off": 25
-      }
-    ]
   },
   "B0CYZQ8HVG": {
     "first_seen": "2026-11-18",
@@ -2020,16 +2080,6 @@
     "brand": "Anker",
     "genre": "充電器",
     "price": 2990
-  },
-  "B0GSVNFT8T": {
-    "first_seen": "2026-09-30",
-    "first_seen_at": "2026-09-30T05:14:49+09:00",
-    "last_seen": "2026-11-18",
-    "title": "UGREEN 100W充電器 USB-C×3+USB-A×1 4ポート充電器 タッチモニター搭載/画面切り替え可能 PD3.0/PPS/QC4対応 | ボタン一つで縦横表示/アニメ絵文字表示/リアルタイム充電状況 PD/PPS/QC対応, MacBook/iPhone18/17/16/15/Galaxy S26 ultra/Xperia他各種対応",
-    "percent_off": 39,
-    "brand": "UGREEN",
-    "genre": "充電器",
-    "price": 6080
   },
   "B0C9CS34KJ": {
     "first_seen": "2026-09-25",
@@ -2552,16 +2602,6 @@
     "genre": "Apple製品",
     "price": 343526
   },
-  "B0CLGZGXMD": {
-    "first_seen": "2026-11-13",
-    "first_seen_at": "2026-11-13T14:14:50+09:00",
-    "last_seen": "2026-11-15",
-    "title": "UGREEN Nexode【当社比最小】65W PD充電器 USB-C*2+USB-A*1 急速充電器 PSE適合 PD/PPS/QC4+対応 | GaNチップ PD3.0/QC4+ 出張/旅行用 ノートPC iPad iphone17/Galaxy S26/Pixel8/Xperia5以降対応",
-    "percent_off": 40,
-    "brand": "UGREEN",
-    "genre": "充電器",
-    "price": 3600
-  },
   "B0DB1JV955": {
     "first_seen": "2026-11-15",
     "first_seen_at": "2026-11-15T01:15:01+09:00",
@@ -2612,16 +2652,6 @@
     "genre": "キーボード・マウス",
     "price": 4709
   },
-  "B0CJR8MJTK": {
-    "first_seen": "2026-10-01",
-    "first_seen_at": "2026-10-01T22:15:01+09:00",
-    "last_seen": "2026-11-14",
-    "title": "ロジクール ワイヤレスキーボード PEBBLE KEYS 2 K380sBL 薄型 軽量 415g 小型 Bluetooth Logi Bolt ワイヤレス 無線 キーボード Easy-Switch 日本語配列 電池寿命36ケ月 Windows Mac iPad iOS Android Chrome K380s ブルー 国内正規品",
-    "percent_off": 17,
-    "brand": "Logicool(ロジクール)",
-    "genre": "キーボード・マウス",
-    "price": 4373
-  },
   "B0D6QP8XTX": {
     "first_seen": "2026-11-14",
     "first_seen_at": "2026-11-14T22:16:15+09:00",
@@ -2657,13 +2687,6 @@
     "percent_off": 19,
     "brand": "Logicool(ロジクール)",
     "price": 2936
-  },
-  "B0DC5WQQ2J": {
-    "first_seen": "2026-10-24",
-    "first_seen_at": "2026-10-24T21:15:02+09:00",
-    "last_seen": "2026-11-14",
-    "title": "ロジクール 静音 ワイヤレス トラックボール マウス M575SPGR Bluetooth Logibolt 無線 windows mac iPad OS Chrome トラックボールマウス グラファイト M575 M575SP 国内正規品",
-    "percent_off": 17
   },
   "B0BKP5MVL5": {
     "first_seen": "2026-11-14",
