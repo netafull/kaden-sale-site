@@ -10,6 +10,12 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
 CONFIG = json.loads((ROOT / "config.json").read_text(encoding="utf-8"))
+
+# ポチシリーズ全体の一覧ページ(ポチフル)へのリンク。関連サイトの直後に1行で出す
+SERIES_INDEX_HTML = (
+    '<nav class="sites"><span class="lbl">ポチシリーズ一覧：</span>\n'
+    '<a href="https://pochi.netaful.jp/" data-google-vignette="false">ポチフル</a>\n</nav>'
+)
 DATA_PATH = ROOT / "data" / "sales.json"
 STATE_PATH = ROOT / "data" / "item_state.json"
 DOCS = ROOT / "docs"
@@ -769,6 +775,7 @@ Amazonのアソシエイトとして、当サイトは適格販売により収�
 当サイトはアクセス解析のためGoogle Analyticsを利用しています(データは匿名で収集され、Googleに送信されます)。
 {policy_link}｜ <a href="../../rss.xml" data-google-vignette="false" style="color:inherit">RSS</a>
 {related_html}
+{SERIES_INDEX_HTML}
 </footer>
 <script>
 // 広告枠はトップページと同じく、表示されている枠だけを読み込む
@@ -964,6 +971,7 @@ Amazonのアソシエイトとして、当サイトは適格販売により収�
 当サイトはアクセス解析のためGoogle Analyticsを利用しています(データは匿名で収集され、Googleに送信されます)。
 {policy_link}｜ <a href="../../rss.xml" data-google-vignette="false" style="color:inherit">RSS</a>
 {related_html}
+{SERIES_INDEX_HTML}
 </footer>
 <script>
 // 広告枠はトップページと同じく、表示されている枠だけを読み込む
@@ -1229,6 +1237,7 @@ Amazonのアソシエイトとして、当サイトは適格販売により収�
 当サイトはアクセス解析のためGoogle Analyticsを利用しています(データは匿名で収集され、Googleに送信されます)。
 {policy_link}｜ <a href="rss.xml" data-google-vignette="false" style="color:inherit">RSS</a>
 {related_html}
+{SERIES_INDEX_HTML}
 </footer>
 <script>
 // 広告は表示されている枠だけ読み込む。隠れたまま処理されると
