@@ -19,26 +19,6 @@
     "genre": "Apple製品",
     "price": 34516
   },
-  "B0DGJBNYVY": {
-    "first_seen": "2026-09-05",
-    "first_seen_at": "2026-09-05T08:14:38+09:00",
-    "last_seen": "2026-11-20",
-    "title": "Apple AirPods 4 アクティブノイズ キャンセリング搭載、ワイヤレスイヤホン、Bluetooth 5.3、ライブ翻訳、適応型オーディオ、外部音取り込みモード、パーソナライズされた空間オーディオ、USB-C充電ケース、ワイヤレス充電、H2チップ、防塵性能と耐汗耐水性能、「探す」対応、Qi充電",
-    "percent_off": 26,
-    "brand": "Apple(アップル)",
-    "genre": "Apple製品",
-    "price": 24222
-  },
-  "B0DT3XJKH9": {
-    "first_seen": "2026-09-05",
-    "first_seen_at": "2026-09-05T21:15:05+09:00",
-    "last_seen": "2026-11-20",
-    "title": "Apple AirPods 4ワイヤレスイヤーバッド、Bluetoothヘッドフォン、アクティブノイズ キャンセリング搭載、適応型オーディオ、外部音取り込みモード、パーソナライズされ た空間オーディオ、USB-C充電ケース、ワイヤレス充電、H2チップ + 延長2年 AppleCare+ for Headphones - AirPods",
-    "percent_off": 23,
-    "brand": "Apple(アップル)",
-    "genre": "Apple製品",
-    "price": 29422
-  },
   "B0FQG2HWLF": {
     "first_seen": "2026-10-28",
     "first_seen_at": "2026-10-28T13:16:03+09:00",
@@ -259,6 +239,46 @@
     "genre": "Apple製品",
     "price": 433813
   },
+  "B0HJB1QJH7": {
+    "first_seen": "2026-11-20",
+    "first_seen_at": "2026-11-20T14:15:01+09:00",
+    "last_seen": "2026-11-20",
+    "title": "Apple Watch Series 12（GPSモデル） | 46mmダークブロンズアルミニウムケースとオリーブスポーツバンド - S/M。健康 + フィットネス + 睡眠記録、心拍数、安全",
+    "percent_off": null,
+    "brand": "Apple(アップル)",
+    "genre": "Apple製品",
+    "price": 80801
+  },
+  "B0HJB2M493": {
+    "first_seen": "2026-11-20",
+    "first_seen_at": "2026-11-20T14:15:01+09:00",
+    "last_seen": "2026-11-20",
+    "title": "Apple Watch Series 12（GPSモデル） | 46mmライトゴールドアルミニウムケースとサンドスポーツバンド - S/M。健康 + フィットネス + 睡眠記録、心拍数、安全",
+    "percent_off": null,
+    "brand": "Apple(アップル)",
+    "genre": "Apple製品",
+    "price": 80801
+  },
+  "B0HJB2W3J6": {
+    "first_seen": "2026-11-20",
+    "first_seen_at": "2026-11-20T14:15:01+09:00",
+    "last_seen": "2026-11-20",
+    "title": "Apple Watch Series 12（GPSモデル） | 46mmダークブロンズアルミニウムケースとオリーブスポーツバンド - M/L。健康 + フィットネス + 睡眠記録、心拍数、安全",
+    "percent_off": null,
+    "brand": "Apple(アップル)",
+    "genre": "Apple製品",
+    "price": 80800
+  },
+  "B0HJB9GLPB": {
+    "first_seen": "2026-11-20",
+    "first_seen_at": "2026-11-20T14:15:01+09:00",
+    "last_seen": "2026-11-20",
+    "title": "Apple Watch Series 12（GPSモデル） | 46mmブラックアルミニウムケースとブラックスポーツバンド - S/M。健康 + フィットネス + 睡眠記録、心拍数、安全",
+    "percent_off": null,
+    "brand": "Apple(アップル)",
+    "genre": "Apple製品",
+    "price": 80800
+  },
   "B0FWDBWC7F": {
     "first_seen": "2026-10-22",
     "first_seen_at": "2026-10-22T00:16:22+09:00",
@@ -324,10 +344,10 @@
     "first_seen_at": "2026-11-01T02:15:45+09:00",
     "last_seen": "2026-11-20",
     "title": "ソニー(SONY) WF-C710N ブラック ワイヤレスイヤホン 高性能ノイズキャンセリング Bluetoothロングバッテリー 外音取り込み IPX4防滴性能 軽量 コンパクト マルチポイント接続",
-    "percent_off": 30,
+    "percent_off": 29,
     "brand": "Sony",
     "genre": "ワイヤレスイヤホン",
-    "price": 12325
+    "price": 12449
   },
   "B0DPX7W84T": {
     "first_seen": "2026-10-20",
@@ -344,10 +364,10 @@
     "first_seen_at": "2026-08-16T23:40:53+09:00",
     "last_seen": "2026-11-20",
     "title": "ソニー(SONY) 完全ワイヤレスイヤホン WF-C510 / 軽量小型4.6g / 高精度通話品質/外音取り込み対応/マルチポイント対応 / IPX4防滴性能 / ブラック/WF-C510 BC",
-    "percent_off": 22,
+    "percent_off": 21,
     "brand": "Sony",
     "genre": "ワイヤレスイヤホン",
-    "price": 7750
+    "price": 7800
   },
   "B071G7JJRL": {
     "first_seen": "2026-11-01",
@@ -429,6 +449,26 @@
     "genre": "モバイルバッテリー",
     "price": 2150
   },
+  "B0G39944C8": {
+    "first_seen": "2026-11-20",
+    "first_seen_at": "2026-11-20T14:15:01+09:00",
+    "last_seen": "2026-11-20",
+    "title": "UGREEN Nexode Wavy（燃えにくい薄型 安全情報見える化 10000mAh 45W コード付属）モバイルバッテリー ブラック PB603 | 3C認証／ディスプレイ搭載／BMSバッテリー監視／高安全性／ATLバッテリー寿命向上／ストラップ型／Dymondcell™難燃技術／MacBook／iPhone18～13／Xperia／Galaxy／Android／iPad／Switch 2に適用",
+    "percent_off": 25,
+    "brand": "UGREEN",
+    "genre": "モバイルバッテリー",
+    "price": 5980
+  },
+  "B0CZPTG7H8": {
+    "first_seen": "2026-10-29",
+    "first_seen_at": "2026-10-29T21:15:15+09:00",
+    "last_seen": "2026-11-20",
+    "title": "エレコム モバイルバッテリー 15W 5000mAh Type-C 1ポート 入出力 小型 軽量 【 iPhone15 Pixel OPPO 等対応】 しろちゃん EC-C15WF",
+    "percent_off": 23,
+    "brand": "エレコム(ELECOM)",
+    "genre": "モバイルバッテリー",
+    "price": 1690
+  },
   "B0CX4C1TVK": {
     "first_seen": "2026-07-27",
     "first_seen_at": "2026-07-27T12:00:00+09:00",
@@ -458,6 +498,16 @@
     "brand": "UGREEN",
     "genre": "モバイルバッテリー",
     "price": 19984
+  },
+  "B0FTZ46NF8": {
+    "first_seen": "2026-11-04",
+    "first_seen_at": "2026-11-04T00:15:51+09:00",
+    "last_seen": "2026-11-20",
+    "title": "CIO 半固体モバイルバッテリー 25W 5000mAh SMARTCOBY Ex04 Wireless2.2 CABLE SS5K (ブラック) | Qi2.2 ワイヤレス充電 25W / Type-C USB-C ケーブル内蔵 20W, iPhone18対応, Pixel10対応, Galaxy S26対応",
+    "percent_off": null,
+    "brand": "CIO",
+    "genre": "モバイルバッテリー",
+    "price": 7130
   },
   "B0D9J5MSBH": {
     "first_seen": "2026-10-15",
@@ -499,16 +549,6 @@
     "genre": "充電器",
     "price": 2782
   },
-  "B096S2CTHS": {
-    "first_seen": "2026-10-20",
-    "first_seen_at": "2026-10-20T00:15:15+09:00",
-    "last_seen": "2026-11-20",
-    "title": "Anker PowerPort III Nano 20W ブラック | (PD 充電器 20W USB-C 超小型急速充電器)【PSE技術基準適合/PowerIQ 3.0 (Gen2)搭載】 iPhone 15 / 14 / 13 iPad Air (第5世代) Android その他 各種機器対応",
-    "percent_off": 39,
-    "brand": "Anker",
-    "genre": "充電器",
-    "price": 1090
-  },
   "B0FL1SH21C": {
     "first_seen": "2026-09-07",
     "first_seen_at": "2026-09-07T21:14:48+09:00",
@@ -518,6 +558,16 @@
     "brand": "Anker",
     "genre": "充電器",
     "price": 3989
+  },
+  "B096S2CTHS": {
+    "first_seen": "2026-10-20",
+    "first_seen_at": "2026-10-20T00:15:15+09:00",
+    "last_seen": "2026-11-20",
+    "title": "Anker PowerPort III Nano 20W ブラック | (PD 充電器 20W USB-C 超小型急速充電器)【PSE技術基準適合/PowerIQ 3.0 (Gen2)搭載】 iPhone 15 / 14 / 13 iPad Air (第5世代) Android その他 各種機器対応",
+    "percent_off": 39,
+    "brand": "Anker",
+    "genre": "充電器",
+    "price": 1090
   },
   "B08X11GD52": {
     "first_seen": "2026-11-04",
@@ -538,6 +588,16 @@
     "brand": "CIO",
     "genre": "充電器",
     "price": 6589
+  },
+  "B0B2QR8HN9": {
+    "first_seen": "2026-08-09",
+    "first_seen_at": "2026-08-09T19:54:50+09:00",
+    "last_seen": "2026-11-20",
+    "title": "Anker 511 Charger (Nano 3, 30W) ホワイト | 30W USB-C急速充電器 手のひらサイズでノートPCにも給電。GaN採用で折りたたみ式プラグ搭載。PD PPS対応 MacBook Air iPhone iPad Galaxy Pixel対応 PSE技術基準適合",
+    "percent_off": null,
+    "brand": "Anker",
+    "genre": "充電器",
+    "price": 2790
   },
   "B091BGMKYS": {
     "first_seen": "2026-07-27",
@@ -819,6 +879,16 @@
     "genre": "スマートウォッチ",
     "price": 118798
   },
+  "B0GX8BVR4L": {
+    "first_seen": "2026-11-01",
+    "first_seen_at": "2026-11-01T19:15:08+09:00",
+    "last_seen": "2026-11-20",
+    "title": "HUAWEI WATCH FIT 5 スマートウォッチ 薄型軽量 大画面 GPS内蔵 10日間ロングバッテリー 通知 健康管理 心拍数 睡眠 ホワイト | iPhone対応 android対応 1.82インチ画面 2500nits高輝度 ワークアウト 転倒検知 情緒測定 生理周期管理 64GBストレージ 録音機能 ランニング 防水",
+    "percent_off": 17,
+    "brand": "HUAWEI(ファーウェイ)",
+    "genre": "スマートウォッチ",
+    "price": 22770
+  },
   "B0B4JHS716": {
     "first_seen": "2026-09-25",
     "first_seen_at": "2026-09-25T10:14:58+09:00",
@@ -848,26 +918,6 @@
     "brand": "HUAWEI(ファーウェイ)",
     "genre": "スマートウォッチ",
     "price": 22300
-  },
-  "B0GX8BVR4L": {
-    "first_seen": "2026-11-01",
-    "first_seen_at": "2026-11-01T19:15:08+09:00",
-    "last_seen": "2026-11-20",
-    "title": "HUAWEI WATCH FIT 5 スマートウォッチ 薄型軽量 大画面 GPS内蔵 10日間ロングバッテリー 通知 健康管理 心拍数 睡眠 ホワイト | iPhone対応 android対応 1.82インチ画面 2500nits高輝度 ワークアウト 転倒検知 情緒測定 生理周期管理 64GBストレージ 録音機能 ランニング 防水",
-    "percent_off": 17,
-    "brand": "HUAWEI(ファーウェイ)",
-    "genre": "スマートウォッチ",
-    "price": 22542
-  },
-  "B0GJSCGFTP": {
-    "first_seen": "2026-10-13",
-    "first_seen_at": "2026-10-13T14:15:16+09:00",
-    "last_seen": "2026-11-20",
-    "title": "HUAWEI Band 11 Pro GPS搭載 スマートウォッチ 薄型軽量 睡眠管理 大画面 心拍数 ロングバッテリー LINE通知 ブラック | iPhone対応 android対応 8.99mm/18g薄型軽量ボディ 2000nits高輝度 1.62インチ画面 24時間睡眠管理 ランニングモード 健康/情緒モニタリング ランニング 防水",
-    "percent_off": 15,
-    "brand": "HUAWEI(ファーウェイ)",
-    "genre": "スマートウォッチ",
-    "price": 10058
   },
   "B0DQ7MJ8P3": {
     "first_seen": "2026-08-22",
@@ -1089,16 +1139,6 @@
     "genre": "キーボード・マウス",
     "price": 9281
   },
-  "B0H33PTLSH": {
-    "first_seen": "2026-11-14",
-    "first_seen_at": "2026-11-14T21:14:56+09:00",
-    "last_seen": "2026-11-20",
-    "title": "【Amazon.co.jp限定】 Ninja ニンジャ Crispi クリスピー FN100JGNNR 自動調理器 3つの調理モード (クリスプ/ベイク・ロースト/リクリスプ) 煮る 焼く 蒸す 炒める 煮込む 炊く 温風調理 エアフライヤー ノンフライヤー FN100J ミント",
-    "percent_off": 27,
-    "brand": "NINJA",
-    "genre": "エアフライヤー",
-    "price": 18000
-  },
   "B0G4CC1S2F": {
     "first_seen": "2026-10-30",
     "first_seen_at": "2026-10-30T19:14:56+09:00",
@@ -1119,6 +1159,46 @@
     "genre": "エアフライヤー",
     "price": 12000
   },
+  "B0DGJBNYVY": {
+    "first_seen": "2026-09-05",
+    "first_seen_at": "2026-09-05T08:14:38+09:00",
+    "last_seen": "2026-11-20",
+    "title": "Apple AirPods 4 アクティブノイズ キャンセリング搭載、ワイヤレスイヤホン、Bluetooth 5.3、ライブ翻訳、適応型オーディオ、外部音取り込みモード、パーソナライズされた空間オーディオ、USB-C充電ケース、ワイヤレス充電、H2チップ、防塵性能と耐汗耐水性能、「探す」対応、Qi充電",
+    "percent_off": 26,
+    "brand": "Apple(アップル)",
+    "genre": "Apple製品",
+    "price": 24222
+  },
+  "B0DT3XJKH9": {
+    "first_seen": "2026-09-05",
+    "first_seen_at": "2026-09-05T21:15:05+09:00",
+    "last_seen": "2026-11-20",
+    "title": "Apple AirPods 4ワイヤレスイヤーバッド、Bluetoothヘッドフォン、アクティブノイズ キャンセリング搭載、適応型オーディオ、外部音取り込みモード、パーソナライズされ た空間オーディオ、USB-C充電ケース、ワイヤレス充電、H2チップ + 延長2年 AppleCare+ for Headphones - AirPods",
+    "percent_off": 23,
+    "brand": "Apple(アップル)",
+    "genre": "Apple製品",
+    "price": 29422
+  },
+  "B0GJSCGFTP": {
+    "first_seen": "2026-10-13",
+    "first_seen_at": "2026-10-13T14:15:16+09:00",
+    "last_seen": "2026-11-20",
+    "title": "HUAWEI Band 11 Pro GPS搭載 スマートウォッチ 薄型軽量 睡眠管理 大画面 心拍数 ロングバッテリー LINE通知 ブラック | iPhone対応 android対応 8.99mm/18g薄型軽量ボディ 2000nits高輝度 1.62インチ画面 24時間睡眠管理 ランニングモード 健康/情緒モニタリング ランニング 防水",
+    "percent_off": 15,
+    "brand": "HUAWEI(ファーウェイ)",
+    "genre": "スマートウォッチ",
+    "price": 10058
+  },
+  "B0H33PTLSH": {
+    "first_seen": "2026-11-14",
+    "first_seen_at": "2026-11-14T21:14:56+09:00",
+    "last_seen": "2026-11-20",
+    "title": "【Amazon.co.jp限定】 Ninja ニンジャ Crispi クリスピー FN100JGNNR 自動調理器 3つの調理モード (クリスプ/ベイク・ロースト/リクリスプ) 煮る 焼く 蒸す 炒める 煮込む 炊く 温風調理 エアフライヤー ノンフライヤー FN100J ミント",
+    "percent_off": 27,
+    "brand": "NINJA",
+    "genre": "エアフライヤー",
+    "price": 18000
+  },
   "B0GCZMBX21": {
     "first_seen": "2026-11-19",
     "first_seen_at": "2026-11-19T00:14:50+09:00",
@@ -1128,16 +1208,6 @@
     "brand": "UGREEN",
     "genre": "モバイルバッテリー",
     "price": 2979
-  },
-  "B0B2QR8HN9": {
-    "first_seen": "2026-08-09",
-    "first_seen_at": "2026-08-09T19:54:50+09:00",
-    "last_seen": "2026-11-20",
-    "title": "Anker 511 Charger (Nano 3, 30W) ホワイト | 30W USB-C急速充電器 手のひらサイズでノートPCにも給電。GaN採用で折りたたみ式プラグ搭載。PD PPS対応 MacBook Air iPhone iPad Galaxy Pixel対応 PSE技術基準適合",
-    "percent_off": null,
-    "brand": "Anker",
-    "genre": "充電器",
-    "price": 2790
   },
   "B0BWF35J1G": {
     "first_seen": "2026-10-15",
@@ -1789,16 +1859,6 @@
     "brand": "Logicool(ロジクール)",
     "genre": "キーボード・マウス",
     "price": 4400
-  },
-  "B0FTZ46NF8": {
-    "first_seen": "2026-11-04",
-    "first_seen_at": "2026-11-04T00:15:51+09:00",
-    "last_seen": "2026-11-18",
-    "title": "CIO 半固体モバイルバッテリー 25W 5000mAh SMARTCOBY Ex04 Wireless2.2 CABLE SS5K (ブラック) | Qi2.2 ワイヤレス充電 25W / Type-C USB-C ケーブル内蔵 20W, iPhone18対応, Pixel10対応, Galaxy S26対応",
-    "percent_off": null,
-    "brand": "CIO",
-    "genre": "モバイルバッテリー",
-    "price": 7130
   },
   "B0FK4P37J1": {
     "first_seen": "2026-10-07",
@@ -3917,13 +3977,6 @@
     "last_seen": "2026-11-06",
     "title": "【Amazon.co.jp限定】 SanDisk microSD カード 高耐久 SDSQQNR-128G-GH3IA 簡易デザインパッケージ | High Endurance 128GB UHS-I U3 V30 Class10 ドライブレコーダー 監視カメラ 2年間限定保証",
     "percent_off": 16
-  },
-  "B0CZPTG7H8": {
-    "first_seen": "2026-10-29",
-    "first_seen_at": "2026-10-29T21:15:15+09:00",
-    "last_seen": "2026-11-06",
-    "title": "エレコム モバイルバッテリー 15W 5000mAh Type-C 1ポート 入出力 小型 軽量 【 iPhone15 Pixel OPPO 等対応】 しろちゃん EC-C15WF",
-    "percent_off": 31
   },
   "B0H24VHQFV": {
     "first_seen": "2026-11-06",

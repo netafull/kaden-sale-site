@@ -4244,7 +4244,7 @@
     "B0HJB1QJH7": {
      "last_seen": "2026-11-20",
      "pct": 0,
-     "points_pct": 4
+     "points_pct": 7
     },
     "B0HJB28XVR": {
      "last_seen": "2026-11-20",
@@ -4259,7 +4259,7 @@
     "B0HJB2M493": {
      "last_seen": "2026-11-20",
      "pct": 0,
-     "points_pct": 4
+     "points_pct": 7
     },
     "B0HJB2SJHN": {
      "last_seen": "2026-11-20",
@@ -4269,7 +4269,7 @@
     "B0HJB2W3J6": {
      "last_seen": "2026-11-20",
      "pct": 0,
-     "points_pct": 4
+     "points_pct": 7
     },
     "B0HJB3GN3F": {
      "last_seen": "2026-11-20",
@@ -4299,7 +4299,7 @@
     "B0HJB9GLPB": {
      "last_seen": "2026-11-20",
      "pct": 0,
-     "points_pct": 4
+     "points_pct": 7
     },
     "B0HJBBZBQQ": {
      "last_seen": "2026-11-20",
@@ -4546,8 +4546,8 @@
     },
     "B0DGJBNYVY": {
      "last_seen": "2026-11-20",
-     "pct": 26,
-     "points_pct": 1
+     "pct": null,
+     "points_pct": null
     },
     "B0DT2X3TKG": {
      "last_seen": "2026-11-12",
@@ -4556,8 +4556,8 @@
     },
     "B0DT3XJKH9": {
      "last_seen": "2026-11-20",
-     "pct": 23,
-     "points_pct": 0
+     "pct": null,
+     "points_pct": null
     }
    },
    "no_variations": false,
