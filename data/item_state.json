@@ -257,7 +257,7 @@
     "percent_off": null,
     "brand": "Apple(アップル)",
     "genre": "Apple製品",
-    "price": 80801
+    "price": 80800
   },
   "B0HJB2M493": {
     "first_seen": "2026-11-20",
@@ -357,7 +357,7 @@
     "percent_off": 50,
     "brand": "JBL",
     "genre": "ワイヤレスイヤホン",
-    "price": 13900
+    "price": 14080
   },
   "B0F3XFNHCW": {
     "first_seen": "2026-11-01",
@@ -478,16 +478,6 @@
     "brand": "UGREEN",
     "genre": "モバイルバッテリー",
     "price": 5980
-  },
-  "B0GCZMBX21": {
-    "first_seen": "2026-11-19",
-    "first_seen_at": "2026-11-19T00:14:50+09:00",
-    "last_seen": "2026-11-20",
-    "title": "UGREEN 10000mAh PD20W 薄型モバイルバッテリー（着脱式・内蔵式USB-Cケーブル各1本付属）ブルー PB524 | USB-Cケーブル2本を本体に収納、10000mAh大容量と20WPD急速充電に対応、液晶ディスプレイで残量を一目で確認、iPhon18シリーズに対応、スマホ約2回分の充電が可能",
-    "percent_off": 25,
-    "brand": "UGREEN",
-    "genre": "モバイルバッテリー",
-    "price": 2979
   },
   "B0CZPTG7H8": {
     "first_seen": "2026-10-29",
@@ -919,16 +909,6 @@
     "genre": "スマートウォッチ",
     "price": 118798
   },
-  "B0GX8BVR4L": {
-    "first_seen": "2026-11-01",
-    "first_seen_at": "2026-11-01T19:15:08+09:00",
-    "last_seen": "2026-11-20",
-    "title": "HUAWEI WATCH FIT 5 スマートウォッチ 薄型軽量 大画面 GPS内蔵 10日間ロングバッテリー 通知 健康管理 心拍数 睡眠 ホワイト | iPhone対応 android対応 1.82インチ画面 2500nits高輝度 ワークアウト 転倒検知 情緒測定 生理周期管理 64GBストレージ 録音機能 ランニング 防水",
-    "percent_off": 17,
-    "brand": "HUAWEI(ファーウェイ)",
-    "genre": "スマートウォッチ",
-    "price": 22770
-  },
   "B0B4JHS716": {
     "first_seen": "2026-09-25",
     "first_seen_at": "2026-09-25T10:14:58+09:00",
@@ -958,6 +938,16 @@
     "brand": "HUAWEI(ファーウェイ)",
     "genre": "スマートウォッチ",
     "price": 22300
+  },
+  "B0GX8BVR4L": {
+    "first_seen": "2026-11-01",
+    "first_seen_at": "2026-11-01T19:15:08+09:00",
+    "last_seen": "2026-11-20",
+    "title": "HUAWEI WATCH FIT 5 スマートウォッチ 薄型軽量 大画面 GPS内蔵 10日間ロングバッテリー 通知 健康管理 心拍数 睡眠 ホワイト | iPhone対応 android対応 1.82インチ画面 2500nits高輝度 ワークアウト 転倒検知 情緒測定 生理周期管理 64GBストレージ 録音機能 ランニング 防水",
+    "percent_off": 17,
+    "brand": "HUAWEI(ファーウェイ)",
+    "genre": "スマートウォッチ",
+    "price": 22542
   },
   "B0DQ7MJ8P3": {
     "first_seen": "2026-08-22",
@@ -1198,6 +1188,16 @@
     "brand": "BRUNO",
     "genre": "エアフライヤー",
     "price": 12000
+  },
+  "B0GCZMBX21": {
+    "first_seen": "2026-11-19",
+    "first_seen_at": "2026-11-19T00:14:50+09:00",
+    "last_seen": "2026-11-20",
+    "title": "UGREEN 10000mAh PD20W 薄型モバイルバッテリー（着脱式・内蔵式USB-Cケーブル各1本付属）ブルー PB524 | USB-Cケーブル2本を本体に収納、10000mAh大容量と20WPD急速充電に対応、液晶ディスプレイで残量を一目で確認、iPhon18シリーズに対応、スマホ約2回分の充電が可能",
+    "percent_off": 25,
+    "brand": "UGREEN",
+    "genre": "モバイルバッテリー",
+    "price": 2979
   },
   "B0DGJBNYVY": {
     "first_seen": "2026-09-05",
