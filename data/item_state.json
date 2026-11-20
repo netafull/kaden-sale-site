@@ -229,6 +229,16 @@
     "genre": "Apple製品",
     "price": 71800
   },
+  "B0HJB812TG": {
+    "first_seen": "2026-11-20",
+    "first_seen_at": "2026-11-20T19:15:18+09:00",
+    "last_seen": "2026-11-20",
+    "title": "Apple Watch Series 12（GPSモデル） | 42mmブラックアルミニウムケースとブラックスポーツバンド - S/M。健康 + フィットネス + 睡眠記録、心拍数、安全",
+    "percent_off": null,
+    "brand": "Apple(アップル)",
+    "genre": "Apple製品",
+    "price": 71800
+  },
   "B0HJBBZBQQ": {
     "first_seen": "2026-11-20",
     "first_seen_at": "2026-11-20T13:15:25+09:00",
@@ -540,16 +550,6 @@
     "genre": "モバイルバッテリー",
     "price": 2150
   },
-  "B0G39944C8": {
-    "first_seen": "2026-11-20",
-    "first_seen_at": "2026-11-20T14:15:01+09:00",
-    "last_seen": "2026-11-20",
-    "title": "UGREEN Nexode Wavy（燃えにくい薄型 安全情報見える化 10000mAh 45W コード付属）モバイルバッテリー ブラック PB603 | 3C認証／ディスプレイ搭載／BMSバッテリー監視／高安全性／ATLバッテリー寿命向上／ストラップ型／Dymondcell™難燃技術／MacBook／iPhone18～13／Xperia／Galaxy／Android／iPad／Switch 2に適用",
-    "percent_off": 25,
-    "brand": "UGREEN",
-    "genre": "モバイルバッテリー",
-    "price": 5980
-  },
   "B0GCZMBX21": {
     "first_seen": "2026-11-19",
     "first_seen_at": "2026-11-19T00:14:50+09:00",
@@ -650,15 +650,15 @@
     "genre": "充電器",
     "price": 2782
   },
-  "B0FL1SH21C": {
-    "first_seen": "2026-09-07",
-    "first_seen_at": "2026-09-07T21:14:48+09:00",
+  "B0D53VJJ7F": {
+    "first_seen": "2026-07-28",
+    "first_seen_at": "2026-07-28T12:00:00+09:00",
     "last_seen": "2026-11-20",
-    "title": "Anker Zolo Charger (70W, 4 Ports) ホワイト | 70W USB-C急速充電器 4台同時充電対応。USB-C3ポートとUSB-A1ポートを搭載しPCとスマホをまとめて充電。MacBook Pro MacBook Air iPhone iPad Galaxy対応 PSE技術基準適合",
-    "percent_off": 39,
-    "brand": "Anker",
+    "title": "CIO NovaPort TRIOⅡ 65W 2C1A PD急速充電器 USB-C×2+USB-A×1 3台同時充電 世界最小級 (ブラック) | ノートPC対応, MacBook対応, iPhone対応, iPad対応, Android対応, 電力を自動最適配分",
+    "percent_off": null,
+    "brand": "CIO",
     "genre": "充電器",
-    "price": 3989
+    "price": 6589
   },
   "B096S2CTHS": {
     "first_seen": "2026-10-20",
@@ -670,6 +670,16 @@
     "genre": "充電器",
     "price": 1090
   },
+  "B0FL1SH21C": {
+    "first_seen": "2026-09-07",
+    "first_seen_at": "2026-09-07T21:14:48+09:00",
+    "last_seen": "2026-11-20",
+    "title": "Anker Zolo Charger (70W, 4 Ports) ホワイト | 70W USB-C急速充電器 4台同時充電対応。USB-C3ポートとUSB-A1ポートを搭載しPCとスマホをまとめて充電。MacBook Pro MacBook Air iPhone iPad Galaxy対応 PSE技術基準適合",
+    "percent_off": 39,
+    "brand": "Anker",
+    "genre": "充電器",
+    "price": 3989
+  },
   "B08X11GD52": {
     "first_seen": "2026-11-04",
     "first_seen_at": "2026-11-04T00:15:51+09:00",
@@ -679,16 +689,6 @@
     "brand": "Anker",
     "genre": "充電器",
     "price": 2930
-  },
-  "B0D53VJJ7F": {
-    "first_seen": "2026-07-28",
-    "first_seen_at": "2026-07-28T12:00:00+09:00",
-    "last_seen": "2026-11-20",
-    "title": "CIO NovaPort TRIOⅡ 65W 2C1A PD急速充電器 USB-C×2+USB-A×1 3台同時充電 世界最小級 (ブラック) | ノートPC対応, MacBook対応, iPhone対応, iPad対応, Android対応, 電力を自動最適配分",
-    "percent_off": null,
-    "brand": "CIO",
-    "genre": "充電器",
-    "price": 6589
   },
   "B09SYV3P5B": {
     "first_seen": "2026-09-09",
@@ -729,6 +729,16 @@
     "brand": "Anker",
     "genre": "充電器",
     "price": 3390
+  },
+  "B0D53VKL36": {
+    "first_seen": "2026-07-29",
+    "first_seen_at": "2026-07-29T12:00:00+09:00",
+    "last_seen": "2026-11-20",
+    "title": "CIO NovaPort DUOⅡ 65W PD急速充電器 USB-C×2 2台同時充電 世界最小級（ブラック） | ノートPC対応, MacBook対応, iPhone対応, iPad対応, 電力を自動最適配分",
+    "percent_off": null,
+    "brand": "CIO",
+    "genre": "充電器",
+    "price": 5480
   },
   "B0D3GG4M9N": {
     "first_seen": "2026-10-17",
@@ -980,16 +990,6 @@
     "genre": "スマートウォッチ",
     "price": 118798
   },
-  "B0GX8BVR4L": {
-    "first_seen": "2026-11-01",
-    "first_seen_at": "2026-11-01T19:15:08+09:00",
-    "last_seen": "2026-11-20",
-    "title": "HUAWEI WATCH FIT 5 スマートウォッチ 薄型軽量 大画面 GPS内蔵 10日間ロングバッテリー 通知 健康管理 心拍数 睡眠 ホワイト | iPhone対応 android対応 1.82インチ画面 2500nits高輝度 ワークアウト 転倒検知 情緒測定 生理周期管理 64GBストレージ 録音機能 ランニング 防水",
-    "percent_off": 17,
-    "brand": "HUAWEI(ファーウェイ)",
-    "genre": "スマートウォッチ",
-    "price": 22770
-  },
   "B0B4JHS716": {
     "first_seen": "2026-09-25",
     "first_seen_at": "2026-09-25T10:14:58+09:00",
@@ -1019,6 +1019,16 @@
     "brand": "HUAWEI(ファーウェイ)",
     "genre": "スマートウォッチ",
     "price": 22300
+  },
+  "B0GX8BVR4L": {
+    "first_seen": "2026-11-01",
+    "first_seen_at": "2026-11-01T19:15:08+09:00",
+    "last_seen": "2026-11-20",
+    "title": "HUAWEI WATCH FIT 5 スマートウォッチ 薄型軽量 大画面 GPS内蔵 10日間ロングバッテリー 通知 健康管理 心拍数 睡眠 ホワイト | iPhone対応 android対応 1.82インチ画面 2500nits高輝度 ワークアウト 転倒検知 情緒測定 生理周期管理 64GBストレージ 録音機能 ランニング 防水",
+    "percent_off": 17,
+    "brand": "HUAWEI(ファーウェイ)",
+    "genre": "スマートウォッチ",
+    "price": 22542
   },
   "B0DQ7MJ8P3": {
     "first_seen": "2026-08-22",
@@ -1070,15 +1080,15 @@
     "genre": "キーボード・マウス",
     "price": 877
   },
-  "B0F1FD99K8": {
-    "first_seen": "2026-09-25",
-    "first_seen_at": "2026-09-25T22:14:49+09:00",
+  "B07NDLV8M9": {
+    "first_seen": "2026-09-10",
+    "first_seen_at": "2026-09-10T20:14:59+09:00",
     "last_seen": "2026-11-20",
-    "title": "ラピッドトリガー 搭載 Razer レイザー Huntsman V3 Pro Mini JP (White Edition) ラピッドトリガーと調整可能なアクチュエーション搭載のアナログ ゲーミングキーボード アナログオプティカルスイッチ 調整可能なアクチュエーション 押下圧 40G 日本語配列 ハンツマン ブイスリー プロ ミニ ジェイピー ホワイト エディション【日本正規代理店保証品】",
-    "percent_off": 38,
-    "brand": "Razer(レイザー)",
+    "title": "エレコム キーボード 【マウスセット】 ワイヤレス (レシーバー付属) メンブレン フルキーボード ブラック TK-FDM106MBK",
+    "percent_off": 41,
+    "brand": "エレコム(ELECOM)",
     "genre": "キーボード・マウス",
-    "price": 16744
+    "price": 2115
   },
   "B0GL1B1L6Y": {
     "first_seen": "2026-10-29",
@@ -1129,6 +1139,16 @@
     "brand": "Logicool(ロジクール)",
     "genre": "キーボード・マウス",
     "price": 3073
+  },
+  "B0CLGVLBMV": {
+    "first_seen": "2026-08-23",
+    "first_seen_at": "2026-08-23T20:37:59+09:00",
+    "last_seen": "2026-11-20",
+    "title": "Razer ラピッドトリガー 搭載 Huntsman V3 Pro Mini JP ラピッドトリガーと調整可能なアクチュエーション搭載のアナログ ゲーミングキーボード アナログオプティカルスイッチ 調整可能なアクチュエーション 押下圧 40G 日本語配列 ハンツマン ブイスリー プロ ミニ ジェイピー【日本正規代理店保証品】 ブラック",
+    "percent_off": 26,
+    "brand": "Razer(レイザー)",
+    "genre": "キーボード・マウス",
+    "price": 20029
   },
   "B0FJRCJ1SN": {
     "first_seen": "2026-07-26",
@@ -1260,15 +1280,25 @@
     "genre": "エアフライヤー",
     "price": 12000
   },
-  "B0D53VKL36": {
-    "first_seen": "2026-07-29",
-    "first_seen_at": "2026-07-29T12:00:00+09:00",
+  "B0G39944C8": {
+    "first_seen": "2026-11-20",
+    "first_seen_at": "2026-11-20T14:15:01+09:00",
     "last_seen": "2026-11-20",
-    "title": "CIO NovaPort DUOⅡ 65W PD急速充電器 USB-C×2 2台同時充電 世界最小級（ブラック） | ノートPC対応, MacBook対応, iPhone対応, iPad対応, 電力を自動最適配分",
-    "percent_off": null,
-    "brand": "CIO",
-    "genre": "充電器",
-    "price": 5480
+    "title": "UGREEN Nexode Wavy（燃えにくい薄型 安全情報見える化 10000mAh 45W コード付属）モバイルバッテリー ブラック PB603 | 3C認証／ディスプレイ搭載／BMSバッテリー監視／高安全性／ATLバッテリー寿命向上／ストラップ型／Dymondcell™難燃技術／MacBook／iPhone18～13／Xperia／Galaxy／Android／iPad／Switch 2に適用",
+    "percent_off": 25,
+    "brand": "UGREEN",
+    "genre": "モバイルバッテリー",
+    "price": 5980
+  },
+  "B0F1FD99K8": {
+    "first_seen": "2026-09-25",
+    "first_seen_at": "2026-09-25T22:14:49+09:00",
+    "last_seen": "2026-11-20",
+    "title": "ラピッドトリガー 搭載 Razer レイザー Huntsman V3 Pro Mini JP (White Edition) ラピッドトリガーと調整可能なアクチュエーション搭載のアナログ ゲーミングキーボード アナログオプティカルスイッチ 調整可能なアクチュエーション 押下圧 40G 日本語配列 ハンツマン ブイスリー プロ ミニ ジェイピー ホワイト エディション【日本正規代理店保証品】",
+    "percent_off": 38,
+    "brand": "Razer(レイザー)",
+    "genre": "キーボード・マウス",
+    "price": 16744
   },
   "B0DGJBNYVY": {
     "first_seen": "2026-09-05",
@@ -1329,16 +1359,6 @@
     "brand": "Anker",
     "genre": "充電器",
     "price": 3900
-  },
-  "B0CLGVLBMV": {
-    "first_seen": "2026-08-23",
-    "first_seen_at": "2026-08-23T20:37:59+09:00",
-    "last_seen": "2026-11-20",
-    "title": "Razer ラピッドトリガー 搭載 Huntsman V3 Pro Mini JP ラピッドトリガーと調整可能なアクチュエーション搭載のアナログ ゲーミングキーボード アナログオプティカルスイッチ 調整可能なアクチュエーション 押下圧 40G 日本語配列 ハンツマン ブイスリー プロ ミニ ジェイピー【日本正規代理店保証品】 ブラック",
-    "percent_off": 26,
-    "brand": "Razer(レイザー)",
-    "genre": "キーボード・マウス",
-    "price": 20029
   },
   "B096RZ98SR": {
     "first_seen": "2026-11-17",
@@ -1769,16 +1789,6 @@
     "brand": "スイッチボット(SwitchBot)",
     "genre": "スマートホーム",
     "price": 40633
-  },
-  "B07NDLV8M9": {
-    "first_seen": "2026-09-10",
-    "first_seen_at": "2026-09-10T20:14:59+09:00",
-    "last_seen": "2026-11-19",
-    "title": "エレコム キーボード 【マウスセット】 ワイヤレス (レシーバー付属) メンブレン フルキーボード ブラック TK-FDM106MBK",
-    "percent_off": 35,
-    "brand": "エレコム(ELECOM)",
-    "genre": "キーボード・マウス",
-    "price": 2318
   },
   "B0GMWW1GFR": {
     "first_seen": "2026-11-09",
