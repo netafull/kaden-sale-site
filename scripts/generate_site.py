@@ -1648,6 +1648,96 @@ def generate_widget_data(data: dict) -> dict:
     }
 
 
+JST = datetime.timezone(datetime.timedelta(hours=9))
+FEED_MAX_ITEMS = 20
+FEED_DAYS = 3
+
+
+def feed_item_datetime(item: dict) -> tuple[datetime.date, str] | None:
+    """商品がセールとして初めて検出された日(JST)と、並べ替え用の時刻文字列。
+
+    since_at(時刻つき)を優先し、無ければ since(日付)を使う。どちらも無い/
+    解釈できない商品は None(古さが分からないので出さない)
+    """
+    at = item.get("since_at")
+    if isinstance(at, str) and at:
+        try:
+            dt = datetime.datetime.fromisoformat(at)
+            if dt.tzinfo is None:
+                dt = dt.replace(tzinfo=JST)
+            dt = dt.astimezone(JST)
+            return dt.date(), dt.isoformat()
+        except ValueError:
+            pass
+    since = item.get("since")
+    if isinstance(since, str) and since:
+        try:
+            d = datetime.date.fromisoformat(since[:10])
+            return d, d.isoformat()
+        except ValueError:
+            pass
+    return None
+
+
+def generate_feed_data(data: dict, now: datetime.datetime | None = None) -> dict:
+    """ポチフルのダッシュボード用 feed.json(仕様 v1)。
+
+    1件 = セール中の商品。セールを初めて検出した日が直近3日以内のものを
+    新しい順に最大20件(同じ商品が複数ジャンルにあれば最初の1件)。
+    url は index.html のその商品があるジャンルの節(#g{番号})。
+    本体の「新着セール」と同じく new_arrival_exclude_genres のジャンルは外す。
+    Amazon APIは呼ばない
+    """
+    now = (now or datetime.datetime.now(JST)).astimezone(JST)
+    today = now.date()
+    site_url = CONFIG.get("site_url", "")
+    site_name = CONFIG.get("site_title", "")
+    excluded = set(CONFIG.get("new_arrival_exclude_genres") or [])
+    rows = []
+    seen: set[str] = set()
+    for gi, g in enumerate(data.get("genres") or []):
+        if g.get("name") in excluded:
+            continue
+        for b in g.get("items") or []:
+            asin = b.get("asin")
+            when = feed_item_datetime(b)
+            if not asin or asin in seen or when is None or not b.get("title"):
+                continue
+            d, sort_at = when
+            if not 0 <= (today - d).days <= FEED_DAYS - 1:
+                continue
+            seen.add(asin)
+            parts = []
+            if b.get("percent_off"):
+                parts.append(f"{b['percent_off']}%OFF")
+            if isinstance(b.get("price"), int):
+                parts.append(f"¥{b['price']:,}")
+            item = {
+                "id": f"kaden:{asin}",
+                "title": shorten_title(b["title"]),
+                "url": f"{site_url}#g{gi}",
+                "date": d.isoformat(),
+            }
+            if parts:
+                item["note"] = " ".join(parts)
+            if b.get("image") and b.get("url"):
+                item["image"] = b["image"]
+                item["image_link"] = b["url"]
+            item["source"] = "kaden"
+            item["source_name"] = site_name
+            item["icon"] = None
+            rows.append((sort_at, item))
+    rows.sort(key=lambda r: r[0], reverse=True)
+    return {
+        "version": 1,
+        "site": "kaden",
+        "site_name": site_name,
+        "site_url": site_url,
+        "generated": now.isoformat(timespec="seconds"),
+        "items": [r[1] for r in rows[:FEED_MAX_ITEMS]],
+    }
+
+
 def generate_widget_assets(data: dict) -> tuple[str, str]:
     widget_json = json.dumps(generate_widget_data(data), ensure_ascii=False, indent=2)
     site_url = CONFIG.get("site_url", "")
@@ -1733,6 +1823,10 @@ def main():
     widget_json, widget_js = generate_widget_assets(data)
     (DOCS / "widget.json").write_text(widget_json, encoding="utf-8")
     (DOCS / "widget.js").write_text(widget_js, encoding="utf-8")
+    (DOCS / "feed.json").write_text(
+        json.dumps(generate_feed_data(data), ensure_ascii=False, indent=2),
+        encoding="utf-8",
+    )
     (DOCS / "widget-test.html").write_text(
         generate_widget_test_html(), encoding="utf-8"
     )
@@ -1780,7 +1874,7 @@ def main():
     total = sum(len(g.get("items") or []) for g in data.get("genres") or [])
     print(
         f"generated: index.html, rss.xml, sitemap.xml, robots.txt, "
-        f"widget.json, widget.js, widget-test.html, "
+        f"widget.json, widget.js, feed.json, widget-test.html, "
         f"brands x{len(brand_data)}, genres x{len(genre_data)} ({total}件)"
     )
 
