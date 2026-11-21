@@ -239,6 +239,16 @@
     "genre": "Apple製品",
     "price": 71800
   },
+  "B0HJB11VYX": {
+    "first_seen": "2026-11-21",
+    "first_seen_at": "2026-11-21T11:13:11+09:00",
+    "last_seen": "2026-11-21",
+    "title": "Apple Watch Series 12（GPSモデル） | 42mmダークブロンズアルミニウムケースとオリーブスポーツバンド - M/L。健康 + フィットネス + 睡眠記録、心拍数、安全",
+    "percent_off": null,
+    "brand": "Apple(アップル)",
+    "genre": "Apple製品",
+    "price": 71800
+  },
   "B0HJB2C5KR": {
     "first_seen": "2026-11-21",
     "first_seen_at": "2026-11-21T05:13:10+09:00",
@@ -540,6 +550,16 @@
       }
     ]
   },
+  "B0D3T5ZW6Z": {
+    "first_seen": "2026-11-09",
+    "first_seen_at": "2026-11-09T22:14:55+09:00",
+    "last_seen": "2026-11-21",
+    "title": "JBL LIVE BEAM 3 ワイヤレスイヤホン スマート充電ケース/LDAC対応ハイレゾ/マルチポイント/ハイブリッド ノイズキャンセリング/IP55防水/ワイヤレス充電対応/ブラック/JBLLIVEBEAM3BLK",
+    "percent_off": 52,
+    "brand": "JBL",
+    "genre": "ワイヤレスイヤホン",
+    "price": 13516
+  },
   "B0F3XFNHCW": {
     "first_seen": "2026-11-01",
     "first_seen_at": "2026-11-01T02:15:45+09:00",
@@ -679,6 +699,16 @@
     "brand": "UGREEN",
     "genre": "モバイルバッテリー",
     "price": 19984
+  },
+  "B0FTZ63967": {
+    "first_seen": "2026-11-21",
+    "first_seen_at": "2026-11-21T11:13:11+09:00",
+    "last_seen": "2026-11-21",
+    "title": "CIO 半固体モバイルバッテリー 10000mAh SMARTCOBY Ex05 Wireless2.2 Pro CABLE SS10K (ブラック) | iPhone18 Pro対応, Qi2.2対応, 着脱可能ケーブル内蔵,3台同時充電可能, 35W急速充電",
+    "percent_off": null,
+    "brand": "CIO",
+    "genre": "モバイルバッテリー",
+    "price": 8980
   },
   "B098SQSRRV": {
     "first_seen": "2026-07-31",
@@ -1030,16 +1060,6 @@
     "genre": "スマートウォッチ",
     "price": 46800
   },
-  "B0DP6VCXRF": {
-    "first_seen": "2026-10-13",
-    "first_seen_at": "2026-10-13T07:15:09+09:00",
-    "last_seen": "2026-11-21",
-    "title": "エレコム ワイヤレスマウス Type-C接続 Lサイズ 3ボタン ブラック M-LE10DRCBK",
-    "percent_off": 48,
-    "brand": "エレコム(ELECOM)",
-    "genre": "キーボード・マウス",
-    "price": 877
-  },
   "B0FL6ZD3WL": {
     "first_seen": "2026-07-29",
     "first_seen_at": "2026-07-29T12:00:00+09:00",
@@ -1180,6 +1200,16 @@
     "genre": "キーボード・マウス",
     "price": 4373
   },
+  "B0DP6VCXRF": {
+    "first_seen": "2026-10-13",
+    "first_seen_at": "2026-10-13T07:15:09+09:00",
+    "last_seen": "2026-11-21",
+    "title": "エレコム ワイヤレスマウス Type-C接続 Lサイズ 3ボタン ブラック M-LE10DRCBK",
+    "percent_off": 48,
+    "brand": "エレコム(ELECOM)",
+    "genre": "キーボード・マウス",
+    "price": 877
+  },
   "B0FL1SH21C": {
     "first_seen": "2026-09-07",
     "first_seen_at": "2026-09-07T21:14:48+09:00",
@@ -1239,16 +1269,6 @@
     "brand": "Apple(アップル)",
     "genre": "Apple製品",
     "price": 23684
-  },
-  "B0D3T5ZW6Z": {
-    "first_seen": "2026-11-09",
-    "first_seen_at": "2026-11-09T22:14:55+09:00",
-    "last_seen": "2026-11-21",
-    "title": "JBL LIVE BEAM 3 ワイヤレスイヤホン スマート充電ケース/LDAC対応ハイレゾ/マルチポイント/ハイブリッド ノイズキャンセリング/IP55防水/ワイヤレス充電対応/ブラック/JBLLIVEBEAM3BLK",
-    "percent_off": 49,
-    "brand": "JBL",
-    "genre": "ワイヤレスイヤホン",
-    "price": 14182
   },
   "B0F2F9L51W": {
     "first_seen": "2026-10-28",
