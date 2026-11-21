@@ -1679,6 +1679,51 @@ def feed_item_datetime(item: dict) -> tuple[datetime.date, str] | None:
     return None
 
 
+def feed_price_note(b: dict) -> str:
+    """feed.json の note(カード見出し下の一行)。値下がりが見えるようにする。
+
+    本体の価格欄(render_book)と同じ項目から作る: list_price=参考価格(was)、
+    percent_off=割引率、points_percent=ポイント還元率。構成の自動探索で使う
+    pct / points_pct の名前で入っていても拾う。
+    list_price が無い商品(Amazonがsaving basisを返さない、ポイント還元だけで
+    掲載条件を満たした商品など)は割引率も付かないので、価格だけ/還元付きになる。
+    データに無い数字は作らない(参考価格と現在価格から割引率を出すのは
+    fetch_deals.parse_items と同じ計算)
+    """
+    price = b.get("price")
+    if not isinstance(price, int) or isinstance(price, bool) or price <= 0:
+        price = None
+    was = b.get("list_price")
+    if not isinstance(was, int) or isinstance(was, bool) or price is None or was <= price:
+        was = None
+    pct = b.get("percent_off") or b.get("pct")
+    if not isinstance(pct, (int, float)) or isinstance(pct, bool) or pct <= 0:
+        pct = None
+    if pct is None and was:
+        pct = round((was - price) / was * 100)
+    if pct is not None:
+        pct = int(pct)
+        if pct <= 0:
+            pct = None
+    pts = b.get("points_percent") or b.get("points_pct")
+    has_pts = bool(b.get("points")) or bool(pts)
+    pts = int(pts) if isinstance(pts, (int, float)) and not isinstance(pts, bool) and pts > 0 else None
+
+    if price is not None and was and pct:
+        note = f"¥{was:,}→¥{price:,}（{pct}%OFF）"
+    elif price is not None and pct:
+        note = f"{pct}%OFF ¥{price:,}"
+    elif price is not None:
+        note = f"¥{price:,}"
+    elif pct:
+        note = f"{pct}%OFF"
+    else:
+        note = ""
+    if has_pts:
+        note += f" {pts}%ポイント還元" if pts else " ポイント還元"
+    return note.strip()
+
+
 def generate_feed_data(data: dict, now: datetime.datetime | None = None) -> dict:
     """ポチフルのダッシュボード用 feed.json(仕様 v1)。
 
@@ -1707,19 +1752,15 @@ def generate_feed_data(data: dict, now: datetime.datetime | None = None) -> dict
             if not 0 <= (today - d).days <= FEED_DAYS - 1:
                 continue
             seen.add(asin)
-            parts = []
-            if b.get("percent_off"):
-                parts.append(f"{b['percent_off']}%OFF")
-            if isinstance(b.get("price"), int):
-                parts.append(f"¥{b['price']:,}")
             item = {
                 "id": f"kaden:{asin}",
                 "title": shorten_title(b["title"]),
                 "url": f"{site_url}#g{gi}",
                 "date": d.isoformat(),
             }
-            if parts:
-                item["note"] = " ".join(parts)
+            note = feed_price_note(b)
+            if note:
+                item["note"] = note
             if b.get("image") and b.get("url"):
                 item["image"] = b["image"]
                 item["image_link"] = b["url"]
