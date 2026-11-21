@@ -159,16 +159,6 @@
     "genre": "Apple製品",
     "price": 76234
   },
-  "B0DK467P86": {
-    "first_seen": "2026-11-21",
-    "first_seen_at": "2026-11-21T08:14:02+09:00",
-    "last_seen": "2026-11-21",
-    "title": "Apple iPad mini(A17 Pro):Apple Intelligence、8.3 インチ Liquid Retina ディスプレ イ、128GB、Wi-Fi 6E、12MP フロントカメラ/12MP バックカメ ラ、Touch ID、一日中使えるバッテリー ‒ スペースグレイ",
-    "percent_off": null,
-    "brand": "Apple(アップル)",
-    "genre": "Apple製品",
-    "price": 99800
-  },
   "B0BJN7ZJF6": {
     "first_seen": "2026-09-11",
     "first_seen_at": "2026-09-11T22:14:45+09:00",
@@ -1199,6 +1189,16 @@
     "brand": "Logicool(ロジクール)",
     "genre": "キーボード・マウス",
     "price": 4373
+  },
+  "B0DK467P86": {
+    "first_seen": "2026-11-21",
+    "first_seen_at": "2026-11-21T08:14:02+09:00",
+    "last_seen": "2026-11-21",
+    "title": "Apple iPad mini(A17 Pro):Apple Intelligence、8.3 インチ Liquid Retina ディスプレ イ、128GB、Wi-Fi 6E、12MP フロントカメラ/12MP バックカメ ラ、Touch ID、一日中使えるバッテリー ‒ スペースグレイ",
+    "percent_off": null,
+    "brand": "Apple(アップル)",
+    "genre": "Apple製品",
+    "price": 99800
   },
   "B0DP6VCXRF": {
     "first_seen": "2026-10-13",
