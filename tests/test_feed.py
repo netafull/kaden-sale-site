@@ -39,11 +39,40 @@ class FeedTest(unittest.TestCase):
         self.assertEqual((f["version"], f["site"]), (1, "kaden"))
         it = f["items"][0]
         self.assertEqual(it["id"], "kaden:A")
-        self.assertEqual(it["note"], "30%OFF ¥1,980")
+        self.assertEqual(it["note"], "30%OFF ¥1,980")  # 参考価格なしは率+価格
         self.assertTrue(it["url"].endswith("#g1"))
         self.assertEqual(it["date"], "2026-11-20")
         self.assertIn("tag=", it["image_link"])
         self.assertEqual(it["source"], "kaden")
+
+    def test_note_formats(self):
+        n = generate_site.feed_price_note
+        # 参考価格あり
+        self.assertEqual(n({"price": 71800, "list_price": 84800, "percent_off": 15}), "¥84,800→¥71,800（15%OFF）")
+        # 率だけ
+        self.assertEqual(n({"price": 71800, "percent_off": 15}), "15%OFF ¥71,800")
+        # 参考価格あり・率なしは差から算出(parse_itemsと同じ計算)
+        self.assertEqual(n({"price": 71800, "list_price": 84800}), "¥84,800→¥71,800（15%OFF）")
+        # ポイント還元(率あり/なし)
+        self.assertEqual(
+            n({"price": 71800, "list_price": 84800, "percent_off": 15, "points": 718, "points_percent": 1}),
+            "¥84,800→¥71,800（15%OFF） 1%ポイント還元")
+        self.assertEqual(n({"price": 36000, "points": 5760, "points_percent": 16}), "¥36,000 16%ポイント還元")
+        self.assertEqual(n({"price": 36000, "points": 5760}), "¥36,000 ポイント還元")
+        # 構成探索側の名前(pct / points_pct)
+        self.assertEqual(n({"price": 71800, "pct": 10, "points_pct": 10}), "10%OFF ¥71,800 10%ポイント還元")
+        # 何も無ければ価格だけ。参考価格が現在価格以下なら使わない
+        self.assertEqual(n({"price": 71800}), "¥71,800")
+        self.assertEqual(n({"price": 71800, "list_price": 71800}), "¥71,800")
+        self.assertEqual(n({"price": 71800, "list_price": None, "percent_off": None, "points": 0}), "¥71,800")
+        self.assertEqual(n({}), "")
+
+    def test_note_in_feed(self):
+        b = item("W", "2026-11-20T21:00:00+09:00", pct=15, price=71800)
+        b["list_price"] = 84800
+        b["points"], b["points_percent"] = 718, 1
+        f = self.feed([{"name": "G", "items": [b]}])
+        self.assertEqual(f["items"][0]["note"], "¥84,800→¥71,800（15%OFF） 1%ポイント還元")
 
     def test_window_order_and_dedupe(self):
         f = self.feed([
