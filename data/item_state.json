@@ -9,6 +9,16 @@
     "genre": "Apple製品",
     "price": 34516
   },
+  "B0DGJBNYVY": {
+    "first_seen": "2026-09-05",
+    "first_seen_at": "2026-09-05T08:14:38+09:00",
+    "last_seen": "2026-11-21",
+    "title": "Apple AirPods 4 アクティブノイズ キャンセリング搭載、ワイヤレスイヤホン、Bluetooth 5.3、ライブ翻訳、適応型オーディオ、外部音取り込みモード、パーソナライズされた空間オーディオ、USB-C充電ケース、ワイヤレス充電、H2チップ、防塵性能と耐汗耐水性能、「探す」対応、Qi充電",
+    "percent_off": 26,
+    "brand": "Apple(アップル)",
+    "genre": "Apple製品",
+    "price": 24222
+  },
   "B0FQFW26JS": {
     "first_seen": "2026-09-26",
     "first_seen_at": "2026-09-26T22:15:02+09:00",
@@ -781,16 +791,6 @@
     "genre": "充電器",
     "price": 5480
   },
-  "B0BF43HS1G": {
-    "first_seen": "2026-07-27",
-    "first_seen_at": "2026-07-27T12:00:00+09:00",
-    "last_seen": "2026-11-21",
-    "title": "Anker 523 Charger (Nano 3, 47W) ホワイト | 最大47W・USB-C 2ポートでスマホとタブレットを同時に急速充電。小型でもMacBook Airにも対応。USB-C 充電器 急速充電器 47W PD GaN iPhone iPad",
-    "percent_off": 30,
-    "brand": "Anker",
-    "genre": "充電器",
-    "price": 2790
-  },
   "B08NVDHCD8": {
     "first_seen": "2026-10-21",
     "first_seen_at": "2026-10-21T00:15:48+09:00",
@@ -1191,6 +1191,16 @@
     "genre": "キーボード・マウス",
     "price": 4373
   },
+  "B0H33PTLSH": {
+    "first_seen": "2026-11-14",
+    "first_seen_at": "2026-11-14T21:14:56+09:00",
+    "last_seen": "2026-11-21",
+    "title": "【Amazon.co.jp限定】 Ninja ニンジャ Crispi クリスピー FN100JGNNR 自動調理器 3つの調理モード (クリスプ/ベイク・ロースト/リクリスプ) 煮る 焼く 蒸す 炒める 煮込む 炊く 温風調理 エアフライヤー ノンフライヤー FN100J ミント",
+    "percent_off": 27,
+    "brand": "NINJA",
+    "genre": "エアフライヤー",
+    "price": 18000
+  },
   "B0H3TMF8K4": {
     "first_seen": "2026-10-17",
     "first_seen_at": "2026-10-17T19:16:01+09:00",
@@ -1200,6 +1210,16 @@
     "brand": "アイリスオーヤマ(IRIS OHYAMA)",
     "genre": "エアフライヤー",
     "price": 10700
+  },
+  "B0BF43HS1G": {
+    "first_seen": "2026-07-27",
+    "first_seen_at": "2026-07-27T12:00:00+09:00",
+    "last_seen": "2026-11-21",
+    "title": "Anker 523 Charger (Nano 3, 47W) ホワイト | 最大47W・USB-C 2ポートでスマホとタブレットを同時に急速充電。小型でもMacBook Airにも対応。USB-C 充電器 急速充電器 47W PD GaN iPhone iPad",
+    "percent_off": 30,
+    "brand": "Anker",
+    "genre": "充電器",
+    "price": 2790
   },
   "B0FRSGC73Z": {
     "first_seen": "2026-11-21",
@@ -1642,16 +1662,6 @@
     "genre": "キーボード・マウス",
     "price": 9281
   },
-  "B0DGJBNYVY": {
-    "first_seen": "2026-09-05",
-    "first_seen_at": "2026-09-05T08:14:38+09:00",
-    "last_seen": "2026-11-20",
-    "title": "Apple AirPods 4 アクティブノイズ キャンセリング搭載、ワイヤレスイヤホン、Bluetooth 5.3、ライブ翻訳、適応型オーディオ、外部音取り込みモード、パーソナライズされた空間オーディオ、USB-C充電ケース、ワイヤレス充電、H2チップ、防塵性能と耐汗耐水性能、「探す」対応、Qi充電",
-    "percent_off": 26,
-    "brand": "Apple(アップル)",
-    "genre": "Apple製品",
-    "price": 24222
-  },
   "B0DDKK9DRV": {
     "first_seen": "2026-11-20",
     "first_seen_at": "2026-11-20T22:14:58+09:00",
@@ -1681,16 +1691,6 @@
     "brand": "UGREEN",
     "genre": "充電器",
     "price": 3180
-  },
-  "B0H33PTLSH": {
-    "first_seen": "2026-11-14",
-    "first_seen_at": "2026-11-14T21:14:56+09:00",
-    "last_seen": "2026-11-20",
-    "title": "【Amazon.co.jp限定】 Ninja ニンジャ Crispi クリスピー FN100JGNNR 自動調理器 3つの調理モード (クリスプ/ベイク・ロースト/リクリスプ) 煮る 焼く 蒸す 炒める 煮込む 炊く 温風調理 エアフライヤー ノンフライヤー FN100J ミント",
-    "percent_off": 27,
-    "brand": "NINJA",
-    "genre": "エアフライヤー",
-    "price": 18000
   },
   "B0DDKHF9XY": {
     "first_seen": "2026-08-16",
