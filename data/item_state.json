@@ -597,10 +597,10 @@
     "first_seen_at": "2026-11-01T02:15:45+09:00",
     "last_seen": "2026-11-22",
     "title": "ソニー(SONY) WF-C710N ブラック ワイヤレスイヤホン 高性能ノイズキャンセリング Bluetoothロングバッテリー 外音取り込み IPX4防滴性能 軽量 コンパクト マルチポイント接続",
-    "percent_off": 30,
+    "percent_off": 29,
     "brand": "Sony",
     "genre": "ワイヤレスイヤホン",
-    "price": 12325
+    "price": 12450
   },
   "B0DPX7W84T": {
     "first_seen": "2026-10-20",
@@ -641,16 +641,6 @@
     "brand": "UGREEN",
     "genre": "モバイルバッテリー",
     "price": 4186
-  },
-  "B0DNLVY85L": {
-    "first_seen": "2026-10-01",
-    "first_seen_at": "2026-10-01T23:14:55+09:00",
-    "last_seen": "2026-11-22",
-    "title": "Anker Nano Power Bank (10000mAh, 45W, 巻取り式 USB-Cケーブル) ブラック | モバイルバッテリー 10000mAh (36Wh/10K) / 45W出力 / ディスプレイ搭載/巻取り式USB-Cケーブル一体型/iPhone 18 / 17 / 16 / 15シリーズ Android iPad その他各種機器対応",
-    "percent_off": null,
-    "brand": "Anker",
-    "genre": "モバイルバッテリー",
-    "price": 7990
   },
   "B0DSPVP337": {
     "first_seen": "2026-08-29",
@@ -1117,7 +1107,7 @@
     "first_seen_at": "2026-10-06T00:16:13+09:00",
     "last_seen": "2026-11-22",
     "title": "【Amazon.co.jp限定】 Logicool G PRO X TKL RAPID ゲーミングキーボード | ラピッドトリガー アクチュエーションポイント 調整可能 押下圧 35g 日本語配列 有線 テンキーレス 磁気式アナログスイッチ ゲーミング キーボード メカニカルキーボード ブラック 壁紙ダウンロード付き 国内正規品",
-    "percent_off": 23,
+    "percent_off": 22,
     "brand": "Logicool G(ロジクール G)",
     "genre": "キーボード・マウス",
     "price": 20000
@@ -1201,6 +1191,16 @@
     "brand": "アイリスオーヤマ(IRIS OHYAMA)",
     "genre": "エアフライヤー",
     "price": 10700
+  },
+  "B0DNLVY85L": {
+    "first_seen": "2026-10-01",
+    "first_seen_at": "2026-10-01T23:14:55+09:00",
+    "last_seen": "2026-11-22",
+    "title": "Anker Nano Power Bank (10000mAh, 45W, 巻取り式 USB-Cケーブル) ブラック | モバイルバッテリー 10000mAh (36Wh/10K) / 45W出力 / ディスプレイ搭載/巻取り式USB-Cケーブル一体型/iPhone 18 / 17 / 16 / 15シリーズ Android iPad その他各種機器対応",
+    "percent_off": null,
+    "brand": "Anker",
+    "genre": "モバイルバッテリー",
+    "price": 7990
   },
   "B0HJBCTPN2": {
     "first_seen": "2026-11-20",
