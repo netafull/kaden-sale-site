@@ -450,6 +450,27 @@
     "genre": "Apple製品",
     "price": 80801
   },
+  "B0DZ7WF87P": {
+    "first_seen": "2026-11-22",
+    "first_seen_at": "2026-11-22T04:14:23+09:00",
+    "last_seen": "2026-11-22",
+    "title": "Apple 11 インチ iPad (A16): 11 インチモデル、Liquid Retina ディスプレイ、128GB、Wi-Fi 6、12MP フロント/12MP バックカメラ、Touch ID、一日中使えるバ ッテリー - シルバー",
+    "percent_off": 5,
+    "brand": "Apple(アップル)",
+    "genre": "Apple製品",
+    "price": 71082,
+    "past": [
+      {
+        "first_seen": "2026-10-30",
+        "last_seen": "2026-10-31",
+        "title": "Apple 11 インチ iPad (A16): 11 インチモデル、Liquid Retina ディスプレイ、128GB、Wi-Fi 6、12MP フロント/12MP バックカメラ、Touch ID、一日中使えるバ ッテリー - シルバー",
+        "brand": null,
+        "genre": null,
+        "price": null,
+        "percent_off": 5
+      }
+    ]
+  },
   "B0FWDBWC7F": {
     "first_seen": "2026-10-22",
     "first_seen_at": "2026-10-22T00:16:22+09:00",
@@ -529,6 +550,16 @@
     "brand": "Apple(アップル)",
     "genre": "Apple製品",
     "price": 181800
+  },
+  "B0HJWCJCL2": {
+    "first_seen": "2026-11-22",
+    "first_seen_at": "2026-11-22T04:14:23+09:00",
+    "last_seen": "2026-11-22",
+    "title": "Apple 11 インチ iPad (A16): 11 インチモデル、Liquid Retina ディスプレイ、128GB、Wi-Fi 6、12MP フロント/12MP バックカメラ、Touch ID、一日中使えるバ ッテリー - シルバー (× 3)",
+    "percent_off": 5,
+    "brand": "Apple(アップル)",
+    "genre": "Apple製品",
+    "price": 213246
   },
   "B0GR1T11D6": {
     "first_seen": "2026-10-31",
@@ -4761,14 +4792,6 @@
     "first_seen_at": "2026-10-29T09:15:47+09:00",
     "last_seen": "2026-10-31",
     "title": "Apple 2026 MacBook Pro 18コアCPU、20コアGPUのM5 Proチップ搭載ノートパソコン：AIのために設計、14.2インチLiquid Retina XDRディスプレイ、24GBユニファイドメモリ、2TBのSSDストレージ - スペースブラック + 3年延長 AppleCare+ for 14インチMacBook Pro(M5 Pro/M5 Max)|ダウンロード版",
-    "percent_off": 5,
-    "archived": true
-  },
-  "B0DZ7WF87P": {
-    "first_seen": "2026-10-30",
-    "first_seen_at": "2026-10-30T17:14:51+09:00",
-    "last_seen": "2026-10-31",
-    "title": "Apple 11 インチ iPad (A16): 11 インチモデル、Liquid Retina ディスプレイ、128GB、Wi-Fi 6、12MP フロント/12MP バックカメラ、Touch ID、一日中使えるバ ッテリー - シルバー",
     "percent_off": 5,
     "archived": true
   },
