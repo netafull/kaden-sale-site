@@ -721,15 +721,15 @@
     "genre": "充電器",
     "price": 4880
   },
-  "B0D53YVF2F": {
-    "first_seen": "2026-11-08",
-    "first_seen_at": "2026-11-08T22:14:53+09:00",
+  "B0D53VJJ7F": {
+    "first_seen": "2026-07-28",
+    "first_seen_at": "2026-07-28T12:00:00+09:00",
     "last_seen": "2026-11-22",
-    "title": "CIO NovaPort TRIOⅡ 65W 3C PD急速充電器 USB-C×3 3台同時充電 軽量 世界最小級 (ホワイト) | ノートPC対応, MacBook対応, iPhone対応, iPad対応, Android対応, 電力を自動最適配分",
+    "title": "CIO NovaPort TRIOⅡ 65W 2C1A PD急速充電器 USB-C×2+USB-A×1 3台同時充電 世界最小級 (ブラック) | ノートPC対応, MacBook対応, iPhone対応, iPad対応, Android対応, 電力を自動最適配分",
     "percent_off": null,
     "brand": "CIO",
     "genre": "充電器",
-    "price": 6688
+    "price": 6589
   },
   "B096S2CTHS": {
     "first_seen": "2026-10-20",
@@ -871,6 +871,16 @@
     "genre": "充電器",
     "price": 3350
   },
+  "B0FL1S48XY": {
+    "first_seen": "2026-09-08",
+    "first_seen_at": "2026-09-08T21:14:34+09:00",
+    "last_seen": "2026-11-22",
+    "title": "Anker Zolo Charger (70W, 4 Ports) ブラック | 70W USB-C急速充電器 4台同時充電対応。USB-C3ポートとUSB-A1ポートを搭載しPCとスマホをまとめて充電。MacBook Pro MacBook Air iPhone iPad Galaxy対応 PSE技術基準適合",
+    "percent_off": null,
+    "brand": "Anker",
+    "genre": "充電器",
+    "price": 6490
+  },
   "B0CH7QDDMS": {
     "first_seen": "2026-11-20",
     "first_seen_at": "2026-11-20T13:15:25+09:00",
@@ -890,16 +900,6 @@
     "brand": "Anker",
     "genre": "充電器",
     "price": 2490
-  },
-  "B0FL1S48XY": {
-    "first_seen": "2026-09-08",
-    "first_seen_at": "2026-09-08T21:14:34+09:00",
-    "last_seen": "2026-11-22",
-    "title": "Anker Zolo Charger (70W, 4 Ports) ブラック | 70W USB-C急速充電器 4台同時充電対応。USB-C3ポートとUSB-A1ポートを搭載しPCとスマホをまとめて充電。MacBook Pro MacBook Air iPhone iPad Galaxy対応 PSE技術基準適合",
-    "percent_off": null,
-    "brand": "Anker",
-    "genre": "充電器",
-    "price": 6490
   },
   "B0DM8WZB8M": {
     "first_seen": "2026-10-26",
@@ -930,16 +930,6 @@
     "brand": "アイオーデータ",
     "genre": "モニター・ディスプレイ",
     "price": 49800
-  },
-  "B07B7NXV4R": {
-    "first_seen": "2026-07-30",
-    "first_seen_at": "2026-07-30T12:00:00+09:00",
-    "last_seen": "2026-11-22",
-    "title": "SwitchBot スイッチボット スイッチ ボタンに適用 指ロボット スマートスイッチ スマートホーム ワイヤレス タイマー スマホで遠隔操作 Alexa, Google Home, Siri, IFTTTなどに対応(ハブ必要) ホワイト",
-    "percent_off": 14,
-    "brand": "スイッチボット(SwitchBot)",
-    "genre": "スマートホーム",
-    "price": 4285
   },
   "B0GQLM2HG7": {
     "first_seen": "2026-11-18",
@@ -1030,6 +1020,16 @@
     "brand": "Razer(レイザー)",
     "genre": "キーボード・マウス",
     "price": 16744
+  },
+  "B0FL6ZD3WL": {
+    "first_seen": "2026-07-29",
+    "first_seen_at": "2026-07-29T12:00:00+09:00",
+    "last_seen": "2026-11-22",
+    "title": "エレコム ワイヤレスキーボード Precisionist プレシジョニスト Bluetooth 無線2.4GHz マルチペアリング4台 充電式 薄型パンタグラフ式 フルサイズ ブラック TK-PN10FMPABK",
+    "percent_off": 36,
+    "brand": "エレコム(ELECOM)",
+    "genre": "キーボード・マウス",
+    "price": 5790
   },
   "B0FL77NZXM": {
     "first_seen": "2026-07-29",
@@ -1150,6 +1150,36 @@
     "brand": "Logicool(ロジクール)",
     "genre": "キーボード・マウス",
     "price": 4373
+  },
+  "B0H3TMF8K4": {
+    "first_seen": "2026-10-17",
+    "first_seen_at": "2026-10-17T19:16:01+09:00",
+    "last_seen": "2026-11-22",
+    "title": "アイリスオーヤマ コンベクションオーブン オーヤマくん ノンフライヤー 2026年モデル トースター 低温調理 15L FVC-D15C-H | 大容量,パン作り,揚げ物,惣菜,焼き魚,パン,ケーキ,クッキー,食パン4枚焼き,ピザ",
+    "percent_off": 18,
+    "brand": "アイリスオーヤマ(IRIS OHYAMA)",
+    "genre": "エアフライヤー",
+    "price": 10700
+  },
+  "B0D53YVF2F": {
+    "first_seen": "2026-11-08",
+    "first_seen_at": "2026-11-08T22:14:53+09:00",
+    "last_seen": "2026-11-22",
+    "title": "CIO NovaPort TRIOⅡ 65W 3C PD急速充電器 USB-C×3 3台同時充電 軽量 世界最小級 (ホワイト) | ノートPC対応, MacBook対応, iPhone対応, iPad対応, Android対応, 電力を自動最適配分",
+    "percent_off": null,
+    "brand": "CIO",
+    "genre": "充電器",
+    "price": 6688
+  },
+  "B07B7NXV4R": {
+    "first_seen": "2026-07-30",
+    "first_seen_at": "2026-07-30T12:00:00+09:00",
+    "last_seen": "2026-11-22",
+    "title": "SwitchBot スイッチボット スイッチ ボタンに適用 指ロボット スマートスイッチ スマートホーム ワイヤレス タイマー スマホで遠隔操作 Alexa, Google Home, Siri, IFTTTなどに対応(ハブ必要) ホワイト",
+    "percent_off": 14,
+    "brand": "スイッチボット(SwitchBot)",
+    "genre": "スマートホーム",
+    "price": 4285
   },
   "B0CX4PBCKH": {
     "first_seen": "2026-10-14",
@@ -1291,16 +1321,6 @@
     "genre": "モバイルバッテリー",
     "price": 7280
   },
-  "B0D53VJJ7F": {
-    "first_seen": "2026-07-28",
-    "first_seen_at": "2026-07-28T12:00:00+09:00",
-    "last_seen": "2026-11-21",
-    "title": "CIO NovaPort TRIOⅡ 65W 2C1A PD急速充電器 USB-C×2+USB-A×1 3台同時充電 世界最小級 (ブラック) | ノートPC対応, MacBook対応, iPhone対応, iPad対応, Android対応, 電力を自動最適配分",
-    "percent_off": null,
-    "brand": "CIO",
-    "genre": "充電器",
-    "price": 6589
-  },
   "B07K13Z1Q4": {
     "first_seen": "2026-10-17",
     "first_seen_at": "2026-10-17T23:15:03+09:00",
@@ -1371,16 +1391,6 @@
     "genre": "スマートウォッチ",
     "price": 57120
   },
-  "B0FL6ZD3WL": {
-    "first_seen": "2026-07-29",
-    "first_seen_at": "2026-07-29T12:00:00+09:00",
-    "last_seen": "2026-11-21",
-    "title": "エレコム ワイヤレスキーボード Precisionist プレシジョニスト Bluetooth 無線2.4GHz マルチペアリング4台 充電式 薄型パンタグラフ式 フルサイズ ブラック TK-PN10FMPABK",
-    "percent_off": 36,
-    "brand": "エレコム(ELECOM)",
-    "genre": "キーボード・マウス",
-    "price": 5790
-  },
   "B09Q83ZRZW": {
     "first_seen": "2026-11-05",
     "first_seen_at": "2026-11-05T19:15:08+09:00",
@@ -1450,16 +1460,6 @@
     "brand": "NINJA",
     "genre": "エアフライヤー",
     "price": 18000
-  },
-  "B0H3TMF8K4": {
-    "first_seen": "2026-10-17",
-    "first_seen_at": "2026-10-17T19:16:01+09:00",
-    "last_seen": "2026-11-21",
-    "title": "アイリスオーヤマ コンベクションオーブン オーヤマくん ノンフライヤー 2026年モデル トースター 低温調理 15L FVC-D15C-H | 大容量,パン作り,揚げ物,惣菜,焼き魚,パン,ケーキ,クッキー,食パン4枚焼き,ピザ",
-    "percent_off": 18,
-    "brand": "アイリスオーヤマ(IRIS OHYAMA)",
-    "genre": "エアフライヤー",
-    "price": 10700
   },
   "B0BF43HS1G": {
     "first_seen": "2026-07-27",
