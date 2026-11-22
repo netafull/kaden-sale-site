@@ -611,7 +611,7 @@
     "percent_off": 29,
     "brand": "Sony",
     "genre": "ワイヤレスイヤホン",
-    "price": 12580
+    "price": 12454
   },
   "B0DPX7W84T": {
     "first_seen": "2026-10-20",
@@ -1033,16 +1033,6 @@
     "genre": "スマートウォッチ",
     "price": 22300
   },
-  "B0DQ7MJ8P3": {
-    "first_seen": "2026-08-22",
-    "first_seen_at": "2026-08-22T00:50:58+09:00",
-    "last_seen": "2026-11-23",
-    "title": "HUAWEI WATCH D2 ウェアラブル血圧計LCA-B10:ブラック",
-    "percent_off": 16,
-    "brand": "HUAWEI(ファーウェイ)",
-    "genre": "スマートウォッチ",
-    "price": 50700
-  },
   "B094VSZPPP": {
     "first_seen": "2026-10-07",
     "first_seen_at": "2026-10-07T13:15:11+09:00",
@@ -1202,6 +1192,16 @@
     "brand": "Logicool(ロジクール)",
     "genre": "キーボード・マウス",
     "price": 4373
+  },
+  "B0DQ7MJ8P3": {
+    "first_seen": "2026-08-22",
+    "first_seen_at": "2026-08-22T00:50:58+09:00",
+    "last_seen": "2026-11-23",
+    "title": "HUAWEI WATCH D2 ウェアラブル血圧計LCA-B10:ブラック",
+    "percent_off": 16,
+    "brand": "HUAWEI(ファーウェイ)",
+    "genre": "スマートウォッチ",
+    "price": 50700
   },
   "B0D53Z4WX3": {
     "first_seen": "2026-10-25",
