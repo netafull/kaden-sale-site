@@ -603,15 +603,15 @@
       }
     ]
   },
-  "B0F3X9RLT6": {
-    "first_seen": "2026-11-07",
-    "first_seen_at": "2026-11-07T21:14:56+09:00",
+  "B0F3XFNHCW": {
+    "first_seen": "2026-11-01",
+    "first_seen_at": "2026-11-01T02:15:45+09:00",
     "last_seen": "2026-11-23",
-    "title": "ソニー(SONY) WF-C710N グラスブルー ワイヤレスイヤホン 高性能ノイズキャンセリング Bluetoothロングバッテリー 外音取り込み IPX4防滴性能 軽量 コンパクト マルチポイント接続",
+    "title": "ソニー(SONY) WF-C710N ブラック ワイヤレスイヤホン 高性能ノイズキャンセリング Bluetoothロングバッテリー 外音取り込み IPX4防滴性能 軽量 コンパクト マルチポイント接続",
     "percent_off": 29,
     "brand": "Sony",
     "genre": "ワイヤレスイヤホン",
-    "price": 12513
+    "price": 12454
   },
   "B0DPX7W84T": {
     "first_seen": "2026-10-20",
@@ -953,6 +953,16 @@
     "genre": "モニター・ディスプレイ",
     "price": 49800
   },
+  "B07B7NXV4R": {
+    "first_seen": "2026-07-30",
+    "first_seen_at": "2026-07-30T12:00:00+09:00",
+    "last_seen": "2026-11-23",
+    "title": "SwitchBot スイッチボット スイッチ ボタンに適用 指ロボット スマートスイッチ スマートホーム ワイヤレス タイマー スマホで遠隔操作 Alexa, Google Home, Siri, IFTTTなどに対応(ハブ必要) ホワイト",
+    "percent_off": 14,
+    "brand": "スイッチボット(SwitchBot)",
+    "genre": "スマートホーム",
+    "price": 4285
+  },
   "B0GQLM2HG7": {
     "first_seen": "2026-11-18",
     "first_seen_at": "2026-11-18T22:15:10+09:00",
@@ -1032,16 +1042,6 @@
     "brand": "ガーミン(GARMIN)",
     "genre": "スマートウォッチ",
     "price": 46800
-  },
-  "B0DQ7MJ8P3": {
-    "first_seen": "2026-08-22",
-    "first_seen_at": "2026-08-22T00:50:58+09:00",
-    "last_seen": "2026-11-23",
-    "title": "HUAWEI WATCH D2 ウェアラブル血圧計LCA-B10:ブラック",
-    "percent_off": 15,
-    "brand": "HUAWEI(ファーウェイ)",
-    "genre": "スマートウォッチ",
-    "price": 51500
   },
   "B0F1FD99K8": {
     "first_seen": "2026-09-25",
@@ -1193,6 +1193,26 @@
     "genre": "キーボード・マウス",
     "price": 4373
   },
+  "B0F3X9RLT6": {
+    "first_seen": "2026-11-07",
+    "first_seen_at": "2026-11-07T21:14:56+09:00",
+    "last_seen": "2026-11-23",
+    "title": "ソニー(SONY) WF-C710N グラスブルー ワイヤレスイヤホン 高性能ノイズキャンセリング Bluetoothロングバッテリー 外音取り込み IPX4防滴性能 軽量 コンパクト マルチポイント接続",
+    "percent_off": 29,
+    "brand": "Sony",
+    "genre": "ワイヤレスイヤホン",
+    "price": 12513
+  },
+  "B0DQ7MJ8P3": {
+    "first_seen": "2026-08-22",
+    "first_seen_at": "2026-08-22T00:50:58+09:00",
+    "last_seen": "2026-11-23",
+    "title": "HUAWEI WATCH D2 ウェアラブル血圧計LCA-B10:ブラック",
+    "percent_off": 15,
+    "brand": "HUAWEI(ファーウェイ)",
+    "genre": "スマートウォッチ",
+    "price": 51500
+  },
   "B0GR1N1QRX": {
     "first_seen": "2026-11-07",
     "first_seen_at": "2026-11-07T06:16:05+09:00",
@@ -1202,16 +1222,6 @@
     "brand": "Apple(アップル)",
     "genre": "Apple製品",
     "price": 405443
-  },
-  "B0F3XFNHCW": {
-    "first_seen": "2026-11-01",
-    "first_seen_at": "2026-11-01T02:15:45+09:00",
-    "last_seen": "2026-11-23",
-    "title": "ソニー(SONY) WF-C710N ブラック ワイヤレスイヤホン 高性能ノイズキャンセリング Bluetoothロングバッテリー 外音取り込み IPX4防滴性能 軽量 コンパクト マルチポイント接続",
-    "percent_off": 29,
-    "brand": "Sony",
-    "genre": "ワイヤレスイヤホン",
-    "price": 12454
   },
   "B0CX4PBCKH": {
     "first_seen": "2026-10-14",
@@ -1272,16 +1282,6 @@
     "brand": "Anker",
     "genre": "モニター・ディスプレイ",
     "price": 2990
-  },
-  "B07B7NXV4R": {
-    "first_seen": "2026-07-30",
-    "first_seen_at": "2026-07-30T12:00:00+09:00",
-    "last_seen": "2026-11-22",
-    "title": "SwitchBot スイッチボット スイッチ ボタンに適用 指ロボット スマートスイッチ スマートホーム ワイヤレス タイマー スマホで遠隔操作 Alexa, Google Home, Siri, IFTTTなどに対応(ハブ必要) ホワイト",
-    "percent_off": 14,
-    "brand": "スイッチボット(SwitchBot)",
-    "genre": "スマートホーム",
-    "price": 4285
   },
   "B0DW2LFVBB": {
     "first_seen": "2026-11-07",
