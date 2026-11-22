@@ -648,12 +648,6 @@ gtag('config', '{esc(ga_id)}');
         else ""
     )
     header_ad = render_ad_slot()
-    policy_url = CONFIG.get("policy_url", "")
-    policy_link = (
-        f'｜ <a href="{esc(policy_url)}" data-google-vignette="false" style="color:inherit">メディアポリシー</a>\n'
-        if policy_url
-        else ""
-    )
     related = CONFIG.get("related_sites") or []
     related_html = ""
     if related:
@@ -772,8 +766,8 @@ gtag('config', '{esc(ga_id)}');
 <footer>
 価格・割引率は取得時点のものです。購入前にAmazonの商品ページで最新の価格をご確認ください。
 Amazonのアソシエイトとして、当サイトは適格販売により収入を得ています。
-当サイトはアクセス解析のためGoogle Analyticsを利用しています(データは匿名で収集され、Googleに送信されます)。
-{policy_link}｜ <a href="../../rss.xml" data-google-vignette="false" style="color:inherit">RSS</a>
+当サイトは広告（Google AdSense）を掲載し、アクセス解析（Googleアナリティクス）を使っています。いずれもCookieを使うことがあります。
+｜ <a href="../../rss.xml" data-google-vignette="false" style="color:inherit">RSS</a>
 {related_html}
 {SERIES_INDEX_HTML}
 </footer>
@@ -846,12 +840,6 @@ gtag('config', '{esc(ga_id)}');
         else ""
     )
     header_ad = render_ad_slot()
-    policy_url = CONFIG.get("policy_url", "")
-    policy_link = (
-        f'｜ <a href="{esc(policy_url)}" data-google-vignette="false" style="color:inherit">メディアポリシー</a>\n'
-        if policy_url
-        else ""
-    )
     related = CONFIG.get("related_sites") or []
     related_html = ""
     if related:
@@ -968,8 +956,8 @@ gtag('config', '{esc(ga_id)}');
 <footer>
 価格・割引率は取得時点のものです。購入前にAmazonの商品ページで最新の価格をご確認ください。
 Amazonのアソシエイトとして、当サイトは適格販売により収入を得ています。
-当サイトはアクセス解析のためGoogle Analyticsを利用しています(データは匿名で収集され、Googleに送信されます)。
-{policy_link}｜ <a href="../../rss.xml" data-google-vignette="false" style="color:inherit">RSS</a>
+当サイトは広告（Google AdSense）を掲載し、アクセス解析（Googleアナリティクス）を使っています。いずれもCookieを使うことがあります。
+｜ <a href="../../rss.xml" data-google-vignette="false" style="color:inherit">RSS</a>
 {related_html}
 {SERIES_INDEX_HTML}
 </footer>
@@ -1127,16 +1115,6 @@ def generate_html(
         detail = "、".join(f"{n}は{v}%" for n, v in overrides)
         threshold_note += f"({detail})"
 
-    # メディアポリシー(プライバシーポリシー・AdSenseのCookie告知を含む)は
-    # netaful.jp/policy.html に既にある。3サイトとも netaful.jp 配下なので
-    # 各サイトに複製せずリンクで参照する
-    policy_url = CONFIG.get("policy_url", "")
-    policy_link = (
-        f'｜ <a href="{esc(policy_url)}" data-google-vignette="false" style="color:inherit">メディアポリシー</a>\n'
-        if policy_url
-        else ""
-    )
-
     # AdSenseの広告コード。ads.txtはルートドメイン(netaful.jp)のものが
     # サブドメインにも適用されるため、各サイトでの設置は不要
     adsense_id = CONFIG.get("adsense_client_id", "")
@@ -1234,8 +1212,8 @@ gtag('config', '{esc(ga_id)}');
 <footer>
 価格・割引率は取得時点のものです。購入前にAmazonの商品ページで最新の価格をご確認ください。
 Amazonのアソシエイトとして、当サイトは適格販売により収入を得ています。
-当サイトはアクセス解析のためGoogle Analyticsを利用しています(データは匿名で収集され、Googleに送信されます)。
-{policy_link}｜ <a href="rss.xml" data-google-vignette="false" style="color:inherit">RSS</a>
+当サイトは広告（Google AdSense）を掲載し、アクセス解析（Googleアナリティクス）を使っています。いずれもCookieを使うことがあります。
+｜ <a href="rss.xml" data-google-vignette="false" style="color:inherit">RSS</a>
 {related_html}
 {SERIES_INDEX_HTML}
 </footer>
