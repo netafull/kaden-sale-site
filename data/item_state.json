@@ -149,16 +149,6 @@
     "genre": "Apple製品",
     "price": 63434
   },
-  "B0FQG2B81Z": {
-    "first_seen": "2026-11-22",
-    "first_seen_at": "2026-11-22T17:14:15+09:00",
-    "last_seen": "2026-11-22",
-    "title": "Apple Watch Series 11(GPSモデル)- 46mmジェットブラックアルミニウムケースとブラックスポーツバンド - M/L、睡眠時無呼吸、高血圧パターン、血中酸素、心電図、排卵推定、心拍数、服薬、マインドフルネス、ノイズ、睡眠スコア、転倒検出、IPX6X防塵、泳げる耐水、Suica対応、高速充電対応",
-    "percent_off": 10,
-    "brand": "Apple(アップル)",
-    "genre": "Apple製品",
-    "price": 69495
-  },
   "B0FRYXQ4K2": {
     "first_seen": "2026-10-24",
     "first_seen_at": "2026-10-24T01:15:07+09:00",
@@ -168,16 +158,6 @@
     "brand": "Apple(アップル)",
     "genre": "Apple製品",
     "price": 76234
-  },
-  "B0FRZ3S9B4": {
-    "first_seen": "2026-11-22",
-    "first_seen_at": "2026-11-22T17:14:15+09:00",
-    "last_seen": "2026-11-22",
-    "title": "Apple Watch Series 11(GPSモデル)- 46mmジェットブラックアルミニウムケースとブラックスポーツバンド - M/L + 2年延長 AppleCare+ for Apple Watch Series 11",
-    "percent_off": 10,
-    "brand": "Apple(アップル)",
-    "genre": "Apple製品",
-    "price": 82295
   },
   "B0BJN7ZJF6": {
     "first_seen": "2026-09-11",
@@ -1052,16 +1032,6 @@
     "genre": "スマートウォッチ",
     "price": 46800
   },
-  "B0DQ7MJ8P3": {
-    "first_seen": "2026-08-22",
-    "first_seen_at": "2026-08-22T00:50:58+09:00",
-    "last_seen": "2026-11-22",
-    "title": "HUAWEI WATCH D2 ウェアラブル血圧計LCA-B10:ブラック",
-    "percent_off": 15,
-    "brand": "HUAWEI(ファーウェイ)",
-    "genre": "スマートウォッチ",
-    "price": 51500
-  },
   "B0F1FD99K8": {
     "first_seen": "2026-09-25",
     "first_seen_at": "2026-09-25T22:14:49+09:00",
@@ -1211,6 +1181,36 @@
     "brand": "アイリスオーヤマ(IRIS OHYAMA)",
     "genre": "エアフライヤー",
     "price": 10700
+  },
+  "B0FQG2B81Z": {
+    "first_seen": "2026-11-22",
+    "first_seen_at": "2026-11-22T17:14:15+09:00",
+    "last_seen": "2026-11-22",
+    "title": "Apple Watch Series 11(GPSモデル)- 46mmジェットブラックアルミニウムケースとブラックスポーツバンド - M/L、睡眠時無呼吸、高血圧パターン、血中酸素、心電図、排卵推定、心拍数、服薬、マインドフルネス、ノイズ、睡眠スコア、転倒検出、IPX6X防塵、泳げる耐水、Suica対応、高速充電対応",
+    "percent_off": 10,
+    "brand": "Apple(アップル)",
+    "genre": "Apple製品",
+    "price": 69495
+  },
+  "B0FRZ3S9B4": {
+    "first_seen": "2026-11-22",
+    "first_seen_at": "2026-11-22T17:14:15+09:00",
+    "last_seen": "2026-11-22",
+    "title": "Apple Watch Series 11(GPSモデル)- 46mmジェットブラックアルミニウムケースとブラックスポーツバンド - M/L + 2年延長 AppleCare+ for Apple Watch Series 11",
+    "percent_off": 10,
+    "brand": "Apple(アップル)",
+    "genre": "Apple製品",
+    "price": 82295
+  },
+  "B0DQ7MJ8P3": {
+    "first_seen": "2026-08-22",
+    "first_seen_at": "2026-08-22T00:50:58+09:00",
+    "last_seen": "2026-11-22",
+    "title": "HUAWEI WATCH D2 ウェアラブル血圧計LCA-B10:ブラック",
+    "percent_off": 15,
+    "brand": "HUAWEI(ファーウェイ)",
+    "genre": "スマートウォッチ",
+    "price": 51500
   },
   "B0DNKC8HXP": {
     "first_seen": "2026-08-02",
