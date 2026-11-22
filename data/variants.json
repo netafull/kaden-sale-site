@@ -24,7 +24,7 @@
    "aliases": {},
    "genre": "Apple製品",
    "label": "Apple AirPods(第2世代)",
-   "last_sweep_at": "2026-11-09T08:07:14+09:00",
+   "last_sweep_at": "2026-11-23T00:07:22+09:00",
    "members": {},
    "no_variations": true,
    "seed": "B07PSZ8395",
@@ -52,8 +52,8 @@
   },
   "B0BN7NMVZX": {
    "aliases": {
-    "B0BJMK9RG1": "2026-11-22",
-    "B0BKF9CGS6": "2026-11-22"
+    "B0BJMK9RG1": "2026-11-23",
+    "B0BKF9CGS6": "2026-11-23"
    },
    "genre": "Apple製品",
    "label": "2022 Apple TV 4K 128GBストレージ搭載Wi‑Fi + Eth",
@@ -613,7 +613,7 @@
    "aliases": {},
    "genre": "Apple製品",
    "label": "Apple iPhone 16 (128 GB) - ブラック SIMフリー 5",
-   "last_sweep_at": "2026-11-22T18:07:19+09:00",
+   "last_sweep_at": "2026-11-23T00:07:22+09:00",
    "members": {
     "B0DGJ3R51V": {
      "last_seen": "2026-11-16",
@@ -627,7 +627,7 @@
   },
   "B0DNQBK6BV": {
    "aliases": {
-    "B0DL78FFFR": "2026-11-22"
+    "B0DL78FFFR": "2026-11-23"
    },
    "genre": "Apple製品",
    "label": "Apple 2024 iMac 8 コア CPU、8 コア GPU の M4 チ",
@@ -649,7 +649,7 @@
      "points_pct": 1
     },
     "B0DL6RT3DN": {
-     "last_seen": "2026-11-22",
+     "last_seen": "2026-11-23",
      "pct": 13,
      "points_pct": 0
     },
@@ -808,7 +808,7 @@
   },
   "B0DSBWJBT9": {
    "aliases": {
-    "B0D3J7RLZN": "2026-11-22"
+    "B0D3J7RLZN": "2026-11-23"
    },
    "genre": "Apple製品",
    "label": "Apple 11インチiPad Pro（M5）用Magic Keyboard -",
@@ -825,7 +825,7 @@
    "last_sweep_at": "2026-11-22T23:07:21+09:00",
    "members": {
     "B0BJN7ZJF6": {
-     "last_seen": "2026-11-22",
+     "last_seen": "2026-11-23",
      "pct": 8,
      "points_pct": 1
     }
@@ -861,7 +861,7 @@
      "points_pct": null
     },
     "B0D3J7HJYN": {
-     "last_seen": "2026-11-22",
+     "last_seen": "2026-11-23",
      "pct": 8,
      "points_pct": 1
     },
@@ -932,7 +932,7 @@
    "last_sweep_at": "2026-11-22T21:07:15+09:00",
    "members": {
     "B0DZ7YJC17": {
-     "last_seen": "2026-11-22",
+     "last_seen": "2026-11-23",
      "pct": 33,
      "points_pct": 0
     },
@@ -952,7 +952,7 @@
      "points_pct": 1
     },
     "B0DZ88B84T": {
-     "last_seen": "2026-11-22",
+     "last_seen": "2026-11-23",
      "pct": 7,
      "points_pct": 1
     },
@@ -972,7 +972,7 @@
      "points_pct": 1
     },
     "B0FWDBWC7F": {
-     "last_seen": "2026-11-22",
+     "last_seen": "2026-11-23",
      "pct": 5,
      "points_pct": 1
     },
@@ -1028,7 +1028,7 @@
      "points_pct": 1
     },
     "B0DZ7WF87P": {
-     "last_seen": "2026-11-22",
+     "last_seen": "2026-11-23",
      "pct": 5,
      "points_pct": 1
     },
@@ -1088,7 +1088,7 @@
      "points_pct": 1
     },
     "B0DZ8HV6RT": {
-     "last_seen": "2026-11-22",
+     "last_seen": "2026-11-23",
      "pct": 5,
      "points_pct": 1
     },
@@ -1128,7 +1128,7 @@
      "points_pct": 0
     },
     "B0F4WHB7NB": {
-     "last_seen": "2026-11-22",
+     "last_seen": "2026-11-23",
      "pct": 4,
      "points_pct": 0
     },
@@ -1158,7 +1158,7 @@
      "points_pct": 0
     },
     "B0F4WV8TNK": {
-     "last_seen": "2026-11-22",
+     "last_seen": "2026-11-23",
      "pct": 4,
      "points_pct": 0
     },
@@ -1213,7 +1213,7 @@
      "points_pct": 0
     },
     "B0GXXMWTFG": {
-     "last_seen": "2026-11-22",
+     "last_seen": "2026-11-23",
      "pct": 4,
      "points_pct": 0
     },
@@ -1223,7 +1223,7 @@
      "points_pct": 0
     },
     "B0GXXPR4KN": {
-     "last_seen": "2026-11-22",
+     "last_seen": "2026-11-23",
      "pct": 4,
      "points_pct": 0
     },
@@ -1263,7 +1263,7 @@
      "points_pct": 0
     },
     "B0HJWCJCL2": {
-     "last_seen": "2026-11-22",
+     "last_seen": "2026-11-23",
      "pct": 5,
      "points_pct": 0
     }
@@ -1376,7 +1376,7 @@
   },
   "B0FQH5FZMM": {
    "aliases": {
-    "B0FQFWP46C": "2026-11-22"
+    "B0FQFWP46C": "2026-11-23"
    },
    "genre": "Apple製品",
    "label": "Apple iPhone 17 256GB (SIMフリー)：ProMotion",
@@ -1439,9 +1439,9 @@
   },
   "B0FQHD1GNH": {
    "aliases": {
-    "B0FQFM242M": "2026-11-22",
+    "B0FQFM242M": "2026-11-23",
     "B0FQFQDMQG": "2026-10-16",
-    "B0FQG234S7": "2026-11-22"
+    "B0FQG234S7": "2026-11-23"
    },
    "genre": "Apple製品",
    "label": "Apple iPhone 17 Pro Max 512GB (SIMフリー)：P",
@@ -1459,7 +1459,7 @@
   },
   "B0FQHS9C5V": {
    "aliases": {
-    "B0FQFQHJRC": "2026-11-22"
+    "B0FQFQHJRC": "2026-11-23"
    },
    "genre": "Apple製品",
    "label": "Apple Watch Series 11(GPSモデル)- 42mmローズゴー",
@@ -1476,7 +1476,7 @@
      "points_pct": 1
     },
     "B0FQFQ2PH4": {
-     "last_seen": "2026-11-22",
+     "last_seen": "2026-11-23",
      "pct": 12,
      "points_pct": 1
     },
@@ -1496,7 +1496,7 @@
      "points_pct": null
     },
     "B0FRYXQ4K2": {
-     "last_seen": "2026-11-22",
+     "last_seen": "2026-11-23",
      "pct": 11,
      "points_pct": 0
     },
@@ -1613,7 +1613,7 @@
      "points_pct": 1
     },
     "B0HJB41D4Q": {
-     "last_seen": "2026-11-22",
+     "last_seen": "2026-11-23",
      "pct": 0,
      "points_pct": 3
     },
@@ -1659,17 +1659,17 @@
      "points_pct": 1
     },
     "B0FQGLL8WR": {
-     "last_seen": "2026-11-22",
+     "last_seen": "2026-11-23",
      "pct": 27,
      "points_pct": 1
     },
     "B0FQGPHLH1": {
-     "last_seen": "2026-11-22",
+     "last_seen": "2026-11-23",
      "pct": 26,
      "points_pct": 1
     },
     "B0FQGWJXBK": {
-     "last_seen": "2026-11-22",
+     "last_seen": "2026-11-23",
      "pct": 30,
      "points_pct": 0
     },
@@ -1679,7 +1679,7 @@
      "points_pct": null
     },
     "B0FQGYRXCK": {
-     "last_seen": "2026-11-22",
+     "last_seen": "2026-11-23",
      "pct": 18,
      "points_pct": 1
     },
@@ -1739,7 +1739,7 @@
      "points_pct": 1
     },
     "B0HJBHPFDH": {
-     "last_seen": "2026-11-22",
+     "last_seen": "2026-11-23",
      "pct": 0,
      "points_pct": 5
     }
@@ -1760,7 +1760,7 @@
      "points_pct": 1
     },
     "B0FQG9HVWL": {
-     "last_seen": "2026-11-22",
+     "last_seen": "2026-11-23",
      "pct": 14,
      "points_pct": 1
     },
@@ -1815,7 +1815,7 @@
      "points_pct": 1
     },
     "B0HJ9QD8GL": {
-     "last_seen": "2026-11-22",
+     "last_seen": "2026-11-23",
      "pct": 0,
      "points_pct": 5
     },
@@ -1845,17 +1845,17 @@
      "points_pct": 1
     },
     "B0HJ9SM136": {
-     "last_seen": "2026-11-22",
+     "last_seen": "2026-11-23",
      "pct": 0,
      "points_pct": 5
     },
     "B0HJ9TVQVC": {
-     "last_seen": "2026-11-22",
+     "last_seen": "2026-11-23",
      "pct": 0,
      "points_pct": 5
     },
     "B0HJ9TYLQB": {
-     "last_seen": "2026-11-22",
+     "last_seen": "2026-11-23",
      "pct": 0,
      "points_pct": 5
     },
@@ -1870,7 +1870,7 @@
      "points_pct": 1
     },
     "B0HJ9VVDXD": {
-     "last_seen": "2026-11-22",
+     "last_seen": "2026-11-23",
      "pct": 0,
      "points_pct": 5
     },
@@ -1915,7 +1915,7 @@
      "points_pct": 1
     },
     "B0HJB1QKPG": {
-     "last_seen": "2026-11-22",
+     "last_seen": "2026-11-23",
      "pct": 0,
      "points_pct": 5
     },
@@ -1945,7 +1945,7 @@
      "points_pct": 1
     },
     "B0HJB3MRQ5": {
-     "last_seen": "2026-11-22",
+     "last_seen": "2026-11-23",
      "pct": 0,
      "points_pct": 5
     },
@@ -1960,7 +1960,7 @@
      "points_pct": 1
     },
     "B0HJB5HHTN": {
-     "last_seen": "2026-11-22",
+     "last_seen": "2026-11-23",
      "pct": 0,
      "points_pct": 5
     },
@@ -1975,7 +1975,7 @@
      "points_pct": 1
     },
     "B0HJB7Z5KD": {
-     "last_seen": "2026-11-22",
+     "last_seen": "2026-11-23",
      "pct": 0,
      "points_pct": 5
     },
@@ -1985,7 +1985,7 @@
      "points_pct": 1
     },
     "B0HJB894VD": {
-     "last_seen": "2026-11-22",
+     "last_seen": "2026-11-23",
      "pct": 0,
      "points_pct": 5
     },
@@ -1995,7 +1995,7 @@
      "points_pct": 1
     },
     "B0HJBB2BPB": {
-     "last_seen": "2026-11-22",
+     "last_seen": "2026-11-23",
      "pct": 0,
      "points_pct": 5
     },
@@ -2020,17 +2020,17 @@
      "points_pct": 1
     },
     "B0HJBC63RX": {
-     "last_seen": "2026-11-22",
+     "last_seen": "2026-11-23",
      "pct": 0,
      "points_pct": 5
     },
     "B0HJBCRTV6": {
-     "last_seen": "2026-11-22",
+     "last_seen": "2026-11-23",
      "pct": 0,
      "points_pct": 5
     },
     "B0HJBCRTVK": {
-     "last_seen": "2026-11-22",
+     "last_seen": "2026-11-23",
      "pct": 0,
      "points_pct": 5
     },
@@ -2050,12 +2050,12 @@
      "points_pct": 1
     },
     "B0HJBL7VKQ": {
-     "last_seen": "2026-11-22",
+     "last_seen": "2026-11-23",
      "pct": 0,
      "points_pct": 5
     },
     "B0HJBL9GDH": {
-     "last_seen": "2026-11-22",
+     "last_seen": "2026-11-23",
      "pct": 0,
      "points_pct": 5
     }
@@ -2068,115 +2068,115 @@
    "aliases": {},
    "genre": "Apple製品",
    "label": "Apple iPhone Air 512GB (SIMフリー)",
-   "last_sweep_at": "2026-11-22T18:07:19+09:00",
+   "last_sweep_at": "2026-11-23T00:07:22+09:00",
    "members": {
     "B0FQFHZ5KH": {
-     "last_seen": "2026-11-22",
+     "last_seen": "2026-11-23",
      "pct": 0,
      "points_pct": 1
     },
     "B0FQFLWSWZ": {
-     "last_seen": "2026-11-22",
+     "last_seen": "2026-11-23",
      "pct": 0,
      "points_pct": 1
     },
     "B0FQFM9RFN": {
-     "last_seen": "2026-11-22",
+     "last_seen": "2026-11-23",
      "pct": 0,
      "points_pct": 1
     },
     "B0FQFPXVZJ": {
-     "last_seen": "2026-11-22",
+     "last_seen": "2026-11-23",
      "pct": 0,
      "points_pct": 1
     },
     "B0FQFPZW9G": {
-     "last_seen": "2026-11-22",
+     "last_seen": "2026-11-23",
      "pct": 0,
      "points_pct": 1
     },
     "B0FQFQ43KM": {
-     "last_seen": "2026-11-22",
+     "last_seen": "2026-11-23",
      "pct": 0,
      "points_pct": 1
     },
     "B0FQG1QPLW": {
-     "last_seen": "2026-11-22",
+     "last_seen": "2026-11-23",
      "pct": 0,
      "points_pct": 1
     },
     "B0FQG5LKM2": {
-     "last_seen": "2026-11-22",
+     "last_seen": "2026-11-23",
      "pct": 0,
      "points_pct": 1
     },
     "B0FQG5SZS9": {
-     "last_seen": "2026-11-22",
+     "last_seen": "2026-11-23",
      "pct": 0,
      "points_pct": 1
     },
     "B0FQGJTXYQ": {
-     "last_seen": "2026-11-22",
+     "last_seen": "2026-11-23",
      "pct": 0,
      "points_pct": 1
     },
     "B0FQGTZLWX": {
-     "last_seen": "2026-11-22",
+     "last_seen": "2026-11-23",
      "pct": 0,
      "points_pct": 1
     },
     "B0FRZ24LPB": {
-     "last_seen": "2026-11-22",
+     "last_seen": "2026-11-23",
      "pct": 0,
      "points_pct": 0
     },
     "B0FRZ27NKM": {
-     "last_seen": "2026-11-22",
+     "last_seen": "2026-11-23",
      "pct": 0,
      "points_pct": 0
     },
     "B0FRZ2ZKXQ": {
-     "last_seen": "2026-11-22",
+     "last_seen": "2026-11-23",
      "pct": 0,
      "points_pct": 0
     },
     "B0FRZ339L6": {
-     "last_seen": "2026-11-22",
+     "last_seen": "2026-11-23",
      "pct": 0,
      "points_pct": 0
     },
     "B0FRZ39NNX": {
-     "last_seen": "2026-11-22",
+     "last_seen": "2026-11-23",
      "pct": 0,
      "points_pct": 0
     },
     "B0FRZ3Q2MT": {
-     "last_seen": "2026-11-22",
+     "last_seen": "2026-11-23",
      "pct": 0,
      "points_pct": 0
     },
     "B0FRZ3SB7J": {
-     "last_seen": "2026-11-22",
+     "last_seen": "2026-11-23",
      "pct": 0,
      "points_pct": 0
     },
     "B0FRZ3SZ2G": {
-     "last_seen": "2026-11-22",
+     "last_seen": "2026-11-23",
      "pct": 0,
      "points_pct": 0
     },
     "B0FRZ3YZ5V": {
-     "last_seen": "2026-11-22",
+     "last_seen": "2026-11-23",
      "pct": 0,
      "points_pct": 0
     },
     "B0FRZ43X3M": {
-     "last_seen": "2026-11-22",
+     "last_seen": "2026-11-23",
      "pct": 0,
      "points_pct": 0
     },
     "B0FRZ5GYD9": {
-     "last_seen": "2026-11-22",
+     "last_seen": "2026-11-23",
      "pct": 0,
      "points_pct": 0
     }
@@ -2322,7 +2322,7 @@
      "points_pct": 1
     },
     "B0HJ9SMNLL": {
-     "last_seen": "2026-11-22",
+     "last_seen": "2026-11-23",
      "pct": 0,
      "points_pct": 5
     },
@@ -2332,7 +2332,7 @@
      "points_pct": 1
     },
     "B0HJ9V97D7": {
-     "last_seen": "2026-11-22",
+     "last_seen": "2026-11-23",
      "pct": 0,
      "points_pct": 5
     },
@@ -2342,7 +2342,7 @@
      "points_pct": 1
     },
     "B0HJ9VSSZT": {
-     "last_seen": "2026-11-22",
+     "last_seen": "2026-11-23",
      "pct": 0,
      "points_pct": 5
     },
@@ -2372,7 +2372,7 @@
      "points_pct": 1
     },
     "B0HJ9ZFFRX": {
-     "last_seen": "2026-11-22",
+     "last_seen": "2026-11-23",
      "pct": 0,
      "points_pct": 5
     },
@@ -2433,39 +2433,39 @@
   },
   "B0FQJBT7SZ": {
    "aliases": {
-    "B0FQFQT3VK": "2026-11-22",
-    "B0FQFV6VZL": "2026-11-22",
-    "B0FQFWV3SK": "2026-11-22",
-    "B0FQG5MZVW": "2026-11-22",
-    "B0FQG5PN5S": "2026-11-22",
-    "B0FQG6MZSB": "2026-11-22",
-    "B0FQGP2X31": "2026-11-22",
-    "B0FQGY75PP": "2026-11-22",
-    "B0FRZ2QRTP": "2026-11-22",
-    "B0FRZ3M7BB": "2026-11-22",
-    "B0FRZ3TX6V": "2026-11-22",
-    "B0FRZ3Y3SG": "2026-11-22",
-    "B0FRZ44Q6H": "2026-11-22",
-    "B0FRZ4FW4S": "2026-11-22",
-    "B0FRZ52Z6Z": "2026-11-22",
-    "B0FRZ58QFK": "2026-11-22"
+    "B0FQFQT3VK": "2026-11-23",
+    "B0FQFV6VZL": "2026-11-23",
+    "B0FQFWV3SK": "2026-11-23",
+    "B0FQG5MZVW": "2026-11-23",
+    "B0FQG5PN5S": "2026-11-23",
+    "B0FQG6MZSB": "2026-11-23",
+    "B0FQGP2X31": "2026-11-23",
+    "B0FQGY75PP": "2026-11-23",
+    "B0FRZ2QRTP": "2026-11-23",
+    "B0FRZ3M7BB": "2026-11-23",
+    "B0FRZ3TX6V": "2026-11-23",
+    "B0FRZ3Y3SG": "2026-11-23",
+    "B0FRZ44Q6H": "2026-11-23",
+    "B0FRZ4FW4S": "2026-11-23",
+    "B0FRZ52Z6Z": "2026-11-23",
+    "B0FRZ58QFK": "2026-11-23"
    },
    "genre": "Apple製品",
    "label": "Apple Watch Ultra 3(GPS + Cellularモデル)- ",
-   "last_sweep_at": "2026-11-22T18:07:19+09:00",
+   "last_sweep_at": "2026-11-23T00:07:22+09:00",
    "members": {
     "B0FQFW26JS": {
-     "last_seen": "2026-11-22",
+     "last_seen": "2026-11-23",
      "pct": 16,
      "points_pct": 1
     },
     "B0FQG2HWLF": {
-     "last_seen": "2026-11-22",
+     "last_seen": "2026-11-23",
      "pct": 16,
      "points_pct": 1
     },
     "B0FQG6NZ6T": {
-     "last_seen": "2026-11-22",
+     "last_seen": "2026-11-23",
      "pct": 16,
      "points_pct": 1
     },
@@ -2480,12 +2480,12 @@
      "points_pct": null
     },
     "B0FQG9KV7F": {
-     "last_seen": "2026-11-22",
+     "last_seen": "2026-11-23",
      "pct": 16,
      "points_pct": 1
     },
     "B0FQGHYWRH": {
-     "last_seen": "2026-11-22",
+     "last_seen": "2026-11-23",
      "pct": 16,
      "points_pct": 1
     },
@@ -2495,7 +2495,7 @@
      "points_pct": null
     },
     "B0FRYZJPDJ": {
-     "last_seen": "2026-11-22",
+     "last_seen": "2026-11-23",
      "pct": 15,
      "points_pct": 0
     },
@@ -2505,22 +2505,22 @@
      "points_pct": null
     },
     "B0FRZ28FST": {
-     "last_seen": "2026-11-22",
+     "last_seen": "2026-11-23",
      "pct": 15,
      "points_pct": 0
     },
     "B0FRZ2CS5T": {
-     "last_seen": "2026-11-22",
+     "last_seen": "2026-11-23",
      "pct": 15,
      "points_pct": 0
     },
     "B0FRZ34RQL": {
-     "last_seen": "2026-11-22",
+     "last_seen": "2026-11-23",
      "pct": 14,
      "points_pct": 0
     },
     "B0FRZ35PL3": {
-     "last_seen": "2026-11-22",
+     "last_seen": "2026-11-23",
      "pct": 15,
      "points_pct": 0
     },
@@ -2543,15 +2543,15 @@
    "aliases": {},
    "genre": "Apple製品",
    "label": "Apple AirPods Pro 3 ワイヤレスイヤホン、アクティブノイズキャ",
-   "last_sweep_at": "2026-11-22T18:07:19+09:00",
+   "last_sweep_at": "2026-11-23T00:07:22+09:00",
    "members": {
     "B0FQFQDN6K": {
-     "last_seen": "2026-11-22",
+     "last_seen": "2026-11-23",
      "pct": 0,
      "points_pct": 1
     },
     "B0FRZ3SZWX": {
-     "last_seen": "2026-11-22",
+     "last_seen": "2026-11-23",
      "pct": 0,
      "points_pct": 0
     }
@@ -2587,7 +2587,7 @@
      "points_pct": 1
     },
     "B0FWDCD7YC": {
-     "last_seen": "2026-11-22",
+     "last_seen": "2026-11-23",
      "pct": 7,
      "points_pct": 0
     },
@@ -2627,7 +2627,7 @@
      "points_pct": 0
     },
     "B0FX3ZQKNY": {
-     "last_seen": "2026-11-22",
+     "last_seen": "2026-11-23",
      "pct": 7,
      "points_pct": 0
     },
@@ -2717,7 +2717,7 @@
      "points_pct": 0
     },
     "B0GXXW36PX": {
-     "last_seen": "2026-11-22",
+     "last_seen": "2026-11-23",
      "pct": 7,
      "points_pct": 0
     },
@@ -2739,62 +2739,62 @@
   "B0FWJR4K4Q": {
    "aliases": {
     "B0FWD8Y41V": "2026-10-16",
-    "B0FWF4HS1R": "2026-11-22",
-    "B0FWF4M2HP": "2026-11-22",
-    "B0FX458KV1": "2026-11-22",
-    "B0FX45Z55R": "2026-11-22",
-    "B0GR1KNBX2": "2026-11-22",
-    "B0GR1KP26Q": "2026-11-22",
-    "B0GRTQ2RQH": "2026-11-22"
+    "B0FWF4HS1R": "2026-11-23",
+    "B0FWF4M2HP": "2026-11-23",
+    "B0FX458KV1": "2026-11-23",
+    "B0FX45Z55R": "2026-11-23",
+    "B0GR1KNBX2": "2026-11-23",
+    "B0GR1KP26Q": "2026-11-23",
+    "B0GRTQ2RQH": "2026-11-23"
    },
    "genre": "Apple製品",
    "label": "Apple 2025 MacBook Pro 10 コアCPU、10 コアGPU",
-   "last_sweep_at": "2026-11-22T18:07:19+09:00",
+   "last_sweep_at": "2026-11-23T00:07:22+09:00",
    "members": {
     "B0GR1LNP9V": {
-     "last_seen": "2026-11-22",
+     "last_seen": "2026-11-23",
      "pct": 0,
      "points_pct": 1
     },
     "B0GR1N1QRX": {
-     "last_seen": "2026-11-22",
-     "pct": 0,
+     "last_seen": "2026-11-23",
+     "pct": 22,
      "points_pct": 1
     },
     "B0GR1NTKL9": {
-     "last_seen": "2026-11-22",
+     "last_seen": "2026-11-23",
      "pct": 0,
      "points_pct": 1
     },
     "B0GR1RF3K9": {
-     "last_seen": "2026-11-22",
+     "last_seen": "2026-11-23",
      "pct": 0,
      "points_pct": 1
     },
     "B0GR1VZY4W": {
-     "last_seen": "2026-11-22",
+     "last_seen": "2026-11-23",
      "pct": 0,
      "points_pct": 1
     },
     "B0GRTL8MW9": {
-     "last_seen": "2026-11-22",
+     "last_seen": "2026-11-23",
      "pct": 1,
      "points_pct": 0
     },
     "B0GRTRXH5Z": {
-     "last_seen": "2026-11-22",
+     "last_seen": "2026-11-23",
      "pct": 0,
      "points_pct": 0
     },
     "B0GRTST8MJ": {
-     "last_seen": "2026-11-22",
+     "last_seen": "2026-11-23",
      "pct": 0,
      "points_pct": 0
     },
     "B0HF7K6YZD": {
-     "last_seen": "2026-11-22",
-     "pct": 0,
-     "points_pct": 0
+     "last_seen": "2026-11-23",
+     "pct": null,
+     "points_pct": null
     }
    },
    "no_variations": false,
@@ -2884,17 +2884,17 @@
    "last_sweep_at": "2026-11-22T23:07:21+09:00",
    "members": {
     "B0GQW2939K": {
-     "last_seen": "2026-11-22",
+     "last_seen": "2026-11-23",
      "pct": 0,
      "points_pct": 7
     },
     "B0GQW2J67Z": {
-     "last_seen": "2026-11-22",
+     "last_seen": "2026-11-23",
      "pct": 0,
      "points_pct": 7
     },
     "B0GQW5P438": {
-     "last_seen": "2026-11-22",
+     "last_seen": "2026-11-23",
      "pct": 0,
      "points_pct": 8
     },
@@ -2909,27 +2909,27 @@
      "points_pct": 1
     },
     "B0GQWBTXPR": {
-     "last_seen": "2026-11-22",
+     "last_seen": "2026-11-23",
      "pct": 0,
      "points_pct": 6
     },
     "B0GQWDVY5Q": {
-     "last_seen": "2026-11-22",
+     "last_seen": "2026-11-23",
      "pct": 0,
      "points_pct": 6
     },
     "B0GQWFB3MV": {
-     "last_seen": "2026-11-22",
+     "last_seen": "2026-11-23",
      "pct": 0,
      "points_pct": 7
     },
     "B0GQWJCR4K": {
-     "last_seen": "2026-11-22",
+     "last_seen": "2026-11-23",
      "pct": 0,
      "points_pct": 8
     },
     "B0GQWKGNFD": {
-     "last_seen": "2026-11-22",
+     "last_seen": "2026-11-23",
      "pct": 0,
      "points_pct": 6
     },
@@ -2939,12 +2939,12 @@
      "points_pct": 1
     },
     "B0GQWKSTGS": {
-     "last_seen": "2026-11-22",
+     "last_seen": "2026-11-23",
      "pct": 0,
      "points_pct": 6
     },
     "B0GQWKVZJX": {
-     "last_seen": "2026-11-22",
+     "last_seen": "2026-11-23",
      "pct": 0,
      "points_pct": 6
     },
@@ -2969,7 +2969,7 @@
      "points_pct": 1
     },
     "B0GQWRP5BZ": {
-     "last_seen": "2026-11-22",
+     "last_seen": "2026-11-23",
      "pct": 0,
      "points_pct": 6
     },
@@ -2979,7 +2979,7 @@
      "points_pct": 1
     },
     "B0GQWSBMQ1": {
-     "last_seen": "2026-11-22",
+     "last_seen": "2026-11-23",
      "pct": 0,
      "points_pct": 8
     },
@@ -2994,12 +2994,12 @@
      "points_pct": 1
     },
     "B0GQWWWH1T": {
-     "last_seen": "2026-11-22",
+     "last_seen": "2026-11-23",
      "pct": 0,
      "points_pct": 7
     },
     "B0GQX196G9": {
-     "last_seen": "2026-11-22",
+     "last_seen": "2026-11-23",
      "pct": 0,
      "points_pct": 8
     },
@@ -3009,7 +3009,7 @@
      "points_pct": 1
     },
     "B0GQX1MR9M": {
-     "last_seen": "2026-11-22",
+     "last_seen": "2026-11-23",
      "pct": 0,
      "points_pct": 6
     },
@@ -3426,16 +3426,16 @@
   },
   "B0GR526ZC3": {
    "aliases": {
-    "B0GR1JXRZW": "2026-11-22",
-    "B0GR1KF8VV": "2026-11-22",
-    "B0GR1SN9ZX": "2026-11-22",
-    "B0GR1VFR15": "2026-11-22",
-    "B0GR22VTJP": "2026-11-22",
-    "B0GRTM5MYB": "2026-11-22",
-    "B0GRTQ5PBV": "2026-11-22",
-    "B0GRTQ8Y1X": "2026-11-22",
-    "B0GRTWCKWK": "2026-11-22",
-    "B0GRTXRRM2": "2026-11-22"
+    "B0GR1JXRZW": "2026-11-23",
+    "B0GR1KF8VV": "2026-11-23",
+    "B0GR1SN9ZX": "2026-11-23",
+    "B0GR1VFR15": "2026-11-23",
+    "B0GR22VTJP": "2026-11-23",
+    "B0GRTM5MYB": "2026-11-23",
+    "B0GRTQ5PBV": "2026-11-23",
+    "B0GRTQ8Y1X": "2026-11-23",
+    "B0GRTWCKWK": "2026-11-23",
+    "B0GRTXRRM2": "2026-11-23"
    },
    "genre": "Apple製品",
    "label": "Apple 2026 MacBook Air M5チップ搭載15インチノートブッ",
@@ -3518,7 +3518,7 @@
   },
   "B0GR5JCTNC": {
    "aliases": {
-    "B0GRTLSXQV": "2026-11-22"
+    "B0GRTLSXQV": "2026-11-23"
    },
    "genre": "Apple製品",
    "label": "Apple 2026 MacBook Air M5チップ搭載13インチノートブッ",
@@ -3545,7 +3545,7 @@
      "points_pct": 2
     },
     "B0GR1PZQ8G": {
-     "last_seen": "2026-11-22",
+     "last_seen": "2026-11-23",
      "pct": 0,
      "points_pct": 4
     },
@@ -3570,7 +3570,7 @@
      "points_pct": 2
     },
     "B0GR1T11D6": {
-     "last_seen": "2026-11-22",
+     "last_seen": "2026-11-23",
      "pct": 0,
      "points_pct": 5
     },
@@ -3580,7 +3580,7 @@
      "points_pct": 2
     },
     "B0GR1VMZRD": {
-     "last_seen": "2026-11-22",
+     "last_seen": "2026-11-23",
      "pct": 0,
      "points_pct": 5
     },
@@ -3633,55 +3633,55 @@
    "aliases": {},
    "genre": "Apple製品",
    "label": "Apple AirPods Max 2 - スターライト",
-   "last_sweep_at": "2026-11-22T18:07:19+09:00",
+   "last_sweep_at": "2026-11-23T00:07:22+09:00",
    "members": {
     "B0GSS8DBTH": {
-     "last_seen": "2026-11-22",
+     "last_seen": "2026-11-23",
      "pct": 0,
      "points_pct": 1
     },
     "B0GSS9PJFY": {
-     "last_seen": "2026-11-22",
+     "last_seen": "2026-11-23",
      "pct": 0,
      "points_pct": 1
     },
     "B0GSSLZB8Z": {
-     "last_seen": "2026-11-22",
+     "last_seen": "2026-11-23",
      "pct": 0,
      "points_pct": 1
     },
     "B0GSSPN443": {
-     "last_seen": "2026-11-22",
+     "last_seen": "2026-11-23",
      "pct": 0,
      "points_pct": 1
     },
     "B0GSSR9X39": {
-     "last_seen": "2026-11-22",
+     "last_seen": "2026-11-23",
      "pct": 0,
      "points_pct": 1
     },
     "B0GVF8FZDX": {
-     "last_seen": "2026-11-22",
+     "last_seen": "2026-11-23",
      "pct": 0,
      "points_pct": 0
     },
     "B0GVFC1DSR": {
-     "last_seen": "2026-11-22",
+     "last_seen": "2026-11-23",
      "pct": 0,
      "points_pct": 0
     },
     "B0GVFDV9SJ": {
-     "last_seen": "2026-11-22",
+     "last_seen": "2026-11-23",
      "pct": 0,
      "points_pct": 0
     },
     "B0GVFFMV6Q": {
-     "last_seen": "2026-11-22",
+     "last_seen": "2026-11-23",
      "pct": 0,
      "points_pct": 0
     },
     "B0GVFJQ1R1": {
-     "last_seen": "2026-11-22",
+     "last_seen": "2026-11-23",
      "pct": 0,
      "points_pct": 0
     }
@@ -3754,7 +3754,7 @@
    "aliases": {},
    "genre": "Apple製品",
    "label": "11インチiPad Air Wi‑Fiモデル 1TB - ブルー + 2年延長 ",
-   "last_sweep_at": "2026-11-09T00:07:13+09:00",
+   "last_sweep_at": "2026-11-23T00:07:22+09:00",
    "members": {},
    "no_variations": true,
    "seed": "B0HC6YQ9GT",
@@ -3764,7 +3764,7 @@
    "aliases": {},
    "genre": "Apple製品",
    "label": "13インチiPad Air Wi‑Fiモデル 1TB - ブルー + 2年延長 ",
-   "last_sweep_at": "2026-11-09T00:07:13+09:00",
+   "last_sweep_at": "2026-11-23T00:07:22+09:00",
    "members": {},
    "no_variations": true,
    "seed": "B0HC714BZG",
@@ -3904,7 +3904,7 @@
    "aliases": {},
    "genre": "Apple製品",
    "label": "11インチiPad Pro Wi‑Fi + Cellularモデル 512GB（",
-   "last_sweep_at": "2026-11-09T00:07:13+09:00",
+   "last_sweep_at": "2026-11-23T00:07:22+09:00",
    "members": {},
    "no_variations": true,
    "seed": "B0HC76KZXV",
@@ -4024,7 +4024,7 @@
    "aliases": {},
    "genre": "Apple製品",
    "label": "11インチiPad Pro Wi‑Fiモデル 1TB（標準ガラス搭載）- スペー",
-   "last_sweep_at": "2026-11-09T00:07:13+09:00",
+   "last_sweep_at": "2026-11-23T00:07:22+09:00",
    "members": {},
    "no_variations": true,
    "seed": "B0HC7CYQHX",
@@ -4074,90 +4074,90 @@
    "aliases": {},
    "genre": "Apple製品",
    "label": "Apple Watch Series 12（GPS + Cellularモデル）",
-   "last_sweep_at": "2026-11-22T18:07:19+09:00",
+   "last_sweep_at": "2026-11-23T00:07:22+09:00",
    "members": {
     "B0HJ9SBCS2": {
-     "last_seen": "2026-11-22",
+     "last_seen": "2026-11-23",
      "pct": 0,
      "points_pct": 1
     },
     "B0HJ9XRJ3Y": {
-     "last_seen": "2026-11-22",
+     "last_seen": "2026-11-23",
      "pct": 0,
      "points_pct": 1
     },
     "B0HJB1J6Q7": {
-     "last_seen": "2026-11-22",
+     "last_seen": "2026-11-23",
      "pct": 0,
      "points_pct": 4
     },
     "B0HJB25RNQ": {
-     "last_seen": "2026-11-22",
+     "last_seen": "2026-11-23",
      "pct": 0,
      "points_pct": 4
     },
     "B0HJB27NTW": {
-     "last_seen": "2026-11-22",
+     "last_seen": "2026-11-23",
      "pct": 0,
      "points_pct": 4
     },
     "B0HJB343DH": {
-     "last_seen": "2026-11-22",
+     "last_seen": "2026-11-23",
      "pct": 0,
      "points_pct": 4
     },
     "B0HJB3D3LZ": {
-     "last_seen": "2026-11-22",
+     "last_seen": "2026-11-23",
      "pct": 0,
      "points_pct": 4
     },
     "B0HJB5FWD3": {
-     "last_seen": "2026-11-22",
+     "last_seen": "2026-11-23",
      "pct": 0,
      "points_pct": 4
     },
     "B0HJB5G6SW": {
-     "last_seen": "2026-11-22",
+     "last_seen": "2026-11-23",
      "pct": 0,
      "points_pct": 0
     },
     "B0HJB6BQQ3": {
-     "last_seen": "2026-11-22",
+     "last_seen": "2026-11-23",
      "pct": 0,
      "points_pct": 4
     },
     "B0HJB6PK4C": {
-     "last_seen": "2026-11-22",
+     "last_seen": "2026-11-23",
      "pct": 0,
      "points_pct": 4
     },
     "B0HJB7NN4W": {
-     "last_seen": "2026-11-22",
+     "last_seen": "2026-11-23",
      "pct": 0,
      "points_pct": 4
     },
     "B0HJB93F4G": {
-     "last_seen": "2026-11-22",
+     "last_seen": "2026-11-23",
      "pct": 0,
      "points_pct": 1
     },
     "B0HJB9T11W": {
-     "last_seen": "2026-11-22",
+     "last_seen": "2026-11-23",
      "pct": 0,
      "points_pct": 4
     },
     "B0HJBB1Z5L": {
-     "last_seen": "2026-11-22",
+     "last_seen": "2026-11-23",
      "pct": 0,
      "points_pct": 4
     },
     "B0HJBC19DQ": {
-     "last_seen": "2026-11-22",
+     "last_seen": "2026-11-23",
      "pct": 0,
      "points_pct": 4
     },
     "B0HJBC1M4D": {
-     "last_seen": "2026-11-22",
+     "last_seen": "2026-11-23",
      "pct": 0,
      "points_pct": 4
     },
@@ -4167,37 +4167,37 @@
      "points_pct": 0
     },
     "B0HJBC8MG6": {
-     "last_seen": "2026-11-22",
+     "last_seen": "2026-11-23",
      "pct": 0,
      "points_pct": 4
     },
     "B0HJBCFD31": {
-     "last_seen": "2026-11-22",
+     "last_seen": "2026-11-23",
      "pct": 0,
      "points_pct": 4
     },
     "B0HJBCJVFR": {
-     "last_seen": "2026-11-22",
+     "last_seen": "2026-11-23",
      "pct": 0,
      "points_pct": 1
     },
     "B0HJBCR5DY": {
-     "last_seen": "2026-11-22",
+     "last_seen": "2026-11-23",
      "pct": 0,
      "points_pct": 4
     },
     "B0HJBCWMWK": {
-     "last_seen": "2026-11-22",
+     "last_seen": "2026-11-23",
      "pct": 0,
      "points_pct": 4
     },
     "B0HJBHC5RP": {
-     "last_seen": "2026-11-22",
+     "last_seen": "2026-11-23",
      "pct": 0,
      "points_pct": 1
     },
     "B0HJBHGNXW": {
-     "last_seen": "2026-11-22",
+     "last_seen": "2026-11-23",
      "pct": 0,
      "points_pct": 4
     },
@@ -4207,7 +4207,7 @@
      "points_pct": null
     },
     "B0HJBLKSGG": {
-     "last_seen": "2026-11-22",
+     "last_seen": "2026-11-23",
      "pct": 0,
      "points_pct": 4
     }
@@ -4220,100 +4220,100 @@
    "aliases": {},
    "genre": "Apple製品",
    "label": "Apple Watch Series 12（GPSモデル）",
-   "last_sweep_at": "2026-11-22T18:07:19+09:00",
+   "last_sweep_at": "2026-11-23T00:07:22+09:00",
    "members": {
     "B0HJ9V2FK4": {
-     "last_seen": "2026-11-22",
+     "last_seen": "2026-11-23",
      "pct": 0,
      "points_pct": 7
     },
     "B0HJ9VPLKQ": {
-     "last_seen": "2026-11-22",
+     "last_seen": "2026-11-23",
      "pct": 0,
      "points_pct": 8
     },
     "B0HJB11VYX": {
-     "last_seen": "2026-11-22",
+     "last_seen": "2026-11-23",
      "pct": 0,
      "points_pct": 8
     },
     "B0HJB1JJ9P": {
-     "last_seen": "2026-11-22",
+     "last_seen": "2026-11-23",
      "pct": 0,
      "points_pct": 7
     },
     "B0HJB1QJH7": {
-     "last_seen": "2026-11-22",
+     "last_seen": "2026-11-23",
      "pct": 0,
      "points_pct": 7
     },
     "B0HJB28XVR": {
-     "last_seen": "2026-11-22",
+     "last_seen": "2026-11-23",
      "pct": 0,
      "points_pct": 1
     },
     "B0HJB2C5KR": {
-     "last_seen": "2026-11-22",
+     "last_seen": "2026-11-23",
      "pct": 0,
      "points_pct": 8
     },
     "B0HJB2M493": {
-     "last_seen": "2026-11-22",
+     "last_seen": "2026-11-23",
      "pct": 0,
      "points_pct": 7
     },
     "B0HJB2SJHN": {
-     "last_seen": "2026-11-22",
+     "last_seen": "2026-11-23",
      "pct": 0,
      "points_pct": 8
     },
     "B0HJB2W3J6": {
-     "last_seen": "2026-11-22",
+     "last_seen": "2026-11-23",
      "pct": 0,
      "points_pct": 7
     },
     "B0HJB3GN3F": {
-     "last_seen": "2026-11-22",
+     "last_seen": "2026-11-23",
      "pct": 0,
      "points_pct": 8
     },
     "B0HJB77S18": {
-     "last_seen": "2026-11-22",
+     "last_seen": "2026-11-23",
      "pct": 0,
      "points_pct": 1
     },
     "B0HJB812TG": {
-     "last_seen": "2026-11-22",
+     "last_seen": "2026-11-23",
      "pct": 0,
      "points_pct": 8
     },
     "B0HJB92SDL": {
-     "last_seen": "2026-11-22",
+     "last_seen": "2026-11-23",
      "pct": 0,
      "points_pct": 7
     },
     "B0HJB96X85": {
-     "last_seen": "2026-11-22",
+     "last_seen": "2026-11-23",
      "pct": 0,
      "points_pct": 1
     },
     "B0HJB9GLPB": {
-     "last_seen": "2026-11-22",
+     "last_seen": "2026-11-23",
      "pct": 0,
      "points_pct": 7
     },
     "B0HJBBZBQQ": {
-     "last_seen": "2026-11-22",
+     "last_seen": "2026-11-23",
      "pct": 0,
      "points_pct": 7
     },
     "B0HJBCTPN2": {
-     "last_seen": "2026-11-22",
+     "last_seen": "2026-11-23",
      "pct": 0,
      "points_pct": 1
     },
     "B0HJBL7HVL": {
-     "last_seen": "2026-11-22",
+     "last_seen": "2026-11-23",
      "pct": 0,
      "points_pct": 8
     }
@@ -4328,40 +4328,40 @@
    },
    "genre": "Apple製品",
    "label": "Apple Watch Ultra 4（GPS + Cellularモデル）",
-   "last_sweep_at": "2026-11-22T18:07:19+09:00",
+   "last_sweep_at": "2026-11-23T00:07:22+09:00",
    "members": {
     "B0HJ9SL1FK": {
-     "last_seen": "2026-11-22",
+     "last_seen": "2026-11-23",
      "pct": 0,
      "points_pct": 4
     },
     "B0HJ9ZJ8RG": {
-     "last_seen": "2026-11-22",
+     "last_seen": "2026-11-23",
      "pct": 0,
      "points_pct": 1
     },
     "B0HJB33G86": {
-     "last_seen": "2026-11-22",
+     "last_seen": "2026-11-23",
      "pct": 0,
      "points_pct": 4
     },
     "B0HJB499BF": {
-     "last_seen": "2026-11-22",
+     "last_seen": "2026-11-23",
      "pct": 0,
      "points_pct": 4
     },
     "B0HJB5HS4Y": {
-     "last_seen": "2026-11-22",
+     "last_seen": "2026-11-23",
      "pct": 0,
      "points_pct": 4
     },
     "B0HJB642ZS": {
-     "last_seen": "2026-11-22",
+     "last_seen": "2026-11-23",
      "pct": 0,
      "points_pct": 1
     },
     "B0HJB7F6GF": {
-     "last_seen": "2026-11-22",
+     "last_seen": "2026-11-23",
      "pct": 0,
      "points_pct": 4
     },
@@ -4371,7 +4371,7 @@
      "points_pct": 1
     },
     "B0HJBB5SK7": {
-     "last_seen": "2026-11-22",
+     "last_seen": "2026-11-23",
      "pct": 0,
      "points_pct": 4
     },
@@ -4381,7 +4381,7 @@
      "points_pct": null
     },
     "B0HJBHDFY6": {
-     "last_seen": "2026-11-22",
+     "last_seen": "2026-11-23",
      "pct": 0,
      "points_pct": 4
     }
@@ -4398,13 +4398,8 @@
    },
    "genre": "Apple製品",
    "label": "Apple iPhone 18 Pro (256 GB) - シルバー",
-   "last_sweep_at": "2026-11-22T18:07:19+09:00",
+   "last_sweep_at": "2026-11-23T00:07:22+09:00",
    "members": {
-    "B0HJ9TVNN6": {
-     "last_seen": "2026-11-08",
-     "pct": 0,
-     "points_pct": 1
-    },
     "B0HJ9WH4S6": {
      "last_seen": "2026-11-22",
      "pct": 0,
@@ -4421,12 +4416,12 @@
      "points_pct": 1
     },
     "B0HJB93DHZ": {
-     "last_seen": "2026-11-22",
+     "last_seen": "2026-11-23",
      "pct": 0,
      "points_pct": 1
     },
     "B0HJB994T4": {
-     "last_seen": "2026-11-22",
+     "last_seen": "2026-11-23",
      "pct": 0,
      "points_pct": 1
     },
@@ -4436,7 +4431,7 @@
      "points_pct": 1
     },
     "B0HJBCWLXC": {
-     "last_seen": "2026-11-22",
+     "last_seen": "2026-11-23",
      "pct": 0,
      "points_pct": 1
     }
@@ -4459,15 +4454,15 @@
    "aliases": {},
    "genre": "Apple製品",
    "label": "ワイヤレス充電ケース付きApple AirPods 5ワイヤレスイヤーバッド",
-   "last_sweep_at": "2026-11-22T18:07:19+09:00",
+   "last_sweep_at": "2026-11-23T00:07:22+09:00",
    "members": {
     "B0HJ9VNBZ8": {
-     "last_seen": "2026-11-22",
+     "last_seen": "2026-11-23",
      "pct": 0,
      "points_pct": 2
     },
     "B0HJB2HN1R": {
-     "last_seen": "2026-11-22",
+     "last_seen": "2026-11-23",
      "pct": 0,
      "points_pct": 1
     }
@@ -4483,7 +4478,7 @@
     "B0HJ9ZYXPV": "2026-11-17",
     "B0HJB4RVLW": "2026-11-12",
     "B0HJB69RVJ": "2026-11-16",
-    "B0HJBCT1D5": "2026-11-22"
+    "B0HJBCT1D5": "2026-11-23"
    },
    "genre": "Apple製品",
    "label": "Apple iPhone 18 Pro Max (2 TB) - バーガンディ",
@@ -4564,55 +4559,55 @@
    "aliases": {},
    "genre": "Apple製品",
    "label": "Apple Watch Band - ミラネーゼループ - （46mm）ケース用",
-   "last_sweep_at": "2026-11-22T18:07:19+09:00",
+   "last_sweep_at": "2026-11-23T00:07:22+09:00",
    "members": {
     "B0FQFMCFQ9": {
-     "last_seen": "2026-11-22",
+     "last_seen": "2026-11-23",
      "pct": null,
      "points_pct": null
     },
     "B0FQFX1NDM": {
-     "last_seen": "2026-11-22",
+     "last_seen": "2026-11-23",
      "pct": null,
      "points_pct": null
     },
     "B0FQG4F63T": {
-     "last_seen": "2026-11-22",
+     "last_seen": "2026-11-23",
      "pct": null,
      "points_pct": null
     },
     "B0FQG9J668": {
-     "last_seen": "2026-11-22",
+     "last_seen": "2026-11-23",
      "pct": null,
      "points_pct": null
     },
     "B0FQG9KKL9": {
-     "last_seen": "2026-11-22",
+     "last_seen": "2026-11-23",
      "pct": null,
      "points_pct": null
     },
     "B0FQGG99Y8": {
-     "last_seen": "2026-11-22",
+     "last_seen": "2026-11-23",
      "pct": null,
      "points_pct": null
     },
     "B0FQGP2STY": {
-     "last_seen": "2026-11-22",
+     "last_seen": "2026-11-23",
      "pct": null,
      "points_pct": null
     },
     "B0FQGPH8JJ": {
-     "last_seen": "2026-11-22",
+     "last_seen": "2026-11-23",
      "pct": 0,
      "points_pct": 1
     },
     "B0FQGVZR8V": {
-     "last_seen": "2026-11-22",
+     "last_seen": "2026-11-23",
      "pct": null,
      "points_pct": null
     },
     "B0FQGWGKF4": {
-     "last_seen": "2026-11-22",
+     "last_seen": "2026-11-23",
      "pct": null,
      "points_pct": null
     }
