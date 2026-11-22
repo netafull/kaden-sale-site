@@ -617,10 +617,10 @@
     "first_seen_at": "2026-08-16T23:40:53+09:00",
     "last_seen": "2026-11-22",
     "title": "ソニー(SONY) 完全ワイヤレスイヤホン WF-C510 / 軽量小型4.6g / 高精度通話品質/外音取り込み対応/マルチポイント対応 / IPX4防滴性能 / ブラック/WF-C510 BC",
-    "percent_off": 23,
+    "percent_off": 21,
     "brand": "Sony",
     "genre": "ワイヤレスイヤホン",
-    "price": 7600
+    "price": 7800
   },
   "B071G7JJRL": {
     "first_seen": "2026-11-01",
@@ -942,16 +942,6 @@
     "genre": "モニター・ディスプレイ",
     "price": 49800
   },
-  "B07B7NXV4R": {
-    "first_seen": "2026-07-30",
-    "first_seen_at": "2026-07-30T12:00:00+09:00",
-    "last_seen": "2026-11-22",
-    "title": "SwitchBot スイッチボット スイッチ ボタンに適用 指ロボット スマートスイッチ スマートホーム ワイヤレス タイマー スマホで遠隔操作 Alexa, Google Home, Siri, IFTTTなどに対応(ハブ必要) ホワイト",
-    "percent_off": 14,
-    "brand": "スイッチボット(SwitchBot)",
-    "genre": "スマートホーム",
-    "price": 4285
-  },
   "B0GQLM2HG7": {
     "first_seen": "2026-11-18",
     "first_seen_at": "2026-11-18T22:15:10+09:00",
@@ -1201,6 +1191,16 @@
     "brand": "アイリスオーヤマ(IRIS OHYAMA)",
     "genre": "エアフライヤー",
     "price": 10700
+  },
+  "B07B7NXV4R": {
+    "first_seen": "2026-07-30",
+    "first_seen_at": "2026-07-30T12:00:00+09:00",
+    "last_seen": "2026-11-22",
+    "title": "SwitchBot スイッチボット スイッチ ボタンに適用 指ロボット スマートスイッチ スマートホーム ワイヤレス タイマー スマホで遠隔操作 Alexa, Google Home, Siri, IFTTTなどに対応(ハブ必要) ホワイト",
+    "percent_off": 14,
+    "brand": "スイッチボット(SwitchBot)",
+    "genre": "スマートホーム",
+    "price": 4285
   },
   "B0GX8BVR4L": {
     "first_seen": "2026-11-01",
