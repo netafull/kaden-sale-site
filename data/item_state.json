@@ -762,16 +762,6 @@
     "genre": "充電器",
     "price": 3989
   },
-  "B096S2CTHS": {
-    "first_seen": "2026-10-20",
-    "first_seen_at": "2026-10-20T00:15:15+09:00",
-    "last_seen": "2026-11-22",
-    "title": "Anker PowerPort III Nano 20W ブラック | (PD 充電器 20W USB-C 超小型急速充電器)【PSE技術基準適合/PowerIQ 3.0 (Gen2)搭載】 iPhone 15 / 14 / 13 iPad Air (第5世代) Android その他 各種機器対応",
-    "percent_off": 39,
-    "brand": "Anker",
-    "genre": "充電器",
-    "price": 1090
-  },
   "B08X11GD52": {
     "first_seen": "2026-11-04",
     "first_seen_at": "2026-11-04T00:15:51+09:00",
@@ -1201,6 +1191,16 @@
     "brand": "アイリスオーヤマ(IRIS OHYAMA)",
     "genre": "エアフライヤー",
     "price": 10700
+  },
+  "B096S2CTHS": {
+    "first_seen": "2026-10-20",
+    "first_seen_at": "2026-10-20T00:15:15+09:00",
+    "last_seen": "2026-11-22",
+    "title": "Anker PowerPort III Nano 20W ブラック | (PD 充電器 20W USB-C 超小型急速充電器)【PSE技術基準適合/PowerIQ 3.0 (Gen2)搭載】 iPhone 15 / 14 / 13 iPad Air (第5世代) Android その他 各種機器対応",
+    "percent_off": 39,
+    "brand": "Anker",
+    "genre": "充電器",
+    "price": 1090
   },
   "B0GJSCGFTP": {
     "first_seen": "2026-10-13",
