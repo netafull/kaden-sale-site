@@ -149,6 +149,16 @@
     "genre": "Apple製品",
     "price": 63434
   },
+  "B0FQG2B81Z": {
+    "first_seen": "2026-11-22",
+    "first_seen_at": "2026-11-22T17:14:15+09:00",
+    "last_seen": "2026-11-22",
+    "title": "Apple Watch Series 11(GPSモデル)- 46mmジェットブラックアルミニウムケースとブラックスポーツバンド - M/L、睡眠時無呼吸、高血圧パターン、血中酸素、心電図、排卵推定、心拍数、服薬、マインドフルネス、ノイズ、睡眠スコア、転倒検出、IPX6X防塵、泳げる耐水、Suica対応、高速充電対応",
+    "percent_off": 10,
+    "brand": "Apple(アップル)",
+    "genre": "Apple製品",
+    "price": 69495
+  },
   "B0FRYXQ4K2": {
     "first_seen": "2026-10-24",
     "first_seen_at": "2026-10-24T01:15:07+09:00",
@@ -158,6 +168,16 @@
     "brand": "Apple(アップル)",
     "genre": "Apple製品",
     "price": 76234
+  },
+  "B0FRZ3S9B4": {
+    "first_seen": "2026-11-22",
+    "first_seen_at": "2026-11-22T17:14:15+09:00",
+    "last_seen": "2026-11-22",
+    "title": "Apple Watch Series 11(GPSモデル)- 46mmジェットブラックアルミニウムケースとブラックスポーツバンド - M/L + 2年延長 AppleCare+ for Apple Watch Series 11",
+    "percent_off": 10,
+    "brand": "Apple(アップル)",
+    "genre": "Apple製品",
+    "price": 82295
   },
   "B0BJN7ZJF6": {
     "first_seen": "2026-09-11",
@@ -922,15 +942,15 @@
     "genre": "モニター・ディスプレイ",
     "price": 2990
   },
-  "B0DNKC8HXP": {
-    "first_seen": "2026-08-02",
-    "first_seen_at": "2026-08-02T11:33:18+09:00",
+  "B0F2DW782K": {
+    "first_seen": "2026-11-22",
+    "first_seen_at": "2026-11-22T17:14:15+09:00",
     "last_seen": "2026-11-22",
-    "title": "INNOCN ゲーミングモニター 24.5インチ 200Hz IPS 1ms(GTG) フルHD 非光沢 フレームレス PS5/Xbox対応 Adaptive-Sync VESA100×100 HDMI2.0/DP1.4接続 25G2G",
-    "percent_off": 20,
-    "brand": "INNOCN",
+    "title": "【Amazon.co.jp限定】Dell SE2225HM-A 21.5インチ モニター | 5年保証/FHD/VA,非光沢/HDMI1.4x1,VGAx1/傾き調整",
+    "percent_off": 28,
+    "brand": "Dell",
     "genre": "モニター・ディスプレイ",
-    "price": 13625
+    "price": 10480
   },
   "B0F7X3VJ99": {
     "first_seen": "2026-08-02",
@@ -1022,16 +1042,6 @@
     "genre": "スマートウォッチ",
     "price": 22300
   },
-  "B0DQ7MJ8P3": {
-    "first_seen": "2026-08-22",
-    "first_seen_at": "2026-08-22T00:50:58+09:00",
-    "last_seen": "2026-11-22",
-    "title": "HUAWEI WATCH D2 ウェアラブル血圧計LCA-B10:ブラック",
-    "percent_off": 16,
-    "brand": "HUAWEI(ファーウェイ)",
-    "genre": "スマートウォッチ",
-    "price": 50700
-  },
   "B094VSZPPP": {
     "first_seen": "2026-10-07",
     "first_seen_at": "2026-10-07T13:15:11+09:00",
@@ -1041,6 +1051,16 @@
     "brand": "ガーミン(GARMIN)",
     "genre": "スマートウォッチ",
     "price": 46800
+  },
+  "B0DQ7MJ8P3": {
+    "first_seen": "2026-08-22",
+    "first_seen_at": "2026-08-22T00:50:58+09:00",
+    "last_seen": "2026-11-22",
+    "title": "HUAWEI WATCH D2 ウェアラブル血圧計LCA-B10:ブラック",
+    "percent_off": 15,
+    "brand": "HUAWEI(ファーウェイ)",
+    "genre": "スマートウォッチ",
+    "price": 51500
   },
   "B0F1FD99K8": {
     "first_seen": "2026-09-25",
@@ -1191,6 +1211,16 @@
     "brand": "アイリスオーヤマ(IRIS OHYAMA)",
     "genre": "エアフライヤー",
     "price": 10700
+  },
+  "B0DNKC8HXP": {
+    "first_seen": "2026-08-02",
+    "first_seen_at": "2026-08-02T11:33:18+09:00",
+    "last_seen": "2026-11-22",
+    "title": "INNOCN ゲーミングモニター 24.5インチ 200Hz IPS 1ms(GTG) フルHD 非光沢 フレームレス PS5/Xbox対応 Adaptive-Sync VESA100×100 HDMI2.0/DP1.4接続 25G2G",
+    "percent_off": 20,
+    "brand": "INNOCN",
+    "genre": "モニター・ディスプレイ",
+    "price": 13625
   },
   "B096S2CTHS": {
     "first_seen": "2026-10-20",

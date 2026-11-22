@@ -709,7 +709,7 @@
    },
    "genre": "Apple製品",
    "label": "Apple iPad mini(A17 Pro):Apple Intellige",
-   "last_sweep_at": "2026-11-22T10:07:20+09:00",
+   "last_sweep_at": "2026-11-22T17:07:20+09:00",
    "members": {
     "B0DK434GZL": {
      "last_seen": "2026-11-22",
@@ -822,7 +822,7 @@
    "aliases": {},
    "genre": "Apple製品",
    "label": "iPad(A16と第10世代)用Magic Keyboard Folio - 日",
-   "last_sweep_at": "2026-11-22T10:07:20+09:00",
+   "last_sweep_at": "2026-11-22T17:07:20+09:00",
    "members": {
     "B0BJN7ZJF6": {
      "last_seen": "2026-11-22",
@@ -838,7 +838,7 @@
    "aliases": {},
    "genre": "Apple製品",
    "label": "Apple 13インチiPad Pro（M5）用Magic Keyboard -",
-   "last_sweep_at": "2026-11-22T10:07:20+09:00",
+   "last_sweep_at": "2026-11-22T17:07:20+09:00",
    "members": {
     "B0D3J6Y26W": {
      "last_seen": "2026-11-22",
@@ -1020,7 +1020,7 @@
    "aliases": {},
    "genre": "Apple製品",
    "label": "Apple 11 インチ iPad (A16): 11 インチモデル、Liqui",
-   "last_sweep_at": "2026-11-22T10:07:20+09:00",
+   "last_sweep_at": "2026-11-22T17:07:20+09:00",
    "members": {
     "B0DZ7VR1V5": {
      "last_seen": "2026-11-22",
@@ -1276,7 +1276,7 @@
    "aliases": {},
    "genre": "Apple製品",
    "label": "Apple Pencil (USB-C): ピクセルレベルの精度。傾きを感知する",
-   "last_sweep_at": "2026-11-22T10:07:20+09:00",
+   "last_sweep_at": "2026-11-22T17:07:20+09:00",
    "members": {
     "B0CL7Z6M4J": {
      "last_seen": "2026-11-22",
@@ -1327,7 +1327,7 @@
    "aliases": {},
    "genre": "Apple製品",
    "label": "Magic Trackpad (USB-C) - ホワイト(Multi-Touc",
-   "last_sweep_at": "2026-11-22T10:07:20+09:00",
+   "last_sweep_at": "2026-11-22T17:07:20+09:00",
    "members": {
     "B0DL6WXF1G": {
      "last_seen": "2026-11-22",
@@ -1380,7 +1380,7 @@
    },
    "genre": "Apple製品",
    "label": "Apple iPhone 17 256GB (SIMフリー)：ProMotion",
-   "last_sweep_at": "2026-11-22T10:07:20+09:00",
+   "last_sweep_at": "2026-11-22T17:07:20+09:00",
    "members": {
     "B0FQFJSMNZ": {
      "last_seen": "2026-11-22",
@@ -1463,7 +1463,7 @@
    },
    "genre": "Apple製品",
    "label": "Apple Watch Series 11(GPSモデル)- 42mmローズゴー",
-   "last_sweep_at": "2026-11-22T10:07:20+09:00",
+   "last_sweep_at": "2026-11-22T17:07:20+09:00",
    "members": {
     "B0FQFJ1XJN": {
      "last_seen": "2026-11-22",
@@ -1482,8 +1482,8 @@
     },
     "B0FQG2B81Z": {
      "last_seen": "2026-11-22",
-     "pct": null,
-     "points_pct": null
+     "pct": 10,
+     "points_pct": 1
     },
     "B0FQGJ91GZ": {
      "last_seen": "2026-11-16",
@@ -1510,6 +1510,11 @@
      "pct": null,
      "points_pct": null
     },
+    "B0FRZ3S9B4": {
+     "last_seen": "2026-11-22",
+     "pct": 10,
+     "points_pct": 0
+    },
     "B0FRZ3XVFD": {
      "last_seen": "2026-11-09",
      "pct": null,
@@ -1523,13 +1528,13 @@
    },
    "no_variations": false,
    "seed": "B0FQFJ1XJN",
-   "variation_count": 8
+   "variation_count": 9
   },
   "B0FQHYBCJH": {
    "aliases": {},
    "genre": "Apple製品",
    "label": "Apple Watch SE 3（GPS + Cellularモデル）",
-   "last_sweep_at": "2026-11-22T10:07:20+09:00",
+   "last_sweep_at": "2026-11-22T17:07:20+09:00",
    "members": {
     "B0HJ9ZMG17": {
      "last_seen": "2026-11-22",
@@ -1565,7 +1570,7 @@
    "aliases": {},
    "genre": "Apple製品",
    "label": "Apple Watch SE 3（GPSモデル）",
-   "last_sweep_at": "2026-11-22T10:07:20+09:00",
+   "last_sweep_at": "2026-11-22T17:07:20+09:00",
    "members": {
     "B0FQFQ5BGS": {
      "last_seen": "2026-11-22",
@@ -1631,7 +1636,7 @@
    "aliases": {},
    "genre": "Apple製品",
    "label": "Apple Watch Band - モダンバックル - （42mm）ケース用 ",
-   "last_sweep_at": "2026-11-22T10:07:20+09:00",
+   "last_sweep_at": "2026-11-22T17:07:20+09:00",
    "members": {
     "B0FQFJFZ44": {
      "last_seen": "2026-11-22",
@@ -1747,7 +1752,7 @@
    "aliases": {},
    "genre": "Apple製品",
    "label": "Apple Watch Band - スポーツバンド - （40mm）ケース用 ",
-   "last_sweep_at": "2026-11-22T10:07:20+09:00",
+   "last_sweep_at": "2026-11-22T17:07:20+09:00",
    "members": {
     "B0FQFM1QKM": {
      "last_seen": "2026-11-22",
@@ -2184,7 +2189,7 @@
    "aliases": {},
    "genre": "Apple製品",
    "label": "Apple Watch Band - スポーツループ - （46mm）ケース用 ",
-   "last_sweep_at": "2026-11-22T10:07:20+09:00",
+   "last_sweep_at": "2026-11-22T17:07:20+09:00",
    "members": {
     "B0FQFJY7M5": {
      "last_seen": "2026-11-22",
@@ -2559,7 +2564,7 @@
    "aliases": {},
    "genre": "Apple製品",
    "label": "11インチiPad Pro Wi‑Fiモデル 2TB（標準ガラス搭載）- シルバ",
-   "last_sweep_at": "2026-11-22T10:07:20+09:00",
+   "last_sweep_at": "2026-11-22T17:07:20+09:00",
    "members": {
     "B0FWD9841J": {
      "last_seen": "2026-11-22",
@@ -2729,7 +2734,7 @@
    },
    "no_variations": false,
    "seed": "B0FX46NSHB",
-   "variation_count": 24
+   "variation_count": 21
   },
   "B0FWJR4K4Q": {
    "aliases": {
@@ -2820,7 +2825,7 @@
    "aliases": {},
    "genre": "Apple製品",
    "label": "Apple iPhone 17e 256GB：6.1インチSuper Retin",
-   "last_sweep_at": "2026-11-22T10:07:20+09:00",
+   "last_sweep_at": "2026-11-22T17:07:20+09:00",
    "members": {
     "B0GQVHLG38": {
      "last_seen": "2026-11-22",
@@ -2876,7 +2881,7 @@
    "aliases": {},
    "genre": "Apple製品",
    "label": "Apple 11インチiPad Air（M4）：Liquid Retinaディス",
-   "last_sweep_at": "2026-11-22T10:07:20+09:00",
+   "last_sweep_at": "2026-11-22T17:07:20+09:00",
    "members": {
     "B0GQW2939K": {
      "last_seen": "2026-11-22",
@@ -3277,7 +3282,7 @@
    "aliases": {},
    "genre": "Apple製品",
    "label": "Apple 13インチiPad Air（M4）：Liquid Retinaディス",
-   "last_sweep_at": "2026-11-22T10:07:20+09:00",
+   "last_sweep_at": "2026-11-22T17:07:20+09:00",
    "members": {
     "B0GQW7QF6T": {
      "last_seen": "2026-11-22",
@@ -3517,7 +3522,7 @@
    },
    "genre": "Apple製品",
    "label": "Apple 2026 MacBook Air M5チップ搭載13インチノートブッ",
-   "last_sweep_at": "2026-11-22T10:07:20+09:00",
+   "last_sweep_at": "2026-11-22T17:07:20+09:00",
    "members": {
     "B0GR1FMTNG": {
      "last_seen": "2026-11-22",
@@ -4471,7 +4476,7 @@
    },
    "genre": "Apple製品",
    "label": "Apple iPhone 18 Pro Max (2 TB) - バーガンディ",
-   "last_sweep_at": "2026-11-22T10:07:20+09:00",
+   "last_sweep_at": "2026-11-22T17:07:20+09:00",
    "members": {
     "B0HJ9ZYXPV": {
      "last_seen": "2026-11-17",
@@ -4517,7 +4522,7 @@
    "aliases": {},
    "genre": "Apple製品",
    "label": "Apple AirPods 4 アクティブノイズ キャンセリング搭載、ワイヤレス",
-   "last_sweep_at": "2026-11-22T10:07:20+09:00",
+   "last_sweep_at": "2026-11-22T17:07:20+09:00",
    "members": {
     "B0DGJ63QY8": {
      "last_seen": "2026-11-22",
