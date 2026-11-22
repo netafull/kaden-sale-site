@@ -611,7 +611,7 @@
     "percent_off": 29,
     "brand": "Sony",
     "genre": "ワイヤレスイヤホン",
-    "price": 12580
+    "price": 12454
   },
   "B0DPX7W84T": {
     "first_seen": "2026-10-20",
@@ -973,16 +973,6 @@
     "genre": "スマートウォッチ",
     "price": 10980
   },
-  "B0BWF162WJ": {
-    "first_seen": "2026-09-21",
-    "first_seen_at": "2026-09-21T17:14:46+09:00",
-    "last_seen": "2026-11-23",
-    "title": "GARMIN（ガーミン）GPSランニングウォッチ Forerunner 965 White 【日本正規品】",
-    "percent_off": 25,
-    "brand": "ガーミン(GARMIN)",
-    "genre": "スマートウォッチ",
-    "price": 63800
-  },
   "B0FKH3WQ41": {
     "first_seen": "2026-07-30",
     "first_seen_at": "2026-07-30T12:00:00+09:00",
@@ -992,16 +982,6 @@
     "brand": "HUAWEI(ファーウェイ)",
     "genre": "スマートウォッチ",
     "price": 36800
-  },
-  "B0FMDBYSQ9": {
-    "first_seen": "2026-10-17",
-    "first_seen_at": "2026-10-17T05:15:28+09:00",
-    "last_seen": "2026-11-23",
-    "title": "HUAWEI WATCH D2 ウェアラブル血圧計 LCA-B29:ブルー",
-    "percent_off": 22,
-    "brand": "HUAWEI(ファーウェイ)",
-    "genre": "スマートウォッチ",
-    "price": 47000
   },
   "B0GZ294HH3": {
     "first_seen": "2026-08-16",
@@ -1013,45 +993,15 @@
     "genre": "スマートウォッチ",
     "price": 39591
   },
-  "B0DDCR5WYQ": {
-    "first_seen": "2026-11-03",
-    "first_seen_at": "2026-11-03T12:15:59+09:00",
+  "B0GX8BVR4L": {
+    "first_seen": "2026-11-01",
+    "first_seen_at": "2026-11-01T19:15:08+09:00",
     "last_seen": "2026-11-23",
-    "title": "ガーミン(GARMIN) フラッグシップモデル fenix 8 Sapphire AMOLED 47mm Ti Carbon Gray DLC/Black マルチスポーツGPSウォッチ【AMOLEDディスプレイ】 【ランニング・ゴルフ・登山・サイクリング等30種類以上対応】【Android/iOS対応】【Suica機能搭載】【ビジネスシーンもOK】【日本正規品】心電図(ECG)アプリ対応モデル",
-    "percent_off": 18,
-    "brand": "ガーミン(GARMIN)",
-    "genre": "スマートウォッチ",
-    "price": 118798
-  },
-  "B0GZ2NBP8V": {
-    "first_seen": "2026-09-23",
-    "first_seen_at": "2026-09-23T21:15:01+09:00",
-    "last_seen": "2026-11-23",
-    "title": "GARMIN(ガーミン)スマートウォッチ Forerunner 170 Whitestone/Cloud Blue スマートウォッチモード 約 10 日間 高精度GPS ランニングウォッチ iOS/Android AMOLEDディスプレイ1.2インチ マラソン 軽量 防水 心拍数 睡眠スコア 健康管理 Suicaタッチ決済 Garmin Pay",
-    "percent_off": 17,
-    "brand": "ガーミン(GARMIN)",
-    "genre": "スマートウォッチ",
-    "price": 39591
-  },
-  "B0GX8DRYCX": {
-    "first_seen": "2026-09-03",
-    "first_seen_at": "2026-09-03T12:14:47+09:00",
-    "last_seen": "2026-11-23",
-    "title": "HUAWEI WATCH FIT 5 スマートウォッチ 薄型軽量 大画面 GPS内蔵 10日間ロングバッテリー 通知 健康管理 心拍数 睡眠 ブラック | iPhone対応 android対応 1.82インチ画面 2500nits高輝度 ワークアウト 転倒検知 情緒測定 生理周期管理 64GBストレージ 録音機能 ランニング 防水",
-    "percent_off": 18,
+    "title": "HUAWEI WATCH FIT 5 スマートウォッチ 薄型軽量 大画面 GPS内蔵 10日間ロングバッテリー 通知 健康管理 心拍数 睡眠 ホワイト | iPhone対応 android対応 1.82インチ画面 2500nits高輝度 ワークアウト 転倒検知 情緒測定 生理周期管理 64GBストレージ 録音機能 ランニング 防水",
+    "percent_off": 16,
     "brand": "HUAWEI(ファーウェイ)",
     "genre": "スマートウォッチ",
-    "price": 22300
-  },
-  "B094VSZPPP": {
-    "first_seen": "2026-10-07",
-    "first_seen_at": "2026-10-07T13:15:11+09:00",
-    "last_seen": "2026-11-23",
-    "title": "GARMIN(ガーミン) スマートウォッチ GPS Venu 2 Black/Slate【日本正規品】 010-02430-61 小",
-    "percent_off": 15,
-    "brand": "ガーミン(GARMIN)",
-    "genre": "スマートウォッチ",
-    "price": 46800
+    "price": 23000
   },
   "B0F1FD99K8": {
     "first_seen": "2026-09-25",
@@ -1202,6 +1152,66 @@
     "brand": "Logicool(ロジクール)",
     "genre": "キーボード・マウス",
     "price": 4373
+  },
+  "B0BWF162WJ": {
+    "first_seen": "2026-09-21",
+    "first_seen_at": "2026-09-21T17:14:46+09:00",
+    "last_seen": "2026-11-23",
+    "title": "GARMIN（ガーミン）GPSランニングウォッチ Forerunner 965 White 【日本正規品】",
+    "percent_off": 25,
+    "brand": "ガーミン(GARMIN)",
+    "genre": "スマートウォッチ",
+    "price": 63800
+  },
+  "B0FMDBYSQ9": {
+    "first_seen": "2026-10-17",
+    "first_seen_at": "2026-10-17T05:15:28+09:00",
+    "last_seen": "2026-11-23",
+    "title": "HUAWEI WATCH D2 ウェアラブル血圧計 LCA-B29:ブルー",
+    "percent_off": 22,
+    "brand": "HUAWEI(ファーウェイ)",
+    "genre": "スマートウォッチ",
+    "price": 47000
+  },
+  "B0DDCR5WYQ": {
+    "first_seen": "2026-11-03",
+    "first_seen_at": "2026-11-03T12:15:59+09:00",
+    "last_seen": "2026-11-23",
+    "title": "ガーミン(GARMIN) フラッグシップモデル fenix 8 Sapphire AMOLED 47mm Ti Carbon Gray DLC/Black マルチスポーツGPSウォッチ【AMOLEDディスプレイ】 【ランニング・ゴルフ・登山・サイクリング等30種類以上対応】【Android/iOS対応】【Suica機能搭載】【ビジネスシーンもOK】【日本正規品】心電図(ECG)アプリ対応モデル",
+    "percent_off": 18,
+    "brand": "ガーミン(GARMIN)",
+    "genre": "スマートウォッチ",
+    "price": 118798
+  },
+  "B0GZ2NBP8V": {
+    "first_seen": "2026-09-23",
+    "first_seen_at": "2026-09-23T21:15:01+09:00",
+    "last_seen": "2026-11-23",
+    "title": "GARMIN(ガーミン)スマートウォッチ Forerunner 170 Whitestone/Cloud Blue スマートウォッチモード 約 10 日間 高精度GPS ランニングウォッチ iOS/Android AMOLEDディスプレイ1.2インチ マラソン 軽量 防水 心拍数 睡眠スコア 健康管理 Suicaタッチ決済 Garmin Pay",
+    "percent_off": 17,
+    "brand": "ガーミン(GARMIN)",
+    "genre": "スマートウォッチ",
+    "price": 39591
+  },
+  "B0GX8DRYCX": {
+    "first_seen": "2026-09-03",
+    "first_seen_at": "2026-09-03T12:14:47+09:00",
+    "last_seen": "2026-11-23",
+    "title": "HUAWEI WATCH FIT 5 スマートウォッチ 薄型軽量 大画面 GPS内蔵 10日間ロングバッテリー 通知 健康管理 心拍数 睡眠 ブラック | iPhone対応 android対応 1.82インチ画面 2500nits高輝度 ワークアウト 転倒検知 情緒測定 生理周期管理 64GBストレージ 録音機能 ランニング 防水",
+    "percent_off": 18,
+    "brand": "HUAWEI(ファーウェイ)",
+    "genre": "スマートウォッチ",
+    "price": 22300
+  },
+  "B094VSZPPP": {
+    "first_seen": "2026-10-07",
+    "first_seen_at": "2026-10-07T13:15:11+09:00",
+    "last_seen": "2026-11-23",
+    "title": "GARMIN(ガーミン) スマートウォッチ GPS Venu 2 Black/Slate【日本正規品】 010-02430-61 小",
+    "percent_off": 15,
+    "brand": "ガーミン(GARMIN)",
+    "genre": "スマートウォッチ",
+    "price": 46800
   },
   "B0DQ7MJ8P3": {
     "first_seen": "2026-08-22",
@@ -1422,16 +1432,6 @@
     "brand": "HUAWEI(ファーウェイ)",
     "genre": "スマートウォッチ",
     "price": 9929
-  },
-  "B0GX8BVR4L": {
-    "first_seen": "2026-11-01",
-    "first_seen_at": "2026-11-01T19:15:08+09:00",
-    "last_seen": "2026-11-22",
-    "title": "HUAWEI WATCH FIT 5 スマートウォッチ 薄型軽量 大画面 GPS内蔵 10日間ロングバッテリー 通知 健康管理 心拍数 睡眠 ホワイト | iPhone対応 android対応 1.82インチ画面 2500nits高輝度 ワークアウト 転倒検知 情緒測定 生理周期管理 64GBストレージ 録音機能 ランニング 防水",
-    "percent_off": 17,
-    "brand": "HUAWEI(ファーウェイ)",
-    "genre": "スマートウォッチ",
-    "price": 22542
   },
   "B0DNLVY85L": {
     "first_seen": "2026-10-01",
