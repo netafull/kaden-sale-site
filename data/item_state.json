@@ -611,7 +611,7 @@
     "percent_off": 29,
     "brand": "Sony",
     "genre": "ワイヤレスイヤホン",
-    "price": 12454
+    "price": 12580
   },
   "B0DPX7W84T": {
     "first_seen": "2026-10-20",
@@ -753,15 +753,15 @@
     "genre": "充電器",
     "price": 4880
   },
-  "B0D53Z4WX3": {
-    "first_seen": "2026-10-25",
-    "first_seen_at": "2026-10-25T22:14:38+09:00",
+  "B0D53VJJ7F": {
+    "first_seen": "2026-07-28",
+    "first_seen_at": "2026-07-28T12:00:00+09:00",
     "last_seen": "2026-11-23",
-    "title": "CIO NovaPort TRIOⅡ 65W 3C PD急速充電器 USB-C×3 3台同時充電 軽量 世界最小級 (ブラック) | ノートPC対応, MacBook対応, iPhone対応, iPad対応, Android対応, 電力を自動最適配分",
+    "title": "CIO NovaPort TRIOⅡ 65W 2C1A PD急速充電器 USB-C×2+USB-A×1 3台同時充電 世界最小級 (ブラック) | ノートPC対応, MacBook対応, iPhone対応, iPad対応, Android対応, 電力を自動最適配分",
     "percent_off": null,
     "brand": "CIO",
     "genre": "充電器",
-    "price": 6688
+    "price": 6589
   },
   "B0FL1SH21C": {
     "first_seen": "2026-09-07",
@@ -1033,6 +1033,16 @@
     "genre": "スマートウォッチ",
     "price": 22300
   },
+  "B0DQ7MJ8P3": {
+    "first_seen": "2026-08-22",
+    "first_seen_at": "2026-08-22T00:50:58+09:00",
+    "last_seen": "2026-11-23",
+    "title": "HUAWEI WATCH D2 ウェアラブル血圧計LCA-B10:ブラック",
+    "percent_off": 16,
+    "brand": "HUAWEI(ファーウェイ)",
+    "genre": "スマートウォッチ",
+    "price": 50700
+  },
   "B094VSZPPP": {
     "first_seen": "2026-10-07",
     "first_seen_at": "2026-10-07T13:15:11+09:00",
@@ -1193,6 +1203,16 @@
     "genre": "キーボード・マウス",
     "price": 4373
   },
+  "B0D53Z4WX3": {
+    "first_seen": "2026-10-25",
+    "first_seen_at": "2026-10-25T22:14:38+09:00",
+    "last_seen": "2026-11-23",
+    "title": "CIO NovaPort TRIOⅡ 65W 3C PD急速充電器 USB-C×3 3台同時充電 軽量 世界最小級 (ブラック) | ノートPC対応, MacBook対応, iPhone対応, iPad対応, Android対応, 電力を自動最適配分",
+    "percent_off": null,
+    "brand": "CIO",
+    "genre": "充電器",
+    "price": 6688
+  },
   "B0F3X9RLT6": {
     "first_seen": "2026-11-07",
     "first_seen_at": "2026-11-07T21:14:56+09:00",
@@ -1202,16 +1222,6 @@
     "brand": "Sony",
     "genre": "ワイヤレスイヤホン",
     "price": 12513
-  },
-  "B0DQ7MJ8P3": {
-    "first_seen": "2026-08-22",
-    "first_seen_at": "2026-08-22T00:50:58+09:00",
-    "last_seen": "2026-11-23",
-    "title": "HUAWEI WATCH D2 ウェアラブル血圧計LCA-B10:ブラック",
-    "percent_off": 15,
-    "brand": "HUAWEI(ファーウェイ)",
-    "genre": "スマートウォッチ",
-    "price": 51500
   },
   "B0GR1N1QRX": {
     "first_seen": "2026-11-07",
@@ -1302,16 +1312,6 @@
     "brand": "Anker",
     "genre": "充電器",
     "price": 1340
-  },
-  "B0D53VJJ7F": {
-    "first_seen": "2026-07-28",
-    "first_seen_at": "2026-07-28T12:00:00+09:00",
-    "last_seen": "2026-11-22",
-    "title": "CIO NovaPort TRIOⅡ 65W 2C1A PD急速充電器 USB-C×2+USB-A×1 3台同時充電 世界最小級 (ブラック) | ノートPC対応, MacBook対応, iPhone対応, iPad対応, Android対応, 電力を自動最適配分",
-    "percent_off": null,
-    "brand": "CIO",
-    "genre": "充電器",
-    "price": 6589
   },
   "B0C3B132D3": {
     "first_seen": "2026-09-12",
