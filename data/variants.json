@@ -1376,11 +1376,12 @@
   },
   "B0FQH5FZMM": {
    "aliases": {
+    "B0FQFWNSB8": "2026-11-24",
     "B0FQFWP46C": "2026-11-24"
    },
    "genre": "Apple製品",
    "label": "Apple iPhone 17 256GB (SIMフリー)：ProMotion",
-   "last_sweep_at": "2026-11-24T01:07:26+09:00",
+   "last_sweep_at": "2026-11-24T02:07:15+09:00",
    "members": {
     "B0FQFJSMNZ": {
      "last_seen": "2026-11-24",
@@ -1419,8 +1420,8 @@
     },
     "B0FQGJ6H6X": {
      "last_seen": "2026-11-24",
-     "pct": 0,
-     "points_pct": 1
+     "pct": null,
+     "points_pct": null
     },
     "B0FRZ25N8S": {
      "last_seen": "2026-11-24",

@@ -651,7 +651,7 @@
     "percent_off": 22,
     "brand": "Sony",
     "genre": "ワイヤレスイヤホン",
-    "price": 7750
+    "price": 7722
   },
   "B0F6NFHB31": {
     "first_seen": "2026-07-25",
@@ -882,6 +882,16 @@
     "brand": "Anker",
     "genre": "充電器",
     "price": 1390
+  },
+  "B099ZNTRL5": {
+    "first_seen": "2026-10-23",
+    "first_seen_at": "2026-10-23T21:15:12+09:00",
+    "last_seen": "2026-11-24",
+    "title": "Anker Nano Charger (20W) ホワイト | USB-C 急速充電器【PSE技術基準適合/PowerIQ 3.0",
+    "percent_off": 21,
+    "brand": "Anker",
+    "genre": "充電器",
+    "price": 1340
   },
   "B0DW2SYD5H": {
     "first_seen": "2026-08-15",
@@ -1312,16 +1322,6 @@
     "brand": "UGREEN",
     "genre": "モバイルバッテリー",
     "price": 5586
-  },
-  "B099ZNTRL5": {
-    "first_seen": "2026-10-23",
-    "first_seen_at": "2026-10-23T21:15:12+09:00",
-    "last_seen": "2026-11-23",
-    "title": "Anker Nano Charger (20W) ホワイト | USB-C 急速充電器【PSE技術基準適合/PowerIQ 3.0",
-    "percent_off": 21,
-    "brand": "Anker",
-    "genre": "充電器",
-    "price": 1340
   },
   "B0C5X8DP5G": {
     "first_seen": "2026-11-23",
