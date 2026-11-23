@@ -613,15 +613,15 @@
       }
     ]
   },
-  "B0F3XFNHCW": {
-    "first_seen": "2026-11-01",
-    "first_seen_at": "2026-11-01T02:15:45+09:00",
+  "B0F3X9RLT6": {
+    "first_seen": "2026-11-07",
+    "first_seen_at": "2026-11-07T21:14:56+09:00",
     "last_seen": "2026-11-23",
-    "title": "ソニー(SONY) WF-C710N ブラック ワイヤレスイヤホン 高性能ノイズキャンセリング Bluetoothロングバッテリー 外音取り込み IPX4防滴性能 軽量 コンパクト マルチポイント接続",
-    "percent_off": 29,
+    "title": "ソニー(SONY) WF-C710N グラスブルー ワイヤレスイヤホン 高性能ノイズキャンセリング Bluetoothロングバッテリー 外音取り込み IPX4防滴性能 軽量 コンパクト マルチポイント接続",
+    "percent_off": 30,
     "brand": "Sony",
     "genre": "ワイヤレスイヤホン",
-    "price": 12454
+    "price": 12388
   },
   "B0DPX7W84T": {
     "first_seen": "2026-10-20",
@@ -653,15 +653,15 @@
     "genre": "ワイヤレスイヤホン",
     "price": 7750
   },
-  "B0F6NFHB31": {
-    "first_seen": "2026-07-25",
-    "first_seen_at": "2026-07-25T12:00:00+09:00",
+  "B0F37QGJHP": {
+    "first_seen": "2026-11-19",
+    "first_seen_at": "2026-11-19T22:14:42+09:00",
     "last_seen": "2026-11-23",
-    "title": "UGREEN Air モバイルバッテリー 5000mAh 8.6mm超薄型 Qi2 15W MagSafe iPhone18Pro対応 | 【ATL製セル×難燃技術】マグネット式ワイヤレス充電｜軽量・小型設計｜USB-C PD 20W対応 ｜パススルー充電対応｜iPhone18 Pro/17/16/15 シリーズ/ Air対応｜PB580｜ダークグレー",
-    "percent_off": 39,
+    "title": "UGREEN Air モバイルバッテリー 10000mAh 薄型 Qi2 15W MagSafe ケーブル内蔵 iPhone18Pro対応 | 【ATL製セル×難燃技術】マグネット式ワイヤレス充電｜軽量・小型設計｜USB-C PD 30W対応 ｜パススルー充電対応｜iPhone18 Pro/17/16/15 シリーズ/ Air対応 ｜PB570｜水色",
+    "percent_off": 35,
     "brand": "UGREEN",
     "genre": "モバイルバッテリー",
-    "price": 4186
+    "price": 5586
   },
   "B0BVKR5J8F": {
     "first_seen": "2026-11-23",
@@ -702,6 +702,16 @@
     "brand": "UGREEN",
     "genre": "モバイルバッテリー",
     "price": 2979
+  },
+  "B0DB17C63X": {
+    "first_seen": "2026-09-26",
+    "first_seen_at": "2026-09-26T00:14:56+09:00",
+    "last_seen": "2026-11-23",
+    "title": "Anker MagGo Power Bank (10000mAh, Slim) ブラック | モバイルバッテリー 10000mAh Qi2認証 ワイヤレス充電 最大出力15W マグセーフ対応 マグネット式ワイヤレス充電対応 コンパクト 薄型 小型 magsafe iPhone 18 / 17 / 16 / 15 シリーズ対応",
+    "percent_off": null,
+    "brand": "Anker",
+    "genre": "モバイルバッテリー",
+    "price": 9990
   },
   "B0GMX4WKYG": {
     "first_seen": "2026-11-23",
@@ -803,16 +813,6 @@
     "genre": "充電器",
     "price": 2930
   },
-  "B0B2QR8HN9": {
-    "first_seen": "2026-08-09",
-    "first_seen_at": "2026-08-09T19:54:50+09:00",
-    "last_seen": "2026-11-23",
-    "title": "Anker 511 Charger (Nano 3, 30W) ホワイト | 30W USB-C急速充電器 手のひらサイズでノートPCにも給電。GaN採用で折りたたみ式プラグ搭載。PD PPS対応 MacBook Air iPhone iPad Galaxy Pixel対応 PSE技術基準適合",
-    "percent_off": null,
-    "brand": "Anker",
-    "genre": "充電器",
-    "price": 2790
-  },
   "B091BGMKYS": {
     "first_seen": "2026-07-27",
     "first_seen_at": "2026-07-27T12:00:00+09:00",
@@ -873,16 +873,6 @@
     "genre": "充電器",
     "price": 1340
   },
-  "B0CTC7KYZF": {
-    "first_seen": "2026-09-26",
-    "first_seen_at": "2026-09-26T23:15:00+09:00",
-    "last_seen": "2026-11-23",
-    "title": "UGREEN 卓上急速充電器 300W Type-C 4C1A 5ポート 単ポート140W常時対応 縦型省スペース PD3.1/PPS 5A対応 | 5ポート同時急速充電 USB-C *4とUSB-A*1 ダブルGaN MacBook Pro16/PD対応Macbook M4/iPad/iphone18/17/16/Galaxy/Android/PCに急速充電対応【レッドドット・デザイン賞受賞】",
-    "percent_off": 25,
-    "brand": "UGREEN",
-    "genre": "充電器",
-    "price": 16800
-  },
   "B06ZXXQGZ8": {
     "first_seen": "2026-10-13",
     "first_seen_at": "2026-10-13T00:16:25+09:00",
@@ -902,16 +892,6 @@
     "brand": "Anker",
     "genre": "充電器",
     "price": 1340
-  },
-  "B0DW2SYD5H": {
-    "first_seen": "2026-08-15",
-    "first_seen_at": "2026-08-15T20:37:29+09:00",
-    "last_seen": "2026-11-23",
-    "title": "Anker Zolo Wireless Charger (Magnetic, Pad) ブラック | ブラック Qi2対応 マグネット式 ワイヤレス充電/ワイヤレス出力 iPhone MagSafe対応 iPhone 18 / 18 / 17 / 16 / 14 シリーズ対応 Pixel10非対応",
-    "percent_off": 20,
-    "brand": "Anker",
-    "genre": "充電器",
-    "price": 2390
   },
   "B0G64NF1FQ": {
     "first_seen": "2026-09-16",
@@ -952,6 +932,27 @@
     "brand": "バッファロー",
     "genre": "充電器",
     "price": 2950
+  },
+  "B0C5X8DP5G": {
+    "first_seen": "2026-11-23",
+    "first_seen_at": "2026-11-23T21:13:12+09:00",
+    "last_seen": "2026-11-23",
+    "title": "【Amazon.co.jp限定】 バッファロー microSD 512GB 100MB/s U1 V10 A1 RMSD-512U11HA/N",
+    "percent_off": 28,
+    "brand": "バッファロー",
+    "genre": "SSD・メモリーカード",
+    "price": 15280,
+    "past": [
+      {
+        "first_seen": "2026-10-31",
+        "last_seen": "2026-11-01",
+        "title": "Amazon限定 バッファロー microSD 512GB 100MB/s U1 microSD V10 A1 RMSD-512U11HA/N",
+        "brand": null,
+        "genre": null,
+        "price": null,
+        "percent_off": 28
+      }
+    ]
   },
   "B0GF26RSYQ": {
     "first_seen": "2026-07-27",
@@ -1023,15 +1024,25 @@
     "genre": "スマートウォッチ",
     "price": 36800
   },
-  "B0GX8DRYCX": {
-    "first_seen": "2026-09-03",
-    "first_seen_at": "2026-09-03T12:14:47+09:00",
+  "B0GJSCGFTP": {
+    "first_seen": "2026-10-13",
+    "first_seen_at": "2026-10-13T14:15:16+09:00",
     "last_seen": "2026-11-23",
-    "title": "HUAWEI WATCH FIT 5 スマートウォッチ 薄型軽量 大画面 GPS内蔵 10日間ロングバッテリー 通知 健康管理 心拍数 睡眠 ブラック | iPhone対応 android対応 1.82インチ画面 2500nits高輝度 ワークアウト 転倒検知 情緒測定 生理周期管理 64GBストレージ 録音機能 ランニング 防水",
-    "percent_off": 18,
+    "title": "HUAWEI Band 11 Pro GPS搭載 スマートウォッチ 薄型軽量 睡眠管理 大画面 心拍数 ロングバッテリー LINE通知 ブラック | iPhone対応 android対応 8.99mm/18g薄型軽量ボディ 2000nits高輝度 1.62インチ画面 24時間睡眠管理 ランニングモード 健康/情緒モニタリング ランニング 防水",
+    "percent_off": 16,
     "brand": "HUAWEI(ファーウェイ)",
     "genre": "スマートウォッチ",
-    "price": 22300
+    "price": 9957
+  },
+  "B0F1FD99K8": {
+    "first_seen": "2026-09-25",
+    "first_seen_at": "2026-09-25T22:14:49+09:00",
+    "last_seen": "2026-11-23",
+    "title": "ラピッドトリガー 搭載 Razer レイザー Huntsman V3 Pro Mini JP (White Edition) ラピッドトリガーと調整可能なアクチュエーション搭載のアナログ ゲーミングキーボード アナログオプティカルスイッチ 調整可能なアクチュエーション 押下圧 40G 日本語配列 ハンツマン ブイスリー プロ ミニ ジェイピー ホワイト エディション【日本正規代理店保証品】",
+    "percent_off": 38,
+    "brand": "Razer(レイザー)",
+    "genre": "キーボード・マウス",
+    "price": 16744
   },
   "B0FL6ZD3WL": {
     "first_seen": "2026-07-29",
@@ -1072,16 +1083,6 @@
     "brand": "Logicool(ロジクール)",
     "genre": "キーボード・マウス",
     "price": 3073
-  },
-  "B0CLGVLBMV": {
-    "first_seen": "2026-08-23",
-    "first_seen_at": "2026-08-23T20:37:59+09:00",
-    "last_seen": "2026-11-23",
-    "title": "Razer ラピッドトリガー 搭載 Huntsman V3 Pro Mini JP ラピッドトリガーと調整可能なアクチュエーション搭載のアナログ ゲーミングキーボード アナログオプティカルスイッチ 調整可能なアクチュエーション 押下圧 40G 日本語配列 ハンツマン ブイスリー プロ ミニ ジェイピー【日本正規代理店保証品】 ブラック",
-    "percent_off": 26,
-    "brand": "Razer(レイザー)",
-    "genre": "キーボード・マウス",
-    "price": 20029
   },
   "B0FJRCJ1SN": {
     "first_seen": "2026-07-26",
@@ -1153,11 +1154,11 @@
     "genre": "キーボード・マウス",
     "price": 4364
   },
-  "B0CJR8Y56J": {
-    "first_seen": "2026-07-26",
-    "first_seen_at": "2026-07-26T12:00:00+09:00",
+  "B0CJR82M5M": {
+    "first_seen": "2026-08-04",
+    "first_seen_at": "2026-08-04T21:17:38+09:00",
     "last_seen": "2026-11-23",
-    "title": "ロジクール ワイヤレスキーボード PEBBLE KEYS 2 K380sGR 薄型 軽量 415g 小型 Bluetooth Logi Bolt ワイヤレス 無線 キーボード Easy-Switch 日本語配列 電池寿命36ケ月 Windows Mac iPad iOS Android Chrome K380s グラファイト 国内正規品",
+    "title": "ロジクール ワイヤレスキーボード PEBBLE KEYS 2 K380sOW 薄型 軽量 415g 小型 Bluetooth Logi Bolt ワイヤレス 無線 キーボード Easy-Switch 日本語配列 電池寿命36ケ月 Windows Mac iPad iOS Android Chrome K380s オフホワイト 国内正規品",
     "percent_off": 17,
     "brand": "Logicool(ロジクール)",
     "genre": "キーボード・マウス",
@@ -1172,6 +1173,86 @@
     "brand": "Logicool(ロジクール)",
     "genre": "キーボード・マウス",
     "price": 7000
+  },
+  "B0F3XFNHCW": {
+    "first_seen": "2026-11-01",
+    "first_seen_at": "2026-11-01T02:15:45+09:00",
+    "last_seen": "2026-11-23",
+    "title": "ソニー(SONY) WF-C710N ブラック ワイヤレスイヤホン 高性能ノイズキャンセリング Bluetoothロングバッテリー 外音取り込み IPX4防滴性能 軽量 コンパクト マルチポイント接続",
+    "percent_off": 29,
+    "brand": "Sony",
+    "genre": "ワイヤレスイヤホン",
+    "price": 12454
+  },
+  "B0F6NFHB31": {
+    "first_seen": "2026-07-25",
+    "first_seen_at": "2026-07-25T12:00:00+09:00",
+    "last_seen": "2026-11-23",
+    "title": "UGREEN Air モバイルバッテリー 5000mAh 8.6mm超薄型 Qi2 15W MagSafe iPhone18Pro対応 | 【ATL製セル×難燃技術】マグネット式ワイヤレス充電｜軽量・小型設計｜USB-C PD 20W対応 ｜パススルー充電対応｜iPhone18 Pro/17/16/15 シリーズ/ Air対応｜PB580｜ダークグレー",
+    "percent_off": 39,
+    "brand": "UGREEN",
+    "genre": "モバイルバッテリー",
+    "price": 4186
+  },
+  "B0B2QR8HN9": {
+    "first_seen": "2026-08-09",
+    "first_seen_at": "2026-08-09T19:54:50+09:00",
+    "last_seen": "2026-11-23",
+    "title": "Anker 511 Charger (Nano 3, 30W) ホワイト | 30W USB-C急速充電器 手のひらサイズでノートPCにも給電。GaN採用で折りたたみ式プラグ搭載。PD PPS対応 MacBook Air iPhone iPad Galaxy Pixel対応 PSE技術基準適合",
+    "percent_off": null,
+    "brand": "Anker",
+    "genre": "充電器",
+    "price": 2790
+  },
+  "B0CTC7KYZF": {
+    "first_seen": "2026-09-26",
+    "first_seen_at": "2026-09-26T23:15:00+09:00",
+    "last_seen": "2026-11-23",
+    "title": "UGREEN 卓上急速充電器 300W Type-C 4C1A 5ポート 単ポート140W常時対応 縦型省スペース PD3.1/PPS 5A対応 | 5ポート同時急速充電 USB-C *4とUSB-A*1 ダブルGaN MacBook Pro16/PD対応Macbook M4/iPad/iphone18/17/16/Galaxy/Android/PCに急速充電対応【レッドドット・デザイン賞受賞】",
+    "percent_off": 25,
+    "brand": "UGREEN",
+    "genre": "充電器",
+    "price": 16800
+  },
+  "B0DW2SYD5H": {
+    "first_seen": "2026-08-15",
+    "first_seen_at": "2026-08-15T20:37:29+09:00",
+    "last_seen": "2026-11-23",
+    "title": "Anker Zolo Wireless Charger (Magnetic, Pad) ブラック | ブラック Qi2対応 マグネット式 ワイヤレス充電/ワイヤレス出力 iPhone MagSafe対応 iPhone 18 / 18 / 17 / 16 / 14 シリーズ対応 Pixel10非対応",
+    "percent_off": 20,
+    "brand": "Anker",
+    "genre": "充電器",
+    "price": 2390
+  },
+  "B0GX8DRYCX": {
+    "first_seen": "2026-09-03",
+    "first_seen_at": "2026-09-03T12:14:47+09:00",
+    "last_seen": "2026-11-23",
+    "title": "HUAWEI WATCH FIT 5 スマートウォッチ 薄型軽量 大画面 GPS内蔵 10日間ロングバッテリー 通知 健康管理 心拍数 睡眠 ブラック | iPhone対応 android対応 1.82インチ画面 2500nits高輝度 ワークアウト 転倒検知 情緒測定 生理周期管理 64GBストレージ 録音機能 ランニング 防水",
+    "percent_off": 18,
+    "brand": "HUAWEI(ファーウェイ)",
+    "genre": "スマートウォッチ",
+    "price": 22300
+  },
+  "B0CLGVLBMV": {
+    "first_seen": "2026-08-23",
+    "first_seen_at": "2026-08-23T20:37:59+09:00",
+    "last_seen": "2026-11-23",
+    "title": "Razer ラピッドトリガー 搭載 Huntsman V3 Pro Mini JP ラピッドトリガーと調整可能なアクチュエーション搭載のアナログ ゲーミングキーボード アナログオプティカルスイッチ 調整可能なアクチュエーション 押下圧 40G 日本語配列 ハンツマン ブイスリー プロ ミニ ジェイピー【日本正規代理店保証品】 ブラック",
+    "percent_off": 26,
+    "brand": "Razer(レイザー)",
+    "genre": "キーボード・マウス",
+    "price": 20029
+  },
+  "B0CJR8Y56J": {
+    "first_seen": "2026-07-26",
+    "first_seen_at": "2026-07-26T12:00:00+09:00",
+    "last_seen": "2026-11-23",
+    "title": "ロジクール ワイヤレスキーボード PEBBLE KEYS 2 K380sGR 薄型 軽量 415g 小型 Bluetooth Logi Bolt ワイヤレス 無線 キーボード Easy-Switch 日本語配列 電池寿命36ケ月 Windows Mac iPad iOS Android Chrome K380s グラファイト 国内正規品",
+    "percent_off": 17,
+    "brand": "Logicool(ロジクール)",
+    "genre": "キーボード・マウス",
+    "price": 4373
   },
   "B0DZ8HV6RT": {
     "first_seen": "2026-11-22",
@@ -1194,16 +1275,6 @@
       }
     ]
   },
-  "B0GJSCGFTP": {
-    "first_seen": "2026-10-13",
-    "first_seen_at": "2026-10-13T14:15:16+09:00",
-    "last_seen": "2026-11-23",
-    "title": "HUAWEI Band 11 Pro GPS搭載 スマートウォッチ 薄型軽量 睡眠管理 大画面 心拍数 ロングバッテリー LINE通知 ブラック | iPhone対応 android対応 8.99mm/18g薄型軽量ボディ 2000nits高輝度 1.62インチ画面 24時間睡眠管理 ランニングモード 健康/情緒モニタリング ランニング 防水",
-    "percent_off": 16,
-    "brand": "HUAWEI(ファーウェイ)",
-    "genre": "スマートウォッチ",
-    "price": 9957
-  },
   "B0GZ294HH3": {
     "first_seen": "2026-08-16",
     "first_seen_at": "2026-08-16T00:38:29+09:00",
@@ -1213,16 +1284,6 @@
     "brand": "ガーミン(GARMIN)",
     "genre": "スマートウォッチ",
     "price": 39591
-  },
-  "B0F1FD99K8": {
-    "first_seen": "2026-09-25",
-    "first_seen_at": "2026-09-25T22:14:49+09:00",
-    "last_seen": "2026-11-23",
-    "title": "ラピッドトリガー 搭載 Razer レイザー Huntsman V3 Pro Mini JP (White Edition) ラピッドトリガーと調整可能なアクチュエーション搭載のアナログ ゲーミングキーボード アナログオプティカルスイッチ 調整可能なアクチュエーション 押下圧 40G 日本語配列 ハンツマン ブイスリー プロ ミニ ジェイピー ホワイト エディション【日本正規代理店保証品】",
-    "percent_off": 38,
-    "brand": "Razer(レイザー)",
-    "genre": "キーボード・マウス",
-    "price": 16744
   },
   "B071G7JJRL": {
     "first_seen": "2026-11-01",
@@ -1324,16 +1385,6 @@
     "genre": "充電器",
     "price": 6688
   },
-  "B0F3X9RLT6": {
-    "first_seen": "2026-11-07",
-    "first_seen_at": "2026-11-07T21:14:56+09:00",
-    "last_seen": "2026-11-23",
-    "title": "ソニー(SONY) WF-C710N グラスブルー ワイヤレスイヤホン 高性能ノイズキャンセリング Bluetoothロングバッテリー 外音取り込み IPX4防滴性能 軽量 コンパクト マルチポイント接続",
-    "percent_off": 29,
-    "brand": "Sony",
-    "genre": "ワイヤレスイヤホン",
-    "price": 12513
-  },
   "B0GR1N1QRX": {
     "first_seen": "2026-11-07",
     "first_seen_at": "2026-11-07T06:16:05+09:00",
@@ -1363,16 +1414,6 @@
     "brand": "Logicool(ロジクール)",
     "genre": "キーボード・マウス",
     "price": 2936
-  },
-  "B0DB17C63X": {
-    "first_seen": "2026-09-26",
-    "first_seen_at": "2026-09-26T00:14:56+09:00",
-    "last_seen": "2026-11-22",
-    "title": "Anker MagGo Power Bank (10000mAh, Slim) ブラック | モバイルバッテリー 10000mAh Qi2認証 ワイヤレス充電 最大出力15W マグセーフ対応 マグネット式ワイヤレス充電対応 コンパクト 薄型 小型 magsafe iPhone 18 / 17 / 16 / 15 シリーズ対応",
-    "percent_off": null,
-    "brand": "Anker",
-    "genre": "モバイルバッテリー",
-    "price": 9990
   },
   "B0CX4FKYCS": {
     "first_seen": "2026-10-10",
@@ -2145,16 +2186,6 @@
     "genre": "充電器",
     "price": 3180
   },
-  "B0F37QGJHP": {
-    "first_seen": "2026-11-19",
-    "first_seen_at": "2026-11-19T22:14:42+09:00",
-    "last_seen": "2026-11-20",
-    "title": "UGREEN Air モバイルバッテリー 10000mAh 薄型 Qi2 15W MagSafe ケーブル内蔵 iPhone18Pro対応 | 【ATL製セル×難燃技術】マグネット式ワイヤレス充電｜軽量・小型設計｜USB-C PD 30W対応 ｜パススルー充電対応｜iPhone18 Pro/17/16/15 シリーズ/ Air対応 ｜PB570｜水色",
-    "percent_off": 35,
-    "brand": "UGREEN",
-    "genre": "モバイルバッテリー",
-    "price": 5586
-  },
   "B0FQTLFFXP": {
     "first_seen": "2026-11-20",
     "first_seen_at": "2026-11-20T21:14:48+09:00",
@@ -2415,16 +2446,6 @@
     "brand": "HUAWEI(ファーウェイ)",
     "genre": "スマートウォッチ",
     "price": 16064
-  },
-  "B0CJR82M5M": {
-    "first_seen": "2026-08-04",
-    "first_seen_at": "2026-08-04T21:17:38+09:00",
-    "last_seen": "2026-11-19",
-    "title": "ロジクール ワイヤレスキーボード PEBBLE KEYS 2 K380sOW 薄型 軽量 415g 小型 Bluetooth Logi Bolt ワイヤレス 無線 キーボード Easy-Switch 日本語配列 電池寿命36ケ月 Windows Mac iPad iOS Android Chrome K380s オフホワイト 国内正規品",
-    "percent_off": 17,
-    "brand": "Logicool(ロジクール)",
-    "genre": "キーボード・マウス",
-    "price": 4373
   },
   "B0DPX84MBM": {
     "first_seen": "2026-11-10",
@@ -4862,14 +4883,6 @@
     "last_seen": "2026-11-01",
     "title": "UGREEN Air モバイルバッテリー 10000mAh 薄型 Qi2 15W MagSafe ケーブル内蔵 iPhone18Pro対応 | 【ATL製セル×難燃技術】マグネット式ワイヤレス充電｜軽量・小型設計｜USB-C PD 30W対応 ｜パススルー充電対応｜iPhone18 Pro/17/16/15 シリーズ/ Air対応｜PB570｜ ホワイト",
     "percent_off": 30,
-    "archived": true
-  },
-  "B0C5X8DP5G": {
-    "first_seen": "2026-10-31",
-    "first_seen_at": "2026-10-31T21:15:12+09:00",
-    "last_seen": "2026-11-01",
-    "title": "Amazon限定 バッファロー microSD 512GB 100MB/s U1 microSD V10 A1 RMSD-512U11HA/N",
-    "percent_off": 28,
     "archived": true
   },
   "B0D4F34SB4": {
