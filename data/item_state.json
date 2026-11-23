@@ -629,10 +629,10 @@
     "first_seen_at": "2026-11-01T02:15:45+09:00",
     "last_seen": "2026-11-23",
     "title": "ソニー(SONY) WF-C710N ブラック ワイヤレスイヤホン 高性能ノイズキャンセリング Bluetoothロングバッテリー 外音取り込み IPX4防滴性能 軽量 コンパクト マルチポイント接続",
-    "percent_off": 29,
+    "percent_off": 30,
     "brand": "Sony",
     "genre": "ワイヤレスイヤホン",
-    "price": 12576
+    "price": 12325
   },
   "B0DPX7W84T": {
     "first_seen": "2026-10-20",
@@ -673,6 +673,16 @@
     "brand": "UGREEN",
     "genre": "モバイルバッテリー",
     "price": 4186
+  },
+  "B0BVKR5J8F": {
+    "first_seen": "2026-11-23",
+    "first_seen_at": "2026-11-23T14:13:26+09:00",
+    "last_seen": "2026-11-23",
+    "title": "Anker Nano Power Bank (12W, Built-In Lightning Connector) グリーン | モバイルバッテリー 5K 5000mAh 小型 軽量 コンパクト lightning【MFi認証済/PowerIQ搭載/ライトニング端子一体型】 iPhone 14 シリーズ",
+    "percent_off": null,
+    "brand": "Anker",
+    "genre": "モバイルバッテリー",
+    "price": 4490
   },
   "B0DSPVP337": {
     "first_seen": "2026-08-29",
@@ -884,6 +894,16 @@
     "genre": "充電器",
     "price": 1390
   },
+  "B099ZNTRL5": {
+    "first_seen": "2026-10-23",
+    "first_seen_at": "2026-10-23T21:15:12+09:00",
+    "last_seen": "2026-11-23",
+    "title": "Anker Nano Charger (20W) ホワイト | USB-C 急速充電器【PSE技術基準適合/PowerIQ 3.0",
+    "percent_off": 21,
+    "brand": "Anker",
+    "genre": "充電器",
+    "price": 1340
+  },
   "B0DW2SYD5H": {
     "first_seen": "2026-08-15",
     "first_seen_at": "2026-08-15T20:37:29+09:00",
@@ -994,16 +1014,6 @@
     "genre": "スマートウォッチ",
     "price": 36800
   },
-  "B0GZ294HH3": {
-    "first_seen": "2026-08-16",
-    "first_seen_at": "2026-08-16T00:38:29+09:00",
-    "last_seen": "2026-11-23",
-    "title": "GARMIN(ガーミン)スマートウォッチ Forerunner 170 Black/Amp Yellow スマートウォッチモード 約 10 日間 高精度GPS ランニングウォッチ iOS/Android AMOLEDディスプレイ1.2インチ マラソン 軽量 防水 心拍数 睡眠スコア 健康管理 Suicaタッチ決済 Garmin Pay",
-    "percent_off": 17,
-    "brand": "ガーミン(GARMIN)",
-    "genre": "スマートウォッチ",
-    "price": 39591
-  },
   "B0GX8DRYCX": {
     "first_seen": "2026-09-03",
     "first_seen_at": "2026-09-03T12:14:47+09:00",
@@ -1023,16 +1033,6 @@
     "brand": "HUAWEI(ファーウェイ)",
     "genre": "スマートウォッチ",
     "price": 9957
-  },
-  "B0F1FD99K8": {
-    "first_seen": "2026-09-25",
-    "first_seen_at": "2026-09-25T22:14:49+09:00",
-    "last_seen": "2026-11-23",
-    "title": "ラピッドトリガー 搭載 Razer レイザー Huntsman V3 Pro Mini JP (White Edition) ラピッドトリガーと調整可能なアクチュエーション搭載のアナログ ゲーミングキーボード アナログオプティカルスイッチ 調整可能なアクチュエーション 押下圧 40G 日本語配列 ハンツマン ブイスリー プロ ミニ ジェイピー ホワイト エディション【日本正規代理店保証品】",
-    "percent_off": 38,
-    "brand": "Razer(レイザー)",
-    "genre": "キーボード・マウス",
-    "price": 16744
   },
   "B0FL6ZD3WL": {
     "first_seen": "2026-07-29",
@@ -1073,6 +1073,16 @@
     "brand": "Logicool(ロジクール)",
     "genre": "キーボード・マウス",
     "price": 3073
+  },
+  "B0CLGVLBMV": {
+    "first_seen": "2026-08-23",
+    "first_seen_at": "2026-08-23T20:37:59+09:00",
+    "last_seen": "2026-11-23",
+    "title": "Razer ラピッドトリガー 搭載 Huntsman V3 Pro Mini JP ラピッドトリガーと調整可能なアクチュエーション搭載のアナログ ゲーミングキーボード アナログオプティカルスイッチ 調整可能なアクチュエーション 押下圧 40G 日本語配列 ハンツマン ブイスリー プロ ミニ ジェイピー【日本正規代理店保証品】 ブラック",
+    "percent_off": 26,
+    "brand": "Razer(レイザー)",
+    "genre": "キーボード・マウス",
+    "price": 20029
   },
   "B0FJRCJ1SN": {
     "first_seen": "2026-07-26",
@@ -1163,6 +1173,26 @@
     "brand": "Logicool(ロジクール)",
     "genre": "キーボード・マウス",
     "price": 7000
+  },
+  "B0GZ294HH3": {
+    "first_seen": "2026-08-16",
+    "first_seen_at": "2026-08-16T00:38:29+09:00",
+    "last_seen": "2026-11-23",
+    "title": "GARMIN(ガーミン)スマートウォッチ Forerunner 170 Black/Amp Yellow スマートウォッチモード 約 10 日間 高精度GPS ランニングウォッチ iOS/Android AMOLEDディスプレイ1.2インチ マラソン 軽量 防水 心拍数 睡眠スコア 健康管理 Suicaタッチ決済 Garmin Pay",
+    "percent_off": 17,
+    "brand": "ガーミン(GARMIN)",
+    "genre": "スマートウォッチ",
+    "price": 39591
+  },
+  "B0F1FD99K8": {
+    "first_seen": "2026-09-25",
+    "first_seen_at": "2026-09-25T22:14:49+09:00",
+    "last_seen": "2026-11-23",
+    "title": "ラピッドトリガー 搭載 Razer レイザー Huntsman V3 Pro Mini JP (White Edition) ラピッドトリガーと調整可能なアクチュエーション搭載のアナログ ゲーミングキーボード アナログオプティカルスイッチ 調整可能なアクチュエーション 押下圧 40G 日本語配列 ハンツマン ブイスリー プロ ミニ ジェイピー ホワイト エディション【日本正規代理店保証品】",
+    "percent_off": 38,
+    "brand": "Razer(レイザー)",
+    "genre": "キーボード・マウス",
+    "price": 16744
   },
   "B071G7JJRL": {
     "first_seen": "2026-11-01",
@@ -1293,16 +1323,6 @@
     "brand": "Anker",
     "genre": "モバイルバッテリー",
     "price": 8990
-  },
-  "B0CLGVLBMV": {
-    "first_seen": "2026-08-23",
-    "first_seen_at": "2026-08-23T20:37:59+09:00",
-    "last_seen": "2026-11-23",
-    "title": "Razer ラピッドトリガー 搭載 Huntsman V3 Pro Mini JP ラピッドトリガーと調整可能なアクチュエーション搭載のアナログ ゲーミングキーボード アナログオプティカルスイッチ 調整可能なアクチュエーション 押下圧 40G 日本語配列 ハンツマン ブイスリー プロ ミニ ジェイピー【日本正規代理店保証品】 ブラック",
-    "percent_off": 26,
-    "brand": "Razer(レイザー)",
-    "genre": "キーボード・マウス",
-    "price": 20029
   },
   "B0CJR5FFN6": {
     "first_seen": "2026-09-27",
@@ -1743,16 +1763,6 @@
     "brand": "Anker",
     "genre": "充電器",
     "price": 3850
-  },
-  "B099ZNTRL5": {
-    "first_seen": "2026-10-23",
-    "first_seen_at": "2026-10-23T21:15:12+09:00",
-    "last_seen": "2026-11-21",
-    "title": "Anker Nano Charger (20W) ホワイト | USB-C 急速充電器【PSE技術基準適合/PowerIQ 3.0",
-    "percent_off": 21,
-    "brand": "Anker",
-    "genre": "充電器",
-    "price": 1340
   },
   "B0DK467P86": {
     "first_seen": "2026-11-21",
