@@ -471,6 +471,27 @@
     "genre": "Apple製品",
     "price": 51919
   },
+  "B0DZ895SXY": {
+    "first_seen": "2026-11-23",
+    "first_seen_at": "2026-11-23T13:14:08+09:00",
+    "last_seen": "2026-11-23",
+    "title": "Apple 11 インチ iPad (A16): 11 インチモデル、Liquid Retina ディスプレイ、128GB、Wi-Fi 6、12MP フロント/12MP バックカメラ、Touch ID、一日中使えるバ ッテリー - ブルー",
+    "percent_off": 5,
+    "brand": "Apple(アップル)",
+    "genre": "Apple製品",
+    "price": 71082,
+    "past": [
+      {
+        "first_seen": "2026-10-30",
+        "last_seen": "2026-10-31",
+        "title": "Apple 11 インチ iPad (A16): 11 インチモデル、Liquid Retina ディスプレイ、128GB、Wi-Fi 6、12MP フロント/12MP バックカメラ、Touch ID、一日中使えるバ ッテリー - ブルー",
+        "brand": null,
+        "genre": null,
+        "price": null,
+        "percent_off": 5
+      }
+    ]
+  },
   "B0DZ8HV6RT": {
     "first_seen": "2026-11-22",
     "first_seen_at": "2026-11-22T23:14:07+09:00",
@@ -611,7 +632,7 @@
     "percent_off": 29,
     "brand": "Sony",
     "genre": "ワイヤレスイヤホン",
-    "price": 12450
+    "price": 12576
   },
   "B0DPX7W84T": {
     "first_seen": "2026-10-20",
@@ -642,16 +663,6 @@
     "brand": "Sony",
     "genre": "ワイヤレスイヤホン",
     "price": 7750
-  },
-  "B071G7JJRL": {
-    "first_seen": "2026-11-01",
-    "first_seen_at": "2026-11-01T16:15:01+09:00",
-    "last_seen": "2026-11-23",
-    "title": "ソニー(SONY) 有線イヤホン MDR-EX155 : カナル型 ライトブルー MDR-EX155 L",
-    "percent_off": 16,
-    "brand": "Sony",
-    "genre": "ワイヤレスイヤホン",
-    "price": 1291
   },
   "B0F6NFHB31": {
     "first_seen": "2026-07-25",
@@ -1003,6 +1014,16 @@
     "genre": "スマートウォッチ",
     "price": 22300
   },
+  "B0GJSCGFTP": {
+    "first_seen": "2026-10-13",
+    "first_seen_at": "2026-10-13T14:15:16+09:00",
+    "last_seen": "2026-11-23",
+    "title": "HUAWEI Band 11 Pro GPS搭載 スマートウォッチ 薄型軽量 睡眠管理 大画面 心拍数 ロングバッテリー LINE通知 ブラック | iPhone対応 android対応 8.99mm/18g薄型軽量ボディ 2000nits高輝度 1.62インチ画面 24時間睡眠管理 ランニングモード 健康/情緒モニタリング ランニング 防水",
+    "percent_off": 16,
+    "brand": "HUAWEI(ファーウェイ)",
+    "genre": "スマートウォッチ",
+    "price": 9957
+  },
   "B0F1FD99K8": {
     "first_seen": "2026-09-25",
     "first_seen_at": "2026-09-25T22:14:49+09:00",
@@ -1093,16 +1114,6 @@
     "genre": "キーボード・マウス",
     "price": 39080
   },
-  "B0D9Y1J4NH": {
-    "first_seen": "2026-09-26",
-    "first_seen_at": "2026-09-26T10:14:59+09:00",
-    "last_seen": "2026-11-23",
-    "title": "【Amazon.co.jp限定】 ロジクール 静音 ワイヤレス トラックボール マウス 無線 M575SPd 国内正規品 | 筋肉緊張を軽減するエルゴノミックデザイン、Bluetooth、Logibolt、電池式（単三形乾電池x1）、windows、maOS、 iPadOS、ChromeOS、ブラック、M575、M575SP、Amazon.co.jp限定壁紙ダウンロード付き",
-    "percent_off": 19,
-    "brand": "Logicool(ロジクール)",
-    "genre": "キーボード・マウス",
-    "price": 6860
-  },
   "B08K2CHMWK": {
     "first_seen": "2026-08-04",
     "first_seen_at": "2026-08-04T18:28:41+09:00",
@@ -1142,6 +1153,26 @@
     "brand": "Logicool(ロジクール)",
     "genre": "キーボード・マウス",
     "price": 4373
+  },
+  "B0D9Y1J4NH": {
+    "first_seen": "2026-09-26",
+    "first_seen_at": "2026-09-26T10:14:59+09:00",
+    "last_seen": "2026-11-23",
+    "title": "【Amazon.co.jp限定】 ロジクール 静音 ワイヤレス トラックボール マウス 無線 M575SPd 国内正規品 | 筋肉緊張を軽減するエルゴノミックデザイン、Bluetooth、Logibolt、電池式（単三形乾電池x1）、windows、maOS、 iPadOS、ChromeOS、ブラック、M575、M575SP、Amazon.co.jp限定壁紙ダウンロード付き",
+    "percent_off": 17,
+    "brand": "Logicool(ロジクール)",
+    "genre": "キーボード・マウス",
+    "price": 7000
+  },
+  "B071G7JJRL": {
+    "first_seen": "2026-11-01",
+    "first_seen_at": "2026-11-01T16:15:01+09:00",
+    "last_seen": "2026-11-23",
+    "title": "ソニー(SONY) 有線イヤホン MDR-EX155 : カナル型 ライトブルー MDR-EX155 L",
+    "percent_off": 16,
+    "brand": "Sony",
+    "genre": "ワイヤレスイヤホン",
+    "price": 1291
   },
   "B0D9VVL9DY": {
     "first_seen": "2026-10-06",
@@ -1422,16 +1453,6 @@
     "brand": "Anker",
     "genre": "充電器",
     "price": 1090
-  },
-  "B0GJSCGFTP": {
-    "first_seen": "2026-10-13",
-    "first_seen_at": "2026-10-13T14:15:16+09:00",
-    "last_seen": "2026-11-22",
-    "title": "HUAWEI Band 11 Pro GPS搭載 スマートウォッチ 薄型軽量 睡眠管理 大画面 心拍数 ロングバッテリー LINE通知 ブラック | iPhone対応 android対応 8.99mm/18g薄型軽量ボディ 2000nits高輝度 1.62インチ画面 24時間睡眠管理 ランニングモード 健康/情緒モニタリング ランニング 防水",
-    "percent_off": 16,
-    "brand": "HUAWEI(ファーウェイ)",
-    "genre": "スマートウォッチ",
-    "price": 9929
   },
   "B0DNLVY85L": {
     "first_seen": "2026-10-01",
@@ -4861,14 +4882,6 @@
     "last_seen": "2026-10-31",
     "title": "Anker Power Bank (25000mAh, Built-In & 巻取り式USB-Cケーブル) シルバー | モバイルバッテリー 大容量/PD対応/PSE技術基準適合/機内持ち込み可/ 165W出力/ 一体型ケーブル MacBook Windows PC iPad Pro iPhone 18 / 17 / 16 / 15 Galaxy Android対応",
     "percent_off": 22,
-    "archived": true
-  },
-  "B0DZ895SXY": {
-    "first_seen": "2026-10-30",
-    "first_seen_at": "2026-10-30T20:16:01+09:00",
-    "last_seen": "2026-10-31",
-    "title": "Apple 11 インチ iPad (A16): 11 インチモデル、Liquid Retina ディスプレイ、128GB、Wi-Fi 6、12MP フロント/12MP バックカメラ、Touch ID、一日中使えるバ ッテリー - ブルー",
-    "percent_off": 5,
     "archived": true
   },
   "B0GR1RF3K9": {
