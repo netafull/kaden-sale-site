@@ -723,11 +723,11 @@
     "genre": "モバイルバッテリー",
     "price": 6280
   },
-  "B0CX4ZPLPK": {
-    "first_seen": "2026-11-23",
-    "first_seen_at": "2026-11-23T22:13:11+09:00",
+  "B0CX4C1TVK": {
+    "first_seen": "2026-07-27",
+    "first_seen_at": "2026-07-27T12:00:00+09:00",
     "last_seen": "2026-11-23",
-    "title": "Anker Power Bank (10000mAh, Fusion, Built-In USB-C ケーブル) ブルー | 10K 30W出力モバイルバッテリー搭載 30W出力USB充電器 / LEDディスプレイ/ケーブル一体型/コンセント一体型/折りたたみ式プラグ 1台3役 / iPhone 18 / 17 / 16 / 15 Android その他各種機器対応",
+    "title": "Anker Power Bank (10000mAh, Fusion, Built-In USB-C ケーブル) ブラック | 10K 30W出力モバイルバッテリー搭載 30W出力USB充電器 / LEDディスプレイ/ケーブル一体型/コンセント一体型/折りたたみ式プラグ 1台3役 / iPhone 18 / 17 / 16 / 15 Android その他各種機器対応",
     "percent_off": null,
     "brand": "Anker",
     "genre": "モバイルバッテリー",
@@ -783,11 +783,11 @@
     "genre": "充電器",
     "price": 4880
   },
-  "B0D53WHQD6": {
-    "first_seen": "2026-09-01",
-    "first_seen_at": "2026-09-01T22:14:34+09:00",
+  "B0D53VJJ7F": {
+    "first_seen": "2026-07-28",
+    "first_seen_at": "2026-07-28T12:00:00+09:00",
     "last_seen": "2026-11-23",
-    "title": "CIO NovaPort TRIOⅡ 65W 2C1A PD急速充電器 USB-C×2+USB-A×1 3台同時充電 世界最小級 (ホワイト) | ノートPC対応, MacBook対応, iPhone対応, iPad対応, Android対応, 電力を自動最適配分",
+    "title": "CIO NovaPort TRIOⅡ 65W 2C1A PD急速充電器 USB-C×2+USB-A×1 3台同時充電 世界最小級 (ブラック) | ノートPC対応, MacBook対応, iPhone対応, iPad対応, Android対応, 電力を自動最適配分",
     "percent_off": null,
     "brand": "CIO",
     "genre": "充電器",
@@ -812,6 +812,16 @@
     "brand": "Anker",
     "genre": "充電器",
     "price": 2930
+  },
+  "B0F99FCSX7": {
+    "first_seen": "2026-07-27",
+    "first_seen_at": "2026-07-27T12:00:00+09:00",
+    "last_seen": "2026-11-23",
+    "title": "Anker Nano Charger (70W, 3 Ports) ブラック | 70W USB-C急速充電器 小型で3台同時充電。USB-C2ポートとUSB-A1ポート搭載。GaN採用で持ち運びにも便利。MacBook Pro MacBook Air iPhone iPad Galaxy対応 PSE技術基準適合",
+    "percent_off": null,
+    "brand": "Anker",
+    "genre": "充電器",
+    "price": 5990
   },
   "B0BN688W42": {
     "first_seen": "2026-08-07",
@@ -983,15 +993,15 @@
     "genre": "モニター・ディスプレイ",
     "price": 49800
   },
-  "B07B7NXV4R": {
+  "B0F5WNVHH7": {
     "first_seen": "2026-07-30",
     "first_seen_at": "2026-07-30T12:00:00+09:00",
     "last_seen": "2026-11-23",
-    "title": "SwitchBot スイッチボット スイッチ ボタンに適用 指ロボット スマートスイッチ スマートホーム ワイヤレス タイマー スマホで遠隔操作 Alexa, Google Home, Siri, IFTTTなどに対応(ハブ必要) ホワイト",
-    "percent_off": 14,
-    "brand": "スイッチボット(SwitchBot)",
-    "genre": "スマートホーム",
-    "price": 4285
+    "title": "HUAWEI WATCH FIT 4 スマートウォッチ 薄型軽量 1.82インチ大画面 アウトドアに適した気圧計と測位システム 通知 フィットネス ヘルストラッカー 情緒測定 10日間ロングバッテリー iOS/Android対応 ブラック",
+    "percent_off": 33,
+    "brand": "HUAWEI(ファーウェイ)",
+    "genre": "スマートウォッチ",
+    "price": 16100
   },
   "B0GQLM2HG7": {
     "first_seen": "2026-11-18",
@@ -1032,6 +1042,16 @@
     "brand": "HUAWEI(ファーウェイ)",
     "genre": "スマートウォッチ",
     "price": 22300
+  },
+  "B0FL6ZD3WL": {
+    "first_seen": "2026-07-29",
+    "first_seen_at": "2026-07-29T12:00:00+09:00",
+    "last_seen": "2026-11-23",
+    "title": "エレコム ワイヤレスキーボード Precisionist プレシジョニスト Bluetooth 無線2.4GHz マルチペアリング4台 充電式 薄型パンタグラフ式 フルサイズ ブラック TK-PN10FMPABK",
+    "percent_off": 36,
+    "brand": "エレコム(ELECOM)",
+    "genre": "キーボード・マウス",
+    "price": 5790
   },
   "B0FL77NZXM": {
     "first_seen": "2026-07-29",
@@ -1093,25 +1113,35 @@
     "genre": "キーボード・マウス",
     "price": 39080
   },
-  "B08K2V1B28": {
-    "first_seen": "2026-11-03",
-    "first_seen_at": "2026-11-03T22:15:46+09:00",
+  "B08K2CHMWK": {
+    "first_seen": "2026-08-04",
+    "first_seen_at": "2026-08-04T18:28:41+09:00",
     "last_seen": "2026-11-23",
-    "title": "ロジクール ワイヤレスキーボード K295OW 静音 耐水 キーボード 無線 Unifying K295 オフホワイト 国内正規品 | 電池式（単4形乾電池x2）、電池寿命最大24ヶ月、Unifying USBレシーバー、テンキー、フルサイズ、8個のショートカットキー、windows10、Windows11以降、chromeOS",
+    "title": "ロジクール ワイヤレスキーボード K295GP 静音 耐水 キーボード 無線 Unifying K295 グラファイト 国内正規品 | 電池式（単4形乾電池x2）、電池寿命最大24ヶ月、Unifying USBレシーバー、テンキー、フルサイズ、8個のショートカットキー、windows10、Windows11以降、chromeOS",
     "percent_off": 18,
     "brand": "Logicool(ロジクール)",
     "genre": "キーボード・マウス",
     "price": 2709
   },
-  "B0BKPL1VKW": {
-    "first_seen": "2026-11-13",
-    "first_seen_at": "2026-11-13T21:14:48+09:00",
+  "B07DVC25R2": {
+    "first_seen": "2026-07-26",
+    "first_seen_at": "2026-07-26T12:00:00+09:00",
     "last_seen": "2026-11-23",
-    "title": "ロジクール ワイヤレスマウス 静音 無線 高速スクロール Signature M750MGR レギュラー グラファイト M750 国内正規品 | レギュラーサイズ、6ボタン、サイドボタン、電池式（単3形乾電池x1）、Easy-Switch、DPI切り替え、Bluetooth、Logi Bolt、Windows10、Windows11、macOS、iPadOS、Android、ChromeOS",
+    "title": "Logicool G ゲーミングマウス G304 LIGHTSPEED ワイヤレスマウス ブラック 軽量 99g 国内正規品 | HERO 12Kセンサー, 6個プログラムボタン, 250時間連続使用可能,PC ,windows, mac, 軽量マウス, PCゲーミングマウス,マウス, ファイナルファンタジー XIV 推奨モデル",
+    "percent_off": 18,
+    "brand": "Logicool G(ロジクール G)",
+    "genre": "キーボード・マウス",
+    "price": 4700
+  },
+  "B0BKPG58VR": {
+    "first_seen": "2026-11-08",
+    "first_seen_at": "2026-11-08T00:15:18+09:00",
+    "last_seen": "2026-11-23",
+    "title": "ロジクール ワイヤレスマウス 静音 無線 高速スクロール Signature M750LOW ラージ オフホワイト M750 国内正規品 | 手の大きめな方向け、6ボタン、サイドボタン、電池式（単3形乾電池x1）、Easy-Switch、DPI切り替え、Bluetooth、Logi Bolt、Windows10、Windows11、macOS、iPadOS、Android、ChromeOS",
     "percent_off": 17,
     "brand": "Logicool(ロジクール)",
     "genre": "キーボード・マウス",
-    "price": 4364
+    "price": 4400
   },
   "B0CJR8Y56J": {
     "first_seen": "2026-07-26",
@@ -1132,6 +1162,56 @@
     "brand": "Logicool(ロジクール)",
     "genre": "キーボード・マウス",
     "price": 7000
+  },
+  "B0CX4ZPLPK": {
+    "first_seen": "2026-11-23",
+    "first_seen_at": "2026-11-23T22:13:11+09:00",
+    "last_seen": "2026-11-23",
+    "title": "Anker Power Bank (10000mAh, Fusion, Built-In USB-C ケーブル) ブルー | 10K 30W出力モバイルバッテリー搭載 30W出力USB充電器 / LEDディスプレイ/ケーブル一体型/コンセント一体型/折りたたみ式プラグ 1台3役 / iPhone 18 / 17 / 16 / 15 Android その他各種機器対応",
+    "percent_off": null,
+    "brand": "Anker",
+    "genre": "モバイルバッテリー",
+    "price": 8990
+  },
+  "B0D53WHQD6": {
+    "first_seen": "2026-09-01",
+    "first_seen_at": "2026-09-01T22:14:34+09:00",
+    "last_seen": "2026-11-23",
+    "title": "CIO NovaPort TRIOⅡ 65W 2C1A PD急速充電器 USB-C×2+USB-A×1 3台同時充電 世界最小級 (ホワイト) | ノートPC対応, MacBook対応, iPhone対応, iPad対応, Android対応, 電力を自動最適配分",
+    "percent_off": null,
+    "brand": "CIO",
+    "genre": "充電器",
+    "price": 6589
+  },
+  "B07B7NXV4R": {
+    "first_seen": "2026-07-30",
+    "first_seen_at": "2026-07-30T12:00:00+09:00",
+    "last_seen": "2026-11-23",
+    "title": "SwitchBot スイッチボット スイッチ ボタンに適用 指ロボット スマートスイッチ スマートホーム ワイヤレス タイマー スマホで遠隔操作 Alexa, Google Home, Siri, IFTTTなどに対応(ハブ必要) ホワイト",
+    "percent_off": 14,
+    "brand": "スイッチボット(SwitchBot)",
+    "genre": "スマートホーム",
+    "price": 4285
+  },
+  "B08K2V1B28": {
+    "first_seen": "2026-11-03",
+    "first_seen_at": "2026-11-03T22:15:46+09:00",
+    "last_seen": "2026-11-23",
+    "title": "ロジクール ワイヤレスキーボード K295OW 静音 耐水 キーボード 無線 Unifying K295 オフホワイト 国内正規品 | 電池式（単4形乾電池x2）、電池寿命最大24ヶ月、Unifying USBレシーバー、テンキー、フルサイズ、8個のショートカットキー、windows10、Windows11以降、chromeOS",
+    "percent_off": 18,
+    "brand": "Logicool(ロジクール)",
+    "genre": "キーボード・マウス",
+    "price": 2709
+  },
+  "B0BKPL1VKW": {
+    "first_seen": "2026-11-13",
+    "first_seen_at": "2026-11-13T21:14:48+09:00",
+    "last_seen": "2026-11-23",
+    "title": "ロジクール ワイヤレスマウス 静音 無線 高速スクロール Signature M750MGR レギュラー グラファイト M750 国内正規品 | レギュラーサイズ、6ボタン、サイドボタン、電池式（単3形乾電池x1）、Easy-Switch、DPI切り替え、Bluetooth、Logi Bolt、Windows10、Windows11、macOS、iPadOS、Android、ChromeOS",
+    "percent_off": 17,
+    "brand": "Logicool(ロジクール)",
+    "genre": "キーボード・マウス",
+    "price": 4364
   },
   "B0F3X9RLT6": {
     "first_seen": "2026-11-07",
@@ -1162,26 +1242,6 @@
     "brand": "UGREEN",
     "genre": "モバイルバッテリー",
     "price": 5586
-  },
-  "B0CX4C1TVK": {
-    "first_seen": "2026-07-27",
-    "first_seen_at": "2026-07-27T12:00:00+09:00",
-    "last_seen": "2026-11-23",
-    "title": "Anker Power Bank (10000mAh, Fusion, Built-In USB-C ケーブル) ブラック | 10K 30W出力モバイルバッテリー搭載 30W出力USB充電器 / LEDディスプレイ/ケーブル一体型/コンセント一体型/折りたたみ式プラグ 1台3役 / iPhone 18 / 17 / 16 / 15 Android その他各種機器対応",
-    "percent_off": null,
-    "brand": "Anker",
-    "genre": "モバイルバッテリー",
-    "price": 8990
-  },
-  "B0D53VJJ7F": {
-    "first_seen": "2026-07-28",
-    "first_seen_at": "2026-07-28T12:00:00+09:00",
-    "last_seen": "2026-11-23",
-    "title": "CIO NovaPort TRIOⅡ 65W 2C1A PD急速充電器 USB-C×2+USB-A×1 3台同時充電 世界最小級 (ブラック) | ノートPC対応, MacBook対応, iPhone対応, iPad対応, Android対応, 電力を自動最適配分",
-    "percent_off": null,
-    "brand": "CIO",
-    "genre": "充電器",
-    "price": 6589
   },
   "B091BGMKYS": {
     "first_seen": "2026-07-27",
@@ -1254,16 +1314,6 @@
     "genre": "キーボード・マウス",
     "price": 16744
   },
-  "B0FL6ZD3WL": {
-    "first_seen": "2026-07-29",
-    "first_seen_at": "2026-07-29T12:00:00+09:00",
-    "last_seen": "2026-11-23",
-    "title": "エレコム ワイヤレスキーボード Precisionist プレシジョニスト Bluetooth 無線2.4GHz マルチペアリング4台 充電式 薄型パンタグラフ式 フルサイズ ブラック TK-PN10FMPABK",
-    "percent_off": 36,
-    "brand": "エレコム(ELECOM)",
-    "genre": "キーボード・マウス",
-    "price": 5790
-  },
   "B08K2RGTHY": {
     "first_seen": "2026-07-26",
     "first_seen_at": "2026-07-26T12:00:00+09:00",
@@ -1293,26 +1343,6 @@
     "brand": "Logicool(ロジクール)",
     "genre": "キーボード・マウス",
     "price": 2936
-  },
-  "B08K2CHMWK": {
-    "first_seen": "2026-08-04",
-    "first_seen_at": "2026-08-04T18:28:41+09:00",
-    "last_seen": "2026-11-23",
-    "title": "ロジクール ワイヤレスキーボード K295GP 静音 耐水 キーボード 無線 Unifying K295 グラファイト 国内正規品 | 電池式（単4形乾電池x2）、電池寿命最大24ヶ月、Unifying USBレシーバー、テンキー、フルサイズ、8個のショートカットキー、windows10、Windows11以降、chromeOS",
-    "percent_off": 18,
-    "brand": "Logicool(ロジクール)",
-    "genre": "キーボード・マウス",
-    "price": 2709
-  },
-  "B07DVC25R2": {
-    "first_seen": "2026-07-26",
-    "first_seen_at": "2026-07-26T12:00:00+09:00",
-    "last_seen": "2026-11-23",
-    "title": "Logicool G ゲーミングマウス G304 LIGHTSPEED ワイヤレスマウス ブラック 軽量 99g 国内正規品 | HERO 12Kセンサー, 6個プログラムボタン, 250時間連続使用可能,PC ,windows, mac, 軽量マウス, PCゲーミングマウス,マウス, ファイナルファンタジー XIV 推奨モデル",
-    "percent_off": 18,
-    "brand": "Logicool G(ロジクール G)",
-    "genre": "キーボード・マウス",
-    "price": 4700
   },
   "B0CJR82M5M": {
     "first_seen": "2026-08-04",
@@ -1765,16 +1795,6 @@
     "genre": "キーボード・マウス",
     "price": 11000
   },
-  "B0BKPG58VR": {
-    "first_seen": "2026-11-08",
-    "first_seen_at": "2026-11-08T00:15:18+09:00",
-    "last_seen": "2026-11-21",
-    "title": "ロジクール ワイヤレスマウス 静音 無線 高速スクロール Signature M750LOW ラージ オフホワイト M750 国内正規品 | 手の大きめな方向け、6ボタン、サイドボタン、電池式（単3形乾電池x1）、Easy-Switch、DPI切り替え、Bluetooth、Logi Bolt、Windows10、Windows11、macOS、iPadOS、Android、ChromeOS",
-    "percent_off": 17,
-    "brand": "Logicool(ロジクール)",
-    "genre": "キーボード・マウス",
-    "price": 4400
-  },
   "B0DGJBNYVY": {
     "first_seen": "2026-09-05",
     "first_seen_at": "2026-09-05T08:14:38+09:00",
@@ -1784,16 +1804,6 @@
     "brand": "Apple(アップル)",
     "genre": "Apple製品",
     "price": 24222
-  },
-  "B0F5WNVHH7": {
-    "first_seen": "2026-07-30",
-    "first_seen_at": "2026-07-30T12:00:00+09:00",
-    "last_seen": "2026-11-21",
-    "title": "HUAWEI WATCH FIT 4 スマートウォッチ 薄型軽量 1.82インチ大画面 アウトドアに適した気圧計と測位システム 通知 フィットネス ヘルストラッカー 情緒測定 10日間ロングバッテリー iOS/Android対応 ブラック",
-    "percent_off": 32,
-    "brand": "HUAWEI(ファーウェイ)",
-    "genre": "スマートウォッチ",
-    "price": 16323
   },
   "B0H33PTLSH": {
     "first_seen": "2026-11-14",
@@ -1844,16 +1854,6 @@
     "brand": "CIO",
     "genre": "モバイルバッテリー",
     "price": 6980
-  },
-  "B0F99FCSX7": {
-    "first_seen": "2026-07-27",
-    "first_seen_at": "2026-07-27T12:00:00+09:00",
-    "last_seen": "2026-11-21",
-    "title": "Anker Nano Charger (70W, 3 Ports) ブラック | 70W USB-C急速充電器 小型で3台同時充電。USB-C2ポートとUSB-A1ポート搭載。GaN採用で持ち運びにも便利。MacBook Pro MacBook Air iPhone iPad Galaxy対応 PSE技術基準適合",
-    "percent_off": 36,
-    "brand": "Anker",
-    "genre": "充電器",
-    "price": 3850
   },
   "B0DK467P86": {
     "first_seen": "2026-11-21",
