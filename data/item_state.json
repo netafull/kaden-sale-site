@@ -512,6 +512,26 @@
       }
     ]
   },
+  "B0GR1NTKL9": {
+    "first_seen": "2026-11-24",
+    "first_seen_at": "2026-11-24T10:13:28+09:00",
+    "last_seen": "2026-11-24",
+    "title": "Apple 2026 MacBook Pro 18コアCPU、20コアGPUのM5 Proチップ搭載ノートパソコン：AIのために設計、14.2インチLiquid Retina XDRディスプレイ、24GBユニファイドメモリ、2TBのSSDストレージ - シルバー",
+    "percent_off": 6,
+    "brand": "Apple(アップル)",
+    "genre": "Apple製品",
+    "price": 516812
+  },
+  "B0GRTST8MJ": {
+    "first_seen": "2026-11-24",
+    "first_seen_at": "2026-11-24T10:13:28+09:00",
+    "last_seen": "2026-11-24",
+    "title": "Apple 2026 MacBook Pro 18コアCPU、20コアGPUのM5 Proチップ搭載ノートパソコン：AIのために設計、14.2インチLiquid Retina XDRディスプレイ、24GBユニファイドメモリ、2TBのSSDストレージ - シルバー + 3年延長 AppleCare+ for 14インチMacBook Pro(M5 Pro/M5 Max)|ダウンロード版",
+    "percent_off": 6,
+    "brand": "Apple(アップル)",
+    "genre": "Apple製品",
+    "price": 564612
+  },
   "B0GQWBTXPR": {
     "first_seen": "2026-10-26",
     "first_seen_at": "2026-10-26T22:25:29+09:00",
@@ -752,16 +772,6 @@
     "brand": "Anker",
     "genre": "モバイルバッテリー",
     "price": 7990
-  },
-  "B0FTZ63967": {
-    "first_seen": "2026-11-21",
-    "first_seen_at": "2026-11-21T11:13:11+09:00",
-    "last_seen": "2026-11-24",
-    "title": "CIO 半固体モバイルバッテリー 10000mAh SMARTCOBY Ex05 Wireless2.2 Pro CABLE SS10K (ブラック) | iPhone18 Pro対応, Qi2.2対応, 着脱可能ケーブル内蔵,3台同時充電可能, 35W急速充電",
-    "percent_off": null,
-    "brand": "CIO",
-    "genre": "モバイルバッテリー",
-    "price": 8980
   },
   "B098SQSRRV": {
     "first_seen": "2026-07-31",
@@ -1021,7 +1031,7 @@
     "percent_off": 24,
     "brand": "HUAWEI(ファーウェイ)",
     "genre": "スマートウォッチ",
-    "price": 36800
+    "price": 36380
   },
   "B0GZ294HH3": {
     "first_seen": "2026-08-16",
@@ -1192,6 +1202,16 @@
     "brand": "Logicool(ロジクール)",
     "genre": "キーボード・マウス",
     "price": 7150
+  },
+  "B0FTZ63967": {
+    "first_seen": "2026-11-21",
+    "first_seen_at": "2026-11-21T11:13:11+09:00",
+    "last_seen": "2026-11-24",
+    "title": "CIO 半固体モバイルバッテリー 10000mAh SMARTCOBY Ex05 Wireless2.2 Pro CABLE SS10K (ブラック) | iPhone18 Pro対応, Qi2.2対応, 着脱可能ケーブル内蔵,3台同時充電可能, 35W急速充電",
+    "percent_off": null,
+    "brand": "CIO",
+    "genre": "モバイルバッテリー",
+    "price": 8980
   },
   "B07B7NXV4R": {
     "first_seen": "2026-07-30",
