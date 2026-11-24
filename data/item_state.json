@@ -1,4 +1,14 @@
 {
+  "B0DGJBNYVY": {
+    "first_seen": "2026-09-05",
+    "first_seen_at": "2026-09-05T08:14:38+09:00",
+    "last_seen": "2026-11-25",
+    "title": "Apple AirPods 4 アクティブノイズ キャンセリング搭載、ワイヤレスイヤホン、Bluetooth 5.3、ライブ翻訳、適応型オーディオ、外部音取り込みモード、パーソナライズされた空間オーディオ、USB-C充電ケース、ワイヤレス充電、H2チップ、防塵性能と耐汗耐水性能、「探す」対応、Qi充電",
+    "percent_off": 39,
+    "brand": "Apple(アップル)",
+    "genre": "Apple製品",
+    "price": 20000
+  },
   "B0DZ7YJC17": {
     "first_seen": "2026-10-26",
     "first_seen_at": "2026-10-26T22:25:29+09:00",
@@ -663,6 +673,16 @@
     "genre": "ワイヤレスイヤホン",
     "price": 2780
   },
+  "B0DDKHF9XY": {
+    "first_seen": "2026-08-16",
+    "first_seen_at": "2026-08-16T23:40:53+09:00",
+    "last_seen": "2026-11-25",
+    "title": "ソニー(SONY) 完全ワイヤレスイヤホン WF-C510 / 軽量小型4.6g / 高精度通話品質/外音取り込み対応/マルチポイント対応 / IPX4防滴性能 / ブラック/WF-C510 BC",
+    "percent_off": 23,
+    "brand": "Sony",
+    "genre": "ワイヤレスイヤホン",
+    "price": 7650
+  },
   "B0F6NFHB31": {
     "first_seen": "2026-07-25",
     "first_seen_at": "2026-07-25T12:00:00+09:00",
@@ -703,16 +723,6 @@
     "genre": "モバイルバッテリー",
     "price": 2979
   },
-  "B0DB17C63X": {
-    "first_seen": "2026-09-26",
-    "first_seen_at": "2026-09-26T00:14:56+09:00",
-    "last_seen": "2026-11-25",
-    "title": "Anker MagGo Power Bank (10000mAh, Slim) ブラック | モバイルバッテリー 10000mAh Qi2認証 ワイヤレス充電 最大出力15W マグセーフ対応 マグネット式ワイヤレス充電対応 コンパクト 薄型 小型 magsafe iPhone 18 / 17 / 16 / 15 シリーズ対応",
-    "percent_off": null,
-    "brand": "Anker",
-    "genre": "モバイルバッテリー",
-    "price": 9990
-  },
   "B0GMX4WKYG": {
     "first_seen": "2026-11-23",
     "first_seen_at": "2026-11-23T16:13:07+09:00",
@@ -728,16 +738,6 @@
     "first_seen_at": "2026-07-27T12:00:00+09:00",
     "last_seen": "2026-11-25",
     "title": "Anker Power Bank (10000mAh, Fusion, Built-In USB-C ケーブル) ブラック | 10K 30W出力モバイルバッテリー搭載 30W出力USB充電器 / LEDディスプレイ/ケーブル一体型/コンセント一体型/折りたたみ式プラグ 1台3役 / iPhone 18 / 17 / 16 / 15 Android その他各種機器対応",
-    "percent_off": null,
-    "brand": "Anker",
-    "genre": "モバイルバッテリー",
-    "price": 8990
-  },
-  "B0CX4FKYCS": {
-    "first_seen": "2026-10-10",
-    "first_seen_at": "2026-10-10T23:14:49+09:00",
-    "last_seen": "2026-11-25",
-    "title": "Anker Power Bank (10000mAh, Fusion, Built-In USB-C ケーブル) ホワイト | 10K 30W出力モバイルバッテリー搭載 30W出力USB充電器 / LEDディスプレイ/ケーブル一体型/コンセント一体型/折りたたみ式プラグ 1台3役 / iPhone 18 / 17 / 16 / 15 Android その他各種機器対応",
     "percent_off": null,
     "brand": "Anker",
     "genre": "モバイルバッテリー",
@@ -873,6 +873,16 @@
     "genre": "充電器",
     "price": 3350
   },
+  "B091BGMKYS": {
+    "first_seen": "2026-07-27",
+    "first_seen_at": "2026-07-27T12:00:00+09:00",
+    "last_seen": "2026-11-25",
+    "title": "UGREEN Nexode 急速 充電器 65W Type-C 2C1A 3ポート PD/PPS 4.5A/QC3.0/SCP/FCP対応 折り畳み式 | 3台同時充電 USB-C *2とUSB-A*1 GaNII技術 iPhone18/17/16/15/14/MacBook/iPad/Galaxy/Android/その他USB-Cデバイス PSE技術基準適合[2022レッド・ドット・デザイン賞]",
+    "percent_off": null,
+    "brand": "UGREEN",
+    "genre": "充電器",
+    "price": 4380
+  },
   "B0CH7QDDMS": {
     "first_seen": "2026-11-20",
     "first_seen_at": "2026-11-20T13:15:25+09:00",
@@ -892,6 +902,16 @@
     "brand": "Anker",
     "genre": "充電器",
     "price": 2490
+  },
+  "B0DG93MZCR": {
+    "first_seen": "2026-07-27",
+    "first_seen_at": "2026-07-27T12:00:00+09:00",
+    "last_seen": "2026-11-25",
+    "title": "UGREEN PD充電器 type-c 30W 2*USB-C+1*USB-A GaN PSE適合/PD3.0 タイプc充電器 GaNⅡ type c | iphone18/17/16/15/14/13/iPad/GalaxyS25-S10/Google Pixel/AirPods/タブレット その他各種機器対応などに対応",
+    "percent_off": null,
+    "brand": "UGREEN",
+    "genre": "充電器",
+    "price": 2180
   },
   "B0DM8WZB8M": {
     "first_seen": "2026-10-26",
@@ -1213,6 +1233,26 @@
     "genre": "エアフライヤー",
     "price": 9800
   },
+  "B0DB17C63X": {
+    "first_seen": "2026-09-26",
+    "first_seen_at": "2026-09-26T00:14:56+09:00",
+    "last_seen": "2026-11-25",
+    "title": "Anker MagGo Power Bank (10000mAh, Slim) ブラック | モバイルバッテリー 10000mAh Qi2認証 ワイヤレス充電 最大出力15W マグセーフ対応 マグネット式ワイヤレス充電対応 コンパクト 薄型 小型 magsafe iPhone 18 / 17 / 16 / 15 シリーズ対応",
+    "percent_off": null,
+    "brand": "Anker",
+    "genre": "モバイルバッテリー",
+    "price": 9990
+  },
+  "B0CX4FKYCS": {
+    "first_seen": "2026-10-10",
+    "first_seen_at": "2026-10-10T23:14:49+09:00",
+    "last_seen": "2026-11-25",
+    "title": "Anker Power Bank (10000mAh, Fusion, Built-In USB-C ケーブル) ホワイト | 10K 30W出力モバイルバッテリー搭載 30W出力USB充電器 / LEDディスプレイ/ケーブル一体型/コンセント一体型/折りたたみ式プラグ 1台3役 / iPhone 18 / 17 / 16 / 15 Android その他各種機器対応",
+    "percent_off": null,
+    "brand": "Anker",
+    "genre": "モバイルバッテリー",
+    "price": 8990
+  },
   "B0F6NC41DZ": {
     "first_seen": "2026-08-06",
     "first_seen_at": "2026-08-06T21:18:24+09:00",
@@ -1242,26 +1282,6 @@
     "brand": "UGREEN",
     "genre": "充電器",
     "price": 2997
-  },
-  "B091BGMKYS": {
-    "first_seen": "2026-07-27",
-    "first_seen_at": "2026-07-27T12:00:00+09:00",
-    "last_seen": "2026-11-24",
-    "title": "UGREEN Nexode 急速 充電器 65W Type-C 2C1A 3ポート PD/PPS 4.5A/QC3.0/SCP/FCP対応 折り畳み式 | 3台同時充電 USB-C *2とUSB-A*1 GaNII技術 iPhone18/17/16/15/14/MacBook/iPad/Galaxy/Android/その他USB-Cデバイス PSE技術基準適合[2022レッド・ドット・デザイン賞]",
-    "percent_off": 32,
-    "brand": "UGREEN",
-    "genre": "充電器",
-    "price": 2979
-  },
-  "B0DG93MZCR": {
-    "first_seen": "2026-07-27",
-    "first_seen_at": "2026-07-27T12:00:00+09:00",
-    "last_seen": "2026-11-24",
-    "title": "UGREEN PD充電器 type-c 30W 2*USB-C+1*USB-A GaN PSE適合/PD3.0 タイプc充電器 GaNⅡ type c | iphone18/17/16/15/14/13/iPad/GalaxyS25-S10/Google Pixel/AirPods/タブレット その他各種機器対応などに対応",
-    "percent_off": 25,
-    "brand": "UGREEN",
-    "genre": "充電器",
-    "price": 1484
   },
   "B09BJVQMY9": {
     "first_seen": "2026-10-21",
@@ -1392,16 +1412,6 @@
     "brand": "Logicool(ロジクール)",
     "genre": "キーボード・マウス",
     "price": 7150
-  },
-  "B0DDKHF9XY": {
-    "first_seen": "2026-08-16",
-    "first_seen_at": "2026-08-16T23:40:53+09:00",
-    "last_seen": "2026-11-24",
-    "title": "ソニー(SONY) 完全ワイヤレスイヤホン WF-C510 / 軽量小型4.6g / 高精度通話品質/外音取り込み対応/マルチポイント対応 / IPX4防滴性能 / ブラック/WF-C510 BC",
-    "percent_off": 22,
-    "brand": "Sony",
-    "genre": "ワイヤレスイヤホン",
-    "price": 7722
   },
   "B0GGGMH2M2": {
     "first_seen": "2026-11-22",
@@ -2025,16 +2035,6 @@
     "brand": "Logicool G(ロジクール G)",
     "genre": "キーボード・マウス",
     "price": 11000
-  },
-  "B0DGJBNYVY": {
-    "first_seen": "2026-09-05",
-    "first_seen_at": "2026-09-05T08:14:38+09:00",
-    "last_seen": "2026-11-21",
-    "title": "Apple AirPods 4 アクティブノイズ キャンセリング搭載、ワイヤレスイヤホン、Bluetooth 5.3、ライブ翻訳、適応型オーディオ、外部音取り込みモード、パーソナライズされた空間オーディオ、USB-C充電ケース、ワイヤレス充電、H2チップ、防塵性能と耐汗耐水性能、「探す」対応、Qi充電",
-    "percent_off": 26,
-    "brand": "Apple(アップル)",
-    "genre": "Apple製品",
-    "price": 24222
   },
   "B0H33PTLSH": {
     "first_seen": "2026-11-14",
