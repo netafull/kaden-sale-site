@@ -933,8 +933,8 @@
    "members": {
     "B0DZ7YJC17": {
      "last_seen": "2026-11-25",
-     "pct": 37,
-     "points_pct": 0
+     "pct": 0,
+     "points_pct": 1
     },
     "B0DZ84G8H1": {
      "last_seen": "2026-11-25",
@@ -1636,8 +1636,8 @@
     },
     "B0FQG21TRG": {
      "last_seen": "2026-11-25",
-     "pct": 31,
-     "points_pct": 0
+     "pct": 0,
+     "points_pct": 1
     },
     "B0FQG75VGH": {
      "last_seen": "2026-11-25",
@@ -1661,7 +1661,7 @@
     },
     "B0FQGWJXBK": {
      "last_seen": "2026-11-25",
-     "pct": 37,
+     "pct": 36,
      "points_pct": 0
     },
     "B0FQGY7V77": {
@@ -2534,7 +2534,7 @@
     "B0FQFQDN6K": {
      "last_seen": "2026-11-25",
      "pct": 0,
-     "points_pct": 7
+     "points_pct": 1
     },
     "B0FRZ3SZWX": {
      "last_seen": "2026-11-25",

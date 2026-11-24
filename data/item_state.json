@@ -1,14 +1,4 @@
 {
-  "B0DZ7YJC17": {
-    "first_seen": "2026-10-26",
-    "first_seen_at": "2026-10-26T22:25:29+09:00",
-    "last_seen": "2026-11-25",
-    "title": "Apple 11 イン チ iPad Air (M4) 用 Apple Magic Keyboard ケース: 快適にタイピングできるキー ボード、内蔵トラックパッド、中国語(注音) - ホワイト",
-    "percent_off": 37,
-    "brand": "Apple(アップル)",
-    "genre": "Apple製品",
-    "price": 32503
-  },
   "B0FWDCJWWL": {
     "first_seen": "2026-11-24",
     "first_seen_at": "2026-11-24T06:13:28+09:00",
@@ -350,16 +340,6 @@
     "brand": "Apple(アップル)",
     "genre": "Apple製品",
     "price": 71800
-  },
-  "B0FQFQDN6K": {
-    "first_seen": "2026-10-13",
-    "first_seen_at": "2026-10-13T00:16:25+09:00",
-    "last_seen": "2026-11-25",
-    "title": "Apple AirPods Pro 3 ワイヤレスイヤホン、アクティブノイズキャンセリング、ライブ翻訳、心拍センサー、補聴機能、Bluetoothヘッドホン、空間オーディオ サウンド、USB-C充電ケース、防塵性能と耐汗耐水性能、「探す」対応、Qi充電",
-    "percent_off": null,
-    "brand": "Apple(アップル)",
-    "genre": "Apple製品",
-    "price": 42800
   },
   "B0GQW2939K": {
     "first_seen": "2026-10-31",
@@ -1232,6 +1212,26 @@
     "brand": "アイリスオーヤマ(IRIS OHYAMA)",
     "genre": "エアフライヤー",
     "price": 9800
+  },
+  "B0DZ7YJC17": {
+    "first_seen": "2026-10-26",
+    "first_seen_at": "2026-10-26T22:25:29+09:00",
+    "last_seen": "2026-11-25",
+    "title": "Apple 11 イン チ iPad Air (M4) 用 Apple Magic Keyboard ケース: 快適にタイピングできるキー ボード、内蔵トラックパッド、中国語(注音) - ホワイト",
+    "percent_off": 37,
+    "brand": "Apple(アップル)",
+    "genre": "Apple製品",
+    "price": 32503
+  },
+  "B0FQFQDN6K": {
+    "first_seen": "2026-10-13",
+    "first_seen_at": "2026-10-13T00:16:25+09:00",
+    "last_seen": "2026-11-25",
+    "title": "Apple AirPods Pro 3 ワイヤレスイヤホン、アクティブノイズキャンセリング、ライブ翻訳、心拍センサー、補聴機能、Bluetoothヘッドホン、空間オーディオ サウンド、USB-C充電ケース、防塵性能と耐汗耐水性能、「探す」対応、Qi充電",
+    "percent_off": null,
+    "brand": "Apple(アップル)",
+    "genre": "Apple製品",
+    "price": 42800
   },
   "B0DZ895SXY": {
     "first_seen": "2026-11-23",
