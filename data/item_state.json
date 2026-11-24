@@ -679,10 +679,10 @@
     "first_seen_at": "2026-08-16T23:40:53+09:00",
     "last_seen": "2026-11-24",
     "title": "ソニー(SONY) 完全ワイヤレスイヤホン WF-C510 / 軽量小型4.6g / 高精度通話品質/外音取り込み対応/マルチポイント対応 / IPX4防滴性能 / ブラック/WF-C510 BC",
-    "percent_off": 22,
+    "percent_off": 21,
     "brand": "Sony",
     "genre": "ワイヤレスイヤホン",
-    "price": 7722
+    "price": 7800
   },
   "B0F6NFHB31": {
     "first_seen": "2026-07-25",
@@ -754,16 +754,6 @@
     "genre": "モバイルバッテリー",
     "price": 14390
   },
-  "B0CXNY69DC": {
-    "first_seen": "2026-10-07",
-    "first_seen_at": "2026-10-07T00:14:58+09:00",
-    "last_seen": "2026-11-24",
-    "title": "Anker Power Bank (20000mAh, 87W, Built-In USB-C ケーブル) ブラック | モバイルバッテリー 20000mAh 87W出力 大容量 ディスプレイ USB-Cケーブル内蔵【PD/PowerIQ搭載/PSE技術基準適合/急速充電】PC iPhone 18 / 17 / 16 / 15 MacBook 各種機器対応",
-    "percent_off": 20,
-    "brand": "Anker",
-    "genre": "モバイルバッテリー",
-    "price": 7990
-  },
   "B098SQSRRV": {
     "first_seen": "2026-07-31",
     "first_seen_at": "2026-07-31T12:00:00+09:00",
@@ -793,16 +783,6 @@
     "brand": "Anker",
     "genre": "充電器",
     "price": 3989
-  },
-  "B08X11GD52": {
-    "first_seen": "2026-11-04",
-    "first_seen_at": "2026-11-04T00:15:51+09:00",
-    "last_seen": "2026-11-24",
-    "title": "Anker Nano II 65W | 最大65Wを手のひらサイズに凝縮。ノートPCからスマホまで高速充電できる小型GaN充電器。USB-C 充電器 急速充電器 65W PD GaN MacBook iPhone",
-    "percent_off": 35,
-    "brand": "Anker",
-    "genre": "充電器",
-    "price": 2930
   },
   "B0CMQK8CMJ": {
     "first_seen": "2026-08-05",
@@ -853,16 +833,6 @@
     "brand": "Anker",
     "genre": "充電器",
     "price": 2790
-  },
-  "B08NVDHCD8": {
-    "first_seen": "2026-10-21",
-    "first_seen_at": "2026-10-21T00:15:48+09:00",
-    "last_seen": "2026-11-24",
-    "title": "Anker PowerPort mini 2個セット ブラック | （USB充電器 12W 2ポート）【PSE技術基準適合/折りたたみ式プラグ/PowerIQ/超コンパクトサイズ 】iPhone iPad Android各種対応 ホワイト",
-    "percent_off": 30,
-    "brand": "Anker",
-    "genre": "充電器",
-    "price": 1750
   },
   "B0DG93MZCR": {
     "first_seen": "2026-07-27",
@@ -953,16 +923,6 @@
     "brand": "バッファロー",
     "genre": "充電器",
     "price": 2950
-  },
-  "B0GF26RSYQ": {
-    "first_seen": "2026-07-27",
-    "first_seen_at": "2026-07-27T12:00:00+09:00",
-    "last_seen": "2026-11-24",
-    "title": "Anker Nano Charger (45W, Display, スイングプラグ) ブラック | 45W USB-C急速充電器 充電状況が見えるディスプレイ搭載。iPhoneのモデルを検知し出力を最適化。180度スイングプラグ採用。iPhone iPad Galaxy MacBook Air対応 PSE技術基準適合",
-    "percent_off": 25,
-    "brand": "Anker",
-    "genre": "モニター・ディスプレイ",
-    "price": 2990
   },
   "B0F2DW782K": {
     "first_seen": "2026-11-22",
@@ -1263,6 +1223,46 @@
     "brand": "Logicool(ロジクール)",
     "genre": "キーボード・マウス",
     "price": 7150
+  },
+  "B0CXNY69DC": {
+    "first_seen": "2026-10-07",
+    "first_seen_at": "2026-10-07T00:14:58+09:00",
+    "last_seen": "2026-11-24",
+    "title": "Anker Power Bank (20000mAh, 87W, Built-In USB-C ケーブル) ブラック | モバイルバッテリー 20000mAh 87W出力 大容量 ディスプレイ USB-Cケーブル内蔵【PD/PowerIQ搭載/PSE技術基準適合/急速充電】PC iPhone 18 / 17 / 16 / 15 MacBook 各種機器対応",
+    "percent_off": 20,
+    "brand": "Anker",
+    "genre": "モバイルバッテリー",
+    "price": 7990
+  },
+  "B08X11GD52": {
+    "first_seen": "2026-11-04",
+    "first_seen_at": "2026-11-04T00:15:51+09:00",
+    "last_seen": "2026-11-24",
+    "title": "Anker Nano II 65W | 最大65Wを手のひらサイズに凝縮。ノートPCからスマホまで高速充電できる小型GaN充電器。USB-C 充電器 急速充電器 65W PD GaN MacBook iPhone",
+    "percent_off": 35,
+    "brand": "Anker",
+    "genre": "充電器",
+    "price": 2930
+  },
+  "B08NVDHCD8": {
+    "first_seen": "2026-10-21",
+    "first_seen_at": "2026-10-21T00:15:48+09:00",
+    "last_seen": "2026-11-24",
+    "title": "Anker PowerPort mini 2個セット ブラック | （USB充電器 12W 2ポート）【PSE技術基準適合/折りたたみ式プラグ/PowerIQ/超コンパクトサイズ 】iPhone iPad Android各種対応 ホワイト",
+    "percent_off": 30,
+    "brand": "Anker",
+    "genre": "充電器",
+    "price": 1750
+  },
+  "B0GF26RSYQ": {
+    "first_seen": "2026-07-27",
+    "first_seen_at": "2026-07-27T12:00:00+09:00",
+    "last_seen": "2026-11-24",
+    "title": "Anker Nano Charger (45W, Display, スイングプラグ) ブラック | 45W USB-C急速充電器 充電状況が見えるディスプレイ搭載。iPhoneのモデルを検知し出力を最適化。180度スイングプラグ採用。iPhone iPad Galaxy MacBook Air対応 PSE技術基準適合",
+    "percent_off": 25,
+    "brand": "Anker",
+    "genre": "モニター・ディスプレイ",
+    "price": 2990
   },
   "B0D3GG4M9N": {
     "first_seen": "2026-10-17",
