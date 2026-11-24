@@ -679,10 +679,10 @@
     "first_seen_at": "2026-08-16T23:40:53+09:00",
     "last_seen": "2026-11-24",
     "title": "ソニー(SONY) 完全ワイヤレスイヤホン WF-C510 / 軽量小型4.6g / 高精度通話品質/外音取り込み対応/マルチポイント対応 / IPX4防滴性能 / ブラック/WF-C510 BC",
-    "percent_off": 21,
+    "percent_off": 22,
     "brand": "Sony",
     "genre": "ワイヤレスイヤホン",
-    "price": 7800
+    "price": 7722
   },
   "B0F6NFHB31": {
     "first_seen": "2026-07-25",
@@ -874,16 +874,6 @@
     "genre": "充電器",
     "price": 1340
   },
-  "B0DW2SYD5H": {
-    "first_seen": "2026-08-15",
-    "first_seen_at": "2026-08-15T20:37:29+09:00",
-    "last_seen": "2026-11-24",
-    "title": "Anker Zolo Wireless Charger (Magnetic, Pad) ブラック | ブラック Qi2対応 マグネット式 ワイヤレス充電/ワイヤレス出力 iPhone MagSafe対応 iPhone 18 / 18 / 17 / 16 / 14 シリーズ対応 Pixel10非対応",
-    "percent_off": 20,
-    "brand": "Anker",
-    "genre": "充電器",
-    "price": 2390
-  },
   "B0G64NF1FQ": {
     "first_seen": "2026-09-16",
     "first_seen_at": "2026-09-16T01:14:30+09:00",
@@ -923,16 +913,6 @@
     "brand": "バッファロー",
     "genre": "充電器",
     "price": 2950
-  },
-  "B0F2DW782K": {
-    "first_seen": "2026-11-22",
-    "first_seen_at": "2026-11-22T17:14:15+09:00",
-    "last_seen": "2026-11-24",
-    "title": "【Amazon.co.jp限定】Dell SE2225HM-A 21.5インチ モニター | 5年保証/FHD/VA,非光沢/HDMI1.4x1,VGAx1/傾き調整",
-    "percent_off": 28,
-    "brand": "Dell",
-    "genre": "モニター・ディスプレイ",
-    "price": 10480
   },
   "B0DNKC8HXP": {
     "first_seen": "2026-08-02",
@@ -1002,7 +982,7 @@
     "percent_off": 24,
     "brand": "HUAWEI(ファーウェイ)",
     "genre": "スマートウォッチ",
-    "price": 36380
+    "price": 36800
   },
   "B0BWF162WJ": {
     "first_seen": "2026-09-21",
@@ -1223,6 +1203,36 @@
     "brand": "Logicool(ロジクール)",
     "genre": "キーボード・マウス",
     "price": 7150
+  },
+  "B0H3TMF8K4": {
+    "first_seen": "2026-10-17",
+    "first_seen_at": "2026-10-17T19:16:01+09:00",
+    "last_seen": "2026-11-24",
+    "title": "アイリスオーヤマ コンベクションオーブン オーヤマくん ノンフライヤー 2026年モデル トースター 低温調理 15L FVC-D15C-H | 大容量,パン作り,揚げ物,惣菜,焼き魚,パン,ケーキ,クッキー,食パン4枚焼き,ピザ",
+    "percent_off": 24,
+    "brand": "アイリスオーヤマ(IRIS OHYAMA)",
+    "genre": "エアフライヤー",
+    "price": 9800
+  },
+  "B0DW2SYD5H": {
+    "first_seen": "2026-08-15",
+    "first_seen_at": "2026-08-15T20:37:29+09:00",
+    "last_seen": "2026-11-24",
+    "title": "Anker Zolo Wireless Charger (Magnetic, Pad) ブラック | ブラック Qi2対応 マグネット式 ワイヤレス充電/ワイヤレス出力 iPhone MagSafe対応 iPhone 18 / 18 / 17 / 16 / 14 シリーズ対応 Pixel10非対応",
+    "percent_off": 20,
+    "brand": "Anker",
+    "genre": "充電器",
+    "price": 2390
+  },
+  "B0F2DW782K": {
+    "first_seen": "2026-11-22",
+    "first_seen_at": "2026-11-22T17:14:15+09:00",
+    "last_seen": "2026-11-24",
+    "title": "【Amazon.co.jp限定】Dell SE2225HM-A 21.5インチ モニター | 5年保証/FHD/VA,非光沢/HDMI1.4x1,VGAx1/傾き調整",
+    "percent_off": 28,
+    "brand": "Dell",
+    "genre": "モニター・ディスプレイ",
+    "price": 10480
   },
   "B0CXNY69DC": {
     "first_seen": "2026-10-07",
@@ -1665,16 +1675,6 @@
     "brand": "Apple(アップル)",
     "genre": "Apple製品",
     "price": 15639
-  },
-  "B0H3TMF8K4": {
-    "first_seen": "2026-10-17",
-    "first_seen_at": "2026-10-17T19:16:01+09:00",
-    "last_seen": "2026-11-22",
-    "title": "アイリスオーヤマ コンベクションオーブン オーヤマくん ノンフライヤー 2026年モデル トースター 低温調理 15L FVC-D15C-H | 大容量,パン作り,揚げ物,惣菜,焼き魚,パン,ケーキ,クッキー,食パン4枚焼き,ピザ",
-    "percent_off": 18,
-    "brand": "アイリスオーヤマ(IRIS OHYAMA)",
-    "genre": "エアフライヤー",
-    "price": 10700
   },
   "B0FQG2B81Z": {
     "first_seen": "2026-11-22",
