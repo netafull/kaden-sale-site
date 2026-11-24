@@ -471,16 +471,6 @@
       }
     ]
   },
-  "B0DGJL1BBJ": {
-    "first_seen": "2026-11-17",
-    "first_seen_at": "2026-11-17T11:14:58+09:00",
-    "last_seen": "2026-11-24",
-    "title": "Apple Watch Band - 46mmケース用ブラックスポーツバンド - S/M",
-    "percent_off": 5,
-    "brand": "Apple(アップル)",
-    "genre": "Apple製品",
-    "price": 7485
-  },
   "B0FWDBWC7F": {
     "first_seen": "2026-10-22",
     "first_seen_at": "2026-10-22T00:16:22+09:00",
@@ -903,16 +893,6 @@
     "genre": "充電器",
     "price": 1390
   },
-  "B099ZNTRL5": {
-    "first_seen": "2026-10-23",
-    "first_seen_at": "2026-10-23T21:15:12+09:00",
-    "last_seen": "2026-11-24",
-    "title": "Anker Nano Charger (20W) ホワイト | USB-C 急速充電器【PSE技術基準適合/PowerIQ 3.0",
-    "percent_off": 21,
-    "brand": "Anker",
-    "genre": "充電器",
-    "price": 1340
-  },
   "B0DW2SYD5H": {
     "first_seen": "2026-08-15",
     "first_seen_at": "2026-08-15T20:37:29+09:00",
@@ -1202,6 +1182,26 @@
     "brand": "Logicool(ロジクール)",
     "genre": "キーボード・マウス",
     "price": 7150
+  },
+  "B0DGJL1BBJ": {
+    "first_seen": "2026-11-17",
+    "first_seen_at": "2026-11-17T11:14:58+09:00",
+    "last_seen": "2026-11-24",
+    "title": "Apple Watch Band - 46mmケース用ブラックスポーツバンド - S/M",
+    "percent_off": 5,
+    "brand": "Apple(アップル)",
+    "genre": "Apple製品",
+    "price": 7485
+  },
+  "B099ZNTRL5": {
+    "first_seen": "2026-10-23",
+    "first_seen_at": "2026-10-23T21:15:12+09:00",
+    "last_seen": "2026-11-24",
+    "title": "Anker Nano Charger (20W) ホワイト | USB-C 急速充電器【PSE技術基準適合/PowerIQ 3.0",
+    "percent_off": 21,
+    "brand": "Anker",
+    "genre": "充電器",
+    "price": 1340
   },
   "B0FTZ63967": {
     "first_seen": "2026-11-21",
