@@ -512,6 +512,27 @@
     "genre": "Apple製品",
     "price": 51919
   },
+  "B0DZ895SXY": {
+    "first_seen": "2026-11-23",
+    "first_seen_at": "2026-11-23T13:14:08+09:00",
+    "last_seen": "2026-11-25",
+    "title": "Apple 11 インチ iPad (A16): 11 インチモデル、Liquid Retina ディスプレイ、128GB、Wi-Fi 6、12MP フロント/12MP バックカメラ、Touch ID、一日中使えるバ ッテリー - ブルー",
+    "percent_off": 5,
+    "brand": "Apple(アップル)",
+    "genre": "Apple製品",
+    "price": 71082,
+    "past": [
+      {
+        "first_seen": "2026-10-30",
+        "last_seen": "2026-10-31",
+        "title": "Apple 11 インチ iPad (A16): 11 インチモデル、Liquid Retina ディスプレイ、128GB、Wi-Fi 6、12MP フロント/12MP バックカメラ、Touch ID、一日中使えるバ ッテリー - ブルー",
+        "brand": null,
+        "genre": null,
+        "price": null,
+        "percent_off": 5
+      }
+    ]
+  },
   "B0GR1NTKL9": {
     "first_seen": "2026-11-24",
     "first_seen_at": "2026-11-24T10:13:28+09:00",
@@ -638,10 +659,10 @@
     "first_seen_at": "2026-11-01T02:15:45+09:00",
     "last_seen": "2026-11-25",
     "title": "ソニー(SONY) WF-C710N ブラック ワイヤレスイヤホン 高性能ノイズキャンセリング Bluetoothロングバッテリー 外音取り込み IPX4防滴性能 軽量 コンパクト マルチポイント接続",
-    "percent_off": 29,
+    "percent_off": 30,
     "brand": "Sony",
     "genre": "ワイヤレスイヤホン",
-    "price": 12454
+    "price": 12325
   },
   "B0DPX7W84T": {
     "first_seen": "2026-10-20",
@@ -668,10 +689,10 @@
     "first_seen_at": "2026-08-16T23:40:53+09:00",
     "last_seen": "2026-11-25",
     "title": "ソニー(SONY) 完全ワイヤレスイヤホン WF-C510 / 軽量小型4.6g / 高精度通話品質/外音取り込み対応/マルチポイント対応 / IPX4防滴性能 / ブラック/WF-C510 BC",
-    "percent_off": 22,
+    "percent_off": 21,
     "brand": "Sony",
     "genre": "ワイヤレスイヤホン",
-    "price": 7722
+    "price": 7800
   },
   "B0F6NFHB31": {
     "first_seen": "2026-07-25",
@@ -1432,27 +1453,6 @@
     "brand": "ガーミン(GARMIN)",
     "genre": "スマートウォッチ",
     "price": 118798
-  },
-  "B0DZ895SXY": {
-    "first_seen": "2026-11-23",
-    "first_seen_at": "2026-11-23T13:14:08+09:00",
-    "last_seen": "2026-11-24",
-    "title": "Apple 11 インチ iPad (A16): 11 インチモデル、Liquid Retina ディスプレイ、128GB、Wi-Fi 6、12MP フロント/12MP バックカメラ、Touch ID、一日中使えるバ ッテリー - ブルー",
-    "percent_off": 5,
-    "brand": "Apple(アップル)",
-    "genre": "Apple製品",
-    "price": 71082,
-    "past": [
-      {
-        "first_seen": "2026-10-30",
-        "last_seen": "2026-10-31",
-        "title": "Apple 11 インチ iPad (A16): 11 インチモデル、Liquid Retina ディスプレイ、128GB、Wi-Fi 6、12MP フロント/12MP バックカメラ、Touch ID、一日中使えるバ ッテリー - ブルー",
-        "brand": null,
-        "genre": null,
-        "price": null,
-        "percent_off": 5
-      }
-    ]
   },
   "B0DW2SYD5H": {
     "first_seen": "2026-08-15",
