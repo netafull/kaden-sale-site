@@ -502,27 +502,6 @@
     "genre": "Apple製品",
     "price": 51919
   },
-  "B0DZ895SXY": {
-    "first_seen": "2026-11-23",
-    "first_seen_at": "2026-11-23T13:14:08+09:00",
-    "last_seen": "2026-11-24",
-    "title": "Apple 11 インチ iPad (A16): 11 インチモデル、Liquid Retina ディスプレイ、128GB、Wi-Fi 6、12MP フロント/12MP バックカメラ、Touch ID、一日中使えるバ ッテリー - ブルー",
-    "percent_off": 5,
-    "brand": "Apple(アップル)",
-    "genre": "Apple製品",
-    "price": 71082,
-    "past": [
-      {
-        "first_seen": "2026-10-30",
-        "last_seen": "2026-10-31",
-        "title": "Apple 11 インチ iPad (A16): 11 インチモデル、Liquid Retina ディスプレイ、128GB、Wi-Fi 6、12MP フロント/12MP バックカメラ、Touch ID、一日中使えるバ ッテリー - ブルー",
-        "brand": null,
-        "genre": null,
-        "price": null,
-        "percent_off": 5
-      }
-    ]
-  },
   "B0GR1NTKL9": {
     "first_seen": "2026-11-24",
     "first_seen_at": "2026-11-24T10:13:28+09:00",
@@ -679,10 +658,10 @@
     "first_seen_at": "2026-08-16T23:40:53+09:00",
     "last_seen": "2026-11-24",
     "title": "ソニー(SONY) 完全ワイヤレスイヤホン WF-C510 / 軽量小型4.6g / 高精度通話品質/外音取り込み対応/マルチポイント対応 / IPX4防滴性能 / ブラック/WF-C510 BC",
-    "percent_off": 22,
+    "percent_off": 21,
     "brand": "Sony",
     "genre": "ワイヤレスイヤホン",
-    "price": 7722
+    "price": 7800
   },
   "B0F6NFHB31": {
     "first_seen": "2026-07-25",
@@ -833,6 +812,16 @@
     "brand": "Anker",
     "genre": "充電器",
     "price": 2790
+  },
+  "B0BF43HS1G": {
+    "first_seen": "2026-07-27",
+    "first_seen_at": "2026-07-27T12:00:00+09:00",
+    "last_seen": "2026-11-24",
+    "title": "Anker 523 Charger (Nano 3, 47W) ホワイト | 最大47W・USB-C 2ポートでスマホとタブレットを同時に急速充電。小型でもMacBook Airにも対応。USB-C 充電器 急速充電器 47W PD GaN iPhone iPad",
+    "percent_off": null,
+    "brand": "Anker",
+    "genre": "充電器",
+    "price": 3990
   },
   "B0DG93MZCR": {
     "first_seen": "2026-07-27",
@@ -1034,16 +1023,6 @@
     "genre": "スマートウォッチ",
     "price": 39591
   },
-  "B0GX8DRYCX": {
-    "first_seen": "2026-09-03",
-    "first_seen_at": "2026-09-03T12:14:47+09:00",
-    "last_seen": "2026-11-24",
-    "title": "HUAWEI WATCH FIT 5 スマートウォッチ 薄型軽量 大画面 GPS内蔵 10日間ロングバッテリー 通知 健康管理 心拍数 睡眠 ブラック | iPhone対応 android対応 1.82インチ画面 2500nits高輝度 ワークアウト 転倒検知 情緒測定 生理周期管理 64GBストレージ 録音機能 ランニング 防水",
-    "percent_off": 18,
-    "brand": "HUAWEI(ファーウェイ)",
-    "genre": "スマートウォッチ",
-    "price": 22300
-  },
   "B094VSZPPP": {
     "first_seen": "2026-10-07",
     "first_seen_at": "2026-10-07T13:15:11+09:00",
@@ -1213,6 +1192,37 @@
     "brand": "アイリスオーヤマ(IRIS OHYAMA)",
     "genre": "エアフライヤー",
     "price": 9800
+  },
+  "B0DZ895SXY": {
+    "first_seen": "2026-11-23",
+    "first_seen_at": "2026-11-23T13:14:08+09:00",
+    "last_seen": "2026-11-24",
+    "title": "Apple 11 インチ iPad (A16): 11 インチモデル、Liquid Retina ディスプレイ、128GB、Wi-Fi 6、12MP フロント/12MP バックカメラ、Touch ID、一日中使えるバ ッテリー - ブルー",
+    "percent_off": 5,
+    "brand": "Apple(アップル)",
+    "genre": "Apple製品",
+    "price": 71082,
+    "past": [
+      {
+        "first_seen": "2026-10-30",
+        "last_seen": "2026-10-31",
+        "title": "Apple 11 インチ iPad (A16): 11 インチモデル、Liquid Retina ディスプレイ、128GB、Wi-Fi 6、12MP フロント/12MP バックカメラ、Touch ID、一日中使えるバ ッテリー - ブルー",
+        "brand": null,
+        "genre": null,
+        "price": null,
+        "percent_off": 5
+      }
+    ]
+  },
+  "B0GX8DRYCX": {
+    "first_seen": "2026-09-03",
+    "first_seen_at": "2026-09-03T12:14:47+09:00",
+    "last_seen": "2026-11-24",
+    "title": "HUAWEI WATCH FIT 5 スマートウォッチ 薄型軽量 大画面 GPS内蔵 10日間ロングバッテリー 通知 健康管理 心拍数 睡眠 ブラック | iPhone対応 android対応 1.82インチ画面 2500nits高輝度 ワークアウト 転倒検知 情緒測定 生理周期管理 64GBストレージ 録音機能 ランニング 防水",
+    "percent_off": 18,
+    "brand": "HUAWEI(ファーウェイ)",
+    "genre": "スマートウォッチ",
+    "price": 22300
   },
   "B0DW2SYD5H": {
     "first_seen": "2026-08-15",
@@ -1895,16 +1905,6 @@
     "brand": "NINJA",
     "genre": "エアフライヤー",
     "price": 18000
-  },
-  "B0BF43HS1G": {
-    "first_seen": "2026-07-27",
-    "first_seen_at": "2026-07-27T12:00:00+09:00",
-    "last_seen": "2026-11-21",
-    "title": "Anker 523 Charger (Nano 3, 47W) ホワイト | 最大47W・USB-C 2ポートでスマホとタブレットを同時に急速充電。小型でもMacBook Airにも対応。USB-C 充電器 急速充電器 47W PD GaN iPhone iPad",
-    "percent_off": 30,
-    "brand": "Anker",
-    "genre": "充電器",
-    "price": 2790
   },
   "B0DNLR2NYN": {
     "first_seen": "2026-10-13",
