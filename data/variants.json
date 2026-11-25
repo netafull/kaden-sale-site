@@ -1381,7 +1381,7 @@
    },
    "genre": "Apple製品",
    "label": "Apple iPhone 17 256GB (SIMフリー)：ProMotion",
-   "last_sweep_at": "2026-11-25T12:07:20+09:00",
+   "last_sweep_at": "2026-11-25T19:07:16+09:00",
    "members": {
     "B0FQFJSMNZ": {
      "last_seen": "2026-11-25",
@@ -1431,7 +1431,7 @@
    },
    "no_variations": false,
    "seed": "B0FQG91G3M",
-   "variation_count": 8
+   "variation_count": 7
   },
   "B0FQHD1GNH": {
    "aliases": {
@@ -2054,7 +2054,7 @@
    "aliases": {},
    "genre": "Apple製品",
    "label": "Apple iPhone Air 512GB (SIMフリー)",
-   "last_sweep_at": "2026-11-25T12:07:20+09:00",
+   "last_sweep_at": "2026-11-25T19:07:16+09:00",
    "members": {
     "B0FQFHZ5KH": {
      "last_seen": "2026-11-25",
@@ -2438,7 +2438,7 @@
    },
    "genre": "Apple製品",
    "label": "Apple Watch Ultra 3(GPS + Cellularモデル)- ",
-   "last_sweep_at": "2026-11-25T12:07:20+09:00",
+   "last_sweep_at": "2026-11-25T19:07:16+09:00",
    "members": {
     "B0FQFW26JS": {
      "last_seen": "2026-11-25",
@@ -2529,7 +2529,7 @@
    "aliases": {},
    "genre": "Apple製品",
    "label": "Apple AirPods Pro 3 ワイヤレスイヤホン、アクティブノイズキャ",
-   "last_sweep_at": "2026-11-25T12:07:20+09:00",
+   "last_sweep_at": "2026-11-25T19:07:16+09:00",
    "members": {
     "B0FQFQDN6K": {
      "last_seen": "2026-11-25",
@@ -2735,7 +2735,7 @@
    },
    "genre": "Apple製品",
    "label": "Apple 2025 MacBook Pro 10 コアCPU、10 コアGPU",
-   "last_sweep_at": "2026-11-25T12:07:20+09:00",
+   "last_sweep_at": "2026-11-25T19:07:16+09:00",
    "members": {
     "B0GR1LNP9V": {
      "last_seen": "2026-11-25",
@@ -2808,22 +2808,25 @@
    "variation_count": null
   },
   "B0GQYRNZX5": {
-   "aliases": {
-    "B0GQVYHYFK": "2026-11-25"
-   },
+   "aliases": {},
    "genre": "Apple製品",
    "label": "Apple iPhone 17e 256GB：6.1インチSuper Retin",
-   "last_sweep_at": "2026-11-25T12:07:20+09:00",
+   "last_sweep_at": "2026-11-25T19:07:16+09:00",
    "members": {
     "B0GQVHLG38": {
      "last_seen": "2026-11-25",
-     "pct": 0,
-     "points_pct": 1
+     "pct": null,
+     "points_pct": null
     },
     "B0GQVTTNQW": {
      "last_seen": "2026-11-25",
      "pct": null,
      "points_pct": null
+    },
+    "B0GQVYHYFK": {
+     "last_seen": "2026-11-25",
+     "pct": 0,
+     "points_pct": 1
     },
     "B0GRTJ3BS3": {
      "last_seen": "2026-11-20",
@@ -2840,6 +2843,16 @@
      "pct": 0,
      "points_pct": 0
     },
+    "B0GRTRZLX9": {
+     "last_seen": "2026-11-25",
+     "pct": 0,
+     "points_pct": 0
+    },
+    "B0GRTS1L96": {
+     "last_seen": "2026-11-25",
+     "pct": 0,
+     "points_pct": 0
+    },
     "B0GRTS98HT": {
      "last_seen": "2026-11-25",
      "pct": 0,
@@ -2848,7 +2861,7 @@
    },
    "no_variations": false,
    "seed": "B0GQVHLG38",
-   "variation_count": 4
+   "variation_count": 5
   },
   "B0GQZ31H8T": {
    "aliases": {},
@@ -3399,7 +3412,7 @@
    },
    "genre": "Apple製品",
    "label": "Apple 2026 MacBook Air M5チップ搭載15インチノートブッ",
-   "last_sweep_at": "2026-11-25T12:07:20+09:00",
+   "last_sweep_at": "2026-11-25T19:07:16+09:00",
    "members": {
     "B0GR1JD976": {
      "last_seen": "2026-11-25",
@@ -3583,7 +3596,7 @@
    "aliases": {},
    "genre": "Apple製品",
    "label": "Apple AirPods Max 2 - スターライト",
-   "last_sweep_at": "2026-11-25T12:07:20+09:00",
+   "last_sweep_at": "2026-11-25T19:07:16+09:00",
    "members": {
     "B0GSS8DBTH": {
      "last_seen": "2026-11-25",
@@ -4024,7 +4037,7 @@
    "aliases": {},
    "genre": "Apple製品",
    "label": "Apple Watch Series 12（GPS + Cellularモデル）",
-   "last_sweep_at": "2026-11-25T12:07:20+09:00",
+   "last_sweep_at": "2026-11-25T19:07:16+09:00",
    "members": {
     "B0HJ9SBCS2": {
      "last_seen": "2026-11-25",
@@ -4170,7 +4183,7 @@
    "aliases": {},
    "genre": "Apple製品",
    "label": "Apple Watch Series 12（GPSモデル）",
-   "last_sweep_at": "2026-11-25T12:07:20+09:00",
+   "last_sweep_at": "2026-11-25T19:07:16+09:00",
    "members": {
     "B0HJ9V2FK4": {
      "last_seen": "2026-11-25",
@@ -4278,7 +4291,7 @@
    },
    "genre": "Apple製品",
    "label": "Apple Watch Ultra 4（GPS + Cellularモデル）",
-   "last_sweep_at": "2026-11-25T12:07:20+09:00",
+   "last_sweep_at": "2026-11-25T19:07:16+09:00",
    "members": {
     "B0HJ9SL1FK": {
      "last_seen": "2026-11-25",
@@ -4338,13 +4351,18 @@
   "B0HJC6FRBB": {
    "aliases": {
     "B0HJ9TVNN6": "2026-11-09",
-    "B0HJ9VQ6Q8": "2026-11-08",
-    "B0HJ9ZQ95N": "2026-11-01"
+    "B0HJ9ZQ95N": "2026-11-01",
+    "B0HJB93DHZ": "2026-11-25"
    },
    "genre": "Apple製品",
    "label": "Apple iPhone 18 Pro (256 GB) - シルバー",
-   "last_sweep_at": "2026-11-25T12:07:20+09:00",
+   "last_sweep_at": "2026-11-25T19:07:16+09:00",
    "members": {
+    "B0HJ9VQ6Q8": {
+     "last_seen": "2026-11-25",
+     "pct": 0,
+     "points_pct": 1
+    },
     "B0HJ9WH4S6": {
      "last_seen": "2026-11-22",
      "pct": 0,
@@ -4356,7 +4374,7 @@
      "points_pct": 1
     },
     "B0HJB462SW": {
-     "last_seen": "2026-11-22",
+     "last_seen": "2026-11-25",
      "pct": 0,
      "points_pct": 1
     },
@@ -4366,7 +4384,7 @@
      "points_pct": 1
     },
     "B0HJB994T4": {
-     "last_seen": "2026-11-23",
+     "last_seen": "2026-11-25",
      "pct": 0,
      "points_pct": 1
     },
@@ -4382,8 +4400,8 @@
     }
    },
    "no_variations": false,
-   "seed": "B0HJB93DHZ",
-   "variation_count": 1
+   "seed": "B0HJ9VQ6Q8",
+   "variation_count": 3
   },
   "B0HJC83N5V": {
    "aliases": {},
@@ -4399,7 +4417,7 @@
    "aliases": {},
    "genre": "Apple製品",
    "label": "ワイヤレス充電ケース付きApple AirPods 5ワイヤレスイヤーバッド",
-   "last_sweep_at": "2026-11-25T12:07:20+09:00",
+   "last_sweep_at": "2026-11-25T19:07:16+09:00",
    "members": {
     "B0HJ9VNBZ8": {
      "last_seen": "2026-11-25",
@@ -4508,7 +4526,7 @@
    "aliases": {},
    "genre": "Apple製品",
    "label": "Apple Watch Band - ミラネーゼループ - （46mm）ケース用",
-   "last_sweep_at": "2026-11-25T12:07:20+09:00",
+   "last_sweep_at": "2026-11-25T19:07:16+09:00",
    "members": {
     "B0FQFMCFQ9": {
      "last_seen": "2026-11-25",
