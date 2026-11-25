@@ -1033,6 +1033,16 @@
     "genre": "スマートウォッチ",
     "price": 46800
   },
+  "B0GQZVG4MD": {
+    "first_seen": "2026-11-10",
+    "first_seen_at": "2026-11-10T15:15:03+09:00",
+    "last_seen": "2026-11-25",
+    "title": "Ray-Ban Meta スマートグラス WAYFARER 調光レンズ IPX4防水トランスP.グレー/サファイア 50mm 0RW4012",
+    "percent_off": 13,
+    "brand": "Meta",
+    "genre": "XR・ARグラス",
+    "price": 77960
+  },
   "B0GVJG7D7K": {
     "first_seen": "2026-07-31",
     "first_seen_at": "2026-07-31T12:00:00+09:00",
@@ -1178,10 +1188,10 @@
     "first_seen_at": "2026-10-17T19:16:01+09:00",
     "last_seen": "2026-11-25",
     "title": "アイリスオーヤマ コンベクションオーブン オーヤマくん ノンフライヤー 2026年モデル トースター 低温調理 15L FVC-D15C-H | 大容量,パン作り,揚げ物,惣菜,焼き魚,パン,ケーキ,クッキー,食パン4枚焼き,ピザ",
-    "percent_off": 24,
+    "percent_off": 18,
     "brand": "アイリスオーヤマ(IRIS OHYAMA)",
     "genre": "エアフライヤー",
-    "price": 9800
+    "price": 10700
   },
   "B0DT4RGDSJ": {
     "first_seen": "2026-11-21",
@@ -3929,13 +3939,6 @@
     "last_seen": "2026-11-12",
     "title": "Anker Nano Power Bank (22.5W, Built-In USB-C Connector) ブラック | モバイルバッテリー 5000mAh 軽量 小型 コンパクト【PowerIQ搭載/USB-C一体型】 iPhone 18 / 17 / 16 / 15 シリーズ/Switch 2対応",
     "percent_off": 25
-  },
-  "B0GQZVG4MD": {
-    "first_seen": "2026-11-10",
-    "first_seen_at": "2026-11-10T15:15:03+09:00",
-    "last_seen": "2026-11-12",
-    "title": "Ray-Ban Meta スマートグラス WAYFARER 調光レンズ IPX4防水トランスP.グレー/サファイア 50mm 0RW4012",
-    "percent_off": 15
   },
   "B0FQG8K1JT": {
     "first_seen": "2026-10-31",
