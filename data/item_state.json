@@ -607,10 +607,10 @@
     "first_seen_at": "2026-08-16T23:40:53+09:00",
     "last_seen": "2026-11-26",
     "title": "ソニー(SONY) 完全ワイヤレスイヤホン WF-C510 / 軽量小型4.6g / 高精度通話品質/外音取り込み対応/マルチポイント対応 / IPX4防滴性能 / ブラック/WF-C510 BC",
-    "percent_off": 23,
+    "percent_off": 22,
     "brand": "Sony",
     "genre": "ワイヤレスイヤホン",
-    "price": 7649
+    "price": 7727
   },
   "B0F6NFHB31": {
     "first_seen": "2026-07-25",
@@ -652,15 +652,15 @@
     "genre": "充電器",
     "price": 1400
   },
-  "B0D53YVF2F": {
-    "first_seen": "2026-11-08",
-    "first_seen_at": "2026-11-08T22:14:53+09:00",
+  "B0D53WHQD6": {
+    "first_seen": "2026-09-01",
+    "first_seen_at": "2026-09-01T22:14:34+09:00",
     "last_seen": "2026-11-26",
-    "title": "CIO NovaPort TRIOⅡ 65W 3C PD急速充電器 USB-C×3 3台同時充電 軽量 世界最小級 (ホワイト) | ノートPC対応, MacBook対応, iPhone対応, iPad対応, Android対応, 電力を自動最適配分",
+    "title": "CIO NovaPort TRIOⅡ 65W 2C1A PD急速充電器 USB-C×2+USB-A×1 3台同時充電 世界最小級 (ホワイト) | ノートPC対応, MacBook対応, iPhone対応, iPad対応, Android対応, 電力を自動最適配分",
     "percent_off": null,
     "brand": "CIO",
     "genre": "充電器",
-    "price": 6688
+    "price": 6589
   },
   "B0CMQK8CMJ": {
     "first_seen": "2026-08-05",
@@ -762,16 +762,6 @@
     "genre": "充電器",
     "price": 2950
   },
-  "B0FH2981XZ": {
-    "first_seen": "2026-11-15",
-    "first_seen_at": "2026-11-15T23:15:05+09:00",
-    "last_seen": "2026-11-26",
-    "title": "Belkin Qi2 25W ワイヤレス充電器 MagSafe対応 3in1充電スタンド iPhone 18・Apple Watch対応 3台同時充電 | MagSafe充電器 Qi2公式認証、最大25W急速充電対応 冷却ファン搭載、iPhone18/17〜12、Apple Watch・AirPods対応、充電器&ケ一ブ儿付属 2年保証 サンドホワイト",
-    "percent_off": 7,
-    "brand": "Belkin",
-    "genre": "充電器",
-    "price": 16762
-  },
   "B09X7DZ9LG": {
     "first_seen": "2026-11-24",
     "first_seen_at": "2026-11-24T21:14:02+09:00",
@@ -781,6 +771,16 @@
     "brand": "SANDISK",
     "genre": "SSD・メモリーカード",
     "price": 6003
+  },
+  "B0GF26RSYQ": {
+    "first_seen": "2026-07-27",
+    "first_seen_at": "2026-07-27T12:00:00+09:00",
+    "last_seen": "2026-11-26",
+    "title": "Anker Nano Charger (45W, Display, スイングプラグ) ブラック | 45W USB-C急速充電器 充電状況が見えるディスプレイ搭載。iPhoneのモデルを検知し出力を最適化。180度スイングプラグ採用。iPhone iPad Galaxy MacBook Air対応 PSE技術基準適合",
+    "percent_off": null,
+    "brand": "Anker",
+    "genre": "モニター・ディスプレイ",
+    "price": 3990
   },
   "B0F2DW782K": {
     "first_seen": "2026-11-22",
@@ -811,6 +811,16 @@
     "brand": "アイオーデータ",
     "genre": "モニター・ディスプレイ",
     "price": 49800
+  },
+  "B0F5WNVHH7": {
+    "first_seen": "2026-07-30",
+    "first_seen_at": "2026-07-30T12:00:00+09:00",
+    "last_seen": "2026-11-26",
+    "title": "HUAWEI WATCH FIT 4 スマートウォッチ 薄型軽量 1.82インチ大画面 アウトドアに適した気圧計と測位システム 通知 フィットネス ヘルストラッカー 情緒測定 10日間ロングバッテリー iOS/Android対応 ブラック",
+    "percent_off": 33,
+    "brand": "HUAWEI(ファーウェイ)",
+    "genre": "スマートウォッチ",
+    "price": 16100
   },
   "B0GQLM2HG7": {
     "first_seen": "2026-11-18",
@@ -902,6 +912,16 @@
     "genre": "キーボード・マウス",
     "price": 44373
   },
+  "B0FJRCJ1SN": {
+    "first_seen": "2026-07-26",
+    "first_seen_at": "2026-07-26T12:00:00+09:00",
+    "last_seen": "2026-11-26",
+    "title": "【リニューアル】 エレコム ワイヤレスマウス 静音 充電式 OSMOD Six Bluetooth 無線2.4GHz両対応 2台まで接続 マルチペアリング 6ボタン ブラック M-MY35MBSABK",
+    "percent_off": 25,
+    "brand": "エレコム(ELECOM)",
+    "genre": "キーボード・マウス",
+    "price": 2990
+  },
   "B0F1FD99K8": {
     "first_seen": "2026-09-25",
     "first_seen_at": "2026-09-25T22:14:49+09:00",
@@ -952,6 +972,16 @@
     "genre": "キーボード・マウス",
     "price": 2709
   },
+  "B07DVC25R2": {
+    "first_seen": "2026-07-26",
+    "first_seen_at": "2026-07-26T12:00:00+09:00",
+    "last_seen": "2026-11-26",
+    "title": "Logicool G ゲーミングマウス G304 LIGHTSPEED ワイヤレスマウス ブラック 軽量 99g 国内正規品 | HERO 12Kセンサー, 6個プログラムボタン, 250時間連続使用可能,PC ,windows, mac, 軽量マウス, PCゲーミングマウス,マウス, ファイナルファンタジー XIV 推奨モデル",
+    "percent_off": 18,
+    "brand": "Logicool G(ロジクール G)",
+    "genre": "キーボード・マウス",
+    "price": 4700
+  },
   "B0BKPL1VKW": {
     "first_seen": "2026-11-13",
     "first_seen_at": "2026-11-13T21:14:48+09:00",
@@ -971,6 +1001,36 @@
     "brand": "Logicool(ロジクール)",
     "genre": "キーボード・マウス",
     "price": 4373
+  },
+  "B0D9Y1J4NH": {
+    "first_seen": "2026-09-26",
+    "first_seen_at": "2026-09-26T10:14:59+09:00",
+    "last_seen": "2026-11-26",
+    "title": "【Amazon.co.jp限定】 ロジクール 静音 ワイヤレス トラックボール マウス 無線 M575SPd 国内正規品 | 筋肉緊張を軽減するエルゴノミックデザイン、Bluetooth、Logibolt、電池式（単三形乾電池x1）、windows、maOS、 iPadOS、ChromeOS、ブラック、M575、M575SP、Amazon.co.jp限定壁紙ダウンロード付き",
+    "percent_off": 14,
+    "brand": "Logicool(ロジクール)",
+    "genre": "キーボード・マウス",
+    "price": 7318
+  },
+  "B0D53YVF2F": {
+    "first_seen": "2026-11-08",
+    "first_seen_at": "2026-11-08T22:14:53+09:00",
+    "last_seen": "2026-11-26",
+    "title": "CIO NovaPort TRIOⅡ 65W 3C PD急速充電器 USB-C×3 3台同時充電 軽量 世界最小級 (ホワイト) | ノートPC対応, MacBook対応, iPhone対応, iPad対応, Android対応, 電力を自動最適配分",
+    "percent_off": null,
+    "brand": "CIO",
+    "genre": "充電器",
+    "price": 6688
+  },
+  "B0FH2981XZ": {
+    "first_seen": "2026-11-15",
+    "first_seen_at": "2026-11-15T23:15:05+09:00",
+    "last_seen": "2026-11-26",
+    "title": "Belkin Qi2 25W ワイヤレス充電器 MagSafe対応 3in1充電スタンド iPhone 18・Apple Watch対応 3台同時充電 | MagSafe充電器 Qi2公式認証、最大25W急速充電対応 冷却ファン搭載、iPhone18/17〜12、Apple Watch・AirPods対応、充電器&ケ一ブ儿付属 2年保証 サンドホワイト",
+    "percent_off": 7,
+    "brand": "Belkin",
+    "genre": "充電器",
+    "price": 16762
   },
   "B0DSPVP337": {
     "first_seen": "2026-08-29",
@@ -1032,16 +1092,6 @@
     "genre": "充電器",
     "price": 3350
   },
-  "B0GF26RSYQ": {
-    "first_seen": "2026-07-27",
-    "first_seen_at": "2026-07-27T12:00:00+09:00",
-    "last_seen": "2026-11-25",
-    "title": "Anker Nano Charger (45W, Display, スイングプラグ) ブラック | 45W USB-C急速充電器 充電状況が見えるディスプレイ搭載。iPhoneのモデルを検知し出力を最適化。180度スイングプラグ採用。iPhone iPad Galaxy MacBook Air対応 PSE技術基準適合",
-    "percent_off": null,
-    "brand": "Anker",
-    "genre": "モニター・ディスプレイ",
-    "price": 3990
-  },
   "B0BWF463MW": {
     "first_seen": "2026-08-04",
     "first_seen_at": "2026-08-04T12:38:09+09:00",
@@ -1051,16 +1101,6 @@
     "brand": "ガーミン(GARMIN)",
     "genre": "スマートウォッチ",
     "price": 67800
-  },
-  "B0FJRCJ1SN": {
-    "first_seen": "2026-07-26",
-    "first_seen_at": "2026-07-26T12:00:00+09:00",
-    "last_seen": "2026-11-25",
-    "title": "【リニューアル】 エレコム ワイヤレスマウス 静音 充電式 OSMOD Six Bluetooth 無線2.4GHz両対応 2台まで接続 マルチペアリング 6ボタン ブラック M-MY35MBSABK",
-    "percent_off": 25,
-    "brand": "エレコム(ELECOM)",
-    "genre": "キーボード・マウス",
-    "price": 2990
   },
   "B0CJR74NF3": {
     "first_seen": "2026-08-13",
@@ -1172,16 +1212,6 @@
     "genre": "スマートホーム",
     "price": 4285
   },
-  "B0F5WNVHH7": {
-    "first_seen": "2026-07-30",
-    "first_seen_at": "2026-07-30T12:00:00+09:00",
-    "last_seen": "2026-11-25",
-    "title": "HUAWEI WATCH FIT 4 スマートウォッチ 薄型軽量 1.82インチ大画面 アウトドアに適した気圧計と測位システム 通知 フィットネス ヘルストラッカー 情緒測定 10日間ロングバッテリー iOS/Android対応 ブラック",
-    "percent_off": 33,
-    "brand": "HUAWEI(ファーウェイ)",
-    "genre": "スマートウォッチ",
-    "price": 16100
-  },
   "B0GX8DRYCX": {
     "first_seen": "2026-09-03",
     "first_seen_at": "2026-09-03T12:14:47+09:00",
@@ -1211,16 +1241,6 @@
     "brand": "Logicool(ロジクール)",
     "genre": "キーボード・マウス",
     "price": 2936
-  },
-  "B07DVC25R2": {
-    "first_seen": "2026-07-26",
-    "first_seen_at": "2026-07-26T12:00:00+09:00",
-    "last_seen": "2026-11-25",
-    "title": "Logicool G ゲーミングマウス G304 LIGHTSPEED ワイヤレスマウス ブラック 軽量 99g 国内正規品 | HERO 12Kセンサー, 6個プログラムボタン, 250時間連続使用可能,PC ,windows, mac, 軽量マウス, PCゲーミングマウス,マウス, ファイナルファンタジー XIV 推奨モデル",
-    "percent_off": 18,
-    "brand": "Logicool G(ロジクール G)",
-    "genre": "キーボード・マウス",
-    "price": 4700
   },
   "B0DDCR5WYQ": {
     "first_seen": "2026-11-03",
@@ -1594,16 +1614,6 @@
     "genre": "キーボード・マウス",
     "price": 4400
   },
-  "B0D9Y1J4NH": {
-    "first_seen": "2026-09-26",
-    "first_seen_at": "2026-09-26T10:14:59+09:00",
-    "last_seen": "2026-11-24",
-    "title": "【Amazon.co.jp限定】 ロジクール 静音 ワイヤレス トラックボール マウス 無線 M575SPd 国内正規品 | 筋肉緊張を軽減するエルゴノミックデザイン、Bluetooth、Logibolt、電池式（単三形乾電池x1）、windows、maOS、 iPadOS、ChromeOS、ブラック、M575、M575SP、Amazon.co.jp限定壁紙ダウンロード付き",
-    "percent_off": 16,
-    "brand": "Logicool(ロジクール)",
-    "genre": "キーボード・マウス",
-    "price": 7150
-  },
   "B0DW2SYD5H": {
     "first_seen": "2026-08-15",
     "first_seen_at": "2026-08-15T20:37:29+09:00",
@@ -1743,16 +1753,6 @@
     "brand": "Anker",
     "genre": "モバイルバッテリー",
     "price": 8990
-  },
-  "B0D53WHQD6": {
-    "first_seen": "2026-09-01",
-    "first_seen_at": "2026-09-01T22:14:34+09:00",
-    "last_seen": "2026-11-23",
-    "title": "CIO NovaPort TRIOⅡ 65W 2C1A PD急速充電器 USB-C×2+USB-A×1 3台同時充電 世界最小級 (ホワイト) | ノートPC対応, MacBook対応, iPhone対応, iPad対応, Android対応, 電力を自動最適配分",
-    "percent_off": null,
-    "brand": "CIO",
-    "genre": "充電器",
-    "price": 6589
   },
   "B08K2V1B28": {
     "first_seen": "2026-11-03",
