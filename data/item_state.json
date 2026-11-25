@@ -648,10 +648,10 @@
     "first_seen_at": "2026-08-16T23:40:53+09:00",
     "last_seen": "2026-11-25",
     "title": "ソニー(SONY) 完全ワイヤレスイヤホン WF-C510 / 軽量小型4.6g / 高精度通話品質/外音取り込み対応/マルチポイント対応 / IPX4防滴性能 / ブラック/WF-C510 BC",
-    "percent_off": 21,
+    "percent_off": 22,
     "brand": "Sony",
     "genre": "ワイヤレスイヤホン",
-    "price": 7800
+    "price": 7722
   },
   "B0F6NFHB31": {
     "first_seen": "2026-07-25",
@@ -853,6 +853,16 @@
     "genre": "充電器",
     "price": 4380
   },
+  "B0CM6BR4MR": {
+    "first_seen": "2026-11-25",
+    "first_seen_at": "2026-11-25T09:13:18+09:00",
+    "last_seen": "2026-11-25",
+    "title": "Anker MagGo Wireless Charger (Pad) ホワイト | 【Qi2対応 / マグネット式ワイヤレス充電器 / 15W】MagSafe対応 iPhone 16 / 15 / 14 / 13 シリーズ",
+    "percent_off": 19,
+    "brand": "Anker",
+    "genre": "充電器",
+    "price": 3980
+  },
   "B0CH7QDDMS": {
     "first_seen": "2026-11-20",
     "first_seen_at": "2026-11-20T13:15:25+09:00",
@@ -1002,16 +1012,6 @@
     "brand": "ガーミン(GARMIN)",
     "genre": "スマートウォッチ",
     "price": 67800
-  },
-  "B0FMDBYSQ9": {
-    "first_seen": "2026-10-17",
-    "first_seen_at": "2026-10-17T05:15:28+09:00",
-    "last_seen": "2026-11-25",
-    "title": "HUAWEI WATCH D2 ウェアラブル血圧計 LCA-B29:ブルー",
-    "percent_off": 20,
-    "brand": "HUAWEI(ファーウェイ)",
-    "genre": "スマートウォッチ",
-    "price": 47950
   },
   "B0DDCR5WYQ": {
     "first_seen": "2026-11-03",
@@ -1212,6 +1212,16 @@
     "brand": "アイリスオーヤマ(IRIS OHYAMA)",
     "genre": "エアフライヤー",
     "price": 10700
+  },
+  "B0FMDBYSQ9": {
+    "first_seen": "2026-10-17",
+    "first_seen_at": "2026-10-17T05:15:28+09:00",
+    "last_seen": "2026-11-25",
+    "title": "HUAWEI WATCH D2 ウェアラブル血圧計 LCA-B29:ブルー",
+    "percent_off": 20,
+    "brand": "HUAWEI(ファーウェイ)",
+    "genre": "スマートウォッチ",
+    "price": 47950
   },
   "B0DZ7YJC17": {
     "first_seen": "2026-10-26",
