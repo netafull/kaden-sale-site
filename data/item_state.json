@@ -648,10 +648,10 @@
     "first_seen_at": "2026-08-16T23:40:53+09:00",
     "last_seen": "2026-11-25",
     "title": "ソニー(SONY) 完全ワイヤレスイヤホン WF-C510 / 軽量小型4.6g / 高精度通話品質/外音取り込み対応/マルチポイント対応 / IPX4防滴性能 / ブラック/WF-C510 BC",
-    "percent_off": 24,
+    "percent_off": 23,
     "brand": "Sony",
     "genre": "ワイヤレスイヤホン",
-    "price": 7573
+    "price": 7649
   },
   "B0F6NFHB31": {
     "first_seen": "2026-07-25",
@@ -832,6 +832,16 @@
     "brand": "Anker",
     "genre": "充電器",
     "price": 1340
+  },
+  "B0FYFDD1WW": {
+    "first_seen": "2026-11-14",
+    "first_seen_at": "2026-11-14T01:15:03+09:00",
+    "last_seen": "2026-11-25",
+    "title": "UGREEN 160W 急速 充電器 カラーディスプレイ搭載 Type-C 4C1A 5ポート PD3.2/PPS5A/QC4対応 折り畳み式 | 5ポート USB-C*4とUSB-A*1 ワンタッチで縦横表示切替・アニメーション表示・リアルタイム充電状況確認 MacBook/iPhone18/17/16/15/14/13/Galaxy S26 Ultra/Xperia他各種対応 PSE適合",
+    "percent_off": null,
+    "brand": "UGREEN",
+    "genre": "充電器",
+    "price": 12980
   },
   "B0G64NF1FQ": {
     "first_seen": "2026-09-16",
@@ -1198,10 +1208,10 @@
     "first_seen_at": "2026-10-17T19:16:01+09:00",
     "last_seen": "2026-11-25",
     "title": "アイリスオーヤマ コンベクションオーブン オーヤマくん ノンフライヤー 2026年モデル トースター 低温調理 15L FVC-D15C-H | 大容量,パン作り,揚げ物,惣菜,焼き魚,パン,ケーキ,クッキー,食パン4枚焼き,ピザ",
-    "percent_off": 18,
+    "percent_off": 24,
     "brand": "アイリスオーヤマ(IRIS OHYAMA)",
     "genre": "エアフライヤー",
-    "price": 10700
+    "price": 9800
   },
   "B0C5CBV6L3": {
     "first_seen": "2026-10-30",
@@ -1583,16 +1593,6 @@
     "brand": "CIO",
     "genre": "モバイルバッテリー",
     "price": 8980
-  },
-  "B0FYFDD1WW": {
-    "first_seen": "2026-11-14",
-    "first_seen_at": "2026-11-14T01:15:03+09:00",
-    "last_seen": "2026-11-24",
-    "title": "UGREEN 160W 急速 充電器 カラーディスプレイ搭載 Type-C 4C1A 5ポート PD3.2/PPS5A/QC4対応 折り畳み式 | 5ポート USB-C*4とUSB-A*1 ワンタッチで縦横表示切替・アニメーション表示・リアルタイム充電状況確認 MacBook/iPhone18/17/16/15/14/13/Galaxy S26 Ultra/Xperia他各種対応 PSE適合",
-    "percent_off": 27,
-    "brand": "UGREEN",
-    "genre": "充電器",
-    "price": 9484
   },
   "B0CJR5FFN6": {
     "first_seen": "2026-09-27",
