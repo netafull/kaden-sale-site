@@ -648,10 +648,10 @@
     "first_seen_at": "2026-08-16T23:40:53+09:00",
     "last_seen": "2026-11-25",
     "title": "ソニー(SONY) 完全ワイヤレスイヤホン WF-C510 / 軽量小型4.6g / 高精度通話品質/外音取り込み対応/マルチポイント対応 / IPX4防滴性能 / ブラック/WF-C510 BC",
-    "percent_off": 22,
+    "percent_off": 23,
     "brand": "Sony",
     "genre": "ワイヤレスイヤホン",
-    "price": 7722
+    "price": 7650
   },
   "B0F6NFHB31": {
     "first_seen": "2026-07-25",
@@ -1042,6 +1042,16 @@
     "brand": "HUAWEI(ファーウェイ)",
     "genre": "スマートウォッチ",
     "price": 22300
+  },
+  "B0GJSCGFTP": {
+    "first_seen": "2026-10-13",
+    "first_seen_at": "2026-10-13T14:15:16+09:00",
+    "last_seen": "2026-11-25",
+    "title": "HUAWEI Band 11 Pro GPS搭載 スマートウォッチ 薄型軽量 睡眠管理 大画面 心拍数 ロングバッテリー LINE通知 ブラック | iPhone対応 android対応 8.99mm/18g薄型軽量ボディ 2000nits高輝度 1.62インチ画面 24時間睡眠管理 ランニングモード 健康/情緒モニタリング ランニング 防水",
+    "percent_off": 16,
+    "brand": "HUAWEI(ファーウェイ)",
+    "genre": "スマートウォッチ",
+    "price": 9957
   },
   "B094VSZPPP": {
     "first_seen": "2026-10-07",
@@ -1694,16 +1704,6 @@
         "percent_off": 28
       }
     ]
-  },
-  "B0GJSCGFTP": {
-    "first_seen": "2026-10-13",
-    "first_seen_at": "2026-10-13T14:15:16+09:00",
-    "last_seen": "2026-11-23",
-    "title": "HUAWEI Band 11 Pro GPS搭載 スマートウォッチ 薄型軽量 睡眠管理 大画面 心拍数 ロングバッテリー LINE通知 ブラック | iPhone対応 android対応 8.99mm/18g薄型軽量ボディ 2000nits高輝度 1.62インチ画面 24時間睡眠管理 ランニングモード 健康/情緒モニタリング ランニング 防水",
-    "percent_off": 16,
-    "brand": "HUAWEI(ファーウェイ)",
-    "genre": "スマートウォッチ",
-    "price": 9957
   },
   "B0CJR82M5M": {
     "first_seen": "2026-08-04",
