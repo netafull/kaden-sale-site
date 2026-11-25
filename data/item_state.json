@@ -602,15 +602,25 @@
     "genre": "ワイヤレスイヤホン",
     "price": 12300
   },
+  "B0DPX7W84T": {
+    "first_seen": "2026-10-20",
+    "first_seen_at": "2026-10-20T15:15:01+09:00",
+    "last_seen": "2026-11-26",
+    "title": "Anker Soundcore Q30i ブラック | （Bluetooth5.3 ワイヤレス ヘッドホン）【ウルトラノイズキャンセリング/外音取り込みモード/Bluetooth対応/ハイレゾ対応（AUX接続時） / 最大80時間音楽再生 / マイク内蔵/専用アプリ対応】",
+    "percent_off": 10,
+    "brand": "Soundcore",
+    "genre": "ワイヤレスイヤホン",
+    "price": 8990
+  },
   "B0DDKHF9XY": {
     "first_seen": "2026-08-16",
     "first_seen_at": "2026-08-16T23:40:53+09:00",
     "last_seen": "2026-11-26",
     "title": "ソニー(SONY) 完全ワイヤレスイヤホン WF-C510 / 軽量小型4.6g / 高精度通話品質/外音取り込み対応/マルチポイント対応 / IPX4防滴性能 / ブラック/WF-C510 BC",
-    "percent_off": 22,
+    "percent_off": 23,
     "brand": "Sony",
     "genre": "ワイヤレスイヤホン",
-    "price": 7727
+    "price": 7650
   },
   "B0F6NFHB31": {
     "first_seen": "2026-07-25",
@@ -652,11 +662,11 @@
     "genre": "充電器",
     "price": 1400
   },
-  "B0D53WHQD6": {
-    "first_seen": "2026-09-01",
-    "first_seen_at": "2026-09-01T22:14:34+09:00",
+  "B0D53VJJ7F": {
+    "first_seen": "2026-07-28",
+    "first_seen_at": "2026-07-28T12:00:00+09:00",
     "last_seen": "2026-11-26",
-    "title": "CIO NovaPort TRIOⅡ 65W 2C1A PD急速充電器 USB-C×2+USB-A×1 3台同時充電 世界最小級 (ホワイト) | ノートPC対応, MacBook対応, iPhone対応, iPad対応, Android対応, 電力を自動最適配分",
+    "title": "CIO NovaPort TRIOⅡ 65W 2C1A PD急速充電器 USB-C×2+USB-A×1 3台同時充電 世界最小級 (ブラック) | ノートPC対応, MacBook対応, iPhone対応, iPad対応, Android対応, 電力を自動最適配分",
     "percent_off": null,
     "brand": "CIO",
     "genre": "充電器",
@@ -812,6 +822,16 @@
     "genre": "モニター・ディスプレイ",
     "price": 49800
   },
+  "B07B7NXV4R": {
+    "first_seen": "2026-07-30",
+    "first_seen_at": "2026-07-30T12:00:00+09:00",
+    "last_seen": "2026-11-26",
+    "title": "SwitchBot スイッチボット スイッチ ボタンに適用 指ロボット スマートスイッチ スマートホーム ワイヤレス タイマー スマホで遠隔操作 Alexa, Google Home, Siri, IFTTTなどに対応(ハブ必要) ホワイト",
+    "percent_off": 14,
+    "brand": "スイッチボット(SwitchBot)",
+    "genre": "スマートホーム",
+    "price": 4285
+  },
   "B0F5WNVHH7": {
     "first_seen": "2026-07-30",
     "first_seen_at": "2026-07-30T12:00:00+09:00",
@@ -922,6 +942,16 @@
     "genre": "キーボード・マウス",
     "price": 2990
   },
+  "B0BKPL1VKW": {
+    "first_seen": "2026-11-13",
+    "first_seen_at": "2026-11-13T21:14:48+09:00",
+    "last_seen": "2026-11-26",
+    "title": "ロジクール ワイヤレスマウス 静音 無線 高速スクロール Signature M750MGR レギュラー グラファイト M750 国内正規品 | レギュラーサイズ、6ボタン、サイドボタン、電池式（単3形乾電池x1）、Easy-Switch、DPI切り替え、Bluetooth、Logi Bolt、Windows10、Windows11、macOS、iPadOS、Android、ChromeOS",
+    "percent_off": 23,
+    "brand": "Logicool(ロジクール)",
+    "genre": "キーボード・マウス",
+    "price": 4063
+  },
   "B0F1FD99K8": {
     "first_seen": "2026-09-25",
     "first_seen_at": "2026-09-25T22:14:49+09:00",
@@ -982,16 +1012,6 @@
     "genre": "キーボード・マウス",
     "price": 4700
   },
-  "B0BKPL1VKW": {
-    "first_seen": "2026-11-13",
-    "first_seen_at": "2026-11-13T21:14:48+09:00",
-    "last_seen": "2026-11-26",
-    "title": "ロジクール ワイヤレスマウス 静音 無線 高速スクロール Signature M750MGR レギュラー グラファイト M750 国内正規品 | レギュラーサイズ、6ボタン、サイドボタン、電池式（単3形乾電池x1）、Easy-Switch、DPI切り替え、Bluetooth、Logi Bolt、Windows10、Windows11、macOS、iPadOS、Android、ChromeOS",
-    "percent_off": 17,
-    "brand": "Logicool(ロジクール)",
-    "genre": "キーボード・マウス",
-    "price": 4364
-  },
   "B0CJR8Y56J": {
     "first_seen": "2026-07-26",
     "first_seen_at": "2026-07-26T12:00:00+09:00",
@@ -1011,6 +1031,16 @@
     "brand": "Logicool(ロジクール)",
     "genre": "キーボード・マウス",
     "price": 7318
+  },
+  "B0D53WHQD6": {
+    "first_seen": "2026-09-01",
+    "first_seen_at": "2026-09-01T22:14:34+09:00",
+    "last_seen": "2026-11-26",
+    "title": "CIO NovaPort TRIOⅡ 65W 2C1A PD急速充電器 USB-C×2+USB-A×1 3台同時充電 世界最小級 (ホワイト) | ノートPC対応, MacBook対応, iPhone対応, iPad対応, Android対応, 電力を自動最適配分",
+    "percent_off": null,
+    "brand": "CIO",
+    "genre": "充電器",
+    "price": 6589
   },
   "B0D53YVF2F": {
     "first_seen": "2026-11-08",
@@ -1122,26 +1152,6 @@
     "genre": "キーボード・マウス",
     "price": 34831
   },
-  "B0DPX7W84T": {
-    "first_seen": "2026-10-20",
-    "first_seen_at": "2026-10-20T15:15:01+09:00",
-    "last_seen": "2026-11-25",
-    "title": "Anker Soundcore Q30i ブラック | （Bluetooth5.3 ワイヤレス ヘッドホン）【ウルトラノイズキャンセリング/外音取り込みモード/Bluetooth対応/ハイレゾ対応（AUX接続時） / 最大80時間音楽再生 / マイク内蔵/専用アプリ対応】",
-    "percent_off": 10,
-    "brand": "Soundcore",
-    "genre": "ワイヤレスイヤホン",
-    "price": 8990
-  },
-  "B0D53VJJ7F": {
-    "first_seen": "2026-07-28",
-    "first_seen_at": "2026-07-28T12:00:00+09:00",
-    "last_seen": "2026-11-25",
-    "title": "CIO NovaPort TRIOⅡ 65W 2C1A PD急速充電器 USB-C×2+USB-A×1 3台同時充電 世界最小級 (ブラック) | ノートPC対応, MacBook対応, iPhone対応, iPad対応, Android対応, 電力を自動最適配分",
-    "percent_off": null,
-    "brand": "CIO",
-    "genre": "充電器",
-    "price": 6589
-  },
   "B099N3L5GF": {
     "first_seen": "2026-09-22",
     "first_seen_at": "2026-09-22T21:14:54+09:00",
@@ -1201,16 +1211,6 @@
     "brand": "UGREEN",
     "genre": "充電器",
     "price": 2180
-  },
-  "B07B7NXV4R": {
-    "first_seen": "2026-07-30",
-    "first_seen_at": "2026-07-30T12:00:00+09:00",
-    "last_seen": "2026-11-25",
-    "title": "SwitchBot スイッチボット スイッチ ボタンに適用 指ロボット スマートスイッチ スマートホーム ワイヤレス タイマー スマホで遠隔操作 Alexa, Google Home, Siri, IFTTTなどに対応(ハブ必要) ホワイト",
-    "percent_off": 14,
-    "brand": "スイッチボット(SwitchBot)",
-    "genre": "スマートホーム",
-    "price": 4285
   },
   "B0GX8DRYCX": {
     "first_seen": "2026-09-03",
