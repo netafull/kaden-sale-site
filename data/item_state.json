@@ -963,16 +963,6 @@
     "genre": "スマートホーム",
     "price": 4285
   },
-  "B0HLD2C5JC": {
-    "first_seen": "2026-11-24",
-    "first_seen_at": "2026-11-24T12:13:09+09:00",
-    "last_seen": "2026-11-25",
-    "title": "SwitchBot スマートリモコン スマートホーム 学習リモコン アレクサ - 赤外線家電管理 音声操作 2.8インチ画面 スイッチボット ハブ4 | スマート家電 Alexa Matter対応 時計 温湿度計機能付き 天気 ダイヤル操作可能 スケジュール シーンで家電一括操作 アプリ操作 節電·省エネ Google Home IFTTT Siri SmartThingsに対応",
-    "percent_off": null,
-    "brand": "スイッチボット(SwitchBot)",
-    "genre": "スマートホーム",
-    "price": 19980
-  },
   "B0F5WNVHH7": {
     "first_seen": "2026-07-30",
     "first_seen_at": "2026-07-30T12:00:00+09:00",
@@ -1012,6 +1002,16 @@
     "brand": "ガーミン(GARMIN)",
     "genre": "スマートウォッチ",
     "price": 67800
+  },
+  "B0FMDBYSQ9": {
+    "first_seen": "2026-10-17",
+    "first_seen_at": "2026-10-17T05:15:28+09:00",
+    "last_seen": "2026-11-25",
+    "title": "HUAWEI WATCH D2 ウェアラブル血圧計 LCA-B29:ブルー",
+    "percent_off": 20,
+    "brand": "HUAWEI(ファーウェイ)",
+    "genre": "スマートウォッチ",
+    "price": 48000
   },
   "B0DDCR5WYQ": {
     "first_seen": "2026-11-03",
@@ -1223,15 +1223,15 @@
     "genre": "エアフライヤー",
     "price": 10700
   },
-  "B0FMDBYSQ9": {
-    "first_seen": "2026-10-17",
-    "first_seen_at": "2026-10-17T05:15:28+09:00",
+  "B0HLD2C5JC": {
+    "first_seen": "2026-11-24",
+    "first_seen_at": "2026-11-24T12:13:09+09:00",
     "last_seen": "2026-11-25",
-    "title": "HUAWEI WATCH D2 ウェアラブル血圧計 LCA-B29:ブルー",
-    "percent_off": 20,
-    "brand": "HUAWEI(ファーウェイ)",
-    "genre": "スマートウォッチ",
-    "price": 47950
+    "title": "SwitchBot スマートリモコン スマートホーム 学習リモコン アレクサ - 赤外線家電管理 音声操作 2.8インチ画面 スイッチボット ハブ4 | スマート家電 Alexa Matter対応 時計 温湿度計機能付き 天気 ダイヤル操作可能 スケジュール シーンで家電一括操作 アプリ操作 節電·省エネ Google Home IFTTT Siri SmartThingsに対応",
+    "percent_off": null,
+    "brand": "スイッチボット(SwitchBot)",
+    "genre": "スマートホーム",
+    "price": 19980
   },
   "B0DZ7YJC17": {
     "first_seen": "2026-10-26",
