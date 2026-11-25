@@ -320,6 +320,16 @@
     "genre": "Apple製品",
     "price": 71800
   },
+  "B0FQFQDN6K": {
+    "first_seen": "2026-10-13",
+    "first_seen_at": "2026-10-13T00:16:25+09:00",
+    "last_seen": "2026-11-26",
+    "title": "Apple AirPods Pro 3 ワイヤレスイヤホン、アクティブノイズキャンセリング、ライブ翻訳、心拍センサー、補聴機能、Bluetoothヘッドホン、空間オーディオ サウンド、USB-C充電ケース、防塵性能と耐汗耐水性能、「探す」対応、Qi充電",
+    "percent_off": null,
+    "brand": "Apple(アップル)",
+    "genre": "Apple製品",
+    "price": 42800
+  },
   "B0HJBBZBQQ": {
     "first_seen": "2026-11-20",
     "first_seen_at": "2026-11-20T13:15:25+09:00",
@@ -902,16 +912,6 @@
     "genre": "スマートウォッチ",
     "price": 46800
   },
-  "B0FL6ZD3WL": {
-    "first_seen": "2026-07-29",
-    "first_seen_at": "2026-07-29T12:00:00+09:00",
-    "last_seen": "2026-11-26",
-    "title": "エレコム ワイヤレスキーボード Precisionist プレシジョニスト Bluetooth 無線2.4GHz マルチペアリング4台 充電式 薄型パンタグラフ式 フルサイズ ブラック TK-PN10FMPABK",
-    "percent_off": 36,
-    "brand": "エレコム(ELECOM)",
-    "genre": "キーボード・マウス",
-    "price": 5790
-  },
   "B0FL77NZXM": {
     "first_seen": "2026-07-29",
     "first_seen_at": "2026-07-29T12:00:00+09:00",
@@ -1051,6 +1051,16 @@
     "brand": "Logicool(ロジクール)",
     "genre": "キーボード・マウス",
     "price": 7318
+  },
+  "B0FL6ZD3WL": {
+    "first_seen": "2026-07-29",
+    "first_seen_at": "2026-07-29T12:00:00+09:00",
+    "last_seen": "2026-11-26",
+    "title": "エレコム ワイヤレスキーボード Precisionist プレシジョニスト Bluetooth 無線2.4GHz マルチペアリング4台 充電式 薄型パンタグラフ式 フルサイズ ブラック TK-PN10FMPABK",
+    "percent_off": 36,
+    "brand": "エレコム(ELECOM)",
+    "genre": "キーボード・マウス",
+    "price": 5790
   },
   "B0D53WHQD6": {
     "first_seen": "2026-09-01",
@@ -1422,16 +1432,6 @@
     "brand": "Apple(アップル)",
     "genre": "Apple製品",
     "price": 32503
-  },
-  "B0FQFQDN6K": {
-    "first_seen": "2026-10-13",
-    "first_seen_at": "2026-10-13T00:16:25+09:00",
-    "last_seen": "2026-11-25",
-    "title": "Apple AirPods Pro 3 ワイヤレスイヤホン、アクティブノイズキャンセリング、ライブ翻訳、心拍センサー、補聴機能、Bluetoothヘッドホン、空間オーディオ サウンド、USB-C充電ケース、防塵性能と耐汗耐水性能、「探す」対応、Qi充電",
-    "percent_off": null,
-    "brand": "Apple(アップル)",
-    "genre": "Apple製品",
-    "price": 42800
   },
   "B0DZ895SXY": {
     "first_seen": "2026-11-23",
