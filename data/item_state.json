@@ -602,16 +602,6 @@
     "genre": "ワイヤレスイヤホン",
     "price": 12300
   },
-  "B0DPX7W84T": {
-    "first_seen": "2026-10-20",
-    "first_seen_at": "2026-10-20T15:15:01+09:00",
-    "last_seen": "2026-11-25",
-    "title": "Anker Soundcore Q30i ブラック | （Bluetooth5.3 ワイヤレス ヘッドホン）【ウルトラノイズキャンセリング/外音取り込みモード/Bluetooth対応/ハイレゾ対応（AUX接続時） / 最大80時間音楽再生 / マイク内蔵/専用アプリ対応】",
-    "percent_off": 10,
-    "brand": "Soundcore",
-    "genre": "ワイヤレスイヤホン",
-    "price": 8990
-  },
   "B0F6NFHB31": {
     "first_seen": "2026-07-25",
     "first_seen_at": "2026-07-25T12:00:00+09:00",
@@ -672,6 +662,16 @@
     "genre": "モバイルバッテリー",
     "price": 8990
   },
+  "B0CX4FKYCS": {
+    "first_seen": "2026-10-10",
+    "first_seen_at": "2026-10-10T23:14:49+09:00",
+    "last_seen": "2026-11-25",
+    "title": "Anker Power Bank (10000mAh, Fusion, Built-In USB-C ケーブル) ホワイト | 10K 30W出力モバイルバッテリー搭載 30W出力USB充電器 / LEDディスプレイ/ケーブル一体型/コンセント一体型/折りたたみ式プラグ 1台3役 / iPhone 18 / 17 / 16 / 15 Android その他各種機器対応",
+    "percent_off": null,
+    "brand": "Anker",
+    "genre": "モバイルバッテリー",
+    "price": 8990
+  },
   "B098SQSRRV": {
     "first_seen": "2026-07-31",
     "first_seen_at": "2026-07-31T12:00:00+09:00",
@@ -682,15 +682,15 @@
     "genre": "充電器",
     "price": 1400
   },
-  "B0D53VJJ7F": {
-    "first_seen": "2026-07-28",
-    "first_seen_at": "2026-07-28T12:00:00+09:00",
+  "B0D53YVF2F": {
+    "first_seen": "2026-11-08",
+    "first_seen_at": "2026-11-08T22:14:53+09:00",
     "last_seen": "2026-11-25",
-    "title": "CIO NovaPort TRIOⅡ 65W 2C1A PD急速充電器 USB-C×2+USB-A×1 3台同時充電 世界最小級 (ブラック) | ノートPC対応, MacBook対応, iPhone対応, iPad対応, Android対応, 電力を自動最適配分",
+    "title": "CIO NovaPort TRIOⅡ 65W 3C PD急速充電器 USB-C×3 3台同時充電 軽量 世界最小級 (ホワイト) | ノートPC対応, MacBook対応, iPhone対応, iPad対応, Android対応, 電力を自動最適配分",
     "percent_off": null,
     "brand": "CIO",
     "genre": "充電器",
-    "price": 6589
+    "price": 6688
   },
   "B0CMQK8CMJ": {
     "first_seen": "2026-08-05",
@@ -821,6 +821,16 @@
     "brand": "Belkin",
     "genre": "充電器",
     "price": 16762
+  },
+  "B09X7DZ9LG": {
+    "first_seen": "2026-11-24",
+    "first_seen_at": "2026-11-24T21:14:02+09:00",
+    "last_seen": "2026-11-25",
+    "title": "SanDisk (サンディスク) 128GB Extreme (エクストリーム) SDXC UHS-I メモリーカード - C10/U3/V30/4K/UHD　SDカード - SDSDXVA-128G-GNCIN",
+    "percent_off": 14,
+    "brand": "SANDISK",
+    "genre": "SSD・メモリーカード",
+    "price": 6003
   },
   "B0GF26RSYQ": {
     "first_seen": "2026-07-27",
@@ -980,7 +990,7 @@
     "percent_off": 19,
     "brand": "エレコム(ELECOM)",
     "genre": "キーボード・マウス",
-    "price": 1618
+    "price": 1636
   },
   "B0DPF33WVV": {
     "first_seen": "2026-09-17",
@@ -1002,15 +1012,15 @@
     "genre": "キーボード・マウス",
     "price": 2709
   },
-  "B099N3L5GF": {
-    "first_seen": "2026-09-22",
-    "first_seen_at": "2026-09-22T21:14:54+09:00",
+  "B0GL1FYWQ5": {
+    "first_seen": "2026-11-25",
+    "first_seen_at": "2026-11-25T23:14:11+09:00",
     "last_seen": "2026-11-25",
-    "title": "Logicool G ゲーミングマウス G304 LIGHTSPEED ワイヤレスマウス ライラック 軽量 99g 国内正規品 | HERO 12Kセンサー, 6個プログラムボタン, 250時間連続使用可能,PC ,windows, mac, 軽量マウス, PCゲーミングマウス,マウス, ファイナルファンタジー XIV 推奨モデル",
+    "title": "東プレ REALFORCE GX1 Plus νガンダム (ニューガンダム) 英語配列 ゲーミングキーボード X1PDN1 KB0938",
     "percent_off": 18,
-    "brand": "Logicool G(ロジクール G)",
+    "brand": "REALFORCE",
     "genre": "キーボード・マウス",
-    "price": 4700
+    "price": 34831
   },
   "B0BKPL1VKW": {
     "first_seen": "2026-11-13",
@@ -1031,6 +1041,36 @@
     "brand": "Logicool(ロジクール)",
     "genre": "キーボード・マウス",
     "price": 4373
+  },
+  "B0DPX7W84T": {
+    "first_seen": "2026-10-20",
+    "first_seen_at": "2026-10-20T15:15:01+09:00",
+    "last_seen": "2026-11-25",
+    "title": "Anker Soundcore Q30i ブラック | （Bluetooth5.3 ワイヤレス ヘッドホン）【ウルトラノイズキャンセリング/外音取り込みモード/Bluetooth対応/ハイレゾ対応（AUX接続時） / 最大80時間音楽再生 / マイク内蔵/専用アプリ対応】",
+    "percent_off": 10,
+    "brand": "Soundcore",
+    "genre": "ワイヤレスイヤホン",
+    "price": 8990
+  },
+  "B0D53VJJ7F": {
+    "first_seen": "2026-07-28",
+    "first_seen_at": "2026-07-28T12:00:00+09:00",
+    "last_seen": "2026-11-25",
+    "title": "CIO NovaPort TRIOⅡ 65W 2C1A PD急速充電器 USB-C×2+USB-A×1 3台同時充電 世界最小級 (ブラック) | ノートPC対応, MacBook対応, iPhone対応, iPad対応, Android対応, 電力を自動最適配分",
+    "percent_off": null,
+    "brand": "CIO",
+    "genre": "充電器",
+    "price": 6589
+  },
+  "B099N3L5GF": {
+    "first_seen": "2026-09-22",
+    "first_seen_at": "2026-09-22T21:14:54+09:00",
+    "last_seen": "2026-11-25",
+    "title": "Logicool G ゲーミングマウス G304 LIGHTSPEED ワイヤレスマウス ライラック 軽量 99g 国内正規品 | HERO 12Kセンサー, 6個プログラムボタン, 250時間連続使用可能,PC ,windows, mac, 軽量マウス, PCゲーミングマウス,マウス, ファイナルファンタジー XIV 推奨モデル",
+    "percent_off": 18,
+    "brand": "Logicool G(ロジクール G)",
+    "genre": "キーボード・マウス",
+    "price": 4700
   },
   "B0FRSGC73Z": {
     "first_seen": "2026-11-21",
@@ -1081,16 +1121,6 @@
     "brand": "UGREEN",
     "genre": "充電器",
     "price": 2180
-  },
-  "B09X7DZ9LG": {
-    "first_seen": "2026-11-24",
-    "first_seen_at": "2026-11-24T21:14:02+09:00",
-    "last_seen": "2026-11-25",
-    "title": "SanDisk (サンディスク) 128GB Extreme (エクストリーム) SDXC UHS-I メモリーカード - C10/U3/V30/4K/UHD　SDカード - SDSDXVA-128G-GNCIN",
-    "percent_off": 14,
-    "brand": "SANDISK",
-    "genre": "SSD・メモリーカード",
-    "price": 6003
   },
   "B07B7NXV4R": {
     "first_seen": "2026-07-30",
@@ -1423,16 +1453,6 @@
     "brand": "Anker",
     "genre": "モバイルバッテリー",
     "price": 9990
-  },
-  "B0CX4FKYCS": {
-    "first_seen": "2026-10-10",
-    "first_seen_at": "2026-10-10T23:14:49+09:00",
-    "last_seen": "2026-11-25",
-    "title": "Anker Power Bank (10000mAh, Fusion, Built-In USB-C ケーブル) ホワイト | 10K 30W出力モバイルバッテリー搭載 30W出力USB充電器 / LEDディスプレイ/ケーブル一体型/コンセント一体型/折りたたみ式プラグ 1台3役 / iPhone 18 / 17 / 16 / 15 Android その他各種機器対応",
-    "percent_off": null,
-    "brand": "Anker",
-    "genre": "モバイルバッテリー",
-    "price": 8990
   },
   "B0F6NC41DZ": {
     "first_seen": "2026-08-06",
@@ -1985,16 +2005,6 @@
     "brand": "Anker",
     "genre": "充電器",
     "price": 6490
-  },
-  "B0D53YVF2F": {
-    "first_seen": "2026-11-08",
-    "first_seen_at": "2026-11-08T22:14:53+09:00",
-    "last_seen": "2026-11-22",
-    "title": "CIO NovaPort TRIOⅡ 65W 3C PD急速充電器 USB-C×3 3台同時充電 軽量 世界最小級 (ホワイト) | ノートPC対応, MacBook対応, iPhone対応, iPad対応, Android対応, 電力を自動最適配分",
-    "percent_off": null,
-    "brand": "CIO",
-    "genre": "充電器",
-    "price": 6688
   },
   "B0BWF35J1G": {
     "first_seen": "2026-10-15",
