@@ -429,7 +429,7 @@
     "percent_off": null,
     "brand": "Apple(アップル)",
     "genre": "Apple製品",
-    "price": 80801
+    "price": 80800
   },
   "B0HJB2W3J6": {
     "first_seen": "2026-11-20",
@@ -621,7 +621,7 @@
     "percent_off": 30,
     "brand": "Sony",
     "genre": "ワイヤレスイヤホン",
-    "price": 12325
+    "price": 12300
   },
   "B0DPX7W84T": {
     "first_seen": "2026-10-20",
@@ -783,16 +783,6 @@
     "genre": "充電器",
     "price": 3990
   },
-  "B0C8K2LZD2": {
-    "first_seen": "2026-10-23",
-    "first_seen_at": "2026-10-23T19:15:02+09:00",
-    "last_seen": "2026-11-25",
-    "title": "Anker Nano Charger (20W) グレイッシュブルー | USB-C 急速充電器【PSE技術基準適合/PowerIQ 3.0",
-    "percent_off": 25,
-    "brand": "Anker",
-    "genre": "充電器",
-    "price": 1340
-  },
   "B06ZXXQGZ8": {
     "first_seen": "2026-10-13",
     "first_seen_at": "2026-10-13T00:16:25+09:00",
@@ -802,16 +792,6 @@
     "brand": "Anker",
     "genre": "充電器",
     "price": 1390
-  },
-  "B099ZNTRL5": {
-    "first_seen": "2026-10-23",
-    "first_seen_at": "2026-10-23T21:15:12+09:00",
-    "last_seen": "2026-11-25",
-    "title": "Anker Nano Charger (20W) ホワイト | USB-C 急速充電器【PSE技術基準適合/PowerIQ 3.0",
-    "percent_off": 21,
-    "brand": "Anker",
-    "genre": "充電器",
-    "price": 1340
   },
   "B0FYFDD1WW": {
     "first_seen": "2026-11-14",
@@ -863,16 +843,6 @@
     "genre": "充電器",
     "price": 1790
   },
-  "B08W1VZRY7": {
-    "first_seen": "2026-11-02",
-    "first_seen_at": "2026-11-02T16:15:25+09:00",
-    "last_seen": "2026-11-25",
-    "title": "Anker PowerPort PD 2 ブラック | USB-A & USB-C 急速充電器)【PSE認証済/Power Delivery対応/PowerIQ搭載/コンパクトサイズ】 iPhone iPad Air(第5世代) Android その他 各種機器対応",
-    "percent_off": 17,
-    "brand": "Anker",
-    "genre": "充電器",
-    "price": 2490
-  },
   "B0DG93MZCR": {
     "first_seen": "2026-07-27",
     "first_seen_at": "2026-07-27T12:00:00+09:00",
@@ -882,6 +852,16 @@
     "brand": "UGREEN",
     "genre": "充電器",
     "price": 2180
+  },
+  "B0FL1SH21C": {
+    "first_seen": "2026-09-07",
+    "first_seen_at": "2026-09-07T21:14:48+09:00",
+    "last_seen": "2026-11-25",
+    "title": "Anker Zolo Charger (70W, 4 Ports) ホワイト | 70W USB-C急速充電器 4台同時充電対応。USB-C3ポートとUSB-A1ポートを搭載しPCとスマホをまとめて充電。MacBook Pro MacBook Air iPhone iPad Galaxy対応 PSE技術基準適合",
+    "percent_off": null,
+    "brand": "Anker",
+    "genre": "充電器",
+    "price": 6490
   },
   "B0DM8WZB8M": {
     "first_seen": "2026-10-26",
@@ -1033,16 +1013,6 @@
     "genre": "スマートウォッチ",
     "price": 46800
   },
-  "B0GQZVG4MD": {
-    "first_seen": "2026-11-10",
-    "first_seen_at": "2026-11-10T15:15:03+09:00",
-    "last_seen": "2026-11-25",
-    "title": "Ray-Ban Meta スマートグラス WAYFARER 調光レンズ IPX4防水トランスP.グレー/サファイア 50mm 0RW4012",
-    "percent_off": 13,
-    "brand": "Meta",
-    "genre": "XR・ARグラス",
-    "price": 77960
-  },
   "B0GVJG7D7K": {
     "first_seen": "2026-07-31",
     "first_seen_at": "2026-07-31T12:00:00+09:00",
@@ -1183,6 +1153,16 @@
     "genre": "キーボード・マウス",
     "price": 4373
   },
+  "B0H33PTLSH": {
+    "first_seen": "2026-11-14",
+    "first_seen_at": "2026-11-14T21:14:56+09:00",
+    "last_seen": "2026-11-25",
+    "title": "【Amazon.co.jp限定】 Ninja ニンジャ Crispi クリスピー FN100JGNNR 自動調理器 3つの調理モード (クリスプ/ベイク・ロースト/リクリスプ) 煮る 焼く 蒸す 炒める 煮込む 炊く 温風調理 エアフライヤー ノンフライヤー FN100J ミント",
+    "percent_off": 27,
+    "brand": "NINJA",
+    "genre": "エアフライヤー",
+    "price": 18000
+  },
   "B0H3TMF8K4": {
     "first_seen": "2026-10-17",
     "first_seen_at": "2026-10-17T19:16:01+09:00",
@@ -1193,6 +1173,46 @@
     "genre": "エアフライヤー",
     "price": 10700
   },
+  "B0C8K2LZD2": {
+    "first_seen": "2026-10-23",
+    "first_seen_at": "2026-10-23T19:15:02+09:00",
+    "last_seen": "2026-11-25",
+    "title": "Anker Nano Charger (20W) グレイッシュブルー | USB-C 急速充電器【PSE技術基準適合/PowerIQ 3.0",
+    "percent_off": 25,
+    "brand": "Anker",
+    "genre": "充電器",
+    "price": 1340
+  },
+  "B099ZNTRL5": {
+    "first_seen": "2026-10-23",
+    "first_seen_at": "2026-10-23T21:15:12+09:00",
+    "last_seen": "2026-11-25",
+    "title": "Anker Nano Charger (20W) ホワイト | USB-C 急速充電器【PSE技術基準適合/PowerIQ 3.0",
+    "percent_off": 21,
+    "brand": "Anker",
+    "genre": "充電器",
+    "price": 1340
+  },
+  "B08W1VZRY7": {
+    "first_seen": "2026-11-02",
+    "first_seen_at": "2026-11-02T16:15:25+09:00",
+    "last_seen": "2026-11-25",
+    "title": "Anker PowerPort PD 2 ブラック | USB-A & USB-C 急速充電器)【PSE認証済/Power Delivery対応/PowerIQ搭載/コンパクトサイズ】 iPhone iPad Air(第5世代) Android その他 各種機器対応",
+    "percent_off": 17,
+    "brand": "Anker",
+    "genre": "充電器",
+    "price": 2490
+  },
+  "B0GQZVG4MD": {
+    "first_seen": "2026-11-10",
+    "first_seen_at": "2026-11-10T15:15:03+09:00",
+    "last_seen": "2026-11-25",
+    "title": "Ray-Ban Meta スマートグラス WAYFARER 調光レンズ IPX4防水トランスP.グレー/サファイア 50mm 0RW4012",
+    "percent_off": 13,
+    "brand": "Meta",
+    "genre": "XR・ARグラス",
+    "price": 77960
+  },
   "B0DT4RGDSJ": {
     "first_seen": "2026-11-21",
     "first_seen_at": "2026-11-21T00:15:28+09:00",
@@ -1202,16 +1222,6 @@
     "brand": "Anker",
     "genre": "モバイルバッテリー",
     "price": 14390
-  },
-  "B0FL1SH21C": {
-    "first_seen": "2026-09-07",
-    "first_seen_at": "2026-09-07T21:14:48+09:00",
-    "last_seen": "2026-11-25",
-    "title": "Anker Zolo Charger (70W, 4 Ports) ホワイト | 70W USB-C急速充電器 4台同時充電対応。USB-C3ポートとUSB-A1ポートを搭載しPCとスマホをまとめて充電。MacBook Pro MacBook Air iPhone iPad Galaxy対応 PSE技術基準適合",
-    "percent_off": 39,
-    "brand": "Anker",
-    "genre": "充電器",
-    "price": 3989
   },
   "B0GJSCGFTP": {
     "first_seen": "2026-10-13",
@@ -2065,16 +2075,6 @@
     "brand": "Logicool G(ロジクール G)",
     "genre": "キーボード・マウス",
     "price": 11000
-  },
-  "B0H33PTLSH": {
-    "first_seen": "2026-11-14",
-    "first_seen_at": "2026-11-14T21:14:56+09:00",
-    "last_seen": "2026-11-21",
-    "title": "【Amazon.co.jp限定】 Ninja ニンジャ Crispi クリスピー FN100JGNNR 自動調理器 3つの調理モード (クリスプ/ベイク・ロースト/リクリスプ) 煮る 焼く 蒸す 炒める 煮込む 炊く 温風調理 エアフライヤー ノンフライヤー FN100J ミント",
-    "percent_off": 27,
-    "brand": "NINJA",
-    "genre": "エアフライヤー",
-    "price": 18000
   },
   "B0DNLR2NYN": {
     "first_seen": "2026-10-13",
