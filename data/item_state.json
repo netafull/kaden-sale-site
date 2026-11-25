@@ -180,27 +180,6 @@
     "genre": "Apple製品",
     "price": 43232
   },
-  "B0D3J7HJYN": {
-    "first_seen": "2026-11-21",
-    "first_seen_at": "2026-11-21T15:14:31+09:00",
-    "last_seen": "2026-11-25",
-    "title": "Apple 13インチiPad Pro（M5）用Magic Keyboard - 日本語 - ブラック ​​​​​​​",
-    "percent_off": 8,
-    "brand": "Apple(アップル)",
-    "genre": "Apple製品",
-    "price": 60404,
-    "past": [
-      {
-        "first_seen": "2026-10-25",
-        "last_seen": "2026-11-04",
-        "title": "Apple 13インチiPad Pro（M5）用Magic Keyboard - 日本語 - ブラック ​​​​​​​",
-        "brand": null,
-        "genre": null,
-        "price": null,
-        "percent_off": 8
-      }
-    ]
-  },
   "B0DZ88B84T": {
     "first_seen": "2026-10-23",
     "first_seen_at": "2026-10-23T22:16:04+09:00",
@@ -642,6 +621,16 @@
     "brand": "Xiaomi",
     "genre": "ワイヤレスイヤホン",
     "price": 2780
+  },
+  "B0DDKHF9XY": {
+    "first_seen": "2026-08-16",
+    "first_seen_at": "2026-08-16T23:40:53+09:00",
+    "last_seen": "2026-11-25",
+    "title": "ソニー(SONY) 完全ワイヤレスイヤホン WF-C510 / 軽量小型4.6g / 高精度通話品質/外音取り込み対応/マルチポイント対応 / IPX4防滴性能 / ブラック/WF-C510 BC",
+    "percent_off": 23,
+    "brand": "Sony",
+    "genre": "ワイヤレスイヤホン",
+    "price": 7599
   },
   "B0F6NFHB31": {
     "first_seen": "2026-07-25",
@@ -1143,15 +1132,26 @@
     "genre": "キーボード・マウス",
     "price": 4373
   },
-  "B0DDKHF9XY": {
-    "first_seen": "2026-08-16",
-    "first_seen_at": "2026-08-16T23:40:53+09:00",
+  "B0D3J7HJYN": {
+    "first_seen": "2026-11-21",
+    "first_seen_at": "2026-11-21T15:14:31+09:00",
     "last_seen": "2026-11-25",
-    "title": "ソニー(SONY) 完全ワイヤレスイヤホン WF-C510 / 軽量小型4.6g / 高精度通話品質/外音取り込み対応/マルチポイント対応 / IPX4防滴性能 / ブラック/WF-C510 BC",
-    "percent_off": 23,
-    "brand": "Sony",
-    "genre": "ワイヤレスイヤホン",
-    "price": 7599
+    "title": "Apple 13インチiPad Pro（M5）用Magic Keyboard - 日本語 - ブラック ​​​​​​​",
+    "percent_off": 8,
+    "brand": "Apple(アップル)",
+    "genre": "Apple製品",
+    "price": 60404,
+    "past": [
+      {
+        "first_seen": "2026-10-25",
+        "last_seen": "2026-11-04",
+        "title": "Apple 13インチiPad Pro（M5）用Magic Keyboard - 日本語 - ブラック ​​​​​​​",
+        "brand": null,
+        "genre": null,
+        "price": null,
+        "percent_off": 8
+      }
+    ]
   },
   "B0B2QR8HN9": {
     "first_seen": "2026-08-09",
