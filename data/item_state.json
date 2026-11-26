@@ -1,18 +1,8 @@
 {
-  "B0FWDCJWWL": {
-    "first_seen": "2026-11-24",
-    "first_seen_at": "2026-11-24T06:13:28+09:00",
-    "last_seen": "2026-11-26",
-    "title": "Apple 13インチiPad Air (M4) 用Magic Keyboard - スペイン語(スペイン) - ブラック",
-    "percent_off": 32,
-    "brand": "Apple(アップル)",
-    "genre": "Apple製品",
-    "price": 37087
-  },
   "B0FWDFGWTT": {
     "first_seen": "2026-11-24",
     "first_seen_at": "2026-11-24T13:13:28+09:00",
-    "last_seen": "2026-11-26",
+    "last_seen": "2026-11-27",
     "title": "Apple 11インチiPad Air (M4) 用Magic Keyboard - 中国語(注音) - ブラック",
     "percent_off": 32,
     "brand": "Apple(アップル)",
@@ -30,10 +20,30 @@
       }
     ]
   },
+  "B0FQG1QPLW": {
+    "first_seen": "2026-11-27",
+    "first_seen_at": "2026-11-27T00:13:28+09:00",
+    "last_seen": "2026-11-27",
+    "title": "Apple iPhone Air 256GB (SIMフリー) | 最大120HzのProMotionを採用した6.5インチディスプレイ、パワフルなA19 Proチップ、センターフレームフロントカメラ、一日中使えるバッテリー；スカイブルー",
+    "percent_off": 23,
+    "brand": "Apple(アップル)",
+    "genre": "Apple製品",
+    "price": 145900
+  },
+  "B0FQFQDN6K": {
+    "first_seen": "2026-10-13",
+    "first_seen_at": "2026-10-13T00:16:25+09:00",
+    "last_seen": "2026-11-27",
+    "title": "Apple AirPods Pro 3 ワイヤレスイヤホン、アクティブノイズキャンセリング、ライブ翻訳、心拍センサー、補聴機能、Bluetoothヘッドホン、空間オーディオ サウンド、USB-C充電ケース、防塵性能と耐汗耐水性能、「探す」対応、Qi充電",
+    "percent_off": 21,
+    "brand": "Apple(アップル)",
+    "genre": "Apple製品",
+    "price": 33800
+  },
   "B0FQFW26JS": {
     "first_seen": "2026-09-26",
     "first_seen_at": "2026-09-26T22:15:02+09:00",
-    "last_seen": "2026-11-26",
+    "last_seen": "2026-11-27",
     "title": "Apple Watch Ultra 3(GPS + Cellularモデル)- 49mmナチュラルチタニウムケースとライトブルーアルパインループ - M",
     "percent_off": 16,
     "brand": "Apple(アップル)",
@@ -43,7 +53,7 @@
   "B0FQG2HWLF": {
     "first_seen": "2026-10-28",
     "first_seen_at": "2026-10-28T13:16:03+09:00",
-    "last_seen": "2026-11-26",
+    "last_seen": "2026-11-27",
     "title": "Apple Watch Ultra 3(GPS + Cellularモデル)- 49mmブラックチタニウムケースとブラック/チャコールトレイルループ - S/M",
     "percent_off": 16,
     "brand": "Apple(アップル)",
@@ -53,7 +63,7 @@
   "B0FQG6NZ6T": {
     "first_seen": "2026-10-11",
     "first_seen_at": "2026-10-11T18:14:49+09:00",
-    "last_seen": "2026-11-26",
+    "last_seen": "2026-11-27",
     "title": "Apple Watch Ultra 3(GPS + Cellularモデル)- 49mmナチュラルチタニウムケースとブルー/ブライトブルートレイルループ - M/L",
     "percent_off": 16,
     "brand": "Apple(アップル)",
@@ -63,7 +73,7 @@
   "B0FQG9KV7F": {
     "first_seen": "2026-10-01",
     "first_seen_at": "2026-10-01T23:14:55+09:00",
-    "last_seen": "2026-11-26",
+    "last_seen": "2026-11-27",
     "title": "Apple Watch Ultra 3(GPS + Cellularモデル)- 49mmブラックチタニウムケースとブラックチタニウムミラネーゼループ - S",
     "percent_off": 16,
     "brand": "Apple(アップル)",
@@ -73,7 +83,7 @@
   "B0FQGHYWRH": {
     "first_seen": "2026-10-01",
     "first_seen_at": "2026-10-01T23:14:55+09:00",
-    "last_seen": "2026-11-26",
+    "last_seen": "2026-11-27",
     "title": "Apple Watch Ultra 3(GPS + Cellularモデル)- 49mmナチュラルチタニウムケースとライトブルーアルパインループ - S",
     "percent_off": 16,
     "brand": "Apple(アップル)",
@@ -83,17 +93,107 @@
   "B0GJTW9CL8": {
     "first_seen": "2026-08-07",
     "first_seen_at": "2026-08-07T09:18:51+09:00",
-    "last_seen": "2026-11-26",
+    "last_seen": "2026-11-27",
     "title": "Apple AirTag（第2世代）：紛失防止タグ、音で探せる、耐水 防塵 iPhone/iPad「探す」ネットワーク対応、探せる範囲が最大1.5 倍に広がった「正確な場所を見つける」機能搭載",
     "percent_off": 15,
     "brand": "Apple(アップル)",
     "genre": "Apple製品",
     "price": 4649
   },
+  "B0HJB1CR9Q": {
+    "first_seen": "2026-11-27",
+    "first_seen_at": "2026-11-27T00:13:28+09:00",
+    "last_seen": "2026-11-27",
+    "title": "Apple Watch SE 3（GPSモデル） | 40mmスターライトアルミニウムケースとサンドスポーツバンド - S/M。Fitness + 睡眠 + 周期記録、心拍数、バイタル、安全",
+    "percent_off": 15,
+    "brand": "Apple(アップル)",
+    "genre": "Apple製品",
+    "price": 35400
+  },
+  "B0HJB812TG": {
+    "first_seen": "2026-11-20",
+    "first_seen_at": "2026-11-20T19:15:18+09:00",
+    "last_seen": "2026-11-27",
+    "title": "Apple Watch Series 12（GPSモデル） | 42mmブラックアルミニウムケースとブラックスポーツバンド - S/M。健康 + フィットネス + 睡眠記録、心拍数、安全",
+    "percent_off": 15,
+    "brand": "Apple(アップル)",
+    "genre": "Apple製品",
+    "price": 61000
+  },
+  "B0HJB41D4Q": {
+    "first_seen": "2026-11-27",
+    "first_seen_at": "2026-11-27T00:13:28+09:00",
+    "last_seen": "2026-11-27",
+    "title": "Apple Watch SE 3（GPSモデル） | 40mmミッドナイトアルミニウムケースとネイビーブルースポーツバンド - M/L。Fitness + 睡眠 + 周期記録、心拍数、バイタル、安全",
+    "percent_off": 15,
+    "brand": "Apple(アップル)",
+    "genre": "Apple製品",
+    "price": 35400
+  },
+  "B0HJ9VPLKQ": {
+    "first_seen": "2026-11-21",
+    "first_seen_at": "2026-11-21T00:15:28+09:00",
+    "last_seen": "2026-11-27",
+    "title": "Apple Watch Series 12（GPSモデル） | 42mmスペースグレイアルミニウムケースとネイビーブルースポーツバンド - M/L。健康 + フィットネス + 睡眠記録、心拍数、安全",
+    "percent_off": 15,
+    "brand": "Apple(アップル)",
+    "genre": "Apple製品",
+    "price": 61000
+  },
+  "B0HJB11VYX": {
+    "first_seen": "2026-11-21",
+    "first_seen_at": "2026-11-21T11:13:11+09:00",
+    "last_seen": "2026-11-27",
+    "title": "Apple Watch Series 12（GPSモデル） | 42mmダークブロンズアルミニウムケースとオリーブスポーツバンド - M/L。健康 + フィットネス + 睡眠記録、心拍数、安全",
+    "percent_off": 15,
+    "brand": "Apple(アップル)",
+    "genre": "Apple製品",
+    "price": 61000
+  },
+  "B0HJB2C5KR": {
+    "first_seen": "2026-11-21",
+    "first_seen_at": "2026-11-21T05:13:10+09:00",
+    "last_seen": "2026-11-27",
+    "title": "Apple Watch Series 12（GPSモデル） | 42mmスペースグレイアルミニウムケースとネイビーブルースポーツバンド - S/M。健康 + フィットネス + 睡眠記録、心拍数、安全",
+    "percent_off": 15,
+    "brand": "Apple(アップル)",
+    "genre": "Apple製品",
+    "price": 61000
+  },
+  "B0HJB2SJHN": {
+    "first_seen": "2026-11-20",
+    "first_seen_at": "2026-11-20T13:15:25+09:00",
+    "last_seen": "2026-11-27",
+    "title": "Apple Watch Series 12（GPSモデル） | 42mmブラックアルミニウムケースとブラックスポーツバンド - M/L。健康 + フィットネス + 睡眠記録、心拍数、安全",
+    "percent_off": 15,
+    "brand": "Apple(アップル)",
+    "genre": "Apple製品",
+    "price": 61000
+  },
+  "B0HJB3GN3F": {
+    "first_seen": "2026-11-20",
+    "first_seen_at": "2026-11-20T13:15:25+09:00",
+    "last_seen": "2026-11-27",
+    "title": "Apple Watch Series 12（GPSモデル） | 42mmライトゴールドアルミニウムケースとサンドスポーツバンド - S/M。健康 + フィットネス + 睡眠記録、心拍数、安全",
+    "percent_off": 15,
+    "brand": "Apple(アップル)",
+    "genre": "Apple製品",
+    "price": 61000
+  },
+  "B0HJBL7HVL": {
+    "first_seen": "2026-11-20",
+    "first_seen_at": "2026-11-20T23:14:40+09:00",
+    "last_seen": "2026-11-27",
+    "title": "Apple Watch Series 12（GPSモデル） | 42mmダークブロンズアルミニウムケースとオリーブスポーツバンド - S/M。健康 + フィットネス + 睡眠記録、心拍数、安全",
+    "percent_off": 15,
+    "brand": "Apple(アップル)",
+    "genre": "Apple製品",
+    "price": 61000
+  },
   "B0FRYZJPDJ": {
     "first_seen": "2026-10-11",
     "first_seen_at": "2026-10-11T18:14:49+09:00",
-    "last_seen": "2026-11-26",
+    "last_seen": "2026-11-27",
     "title": "Apple Watch Ultra 3(GPS + Cellularモデル)- 49mmナチュラルチタニウムケースとブルー/ブライトブルートレイルループ - M/L + 2年延長 AppleCare+ for Apple Watch Ultra 3",
     "percent_off": 15,
     "brand": "Apple(アップル)",
@@ -103,7 +203,7 @@
   "B0FRZ28FST": {
     "first_seen": "2026-10-28",
     "first_seen_at": "2026-10-28T13:16:03+09:00",
-    "last_seen": "2026-11-26",
+    "last_seen": "2026-11-27",
     "title": "Apple Watch Ultra 3(GPS + Cellularモデル)- 49mmブラックチタニウムケースとブラック/チャコールトレイルループ - S/M + 2年延長 AppleCare+ for Apple Watch Ultra 3",
     "percent_off": 15,
     "brand": "Apple(アップル)",
@@ -113,7 +213,7 @@
   "B0FRZ2CS5T": {
     "first_seen": "2026-10-01",
     "first_seen_at": "2026-10-01T23:14:55+09:00",
-    "last_seen": "2026-11-26",
+    "last_seen": "2026-11-27",
     "title": "Apple Watch Ultra 3(GPS + Cellularモデル)- 49mmナチュラルチタニウムケースとライトブルーアルパインループ - M + 2年延長 AppleCare+ for Apple Watch Ultra 3",
     "percent_off": 15,
     "brand": "Apple(アップル)",
@@ -123,7 +223,7 @@
   "B0FRZ35PL3": {
     "first_seen": "2026-10-01",
     "first_seen_at": "2026-10-01T23:14:55+09:00",
-    "last_seen": "2026-11-26",
+    "last_seen": "2026-11-27",
     "title": "Apple Watch Ultra 3(GPS + Cellularモデル)- 49mmナチュラルチタニウムケースとライトブルーアルパインループ - S + 2年延長 AppleCare+ for Apple Watch Ultra 3",
     "percent_off": 15,
     "brand": "Apple(アップル)",
@@ -133,17 +233,139 @@
   "B0FRZ34RQL": {
     "first_seen": "2026-10-01",
     "first_seen_at": "2026-10-01T23:14:55+09:00",
-    "last_seen": "2026-11-26",
+    "last_seen": "2026-11-27",
     "title": "[アップル] Watch Ultra 3(GPS + Cellularモデル)- 49mmブラックチタニウムケースとブラックチタニウムミラネーゼループ - S + 2年延長 AppleCare+ for Apple Watch Ultra 3",
     "percent_off": 14,
     "brand": "Apple(アップル)",
     "genre": "Apple製品",
     "price": 151599
   },
+  "B0GR1PZQ8G": {
+    "first_seen": "2026-11-27",
+    "first_seen_at": "2026-11-27T00:13:28+09:00",
+    "last_seen": "2026-11-27",
+    "title": "Apple 2026 MacBook Air M5チップ搭載13インチノートブック：AIとApple Intelligence、13.6インチLiquid Retinaディスプレイ、16GBユニファイドメモリ、512GB SSDストレージ、12MPセンターフレームカメラ、日本語キーボード、Touch ID - スターライト",
+    "percent_off": 13,
+    "brand": "Apple(アップル)",
+    "genre": "Apple製品",
+    "price": 194800,
+    "past": [
+      {
+        "first_seen": "2026-11-05",
+        "last_seen": "2026-11-09",
+        "title": "Apple 2026 MacBook Air M5チップ搭載13インチノートブック：AIとApple Intelligence、13.6インチLiquid Retinaディスプレイ、16GBユニファイドメモリ、512GB SSDストレージ、12MPセンターフレームカメラ、日本語キーボード、Touch ID - スターライト",
+        "brand": null,
+        "genre": null,
+        "price": null,
+        "percent_off": null
+      }
+    ]
+  },
+  "B0GR1VMZRD": {
+    "first_seen": "2026-11-20",
+    "first_seen_at": "2026-11-20T18:15:52+09:00",
+    "last_seen": "2026-11-27",
+    "title": "Apple 2026 MacBook Air M5チップ搭載13インチノートブック：AIとApple Intelligence、13.6インチLiquid Retinaディスプレイ、16GBユニファイドメモリ、512GB SSDストレージ、12MPセンターフレームカメラ、日本語キーボード、Touch ID - シルバー",
+    "percent_off": 13,
+    "brand": "Apple(アップル)",
+    "genre": "Apple製品",
+    "price": 194800,
+    "past": [
+      {
+        "first_seen": "2026-10-31",
+        "last_seen": "2026-11-03",
+        "title": "Apple 2026 MacBook Air M5チップ搭載13インチノートブック：AIとApple Intelligence、13.6インチLiquid Retinaディスプレイ、16GBユニファイドメモリ、512GB SSDストレージ、12MPセンターフレームカメラ、日本語キーボード、Touch ID - シルバー",
+        "brand": null,
+        "genre": null,
+        "price": null,
+        "percent_off": null
+      }
+    ]
+  },
+  "B0HJ9V2FK4": {
+    "first_seen": "2026-11-21",
+    "first_seen_at": "2026-11-21T01:14:15+09:00",
+    "last_seen": "2026-11-27",
+    "title": "Apple Watch Series 12（GPSモデル） | 46mmスペースグレイアルミニウムケースとネイビーブルースポーツバンド - M/L。健康 + フィットネス + 睡眠記録、心拍数、安全",
+    "percent_off": 13,
+    "brand": "Apple(アップル)",
+    "genre": "Apple製品",
+    "price": 70000
+  },
+  "B0HJB1JJ9P": {
+    "first_seen": "2026-11-20",
+    "first_seen_at": "2026-11-20T15:14:56+09:00",
+    "last_seen": "2026-11-27",
+    "title": "Apple Watch Series 12（GPSモデル） | 46mmライトゴールドアルミニウムケースとサンドスポーツバンド - M/L。健康 + フィットネス + 睡眠記録、心拍数、安全",
+    "percent_off": 13,
+    "brand": "Apple(アップル)",
+    "genre": "Apple製品",
+    "price": 70000
+  },
+  "B0HJB1QJH7": {
+    "first_seen": "2026-11-20",
+    "first_seen_at": "2026-11-20T14:15:01+09:00",
+    "last_seen": "2026-11-27",
+    "title": "Apple Watch Series 12（GPSモデル） | 46mmダークブロンズアルミニウムケースとオリーブスポーツバンド - S/M。健康 + フィットネス + 睡眠記録、心拍数、安全",
+    "percent_off": 13,
+    "brand": "Apple(アップル)",
+    "genre": "Apple製品",
+    "price": 70000
+  },
+  "B0HJB2M493": {
+    "first_seen": "2026-11-20",
+    "first_seen_at": "2026-11-20T14:15:01+09:00",
+    "last_seen": "2026-11-27",
+    "title": "Apple Watch Series 12（GPSモデル） | 46mmライトゴールドアルミニウムケースとサンドスポーツバンド - S/M。健康 + フィットネス + 睡眠記録、心拍数、安全",
+    "percent_off": 13,
+    "brand": "Apple(アップル)",
+    "genre": "Apple製品",
+    "price": 70000
+  },
+  "B0HJB2W3J6": {
+    "first_seen": "2026-11-20",
+    "first_seen_at": "2026-11-20T14:15:01+09:00",
+    "last_seen": "2026-11-27",
+    "title": "Apple Watch Series 12（GPSモデル） | 46mmダークブロンズアルミニウムケースとオリーブスポーツバンド - M/L。健康 + フィットネス + 睡眠記録、心拍数、安全",
+    "percent_off": 13,
+    "brand": "Apple(アップル)",
+    "genre": "Apple製品",
+    "price": 70000
+  },
+  "B0HJB92SDL": {
+    "first_seen": "2026-11-20",
+    "first_seen_at": "2026-11-20T23:14:40+09:00",
+    "last_seen": "2026-11-27",
+    "title": "Apple Watch Series 12（GPSモデル） | 46mmスペースグレイアルミニウムケースとネイビーブルースポーツバンド - S/M。健康 + フィットネス + 睡眠記録、心拍数、安全",
+    "percent_off": 13,
+    "brand": "Apple(アップル)",
+    "genre": "Apple製品",
+    "price": 70000
+  },
+  "B0HJB9GLPB": {
+    "first_seen": "2026-11-20",
+    "first_seen_at": "2026-11-20T14:15:01+09:00",
+    "last_seen": "2026-11-27",
+    "title": "Apple Watch Series 12（GPSモデル） | 46mmブラックアルミニウムケースとブラックスポーツバンド - S/M。健康 + フィットネス + 睡眠記録、心拍数、安全",
+    "percent_off": 13,
+    "brand": "Apple(アップル)",
+    "genre": "Apple製品",
+    "price": 70000
+  },
+  "B0HJBBZBQQ": {
+    "first_seen": "2026-11-20",
+    "first_seen_at": "2026-11-20T13:15:25+09:00",
+    "last_seen": "2026-11-27",
+    "title": "Apple Watch Series 12（GPSモデル） | 46mmブラックアルミニウムケースとブラックスポーツバンド - M/L。健康 + フィットネス + 睡眠記録、心拍数、安全",
+    "percent_off": 13,
+    "brand": "Apple(アップル)",
+    "genre": "Apple製品",
+    "price": 70000
+  },
   "B0DL6RT3DN": {
     "first_seen": "2026-10-30",
     "first_seen_at": "2026-10-30T20:16:01+09:00",
-    "last_seen": "2026-11-26",
+    "last_seen": "2026-11-27",
     "title": "Apple 2024 iMac 10 コア CPU、10 コア GPU の M4 チップ搭載オールインワンデスク トップコンピュータ: Apple Intelligence のために設計、24 インチ Retina ディスプレ イ、16GBユニファイドメモリ、256GBの SSD ストレージ、ボディと同じカラーのアクセサリ、iPhone や iPad との連係機能 - ピンク",
     "percent_off": 13,
     "brand": "Apple(アップル)",
@@ -153,7 +375,7 @@
   "B0FQFQ2PH4": {
     "first_seen": "2026-10-17",
     "first_seen_at": "2026-10-17T21:15:05+09:00",
-    "last_seen": "2026-11-26",
+    "last_seen": "2026-11-27",
     "title": "Apple Watch Series 11(GPSモデル)- 42mmスペースグレイアルミニウムケースとブラックスポーツバンド - M/L、睡眠時無呼吸、高血圧パターン、血中酸素、心電図、排卵推定、心拍数、服薬、マインドフルネス、ノイズ、睡眠スコア、転倒検出、IPX6X防塵、泳げる耐水、Suica対応、高速充電対応",
     "percent_off": 12,
     "brand": "Apple(アップル)",
@@ -163,37 +385,107 @@
   "B0FRYXQ4K2": {
     "first_seen": "2026-10-24",
     "first_seen_at": "2026-10-24T01:15:07+09:00",
-    "last_seen": "2026-11-26",
+    "last_seen": "2026-11-27",
     "title": "Apple Watch Series 11(GPSモデル)- 42mmスペースグレイアルミニウムケースとブラックスポーツバンド - M/L + 2年延長 AppleCare+ for Apple Watch Series 11",
     "percent_off": 11,
     "brand": "Apple(アップル)",
     "genre": "Apple製品",
     "price": 76234
   },
+  "B0GQW5P438": {
+    "first_seen": "2026-10-31",
+    "first_seen_at": "2026-10-31T07:16:05+09:00",
+    "last_seen": "2026-11-27",
+    "title": "Apple 11インチiPad Air（M4）：Liquid Retinaディスプレイ、128GB、12MPフロント/バックカメラ、Apple N1によるWi-Fi 7、Touch ID、一日中使えるバッテリー — スターライト",
+    "percent_off": 10,
+    "brand": "Apple(アップル)",
+    "genre": "Apple製品",
+    "price": 116800
+  },
+  "B0GQWJCR4K": {
+    "first_seen": "2026-09-23",
+    "first_seen_at": "2026-09-23T17:14:35+09:00",
+    "last_seen": "2026-11-27",
+    "title": "Apple 11インチiPad Air（M4）：Liquid Retinaディスプレイ、128GB、12MPフロント/バックカメラ、Apple N1によるWi-Fi 7、Touch ID、一日中使えるバッテリー — スペースグレイ",
+    "percent_off": 10,
+    "brand": "Apple(アップル)",
+    "genre": "Apple製品",
+    "price": 116800
+  },
+  "B0GQWSBMQ1": {
+    "first_seen": "2026-10-31",
+    "first_seen_at": "2026-10-31T14:16:09+09:00",
+    "last_seen": "2026-11-27",
+    "title": "Apple 11インチiPad Air（M4）：Liquid Retinaディスプレイ、128GB、12MPフロント/バックカメラ、Apple N1によるWi-Fi 7、Touch ID、一日中使えるバッテリー — ブルー",
+    "percent_off": 10,
+    "brand": "Apple(アップル)",
+    "genre": "Apple製品",
+    "price": 116800
+  },
+  "B0GQX196G9": {
+    "first_seen": "2026-11-01",
+    "first_seen_at": "2026-11-01T02:15:45+09:00",
+    "last_seen": "2026-11-27",
+    "title": "Apple 11インチiPad Air（M4）：Liquid Retinaディスプレイ、128GB、12MPフロント/バックカメラ、Apple N1によるWi-Fi 7、Touch ID、一日中使えるバッテリー — パープル",
+    "percent_off": 10,
+    "brand": "Apple(アップル)",
+    "genre": "Apple製品",
+    "price": 116800
+  },
+  "B0GQW2939K": {
+    "first_seen": "2026-10-31",
+    "first_seen_at": "2026-10-31T20:16:18+09:00",
+    "last_seen": "2026-11-27",
+    "title": "Apple 11インチiPad Air（M4）：Liquid Retinaディスプレイ、256GB、12MPフロント/バックカメラ、Apple N1によるWi-Fi 7、Touch ID、一日中使えるバッテリー — パープル",
+    "percent_off": 9,
+    "brand": "Apple(アップル)",
+    "genre": "Apple製品",
+    "price": 133800
+  },
+  "B0GQW2J67Z": {
+    "first_seen": "2026-10-17",
+    "first_seen_at": "2026-10-17T22:15:06+09:00",
+    "last_seen": "2026-11-27",
+    "title": "Apple 11インチiPad Air（M4）：Liquid Retinaディスプレイ、256GB、12MPフロント/バックカメラ、Apple N1によるWi-Fi 7、Touch ID、一日中使えるバッテリー — スターライト",
+    "percent_off": 9,
+    "brand": "Apple(アップル)",
+    "genre": "Apple製品",
+    "price": 133800
+  },
+  "B0GQWFB3MV": {
+    "first_seen": "2026-10-17",
+    "first_seen_at": "2026-10-17T21:15:05+09:00",
+    "last_seen": "2026-11-27",
+    "title": "Apple 11インチiPad Air（M4）：Liquid Retinaディスプレイ、256GB、12MPフロント/バックカメラ、Apple N1によるWi-Fi 7、Touch ID、一日中使えるバッテリー — ブルー",
+    "percent_off": 9,
+    "brand": "Apple(アップル)",
+    "genre": "Apple製品",
+    "price": 133800
+  },
+  "B0GQWWWH1T": {
+    "first_seen": "2026-10-13",
+    "first_seen_at": "2026-10-13T10:16:05+09:00",
+    "last_seen": "2026-11-27",
+    "title": "Apple 11インチiPad Air（M4）：Liquid Retinaディスプレイ、256GB、12MPフロント/バックカメラ、Apple N1によるWi-Fi 7、Touch ID、一日中使えるバッテリー — スペースグレイ",
+    "percent_off": 9,
+    "brand": "Apple(アップル)",
+    "genre": "Apple製品",
+    "price": 133800
+  },
   "B0BJN7ZJF6": {
     "first_seen": "2026-09-11",
     "first_seen_at": "2026-09-11T22:14:45+09:00",
-    "last_seen": "2026-11-26",
+    "last_seen": "2026-11-27",
     "title": "iPad(A16と第10世代)用Magic Keyboard Folio - 日本語",
     "percent_off": 8,
     "brand": "Apple(アップル)",
     "genre": "Apple製品",
     "price": 43232
   },
-  "B0HJB812TG": {
-    "first_seen": "2026-11-20",
-    "first_seen_at": "2026-11-20T19:15:18+09:00",
-    "last_seen": "2026-11-26",
-    "title": "Apple Watch Series 12（GPSモデル） | 42mmブラックアルミニウムケースとブラックスポーツバンド - S/M。健康 + フィットネス + 睡眠記録、心拍数、安全",
-    "percent_off": null,
-    "brand": "Apple(アップル)",
-    "genre": "Apple製品",
-    "price": 71800
-  },
   "B0DZ88B84T": {
     "first_seen": "2026-10-23",
     "first_seen_at": "2026-10-23T22:16:04+09:00",
-    "last_seen": "2026-11-26",
+    "last_seen": "2026-11-27",
     "title": "Apple 11 イン チ iPad Air (M4) 用 Apple Magic Keyboard ケース: 快適にタイピングできるキー ボード、内蔵トラックパッド、日本語 - ホワイト",
     "percent_off": 7,
     "brand": "Apple(アップル)",
@@ -203,7 +495,7 @@
   "B0FWDCD7YC": {
     "first_seen": "2026-11-09",
     "first_seen_at": "2026-11-09T06:15:48+09:00",
-    "last_seen": "2026-11-26",
+    "last_seen": "2026-11-27",
     "title": "Apple 11インチiPad Pro（M5）：Ultra Retina XDR ディスプレイ、2TB、横向きの12MP フロント/バックカメラ、LiDAR スキャナ、Apple N1によるWi-Fi 7 + C1X による5G モバイル通信、Face ID、一日中使えるバッテリー - スペースブラック",
     "percent_off": 8,
     "brand": "Apple(アップル)",
@@ -213,257 +505,97 @@
   "B0FX3ZQKNY": {
     "first_seen": "2026-11-09",
     "first_seen_at": "2026-11-09T06:15:48+09:00",
-    "last_seen": "2026-11-26",
+    "last_seen": "2026-11-27",
     "title": "11インチiPad Pro Wi‑Fi + Cellularモデル 2TB（標準ガラス搭載）- スペースブラック + AppleCare+ for 11インチiPad Pro（M5）",
     "percent_off": 8,
     "brand": "Apple(アップル)",
     "genre": "Apple製品",
     "price": 429415
   },
-  "B0GQW5P438": {
-    "first_seen": "2026-10-31",
-    "first_seen_at": "2026-10-31T07:16:05+09:00",
-    "last_seen": "2026-11-26",
-    "title": "Apple 11インチiPad Air（M4）：Liquid Retinaディスプレイ、128GB、12MPフロント/バックカメラ、Apple N1によるWi-Fi 7、Touch ID、一日中使えるバッテリー — スターライト",
-    "percent_off": null,
-    "brand": "Apple(アップル)",
-    "genre": "Apple製品",
-    "price": 129800
-  },
-  "B0GQWJCR4K": {
-    "first_seen": "2026-09-23",
-    "first_seen_at": "2026-09-23T17:14:35+09:00",
-    "last_seen": "2026-11-26",
-    "title": "Apple 11インチiPad Air（M4）：Liquid Retinaディスプレイ、128GB、12MPフロント/バックカメラ、Apple N1によるWi-Fi 7、Touch ID、一日中使えるバッテリー — スペースグレイ",
-    "percent_off": null,
-    "brand": "Apple(アップル)",
-    "genre": "Apple製品",
-    "price": 129800
-  },
-  "B0GQWSBMQ1": {
-    "first_seen": "2026-10-31",
-    "first_seen_at": "2026-10-31T14:16:09+09:00",
-    "last_seen": "2026-11-26",
-    "title": "Apple 11インチiPad Air（M4）：Liquid Retinaディスプレイ、128GB、12MPフロント/バックカメラ、Apple N1によるWi-Fi 7、Touch ID、一日中使えるバッテリー — ブルー",
-    "percent_off": null,
-    "brand": "Apple(アップル)",
-    "genre": "Apple製品",
-    "price": 129800
-  },
-  "B0GQX196G9": {
-    "first_seen": "2026-11-01",
-    "first_seen_at": "2026-11-01T02:15:45+09:00",
-    "last_seen": "2026-11-26",
-    "title": "Apple 11インチiPad Air（M4）：Liquid Retinaディスプレイ、128GB、12MPフロント/バックカメラ、Apple N1によるWi-Fi 7、Touch ID、一日中使えるバッテリー — パープル",
-    "percent_off": null,
-    "brand": "Apple(アップル)",
-    "genre": "Apple製品",
-    "price": 129800
-  },
-  "B0HJ9VPLKQ": {
-    "first_seen": "2026-11-21",
-    "first_seen_at": "2026-11-21T00:15:28+09:00",
-    "last_seen": "2026-11-26",
-    "title": "Apple Watch Series 12（GPSモデル） | 42mmスペースグレイアルミニウムケースとネイビーブルースポーツバンド - M/L。健康 + フィットネス + 睡眠記録、心拍数、安全",
-    "percent_off": null,
-    "brand": "Apple(アップル)",
-    "genre": "Apple製品",
-    "price": 71800
-  },
-  "B0HJB11VYX": {
-    "first_seen": "2026-11-21",
-    "first_seen_at": "2026-11-21T11:13:11+09:00",
-    "last_seen": "2026-11-26",
-    "title": "Apple Watch Series 12（GPSモデル） | 42mmダークブロンズアルミニウムケースとオリーブスポーツバンド - M/L。健康 + フィットネス + 睡眠記録、心拍数、安全",
-    "percent_off": null,
-    "brand": "Apple(アップル)",
-    "genre": "Apple製品",
-    "price": 71800
-  },
-  "B0HJB2C5KR": {
-    "first_seen": "2026-11-21",
-    "first_seen_at": "2026-11-21T05:13:10+09:00",
-    "last_seen": "2026-11-26",
-    "title": "Apple Watch Series 12（GPSモデル） | 42mmスペースグレイアルミニウムケースとネイビーブルースポーツバンド - S/M。健康 + フィットネス + 睡眠記録、心拍数、安全",
-    "percent_off": null,
-    "brand": "Apple(アップル)",
-    "genre": "Apple製品",
-    "price": 71800
-  },
-  "B0HJB2SJHN": {
-    "first_seen": "2026-11-20",
-    "first_seen_at": "2026-11-20T13:15:25+09:00",
-    "last_seen": "2026-11-26",
-    "title": "Apple Watch Series 12（GPSモデル） | 42mmブラックアルミニウムケースとブラックスポーツバンド - M/L。健康 + フィットネス + 睡眠記録、心拍数、安全",
-    "percent_off": null,
-    "brand": "Apple(アップル)",
-    "genre": "Apple製品",
-    "price": 71800
-  },
-  "B0HJB3GN3F": {
-    "first_seen": "2026-11-20",
-    "first_seen_at": "2026-11-20T13:15:25+09:00",
-    "last_seen": "2026-11-26",
-    "title": "Apple Watch Series 12（GPSモデル） | 42mmライトゴールドアルミニウムケースとサンドスポーツバンド - S/M。健康 + フィットネス + 睡眠記録、心拍数、安全",
-    "percent_off": null,
-    "brand": "Apple(アップル)",
-    "genre": "Apple製品",
-    "price": 71800
-  },
-  "B0HJBL7HVL": {
-    "first_seen": "2026-11-20",
-    "first_seen_at": "2026-11-20T23:14:40+09:00",
-    "last_seen": "2026-11-26",
-    "title": "Apple Watch Series 12（GPSモデル） | 42mmダークブロンズアルミニウムケースとオリーブスポーツバンド - S/M。健康 + フィットネス + 睡眠記録、心拍数、安全",
-    "percent_off": null,
-    "brand": "Apple(アップル)",
-    "genre": "Apple製品",
-    "price": 71800
-  },
-  "B0FQFQDN6K": {
-    "first_seen": "2026-10-13",
-    "first_seen_at": "2026-10-13T00:16:25+09:00",
-    "last_seen": "2026-11-26",
-    "title": "Apple AirPods Pro 3 ワイヤレスイヤホン、アクティブノイズキャンセリング、ライブ翻訳、心拍センサー、補聴機能、Bluetoothヘッドホン、空間オーディオ サウンド、USB-C充電ケース、防塵性能と耐汗耐水性能、「探す」対応、Qi充電",
-    "percent_off": null,
-    "brand": "Apple(アップル)",
-    "genre": "Apple製品",
-    "price": 42800
-  },
-  "B0GQW2939K": {
-    "first_seen": "2026-10-31",
-    "first_seen_at": "2026-10-31T20:16:18+09:00",
-    "last_seen": "2026-11-26",
-    "title": "Apple 11インチiPad Air（M4）：Liquid Retinaディスプレイ、256GB、12MPフロント/バックカメラ、Apple N1によるWi-Fi 7、Touch ID、一日中使えるバッテリー — パープル",
-    "percent_off": null,
-    "brand": "Apple(アップル)",
-    "genre": "Apple製品",
-    "price": 146801
-  },
-  "B0GQW2J67Z": {
-    "first_seen": "2026-10-17",
-    "first_seen_at": "2026-10-17T22:15:06+09:00",
-    "last_seen": "2026-11-26",
-    "title": "Apple 11インチiPad Air（M4）：Liquid Retinaディスプレイ、256GB、12MPフロント/バックカメラ、Apple N1によるWi-Fi 7、Touch ID、一日中使えるバッテリー — スターライト",
-    "percent_off": null,
-    "brand": "Apple(アップル)",
-    "genre": "Apple製品",
-    "price": 146801
-  },
-  "B0GQWFB3MV": {
-    "first_seen": "2026-10-17",
-    "first_seen_at": "2026-10-17T21:15:05+09:00",
-    "last_seen": "2026-11-26",
-    "title": "Apple 11インチiPad Air（M4）：Liquid Retinaディスプレイ、256GB、12MPフロント/バックカメラ、Apple N1によるWi-Fi 7、Touch ID、一日中使えるバッテリー — ブルー",
-    "percent_off": null,
-    "brand": "Apple(アップル)",
-    "genre": "Apple製品",
-    "price": 146801
-  },
-  "B0GQWWWH1T": {
-    "first_seen": "2026-10-13",
-    "first_seen_at": "2026-10-13T10:16:05+09:00",
-    "last_seen": "2026-11-26",
-    "title": "Apple 11インチiPad Air（M4）：Liquid Retinaディスプレイ、256GB、12MPフロント/バックカメラ、Apple N1によるWi-Fi 7、Touch ID、一日中使えるバッテリー — スペースグレイ",
-    "percent_off": null,
-    "brand": "Apple(アップル)",
-    "genre": "Apple製品",
-    "price": 146801
-  },
-  "B0HJ9V2FK4": {
+  "B0GQWKSTGS": {
     "first_seen": "2026-11-21",
     "first_seen_at": "2026-11-21T01:14:15+09:00",
-    "last_seen": "2026-11-26",
-    "title": "Apple Watch Series 12（GPSモデル） | 46mmスペースグレイアルミニウムケースとネイビーブルースポーツバンド - M/L。健康 + フィットネス + 睡眠記録、心拍数、安全",
-    "percent_off": null,
+    "last_seen": "2026-11-27",
+    "title": "Apple 11インチiPad Air（M4）：Liquid Retinaディスプレイ、512GB、12MPフロント/バックカメラ、Apple N1によるWi-Fi 7、Touch ID、一日中使えるバッテリー — スペースグレイ",
+    "percent_off": 7,
     "brand": "Apple(アップル)",
     "genre": "Apple製品",
-    "price": 80800
+    "price": 168800
   },
-  "B0HJB1JJ9P": {
+  "B0GQWKVZJX": {
     "first_seen": "2026-11-20",
-    "first_seen_at": "2026-11-20T15:14:56+09:00",
-    "last_seen": "2026-11-26",
-    "title": "Apple Watch Series 12（GPSモデル） | 46mmライトゴールドアルミニウムケースとサンドスポーツバンド - M/L。健康 + フィットネス + 睡眠記録、心拍数、安全",
-    "percent_off": null,
+    "first_seen_at": "2026-11-20T18:15:52+09:00",
+    "last_seen": "2026-11-27",
+    "title": "Apple 11インチiPad Air（M4）：Liquid Retinaディスプレイ、512GB、12MPフロント/バックカメラ、Apple N1によるWi-Fi 7、Touch ID、一日中使えるバッテリー — ブルー",
+    "percent_off": 7,
     "brand": "Apple(アップル)",
     "genre": "Apple製品",
-    "price": 80800
+    "price": 168800
   },
-  "B0HJB1QJH7": {
-    "first_seen": "2026-11-20",
-    "first_seen_at": "2026-11-20T14:15:01+09:00",
-    "last_seen": "2026-11-26",
-    "title": "Apple Watch Series 12（GPSモデル） | 46mmダークブロンズアルミニウムケースとオリーブスポーツバンド - S/M。健康 + フィットネス + 睡眠記録、心拍数、安全",
-    "percent_off": null,
+  "B0GQX1MR9M": {
+    "first_seen": "2026-11-21",
+    "first_seen_at": "2026-11-21T15:14:31+09:00",
+    "last_seen": "2026-11-27",
+    "title": "Apple 11インチiPad Air（M4）：Liquid Retinaディスプレイ、512GB、12MPフロント/バックカメラ、Apple N1によるWi-Fi 7、Touch ID、一日中使えるバッテリー — スターライト",
+    "percent_off": 7,
     "brand": "Apple(アップル)",
     "genre": "Apple製品",
-    "price": 80800
+    "price": 168800
   },
-  "B0HJB2M493": {
-    "first_seen": "2026-11-20",
-    "first_seen_at": "2026-11-20T14:15:01+09:00",
-    "last_seen": "2026-11-26",
-    "title": "Apple Watch Series 12（GPSモデル） | 46mmライトゴールドアルミニウムケースとサンドスポーツバンド - S/M。健康 + フィットネス + 睡眠記録、心拍数、安全",
-    "percent_off": null,
+  "B0GQWBTXPR": {
+    "first_seen": "2026-10-26",
+    "first_seen_at": "2026-10-26T22:25:29+09:00",
+    "last_seen": "2026-11-27",
+    "title": "Apple 11インチiPad Air（M4）：Liquid Retinaディスプレイ、1TB、12MPフロント/バックカメラ、Apple N1によるWi-Fi 7、Touch ID、一日中使えるバッテリー — スペースグレイ",
+    "percent_off": 6,
     "brand": "Apple(アップル)",
     "genre": "Apple製品",
-    "price": 80800
+    "price": 218800
   },
-  "B0HJB2W3J6": {
-    "first_seen": "2026-11-20",
-    "first_seen_at": "2026-11-20T14:15:01+09:00",
-    "last_seen": "2026-11-26",
-    "title": "Apple Watch Series 12（GPSモデル） | 46mmダークブロンズアルミニウムケースとオリーブスポーツバンド - M/L。健康 + フィットネス + 睡眠記録、心拍数、安全",
-    "percent_off": null,
+  "B0GQWDVY5Q": {
+    "first_seen": "2026-11-05",
+    "first_seen_at": "2026-11-05T15:16:13+09:00",
+    "last_seen": "2026-11-27",
+    "title": "Apple 11インチiPad Air（M4）：Liquid Retinaディスプレイ、1TB、12MPフロント/バックカメラ、Apple N1によるWi-Fi 7、Touch ID、一日中使えるバッテリー — パープル",
+    "percent_off": 6,
     "brand": "Apple(アップル)",
     "genre": "Apple製品",
-    "price": 80800
+    "price": 218800
   },
-  "B0HJB92SDL": {
-    "first_seen": "2026-11-20",
-    "first_seen_at": "2026-11-20T23:14:40+09:00",
-    "last_seen": "2026-11-26",
-    "title": "Apple Watch Series 12（GPSモデル） | 46mmスペースグレイアルミニウムケースとネイビーブルースポーツバンド - S/M。健康 + フィットネス + 睡眠記録、心拍数、安全",
-    "percent_off": null,
+  "B0GQWKGNFD": {
+    "first_seen": "2026-10-26",
+    "first_seen_at": "2026-10-26T22:25:29+09:00",
+    "last_seen": "2026-11-27",
+    "title": "Apple 11インチiPad Air（M4）：Liquid Retinaディスプレイ、1TB、12MPフロント/バックカメラ、Apple N1によるWi-Fi 7、Touch ID、一日中使えるバッテリー — ブルー",
+    "percent_off": 6,
     "brand": "Apple(アップル)",
     "genre": "Apple製品",
-    "price": 80800
+    "price": 218800
+  },
+  "B0GQWRP5BZ": {
+    "first_seen": "2026-10-26",
+    "first_seen_at": "2026-10-26T22:25:29+09:00",
+    "last_seen": "2026-11-27",
+    "title": "Apple 11インチiPad Air（M4）：Liquid Retinaディスプレイ、1TB、12MPフロント/バックカメラ、Apple N1によるWi-Fi 7、Touch ID、一日中使えるバッテリー — スターライト",
+    "percent_off": 6,
+    "brand": "Apple(アップル)",
+    "genre": "Apple製品",
+    "price": 218800
   },
   "B0HJB96X85": {
     "first_seen": "2026-11-26",
     "first_seen_at": "2026-11-26T22:13:50+09:00",
-    "last_seen": "2026-11-26",
+    "last_seen": "2026-11-27",
     "title": "Apple Watch Series 12（GPSモデル） | 46mmダークブロンズアルミニウムケースとダークブロンズミラネーゼループ - S/M。健康 + フィットネス + 睡眠記録、心拍数、安全",
     "percent_off": null,
     "brand": "Apple(アップル)",
     "genre": "Apple製品",
     "price": 89800
   },
-  "B0HJB9GLPB": {
-    "first_seen": "2026-11-20",
-    "first_seen_at": "2026-11-20T14:15:01+09:00",
-    "last_seen": "2026-11-26",
-    "title": "Apple Watch Series 12（GPSモデル） | 46mmブラックアルミニウムケースとブラックスポーツバンド - S/M。健康 + フィットネス + 睡眠記録、心拍数、安全",
-    "percent_off": null,
-    "brand": "Apple(アップル)",
-    "genre": "Apple製品",
-    "price": 80800
-  },
-  "B0HJBBZBQQ": {
-    "first_seen": "2026-11-20",
-    "first_seen_at": "2026-11-20T13:15:25+09:00",
-    "last_seen": "2026-11-26",
-    "title": "Apple Watch Series 12（GPSモデル） | 46mmブラックアルミニウムケースとブラックスポーツバンド - M/L。健康 + フィットネス + 睡眠記録、心拍数、安全",
-    "percent_off": null,
-    "brand": "Apple(アップル)",
-    "genre": "Apple製品",
-    "price": 80801
-  },
   "B0DZ7WF87P": {
     "first_seen": "2026-11-22",
     "first_seen_at": "2026-11-22T04:14:23+09:00",
-    "last_seen": "2026-11-26",
+    "last_seen": "2026-11-27",
     "title": "Apple 11 インチ iPad (A16): 11 インチモデル、Liquid Retina ディスプレイ、128GB、Wi-Fi 6、12MP フロント/12MP バックカメラ、Touch ID、一日中使えるバ ッテリー - シルバー",
     "percent_off": 5,
     "brand": "Apple(アップル)",
@@ -481,10 +613,20 @@
       }
     ]
   },
+  "B0HJ9VNBZ8": {
+    "first_seen": "2026-11-27",
+    "first_seen_at": "2026-11-27T00:13:28+09:00",
+    "last_seen": "2026-11-27",
+    "title": "Apple AirPods 5ワイヤレスイヤーバッド | Bluetoothヘッドフォン、アクティブノイズキャンセリング、パーソナライズされた空間オーディオ、ライブ翻訳、USB-C充電ケース、H2チップ",
+    "percent_off": 5,
+    "brand": "Apple(アップル)",
+    "genre": "Apple製品",
+    "price": 22600
+  },
   "B0FWDBWC7F": {
     "first_seen": "2026-10-22",
     "first_seen_at": "2026-10-22T00:16:22+09:00",
-    "last_seen": "2026-11-26",
+    "last_seen": "2026-11-27",
     "title": "Apple 13インチiPad Air (M4) 用Magic Keyboard - 日本語 - ブラック",
     "percent_off": 5,
     "brand": "Apple(アップル)",
@@ -494,7 +636,7 @@
   "B0GR1NTKL9": {
     "first_seen": "2026-11-24",
     "first_seen_at": "2026-11-24T10:13:28+09:00",
-    "last_seen": "2026-11-26",
+    "last_seen": "2026-11-27",
     "title": "Apple 2026 MacBook Pro 18コアCPU、20コアGPUのM5 Proチップ搭載ノートパソコン：AIのために設計、14.2インチLiquid Retina XDRディスプレイ、24GBユニファイドメモリ、2TBのSSDストレージ - シルバー",
     "percent_off": 6,
     "brand": "Apple(アップル)",
@@ -504,102 +646,1970 @@
   "B0GRTST8MJ": {
     "first_seen": "2026-11-24",
     "first_seen_at": "2026-11-24T10:13:28+09:00",
-    "last_seen": "2026-11-26",
+    "last_seen": "2026-11-27",
     "title": "Apple 2026 MacBook Pro 18コアCPU、20コアGPUのM5 Proチップ搭載ノートパソコン：AIのために設計、14.2インチLiquid Retina XDRディスプレイ、24GBユニファイドメモリ、2TBのSSDストレージ - シルバー + 3年延長 AppleCare+ for 14インチMacBook Pro(M5 Pro/M5 Max)|ダウンロード版",
     "percent_off": 6,
     "brand": "Apple(アップル)",
     "genre": "Apple製品",
     "price": 564612
   },
-  "B0GQWBTXPR": {
-    "first_seen": "2026-10-26",
-    "first_seen_at": "2026-10-26T22:25:29+09:00",
-    "last_seen": "2026-11-26",
-    "title": "Apple 11インチiPad Air（M4）：Liquid Retinaディスプレイ、1TB、12MPフロント/バックカメラ、Apple N1によるWi-Fi 7、Touch ID、一日中使えるバッテリー — スペースグレイ",
-    "percent_off": null,
-    "brand": "Apple(アップル)",
-    "genre": "Apple製品",
-    "price": 231800
-  },
-  "B0GQWDVY5Q": {
-    "first_seen": "2026-11-05",
-    "first_seen_at": "2026-11-05T15:16:13+09:00",
-    "last_seen": "2026-11-26",
-    "title": "Apple 11インチiPad Air（M4）：Liquid Retinaディスプレイ、1TB、12MPフロント/バックカメラ、Apple N1によるWi-Fi 7、Touch ID、一日中使えるバッテリー — パープル",
-    "percent_off": null,
-    "brand": "Apple(アップル)",
-    "genre": "Apple製品",
-    "price": 231800
-  },
-  "B0GQWKGNFD": {
-    "first_seen": "2026-10-26",
-    "first_seen_at": "2026-10-26T22:25:29+09:00",
-    "last_seen": "2026-11-26",
-    "title": "Apple 11インチiPad Air（M4）：Liquid Retinaディスプレイ、1TB、12MPフロント/バックカメラ、Apple N1によるWi-Fi 7、Touch ID、一日中使えるバッテリー — ブルー",
-    "percent_off": null,
-    "brand": "Apple(アップル)",
-    "genre": "Apple製品",
-    "price": 231800
-  },
-  "B0GQWKSTGS": {
-    "first_seen": "2026-11-21",
-    "first_seen_at": "2026-11-21T01:14:15+09:00",
-    "last_seen": "2026-11-26",
-    "title": "Apple 11インチiPad Air（M4）：Liquid Retinaディスプレイ、512GB、12MPフロント/バックカメラ、Apple N1によるWi-Fi 7、Touch ID、一日中使えるバッテリー — スペースグレイ",
-    "percent_off": null,
-    "brand": "Apple(アップル)",
-    "genre": "Apple製品",
-    "price": 181800
-  },
-  "B0GQWKVZJX": {
-    "first_seen": "2026-11-20",
-    "first_seen_at": "2026-11-20T18:15:52+09:00",
-    "last_seen": "2026-11-26",
-    "title": "Apple 11インチiPad Air（M4）：Liquid Retinaディスプレイ、512GB、12MPフロント/バックカメラ、Apple N1によるWi-Fi 7、Touch ID、一日中使えるバッテリー — ブルー",
-    "percent_off": null,
-    "brand": "Apple(アップル)",
-    "genre": "Apple製品",
-    "price": 181800
-  },
-  "B0GQWRP5BZ": {
-    "first_seen": "2026-10-26",
-    "first_seen_at": "2026-10-26T22:25:29+09:00",
-    "last_seen": "2026-11-26",
-    "title": "Apple 11インチiPad Air（M4）：Liquid Retinaディスプレイ、1TB、12MPフロント/バックカメラ、Apple N1によるWi-Fi 7、Touch ID、一日中使えるバッテリー — スターライト",
-    "percent_off": null,
-    "brand": "Apple(アップル)",
-    "genre": "Apple製品",
-    "price": 231800
-  },
-  "B0GQX1MR9M": {
-    "first_seen": "2026-11-21",
-    "first_seen_at": "2026-11-21T15:14:31+09:00",
-    "last_seen": "2026-11-26",
-    "title": "Apple 11インチiPad Air（M4）：Liquid Retinaディスプレイ、512GB、12MPフロント/バックカメラ、Apple N1によるWi-Fi 7、Touch ID、一日中使えるバッテリー — スターライト",
-    "percent_off": null,
-    "brand": "Apple(アップル)",
-    "genre": "Apple製品",
-    "price": 181800
-  },
   "B0HJWCJCL2": {
     "first_seen": "2026-11-22",
     "first_seen_at": "2026-11-22T04:14:23+09:00",
-    "last_seen": "2026-11-26",
+    "last_seen": "2026-11-27",
     "title": "Apple 11 インチ iPad (A16): 11 インチモデル、Liquid Retina ディスプレイ、128GB、Wi-Fi 6、12MP フロント/12MP バックカメラ、Touch ID、一日中使えるバ ッテリー - シルバー (× 3)",
     "percent_off": 5,
     "brand": "Apple(アップル)",
     "genre": "Apple製品",
     "price": 213246
   },
+  "B0DPX7W84T": {
+    "first_seen": "2026-10-20",
+    "first_seen_at": "2026-10-20T15:15:01+09:00",
+    "last_seen": "2026-11-27",
+    "title": "Anker Soundcore Q30i ブラック (ワイヤレス ヘッドホン / ウルトラノイズキャンセリング) | （Bluetooth5.3 ワイヤレス ヘッドホン）【ウルトラノイズキャンセリング/外音取り込みモード/Bluetooth対応/ハイレゾ対応（AUX接続時） / 最大80時間音楽再生 / マイク内蔵/専用アプリ対応】",
+    "percent_off": 35,
+    "brand": "Soundcore",
+    "genre": "ワイヤレスイヤホン",
+    "price": 6490
+  },
+  "B0DRV8HD2D": {
+    "first_seen": "2026-11-27",
+    "first_seen_at": "2026-11-27T00:13:28+09:00",
+    "last_seen": "2026-11-27",
+    "title": "Anker Soundcore Liberty 5 パールホワイト (完全ワイヤレスイヤホン, ウルトラノイズキャンセリング 3.5) | 【完全ワイヤレスイヤホン/ウルトラノイズキャンセリング 3.5 / 3Dオーディオ / Dolby Audio対応/ワイヤレス充電/マルチポイント接続/外音取り込み / 最大48時間再生 / ハイレゾ / IP55 防塵・防水規格】",
+    "percent_off": 33,
+    "brand": "Soundcore",
+    "genre": "ワイヤレスイヤホン",
+    "price": 9990
+  },
   "B0F3XFNHCW": {
     "first_seen": "2026-11-01",
     "first_seen_at": "2026-11-01T02:15:45+09:00",
-    "last_seen": "2026-11-26",
+    "last_seen": "2026-11-27",
     "title": "ソニー(SONY) WF-C710N ブラック ワイヤレスイヤホン 高性能ノイズキャンセリング Bluetoothロングバッテリー 外音取り込み IPX4防滴性能 軽量 コンパクト マルチポイント接続",
     "percent_off": 30,
     "brand": "Sony",
     "genre": "ワイヤレスイヤホン",
     "price": 12325
+  },
+  "B0FNRS5WB2": {
+    "first_seen": "2026-11-04",
+    "first_seen_at": "2026-11-04T01:15:06+09:00",
+    "last_seen": "2026-11-27",
+    "title": "Anker Soundcore P31i ブラック | （Bluetooth 6.1）【完全ワイヤレスイヤホン/アクティブノイズキャンセリング/マルチポイント接続 / 最大50時間再生 / PSE技術基準適合】",
+    "percent_off": 25,
+    "brand": "Soundcore",
+    "genre": "ワイヤレスイヤホン",
+    "price": 4490
+  },
+  "B0D4Z8NPH7": {
+    "first_seen": "2026-11-04",
+    "first_seen_at": "2026-11-04T00:15:51+09:00",
+    "last_seen": "2026-11-27",
+    "title": "Anker Soundcore V20i ブラック | （Bluetooth 5.4）【オープンイヤー型ワイヤレスイヤホン / IP55防塵防水規格/ 最大36時間再生 / マルチポイント接続】",
+    "percent_off": 25,
+    "brand": "Soundcore",
+    "genre": "ワイヤレスイヤホン",
+    "price": 4490
+  },
+  "B0DDKHF9XY": {
+    "first_seen": "2026-08-16",
+    "first_seen_at": "2026-08-16T23:40:53+09:00",
+    "last_seen": "2026-11-27",
+    "title": "ソニー(SONY) 完全ワイヤレスイヤホン WF-C510 / 軽量小型4.6g / 高精度通話品質/外音取り込み対応/マルチポイント対応 / IPX4防滴性能 / ブラック/WF-C510 BC",
+    "percent_off": 23,
+    "brand": "Sony",
+    "genre": "ワイヤレスイヤホン",
+    "price": 7600
+  },
+  "B0GW7WT5SQ": {
+    "first_seen": "2026-10-07",
+    "first_seen_at": "2026-10-07T00:14:58+09:00",
+    "last_seen": "2026-11-27",
+    "title": "ソニー ゲーミングイヤホン INZONE Buds:WF-G700N Fnatic監修/ワイヤレス / 低遅延2.4GHzワイヤレス接続 USBType-Cトランシーバー同梱/LE Audio対応/アクティブノイズキャンセリング/立体音響 / 最大約24時間バッテリー / 急速充電/マイク付き / PS5 スマホ PC Switch グラスパープル",
+    "percent_off": 21,
+    "brand": "Sony",
+    "genre": "ワイヤレスイヤホン",
+    "price": 20500
+  },
+  "B0CBKQZXT7": {
+    "first_seen": "2026-11-27",
+    "first_seen_at": "2026-11-27T00:13:28+09:00",
+    "last_seen": "2026-11-27",
+    "title": "ソニー(SONY)ワイヤレスノイズキャンセリングイヤホン WF-1000XM5 :【VGP2025金賞】 / 完全ワイヤレス/圧倒的ノイズキャンセリング性能/小型軽量設計/高性能マイク通話品質/Amazon Alexa搭載/Bluetooth/LDAC対応 / 最大8時間連続再生 / IPX4防滴性能 / マルチポイント対応/ブラック/WF-1000XM5 BC",
+    "percent_off": 17,
+    "brand": "Sony",
+    "genre": "ワイヤレスイヤホン",
+    "price": 22000
+  },
+  "B0CTLQRSFX": {
+    "first_seen": "2026-11-27",
+    "first_seen_at": "2026-11-27T00:13:28+09:00",
+    "last_seen": "2026-11-27",
+    "title": "Belkin BoostCharge トラベルプラグキット 海外用 電源プラグ 4点セット (US / UK / EU / AU) | BPZ003dqBKJP専用　※充電器/モバイルバッテリー本体別売り",
+    "percent_off": 43,
+    "brand": "Belkin",
+    "genre": "モバイルバッテリー",
+    "price": 793
+  },
+  "B0F6NFHB31": {
+    "first_seen": "2026-07-25",
+    "first_seen_at": "2026-07-25T12:00:00+09:00",
+    "last_seen": "2026-11-27",
+    "title": "UGREEN Air モバイルバッテリー 5000mAh 8.6mm超薄型 Qi2 15W MagSafe iPhone18Pro対応 | 【ATL製セル×難燃技術】マグネット式ワイヤレス充電｜軽量・小型設計｜USB-C PD 20W対応 ｜パススルー充電対応｜iPhone18 Pro/17/16/15 シリーズ/ Air対応｜PB580｜ダークグレー",
+    "percent_off": 40,
+    "brand": "UGREEN",
+    "genre": "モバイルバッテリー",
+    "price": 4144
+  },
+  "B0DT4RGDSJ": {
+    "first_seen": "2026-11-21",
+    "first_seen_at": "2026-11-21T00:15:28+09:00",
+    "last_seen": "2026-11-27",
+    "title": "Anker Power Bank (25000mAh, Built-In & 巻取り式USB-Cケーブル) ブラック | モバイルバッテリー 大容量/PD対応/PSE技術基準適合/機内持ち込み可/ 165W出力/ 一体型ケーブル MacBook Windows PC iPad Pro iPhone 18 / 17 / 16 / 15 Galaxy Android対応",
+    "percent_off": 40,
+    "brand": "Anker",
+    "genre": "モバイルバッテリー",
+    "price": 10790
+  },
+  "B0DNLVY85L": {
+    "first_seen": "2026-10-01",
+    "first_seen_at": "2026-10-01T23:14:55+09:00",
+    "last_seen": "2026-11-27",
+    "title": "Anker Nano Power Bank (10000mAh, 45W, 巻取り式 USB-Cケーブル) ブラック | モバイルバッテリー 10000mAh (36Wh/10K) / 45W出力 / ディスプレイ搭載/巻取り式USB-Cケーブル一体型/iPhone 18 / 17 / 16 / 15シリーズ Android iPad その他各種機器対応",
+    "percent_off": 35,
+    "brand": "Anker",
+    "genre": "モバイルバッテリー",
+    "price": 5190
+  },
+  "B0CX4C1TVK": {
+    "first_seen": "2026-07-27",
+    "first_seen_at": "2026-07-27T12:00:00+09:00",
+    "last_seen": "2026-11-27",
+    "title": "Anker Power Bank (10000mAh, Fusion, Built-In USB-C ケーブル) ブラック 1台3役 | 10K 30W出力モバイルバッテリー搭載 30W出力USB充電器 / LEDディスプレイ/ケーブル一体型/コンセント一体型/折りたたみ式プラグ 1台3役 / iPhone 18 / 17 / 16 / 15 Android その他各種機器対応",
+    "percent_off": 33,
+    "brand": "Anker",
+    "genre": "モバイルバッテリー",
+    "price": 5990
+  },
+  "B0F6LBT3ZX": {
+    "first_seen": "2026-11-27",
+    "first_seen_at": "2026-11-27T00:13:28+09:00",
+    "last_seen": "2026-11-27",
+    "title": "Anker Nano Power Bank (5000mAh, MagGo, Slim) ブラック Qi2認証 薄型 8.6mm | モバイルバッテリー Qi2認証 ワイヤレス充電 最大出力15W MagSafe対応 マグネット式ワイヤレス充電対応 コンパクト スリ 軽量 薄型 8.6mm 小型 iPhone 18 / 17 / 16 / 15シリーズ / Air 対応",
+    "percent_off": 31,
+    "brand": "Anker",
+    "genre": "モバイルバッテリー",
+    "price": 5490
+  },
+  "B0CCJFY2V4": {
+    "first_seen": "2026-11-04",
+    "first_seen_at": "2026-11-04T00:15:51+09:00",
+    "last_seen": "2026-11-27",
+    "title": "Anker Nano Power Bank (22.5W, Built-In USB-C Connector) ブラック | モバイルバッテリー 5000mAh 軽量 小型 コンパクト【PowerIQ搭載/USB-C一体型】 iPhone 18 / 17 / 16 / 15 シリーズ/Switch 2対応",
+    "percent_off": 30,
+    "brand": "Anker",
+    "genre": "モバイルバッテリー",
+    "price": 2790
+  },
+  "B0CV9XG1FJ": {
+    "first_seen": "2026-11-13",
+    "first_seen_at": "2026-11-13T01:15:04+09:00",
+    "last_seen": "2026-11-27",
+    "title": "Belkin モバイルバッテリー 3C 認証 大容量 10000mAh 最大15W 3台同時充電 USB-A to Cケーブル付属 ゴールド | BoostCharge VGP2022受賞 3台同時充電 USB-C×1 USB-A×2 CCC PSE認証 機内持込可能 iPhone 18シリーズ以下・Android対応 充電ケーブル付属 LED残量表示 2年保証 2500ドルのCEW補償",
+    "percent_off": 29,
+    "brand": "Belkin",
+    "genre": "モバイルバッテリー",
+    "price": 1692
+  },
+  "B0DZ1TGX6T": {
+    "first_seen": "2026-07-24",
+    "first_seen_at": "2026-07-24T12:00:00+09:00",
+    "last_seen": "2026-11-27",
+    "title": "UGREEN Zapix【小型・軽量／10000mAh／USB－C＆USB－A／PD20W／2台同時充電】モバイルバッテリー 灰色 PB507 | 急速充電／小電流モード／残量パーセント表示／コンパクト／PSE技術基準適合 iPhone18/Android/iPad 各種 USB-C 機器に対応",
+    "percent_off": 26,
+    "brand": "UGREEN",
+    "genre": "モバイルバッテリー",
+    "price": 2129
+  },
+  "B0GCZMBX21": {
+    "first_seen": "2026-11-19",
+    "first_seen_at": "2026-11-19T00:14:50+09:00",
+    "last_seen": "2026-11-27",
+    "title": "UGREEN 10000mAh PD20W 薄型モバイルバッテリー（着脱式・内蔵式USB-Cケーブル各1本付属）ブルー PB524 | USB-Cケーブル2本を本体に収納、10000mAh大容量と20WPD急速充電に対応、液晶ディスプレイで残量を一目で確認、iPhon18シリーズに対応、スマホ約2回分の充電が可能",
+    "percent_off": 25,
+    "brand": "UGREEN",
+    "genre": "モバイルバッテリー",
+    "price": 2980
+  },
+  "B0HBPPZLV1": {
+    "first_seen": "2026-11-27",
+    "first_seen_at": "2026-11-27T00:13:28+09:00",
+    "last_seen": "2026-11-27",
+    "title": "エレコム モバイルバッテリー ワイヤレス充電 MagSafe対応 マグネット式 3000mAh 最大7.5W USB Type-C 10W出力 薄型 iPhone対応 急速充電 パススルー対応 PSE認証 まとめて充電 機内持ち込み可 シルバー EC-C70SV",
+    "percent_off": 23,
+    "brand": "エレコム(ELECOM)",
+    "genre": "モバイルバッテリー",
+    "price": 3455
+  },
+  "B0GPDBS299": {
+    "first_seen": "2026-11-27",
+    "first_seen_at": "2026-11-27T00:13:28+09:00",
+    "last_seen": "2026-11-27",
+    "title": "エレコム 半固体電池 モバイルバッテリー 10000mAh PD35W Type-C USB-A 燃えにくい 安全設計 長寿命 2000回サイクル 3台同時充電 残量表示 軽量220g PSE認証 機内持ち込み可 iPhone対応 ミッドナイト EC-C61MN",
+    "percent_off": 21,
+    "brand": "エレコム(ELECOM)",
+    "genre": "モバイルバッテリー",
+    "price": 4940
+  },
+  "B0GMX4WKYG": {
+    "first_seen": "2026-11-23",
+    "first_seen_at": "2026-11-23T16:13:07+09:00",
+    "last_seen": "2026-11-27",
+    "title": "CIO 半固体 モバイルバッテリー 35W USB-C×2 USB-A×1 10000mAh SMARTCOBY Pro SLIM SS (ブラック) | 薄型軽量,MacBook対応, WindowsノートPC対応, iPhone対応, 機内持ち込み, パススルー充電対応",
+    "percent_off": 21,
+    "brand": "CIO",
+    "genre": "モバイルバッテリー",
+    "price": 4980
+  },
+  "B0CQX67KTW": {
+    "first_seen": "2026-11-27",
+    "first_seen_at": "2026-11-27T00:13:28+09:00",
+    "last_seen": "2026-11-27",
+    "title": "Anker Power Bank (10000mAh, 22.5W) ブラック | モバイルバッテリー 【アップグレード版】10000mAh 最大22.5W出力 ディスプレイ搭載 PD/PowerIQ搭載/PSE技術基準適合 iPhone 18 / 17 / 16 / 15 Android iPad その他各種機器対応",
+    "percent_off": 20,
+    "brand": "Anker",
+    "genre": "モバイルバッテリー",
+    "price": 2790
+  },
+  "B0H1G5LYR8": {
+    "first_seen": "2026-11-27",
+    "first_seen_at": "2026-11-27T00:13:28+09:00",
+    "last_seen": "2026-11-27",
+    "title": "Anker Nano Power Bank (MagGo, Plus) ブラック 【釘を刺しても燃えないモバイルバッテリー】 | 10000mAh MagSafeモバイルバッテリー PSE 3C認証 安全 Qi2 最大出力15W マグセーフ マグネット式ワイヤレス充電対応 薄型 大容量 iPhone 18 / 17 / 16 / 15 シリーズ対応",
+    "percent_off": 20,
+    "brand": "Anker",
+    "genre": "モバイルバッテリー",
+    "price": 9590
+  },
+  "B0CX4FKYCS": {
+    "first_seen": "2026-10-10",
+    "first_seen_at": "2026-10-10T23:14:49+09:00",
+    "last_seen": "2026-11-27",
+    "title": "Anker Power Bank (10000mAh, Fusion, Built-In USB-C ケーブル) ホワイト 1台3役 | 10K 30W出力モバイルバッテリー搭載 30W出力USB充電器 / LEDディスプレイ/ケーブル一体型/コンセント一体型/折りたたみ式プラグ 1台3役 / iPhone 18 / 17 / 16 / 15 Android その他各種機器対応",
+    "percent_off": null,
+    "brand": "Anker",
+    "genre": "モバイルバッテリー",
+    "price": 8990
+  },
+  "B0H1BYKWRV": {
+    "first_seen": "2026-11-27",
+    "first_seen_at": "2026-11-27T00:13:28+09:00",
+    "last_seen": "2026-11-27",
+    "title": "エレコム モバイルバッテリー 10000mAh 大容量 急速充電 軽量 小型 残量表示 LEDパネル 22.5W PD対応 PPS対応 USB-C USB-A 2ポート パススルー充電 PSE認証 iPhone iPad しろちゃん EC-C65LWF",
+    "percent_off": 18,
+    "brand": "エレコム(ELECOM)",
+    "genre": "モバイルバッテリー",
+    "price": 2465
+  },
+  "B0FTZ63967": {
+    "first_seen": "2026-11-21",
+    "first_seen_at": "2026-11-21T11:13:11+09:00",
+    "last_seen": "2026-11-27",
+    "title": "CIO 半固体モバイルバッテリー 10000mAh SMARTCOBY Ex05 Wireless2.2 Pro CABLE SS10K (ブラック) | iPhone18 Pro対応, Qi2.2対応, 着脱可能ケーブル内蔵,3台同時充電可能, 35W急速充電",
+    "percent_off": 17,
+    "brand": "CIO",
+    "genre": "モバイルバッテリー",
+    "price": 7480
+  },
+  "B0FHK4LK2M": {
+    "first_seen": "2026-11-27",
+    "first_seen_at": "2026-11-27T00:13:28+09:00",
+    "last_seen": "2026-11-27",
+    "title": "エレコム モバイルバッテリー 5000mAh 22.5W 軽量 小型 タイプC 直挿し USB-C一体型 スイング式コネクタ ケーブルいらずで挿すだけ充電 【 iPhone16/iPad 第10世代/Google Pixel9 対応】 ホワイト EC-C28LWH",
+    "percent_off": 16,
+    "brand": "エレコム(ELECOM)",
+    "genre": "モバイルバッテリー",
+    "price": 2168
+  },
+  "B0F4VVMV57": {
+    "first_seen": "2026-11-27",
+    "first_seen_at": "2026-11-27T00:13:28+09:00",
+    "last_seen": "2026-11-27",
+    "title": "【アマゾン限定】Belkin モバイルバッテリー 3C認証 軽量 10000mAh 20W USB-Cケーブル内蔵 2台同時充電 ホワイト | BoostCharge ccc認証 モバイルバッテリー PD対応 PPS対応 iPhone18，17〜12対応 Android対応 PSE認証 機内持込可能 コンパクト アウトドア 災害対策 2年保証 2500ドルのCEW補償",
+    "percent_off": 15,
+    "brand": "Belkin",
+    "genre": "モバイルバッテリー",
+    "price": 2414
+  },
+  "B0GTLRMFJZ": {
+    "first_seen": "2026-11-27",
+    "first_seen_at": "2026-11-27T00:13:28+09:00",
+    "last_seen": "2026-11-27",
+    "title": "Belkin Nintendo Switch 2 ケース 10000mAh 大容量バッテリー内蔵 30W急速充電 スタンド付き チャコールグレー | PD30W対応の着脱式モバイルバッテリー、収納しながら給電可能、ゲームカード12枚収納、耐衝撃EVAハードケース、外出先でも快適にプレイ",
+    "percent_off": 15,
+    "brand": "Belkin",
+    "genre": "モバイルバッテリー",
+    "price": 10990
+  },
+  "B0DRP4ZN3Z": {
+    "first_seen": "2026-11-27",
+    "first_seen_at": "2026-11-27T00:13:28+09:00",
+    "last_seen": "2026-11-27",
+    "title": "Belkin Apple Watch充電器 持ち運び USB-C ドングル ポータブル MFI認証 高速充電 全モデル対応 | Apple Watch Series 1〜11・Ultra・SE対応、USB-CポートでノートPC・スマホ・モバイルバッテリーから充電可能、軽量コンパクトで持ち運びやすい、自宅・オフィス・旅行先で便利、2年保証 ブラック",
+    "percent_off": 14,
+    "brand": "Belkin",
+    "genre": "モバイルバッテリー",
+    "price": 4250
+  },
+  "B098SQSRRV": {
+    "first_seen": "2026-07-31",
+    "first_seen_at": "2026-07-31T12:00:00+09:00",
+    "last_seen": "2026-11-27",
+    "title": "Belkin USB充電器 40W iPhone17,16～12 デュアルUSB-C(20W x 2) PD3.0 急速充電対応 ホワイト WCB006dqWHJP",
+    "percent_off": 63,
+    "brand": "Belkin",
+    "genre": "充電器",
+    "price": 980
+  },
+  "B0CMQK8CMJ": {
+    "first_seen": "2026-08-05",
+    "first_seen_at": "2026-08-05T21:15:31+09:00",
+    "last_seen": "2026-11-27",
+    "title": "UGREEN NexodeX 100W GaNII充電器 USB-C*2+USB-A タイプC Type-C 急速充電器 PD3.0/PPS/QC4+ | PSE認証済/MacBook/iPhone17/16/15/Galaxy S26 ultra/Xperia ノートPC 各種対応 折りたたみ式プラグ",
+    "percent_off": 46,
+    "brand": "UGREEN",
+    "genre": "充電器",
+    "price": 4831
+  },
+  "B08X11GD52": {
+    "first_seen": "2026-11-04",
+    "first_seen_at": "2026-11-04T00:15:51+09:00",
+    "last_seen": "2026-11-27",
+    "title": "Anker Nano II 65W ブラック - 最大65W出力の急速充電器（USB-C/Type-C×1） | 最大65Wを手のひらサイズに凝縮。ノートPCからスマホまで高速充電できる小型GaN充電器。USB-C 充電器 急速充電器 65W PD GaN MacBook iPhone",
+    "percent_off": 40,
+    "brand": "Anker",
+    "genre": "充電器",
+    "price": 2690
+  },
+  "B0D3GG4M9N": {
+    "first_seen": "2026-10-17",
+    "first_seen_at": "2026-10-17T23:15:03+09:00",
+    "last_seen": "2026-11-27",
+    "title": "Anker Prime Charger (200W, 6 Ports, GaN) - 合計最大200W・6ポート(USB-C×4 USB-A×2) | 単ポート最大100W・合計最大200Wの超高出力で6台同時充電を実現。MacBook Pro 2台も同時に急速充電でき、デスク上の充電環境を1台に集約できる卓上充電器。Type-C PD対応 ActiveShield 3.0 PSE適合",
+    "percent_off": 35,
+    "brand": "Anker",
+    "genre": "充電器",
+    "price": 8390
+  },
+  "B0FH27V93T": {
+    "first_seen": "2026-11-27",
+    "first_seen_at": "2026-11-27T00:13:28+09:00",
+    "last_seen": "2026-11-27",
+    "title": "Belkin Qi2 25W 3in1 ワイヤレス充電器 iPhone18対応 折りたたみ式充電スタンド MagSafe/急速充電対応 3台同時充電 | MagSafe充電器 Qi2公式認証、最大25W急速充電 パッシブ冷却設計、iPhone18/17〜12、Apple Watch・AirPods対応、折りたたみ可能 持ち運びにも最適 旅行・出張に便利、 2年保証 ホワイト",
+    "percent_off": 35,
+    "brand": "Belkin",
+    "genre": "充電器",
+    "price": 10585
+  },
+  "B091BGMKYS": {
+    "first_seen": "2026-07-27",
+    "first_seen_at": "2026-07-27T12:00:00+09:00",
+    "last_seen": "2026-11-27",
+    "title": "UGREEN Nexode 急速 充電器 65W Type-C 2C1A 3ポート PD/PPS 4.5A/QC3.0/SCP/FCP対応 折り畳み式 | 3台同時充電 USB-C *2とUSB-A*1 GaNII技術 iPhone18/17/16/15/14/MacBook/iPad/Galaxy/Android/その他USB-Cデバイス PSE技術基準適合[2022レッド・ドット・デザイン賞]",
+    "percent_off": 33,
+    "brand": "UGREEN",
+    "genre": "充電器",
+    "price": 2949
+  },
+  "B096S2CTHS": {
+    "first_seen": "2026-10-20",
+    "first_seen_at": "2026-10-20T00:15:15+09:00",
+    "last_seen": "2026-11-27",
+    "title": "Anker PowerPort III Nano 20W ブラック | (PD 充電器 20W USB-C 超小型急速充電器)【PSE技術基準適合/PowerIQ 3.0 (Gen2)搭載】 iPhone 15 / 14 / 13 iPad Air (第5世代) Android その他 各種機器対応",
+    "percent_off": 33,
+    "brand": "Anker",
+    "genre": "充電器",
+    "price": 1190
+  },
+  "B096RZ98SR": {
+    "first_seen": "2026-11-17",
+    "first_seen_at": "2026-11-17T00:15:15+09:00",
+    "last_seen": "2026-11-27",
+    "title": "Anker PowerPort III Nano 20W ラベンダーグレー | (PD 充電器 20W USB-C 超小型急速充電器)【PSE技術基準適合/PowerIQ 3.0 (Gen2)搭載】 iPhone 15 / 14 / 13 iPad Air (第5世代) Android その他 各種機器対応",
+    "percent_off": 33,
+    "brand": "Anker",
+    "genre": "充電器",
+    "price": 1190
+  },
+  "B08W1VZRY7": {
+    "first_seen": "2026-11-02",
+    "first_seen_at": "2026-11-02T16:15:25+09:00",
+    "last_seen": "2026-11-27",
+    "title": "Anker PowerPort PD 2 ブラック | USB-A & USB-C 急速充電器)【PSE認証済/Power Delivery対応/PowerIQ搭載/コンパクトサイズ】 iPhone iPad Air(第5世代) Android その他 各種機器対応",
+    "percent_off": 33,
+    "brand": "Anker",
+    "genre": "充電器",
+    "price": 1990
+  },
+  "B0DBKTPD26": {
+    "first_seen": "2026-11-04",
+    "first_seen_at": "2026-11-04T00:15:51+09:00",
+    "last_seen": "2026-11-27",
+    "title": "Anker Charger (25W) パープル | USB-C 急速充電器 【USB PD 対応/PSE技術基準適合/PPS規格対応】Galaxy S24 / iPhone 16 / iPad 各種 その他機器対応",
+    "percent_off": 32,
+    "brand": "Anker",
+    "genre": "充電器",
+    "price": 1490
+  },
+  "B08NVDHCD8": {
+    "first_seen": "2026-10-21",
+    "first_seen_at": "2026-10-21T00:15:48+09:00",
+    "last_seen": "2026-11-27",
+    "title": "Anker PowerPort mini 2個セット ブラック | （USB充電器 12W 2ポート）【PSE技術基準適合/折りたたみ式プラグ/PowerIQ/超コンパクトサイズ 】iPhone iPad Android各種対応 ホワイト",
+    "percent_off": 32,
+    "brand": "Anker",
+    "genre": "充電器",
+    "price": 1690
+  },
+  "B0G64NF1FQ": {
+    "first_seen": "2026-09-16",
+    "first_seen_at": "2026-09-16T01:14:30+09:00",
+    "last_seen": "2026-11-27",
+    "title": "UGREEN Air 急速充電器 45W Type-C 薄型設計 当社比67%小型化超薄モデル PD3.0/PPS/QC4/SCP対応 折り畳み式 | USB-C 新生代GaNInfinity™チップ＋UGREEN独自Airpyra技術 MacBook/PC/iPad/iPhone18/17/16/15/14/13/12シリーズ対応 PSE認証済",
+    "percent_off": 32,
+    "brand": "UGREEN",
+    "genre": "充電器",
+    "price": 2831
+  },
+  "B0FYFDD1WW": {
+    "first_seen": "2026-11-14",
+    "first_seen_at": "2026-11-14T01:15:03+09:00",
+    "last_seen": "2026-11-27",
+    "title": "UGREEN 160W 急速 充電器 カラーディスプレイ搭載 Type-C 4C1A 5ポート PD3.2/PPS5A/QC4対応 折り畳み式 | 5ポート USB-C*4とUSB-A*1 ワンタッチで縦横表示切替・アニメーション表示・リアルタイム充電状況確認 MacBook/iPhone18/17/16/15/14/13/Galaxy S26 Ultra/Xperia他各種対応 PSE適合",
+    "percent_off": 31,
+    "brand": "UGREEN",
+    "genre": "充電器",
+    "price": 8980
+  },
+  "B0BF44GF6J": {
+    "first_seen": "2026-08-09",
+    "first_seen_at": "2026-08-09T01:55:23+09:00",
+    "last_seen": "2026-11-27",
+    "title": "Anker 523 Charger (Nano 3, 47W) ブラック | USB PD USB-C 急速充電器【PowerIQ 3.0 (Gen2)搭載/PSE技術基準適合/折りたたみ式プラグ】iPhone 18 / 17 / 16シリーズ / Air MacBook Air その他各種機器対応 (ブラック)",
+    "percent_off": 31,
+    "brand": "Anker",
+    "genre": "充電器",
+    "price": 2760
+  },
+  "B0BF43HS1G": {
+    "first_seen": "2026-07-27",
+    "first_seen_at": "2026-07-27T12:00:00+09:00",
+    "last_seen": "2026-11-27",
+    "title": "Anker 523 Charger (Nano 3, 47W) ホワイト | 最大47W・USB-C 2ポートでスマホとタブレットを同時に急速充電。小型でもMacBook Airにも対応。USB-C 充電器 急速充電器 47W PD GaN iPhone iPad",
+    "percent_off": 31,
+    "brand": "Anker",
+    "genre": "充電器",
+    "price": 2760
+  },
+  "B0D53VKL36": {
+    "first_seen": "2026-07-29",
+    "first_seen_at": "2026-07-29T12:00:00+09:00",
+    "last_seen": "2026-11-27",
+    "title": "CIO NovaPort DUOⅡ 65W PD急速充電器 USB-C×2 2台同時充電 世界最小級（ブラック） | ノートPC対応, MacBook対応, iPhone対応, iPad対応, 電力を自動最適配分",
+    "percent_off": 31,
+    "brand": "CIO",
+    "genre": "充電器",
+    "price": 3780
+  },
+  "B0GJD2WVRQ": {
+    "first_seen": "2026-11-27",
+    "first_seen_at": "2026-11-27T00:13:28+09:00",
+    "last_seen": "2026-11-27",
+    "title": "Belkin Qi2 25W 2in1 変形式ワイヤレス充電器 MagSafe対応 iPhone 18・Apple Watch対応 持ち運びに便利 | マグセーフ充電器 Qi2公式認証、最大25W急速充電、iPhone18〜12対応、Apple Watch高速充電器、2台同時充電、コンパクトで持ち運びやすい、旅行・出張に便利、2年保証・最大2,500米ドルCEW チャコールブラック",
+    "percent_off": 29,
+    "brand": "Belkin",
+    "genre": "充電器",
+    "price": 10175
+  },
+  "B06ZXXQGZ8": {
+    "first_seen": "2026-10-13",
+    "first_seen_at": "2026-10-13T00:16:25+09:00",
+    "last_seen": "2026-11-27",
+    "title": "Anker PowerPort 2 Elite (USB充電器 24W 2ポート) | 【PSE認証済 / PowerIQ搭載 / 折りたたみ式プラグ搭載】iPhone&Android各種対応",
+    "percent_off": 28,
+    "brand": "Anker",
+    "genre": "充電器",
+    "price": 1290
+  },
+  "B0F2MRRKH7": {
+    "first_seen": "2026-11-27",
+    "first_seen_at": "2026-11-27T00:13:28+09:00",
+    "last_seen": "2026-11-27",
+    "title": "Anker Prime Charger (160W, 3 Ports) シルバー - 合計最大160W・3ポート (USB-C×3) 急速充電器 | 合計最大160W・単ポート最大140Wの高出力と約42%小型化を実現。タッチ式ディスプレイで出力や温度を確認でき、ノートPCやスマホを3台同時充電できる充電器。USB-C×3 GaNPrime 2.0 PowerIQ 5.0",
+    "percent_off": 28,
+    "brand": "Anker",
+    "genre": "充電器",
+    "price": 12990,
+    "past": [
+      {
+        "first_seen": "2026-10-13",
+        "last_seen": "2026-11-03",
+        "title": "Anker Prime Charger (160W, 3 Ports) シルバー | 急速充電器 160W type-c 3ポート【PSE技術基準適合/折りたたみ式プラグ】iphone 18 MacBook PD対応Windows PC iPad Galaxy Android スマートフォン ノートPC 各種",
+        "brand": null,
+        "genre": null,
+        "price": null,
+        "percent_off": 22
+      }
+    ]
+  },
+  "B0DG93MZCR": {
+    "first_seen": "2026-07-27",
+    "first_seen_at": "2026-07-27T12:00:00+09:00",
+    "last_seen": "2026-11-27",
+    "title": "UGREEN PD充電器 type-c 30W 2*USB-C+1*USB-A GaN PSE適合/PD3.0 タイプc充電器 GaNⅡ type c | iphone18/17/16/15/14/13/iPad/GalaxyS25-S10/Google Pixel/AirPods/タブレット その他各種機器対応などに対応",
+    "percent_off": 26,
+    "brand": "UGREEN",
+    "genre": "充電器",
+    "price": 1469
+  },
+  "B0H6JNDVKT": {
+    "first_seen": "2026-11-27",
+    "first_seen_at": "2026-11-27T00:13:28+09:00",
+    "last_seen": "2026-11-27",
+    "title": "Anker Nano Charger Neo (AVS対応,最大65W出力) ブラック - AVS対応で最大65W出力(USB-C/Type-C×1) | 45W〜65Wのダイナミック急速充電に対応。AVS対応。発熱を抑えた充電、180度折りたたみ式プラグ、ActiveShield 4.0、Type-C充電器、iPhone 18/17 Pro/Pro MaxおよびMacBook向け急速充電",
+    "percent_off": 25,
+    "brand": "Anker",
+    "genre": "充電器",
+    "price": 2990
+  },
+  "B0H6JV3LCP": {
+    "first_seen": "2026-11-27",
+    "first_seen_at": "2026-11-27T00:13:28+09:00",
+    "last_seen": "2026-11-27",
+    "title": "Anker Nano Charger Neo (AVS対応,最大65W出力) ホワイト - AVS対応で最大65W出力(USB-C/Type-C×1) | 45W〜65Wのダイナミック急速充電に対応。AVS対応。発熱を抑えた充電、180度折りたたみ式プラグ、ActiveShield 4.0、Type-C充電器、iPhone 18/17 Pro/Pro MaxおよびMacBook向け急速充電",
+    "percent_off": 25,
+    "brand": "Anker",
+    "genre": "充電器",
+    "price": 2990
+  },
+  "B07YBD23TQ": {
+    "first_seen": "2026-11-27",
+    "first_seen_at": "2026-11-27T00:13:28+09:00",
+    "last_seen": "2026-11-27",
+    "title": "Anker PowerDrive 2 Alloy | 車載充電器 / 24W/2ポート / カーチャージャー / PowerIQ対応 / PowerIQ搭載 / コンパクトサイズ iPhone 18 / 17 /16シリーズ、Android、IQOS対応",
+    "percent_off": 24,
+    "brand": "Anker",
+    "genre": "充電器",
+    "price": 990
+  },
+  "B0DW2SYD5H": {
+    "first_seen": "2026-08-15",
+    "first_seen_at": "2026-08-15T20:37:29+09:00",
+    "last_seen": "2026-11-27",
+    "title": "Anker Zolo Wireless Charger (Magnetic, Pad) ブラック | ブラック Qi2対応 マグネット式 ワイヤレス充電/ワイヤレス出力 iPhone MagSafe対応 iPhone 18 / 18 / 17 / 16 / 14 シリーズ対応 Pixel10非対応",
+    "percent_off": 23,
+    "brand": "Anker",
+    "genre": "充電器",
+    "price": 2290
+  },
+  "B0F43M6SBB": {
+    "first_seen": "2026-11-04",
+    "first_seen_at": "2026-11-04T09:15:07+09:00",
+    "last_seen": "2026-11-27",
+    "title": "エレコム 充電器 合計65W 3ポート Type-C USB-A USB PD対応 スイング式プラグ採用 ブラック EC-AC10367BK",
+    "percent_off": 21,
+    "brand": "エレコム(ELECOM)",
+    "genre": "充電器",
+    "price": 2762
+  },
+  "B083HW2R2B": {
+    "first_seen": "2026-10-31",
+    "first_seen_at": "2026-10-31T21:15:12+09:00",
+    "last_seen": "2026-11-27",
+    "title": "Anker PowerWave 10 Stand | ワイヤレス充電器 Qi認証 iPhone 15シリーズ / 14シリーズ Galaxy 各種対応 最大10W出力",
+    "percent_off": 21,
+    "brand": "Anker",
+    "genre": "充電器",
+    "price": 1970
+  },
+  "B0FWJ65HX2": {
+    "first_seen": "2026-11-11",
+    "first_seen_at": "2026-11-11T11:15:04+09:00",
+    "last_seen": "2026-11-27",
+    "title": "Anker Zolo Charger (50W, 4 Ports) ホワイト - 最大50W出力(USB-C/Type-C×2 USB-A×2)充電器 | 最大50W・4ポートでスマホやタブレットをまとめて充電。複数の充電器を1台に集約。USB-C/Type-C 充電器 急速充電器 50W PD 充電器 iPhone iPad 4ポート",
+    "percent_off": 20,
+    "brand": "Anker",
+    "genre": "充電器",
+    "price": 2390
+  },
+  "B0HH8J8Y6F": {
+    "first_seen": "2026-11-27",
+    "first_seen_at": "2026-11-27T00:13:28+09:00",
+    "last_seen": "2026-11-27",
+    "title": "エレコム 充電器 Type-C 30W USB PD対応 PPS対応 2ポート USB-C×2 急速充電 2台同時充電 GaN スイング式プラグ 小型 PSE認証 iPhone しろちゃん EC-AC13530WF",
+    "percent_off": 20,
+    "brand": "エレコム(ELECOM)",
+    "genre": "充電器",
+    "price": 1583
+  },
+  "B0F43NCQ25": {
+    "first_seen": "2026-11-27",
+    "first_seen_at": "2026-11-27T00:13:28+09:00",
+    "last_seen": "2026-11-27",
+    "title": "エレコム 充電器 100W 3ポート Type-C USB-A USB PD対応 スイング式プラグ採用 ブラック EC-AC104100BK",
+    "percent_off": 19,
+    "brand": "エレコム(ELECOM)",
+    "genre": "充電器",
+    "price": 4445
+  },
+  "B0DHTT13KN": {
+    "first_seen": "2026-11-04",
+    "first_seen_at": "2026-11-04T00:15:51+09:00",
+    "last_seen": "2026-11-27",
+    "title": "Belkin Cubic Charger 45W 充電器 type-c iphone18対応 充電器 急速充電 PD3.2 PPS対応 ホワイト | PD 充電器 折り畳みプラグ iphone18,17-12 iPad MacBook Galaxy ノートPC 各機種対応 PSE技術基準適合 2年保証・最大2,500米ドルCEW",
+    "percent_off": 19,
+    "brand": "Belkin",
+    "genre": "充電器",
+    "price": 2167
+  },
+  "B0CM6BR4MR": {
+    "first_seen": "2026-11-25",
+    "first_seen_at": "2026-11-25T09:13:18+09:00",
+    "last_seen": "2026-11-27",
+    "title": "Anker MagGo Wireless Charger (Pad) ホワイト | 【Qi2対応 / マグネット式ワイヤレス充電器 / 15W】MagSafe対応 iPhone 16 / 15 / 14 / 13 シリーズ",
+    "percent_off": 19,
+    "brand": "Anker",
+    "genre": "充電器",
+    "price": 3980
+  },
+  "B0FK4L1S7C": {
+    "first_seen": "2026-11-27",
+    "first_seen_at": "2026-11-27T00:13:28+09:00",
+    "last_seen": "2026-11-27",
+    "title": "Belkin Qi2 25W 2in1 ワイヤレス充電器 iPhone18対応 折りたたみ式充電スタンド MagSafe/急速充電対応 2台同時充電 | 【アマゾン限定】MagSafe充電器 Qi2公式認証、最大25W急速充電、パッシブ冷却設計 iPhone18〜12・Google Pixel 10 Pro XL対応、AirPods同時充電、折りたたみ可能 持ち運びにも最適、2年保証 ブラック",
+    "percent_off": 18,
+    "brand": "Belkin",
+    "genre": "充電器",
+    "price": 6454
+  },
+  "B0FL1S48XY": {
+    "first_seen": "2026-09-08",
+    "first_seen_at": "2026-09-08T21:14:34+09:00",
+    "last_seen": "2026-11-27",
+    "title": "Anker Zolo Charger (70W, 4 Ports) ブラック - 最大70W出力の充電器 / USB-C×2 USB-A×2 | 70W USB-C/Type-C 急速充電器 4台同時充電対応。USB-C3ポートとUSB-A1ポートを搭載しPCとスマホをまとめて充電。MacBook Pro MacBook Air iPhone iPad Galaxy対応 PSE技術基準適合",
+    "percent_off": null,
+    "brand": "Anker",
+    "genre": "充電器",
+    "price": 6490
+  },
+  "B0CH7QDDMS": {
+    "first_seen": "2026-11-20",
+    "first_seen_at": "2026-11-20T13:15:25+09:00",
+    "last_seen": "2026-11-27",
+    "title": "Anker PowerPort III 20W Cube | (USB PD 充電器 20W USB-C 超小型急速充電器)【PSE技術基準適合/PowerIQ 3.0 (Gen2)搭載】 iPhone iPad Air Galaxy Android その他 各種機器対応",
+    "percent_off": null,
+    "brand": "Anker",
+    "genre": "充電器",
+    "price": 1790
+  },
+  "B0CZN9XSDM": {
+    "first_seen": "2026-11-27",
+    "first_seen_at": "2026-11-27T00:13:28+09:00",
+    "last_seen": "2026-11-27",
+    "title": "エレコム 充電器 Type-C USB-C 20W USB PD対応 1ポート PSE認証品 GaN採用 折りたたみ式プラグ ホワイト 【 iPhone16 15 等対応】 EC-AC6820WH",
+    "percent_off": 16,
+    "brand": "エレコム(ELECOM)",
+    "genre": "充電器",
+    "price": 723
+  },
+  "B0CTJDLWV4": {
+    "first_seen": "2026-11-04",
+    "first_seen_at": "2026-11-04T22:14:46+09:00",
+    "last_seen": "2026-11-27",
+    "title": "エレコム 充電器 65W USB PD対応 小型 Type-C 1ポート PPS対応 GaN II採用 PSE認証 ブラック 【iPhone 16 15 iPad Macbook 等対応】 EC-AC8565BK",
+    "percent_off": 16,
+    "brand": "エレコム(ELECOM)",
+    "genre": "充電器",
+    "price": 2090
+  },
+  "B0FB2F95HY": {
+    "first_seen": "2026-11-27",
+    "first_seen_at": "2026-11-27T00:13:28+09:00",
+    "last_seen": "2026-11-27",
+    "title": "エレコム ワイヤレス充電器 Qi認証 最大 10W スタンド型 EPP規格対応 3枚コイル 【 iPhone Galaxy AirPods 等対応】 ブラック EC-QS10BK",
+    "percent_off": 16,
+    "brand": "エレコム(ELECOM)",
+    "genre": "充電器",
+    "price": 1673
+  },
+  "B0GGZ5698C": {
+    "first_seen": "2026-11-27",
+    "first_seen_at": "2026-11-27T00:13:28+09:00",
+    "last_seen": "2026-11-27",
+    "title": "Belkin Qi2認証 25W ワイヤレス充電器 3in1充電スタンド iPhone 18・Galaxy S26・Pixel 10 ProXL対応 | Qi2 充電器 最大25W急速充電 iPhone18〜12対応、磁気ケース推奨、Apple Watch・Galaxy Watch・Pixel Watch対応、ウォッチ充電器別売 2年保証 ブラック",
+    "percent_off": 16,
+    "brand": "Belkin",
+    "genre": "充電器",
+    "price": 7565
+  },
+  "B0CWN59C9H": {
+    "first_seen": "2026-11-04",
+    "first_seen_at": "2026-11-04T09:15:07+09:00",
+    "last_seen": "2026-11-27",
+    "title": "Belkin カーチャージャー 30W USB-C 車載充電器 PD/PPS対応 急速充電 ブラック | USB-C最大30W出力、PD/PPS対応、急速充電対応、iPhone 18シリーズ以下・iPad・Android対応、USB-IF認証、2年保証・最大2,500米ドルCEW",
+    "percent_off": 15,
+    "brand": "Belkin",
+    "genre": "充電器",
+    "price": 1850
+  },
+  "B08P45YTTL": {
+    "first_seen": "2026-11-04",
+    "first_seen_at": "2026-11-04T09:15:07+09:00",
+    "last_seen": "2026-11-27",
+    "title": "【Amazon.co.jp限定】SanDisk SSD 外付け SDSSDE61-2T00-GH25 エクストリーム エコパッケージ | ポータブル V2 Win Mac PS4/5 2TB USB3.2Gen2 読出最大1050MB/秒 防滴防塵 メーカー5年保証",
+    "percent_off": 31,
+    "brand": "SANDISK",
+    "genre": "SSD・メモリーカード",
+    "price": 50280
+  },
+  "B0H8DGJDF7": {
+    "first_seen": "2026-11-27",
+    "first_seen_at": "2026-11-27T00:13:28+09:00",
+    "last_seen": "2026-11-27",
+    "title": "KIOXIA(キオクシア) 旧東芝メモリ microSD 128GB UHS-I Class10 (最大読出速度100MB/s) Nintendo Switch動作確認済 国内サポート正規品 メーカー保証5年 KLMEA128G (× 5)",
+    "percent_off": 27,
+    "brand": "KIOXIA",
+    "genre": "SSD・メモリーカード",
+    "price": 9725,
+    "past": [
+      {
+        "first_seen": "2026-11-05",
+        "last_seen": "2026-11-11",
+        "title": "KIOXIA(キオクシア) 旧東芝メモリ microSD 128GB UHS-I Class10 (最大読出速度100MB/s) Nintendo Switch動作確認済 国内サポート正規品 メーカー保証5年 KLMEA128G (× 5)",
+        "brand": null,
+        "genre": null,
+        "price": null,
+        "percent_off": 22
+      }
+    ]
+  },
+  "B09X7DZ9LG": {
+    "first_seen": "2026-11-24",
+    "first_seen_at": "2026-11-24T21:14:02+09:00",
+    "last_seen": "2026-11-27",
+    "title": "SanDisk (サンディスク) 128GB Extreme (エクストリーム) SDXC UHS-I メモリーカード - C10/U3/V30/4K/UHD　SDカード - SDSDXVA-128G-GNCIN",
+    "percent_off": 14,
+    "brand": "SANDISK",
+    "genre": "SSD・メモリーカード",
+    "price": 6003
+  },
+  "B0GF24NN7N": {
+    "first_seen": "2026-10-05",
+    "first_seen_at": "2026-10-05T21:14:52+09:00",
+    "last_seen": "2026-11-27",
+    "title": "Anker Nano Charger (45W, Display, スイングプラグ) ホワイト - 充電器 最大45W出力 iPhone iPad対応 | 45W USB-C急速充電器 充電状況が見えるディスプレイ搭載。USB-C/Type-C 1ポート。iPhoneのモデルを検知し出力を最適化。180度スイングプラグ採用。iPhone iPad Galaxy MacBook Air対応",
+    "percent_off": 35,
+    "brand": "Anker",
+    "genre": "モニター・ディスプレイ",
+    "price": 2590
+  },
+  "B0F7X3VJ99": {
+    "first_seen": "2026-08-02",
+    "first_seen_at": "2026-08-02T11:33:18+09:00",
+    "last_seen": "2026-11-27",
+    "title": "IODATA GigaCrysta ゲーミングモニター 27型 WQHD 200Hz MiniLED (HDMI/DP) EX-GDQ271JLAQ | 量子ドット, HDR1000, 0.9ms, 無輝点保証",
+    "percent_off": 28,
+    "brand": "アイオーデータ",
+    "genre": "モニター・ディスプレイ",
+    "price": 42980
+  },
+  "B0DNKC8HXP": {
+    "first_seen": "2026-08-02",
+    "first_seen_at": "2026-08-02T11:33:18+09:00",
+    "last_seen": "2026-11-27",
+    "title": "INNOCN ゲーミングモニター 24.5インチ 200Hz IPS 1ms(GTG) フルHD 非光沢 フレームレス PS5/Xbox対応 Adaptive-Sync VESA100×100 HDMI2.0/DP1.4接続 25G2G",
+    "percent_off": 24,
+    "brand": "INNOCN",
+    "genre": "モニター・ディスプレイ",
+    "price": 12943
+  },
+  "B0F9WJLW45": {
+    "first_seen": "2026-11-04",
+    "first_seen_at": "2026-11-04T09:15:07+09:00",
+    "last_seen": "2026-11-27",
+    "title": "【Amazon.co.jp限定】ASUSゲーミングモニター/TUF Gaming VG259Q5A – 24.5インチ / フルHD（1920x1080） / 200Hz / Fast IPS/ELMB / 0.3ms GTG（最小） / ステレオスピーカー/DisplayWidget Center/国内正規品",
+    "percent_off": 21,
+    "brand": "ASUS",
+    "genre": "モニター・ディスプレイ",
+    "price": 13480
+  },
+  "B0FPF1HGT8": {
+    "first_seen": "2026-11-27",
+    "first_seen_at": "2026-11-27T00:13:28+09:00",
+    "last_seen": "2026-11-27",
+    "title": "Dell S2725DC 27インチ モニター | 無輝点3年保証/QHD/IPS,非光沢/USB-Cx1,HDMIx1,DP1.4x1/sRGB 99%/縦横回転,高さ調整/1ms,144Hz/AMD FreeSync/内蔵スピーカー",
+    "percent_off": 20,
+    "brand": "Dell",
+    "genre": "モニター・ディスプレイ",
+    "price": 27980
+  },
+  "B0FRS96GV9": {
+    "first_seen": "2026-11-27",
+    "first_seen_at": "2026-11-27T00:13:28+09:00",
+    "last_seen": "2026-11-27",
+    "title": "IODATA GCFX ゲーミングモニター 27型 WQHD 275Hz 1ms (HDMI/DP/VESA/チルト調整) EX-GDQ271UA | AHVAパネル, HDR対応",
+    "percent_off": 17,
+    "brand": "アイオーデータ",
+    "genre": "モニター・ディスプレイ",
+    "price": 24999
+  },
+  "B0CPXQQLL2": {
+    "first_seen": "2026-11-27",
+    "first_seen_at": "2026-11-27T00:13:28+09:00",
+    "last_seen": "2026-11-27",
+    "title": "【Amazon.co.jp 限定】IODATA モニター 23.8型 省電力 (HDMI/アナログRGB/スピーカ付/VESA) EX-A241DB | ADSパネル,ブラック",
+    "percent_off": 15,
+    "brand": "アイオーデータ",
+    "genre": "モニター・ディスプレイ",
+    "price": 12580
+  },
+  "B0C9TKSP8V": {
+    "first_seen": "2026-11-04",
+    "first_seen_at": "2026-11-04T01:15:06+09:00",
+    "last_seen": "2026-11-27",
+    "title": "SwitchBot サーキュレーター DCモーター コードレス扇風機 アレクサ - 静音 強力 上下左右首振り 30畳 100段階風量調整 省エネ | バッテリー搭載、AC・Type-C充電対応、充電しながら使用可能、Alexa対応、遠隔操作、リモコン付き、分解丸洗い、チャイルドロック、加湿ミストの広範囲拡散をサポート、暖房効率アップ、空気循環、スイッチボット、さーきゅれーた",
+    "percent_off": 41,
+    "brand": "スイッチボット(SwitchBot)",
+    "genre": "スマートホーム",
+    "price": 6980
+  },
+  "B09Z68BVSK": {
+    "first_seen": "2026-11-27",
+    "first_seen_at": "2026-11-27T00:13:28+09:00",
+    "last_seen": "2026-11-27",
+    "title": "SwitchBot LEDシーリングライト 6畳 Alexa 無段階 - 調光調色 天井 照明器具 3500lm リモコン付き 取付簡単 省エネ | アレクサ 防虫 防塵 ハブ機能付き スイッチボット 電球色 昼白色 昼光色 2.4GHzWi-Fi Bluetoothに対応 節電対策 5年保証 W2612230",
+    "percent_off": 35,
+    "brand": "スイッチボット(SwitchBot)",
+    "genre": "スマートホーム",
+    "price": 4537
+  },
+  "B0CL4R54X4": {
+    "first_seen": "2026-11-04",
+    "first_seen_at": "2026-11-04T00:15:51+09:00",
+    "last_seen": "2026-11-27",
+    "title": "SwitchBot 気化式加湿器 Alexa 大容量 4.5L 21畳対応 省エネ 上から給水 18dB静音 抗菌 フィルター洗濯機可 スマートホーム | フィルター自動乾燥・加湿量750ml/h・最大22.5時間稼働・Google Home / Siri対応",
+    "percent_off": 30,
+    "brand": "スイッチボット(SwitchBot)",
+    "genre": "スマートホーム",
+    "price": 13860
+  },
+  "B0FB3LPDBQ": {
+    "first_seen": "2026-11-27",
+    "first_seen_at": "2026-11-27T00:13:28+09:00",
+    "last_seen": "2026-11-27",
+    "title": "SwitchBot RGBIC フロアライト LED 間接照明 Matter対応 1600万色 無段階調光調色 コントローラー付き アプリ操作 | RGB マルチカラー 光の演出 昼光色 電球色 音楽連動 縦置き・横置き 1%単位の調光 高さ1.35m スタンドライト リビング・寝室向け 2.4GHz Wi-Fi・Bluetooth Alexa・Google Home・Siri対応",
+    "percent_off": 26,
+    "brand": "スイッチボット(SwitchBot)",
+    "genre": "スマートホーム",
+    "price": 6980
+  },
+  "B07B7NXV4R": {
+    "first_seen": "2026-07-30",
+    "first_seen_at": "2026-07-30T12:00:00+09:00",
+    "last_seen": "2026-11-27",
+    "title": "SwitchBot スイッチボット スイッチ ボタンに適用 指ロボット スマートスイッチ スマートホーム ワイヤレス タイマー スマホで遠隔操作 Alexa, Google Home, Siri, IFTTTなどに対応(ハブ必要) ホワイト",
+    "percent_off": 24,
+    "brand": "スイッチボット(SwitchBot)",
+    "genre": "スマートホーム",
+    "price": 3760
+  },
+  "B0BM8VS13P": {
+    "first_seen": "2026-11-04",
+    "first_seen_at": "2026-11-04T09:15:07+09:00",
+    "last_seen": "2026-11-27",
+    "title": "SwitchBot ハブ2 スマートリモコン スマートホーム アレクサ - マター対応 スイッチボット 赤外線家電を管理 温湿度計機能 卓上 壁掛け | 学習リモコン シーンで家電一括操作 光センサー付き リモートボタン スケジュール 遠隔操作 節電·省エネ Google Home IFTTT Siri SmartThingsに対応",
+    "percent_off": 20,
+    "brand": "スイッチボット(SwitchBot)",
+    "genre": "スマートホーム",
+    "price": 7980
+  },
+  "B09DGBYQD4": {
+    "first_seen": "2026-11-27",
+    "first_seen_at": "2026-11-27T00:13:28+09:00",
+    "last_seen": "2026-11-27",
+    "title": "【Works with Alexa認定】SwitchBot LED電球 スマートライト Alexa スマートホーム-スマート電球 E26 スイッチボット調光調色 広配光 800lm 60W形相当 電球色・昼白色対応 RGBCWマルチカラー 1600万色 間接照明 Google Home IFTTTイフトSiri SmartThings に対応W1401400​",
+    "percent_off": 20,
+    "brand": "スイッチボット(SwitchBot)",
+    "genre": "スマートホーム",
+    "price": 1584
+  },
+  "B0GQRLL8Q4": {
+    "first_seen": "2026-11-27",
+    "first_seen_at": "2026-11-27T00:13:28+09:00",
+    "last_seen": "2026-11-27",
+    "title": "【セット買い】SwitchBot スマートリモコン ハブ2 スマートデイリーステーション 温湿度計 - スイッチボット 天気ステーション 遠隔確認 スマートホーム Alexa Google Home Siriに対応(ハブ2 1点+スマートデイリーステーション 1点)",
+    "percent_off": 17,
+    "brand": "スイッチボット(SwitchBot)",
+    "genre": "スマートホーム",
+    "price": 21560
+  },
+  "B0FJXTBNXB": {
+    "first_seen": "2026-11-27",
+    "first_seen_at": "2026-11-27T00:13:28+09:00",
+    "last_seen": "2026-11-27",
+    "title": "SwitchBot 温湿度計 パネル 温度計 湿度計 - アレクサ スイッチボット 温湿度管理 エアコン操作 人感センサー搭載 乾燥対策 壁掛け 卓上 | LED大画面 室内温度チェック バックライト付き 物理ボタン 複数デバイス操作 グラフ記録 アラート通知 スマートホーム Alexa Google Home Siri Matter対応（ハブ必要）",
+    "percent_off": 17,
+    "brand": "スイッチボット(SwitchBot)",
+    "genre": "スマートホーム",
+    "price": 5793,
+    "past": [
+      {
+        "first_seen": "2026-11-07",
+        "last_seen": "2026-11-07",
+        "title": "SwitchBot 温湿度計 パネル エアコン操作 温湿度管理 人感センサー搭載 LED 大画面 バックライト付き 壁掛け 卓上 乾燥対策 | スイッチボット 室内温度チェック 室温計 物理ボタン 複数デバイス操作 グラフ記録 アラート通知 スマートホーム Alexa Google Home Siri Matter対応（ハブ必要）",
+        "brand": null,
+        "genre": null,
+        "price": null,
+        "percent_off": 15
+      }
+    ]
+  },
+  "B0DT6S7NZ8": {
+    "first_seen": "2026-11-27",
+    "first_seen_at": "2026-11-27T00:13:28+09:00",
+    "last_seen": "2026-11-27",
+    "title": "SwitchBot スイッチボット スマートプラグ プラグミニ 1個入り スマートコンセント 消費電力モニター タイマー Wi-Fi対応 | いつもの家電を手軽にスマート化。アプリで消費電力を見える化し、節電をサポート。外出先からの遠隔操作やタイマー・スケジュール設定で消し忘れ対策にも便利。Alexa・Google Homeの音声操作に対応。隣の差し込み口をふさぎにくいコンパクト設計。",
+    "percent_off": 15,
+    "brand": "スイッチボット(SwitchBot)",
+    "genre": "スマートホーム",
+    "price": 1680
+  },
+  "B0DSPXKDP8": {
+    "first_seen": "2026-11-27",
+    "first_seen_at": "2026-11-27T00:13:28+09:00",
+    "last_seen": "2026-11-27",
+    "title": "【Amazon.co.jp限定】SwitchBot ハブミニ スマートリモコン スマートホーム アレクサ - Matter対応 赤外線家電を管理 白い | スマート家電 温湿度センサー搭載 スイッチボット 遠隔操作 エアコンコントローラー 節電·省エネ Echo Google Home Siri IFTTT SmartThings対応 Kataステッカー付き",
+    "percent_off": 15,
+    "brand": "スイッチボット(SwitchBot)",
+    "genre": "スマートホーム",
+    "price": 5250
+  },
+  "B0CR3WTRD4": {
+    "first_seen": "2026-11-27",
+    "first_seen_at": "2026-11-27T00:13:28+09:00",
+    "last_seen": "2026-11-27",
+    "title": "【Works with Alexa認定】SwitchBot 防犯カメラ 300万画素 監視カメラ アプリ通知 遠隔確認 動体検知 自動追跡 ナイトビジョン 双方向音声通話 パン/チルト カラーナイトビジョン 室内 スイッチボット 見守りカメラ Plus 3MP 3年保証",
+    "percent_off": 15,
+    "brand": "スイッチボット(SwitchBot)",
+    "genre": "スマートホーム",
+    "price": 3383
+  },
+  "B0F5WNVHH7": {
+    "first_seen": "2026-07-30",
+    "first_seen_at": "2026-07-30T12:00:00+09:00",
+    "last_seen": "2026-11-27",
+    "title": "HUAWEI WATCH FIT 4 スマートウォッチ 薄型軽量 1.82インチ大画面 アウトドアに適した気圧計と測位システム 通知 フィットネス ヘルストラッカー 情緒測定 10日間ロングバッテリー iOS/Android対応 ブラック",
+    "percent_off": 33,
+    "brand": "HUAWEI(ファーウェイ)",
+    "genre": "スマートウォッチ",
+    "price": 16100
+  },
+  "B0FKH3WQ41": {
+    "first_seen": "2026-07-30",
+    "first_seen_at": "2026-07-30T12:00:00+09:00",
+    "last_seen": "2026-11-27",
+    "title": "HUAWEI WATCH GT 6 Pro 46mm スマートウォッチ 大画面 GPS搭載 21日間バッテリー 心電図 ゴルフ GPS 通知 ブラック | iPhone対応 android対応 1.47インチ画面 3000nits高輝度 サイクリング/登山/進化したゴルフナビ スポーツモード100種類以上 ランニング 防水 健康管理 情緒測定",
+    "percent_off": 31,
+    "brand": "HUAWEI(ファーウェイ)",
+    "genre": "スマートウォッチ",
+    "price": 33120
+  },
+  "B0FMDBYSQ9": {
+    "first_seen": "2026-10-17",
+    "first_seen_at": "2026-10-17T05:15:28+09:00",
+    "last_seen": "2026-11-27",
+    "title": "HUAWEI WATCH D2 ウェアラブル血圧計 LCA-B29:ブルー",
+    "percent_off": 30,
+    "brand": "HUAWEI(ファーウェイ)",
+    "genre": "スマートウォッチ",
+    "price": 42200
+  },
+  "B0DQ7MJ8P3": {
+    "first_seen": "2026-08-22",
+    "first_seen_at": "2026-08-22T00:50:58+09:00",
+    "last_seen": "2026-11-27",
+    "title": "HUAWEI WATCH D2 ウェアラブル血圧計LCA-B10:ブラック",
+    "percent_off": 30,
+    "brand": "HUAWEI(ファーウェイ)",
+    "genre": "スマートウォッチ",
+    "price": 42200
+  },
+  "B0GQL9JZS7": {
+    "first_seen": "2026-11-27",
+    "first_seen_at": "2026-11-27T00:13:28+09:00",
+    "last_seen": "2026-11-27",
+    "title": "Xiaomi Redmi Watch 6 シャオミ スマートウォッチ GPS Bluetooth通話 着信通知 防水 24日間持続 iPhone対応 | 2.07インチ有機EL 2000nits高輝度 薄型軽量 GPS/GNSS搭載 Bluetooth通話対応 録音機能 24日間バッテリー 24時間モニタリング 女性健康管理 スポーツモード ランニング 5ATM防水 水中心拍測定",
+    "percent_off": 26,
+    "brand": "Xiaomi",
+    "genre": "スマートウォッチ",
+    "price": 10980
+  },
+  "B0GJSCGFTP": {
+    "first_seen": "2026-10-13",
+    "first_seen_at": "2026-10-13T14:15:16+09:00",
+    "last_seen": "2026-11-27",
+    "title": "HUAWEI Band 11 Pro GPS搭載 スマートウォッチ 薄型軽量 睡眠管理 大画面 心拍数 ロングバッテリー LINE通知 ブラック | iPhone対応 android対応 8.99mm/18g薄型軽量ボディ 2000nits高輝度 1.62インチ画面 24時間睡眠管理 ランニングモード 健康/情緒モニタリング ランニング 防水",
+    "percent_off": 23,
+    "brand": "HUAWEI(ファーウェイ)",
+    "genre": "スマートウォッチ",
+    "price": 9158
+  },
+  "B0BWF162WJ": {
+    "first_seen": "2026-09-21",
+    "first_seen_at": "2026-09-21T17:14:46+09:00",
+    "last_seen": "2026-11-27",
+    "title": "GARMIN（ガーミン）GPSランニングウォッチ Forerunner 965 White 【日本正規品】",
+    "percent_off": 23,
+    "brand": "ガーミン(GARMIN)",
+    "genre": "スマートウォッチ",
+    "price": 65000
+  },
+  "B0BWF35J1G": {
+    "first_seen": "2026-10-15",
+    "first_seen_at": "2026-10-15T14:15:44+09:00",
+    "last_seen": "2026-11-27",
+    "title": "GARMIN（ガーミン）GPSランニングウォッチ Forerunner 265 Music White 【日本正規品】",
+    "percent_off": 21,
+    "brand": "ガーミン(GARMIN)",
+    "genre": "スマートウォッチ",
+    "price": 49800
+  },
+  "B0GX8BVR4L": {
+    "first_seen": "2026-11-01",
+    "first_seen_at": "2026-11-01T19:15:08+09:00",
+    "last_seen": "2026-11-27",
+    "title": "HUAWEI WATCH FIT 5 スマートウォッチ 薄型軽量 大画面 GPS内蔵 10日間ロングバッテリー 通知 健康管理 心拍数 睡眠 ホワイト | iPhone対応 android対応 1.82インチ画面 2500nits高輝度 ワークアウト 転倒検知 情緒測定 生理周期管理 64GBストレージ 録音機能 ランニング 防水",
+    "percent_off": 21,
+    "brand": "HUAWEI(ファーウェイ)",
+    "genre": "スマートウォッチ",
+    "price": 21470
+  },
+  "B0GX8DRYCX": {
+    "first_seen": "2026-09-03",
+    "first_seen_at": "2026-09-03T12:14:47+09:00",
+    "last_seen": "2026-11-27",
+    "title": "HUAWEI WATCH FIT 5 スマートウォッチ 薄型軽量 大画面 GPS内蔵 10日間ロングバッテリー 通知 健康管理 心拍数 睡眠 ブラック | iPhone対応 android対応 1.82インチ画面 2500nits高輝度 ワークアウト 転倒検知 情緒測定 生理周期管理 64GBストレージ 録音機能 ランニング 防水",
+    "percent_off": 21,
+    "brand": "HUAWEI(ファーウェイ)",
+    "genre": "スマートウォッチ",
+    "price": 21470
+  },
+  "B0H5KDLK7M": {
+    "first_seen": "2026-11-27",
+    "first_seen_at": "2026-11-27T00:13:28+09:00",
+    "last_seen": "2026-11-27",
+    "title": "Xiaomi REDMI Watch 6 Lite シャオミスマートウォッチ GPS 防水 18日間持続 Bluetooth通話 iPhone対応 | 1.96インチAMOLED大画面 1500nits 常時表示 着信通知 自動輝度調整 超狭額ベゼル 薄型 軽量 5システムGNSS iPhone/Android対応 5ATM スイムトラッキング 150種スポーツ 24時間健康管理 心拍数 ストレス",
+    "percent_off": 19,
+    "brand": "Xiaomi",
+    "genre": "スマートウォッチ",
+    "price": 6480
+  },
+  "B0GQLM2HG7": {
+    "first_seen": "2026-11-18",
+    "first_seen_at": "2026-11-18T22:15:10+09:00",
+    "last_seen": "2026-11-27",
+    "title": "Xiaomi Redmi Watch 6 シャオミ スマートウォッチ GPS Bluetooth通話 着信通知 防水 24日間持続 iPhone対応 | 2.07インチ有機EL 2000nits高輝度 薄型軽量 GPS/GNSS搭載 Bluetooth通話対応 録音機能 24日間バッテリー 24時間モニタリング 女性健康管理 スポーツモード ランニング 5ATM防水 水中心拍測定",
+    "percent_off": 16,
+    "brand": "Xiaomi",
+    "genre": "スマートウォッチ",
+    "price": 12460
+  },
+  "B0HJH291KS": {
+    "first_seen": "2026-11-27",
+    "first_seen_at": "2026-11-27T00:13:28+09:00",
+    "last_seen": "2026-11-27",
+    "title": "HUAWEI WATCH FIT 4 NEW サファイアガラス スマートウォッチ 薄型軽量 10日間バッテリー GPS 通知 心拍数 睡眠 ブラック | 文字盤ダウンロード付き iPhone android対応 1.82インチ大画面 2000nits高輝度 アウトドアに適した気圧計 ランニング フィットネス ヘルストラッカー 健康管理 情緒測定",
+    "percent_off": 15,
+    "brand": "HUAWEI(ファーウェイ)",
+    "genre": "スマートウォッチ",
+    "price": 16830
+  },
+  "B094VSZPPP": {
+    "first_seen": "2026-10-07",
+    "first_seen_at": "2026-10-07T13:15:11+09:00",
+    "last_seen": "2026-11-27",
+    "title": "GARMIN(ガーミン) スマートウォッチ GPS Venu 2 Black/Slate【日本正規品】 010-02430-61 小",
+    "percent_off": 15,
+    "brand": "ガーミン(GARMIN)",
+    "genre": "スマートウォッチ",
+    "price": 46800
+  },
+  "B0D876RN9C": {
+    "first_seen": "2026-11-27",
+    "first_seen_at": "2026-11-27T00:13:28+09:00",
+    "last_seen": "2026-11-27",
+    "title": "XREAL Beam Pro(8+256GB) XREAL ARグラス空間コンピューティングコンパニオン 3Dカメラ Android 14 すべてのGoogle Playストアアプリをサポート 映画、テレビ、ゲームのための3DoF 空間体験 FHD 1080",
+    "percent_off": 30,
+    "brand": "XREAL",
+    "genre": "XR・ARグラス",
+    "price": 25190
+  },
+  "B0GQZVG4MD": {
+    "first_seen": "2026-11-10",
+    "first_seen_at": "2026-11-10T15:15:03+09:00",
+    "last_seen": "2026-11-27",
+    "title": "Ray-Ban Meta スマートグラス WAYFARER 調光レンズ IPX4防水トランスP.グレー/サファイア 50mm 0RW4012",
+    "percent_off": 13,
+    "brand": "Meta",
+    "genre": "XR・ARグラス",
+    "price": 77960
+  },
+  "B0FFT61X6F": {
+    "first_seen": "2026-11-04",
+    "first_seen_at": "2026-11-04T00:15:51+09:00",
+    "last_seen": "2026-11-27",
+    "title": "VITURE Luma AR/XRグラス 近視-6.0Dまで対応 146型 1200p 120Hz | 1000nit高輝度・50°視野角の軽量スマートグラス。映画・ゲーム・作業に対応。USB-C映像出力対応機器、iPhone 15シリーズ以降（iPhone AirおよびiPhone eシリーズを除く）で使用可能。",
+    "percent_off": 26,
+    "brand": "VITURE",
+    "genre": "XR・ARグラス",
+    "price": 47880
+  },
+  "B0H8PKFJG4": {
+    "first_seen": "2026-11-04",
+    "first_seen_at": "2026-11-04T00:15:51+09:00",
+    "last_seen": "2026-11-27",
+    "title": "RayNeo GT AR/XRグラス 201インチ 120Hz Native 3DoF Dolby Vision対応 68g | 201インチ大画面と120Hzの滑らかな映像。Native 3DoF、Dolby Vision、1200nitsに対応した次世代AR/XRグラス。",
+    "percent_off": 24,
+    "brand": "RayNeo",
+    "genre": "XR・ARグラス",
+    "price": 40097
+  },
+  "B0H2DYK149": {
+    "first_seen": "2026-11-27",
+    "first_seen_at": "2026-11-27T00:13:28+09:00",
+    "last_seen": "2026-11-27",
+    "title": "Rokid スマートAIグラス 最新AIモデル搭載 超軽量49g AI検索 89言語リアルタイム翻訳 8言語オフライン 12言語双方向翻訳 ARナビ | 12MPカメラ 4k写真 録画 議事録作成 要約 原稿表示 スケジュール管理 1500ニトの明るさ 省電力設計 急速充電 長時間駆動 音漏れを抑え AIノイズ低減 プライバシー保護 会議 講演 海外旅行 出張 難聴 外語学習",
+    "percent_off": 20,
+    "brand": "Rokid",
+    "genre": "XR・ARグラス",
+    "price": 87900
+  },
+  "B0DRVPMT4T": {
+    "first_seen": "2026-11-09",
+    "first_seen_at": "2026-11-09T15:15:46+09:00",
+    "last_seen": "2026-11-27",
+    "title": "VITURE Pro Neckband ARグラス用XRストリーミングデバイス 12GB/256GB | VITURE ARグラスと組み合わせて、動画・リモートプレイ・マルチスクリーン・3D再生をスマホなしで楽しめるネックバンド型デバイス。",
+    "percent_off": 20,
+    "brand": "VITURE",
+    "genre": "XR・ARグラス",
+    "price": 47980
+  },
+  "B0GCZMGP1T": {
+    "first_seen": "2026-11-04",
+    "first_seen_at": "2026-11-04T00:15:51+09:00",
+    "last_seen": "2026-11-27",
+    "title": "VITURE Luma Ultra AR/XRグラス VGP&BEST BUY受賞 フル6DoF対応 ARハンドジェスチャー 1500nit | 152型XRグラス 2D-3D変換対応 iPhone 15シリーズ以降（iPhone AirおよびiPhone eシリーズを除く）、DP出力Android、Mac/PC対応 PS5, Xbx, Switch/Switch 2は別売ドック必要",
+    "percent_off": 18,
+    "brand": "VITURE",
+    "genre": "XR・ARグラス",
+    "price": 73880
+  },
+  "B0H8PRL8F2": {
+    "first_seen": "2026-11-27",
+    "first_seen_at": "2026-11-27T00:13:28+09:00",
+    "last_seen": "2026-11-27",
+    "title": "RayNeo GT Max AR/XRグラス 267インチ 59° FOV Native 3DoF、B&Oサウンド | Dolby Vision対応ビデオディスプレイグラス、1200nits、120Hz、デュアルチップ、3D、iPhone 17/16/15、Android、Mac/PC、Switch 1/2、PS5、Steam Deck、M（IPD 64～67mm）",
+    "percent_off": 15,
+    "brand": "RayNeo",
+    "genre": "XR・ARグラス",
+    "price": 57783
+  },
+  "B0FHTLTPSY": {
+    "first_seen": "2026-11-27",
+    "first_seen_at": "2026-11-27T00:13:28+09:00",
+    "last_seen": "2026-11-27",
+    "title": "XREAL One Pro ARグラス｜X1チップ＆X-Prism光学搭載｜ネイティブ3DoF対応｜3Dリアル変換機能｜57°の広視野角・最大428インチ相当・FHD・最大120Hz表示｜iPhone 17/16/15（※eシリーズ除く）、Steam Deck、ROG、Mac、PC、Android & iOS対応｜IPD（瞳孔間距離）に合わせた2サイズ展開［L (IPD 66-75mm)］",
+    "percent_off": 15,
+    "brand": "XREAL",
+    "genre": "XR・ARグラス",
+    "price": 71980
+  },
+  "B0H5HS653V": {
+    "first_seen": "2026-11-27",
+    "first_seen_at": "2026-11-27T00:13:28+09:00",
+    "last_seen": "2026-11-27",
+    "title": "XREAL xbx a01+ ARグラス スマートグラス— 62g超軽量 147イン大画面（映画・ゲーム用） | 高輝度1600nits HDR10対応 USB-C DP接続 iPhone /iPad/Android/Steam Deck/ROG PC対応",
+    "percent_off": 15,
+    "brand": "XREAL",
+    "genre": "XR・ARグラス",
+    "price": 37380
+  },
+  "B0FHQ9DZZJ": {
+    "first_seen": "2026-11-27",
+    "first_seen_at": "2026-11-27T00:13:28+09:00",
+    "last_seen": "2026-11-27",
+    "title": "XREAL One Pro ARグラス｜X1チップ＆X-Prism光学搭載｜ネイティブ3DoF対応｜3Dリアル変換機能｜57°の広視野角・最大428インチ相当・FHD・最大120Hz表示｜iPhone 17/16/15（※eシリーズ除く）、Steam Deck、ROG、Mac、PC、Android & iOS対応｜IPD（瞳孔間距離）に合わせた2サイズ展開［M (IPD 57-66mm)］",
+    "percent_off": 15,
+    "brand": "XREAL",
+    "genre": "XR・ARグラス",
+    "price": 71980
+  },
+  "B0HKS1C2MZ": {
+    "first_seen": "2026-11-27",
+    "first_seen_at": "2026-11-27T00:13:28+09:00",
+    "last_seen": "2026-11-27",
+    "title": "RayNeo GT Max AR/XRグラス | 3D対応 267インチ相当、59° FOV、120Hz、1200nits、Dolby Vision、B&Oサウンド、Native 3DoF、iPhone 17/16/15",
+    "percent_off": 15,
+    "brand": "RayNeo",
+    "genre": "XR・ARグラス",
+    "price": 57783
+  },
+  "B0C2S4D67B": {
+    "first_seen": "2026-11-27",
+    "first_seen_at": "2026-11-27T00:13:28+09:00",
+    "last_seen": "2026-11-27",
+    "title": "Amazon Echo Spot（2024年発売） - スマートアラームクロック、鮮やかなサウンド、Alexa+ 早期アクセス対象 | オーシャンブルー",
+    "percent_off": 63,
+    "brand": "Amazon",
+    "genre": "Amazonデバイス",
+    "price": 7480
+  },
+  "B09B2T3QBN": {
+    "first_seen": "2026-11-27",
+    "first_seen_at": "2026-11-27T00:13:28+09:00",
+    "last_seen": "2026-11-27",
+    "title": "Amazon Echo Show 5 (エコーショー5) 第3世代 - スマートディスプレイ、2メガピクセルカメラ付き、Alexa+ 早期アクセス対象 | クラウドブルー",
+    "percent_off": 50,
+    "brand": "Amazon",
+    "genre": "Amazonデバイス",
+    "price": 8980
+  },
+  "B0H25PNF9J": {
+    "first_seen": "2026-11-27",
+    "first_seen_at": "2026-11-27T00:13:28+09:00",
+    "last_seen": "2026-11-27",
+    "title": "【セット買い】Amazon Fire TV Stick HD + Amazon Fire TV Soundbar Plus",
+    "percent_off": 50,
+    "brand": "Amazon",
+    "genre": "Amazonデバイス",
+    "price": 20780
+  },
+  "B0H262JBF7": {
+    "first_seen": "2026-11-27",
+    "first_seen_at": "2026-11-27T00:13:28+09:00",
+    "last_seen": "2026-11-27",
+    "title": "【セット買い】Amazon Fire TV Stick 4K Plus + Amazon Fire TV Soundbar Plus",
+    "percent_off": 50,
+    "brand": "Amazon",
+    "genre": "Amazonデバイス",
+    "price": 23780,
+    "past": [
+      {
+        "first_seen": "2026-11-04",
+        "last_seen": "2026-11-05",
+        "title": "【セット買い】Amazon Fire TV Stick 4K Plus + Amazon Fire TV Soundbar Plus",
+        "brand": null,
+        "genre": null,
+        "price": null,
+        "percent_off": 28
+      }
+    ]
+  },
+  "B0GSHC4PWG": {
+    "first_seen": "2026-11-27",
+    "first_seen_at": "2026-11-27T00:13:28+09:00",
+    "last_seen": "2026-11-27",
+    "title": "【New】Amazon Fire TV Stick 4K | 4Kの高画質ストリーミング | 新しいFire TVリモコン付属 | ストリーミングメディアプレイヤー",
+    "percent_off": 50,
+    "brand": "Amazon",
+    "genre": "Amazonデバイス",
+    "price": 5980
+  },
+  "B0CTMSH4BK": {
+    "first_seen": "2026-11-27",
+    "first_seen_at": "2026-11-27T00:13:28+09:00",
+    "last_seen": "2026-11-27",
+    "title": "Sangria, Kindle Paperwhite (16GB) 7インチディスプレイ、色調調節ライト、12週間持続バッテリー、広告なし、ブラック + Kindle Unlimited（3ヵ月分。以降自動更新）",
+    "percent_off": 48,
+    "brand": "Amazon",
+    "genre": "Amazonデバイス",
+    "price": 20980
+  },
+  "B0H262HBX2": {
+    "first_seen": "2026-11-27",
+    "first_seen_at": "2026-11-27T00:13:28+09:00",
+    "last_seen": "2026-11-27",
+    "title": "【セット買い】Amazon Fire TV Stick 4K Max + Amazon Fire TV Soundbar Plus",
+    "percent_off": 45,
+    "brand": "Amazon",
+    "genre": "Amazonデバイス",
+    "price": 25780,
+    "past": [
+      {
+        "first_seen": "2026-11-04",
+        "last_seen": "2026-11-11",
+        "title": "【セット買い】Amazon Fire TV Stick 4K Max + Amazon Fire TV Soundbar Plus",
+        "brand": null,
+        "genre": null,
+        "price": null,
+        "percent_off": 15
+      }
+    ]
+  },
+  "B0DKLWZY2Z": {
+    "first_seen": "2026-11-27",
+    "first_seen_at": "2026-11-27T00:13:28+09:00",
+    "last_seen": "2026-11-27",
+    "title": "Amazon Echo Dot Max (エコードットマックス)(2025年発売) - スマートスピーカー、部屋中に広がるサウンド、スマートホームハブ内蔵、Alexa+のための設計 | グラファイト",
+    "percent_off": 40,
+    "brand": "Amazon",
+    "genre": "Amazonデバイス",
+    "price": 8980
+  },
+  "B0HQGVF3J9": {
+    "first_seen": "2026-11-27",
+    "first_seen_at": "2026-11-27T00:13:28+09:00",
+    "last_seen": "2026-11-27",
+    "title": "【セット買い】Echo Show 11 (2025年発売) グラファイト + Ring Indoor Cam (第2世代) ホワイト",
+    "percent_off": 31,
+    "brand": "Amazon",
+    "genre": "Amazonデバイス",
+    "price": 30980
+  },
+  "B0CX8MT2M2": {
+    "first_seen": "2026-11-04",
+    "first_seen_at": "2026-11-04T05:15:15+09:00",
+    "last_seen": "2026-11-27",
+    "title": "Amazon Kindle Colorsoft | 16GBストレージ、防水、7インチカラーディスプレイ、色調調節ライト、最大8週間持続バッテリー、広告無し、ブラック (2025年発売)",
+    "percent_off": 29,
+    "brand": "Amazon",
+    "genre": "Amazonデバイス",
+    "price": 27980
+  },
+  "B0F2FK1M4H": {
+    "first_seen": "2026-11-27",
+    "first_seen_at": "2026-11-27T00:13:28+09:00",
+    "last_seen": "2026-11-27",
+    "title": "【セット買い】Echo Dot (第5世代) チャコール + SwitchBot スマートリモコン Hub Mini (温湿度センサー搭載・Matter対応版)",
+    "percent_off": 25,
+    "brand": "Amazon",
+    "genre": "Amazonデバイス",
+    "price": 10230
+  },
+  "B0GMKC5ZST": {
+    "first_seen": "2026-11-27",
+    "first_seen_at": "2026-11-27T00:13:28+09:00",
+    "last_seen": "2026-11-27",
+    "title": "【New】Amazon Echo Dot (エコードット) 第6世代 - コンパクトなスマートスピーカー、豊かなサウンド、スマートホームハブ内蔵、Alexa+のための設計 | グラファイト",
+    "percent_off": 25,
+    "brand": "Amazon",
+    "genre": "Amazonデバイス",
+    "price": 13480
+  },
+  "B0GFY9GN5Y": {
+    "first_seen": "2026-11-27",
+    "first_seen_at": "2026-11-27T00:13:28+09:00",
+    "last_seen": "2026-11-27",
+    "title": "【New】Amazon Echo Time (エコータイム) - Alexa搭載スマートクロック、選べる時計デザイン、スマートアラーム、心地よい環境音、スマートホームハブ内蔵、Alexa+のための設計 | グレーシャーホワイト",
+    "percent_off": 25,
+    "brand": "Amazon",
+    "genre": "Amazonデバイス",
+    "price": 26980
+  },
+  "B0DXMYB4XN": {
+    "first_seen": "2026-11-27",
+    "first_seen_at": "2026-11-27T00:13:28+09:00",
+    "last_seen": "2026-11-27",
+    "title": "Amazon Echo Studio (エコースタジオ) 最新モデル (2025年発売) - 没入感ある空間オーディオ、Dolby Atmos、スマートホームハブ内蔵、グラファイト",
+    "percent_off": 25,
+    "brand": "Amazon",
+    "genre": "Amazonデバイス",
+    "price": 29980
+  },
+  "B0CFPL6CFY": {
+    "first_seen": "2026-11-27",
+    "first_seen_at": "2026-11-27T00:13:28+09:00",
+    "last_seen": "2026-11-27",
+    "title": "Amazon Kindle Paperwhite (16GB) 7インチディスプレイ、色調調節ライト、12週間持続バッテリー、広告なし、ブラック",
+    "percent_off": 25,
+    "brand": "Amazon",
+    "genre": "Amazonデバイス",
+    "price": 20980
+  },
+  "B0FBSC6CPR": {
+    "first_seen": "2026-11-27",
+    "first_seen_at": "2026-11-27T00:13:28+09:00",
+    "last_seen": "2026-11-27",
+    "title": "New Amazon Kindle Scribe フロントライト非搭載モデル | 11インチディスプレイ、16GBストレージ、ノート機能搭載、プレミアムペン付き、グラファイト",
+    "percent_off": 22,
+    "brand": "Amazon",
+    "genre": "Amazonデバイス",
+    "price": 56980
+  },
+  "B0FC1PBJRB": {
+    "first_seen": "2026-11-27",
+    "first_seen_at": "2026-11-27T00:13:28+09:00",
+    "last_seen": "2026-11-27",
+    "title": "New Amazon Kindle Scribe | 11インチディスプレイ、32GBストレージ、ノート機能搭載、明るさ自動調整、色調調節ライト、プレミアムペン付き、グラファイト",
+    "percent_off": 22,
+    "brand": "Amazon",
+    "genre": "Amazonデバイス",
+    "price": 69980
+  },
+  "B0FC217W9L": {
+    "first_seen": "2026-11-27",
+    "first_seen_at": "2026-11-27T00:13:28+09:00",
+    "last_seen": "2026-11-27",
+    "title": "New Amazon Kindle Scribe Colorsoft | 11インチカラーディスプレイ、32GBストレージ、ノート機能搭載、明るさ自動調整、色調調節ライト、プレミアムペン付き、グラファイト",
+    "percent_off": 21,
+    "brand": "Amazon",
+    "genre": "Amazonデバイス",
+    "price": 84980
+  },
+  "B0FC25LQGT": {
+    "first_seen": "2026-11-27",
+    "first_seen_at": "2026-11-27T00:13:28+09:00",
+    "last_seen": "2026-11-27",
+    "title": "New Amazon Kindle Scribe Colorsoft | 11インチカラーディスプレイ、64GBストレージ、ノート機能搭載、明るさ自動調整、色調調節ライト、プレミアムペン付き、フィグ",
+    "percent_off": 19,
+    "brand": "Amazon",
+    "genre": "Amazonデバイス",
+    "price": 93980
+  },
+  "B0FL6ZD3WL": {
+    "first_seen": "2026-07-29",
+    "first_seen_at": "2026-07-29T12:00:00+09:00",
+    "last_seen": "2026-11-27",
+    "title": "エレコム ワイヤレスキーボード Precisionist プレシジョニスト Bluetooth 無線2.4GHz マルチペアリング4台 充電式 薄型パンタグラフ式 フルサイズ ブラック TK-PN10FMPABK",
+    "percent_off": 45,
+    "brand": "エレコム(ELECOM)",
+    "genre": "キーボード・マウス",
+    "price": 4920
+  },
+  "B0FL77NZXM": {
+    "first_seen": "2026-07-29",
+    "first_seen_at": "2026-07-29T12:00:00+09:00",
+    "last_seen": "2026-11-27",
+    "title": "エレコム ワイヤレスキーボード Precisionist プレシジョニスト Bluetooth 無線2.4GHz マルチペアリング4台 充電式 薄型パンタグラフ式 ミニサイズ ブラック TK-PN1075MPABK",
+    "percent_off": 44,
+    "brand": "エレコム(ELECOM)",
+    "genre": "キーボード・マウス",
+    "price": 4490
+  },
+  "B0D9Y1J4NH": {
+    "first_seen": "2026-09-26",
+    "first_seen_at": "2026-09-26T10:14:59+09:00",
+    "last_seen": "2026-11-27",
+    "title": "【Amazon.co.jp限定】 ロジクール 静音 ワイヤレス トラックボール マウス 無線 M575SPd 国内正規品 | 筋肉緊張を軽減するエルゴノミックデザイン、Bluetooth、Logibolt、電池式（単三形乾電池x1）、windows、maOS、 iPadOS、ChromeOS、ブラック、M575、M575SP、Amazon.co.jp限定壁紙ダウンロード付き",
+    "percent_off": 41,
+    "brand": "Logicool(ロジクール)",
+    "genre": "キーボード・マウス",
+    "price": 4980
+  },
+  "B07PJW2X2F": {
+    "first_seen": "2026-07-26",
+    "first_seen_at": "2026-07-26T12:00:00+09:00",
+    "last_seen": "2026-11-27",
+    "title": "エレコム ワイヤレスキーボード メンブレン 薄型 フルキーボード テンキー ブラック TK-FDM110TXBK",
+    "percent_off": 41,
+    "brand": "エレコム(ELECOM)",
+    "genre": "キーボード・マウス",
+    "price": 1580
+  },
+  "B0FJRCJ1SN": {
+    "first_seen": "2026-07-26",
+    "first_seen_at": "2026-07-26T12:00:00+09:00",
+    "last_seen": "2026-11-27",
+    "title": "【リニューアル】 エレコム ワイヤレスマウス 静音 充電式 OSMOD Six Bluetooth 無線2.4GHz両対応 2台まで接続 マルチペアリング 6ボタン ブラック M-MY35MBSABK",
+    "percent_off": 38,
+    "brand": "エレコム(ELECOM)",
+    "genre": "キーボード・マウス",
+    "price": 2455
+  },
+  "B005EUPRB8": {
+    "first_seen": "2026-11-27",
+    "first_seen_at": "2026-11-27T00:13:28+09:00",
+    "last_seen": "2026-11-27",
+    "title": "【Amazon.co.jp限定】 ロジクール ワイヤレスマウス 無線 マウス M185BL M185 ブルー 国内正規品 | 小型、軽量、2.4GHzワイヤレス接続、電池式（単3形乾電池 x 1）、電池寿命最大12ケ月、windows10、11以降、macOS 10.5以降、ChromeOS、Linuxカーネル2.6+以降、Amazon.co.jp限定 壁紙ダウンロード付き",
+    "percent_off": 30,
+    "brand": "Logicool(ロジクール)",
+    "genre": "キーボード・マウス",
+    "price": 998,
+    "past": [
+      {
+        "first_seen": "2026-11-05",
+        "last_seen": "2026-11-09",
+        "title": "【Amazon.co.jp限定】 ロジクール ワイヤレスマウス 無線 マウス M185BL M185 ブルー 国内正規品 | 小型、軽量、2.4GHzワイヤレス接続、電池式（単3形乾電池 x 1）、電池寿命最大12ケ月、windows10、11以降、macOS 10.5以降、ChromeOS、Linuxカーネル2.6+以降、Amazon.co.jp限定 壁紙ダウンロード付き",
+        "brand": null,
+        "genre": null,
+        "price": null,
+        "percent_off": 30
+      }
+    ]
+  },
+  "B088P8QYWN": {
+    "first_seen": "2026-11-04",
+    "first_seen_at": "2026-11-04T10:15:10+09:00",
+    "last_seen": "2026-11-27",
+    "title": "エレコム マウス ワイヤレス Mサイズ 5ボタン(戻る・進むボタン搭載) BlueLED 握りの極み ガンメタリック M-XGM10DBBK/EC",
+    "percent_off": 27,
+    "brand": "エレコム(ELECOM)",
+    "genre": "キーボード・マウス",
+    "price": 990
+  },
+  "B09Q5SHDR3": {
+    "first_seen": "2026-11-26",
+    "first_seen_at": "2026-11-26T08:13:54+09:00",
+    "last_seen": "2026-11-27",
+    "title": "ロジクール ワイヤレスマウス 静音 無線 高速スクロール Signature M650MGR レギュラー グラファイト M650 国内正規品 | レギュラーサイズ、5ボタン、サイドボタン、電池式（単3形乾電池x1）、Bluetooth、Logi Bolt、Windows10、Windows11、macOS、iPadOS、Android、ChromeOS、M650M",
+    "percent_off": 26,
+    "brand": "Logicool(ロジクール)",
+    "genre": "キーボード・マウス",
+    "price": 3439
+  },
+  "B08K2RGTHY": {
+    "first_seen": "2026-07-26",
+    "first_seen_at": "2026-07-26T12:00:00+09:00",
+    "last_seen": "2026-11-27",
+    "title": "ロジクール ワイヤレスマウス キーボード セット MK295GP 静音 耐水 国内正規品 | 無線、USBレシーバー接続、Unifying非対応、グラファイト、MK295",
+    "percent_off": 26,
+    "brand": "Logicool(ロジクール)",
+    "genre": "キーボード・マウス",
+    "price": 3073
+  },
+  "B0D9VVL9DY": {
+    "first_seen": "2026-10-06",
+    "first_seen_at": "2026-10-06T00:16:13+09:00",
+    "last_seen": "2026-11-27",
+    "title": "【Amazon.co.jp限定】 Logicool G PRO X TKL RAPID ゲーミングキーボード | ラピッドトリガー アクチュエーションポイント 調整可能 押下圧 35g 日本語配列 有線 テンキーレス 磁気式アナログスイッチ ゲーミング キーボード メカニカルキーボード ブラック 壁紙ダウンロード付き 国内正規品",
+    "percent_off": 26,
+    "brand": "Logicool G(ロジクール G)",
+    "genre": "キーボード・マウス",
+    "price": 18980
+  },
+  "B0CLGVLBMV": {
+    "first_seen": "2026-08-23",
+    "first_seen_at": "2026-08-23T20:37:59+09:00",
+    "last_seen": "2026-11-27",
+    "title": "Razer ラピッドトリガー 搭載 Huntsman V3 Pro Mini JP ラピッドトリガーと調整可能なアクチュエーション搭載のアナログ ゲーミングキーボード アナログオプティカルスイッチ 調整可能なアクチュエーション 押下圧 40G 日本語配列 ハンツマン ブイスリー プロ ミニ ジェイピー【日本正規代理店保証品】 ブラック",
+    "percent_off": 26,
+    "brand": "Razer(レイザー)",
+    "genre": "キーボード・マウス",
+    "price": 20029
+  },
+  "B0GL1B1L6Y": {
+    "first_seen": "2026-10-29",
+    "first_seen_at": "2026-10-29T23:15:00+09:00",
+    "last_seen": "2026-11-27",
+    "title": "東プレ REALFORCE GX1 Plus サザビー 日本語配列 ゲーミングキーボード X1PCS1",
+    "percent_off": 26,
+    "brand": "REALFORCE",
+    "genre": "キーボード・マウス",
+    "price": 44373
+  },
+  "B0927ZDJTL": {
+    "first_seen": "2026-11-27",
+    "first_seen_at": "2026-11-27T00:13:28+09:00",
+    "last_seen": "2026-11-27",
+    "title": "【Amazon.co.jp限定】 ロジクール ワイヤレスマウス 静音 無線 M220OW オフホワイト 国内正規品 | 静音マウス、小型、2.4GHz USBワイヤレス接続、電池式（単3形乾電池x1）、電池寿命最大18ケ月、左右対称、M220、無線マウス、Windows 、macOS、ChromeOS、 Linux、壁紙ダウンロード付き",
+    "percent_off": 23,
+    "brand": "Logicool(ロジクール)",
+    "genre": "キーボード・マウス",
+    "price": 1270,
+    "past": [
+      {
+        "first_seen": "2026-11-05",
+        "last_seen": "2026-11-05",
+        "title": "【Amazon.co.jp限定】 ロジクール ワイヤレスマウス 静音 無線 M220OW オフホワイト 国内正規品 | 静音マウス、小型、2.4GHz USBワイヤレス接続、電池式（単3形乾電池x1）、電池寿命最大18ケ月、左右対称、M220、無線マウス、Windows 、macOS、ChromeOS、 Linux、壁紙ダウンロード付き",
+        "brand": null,
+        "genre": null,
+        "price": null,
+        "percent_off": 18
+      }
+    ]
+  },
+  "B0BKPL1VKW": {
+    "first_seen": "2026-11-13",
+    "first_seen_at": "2026-11-13T21:14:48+09:00",
+    "last_seen": "2026-11-27",
+    "title": "ロジクール ワイヤレスマウス 静音 無線 高速スクロール Signature M750MGR レギュラー グラファイト M750 国内正規品 | レギュラーサイズ、6ボタン、サイドボタン、電池式（単3形乾電池x1）、Easy-Switch、DPI切り替え、Bluetooth、Logi Bolt、Windows10、Windows11、macOS、iPadOS、Android、ChromeOS",
+    "percent_off": 23,
+    "brand": "Logicool(ロジクール)",
+    "genre": "キーボード・マウス",
+    "price": 4063
+  },
+  "B0C3QXBTJP": {
+    "first_seen": "2026-11-27",
+    "first_seen_at": "2026-11-27T00:13:28+09:00",
+    "last_seen": "2026-11-27",
+    "title": "エレコム ワイヤレスキーボード 静音 テンキー付 薄型コンパクトサイズ Windows ChromeOS macOS対応 ブラック TK-QT30DMBK",
+    "percent_off": 21,
+    "brand": "エレコム(ELECOM)",
+    "genre": "キーボード・マウス",
+    "price": 2120
+  },
+  "B0FDQL8KNL": {
+    "first_seen": "2026-11-27",
+    "first_seen_at": "2026-11-27T00:13:28+09:00",
+    "last_seen": "2026-11-27",
+    "title": "【Amazon.co.jp限定】 ロジクール Bluetooth ワイヤレスキーボード 無線 K250GRd 日本語配列 グラファイト 国内正規品 | コンパクト、耐水、テンキー、電池式（単4型乾電池 x 2）、12ヶ月の電池寿命、Windows、macOS、ChromeOS、Linux、iPadOS、iOS、Android対応、壁紙ダウンロード付き",
+    "percent_off": 21,
+    "brand": "Logicool(ロジクール)",
+    "genre": "キーボード・マウス",
+    "price": 1980
+  },
+  "B0BWDSC5ZB": {
+    "first_seen": "2026-11-27",
+    "first_seen_at": "2026-11-27T00:13:28+09:00",
+    "last_seen": "2026-11-27",
+    "title": "【Amazon.co.jp限定】 ロジクール ワイヤレスキーボード 無線 MX KEYS mini KX700GRd 日本語配列 国内正規品 | テンキーレス、コンパクト、薄型、USB-C充電式、Bluetooth、Logi Bolt、イルミネイテッド、グラファイト色、ミニマリスト、KX700 、Unifying接続非対応、壁紙ダウンロード付き",
+    "percent_off": 21,
+    "brand": "Logicool(ロジクール)",
+    "genre": "キーボード・マウス",
+    "price": 12300
+  },
+  "B0G7RJ4SZY": {
+    "first_seen": "2026-11-27",
+    "first_seen_at": "2026-11-27T00:13:28+09:00",
+    "last_seen": "2026-11-27",
+    "title": "REALFORCE GX1Plus キーボード 30g 日本語配列 ブラック ダークグレー 静電容量無接点方式 ラピッドトリガー 8000Hz 最速0.1mm作動 PBT リアルフォース 日本製 かな無し X1PC13",
+    "percent_off": 20,
+    "brand": "REALFORCE",
+    "genre": "キーボード・マウス",
+    "price": 28160
+  },
+  "B0GVYXY8RQ": {
+    "first_seen": "2026-11-27",
+    "first_seen_at": "2026-11-27T00:13:28+09:00",
+    "last_seen": "2026-11-27",
+    "title": "REALFORCE GX1Plus キーボード 30g 日本語配列 スーパーホワイト 静電容量無接点方式 ラピッドトリガー 8000Hz 最速0.1mm作動 PBT リアルフォース 日本製 かな無し X1PC23",
+    "percent_off": 20,
+    "brand": "REALFORCE",
+    "genre": "キーボード・マウス",
+    "price": 28160
+  },
+  "B08TGDD1R4": {
+    "first_seen": "2026-11-22",
+    "first_seen_at": "2026-11-22T20:13:11+09:00",
+    "last_seen": "2026-11-27",
+    "title": "エレコム ワイヤレスキーボード TK-FDM110TKBK 薄型 メンブレン式 抗菌 テンキー付 ブラック",
+    "percent_off": 19,
+    "brand": "エレコム(ELECOM)",
+    "genre": "キーボード・マウス",
+    "price": 1636
+  },
+  "B0DPF33WVV": {
+    "first_seen": "2026-09-17",
+    "first_seen_at": "2026-09-17T00:14:58+09:00",
+    "last_seen": "2026-11-27",
+    "title": "東プレ GX1 Keyboard 獅白ぼたん モデル 日本語配列 REALFORCE ゲーミングキーボード TKL 91キー X1UCS1 KB0911",
+    "percent_off": 20,
+    "brand": "REALFORCE",
+    "genre": "キーボード・マウス",
+    "price": 39080
+  },
+  "B08K2CHMWK": {
+    "first_seen": "2026-08-04",
+    "first_seen_at": "2026-08-04T18:28:41+09:00",
+    "last_seen": "2026-11-27",
+    "title": "ロジクール ワイヤレスキーボード K295GP 静音 耐水 キーボード 無線 Unifying K295 グラファイト 国内正規品 | 電池式（単4形乾電池x2）、電池寿命最大24ヶ月、Unifying USBレシーバー、テンキー、フルサイズ、8個のショートカットキー、windows10、Windows11以降、chromeOS",
+    "percent_off": 18,
+    "brand": "Logicool(ロジクール)",
+    "genre": "キーボード・マウス",
+    "price": 2709
+  },
+  "B07DVC25R2": {
+    "first_seen": "2026-07-26",
+    "first_seen_at": "2026-07-26T12:00:00+09:00",
+    "last_seen": "2026-11-27",
+    "title": "Logicool G ゲーミングマウス G304 LIGHTSPEED ワイヤレスマウス ブラック 軽量 99g 国内正規品 | HERO 12Kセンサー, 6個プログラムボタン, 250時間連続使用可能,PC ,windows, mac, 軽量マウス, PCゲーミングマウス,マウス, ファイナルファンタジー XIV 推奨モデル",
+    "percent_off": 18,
+    "brand": "Logicool G(ロジクール G)",
+    "genre": "キーボード・マウス",
+    "price": 4700
+  },
+  "B0FDQKRJJ3": {
+    "first_seen": "2026-11-27",
+    "first_seen_at": "2026-11-27T00:13:28+09:00",
+    "last_seen": "2026-11-27",
+    "title": "【Amazon.co.jp限定】 ロジクール Bluetooth ワイヤレスマウス キーボード セット MK250GRd 日本語配列 国内正規品 | 耐水、テンキー、電池式（キーボード：単4型乾電池 x 2、マウス：単3電池 x 1）、12ヶ月の電池寿命、Windows、macOS、ChromeOS、Linux、iPadOS、iOS、Android対応、グラファイト色、壁紙ダウンロード付き",
+    "percent_off": 18,
+    "brand": "Logicool(ロジクール)",
+    "genre": "キーボード・マウス",
+    "price": 2880
+  },
+  "B0CJR8Y56J": {
+    "first_seen": "2026-07-26",
+    "first_seen_at": "2026-07-26T12:00:00+09:00",
+    "last_seen": "2026-11-27",
+    "title": "ロジクール ワイヤレスキーボード PEBBLE KEYS 2 K380sGR 薄型 軽量 415g 小型 Bluetooth Logi Bolt ワイヤレス 無線 キーボード Easy-Switch 日本語配列 電池寿命36ケ月 Windows Mac iPad iOS Android Chrome K380s グラファイト 国内正規品",
+    "percent_off": 17,
+    "brand": "Logicool(ロジクール)",
+    "genre": "キーボード・マウス",
+    "price": 4373
+  },
+  "B07JB6Q58L": {
+    "first_seen": "2026-11-27",
+    "first_seen_at": "2026-11-27T00:13:28+09:00",
+    "last_seen": "2026-11-27",
+    "title": "エレコム ワイヤレスマウス 静音 5ボタン Mサイズ ブラック M-FBL01DBXSBK",
+    "percent_off": 16,
+    "brand": "エレコム(ELECOM)",
+    "genre": "キーボード・マウス",
+    "price": 1140
+  },
+  "B0CFKL2GHQ": {
+    "first_seen": "2026-11-27",
+    "first_seen_at": "2026-11-27T00:13:28+09:00",
+    "last_seen": "2026-11-27",
+    "title": "エレコム マウス ワイヤレスマウス EX-G Bluetooth 静音 Mサイズ 5ボタン マルチペアリング 「AskDoctors評価サービス」認証 抗菌 ブラック M-XGM30BBSKABK",
+    "percent_off": 16,
+    "brand": "エレコム(ELECOM)",
+    "genre": "キーボード・マウス",
+    "price": 3090
+  },
+  "B0HFHBGBRG": {
+    "first_seen": "2026-11-27",
+    "first_seen_at": "2026-11-27T00:13:28+09:00",
+    "last_seen": "2026-11-27",
+    "title": "エレコム ワイヤレスキーボード Bluetooth 無線2.4GHz 3台マルチ接続 静音 フルサイズ テンキー付 メンブレン式 ブラック TK-QT11FMMABK",
+    "percent_off": 16,
+    "brand": "エレコム(ELECOM)",
+    "genre": "キーボード・マウス",
+    "price": 3604
+  },
+  "B0DJLRYYSS": {
+    "first_seen": "2026-11-27",
+    "first_seen_at": "2026-11-27T00:13:28+09:00",
+    "last_seen": "2026-11-27",
+    "title": "バッファロー キーボード ワイヤレス 薄型 持ち運び テンキーレス メンブレン USB レシーバー付属 ブラック BSKBW145BK",
+    "percent_off": 16,
+    "brand": "バッファロー",
+    "genre": "キーボード・マウス",
+    "price": 1250
+  },
+  "B0FNR6SLDV": {
+    "first_seen": "2026-11-27",
+    "first_seen_at": "2026-11-27T00:13:28+09:00",
+    "last_seen": "2026-11-27",
+    "title": "REALFORCE R4 キーボード ハイブリッド フル 45g 日本語配列 ブラック R4HA11",
+    "percent_off": 15,
+    "brand": "REALFORCE",
+    "genre": "キーボード・マウス",
+    "price": 33847
+  },
+  "B0B3QR7VJ4": {
+    "first_seen": "2026-11-27",
+    "first_seen_at": "2026-11-27T00:13:28+09:00",
+    "last_seen": "2026-11-27",
+    "title": "REALFORCE R3S キーボード 有線 フル 変荷重 日本語配列 ブラック R3SA12",
+    "percent_off": 15,
+    "brand": "REALFORCE",
+    "genre": "キーボード・マウス",
+    "price": 22627
+  },
+  "B0DQS7NLR2": {
+    "first_seen": "2026-11-27",
+    "first_seen_at": "2026-11-27T00:13:28+09:00",
+    "last_seen": "2026-11-27",
+    "title": "REALFORCE RC1 キーボード 70% ホワイト 日本語配列 キー荷重 30g Bluetooth 有線 バッテリー コンパクト C1HJ23",
+    "percent_off": 15,
+    "brand": "REALFORCE",
+    "genre": "キーボード・マウス",
+    "price": 32538
+  },
+  "B0B3R84VG4": {
+    "first_seen": "2026-11-27",
+    "first_seen_at": "2026-11-27T00:13:28+09:00",
+    "last_seen": "2026-11-27",
+    "title": "REALFORCE R3S キーボード 標準スイッチ 有線 フル 45g 日本語配列 ブラック R3SA31",
+    "percent_off": 15,
+    "brand": "REALFORCE",
+    "genre": "キーボード・マウス",
+    "price": 20757
+  },
+  "B0DNJTKMQR": {
+    "first_seen": "2026-11-27",
+    "first_seen_at": "2026-11-27T00:13:28+09:00",
+    "last_seen": "2026-11-27",
+    "title": "REALFORCE RT1 テンキーボード ホワイト キー荷重 45g 有線 プログラマブル テンキー 静電容量無接点方式 左手デバイス 片手デバイス T1UX21",
+    "percent_off": 15,
+    "brand": "REALFORCE",
+    "genre": "キーボード・マウス",
+    "price": 11968
+  },
+  "B0B3QG8B45": {
+    "first_seen": "2026-11-27",
+    "first_seen_at": "2026-11-27T00:13:28+09:00",
+    "last_seen": "2026-11-27",
+    "title": "REALFORCE R3S キーボード 標準スイッチ 有線 テンキーレス 45g 日本語配列 ブラック R3SC31",
+    "percent_off": 15,
+    "brand": "REALFORCE",
+    "genre": "キーボード・マウス",
+    "price": 20009
+  },
+  "B0BFHCZ1RK": {
+    "first_seen": "2026-11-27",
+    "first_seen_at": "2026-11-27T00:13:28+09:00",
+    "last_seen": "2026-11-27",
+    "title": "REALFORCE R3S キーボード 標準スイッチ 有線 テンキーレス 45g 英語配列 ブラック R3SD31",
+    "percent_off": 15,
+    "brand": "REALFORCE",
+    "genre": "キーボード・マウス",
+    "price": 20009
+  },
+  "B0B3QVKPCN": {
+    "first_seen": "2026-11-27",
+    "first_seen_at": "2026-11-27T00:13:28+09:00",
+    "last_seen": "2026-11-27",
+    "title": "REALFORCE R3S キーボード 有線 テンキーレス 変荷重 日本語配列 ブラック R3SC12",
+    "percent_off": 15,
+    "brand": "REALFORCE",
+    "genre": "キーボード・マウス",
+    "price": 21879
+  },
+  "B0BFHDJT78": {
+    "first_seen": "2026-11-27",
+    "first_seen_at": "2026-11-27T00:13:28+09:00",
+    "last_seen": "2026-11-27",
+    "title": "REALFORCE R3S キーボード 有線 テンキーレス 45g 英語配列 ブラック R3SD11",
+    "percent_off": 15,
+    "brand": "REALFORCE",
+    "genre": "キーボード・マウス",
+    "price": 21879
+  },
+  "B0DH8B3MB4": {
+    "first_seen": "2026-11-27",
+    "first_seen_at": "2026-11-27T00:13:28+09:00",
+    "last_seen": "2026-11-27",
+    "title": "REALFORCE RC1 キーボード 70% ブラック 日本語配列 キー荷重 45g Bluetooth 有線 バッテリー コンパクト C1HJ11",
+    "percent_off": 15,
+    "brand": "REALFORCE",
+    "genre": "キーボード・マウス",
+    "price": 32538
+  },
+  "B0FR8LPP2K": {
+    "first_seen": "2026-11-27",
+    "first_seen_at": "2026-11-27T00:13:28+09:00",
+    "last_seen": "2026-11-27",
+    "title": "ロジクール MX MASTER 4 アドバンスド ワイヤレス マウス 触覚フィードバック 静音 高速スクロール MX2400GRd | Logi Bolt、Bluetooth、8000dpi、USB-C 充電式、無線、業務効率化、MX2400、グラファイト、Unifying非対応、国内正規品、【Amazon.co.jp限定】 壁紙ダウンロード付き",
+    "percent_off": 15,
+    "brand": "Logicool(ロジクール)",
+    "genre": "キーボード・マウス",
+    "price": 16900
+  },
+  "B0HCNM9HTB": {
+    "first_seen": "2026-11-27",
+    "first_seen_at": "2026-11-27T00:13:28+09:00",
+    "last_seen": "2026-11-27",
+    "title": "Logicool G PRO X3 SUPERSTRIKE LIGHTSPEED ワイヤレス ゲーミングマウス G-PPD-X3-STRK-MBd | ラピッドトリガー 8000Hz ポーリングレート 軽量 59g HITS 135時間 USB Type-C 充電 POWERPLAY ワイヤレス ゲーミング マウス ブラック 黒 壁紙ダウンロード付き",
+    "percent_off": 15,
+    "brand": "Logicool G(ロジクール G)",
+    "genre": "キーボード・マウス",
+    "price": 25000
+  },
+  "B08GS6NK9R": {
+    "first_seen": "2026-11-27",
+    "first_seen_at": "2026-11-27T00:13:28+09:00",
+    "last_seen": "2026-11-27",
+    "title": "エレコム マウス ワイヤレス トラックボール (親指) 赤玉 6ボタン チルト機能(左右スクロール) ゲーミンググレード光学センサー採用 ブラック M-XT3DRBK-G",
+    "percent_off": 15,
+    "brand": "エレコム(ELECOM)",
+    "genre": "キーボード・マウス",
+    "price": 3050
+  },
+  "B08CRN2P44": {
+    "first_seen": "2026-11-27",
+    "first_seen_at": "2026-11-27T00:13:28+09:00",
+    "last_seen": "2026-11-27",
+    "title": "バッファロー キーボード ワイヤレス BSKBW125BK | 高耐久 電池長持ち リモート テレワーク 疲れにくいデザイン 簡単接続 安心サポート",
+    "percent_off": 15,
+    "brand": "バッファロー",
+    "genre": "キーボード・マウス",
+    "price": 1410
+  },
+  "B07NDM4CQZ": {
+    "first_seen": "2026-10-08",
+    "first_seen_at": "2026-10-08T22:14:47+09:00",
+    "last_seen": "2026-11-27",
+    "title": "エレコム USB キーボード ワイヤレス (レシーバー付属) メンブレン コンパクトキーボード ブラック TK-FDM105TXBK",
+    "percent_off": 15,
+    "brand": "エレコム(ELECOM)",
+    "genre": "キーボード・マウス",
+    "price": 1600
+  },
+  "B0HJCLWQJN": {
+    "first_seen": "2026-11-27",
+    "first_seen_at": "2026-11-27T00:13:28+09:00",
+    "last_seen": "2026-11-27",
+    "title": "エレコム メカニカルキーボード Leggero 有線 フルサイズ 静音軸 Nキーロールオーバー対応 5000万回高耐久スイッチ採用 グレー TK-MC51UKPAGY",
+    "percent_off": 15,
+    "brand": "エレコム(ELECOM)",
+    "genre": "キーボード・マウス",
+    "price": 9330
+  },
+  "B0H33R37MZ": {
+    "first_seen": "2026-11-03",
+    "first_seen_at": "2026-11-03T01:15:11+09:00",
+    "last_seen": "2026-11-27",
+    "title": "【Amazon.co.jp限定】 Ninja ニンジャ Crispi クリスピー FN100JGYNR 自動調理器 3つの調理モード (クリスプ/ベイク・ロースト/リクリスプ) 煮る 焼く 蒸す 炒める 煮込む 炊く 温風調理 エアフライヤー ノンフライヤー FN100J ネイビー",
+    "percent_off": 28,
+    "brand": "NINJA",
+    "genre": "エアフライヤー",
+    "price": 17800
+  },
+  "B0C3VSNBQH": {
+    "first_seen": "2026-11-27",
+    "first_seen_at": "2026-11-27T00:13:28+09:00",
+    "last_seen": "2026-11-27",
+    "title": "COSORI コソリ ノンフライヤー 2L 一人用 エアフライヤー オイル97%カット 省エネ ミニ 卓上 フライヤー CAF-LI211-WJP | ノンフライヤー 人気 ランキング,PSE認証済み,カラー:ホワイト,一人用,エアーフライヤー,電気フライヤー,専用レシピ付き,揚げ物",
+    "percent_off": 16,
+    "brand": "Cosori",
+    "genre": "エアフライヤー",
+    "price": 7542,
+    "past": [
+      {
+        "first_seen": "2026-11-04",
+        "last_seen": "2026-11-11",
+        "title": "COSORI コソリ ノンフライヤー 2L 一人用 エアフライヤー オイル97%カット 省エネ ミニ 卓上 フライヤー CAF-LI211-WJP | ノンフライヤー 人気 ランキング,PSE認証済み,カラー:ホワイト,一人用,エアーフライヤー,電気フライヤー,専用レシピ付き,揚げ物",
+        "brand": null,
+        "genre": null,
+        "price": null,
+        "percent_off": 15
+      }
+    ]
+  },
+  "B0B8D56B2B": {
+    "first_seen": "2026-11-27",
+    "first_seen_at": "2026-11-27T00:13:28+09:00",
+    "last_seen": "2026-11-27",
+    "title": "COSORI スマホ対応機種 ノンフライヤースマートノンオイル フライヤー 最高温230℃ 日本語レシピ付き 揚げ物 ポテト 惣菜 料理 電気フライヤー LEDディスプレイ タッチパネル タイマー 自動電源オフ みどり",
+    "percent_off": 15,
+    "brand": "Cosori",
+    "genre": "エアフライヤー",
+    "price": 14400
+  },
+  "B0CTBN5D74": {
+    "first_seen": "2026-11-27",
+    "first_seen_at": "2026-11-27T00:13:28+09:00",
+    "last_seen": "2026-11-27",
+    "title": "COSORI コソリ ノンフライヤー 6L大容量 家庭用 エアフライヤー DCモーター 高速 最高温230℃ タイマー air fryer 発酵 揚げ物 ポテト 専用レシピ付き ブラック CAF-DC601",
+    "percent_off": 14,
+    "brand": "Cosori",
+    "genre": "エアフライヤー",
+    "price": 17270
+  },
+  "B0FWDCJWWL": {
+    "first_seen": "2026-11-24",
+    "first_seen_at": "2026-11-24T06:13:28+09:00",
+    "last_seen": "2026-11-26",
+    "title": "Apple 13インチiPad Air (M4) 用Magic Keyboard - スペイン語(スペイン) - ブラック",
+    "percent_off": 32,
+    "brand": "Apple(アップル)",
+    "genre": "Apple製品",
+    "price": 37087
   },
   "B0FRSGC73Z": {
     "first_seen": "2026-11-21",
@@ -610,56 +2620,6 @@
     "brand": "Xiaomi",
     "genre": "ワイヤレスイヤホン",
     "price": 2780
-  },
-  "B0DDKHF9XY": {
-    "first_seen": "2026-08-16",
-    "first_seen_at": "2026-08-16T23:40:53+09:00",
-    "last_seen": "2026-11-26",
-    "title": "ソニー(SONY) 完全ワイヤレスイヤホン WF-C510 / 軽量小型4.6g / 高精度通話品質/外音取り込み対応/マルチポイント対応 / IPX4防滴性能 / ブラック/WF-C510 BC",
-    "percent_off": 23,
-    "brand": "Sony",
-    "genre": "ワイヤレスイヤホン",
-    "price": 7600
-  },
-  "B0F6NFHB31": {
-    "first_seen": "2026-07-25",
-    "first_seen_at": "2026-07-25T12:00:00+09:00",
-    "last_seen": "2026-11-26",
-    "title": "UGREEN Air モバイルバッテリー 5000mAh 8.6mm超薄型 Qi2 15W MagSafe iPhone18Pro対応 | 【ATL製セル×難燃技術】マグネット式ワイヤレス充電｜軽量・小型設計｜USB-C PD 20W対応 ｜パススルー充電対応｜iPhone18 Pro/17/16/15 シリーズ/ Air対応｜PB580｜ダークグレー",
-    "percent_off": null,
-    "brand": "UGREEN",
-    "genre": "モバイルバッテリー",
-    "price": 6880
-  },
-  "B0GMX4WKYG": {
-    "first_seen": "2026-11-23",
-    "first_seen_at": "2026-11-23T16:13:07+09:00",
-    "last_seen": "2026-11-26",
-    "title": "CIO 半固体 モバイルバッテリー 35W USB-C×2 USB-A×1 10000mAh SMARTCOBY Pro SLIM SS (ブラック) | 薄型軽量,MacBook対応, WindowsノートPC対応, iPhone対応, 機内持ち込み, パススルー充電対応",
-    "percent_off": null,
-    "brand": "CIO",
-    "genre": "モバイルバッテリー",
-    "price": 6280
-  },
-  "B0CX4FKYCS": {
-    "first_seen": "2026-10-10",
-    "first_seen_at": "2026-10-10T23:14:49+09:00",
-    "last_seen": "2026-11-26",
-    "title": "Anker Power Bank (10000mAh, Fusion, Built-In USB-C ケーブル) ホワイト | 10K 30W出力モバイルバッテリー搭載 30W出力USB充電器 / LEDディスプレイ/ケーブル一体型/コンセント一体型/折りたたみ式プラグ 1台3役 / iPhone 18 / 17 / 16 / 15 Android その他各種機器対応",
-    "percent_off": null,
-    "brand": "Anker",
-    "genre": "モバイルバッテリー",
-    "price": 8990
-  },
-  "B098SQSRRV": {
-    "first_seen": "2026-07-31",
-    "first_seen_at": "2026-07-31T12:00:00+09:00",
-    "last_seen": "2026-11-26",
-    "title": "Belkin USB充電器 40W iPhone17,16～12 デュアルUSB-C(20W x 2) PD3.0 急速充電対応 ホワイト WCB006dqWHJP",
-    "percent_off": 47,
-    "brand": "Belkin",
-    "genre": "充電器",
-    "price": 1400
   },
   "B0BF9ZYCQ5": {
     "first_seen": "2026-07-31",
@@ -681,16 +2641,6 @@
     "genre": "充電器",
     "price": 6589
   },
-  "B0D53VKL36": {
-    "first_seen": "2026-07-29",
-    "first_seen_at": "2026-07-29T12:00:00+09:00",
-    "last_seen": "2026-11-26",
-    "title": "CIO NovaPort DUOⅡ 65W PD急速充電器 USB-C×2 2台同時充電 世界最小級（ブラック） | ノートPC対応, MacBook対応, iPhone対応, iPad対応, 電力を自動最適配分",
-    "percent_off": null,
-    "brand": "CIO",
-    "genre": "充電器",
-    "price": 5480
-  },
   "B0CLGZGXMD": {
     "first_seen": "2026-11-13",
     "first_seen_at": "2026-11-13T14:14:50+09:00",
@@ -700,46 +2650,6 @@
     "brand": "UGREEN",
     "genre": "充電器",
     "price": 5980
-  },
-  "B0CM6BR4MR": {
-    "first_seen": "2026-11-25",
-    "first_seen_at": "2026-11-25T09:13:18+09:00",
-    "last_seen": "2026-11-26",
-    "title": "Anker MagGo Wireless Charger (Pad) ホワイト | 【Qi2対応 / マグネット式ワイヤレス充電器 / 15W】MagSafe対応 iPhone 16 / 15 / 14 / 13 シリーズ",
-    "percent_off": 19,
-    "brand": "Anker",
-    "genre": "充電器",
-    "price": 3980
-  },
-  "B0FL1S48XY": {
-    "first_seen": "2026-09-08",
-    "first_seen_at": "2026-09-08T21:14:34+09:00",
-    "last_seen": "2026-11-26",
-    "title": "Anker Zolo Charger (70W, 4 Ports) ブラック - 最大70W出力の充電器 / USB-C×2 USB-A×2 | 70W USB-C/Type-C 急速充電器 4台同時充電対応。USB-C3ポートとUSB-A1ポートを搭載しPCとスマホをまとめて充電。MacBook Pro MacBook Air iPhone iPad Galaxy対応 PSE技術基準適合",
-    "percent_off": null,
-    "brand": "Anker",
-    "genre": "充電器",
-    "price": 6490
-  },
-  "B0CH7QDDMS": {
-    "first_seen": "2026-11-20",
-    "first_seen_at": "2026-11-20T13:15:25+09:00",
-    "last_seen": "2026-11-26",
-    "title": "Anker PowerPort III 20W Cube | (USB PD 充電器 20W USB-C 超小型急速充電器)【PSE技術基準適合/PowerIQ 3.0 (Gen2)搭載】 iPhone iPad Air Galaxy Android その他 各種機器対応",
-    "percent_off": null,
-    "brand": "Anker",
-    "genre": "充電器",
-    "price": 1790
-  },
-  "B0DG93MZCR": {
-    "first_seen": "2026-07-27",
-    "first_seen_at": "2026-07-27T12:00:00+09:00",
-    "last_seen": "2026-11-26",
-    "title": "UGREEN PD充電器 type-c 30W 2*USB-C+1*USB-A GaN PSE適合/PD3.0 タイプc充電器 GaNⅡ type c | iphone18/17/16/15/14/13/iPad/GalaxyS25-S10/Google Pixel/AirPods/タブレット その他各種機器対応などに対応",
-    "percent_off": null,
-    "brand": "UGREEN",
-    "genre": "充電器",
-    "price": 2180
   },
   "B0DM8WZB8M": {
     "first_seen": "2026-10-26",
@@ -761,16 +2671,6 @@
     "genre": "充電器",
     "price": 1980
   },
-  "B09X7DZ9LG": {
-    "first_seen": "2026-11-24",
-    "first_seen_at": "2026-11-24T21:14:02+09:00",
-    "last_seen": "2026-11-26",
-    "title": "SanDisk (サンディスク) 128GB Extreme (エクストリーム) SDXC UHS-I メモリーカード - C10/U3/V30/4K/UHD　SDカード - SDSDXVA-128G-GNCIN",
-    "percent_off": 14,
-    "brand": "SANDISK",
-    "genre": "SSD・メモリーカード",
-    "price": 6003
-  },
   "B0F2DW782K": {
     "first_seen": "2026-11-22",
     "first_seen_at": "2026-11-22T17:14:15+09:00",
@@ -781,46 +2681,6 @@
     "genre": "モニター・ディスプレイ",
     "price": 10480
   },
-  "B0F7X3VJ99": {
-    "first_seen": "2026-08-02",
-    "first_seen_at": "2026-08-02T11:33:18+09:00",
-    "last_seen": "2026-11-26",
-    "title": "IODATA GigaCrysta ゲーミングモニター 27型 WQHD 200Hz MiniLED (HDMI/DP) EX-GDQ271JLAQ | 量子ドット, HDR1000, 0.9ms, 無輝点保証",
-    "percent_off": 17,
-    "brand": "アイオーデータ",
-    "genre": "モニター・ディスプレイ",
-    "price": 49800
-  },
-  "B0GQLM2HG7": {
-    "first_seen": "2026-11-18",
-    "first_seen_at": "2026-11-18T22:15:10+09:00",
-    "last_seen": "2026-11-26",
-    "title": "Xiaomi Redmi Watch 6 シャオミ スマートウォッチ GPS Bluetooth通話 着信通知 防水 24日間持続 iPhone対応 | 2.07インチ有機EL 2000nits高輝度 薄型軽量 GPS/GNSS搭載 Bluetooth通話対応 録音機能 24日間バッテリー 24時間モニタリング 女性健康管理 スポーツモード ランニング 5ATM防水 水中心拍測定",
-    "percent_off": 26,
-    "brand": "Xiaomi",
-    "genre": "スマートウォッチ",
-    "price": 10980
-  },
-  "B0FKH3WQ41": {
-    "first_seen": "2026-07-30",
-    "first_seen_at": "2026-07-30T12:00:00+09:00",
-    "last_seen": "2026-11-26",
-    "title": "HUAWEI WATCH GT 6 Pro 46mm スマートウォッチ 大画面 GPS搭載 21日間バッテリー 心電図 ゴルフ GPS 通知 ブラック | iPhone対応 android対応 1.47インチ画面 3000nits高輝度 サイクリング/登山/進化したゴルフナビ スポーツモード100種類以上 ランニング 防水 健康管理 情緒測定",
-    "percent_off": 24,
-    "brand": "HUAWEI(ファーウェイ)",
-    "genre": "スマートウォッチ",
-    "price": 36800
-  },
-  "B0BWF162WJ": {
-    "first_seen": "2026-09-21",
-    "first_seen_at": "2026-09-21T17:14:46+09:00",
-    "last_seen": "2026-11-26",
-    "title": "GARMIN（ガーミン）GPSランニングウォッチ Forerunner 965 White 【日本正規品】",
-    "percent_off": 20,
-    "brand": "ガーミン(GARMIN)",
-    "genre": "スマートウォッチ",
-    "price": 67800
-  },
   "B0GZ2G6JQZ": {
     "first_seen": "2026-11-26",
     "first_seen_at": "2026-11-26T23:13:13+09:00",
@@ -830,196 +2690,6 @@
     "brand": "ガーミン(GARMIN)",
     "genre": "スマートウォッチ",
     "price": 45609
-  },
-  "B0GX8DRYCX": {
-    "first_seen": "2026-09-03",
-    "first_seen_at": "2026-09-03T12:14:47+09:00",
-    "last_seen": "2026-11-26",
-    "title": "HUAWEI WATCH FIT 5 スマートウォッチ 薄型軽量 大画面 GPS内蔵 10日間ロングバッテリー 通知 健康管理 心拍数 睡眠 ブラック | iPhone対応 android対応 1.82インチ画面 2500nits高輝度 ワークアウト 転倒検知 情緒測定 生理周期管理 64GBストレージ 録音機能 ランニング 防水",
-    "percent_off": 18,
-    "brand": "HUAWEI(ファーウェイ)",
-    "genre": "スマートウォッチ",
-    "price": 22300
-  },
-  "B0FMDBYSQ9": {
-    "first_seen": "2026-10-17",
-    "first_seen_at": "2026-10-17T05:15:28+09:00",
-    "last_seen": "2026-11-26",
-    "title": "HUAWEI WATCH D2 ウェアラブル血圧計 LCA-B29:ブルー",
-    "percent_off": 17,
-    "brand": "HUAWEI(ファーウェイ)",
-    "genre": "スマートウォッチ",
-    "price": 49941
-  },
-  "B094VSZPPP": {
-    "first_seen": "2026-10-07",
-    "first_seen_at": "2026-10-07T13:15:11+09:00",
-    "last_seen": "2026-11-26",
-    "title": "GARMIN(ガーミン) スマートウォッチ GPS Venu 2 Black/Slate【日本正規品】 010-02430-61 小",
-    "percent_off": 15,
-    "brand": "ガーミン(GARMIN)",
-    "genre": "スマートウォッチ",
-    "price": 46800
-  },
-  "B0GQZVG4MD": {
-    "first_seen": "2026-11-10",
-    "first_seen_at": "2026-11-10T15:15:03+09:00",
-    "last_seen": "2026-11-26",
-    "title": "Ray-Ban Meta スマートグラス WAYFARER 調光レンズ IPX4防水トランスP.グレー/サファイア 50mm 0RW4012",
-    "percent_off": 13,
-    "brand": "Meta",
-    "genre": "XR・ARグラス",
-    "price": 77960
-  },
-  "B0FL6ZD3WL": {
-    "first_seen": "2026-07-29",
-    "first_seen_at": "2026-07-29T12:00:00+09:00",
-    "last_seen": "2026-11-26",
-    "title": "エレコム ワイヤレスキーボード Precisionist プレシジョニスト Bluetooth 無線2.4GHz マルチペアリング4台 充電式 薄型パンタグラフ式 フルサイズ ブラック TK-PN10FMPABK",
-    "percent_off": 36,
-    "brand": "エレコム(ELECOM)",
-    "genre": "キーボード・マウス",
-    "price": 5790
-  },
-  "B0FL77NZXM": {
-    "first_seen": "2026-07-29",
-    "first_seen_at": "2026-07-29T12:00:00+09:00",
-    "last_seen": "2026-11-26",
-    "title": "エレコム ワイヤレスキーボード Precisionist プレシジョニスト Bluetooth 無線2.4GHz マルチペアリング4台 充電式 薄型パンタグラフ式 ミニサイズ ブラック TK-PN1075MPABK",
-    "percent_off": 34,
-    "brand": "エレコム(ELECOM)",
-    "genre": "キーボード・マウス",
-    "price": 5290
-  },
-  "B07PJW2X2F": {
-    "first_seen": "2026-07-26",
-    "first_seen_at": "2026-07-26T12:00:00+09:00",
-    "last_seen": "2026-11-26",
-    "title": "エレコム ワイヤレスキーボード メンブレン 薄型 フルキーボード テンキー ブラック TK-FDM110TXBK",
-    "percent_off": 29,
-    "brand": "エレコム(ELECOM)",
-    "genre": "キーボード・マウス",
-    "price": 1899
-  },
-  "B09Q5SHDR3": {
-    "first_seen": "2026-11-26",
-    "first_seen_at": "2026-11-26T08:13:54+09:00",
-    "last_seen": "2026-11-26",
-    "title": "ロジクール ワイヤレスマウス 静音 無線 高速スクロール Signature M650MGR レギュラー グラファイト M650 国内正規品 | レギュラーサイズ、5ボタン、サイドボタン、電池式（単3形乾電池x1）、Bluetooth、Logi Bolt、Windows10、Windows11、macOS、iPadOS、Android、ChromeOS、M650M",
-    "percent_off": 26,
-    "brand": "Logicool(ロジクール)",
-    "genre": "キーボード・マウス",
-    "price": 3439
-  },
-  "B08K2RGTHY": {
-    "first_seen": "2026-07-26",
-    "first_seen_at": "2026-07-26T12:00:00+09:00",
-    "last_seen": "2026-11-26",
-    "title": "ロジクール ワイヤレスマウス キーボード セット MK295GP 静音 耐水 国内正規品 | 無線、USBレシーバー接続、Unifying非対応、グラファイト、MK295",
-    "percent_off": 26,
-    "brand": "Logicool(ロジクール)",
-    "genre": "キーボード・マウス",
-    "price": 3073
-  },
-  "B0CLGVLBMV": {
-    "first_seen": "2026-08-23",
-    "first_seen_at": "2026-08-23T20:37:59+09:00",
-    "last_seen": "2026-11-26",
-    "title": "Razer ラピッドトリガー 搭載 Huntsman V3 Pro Mini JP ラピッドトリガーと調整可能なアクチュエーション搭載のアナログ ゲーミングキーボード アナログオプティカルスイッチ 調整可能なアクチュエーション 押下圧 40G 日本語配列 ハンツマン ブイスリー プロ ミニ ジェイピー【日本正規代理店保証品】 ブラック",
-    "percent_off": 26,
-    "brand": "Razer(レイザー)",
-    "genre": "キーボード・マウス",
-    "price": 20029
-  },
-  "B0GL1B1L6Y": {
-    "first_seen": "2026-10-29",
-    "first_seen_at": "2026-10-29T23:15:00+09:00",
-    "last_seen": "2026-11-26",
-    "title": "東プレ REALFORCE GX1 Plus サザビー 日本語配列 ゲーミングキーボード X1PCS1",
-    "percent_off": 26,
-    "brand": "REALFORCE",
-    "genre": "キーボード・マウス",
-    "price": 44373
-  },
-  "B0FJRCJ1SN": {
-    "first_seen": "2026-07-26",
-    "first_seen_at": "2026-07-26T12:00:00+09:00",
-    "last_seen": "2026-11-26",
-    "title": "【リニューアル】 エレコム ワイヤレスマウス 静音 充電式 OSMOD Six Bluetooth 無線2.4GHz両対応 2台まで接続 マルチペアリング 6ボタン ブラック M-MY35MBSABK",
-    "percent_off": 25,
-    "brand": "エレコム(ELECOM)",
-    "genre": "キーボード・マウス",
-    "price": 2990
-  },
-  "B0BKPL1VKW": {
-    "first_seen": "2026-11-13",
-    "first_seen_at": "2026-11-13T21:14:48+09:00",
-    "last_seen": "2026-11-26",
-    "title": "ロジクール ワイヤレスマウス 静音 無線 高速スクロール Signature M750MGR レギュラー グラファイト M750 国内正規品 | レギュラーサイズ、6ボタン、サイドボタン、電池式（単3形乾電池x1）、Easy-Switch、DPI切り替え、Bluetooth、Logi Bolt、Windows10、Windows11、macOS、iPadOS、Android、ChromeOS",
-    "percent_off": 23,
-    "brand": "Logicool(ロジクール)",
-    "genre": "キーボード・マウス",
-    "price": 4063
-  },
-  "B08TGDD1R4": {
-    "first_seen": "2026-11-22",
-    "first_seen_at": "2026-11-22T20:13:11+09:00",
-    "last_seen": "2026-11-26",
-    "title": "エレコム ワイヤレスキーボード TK-FDM110TKBK 薄型 メンブレン式 抗菌 テンキー付 ブラック",
-    "percent_off": 19,
-    "brand": "エレコム(ELECOM)",
-    "genre": "キーボード・マウス",
-    "price": 1636
-  },
-  "B0DPF33WVV": {
-    "first_seen": "2026-09-17",
-    "first_seen_at": "2026-09-17T00:14:58+09:00",
-    "last_seen": "2026-11-26",
-    "title": "東プレ GX1 Keyboard 獅白ぼたん モデル 日本語配列 REALFORCE ゲーミングキーボード TKL 91キー X1UCS1 KB0911",
-    "percent_off": 20,
-    "brand": "REALFORCE",
-    "genre": "キーボード・マウス",
-    "price": 39080
-  },
-  "B08K2CHMWK": {
-    "first_seen": "2026-08-04",
-    "first_seen_at": "2026-08-04T18:28:41+09:00",
-    "last_seen": "2026-11-26",
-    "title": "ロジクール ワイヤレスキーボード K295GP 静音 耐水 キーボード 無線 Unifying K295 グラファイト 国内正規品 | 電池式（単4形乾電池x2）、電池寿命最大24ヶ月、Unifying USBレシーバー、テンキー、フルサイズ、8個のショートカットキー、windows10、Windows11以降、chromeOS",
-    "percent_off": 18,
-    "brand": "Logicool(ロジクール)",
-    "genre": "キーボード・マウス",
-    "price": 2709
-  },
-  "B07DVC25R2": {
-    "first_seen": "2026-07-26",
-    "first_seen_at": "2026-07-26T12:00:00+09:00",
-    "last_seen": "2026-11-26",
-    "title": "Logicool G ゲーミングマウス G304 LIGHTSPEED ワイヤレスマウス ブラック 軽量 99g 国内正規品 | HERO 12Kセンサー, 6個プログラムボタン, 250時間連続使用可能,PC ,windows, mac, 軽量マウス, PCゲーミングマウス,マウス, ファイナルファンタジー XIV 推奨モデル",
-    "percent_off": 18,
-    "brand": "Logicool G(ロジクール G)",
-    "genre": "キーボード・マウス",
-    "price": 4700
-  },
-  "B0CJR8Y56J": {
-    "first_seen": "2026-07-26",
-    "first_seen_at": "2026-07-26T12:00:00+09:00",
-    "last_seen": "2026-11-26",
-    "title": "ロジクール ワイヤレスキーボード PEBBLE KEYS 2 K380sGR 薄型 軽量 415g 小型 Bluetooth Logi Bolt ワイヤレス 無線 キーボード Easy-Switch 日本語配列 電池寿命36ケ月 Windows Mac iPad iOS Android Chrome K380s グラファイト 国内正規品",
-    "percent_off": 17,
-    "brand": "Logicool(ロジクール)",
-    "genre": "キーボード・マウス",
-    "price": 4373
-  },
-  "B0FYFDD1WW": {
-    "first_seen": "2026-11-14",
-    "first_seen_at": "2026-11-14T01:15:03+09:00",
-    "last_seen": "2026-11-26",
-    "title": "UGREEN 160W 急速 充電器 カラーディスプレイ搭載 Type-C 4C1A 5ポート PD3.2/PPS5A/QC4対応 折り畳み式 | 5ポート USB-C*4とUSB-A*1 ワンタッチで縦横表示切替・アニメーション表示・リアルタイム充電状況確認 MacBook/iPhone18/17/16/15/14/13/Galaxy S26 Ultra/Xperia他各種対応 PSE適合",
-    "percent_off": null,
-    "brand": "UGREEN",
-    "genre": "充電器",
-    "price": 12980
   },
   "B0FH2981XZ": {
     "first_seen": "2026-11-15",
@@ -1051,16 +2721,6 @@
     "genre": "モバイルバッテリー",
     "price": 8680
   },
-  "B0CMQK8CMJ": {
-    "first_seen": "2026-08-05",
-    "first_seen_at": "2026-08-05T21:15:31+09:00",
-    "last_seen": "2026-11-26",
-    "title": "UGREEN NexodeX 100W GaNII充電器 USB-C*2+USB-A タイプC Type-C 急速充電器 PD3.0/PPS/QC4+ | PSE認証済/MacBook/iPhone17/16/15/Galaxy S26 ultra/Xperia ノートPC 各種対応 折りたたみ式プラグ",
-    "percent_off": null,
-    "brand": "UGREEN",
-    "genre": "充電器",
-    "price": 8880
-  },
   "B0B2QSZRCV": {
     "first_seen": "2026-09-22",
     "first_seen_at": "2026-09-22T22:14:54+09:00",
@@ -1070,16 +2730,6 @@
     "brand": "Anker",
     "genre": "充電器",
     "price": 2790
-  },
-  "B091BGMKYS": {
-    "first_seen": "2026-07-27",
-    "first_seen_at": "2026-07-27T12:00:00+09:00",
-    "last_seen": "2026-11-26",
-    "title": "UGREEN Nexode 急速 充電器 65W Type-C 2C1A 3ポート PD/PPS 4.5A/QC3.0/SCP/FCP対応 折り畳み式 | 3台同時充電 USB-C *2とUSB-A*1 GaNII技術 iPhone18/17/16/15/14/MacBook/iPad/Galaxy/Android/その他USB-Cデバイス PSE技術基準適合[2022レッド・ドット・デザイン賞]",
-    "percent_off": null,
-    "brand": "UGREEN",
-    "genre": "充電器",
-    "price": 4380
   },
   "B0FL1SH21C": {
     "first_seen": "2026-09-07",
@@ -1132,26 +2782,6 @@
     "genre": "キーボード・マウス",
     "price": 4400
   },
-  "B0DNKC8HXP": {
-    "first_seen": "2026-08-02",
-    "first_seen_at": "2026-08-02T11:33:18+09:00",
-    "last_seen": "2026-11-26",
-    "title": "INNOCN ゲーミングモニター 24.5インチ 200Hz IPS 1ms(GTG) フルHD 非光沢 フレームレス PS5/Xbox対応 Adaptive-Sync VESA100×100 HDMI2.0/DP1.4接続 25G2G",
-    "percent_off": 20,
-    "brand": "INNOCN",
-    "genre": "モニター・ディスプレイ",
-    "price": 13625
-  },
-  "B0F5WNVHH7": {
-    "first_seen": "2026-07-30",
-    "first_seen_at": "2026-07-30T12:00:00+09:00",
-    "last_seen": "2026-11-26",
-    "title": "HUAWEI WATCH FIT 4 スマートウォッチ 薄型軽量 1.82インチ大画面 アウトドアに適した気圧計と測位システム 通知 フィットネス ヘルストラッカー 情緒測定 10日間ロングバッテリー iOS/Android対応 ブラック",
-    "percent_off": 33,
-    "brand": "HUAWEI(ファーウェイ)",
-    "genre": "スマートウォッチ",
-    "price": 16100
-  },
   "B0DDCR5WYQ": {
     "first_seen": "2026-11-03",
     "first_seen_at": "2026-11-03T12:15:59+09:00",
@@ -1172,46 +2802,6 @@
     "genre": "Apple製品",
     "price": 285888
   },
-  "B0DPX7W84T": {
-    "first_seen": "2026-10-20",
-    "first_seen_at": "2026-10-20T15:15:01+09:00",
-    "last_seen": "2026-11-26",
-    "title": "Anker Soundcore Q30i ブラック | （Bluetooth5.3 ワイヤレス ヘッドホン）【ウルトラノイズキャンセリング/外音取り込みモード/Bluetooth対応/ハイレゾ対応（AUX接続時） / 最大80時間音楽再生 / マイク内蔵/専用アプリ対応】",
-    "percent_off": 10,
-    "brand": "Soundcore",
-    "genre": "ワイヤレスイヤホン",
-    "price": 8990
-  },
-  "B0CX4C1TVK": {
-    "first_seen": "2026-07-27",
-    "first_seen_at": "2026-07-27T12:00:00+09:00",
-    "last_seen": "2026-11-26",
-    "title": "Anker Power Bank (10000mAh, Fusion, Built-In USB-C ケーブル) ブラック | 10K 30W出力モバイルバッテリー搭載 30W出力USB充電器 / LEDディスプレイ/ケーブル一体型/コンセント一体型/折りたたみ式プラグ 1台3役 / iPhone 18 / 17 / 16 / 15 Android その他各種機器対応",
-    "percent_off": null,
-    "brand": "Anker",
-    "genre": "モバイルバッテリー",
-    "price": 8990
-  },
-  "B0BF43HS1G": {
-    "first_seen": "2026-07-27",
-    "first_seen_at": "2026-07-27T12:00:00+09:00",
-    "last_seen": "2026-11-26",
-    "title": "Anker 523 Charger (Nano 3, 47W) ホワイト | 最大47W・USB-C 2ポートでスマホとタブレットを同時に急速充電。小型でもMacBook Airにも対応。USB-C 充電器 急速充電器 47W PD GaN iPhone iPad",
-    "percent_off": null,
-    "brand": "Anker",
-    "genre": "充電器",
-    "price": 3990
-  },
-  "B0BF44GF6J": {
-    "first_seen": "2026-08-09",
-    "first_seen_at": "2026-08-09T01:55:23+09:00",
-    "last_seen": "2026-11-26",
-    "title": "Anker 523 Charger (Nano 3, 47W) ブラック | USB PD USB-C 急速充電器【PowerIQ 3.0 (Gen2)搭載/PSE技術基準適合/折りたたみ式プラグ】iPhone 18 / 17 / 16シリーズ / Air MacBook Air その他各種機器対応 (ブラック)",
-    "percent_off": null,
-    "brand": "Anker",
-    "genre": "充電器",
-    "price": 3990
-  },
   "B0GF26RSYQ": {
     "first_seen": "2026-07-27",
     "first_seen_at": "2026-07-27T12:00:00+09:00",
@@ -1222,16 +2812,6 @@
     "genre": "モニター・ディスプレイ",
     "price": 3990
   },
-  "B0D9Y1J4NH": {
-    "first_seen": "2026-09-26",
-    "first_seen_at": "2026-09-26T10:14:59+09:00",
-    "last_seen": "2026-11-26",
-    "title": "【Amazon.co.jp限定】 ロジクール 静音 ワイヤレス トラックボール マウス 無線 M575SPd 国内正規品 | 筋肉緊張を軽減するエルゴノミックデザイン、Bluetooth、Logibolt、電池式（単三形乾電池x1）、windows、maOS、 iPadOS、ChromeOS、ブラック、M575、M575SP、Amazon.co.jp限定壁紙ダウンロード付き",
-    "percent_off": 14,
-    "brand": "Logicool(ロジクール)",
-    "genre": "キーボード・マウス",
-    "price": 7318
-  },
   "B0H33PTLSH": {
     "first_seen": "2026-11-14",
     "first_seen_at": "2026-11-14T21:14:56+09:00",
@@ -1241,47 +2821,6 @@
     "brand": "NINJA",
     "genre": "エアフライヤー",
     "price": 18000
-  },
-  "B06ZXXQGZ8": {
-    "first_seen": "2026-10-13",
-    "first_seen_at": "2026-10-13T00:16:25+09:00",
-    "last_seen": "2026-11-26",
-    "title": "Anker PowerPort 2 Elite (USB充電器 24W 2ポート) | 【PSE認証済 / PowerIQ搭載 / 折りたたみ式プラグ搭載】iPhone&Android各種対応",
-    "percent_off": 22,
-    "brand": "Anker",
-    "genre": "充電器",
-    "price": 1390
-  },
-  "B0GR1VMZRD": {
-    "first_seen": "2026-11-20",
-    "first_seen_at": "2026-11-20T18:15:52+09:00",
-    "last_seen": "2026-11-26",
-    "title": "Apple 2026 MacBook Air M5チップ搭載13インチノートブック：AIとApple Intelligence、13.6インチLiquid Retinaディスプレイ、16GBユニファイドメモリ、512GB SSDストレージ、12MPセンターフレームカメラ、日本語キーボード、Touch ID - シルバー",
-    "percent_off": null,
-    "brand": "Apple(アップル)",
-    "genre": "Apple製品",
-    "price": 224800,
-    "past": [
-      {
-        "first_seen": "2026-10-31",
-        "last_seen": "2026-11-03",
-        "title": "Apple 2026 MacBook Air M5チップ搭載13インチノートブック：AIとApple Intelligence、13.6インチLiquid Retinaディスプレイ、16GBユニファイドメモリ、512GB SSDストレージ、12MPセンターフレームカメラ、日本語キーボード、Touch ID - シルバー",
-        "brand": null,
-        "genre": null,
-        "price": null,
-        "percent_off": null
-      }
-    ]
-  },
-  "B07B7NXV4R": {
-    "first_seen": "2026-07-30",
-    "first_seen_at": "2026-07-30T12:00:00+09:00",
-    "last_seen": "2026-11-26",
-    "title": "SwitchBot スイッチボット スイッチ ボタンに適用 指ロボット スマートスイッチ スマートホーム ワイヤレス タイマー スマホで遠隔操作 Alexa, Google Home, Siri, IFTTTなどに対応(ハブ必要) ホワイト",
-    "percent_off": 14,
-    "brand": "スイッチボット(SwitchBot)",
-    "genre": "スマートホーム",
-    "price": 4285
   },
   "B0F1FD99K8": {
     "first_seen": "2026-09-25",
@@ -1332,36 +2871,6 @@
     "brand": "UGREEN",
     "genre": "モバイルバッテリー",
     "price": 8386
-  },
-  "B0DZ1TGX6T": {
-    "first_seen": "2026-07-24",
-    "first_seen_at": "2026-07-24T12:00:00+09:00",
-    "last_seen": "2026-11-25",
-    "title": "UGREEN Zapix【小型・軽量／10000mAh／USB－C＆USB－A／PD20W／2台同時充電】モバイルバッテリー 灰色 PB507 | 急速充電／小電流モード／残量パーセント表示／コンパクト／PSE技術基準適合 iPhone18/Android/iPad 各種 USB-C 機器に対応",
-    "percent_off": 25,
-    "brand": "UGREEN",
-    "genre": "モバイルバッテリー",
-    "price": 2150
-  },
-  "B0GCZMBX21": {
-    "first_seen": "2026-11-19",
-    "first_seen_at": "2026-11-19T00:14:50+09:00",
-    "last_seen": "2026-11-25",
-    "title": "UGREEN 10000mAh PD20W 薄型モバイルバッテリー（着脱式・内蔵式USB-Cケーブル各1本付属）ブルー PB524 | USB-Cケーブル2本を本体に収納、10000mAh大容量と20WPD急速充電に対応、液晶ディスプレイで残量を一目で確認、iPhon18シリーズに対応、スマホ約2回分の充電が可能",
-    "percent_off": 25,
-    "brand": "UGREEN",
-    "genre": "モバイルバッテリー",
-    "price": 2979
-  },
-  "B0G64NF1FQ": {
-    "first_seen": "2026-09-16",
-    "first_seen_at": "2026-09-16T01:14:30+09:00",
-    "last_seen": "2026-11-25",
-    "title": "UGREEN Air 急速充電器 45W Type-C 薄型設計 当社比67%小型化超薄モデル PD3.0/PPS/QC4/SCP対応 折り畳み式 | USB-C 新生代GaNInfinity™チップ＋UGREEN独自Airpyra技術 MacBook/PC/iPad/iPhone18/17/16/15/14/13/12シリーズ対応 PSE認証済",
-    "percent_off": 20,
-    "brand": "UGREEN",
-    "genre": "充電器",
-    "price": 3350
   },
   "B0CJR74NF3": {
     "first_seen": "2026-08-13",
@@ -1523,36 +3032,6 @@
     "brand": "Anker",
     "genre": "充電器",
     "price": 1340
-  },
-  "B08W1VZRY7": {
-    "first_seen": "2026-11-02",
-    "first_seen_at": "2026-11-02T16:15:25+09:00",
-    "last_seen": "2026-11-25",
-    "title": "Anker PowerPort PD 2 ブラック | USB-A & USB-C 急速充電器)【PSE認証済/Power Delivery対応/PowerIQ搭載/コンパクトサイズ】 iPhone iPad Air(第5世代) Android その他 各種機器対応",
-    "percent_off": 17,
-    "brand": "Anker",
-    "genre": "充電器",
-    "price": 2490
-  },
-  "B0DT4RGDSJ": {
-    "first_seen": "2026-11-21",
-    "first_seen_at": "2026-11-21T00:15:28+09:00",
-    "last_seen": "2026-11-25",
-    "title": "Anker Power Bank (25000mAh, Built-In & 巻取り式USB-Cケーブル) ブラック | モバイルバッテリー 大容量/PD対応/PSE技術基準適合/機内持ち込み可/ 165W出力/ 一体型ケーブル MacBook Windows PC iPad Pro iPhone 18 / 17 / 16 / 15 Galaxy Android対応",
-    "percent_off": 20,
-    "brand": "Anker",
-    "genre": "モバイルバッテリー",
-    "price": 14390
-  },
-  "B0GJSCGFTP": {
-    "first_seen": "2026-10-13",
-    "first_seen_at": "2026-10-13T14:15:16+09:00",
-    "last_seen": "2026-11-25",
-    "title": "HUAWEI Band 11 Pro GPS搭載 スマートウォッチ 薄型軽量 睡眠管理 大画面 心拍数 ロングバッテリー LINE通知 ブラック | iPhone対応 android対応 8.99mm/18g薄型軽量ボディ 2000nits高輝度 1.62インチ画面 24時間睡眠管理 ランニングモード 健康/情緒モニタリング ランニング 防水",
-    "percent_off": 16,
-    "brand": "HUAWEI(ファーウェイ)",
-    "genre": "スマートウォッチ",
-    "price": 9957
   },
   "B0C5CBV6L3": {
     "first_seen": "2026-10-30",
@@ -1745,16 +3224,6 @@
     "genre": "キーボード・マウス",
     "price": 4700
   },
-  "B0DW2SYD5H": {
-    "first_seen": "2026-08-15",
-    "first_seen_at": "2026-08-15T20:37:29+09:00",
-    "last_seen": "2026-11-24",
-    "title": "Anker Zolo Wireless Charger (Magnetic, Pad) ブラック | ブラック Qi2対応 マグネット式 ワイヤレス充電/ワイヤレス出力 iPhone MagSafe対応 iPhone 18 / 18 / 17 / 16 / 14 シリーズ対応 Pixel10非対応",
-    "percent_off": 20,
-    "brand": "Anker",
-    "genre": "充電器",
-    "price": 2390
-  },
   "B0CXNY69DC": {
     "first_seen": "2026-10-07",
     "first_seen_at": "2026-10-07T00:14:58+09:00",
@@ -1764,36 +3233,6 @@
     "brand": "Anker",
     "genre": "モバイルバッテリー",
     "price": 7990
-  },
-  "B08X11GD52": {
-    "first_seen": "2026-11-04",
-    "first_seen_at": "2026-11-04T00:15:51+09:00",
-    "last_seen": "2026-11-24",
-    "title": "Anker Nano II 65W | 最大65Wを手のひらサイズに凝縮。ノートPCからスマホまで高速充電できる小型GaN充電器。USB-C 充電器 急速充電器 65W PD GaN MacBook iPhone",
-    "percent_off": 35,
-    "brand": "Anker",
-    "genre": "充電器",
-    "price": 2930
-  },
-  "B08NVDHCD8": {
-    "first_seen": "2026-10-21",
-    "first_seen_at": "2026-10-21T00:15:48+09:00",
-    "last_seen": "2026-11-24",
-    "title": "Anker PowerPort mini 2個セット ブラック | （USB充電器 12W 2ポート）【PSE技術基準適合/折りたたみ式プラグ/PowerIQ/超コンパクトサイズ 】iPhone iPad Android各種対応 ホワイト",
-    "percent_off": 30,
-    "brand": "Anker",
-    "genre": "充電器",
-    "price": 1750
-  },
-  "B0D3GG4M9N": {
-    "first_seen": "2026-10-17",
-    "first_seen_at": "2026-10-17T23:15:03+09:00",
-    "last_seen": "2026-11-24",
-    "title": "Prime Charger (200W, 6 Ports, GaN) | 急速充電器 2000W type-c 6ポート【PSE技術基準適合/USB PD対応】MacBook USB PD対応Windows PC iPad iPhone Galaxy Android スマートフォン ノートPC 各種",
-    "percent_off": 31,
-    "brand": "Anker",
-    "genre": "充電器",
-    "price": 8990
   },
   "B0BVKR5J8F": {
     "first_seen": "2026-11-23",
@@ -1824,16 +3263,6 @@
     "brand": "Apple(アップル)",
     "genre": "Apple製品",
     "price": 7485
-  },
-  "B0FTZ63967": {
-    "first_seen": "2026-11-21",
-    "first_seen_at": "2026-11-21T11:13:11+09:00",
-    "last_seen": "2026-11-24",
-    "title": "CIO 半固体モバイルバッテリー 10000mAh SMARTCOBY Ex05 Wireless2.2 Pro CABLE SS10K (ブラック) | iPhone18 Pro対応, Qi2.2対応, 着脱可能ケーブル内蔵,3台同時充電可能, 35W急速充電",
-    "percent_off": null,
-    "brand": "CIO",
-    "genre": "モバイルバッテリー",
-    "price": 8980
   },
   "B0BKPG58VR": {
     "first_seen": "2026-11-08",
@@ -1956,36 +3385,6 @@
     "genre": "ワイヤレスイヤホン",
     "price": 1291
   },
-  "B0D9VVL9DY": {
-    "first_seen": "2026-10-06",
-    "first_seen_at": "2026-10-06T00:16:13+09:00",
-    "last_seen": "2026-11-23",
-    "title": "【Amazon.co.jp限定】 Logicool G PRO X TKL RAPID ゲーミングキーボード | ラピッドトリガー アクチュエーションポイント 調整可能 押下圧 35g 日本語配列 有線 テンキーレス 磁気式アナログスイッチ ゲーミング キーボード メカニカルキーボード ブラック 壁紙ダウンロード付き 国内正規品",
-    "percent_off": 22,
-    "brand": "Logicool G(ロジクール G)",
-    "genre": "キーボード・マウス",
-    "price": 20000
-  },
-  "B0GX8BVR4L": {
-    "first_seen": "2026-11-01",
-    "first_seen_at": "2026-11-01T19:15:08+09:00",
-    "last_seen": "2026-11-23",
-    "title": "HUAWEI WATCH FIT 5 スマートウォッチ 薄型軽量 大画面 GPS内蔵 10日間ロングバッテリー 通知 健康管理 心拍数 睡眠 ホワイト | iPhone対応 android対応 1.82インチ画面 2500nits高輝度 ワークアウト 転倒検知 情緒測定 生理周期管理 64GBストレージ 録音機能 ランニング 防水",
-    "percent_off": 16,
-    "brand": "HUAWEI(ファーウェイ)",
-    "genre": "スマートウォッチ",
-    "price": 23000
-  },
-  "B0DQ7MJ8P3": {
-    "first_seen": "2026-08-22",
-    "first_seen_at": "2026-08-22T00:50:58+09:00",
-    "last_seen": "2026-11-23",
-    "title": "HUAWEI WATCH D2 ウェアラブル血圧計LCA-B10:ブラック",
-    "percent_off": 16,
-    "brand": "HUAWEI(ファーウェイ)",
-    "genre": "スマートウォッチ",
-    "price": 50700
-  },
   "B0GR1N1QRX": {
     "first_seen": "2026-11-07",
     "first_seen_at": "2026-11-07T06:16:05+09:00",
@@ -2066,26 +3465,6 @@
     "genre": "Apple製品",
     "price": 82295
   },
-  "B096S2CTHS": {
-    "first_seen": "2026-10-20",
-    "first_seen_at": "2026-10-20T00:15:15+09:00",
-    "last_seen": "2026-11-22",
-    "title": "Anker PowerPort III Nano 20W ブラック | (PD 充電器 20W USB-C 超小型急速充電器)【PSE技術基準適合/PowerIQ 3.0 (Gen2)搭載】 iPhone 15 / 14 / 13 iPad Air (第5世代) Android その他 各種機器対応",
-    "percent_off": 39,
-    "brand": "Anker",
-    "genre": "充電器",
-    "price": 1090
-  },
-  "B0DNLVY85L": {
-    "first_seen": "2026-10-01",
-    "first_seen_at": "2026-10-01T23:14:55+09:00",
-    "last_seen": "2026-11-22",
-    "title": "Anker Nano Power Bank (10000mAh, 45W, 巻取り式 USB-Cケーブル) ブラック | モバイルバッテリー 10000mAh (36Wh/10K) / 45W出力 / ディスプレイ搭載/巻取り式USB-Cケーブル一体型/iPhone 18 / 17 / 16 / 15シリーズ Android iPad その他各種機器対応",
-    "percent_off": null,
-    "brand": "Anker",
-    "genre": "モバイルバッテリー",
-    "price": 7990
-  },
   "B0HJBCTPN2": {
     "first_seen": "2026-11-20",
     "first_seen_at": "2026-11-20T15:14:56+09:00",
@@ -2095,16 +3474,6 @@
     "brand": "Apple(アップル)",
     "genre": "Apple製品",
     "price": 89800
-  },
-  "B0BWF35J1G": {
-    "first_seen": "2026-10-15",
-    "first_seen_at": "2026-10-15T14:15:44+09:00",
-    "last_seen": "2026-11-22",
-    "title": "GARMIN（ガーミン）GPSランニングウォッチ Forerunner 265 Music White 【日本正規品】",
-    "percent_off": 18,
-    "brand": "ガーミン(GARMIN)",
-    "genre": "スマートウォッチ",
-    "price": 51200
   },
   "B0GZ2J3WVM": {
     "first_seen": "2026-11-21",
@@ -2276,16 +3645,6 @@
     "genre": "モバイルバッテリー",
     "price": 7990
   },
-  "B096RZ98SR": {
-    "first_seen": "2026-11-17",
-    "first_seen_at": "2026-11-17T00:15:15+09:00",
-    "last_seen": "2026-11-21",
-    "title": "Anker PowerPort III Nano 20W ラベンダーグレー | (PD 充電器 20W USB-C 超小型急速充電器)【PSE技術基準適合/PowerIQ 3.0 (Gen2)搭載】 iPhone 15 / 14 / 13 iPad Air (第5世代) Android その他 各種機器対応",
-    "percent_off": 39,
-    "brand": "Anker",
-    "genre": "充電器",
-    "price": 1090
-  },
   "B0FQGWJXBK": {
     "first_seen": "2026-11-20",
     "first_seen_at": "2026-11-20T21:14:48+09:00",
@@ -2365,16 +3724,6 @@
     "brand": "Anker",
     "genre": "充電器",
     "price": 5900
-  },
-  "B0GF24NN7N": {
-    "first_seen": "2026-10-05",
-    "first_seen_at": "2026-10-05T21:14:52+09:00",
-    "last_seen": "2026-11-21",
-    "title": "Anker Nano Charger (45W, Display, スイングプラグ) ホワイト | 45W USB-C急速充電器 充電状況が見えるディスプレイ搭載。iPhoneのモデルを検知し出力を最適化。180度スイングプラグ採用。iPhone iPad Galaxy MacBook Air対応 PSE技術基準適合",
-    "percent_off": 25,
-    "brand": "Anker",
-    "genre": "モニター・ディスプレイ",
-    "price": 2990
   },
   "B0GHNXTK95": {
     "first_seen": "2026-11-01",
@@ -3059,16 +4408,6 @@
     "genre": "Apple製品",
     "price": 237184
   },
-  "B07NDM4CQZ": {
-    "first_seen": "2026-10-08",
-    "first_seen_at": "2026-10-08T22:14:47+09:00",
-    "last_seen": "2026-11-17",
-    "title": "エレコム USB キーボード ワイヤレス (レシーバー付属) メンブレン コンパクトキーボード ブラック TK-FDM105TXBK",
-    "percent_off": 15,
-    "brand": "エレコム(ELECOM)",
-    "genre": "キーボード・マウス",
-    "price": 1790
-  },
   "B0CD1NVW7R": {
     "first_seen": "2026-09-15",
     "first_seen_at": "2026-09-15T23:14:42+09:00",
@@ -3437,13 +4776,6 @@
     "title": "Belkin MagSafe対応 ワイヤレスモバイルバッテリー 5000mAh 最大7.5W キックスタンド付き ホワイト | 7.5Wワイヤレス、USB-C最大15W、2台同時充電、PPS対応、パススルー充電、iPhone18~12・Android対応、カメラを妨げにくい薄型設計、PSE・中国CCC認証、1m USB-Cケーブル付属、2年保証・最大2,500米ドルCEW",
     "percent_off": 39
   },
-  "B0CV9XG1FJ": {
-    "first_seen": "2026-11-13",
-    "first_seen_at": "2026-11-13T01:15:04+09:00",
-    "last_seen": "2026-11-13",
-    "title": "Belkin モバイルバッテリー 3C 認証 大容量 10000mAh 最大15W 3台同時充電 USB-A to Cケーブル付属 ゴールド | BoostCharge VGP2022受賞 3台同時充電 USB-C×1 USB-A×2 CCC PSE認証 機内持込可能 iPhone 18シリーズ以下・Android対応 充電ケーブル付属 LED残量表示 2年保証 2500ドルのCEW補償",
-    "percent_off": 26
-  },
   "B0F7RVW2QG": {
     "first_seen": "2026-10-16",
     "first_seen_at": "2026-10-16T16:14:53+09:00",
@@ -3479,13 +4811,6 @@
     "title": "Anker Prime Charger (250W, 6 Ports, GaN) | (USB PD 充電器 USB-A & USB-C) iPad iphone 18シリーズ MacBook Android スマートフォン ノートPC 各種 その他機器対応",
     "percent_off": 39
   },
-  "B0CX8MT2M2": {
-    "first_seen": "2026-11-04",
-    "first_seen_at": "2026-11-04T05:15:15+09:00",
-    "last_seen": "2026-11-13",
-    "title": "Amazon Kindle Colorsoft | 16GBストレージ、防水、7インチカラーディスプレイ、色調調節ライト、最大8週間持続バッテリー、広告無し、ブラック (2025年発売)",
-    "percent_off": 19
-  },
   "B0BKPCB1TC": {
     "first_seen": "2026-11-13",
     "first_seen_at": "2026-11-13T02:15:17+09:00",
@@ -3514,614 +4839,525 @@
     "title": "SwitchBot 空気清浄機Table スマートリモコン ハブ2 アレクサ - スイッチボット 25畳 小型 省エネ 大風量 360度全方位 浄化 消臭 除菌 集じん HEPA フィルター 花粉 ニオイ対策 タイマー機能 Alexa Google Home Siriに対応 (空気清浄機Table 1点+ハブ2 1点)",
     "percent_off": 23
   },
-  "B0FNRS5WB2": {
-    "first_seen": "2026-11-04",
-    "first_seen_at": "2026-11-04T01:15:06+09:00",
-    "last_seen": "2026-11-12",
-    "title": "Anker Soundcore P31i ブラック | （Bluetooth 6.1）【完全ワイヤレスイヤホン/アクティブノイズキャンセリング/マルチポイント接続 / 最大50時間再生 / PSE技術基準適合】",
-    "percent_off": 17
-  },
-  "B0D4Z8NPH7": {
-    "first_seen": "2026-11-04",
-    "first_seen_at": "2026-11-04T00:15:51+09:00",
-    "last_seen": "2026-11-12",
-    "title": "Anker Soundcore V20i ブラック | （Bluetooth 5.4）【オープンイヤー型ワイヤレスイヤホン / IP55防塵防水規格/ 最大36時間再生 / マルチポイント接続】",
-    "percent_off": 17
-  },
   "B0CHVZHLZ1": {
     "first_seen": "2026-11-04",
     "first_seen_at": "2026-11-04T00:15:51+09:00",
     "last_seen": "2026-11-12",
     "title": "CIO モバイルバッテリー PD USB-C×2 USB-A×1 10000mAh SMARTCOBY Pro SLIM 35W (ブラック) | 厚さ16mmの薄型, MacBook対応, ノートPC対応, iPhone対応, パススルー充電対応",
-    "percent_off": 32
+    "percent_off": 32,
+    "archived": true
   },
   "B0BVKPXRDS": {
     "first_seen": "2026-11-04",
     "first_seen_at": "2026-11-04T02:15:05+09:00",
     "last_seen": "2026-11-12",
     "title": "Anker Nano Power Bank (12W, Built-In Lightning Connector) ホワイト | モバイルバッテリー 5K 5000mAh 小型 軽量 コンパクト lightning【MFi認証済/PowerIQ搭載/ライトニング端子一体型】 iPhone 14 シリーズ",
-    "percent_off": 29
+    "percent_off": 29,
+    "archived": true
   },
   "B0CCJJGP6Y": {
     "first_seen": "2026-11-05",
     "first_seen_at": "2026-11-05T22:15:45+09:00",
     "last_seen": "2026-11-12",
     "title": "Anker Nano Power Bank (22.5W, Built-In USB-C Connector) ホワイト | モバイルバッテリー 5000mAh 軽量 小型 コンパクト【PowerIQ搭載/USB-C一体型】 iPhone 18 / 17 / 16 / 15 シリーズ/Switch 2対応",
-    "percent_off": 25
+    "percent_off": 25,
+    "archived": true
   },
   "B0B4H3D98M": {
     "first_seen": "2026-11-10",
     "first_seen_at": "2026-11-10T14:14:58+09:00",
     "last_seen": "2026-11-12",
     "title": "【アップグレード版】Anker 622 Magnetic Battery (MagGo) | モバイルバッテリー マグネット式ワイヤレス充電対応 5000mAh コンパクト【マグネット式/ワイヤレス出力 (7.5W) / USB-Cポート入出力/PSE技術基準適合】iPhone 18 / 17 /16 / 15 / 14 シリーズ対応",
-    "percent_off": 24
+    "percent_off": 24,
+    "archived": true
   },
   "B0DRFR2YT3": {
     "first_seen": "2026-11-05",
     "first_seen_at": "2026-11-05T13:14:51+09:00",
     "last_seen": "2026-11-12",
     "title": "Anker Zolo Power Bank (10K, 30W, Built-In USB-C Cable)ブラック | モバイルバッテリー 10000mAh 最大30W出力 USB-C ケーブル一体型 ディスプレイ搭載【PD/PowerIQ搭載/PSE技術基準適合】iPhone 18 / 17 / 16 / 15 Android iPad その他各種機器対応",
-    "percent_off": 20
+    "percent_off": 20,
+    "archived": true
   },
   "B0HBPC9W18": {
     "first_seen": "2026-11-07",
     "first_seen_at": "2026-11-07T13:16:06+09:00",
     "last_seen": "2026-11-12",
     "title": "エレコム モバイルバッテリー Qi2対応 ワイヤレス充電 5000mAh 薄型 約8.5mm 軽量 約120g MagSafe対応 マグネット式 最大15W USB-C 20W PD対応 パススルー iPhone 17/16/15 シリーズ対応 Switch 2 対応 機内持ち込み可 PSE技術基準適合 ブラック EC-C71BK",
-    "percent_off": 17
-  },
-  "B0DBKTPD26": {
-    "first_seen": "2026-11-04",
-    "first_seen_at": "2026-11-04T00:15:51+09:00",
-    "last_seen": "2026-11-12",
-    "title": "Anker Charger (25W) パープル | USB-C 急速充電器 【USB PD 対応/PSE技術基準適合/PPS規格対応】Galaxy S24 / iPhone 16 / iPad 各種 その他機器対応",
-    "percent_off": 32
+    "percent_off": 17,
+    "archived": true
   },
   "B0D9QP375K": {
     "first_seen": "2026-11-04",
     "first_seen_at": "2026-11-04T10:15:10+09:00",
     "last_seen": "2026-11-12",
     "title": "UGREEN USB 充電器 20W,USB-A+USB-C コンセント アダプターPSE技術基準適合 PD3.0 急速充電iphone17/15/14/13/iPad/Android/GalaxyS24-S10/各種機器対応",
-    "percent_off": 31
+    "percent_off": 31,
+    "archived": true
   },
   "B08Q7CPXHW": {
     "first_seen": "2026-11-05",
     "first_seen_at": "2026-11-05T22:15:45+09:00",
     "last_seen": "2026-11-12",
     "title": "Anker PowerPort PD 2 ホワイト | USB-A & USB-C 急速充電器)【PSE認証済/Power Delivery対応/PowerIQ搭載/コンパクトサイズ】 iPhone iPad Air(第5世代) Android その他 各種機器対応",
-    "percent_off": 30
+    "percent_off": 30,
+    "archived": true
   },
   "B09N9F6WSX": {
     "first_seen": "2026-11-04",
     "first_seen_at": "2026-11-04T00:15:51+09:00",
     "last_seen": "2026-11-12",
     "title": "Anker 725 Charger (65W) ホワイト | (USB PD 65W 急速充電器)【超コンパクト設計/PowerIQ 3.0 (Gen2)搭載/PSE技術基準適合/折りたたみ式プラグ】MacBook PD対応Windows PC iPad iPhone Galaxy Android",
-    "percent_off": 29
+    "percent_off": 29,
+    "archived": true
   },
   "B0BQ3GL5HR": {
     "first_seen": "2026-11-10",
     "first_seen_at": "2026-11-10T13:15:48+09:00",
     "last_seen": "2026-11-12",
     "title": "Anker 323 Car Charger (52.5W) | カーチャージャー USB PD対応 52.5W 2ポート USB-C PowerIQ 3.0搭載 / iPhone 18 / 17 / 16シリーズ Galaxy Android スマートフォン ノートPC iPad 各種対応",
-    "percent_off": 20
-  },
-  "B083HW2R2B": {
-    "first_seen": "2026-10-31",
-    "first_seen_at": "2026-10-31T21:15:12+09:00",
-    "last_seen": "2026-11-12",
-    "title": "Anker PowerWave 10 Stand | ワイヤレス充電器 Qi認証 iPhone 15シリーズ / 14シリーズ Galaxy 各種対応 最大10W出力",
-    "percent_off": 20
-  },
-  "B0FWJ65HX2": {
-    "first_seen": "2026-11-11",
-    "first_seen_at": "2026-11-11T11:15:04+09:00",
-    "last_seen": "2026-11-12",
-    "title": "Anker Zolo Charger (50W, 4 Ports) ホワイト | 最大50W・4ポートでスマホやタブレットをまとめて充電。複数の充電器を1台に集約。USB-C 充電器 急速充電器 50W PD 充電器 iPhone iPad 4ポート",
-    "percent_off": 17
-  },
-  "B0CTJDLWV4": {
-    "first_seen": "2026-11-04",
-    "first_seen_at": "2026-11-04T22:14:46+09:00",
-    "last_seen": "2026-11-12",
-    "title": "エレコム 充電器 65W USB PD対応 小型 Type-C 1ポート PPS対応 GaN II採用 PSE認証 ブラック 【iPhone 16 15 iPad Macbook 等対応】 EC-AC8565BK",
-    "percent_off": 17
+    "percent_off": 20,
+    "archived": true
   },
   "B0DMCPT5PV": {
     "first_seen": "2026-10-07",
     "first_seen_at": "2026-10-07T00:14:58+09:00",
     "last_seen": "2026-11-12",
     "title": "バッファロー 充電器 20W 2ポート USB-C & USB-A PD対応 GaN 折りたたみ式 PSE適合 BSACPD2015C2WH | USB充電器 Type-C Type-A 小型 コンパクト 軽量 日本メーカー iPhone / iPad / Android / スマートウォッチ / ワイヤレスイヤホン 対応",
-    "percent_off": 16
-  },
-  "B0F43M6SBB": {
-    "first_seen": "2026-11-04",
-    "first_seen_at": "2026-11-04T09:15:07+09:00",
-    "last_seen": "2026-11-12",
-    "title": "エレコム 充電器 合計65W 3ポート Type-C USB-A USB PD対応 スイング式プラグ採用 ブラック EC-AC10367BK",
-    "percent_off": 14
-  },
-  "B0DHTT13KN": {
-    "first_seen": "2026-11-04",
-    "first_seen_at": "2026-11-04T00:15:51+09:00",
-    "last_seen": "2026-11-12",
-    "title": "Belkin Cubic Charger 45W 充電器 type-c iphone18対応 充電器 急速充電 PD3.2 PPS対応 ホワイト | PD 充電器 折り畳みプラグ iphone18,17-12 iPad MacBook Galaxy ノートPC 各機種対応 PSE技術基準適合 2年保証・最大2,500米ドルCEW",
-    "percent_off": 14
-  },
-  "B08P45YTTL": {
-    "first_seen": "2026-11-04",
-    "first_seen_at": "2026-11-04T09:15:07+09:00",
-    "last_seen": "2026-11-12",
-    "title": "【Amazon.co.jp限定】SanDisk SSD 外付け SDSSDE61-2T00-GH25 エクストリーム エコパッケージ | ポータブル V2 Win Mac PS4/5 2TB USB3.2Gen2 読出最大1050MB/秒 防滴防塵 メーカー5年保証",
-    "percent_off": 27
-  },
-  "B0F9WJLW45": {
-    "first_seen": "2026-11-04",
-    "first_seen_at": "2026-11-04T09:15:07+09:00",
-    "last_seen": "2026-11-12",
-    "title": "【Amazon.co.jp限定】ASUSゲーミングモニター/TUF Gaming VG259Q5A – 24.5インチ / フルHD（1920x1080） / 200Hz / Fast IPS/ELMB / 0.3ms GTG（最小） / ステレオスピーカー/DisplayWidget Center/国内正規品",
-    "percent_off": 15
-  },
-  "B0C9TKSP8V": {
-    "first_seen": "2026-11-04",
-    "first_seen_at": "2026-11-04T01:15:06+09:00",
-    "last_seen": "2026-11-12",
-    "title": "SwitchBot サーキュレーター DCモーター コードレス扇風機 充電式 静音 強力送風 - 上下左右首振り 30畳 100段階風量調整 省エネ | バッテリー搭載、AC・Type-C充電対応、充電しながら使用可能、Alexa対応、遠隔操作、リモコン付き、分解丸洗い、チャイルドロック、加湿ミストの広範囲拡散をサポート、暖房効率アップ、空気循環、スイッチボット、さーきゅれーた",
-    "percent_off": 29
-  },
-  "B0CL4R54X4": {
-    "first_seen": "2026-11-04",
-    "first_seen_at": "2026-11-04T00:15:51+09:00",
-    "last_seen": "2026-11-12",
-    "title": "SwitchBot 気化式加湿器 Alexa 大容量 4.5L 21畳対応 省エネ 上から給水 18dB静音 抗菌 フィルター洗濯機可 スマートホーム | フィルター自動乾燥・加湿量750ml/h・最大22.5時間稼働・Google Home / Siri対応",
-    "percent_off": 20
+    "percent_off": 16,
+    "archived": true
   },
   "B0F8VWZ2J6": {
     "first_seen": "2026-11-04",
     "first_seen_at": "2026-11-04T00:15:51+09:00",
     "last_seen": "2026-11-12",
     "title": "【世界最小級掃除機】 SwitchBot ロボット掃除機 K11+ 超小型 高精度マッピング 6000pa強力吸引 水拭き 掃除シート付き 静音 | 日常掃除対応可、遠隔操作、水拭き、自動ゴミ収集、2年間のメーカー保証、フローリング/タイル/カーペット対応、ロボット掃除機、超小型、高精度マッピング、6000Pa強力吸引",
-    "percent_off": 20
+    "percent_off": 20,
+    "archived": true
   },
   "B0BN5ZG2T8": {
     "first_seen": "2026-11-04",
     "first_seen_at": "2026-11-04T21:15:05+09:00",
     "last_seen": "2026-11-12",
     "title": "SwitchBot LEDシーリングライトプロ 12畳 リモコン付き - 無段階 調光調色 スイッチボット 天井 照明器具 5499lm | スマートリモコン機能付き ハブ機能付き 電球色 昼白色 昼光色 取付簡単 防虫 防塵 省エネ 節電対策 2.4GHzWi-Fi Bluetoothに対応 5年保証 W2612250",
-    "percent_off": 15
+    "percent_off": 15,
+    "archived": true
   },
   "B0DBLVH7GX": {
     "first_seen": "2026-11-05",
     "first_seen_at": "2026-11-05T21:15:35+09:00",
     "last_seen": "2026-11-12",
     "title": "【2024年モデル】SwitchBot LED テープライト2 Alexa 間接照明 - SMD5050 高輝度 RGB 1600万色 マルチカラー 調光調色 Wi-Fi・Bluetooth 5m 切断可能 PUコーティング Google Home Siriに対応 ハロウィン クリスマス パーティー 飾り",
-    "percent_off": 15
+    "percent_off": 15,
+    "archived": true
   },
   "B0H6BLVBDC": {
     "first_seen": "2026-11-04",
     "first_seen_at": "2026-11-04T00:15:51+09:00",
     "last_seen": "2026-11-12",
     "title": "VITURE Beast ARグラス 【家電批評Best Buy・VGP金賞・企画賞】 174インチ 光学技術で映像を鮮明に 3DoF対応 | 58°広視野角・1250nit高輝度・1200p Micro-OLED・120Hz表示・電子調光を搭載メガネ型ディスプレイ Switch 2、iPhone、Android、Mac、PC、Steam Deckの映画・ゲーム・寝ながら視聴に対応",
-    "percent_off": 23
-  },
-  "B0FFT61X6F": {
-    "first_seen": "2026-11-04",
-    "first_seen_at": "2026-11-04T00:15:51+09:00",
-    "last_seen": "2026-11-12",
-    "title": "VITURE Luma AR/XRグラス 近視-6.0Dまで対応 146型 1200p 120Hz | 1000nit高輝度・50°視野角の軽量スマートグラス。映画・ゲーム・作業に対応。USB-C映像出力対応機器、iPhone 15シリーズ以降（iPhone AirおよびiPhone eシリーズを除く）で使用可能。",
-    "percent_off": 20
-  },
-  "B0DRVPMT4T": {
-    "first_seen": "2026-11-09",
-    "first_seen_at": "2026-11-09T15:15:46+09:00",
-    "last_seen": "2026-11-12",
-    "title": "VITURE Pro Neckband ARグラス用XRストリーミングデバイス 12GB/256GB | VITURE ARグラスと組み合わせて、動画・リモートプレイ・マルチスクリーン・3D再生をスマホなしで楽しめるネックバンド型デバイス。",
-    "percent_off": 18
-  },
-  "B0GCZMGP1T": {
-    "first_seen": "2026-11-04",
-    "first_seen_at": "2026-11-04T00:15:51+09:00",
-    "last_seen": "2026-11-12",
-    "title": "VITURE Luma Ultra AR/XRグラス VGP&BEST BUY受賞 フル6DoF対応 ARハンドジェスチャー 1500nit | 152型XRグラス 2D-3D変換対応 iPhone 15シリーズ以降（iPhone AirおよびiPhone eシリーズを除く）、DP出力Android、Mac/PC対応 PS5, Xbx, Switch/Switch 2は別売ドック必要",
-    "percent_off": 16
-  },
-  "B0H8PKFJG4": {
-    "first_seen": "2026-11-04",
-    "first_seen_at": "2026-11-04T00:15:51+09:00",
-    "last_seen": "2026-11-12",
-    "title": "RayNeo GT AR/XRグラス 201インチ 120Hz Native 3DoF Dolby Vision対応 68g | 201インチ大画面と120Hzの滑らかな映像。Native 3DoF、Dolby Vision、1200nitsに対応した次世代AR/XRグラス。",
-    "percent_off": 15
+    "percent_off": 23,
+    "archived": true
   },
   "B0G3YCRJKX": {
     "first_seen": "2026-11-04",
     "first_seen_at": "2026-11-04T09:15:07+09:00",
     "last_seen": "2026-11-12",
     "title": "Amazon Fire TV Stick HD | 手軽にストリーミングをはじめよう | ストリーミングメディアプレイヤー",
-    "percent_off": 50
+    "percent_off": 50,
+    "archived": true
   },
   "B0G2TQZMY1": {
     "first_seen": "2026-11-04",
     "first_seen_at": "2026-11-04T10:15:10+09:00",
     "last_seen": "2026-11-12",
     "title": "Amazon Fire TV Stick 4K Plus | 映画館のような4K体験 | ストリーミングメディアプレイヤー",
-    "percent_off": 46
+    "percent_off": 46,
+    "archived": true
   },
   "B0C7K814LB": {
     "first_seen": "2026-11-04",
     "first_seen_at": "2026-11-04T09:15:07+09:00",
     "last_seen": "2026-11-12",
     "title": "Amazon Fire TV Cube(キューブ) | 究極の体験をハンズフリーで | ストリーミングメディアプレイヤー",
-    "percent_off": 30
+    "percent_off": 30,
+    "archived": true
   },
   "B0C7K48P8G": {
     "first_seen": "2026-11-04",
     "first_seen_at": "2026-11-04T09:15:07+09:00",
     "last_seen": "2026-11-12",
     "title": "Alexa対応音声認識リモコン Pro | 対応する別売りのFire TV本体が必要です",
-    "percent_off": 30
+    "percent_off": 30,
+    "archived": true
   },
   "B0H25V3WSP": {
     "first_seen": "2026-11-04",
     "first_seen_at": "2026-11-04T22:14:46+09:00",
     "last_seen": "2026-11-12",
     "title": "【セット買い】Amazon Fire TV Stick 4K Select + Amazon Fire TV Soundbar Plus",
-    "percent_off": 27
+    "percent_off": 27,
+    "archived": true
   },
   "B0956X785M": {
     "first_seen": "2026-10-06",
     "first_seen_at": "2026-10-06T01:15:14+09:00",
     "last_seen": "2026-11-12",
     "title": "【Amazon.co.jp限定】 ロジクール ワイヤレスマウス 無線 マウス M185CG M185 グレー 国内正規品 | 小型、軽量、2.4GHzワイヤレス接続、電池式（単3形乾電池 x 1）、電池寿命最大12ケ月、windows10、11以降、macOS 10.5以降、ChromeOS、Linuxカーネル2.6+以降、Amazon.co.jp限定 壁紙ダウンロード付き",
-    "percent_off": 30
+    "percent_off": 30,
+    "archived": true
   },
   "B0BC135WFD": {
     "first_seen": "2026-10-13",
     "first_seen_at": "2026-10-13T00:16:25+09:00",
     "last_seen": "2026-11-12",
     "title": "【Amazon.co.jp限定】 Logicool G PRO ゲーミングキーボード G-PKB-002LNd テンキーレス リニア 赤軸 日本語配列 | 静かなタイピング GXスイッチ 有線 メカニカルキーボード LIGHTSYNC RGB 充電 着脱式ケーブル ブラック ゲーミング キーボード 壁紙ダウンロード付き 国内正規品",
-    "percent_off": 30
+    "percent_off": 30,
+    "archived": true
   },
   "B0BKP2XWY5": {
     "first_seen": "2026-11-03",
     "first_seen_at": "2026-11-03T17:15:15+09:00",
     "last_seen": "2026-11-12",
     "title": "【Amazon.co.jp限定】 ロジクールワイヤレスマウス 静音 無線 Signature M550MBKs レギュラー ブラック 国内正規品 | レギュラーサイズ、3ボタン、電池式（単3形乾電池x1）、Bluetooth、Logi Bolt、Windows10、Windows11、macOS、iPadOS、Android、ChromeOS、M550、M550M、壁紙ダウンロード付き",
-    "percent_off": 26
+    "percent_off": 26,
+    "archived": true
   },
   "B0DRJJT13G": {
     "first_seen": "2026-11-11",
     "first_seen_at": "2026-11-11T00:14:56+09:00",
     "last_seen": "2026-11-12",
     "title": "REALFORCE リアルフォース ラピッドトリガー キーボードGX1 ホワイト 静音 30ｇ TKLサイズ 静電容量無接点方式 最速0.1mm作動 Windows かな無し 日本語配列 日本製 ゲーミングキーボード 91キー X1UC23",
-    "percent_off": 25
+    "percent_off": 25,
+    "archived": true
   },
   "B0D9Y1SNQT": {
     "first_seen": "2026-10-06",
     "first_seen_at": "2026-10-06T00:16:13+09:00",
     "last_seen": "2026-11-12",
     "title": "【Amazon.co.jp限定】 ロジクール 静音 ワイヤレス トラックボール マウス MX ERGO S MXTB2d 無線 グラファイト | 人間工学デザインにより、前腕の筋肉緊張を27%軽減、Logi Bolt、Bluetooth、USB-C 充電式、windows、macOS、iPadOS、ChromeOS、Android、国内正規品、Amazon.co.jp限定 壁紙ダウンロード付き",
-    "percent_off": 21
+    "percent_off": 21,
+    "archived": true
   },
   "B08GP2H88M": {
     "first_seen": "2026-11-03",
     "first_seen_at": "2026-11-03T01:15:11+09:00",
     "last_seen": "2026-11-12",
     "title": "ロジクール ワイヤレスマウス 無線 高速スクロール 7ボタン マウス Unifying SEB-M705 ブラック 国内正規品 | 【Amazon.co.jp限定】 、電池式（単3形乾電池x2）、電池寿命最大36ケ月、Windows 10, 11 以降、macOS 10.5以降、ChromeOS、Amazon.co.jp限定 壁紙ダウンロード付き",
-    "percent_off": 21
-  },
-  "B088P8QYWN": {
-    "first_seen": "2026-11-04",
-    "first_seen_at": "2026-11-04T10:15:10+09:00",
-    "last_seen": "2026-11-12",
-    "title": "エレコム マウス ワイヤレス Mサイズ 5ボタン(戻る・進むボタン搭載) BlueLED 握りの極み ガンメタリック M-XGM10DBBK/EC",
-    "percent_off": 19
+    "percent_off": 21,
+    "archived": true
   },
   "B0DCJZH3QH": {
     "first_seen": "2026-11-04",
     "first_seen_at": "2026-11-04T00:15:51+09:00",
     "last_seen": "2026-11-12",
     "title": "【国内正規品】Keychron B1 Pro ウルトラスリム ワイヤレスキーボード、ZMKカスタマイズ、シザースイッチ、2.4 GHz/Bluetooth 5.2/有線接続、ロングバッテリーライフ、Mac Windows Linux対応 (スペースグレー, USレイアウト)",
-    "percent_off": 19
+    "percent_off": 19,
+    "archived": true
   },
   "B0FGCDSH1J": {
     "first_seen": "2026-11-03",
     "first_seen_at": "2026-11-03T01:15:11+09:00",
     "last_seen": "2026-11-12",
     "title": "【Amazon.co.jp限定】Logicool G ラピッドトリガー G515 RAPID ゲーミングキーボード G515-TKL-RTBKd | 薄型 アクチュエーションポイント 調整可能 日本語配列 押下圧 35g 有線 テンキーレス 磁気式アナログスイッチ ロープロファイル LIGHTSYNC RGB ブラック ゲーミング キーボード 壁紙ダウンロード付き 国内正規品",
-    "percent_off": 19
+    "percent_off": 19,
+    "archived": true
   },
   "B0D21S5SPG": {
     "first_seen": "2026-10-06",
     "first_seen_at": "2026-10-06T00:16:13+09:00",
     "last_seen": "2026-11-12",
     "title": "ロジクール 静音 ワイヤレスマウス 無線 Silent Bluetooth M240GRd グラファイト 国内正規品 【Amazon.co.jp限定】 | 静音、小型、左右対称、電池式（単3乾電池 x 1）、電池寿命18ヶ月、Bluetooth、Logibolt、M240、Windows、macOS、iPadOS、ChromeOS、Linux、Amazon.co.jp限定 壁紙ダウンロード付き",
-    "percent_off": 17
+    "percent_off": 17,
+    "archived": true
   },
   "B0GGX35X72": {
     "first_seen": "2026-10-06",
     "first_seen_at": "2026-10-06T00:16:13+09:00",
     "last_seen": "2026-11-12",
     "title": "【Amazon.co.jp限定】 Logicool G PRO X2 SUPERSTRIKE ゲーミングマウス G-PPD-004WL-STRKd | ラピッドトリガー 8000Hz ポーリングレート 軽量 61g ハプティック誘導トリガーシステム HITS 90時間 HERO2 USB Type-C 充電 POWERPLAY ワイヤレス ゲーミング マウス 壁紙ダウンロード付き 国内正規品",
-    "percent_off": 15
+    "percent_off": 15,
+    "archived": true
   },
   "B0C3VYP1PG": {
     "first_seen": "2026-11-04",
     "first_seen_at": "2026-11-04T00:15:51+09:00",
     "last_seen": "2026-11-12",
     "title": "COSORI コソリ ノンフライヤー 2L 一人用 エアフライヤー オイル97％カット ミニ 卓上 フライヤー ブラック CAF-LI211-KJP | ノンフライヤー 人気 ランキング,省エネ,カラー:ブラック,PSE認証済み,一人用 ,専用レシピ付き,揚げ物,エアーフライヤー,電気フライヤー,ヘルシー",
-    "percent_off": 15
+    "percent_off": 15,
+    "archived": true
   },
   "B0F7RS5Y76": {
     "first_seen": "2026-10-22",
     "first_seen_at": "2026-10-22T21:15:06+09:00",
     "last_seen": "2026-11-12",
     "title": "Anker Soundcore Sleep A30 パステルグリーン | （ワイヤレスイヤホン Bluetooth 5.3）【睡眠用/完全ワイヤレスイヤホン / IPX4防水規格 / 最大50時間音楽再生 / 専用アプリ対応/睡眠時モニタリング/コンパクト/軽量設計/PSE技術基準適合】",
-    "percent_off": null
+    "percent_off": null,
+    "archived": true
   },
   "B0BVKQ9XSM": {
     "first_seen": "2026-11-10",
     "first_seen_at": "2026-11-10T01:15:37+09:00",
     "last_seen": "2026-11-12",
     "title": "Anker Nano Power Bank (12W, Built-In Lightning Connector) ブラック | モバイルバッテリー 5K 5000mAh 小型 軽量 コンパクト lightning【MFi認証済/PowerIQ搭載/ライトニング端子一体型】 iPhone 14 シリーズ",
-    "percent_off": 29
+    "percent_off": 29,
+    "archived": true
   },
   "B0GSVP1PFB": {
     "first_seen": "2026-10-31",
     "first_seen_at": "2026-10-31T23:15:48+09:00",
     "last_seen": "2026-11-12",
     "title": "UGREEN×崩壊：スターレイル【爻光限定モデル】マグネット式モバイルバッテリー 10000mAh Qi2認証 15W MagSafe対応 PB570 | 薄型、ケーブル内蔵、USB-C PD 30W高出力、軽量、小型、携帯便利、パススルー充電対応、 iPhone18 Pro/17/16/15 シリーズ/ Air対応",
-    "percent_off": 29
+    "percent_off": 29,
+    "archived": true
   },
   "B0CFTWFH82": {
     "first_seen": "2026-11-09",
     "first_seen_at": "2026-11-09T23:14:46+09:00",
     "last_seen": "2026-11-12",
     "title": "Anker MagGo Power Bank (10,000mAh, 15W) | モバイルバッテリー 10000mAh Qi2認証 ワイヤレス充電 最大出力15W MagSafe対応 マグネット式ワイヤレス充電対応 コンパクト 折りたたみ式スタンド iPhone 18 / 17 / 16 / 15 / 14 シリーズ対応",
-    "percent_off": 25
+    "percent_off": 25,
+    "archived": true
   },
   "B0GX86T9WK": {
     "first_seen": "2026-11-12",
     "first_seen_at": "2026-11-12T22:15:44+09:00",
     "last_seen": "2026-11-12",
     "title": "HUAWEI WATCH FIT 5 スマートウォッチ 薄型軽量 大画面 GPS内蔵 10日間ロングバッテリー 通知 健康管理 心拍数 睡眠 グリーン | iPhone対応 android対応 1.82インチ画面 2500nits高輝度 ワークアウト 転倒検知 情緒測定 生理周期管理 64GBストレージ 録音機能 ランニング 防水",
-    "percent_off": 17
+    "percent_off": 17,
+    "archived": true
   },
   "B005EUPRC2": {
     "first_seen": "2026-11-04",
     "first_seen_at": "2026-11-04T21:15:05+09:00",
     "last_seen": "2026-11-12",
     "title": "【Amazon.co.jp限定】 ロジクール ワイヤレスマウス 無線 マウス M185RD M185 レッド 国内正規品 | 小型、軽量、2.4GHzワイヤレス接続、電池式（単3形乾電池 x 1）、電池寿命最大12ケ月、windows10、11以降、macOS 10.5以降、ChromeOS、Linuxカーネル2.6+以降、Amazon.co.jp限定 壁紙ダウンロード付き",
-    "percent_off": 30
+    "percent_off": 30,
+    "archived": true
   },
   "B0FG6M4DFP": {
     "first_seen": "2026-11-12",
     "first_seen_at": "2026-11-12T22:15:44+09:00",
     "last_seen": "2026-11-12",
     "title": "【Amazon.co.jp限定】Logicool G PRO SUPERLIGHT ワイヤレス ゲーミングマウス G-PPD-004WLSE-BKd | 軽量 Type-C 充電 POWERPLAY 対応 ゲーミング マウス 充電式 無線 ブラック 壁紙ダウンロード付き 国内正規品",
-    "percent_off": 20
+    "percent_off": 20,
+    "archived": true
   },
   "B0FPQN7DBD": {
     "first_seen": "2026-10-14",
     "first_seen_at": "2026-10-14T22:16:19+09:00",
     "last_seen": "2026-11-12",
     "title": "【Amazon.co.jp 限定】JBL TOUR PRO 3 ワイヤレスイヤホン bluetooth/ハイブリッドノイズキャンセリング/ハイレゾワイヤレスLDAC/デュアルドライバー/マルチポイント/防塵・防水/ワイヤレス充電対応/スマートタッチディスプレイ搭載/ブルー /JBLTOURPRO3BLU",
-    "percent_off": 25
+    "percent_off": 25,
+    "archived": true
   },
   "B0FBM6X15S": {
     "first_seen": "2026-11-04",
     "first_seen_at": "2026-11-04T00:15:51+09:00",
     "last_seen": "2026-11-12",
     "title": "Belkin Cubic Charger 67W 充電器 type-c PD充電器 USB-C*2 急速充電 ZSP技術を搭載(待機消費0) ホワイト | 急速充電器 折り畳みプラグ PD3.1 PPS対応 PSE技術基準適合 iPhone 17/16/15対応 MacBook Windows PC iPad Galaxy Android 全機種対応 2年保証・最大2,500米ドルCEW",
-    "percent_off": 17
-  },
-  "B0CWN59C9H": {
-    "first_seen": "2026-11-04",
-    "first_seen_at": "2026-11-04T09:15:07+09:00",
-    "last_seen": "2026-11-12",
-    "title": "Belkin カーチャージャー 30W USB-C 車載充電器 PD/PPS対応 急速充電 ブラック | USB-C最大30W出力、PD/PPS対応、急速充電対応、iPhone 18シリーズ以下・iPad・Android対応、USB-IF認証、2年保証・最大2,500米ドルCEW",
-    "percent_off": 14
+    "percent_off": 17,
+    "archived": true
   },
   "B0DHCY37HY": {
     "first_seen": "2026-11-04",
     "first_seen_at": "2026-11-04T01:15:06+09:00",
     "last_seen": "2026-11-12",
     "title": "【1台4役】SwitchBot 空気清浄機 Table 25畳対応 空気浄化 花粉対策 脱臭 ワイヤレス充電 静音 省エネ HEPA フィルター | 360°吸気 空気循環 花粉・ホコリ・抜け毛を集じん ペット臭・生活臭対策 アプリ操作 タイマー機能 ムードライト リビング・寝室向け Alexa Google Home Siriに対応",
-    "percent_off": 26
+    "percent_off": 26,
+    "archived": true
   },
   "B0F7GGN94D": {
     "first_seen": "2026-11-04",
     "first_seen_at": "2026-11-04T01:15:06+09:00",
     "last_seen": "2026-11-12",
     "title": "【世界最小級掃除機】 SwitchBot ロボット掃除機 K11+ 超小型 高精度マッピング 6000pa強力吸引 水拭き 掃除シート付き 静音 | ロボット掃除機、超小型、高精度マッピング、6000Pa強力吸引、水拭き対応、遠隔操作",
-    "percent_off": 18
-  },
-  "B0BM8VS13P": {
-    "first_seen": "2026-11-04",
-    "first_seen_at": "2026-11-04T09:15:07+09:00",
-    "last_seen": "2026-11-12",
-    "title": "SwitchBot スマートリモコン ハブ2 赤外線家電を管理 スマートホーム Alexa Matter対応 温湿度計機能付き 卓上 壁掛け | スイッチボット シーンで家電一括操作 学習リモコン 光センサー付き リモートボタン スケジュール 遠隔操作 節電·省エネ Google Home IFTTT Siri SmartThingsに対応",
-    "percent_off": 15
+    "percent_off": 18,
+    "archived": true
   },
   "B09KCGK8NK": {
     "first_seen": "2026-11-04",
     "first_seen_at": "2026-11-04T09:15:07+09:00",
     "last_seen": "2026-11-12",
     "title": "SwitchBot LED テープライト Alexa RGB - 調光調色 マルチカラー 1600万色 ledテープ ライト 5m 音楽連動 切断可能 | 【Works with Alexa 認定】スイッチボットWi-Fi & Bluetooth 音声対応 間接照明 切断可能 Google Home IFTTT イフト Siri SmartThingsに対応 ハロウィン クリスマス パーティー 飾り",
-    "percent_off": 14
+    "percent_off": 14,
+    "archived": true
   },
   "B0G2TXCWFH": {
     "first_seen": "2026-11-04",
     "first_seen_at": "2026-11-04T09:15:07+09:00",
     "last_seen": "2026-11-12",
     "title": "Amazon Fire TV Stick 4K Select | 4Kの高画質ストリーミング | ストリーミングメディアプレイヤー",
-    "percent_off": 46
+    "percent_off": 46,
+    "archived": true
   },
   "B0H33X4142": {
     "first_seen": "2026-11-07",
     "first_seen_at": "2026-11-07T21:14:56+09:00",
     "last_seen": "2026-11-12",
     "title": "【Amazon.co.jp限定】 Ninja ニンジャ Crispi クリスピー FN100JSTNR 自動調理器 3つの調理モード (クリスプ/ベイク・ロースト/リクリスプ) 煮る 焼く 蒸す 炒める 煮込む 炊く 温風調理 エアフライヤー ノンフライヤー FN100J ベージュ",
-    "percent_off": 24
+    "percent_off": 24,
+    "archived": true
   },
   "B0D16ZYVPN": {
     "first_seen": "2026-10-01",
     "first_seen_at": "2026-10-01T00:15:17+09:00",
     "last_seen": "2026-11-12",
     "title": "[山善] ノンフライヤー 4.5L 大容量 電気フライヤー ノンオイル エアフライヤー 3~5人用 家庭用 卓上 揚げ物 惣菜 タイマー 温度調節 レシピブック付き ブラック YAH-AC120(B)",
-    "percent_off": 18
+    "percent_off": 18,
+    "archived": true
   },
   "B0DGJ63QY8": {
     "first_seen": "2026-09-14",
     "first_seen_at": "2026-09-14T20:14:52+09:00",
     "last_seen": "2026-11-12",
     "title": "Apple AirPods 4 ワイヤレスイヤホン、Bluetooth5.3、パーソナライズされた空間オーディオ、耐汗耐水性能、USB-C 充電ケース、H2 チップ、最大 30 時間の バッテリー駆動時間、「探す」対応、iPhoneで簡単に設定",
-    "percent_off": 19
+    "percent_off": 19,
+    "archived": true
   },
   "B0DT2X3TKG": {
     "first_seen": "2026-09-15",
     "first_seen_at": "2026-09-15T20:14:39+09:00",
     "last_seen": "2026-11-12",
     "title": "Apple AirPods 4 ワイヤレスイヤーバッド、Bluetooth ヘッドフォン、パーソナライズさ れた空間オーディオ、耐汗耐水性能、USB-C 充電ケース、H2 チップ、最大 30 時間の バッテリー駆動時間、iPhone で簡単に設定 + 延長2年 AppleCare+ for Headphones - AirPods",
-    "percent_off": 18
-  },
-  "B0CCJFY2V4": {
-    "first_seen": "2026-11-04",
-    "first_seen_at": "2026-11-04T00:15:51+09:00",
-    "last_seen": "2026-11-12",
-    "title": "Anker Nano Power Bank (22.5W, Built-In USB-C Connector) ブラック | モバイルバッテリー 5000mAh 軽量 小型 コンパクト【PowerIQ搭載/USB-C一体型】 iPhone 18 / 17 / 16 / 15 シリーズ/Switch 2対応",
-    "percent_off": 25
+    "percent_off": 18,
+    "archived": true
   },
   "B0FQG8K1JT": {
     "first_seen": "2026-10-31",
     "first_seen_at": "2026-10-31T14:16:09+09:00",
     "last_seen": "2026-11-12",
     "title": "Apple Watch Ultra 3(GPS + Cellularモデル)- 49mmブラックチタニウムケースとブラックチタニウムミラネーゼループ - L",
-    "percent_off": 12
+    "percent_off": 12,
+    "archived": true
   },
   "B0FRZ25193": {
     "first_seen": "2026-10-31",
     "first_seen_at": "2026-10-31T14:16:09+09:00",
     "last_seen": "2026-11-12",
     "title": "[アップル] Watch Ultra 3(GPS + Cellularモデル)- 49mmブラックチタニウムケースとブラックチタニウムミラネーゼループ - L + 2年延長 AppleCare+ for Apple Watch Ultra 3",
-    "percent_off": 11
+    "percent_off": 11,
+    "archived": true
   },
   "B0HF7K6YZD": {
     "first_seen": "2026-11-07",
     "first_seen_at": "2026-11-07T06:16:05+09:00",
     "last_seen": "2026-11-12",
     "title": "Apple 2026 MacBook Pro 15コアCPU、16コアGPUのM5 Proチップ搭載ノートパソコン：AIのために設計、14.2インチLiquid Retina XDRディスプレイ、24GBユニファイドメモリ、2TBのSSDストレージ - シルバー (× 3)",
-    "percent_off": 17
-  },
-  "B0H33R37MZ": {
-    "first_seen": "2026-11-03",
-    "first_seen_at": "2026-11-03T01:15:11+09:00",
-    "last_seen": "2026-11-12",
-    "title": "【Amazon.co.jp限定】 Ninja ニンジャ Crispi クリスピー FN100JGYNR 自動調理器 3つの調理モード (クリスプ/ベイク・ロースト/リクリスプ) 煮る 焼く 蒸す 炒める 煮込む 炊く 温風調理 エアフライヤー ノンフライヤー FN100J ネイビー",
-    "percent_off": 24
+    "percent_off": 17,
+    "archived": true
   },
   "B0B1PW59FS": {
     "first_seen": "2026-11-04",
     "first_seen_at": "2026-11-04T09:15:07+09:00",
     "last_seen": "2026-11-12",
     "title": "エレコム モバイルバッテリー 軽量 小型 薄型 5000mAh 12W (2.4A) 2台同時充電 急速充電 出力2ポート(Type-C +USB-A) 入力(Type-C) 【 iPhone SE3 / 13 / 12 / iPad/Android 各種対応】 ブラック EC-C04BK",
-    "percent_off": 20
-  },
-  "B0GW7WT5SQ": {
-    "first_seen": "2026-10-07",
-    "first_seen_at": "2026-10-07T00:14:58+09:00",
-    "last_seen": "2026-11-12",
-    "title": "ソニー ゲーミングイヤホン INZONE Buds:WF-G700N Fnatic監修/ワイヤレス / 低遅延2.4GHzワイヤレス接続 USBType-Cトランシーバー同梱/LE Audio対応/アクティブノイズキャンセリング/立体音響 / 最大約24時間バッテリー / 急速充電/マイク付き / PS5 スマホ PC Switch グラスパープル",
-    "percent_off": 8
+    "percent_off": 20,
+    "archived": true
   },
   "B0HG9FCLXD": {
     "first_seen": "2026-11-04",
     "first_seen_at": "2026-11-04T21:15:05+09:00",
     "last_seen": "2026-11-12",
     "title": "【Type-Cケーブルセット】 エレコム モバイルバッテリー ワイヤレス充電 Qi2対応 MagSafe対応 5000mAh ブラック EC-C71BK + USB Type C ケーブル 1m 100W MPA-CCECSS10BK",
-    "percent_off": 16
+    "percent_off": 16,
+    "archived": true
   },
   "B0GMZR3BV6": {
     "first_seen": "2026-11-10",
     "first_seen_at": "2026-11-10T03:17:08+09:00",
     "last_seen": "2026-11-12",
     "title": "【ゲーミングルームアップデートセット】SwitchBot LED電球 スマートライト 1600万色(2個パック) +Logicool G ゲーミングマウス G-PPD-004WLSE-BKd",
-    "percent_off": 19
+    "percent_off": 19,
+    "archived": true
   },
   "B0FQG91GBY": {
     "first_seen": "2026-10-01",
     "first_seen_at": "2026-10-01T23:14:55+09:00",
     "last_seen": "2026-11-12",
     "title": "Apple Watch Ultra 3(GPS + Cellularモデル)- 49mmブラックチタニウムケースとブラック/チャコールトレイルループ - M/L",
-    "percent_off": 19
+    "percent_off": 19,
+    "archived": true
   },
   "B0FRZ3MY3K": {
     "first_seen": "2026-10-01",
     "first_seen_at": "2026-10-01T23:14:55+09:00",
     "last_seen": "2026-11-12",
     "title": "Apple Watch Ultra 3(GPS + Cellularモデル)- 49mmブラックチタニウムケースとブラック/チャコールトレイルループ - M/L + 2年延長 AppleCare+ for Apple Watch Ultra 3",
-    "percent_off": 17
+    "percent_off": 17,
+    "archived": true
   },
   "B0FQG9BXMF": {
     "first_seen": "2026-11-12",
     "first_seen_at": "2026-11-12T06:16:36+09:00",
     "last_seen": "2026-11-12",
     "title": "Apple Watch SE 3(GPSモデル)- 40mmミッドナイトアルミニウムケースとミッドナイトスポーツバンド - M/L",
-    "percent_off": 9
+    "percent_off": 9,
+    "archived": true
   },
   "B0FRZ3C3VN": {
     "first_seen": "2026-11-12",
     "first_seen_at": "2026-11-12T05:16:00+09:00",
     "last_seen": "2026-11-12",
     "title": "Apple Watch SE 3(GPSモデル)- 40mmミッドナイトアルミニウムケースとミッドナイトスポーツバンド - M/L + 2年延長 AppleCare+ for Apple Watch SE 第3世代",
-    "percent_off": 9
+    "percent_off": 9,
+    "archived": true
   },
   "B0H8DXC8V1": {
     "first_seen": "2026-11-12",
     "first_seen_at": "2026-11-12T03:14:48+09:00",
     "last_seen": "2026-11-12",
     "title": "KIOXIA(キオクシア) 旧東芝メモリ microSD 64GB UHS-I Class10 (最大読出速度100MB/s) Nintendo Switch動作確認済 国内サポート正規品 メーカー保証5年 KLMEA064G (× 5)",
-    "percent_off": 35
+    "percent_off": 35,
+    "archived": true
   },
   "B0BVYT1T74": {
     "first_seen": "2026-11-04",
     "first_seen_at": "2026-11-04T23:14:56+09:00",
     "last_seen": "2026-11-12",
     "title": "REALFORCE リアルフォース ラピッドトリガー キーボード 東プレ GX1 静音 30ｇ TKLサイズ 静電容量無接点方式 最速0.1mm作動 Windows 英語配列 日本製 ゲーミングキーボード 87キー X1UD13【ファイナルファンタジーXIV 推奨周辺機器】",
-    "percent_off": 25
+    "percent_off": 25,
+    "archived": true
   },
   "B0HKMWFQWN": {
     "first_seen": "2026-11-03",
     "first_seen_at": "2026-11-03T20:14:58+09:00",
     "last_seen": "2026-11-12",
     "title": "XREAL One Pro M (IPD57-66mm) + XREAL Eye セット | 57°広視野角・最大120Hz対応ARグラス｜X1チップ・Native 3DoF搭載｜空間撮影・写真・動画に対応｜AR体験と日常の瞬間を記録",
-    "percent_off": 15
+    "percent_off": 15,
+    "archived": true
   },
   "B078YH856D": {
     "first_seen": "2026-08-17",
     "first_seen_at": "2026-08-17T20:42:41+09:00",
     "last_seen": "2026-11-12",
     "title": "ロジクール M705m ワイヤレスマウス 無線 Unifying 7ボタン 高速スクロール 電池寿命最大36ケ月 ワイヤレス マウス チャコール windows mac chrome 国内正規品",
-    "percent_off": 17
+    "percent_off": 17,
+    "archived": true
   },
   "B09QMCFQJL": {
     "first_seen": "2026-11-06",
     "first_seen_at": "2026-11-06T19:15:06+09:00",
     "last_seen": "2026-11-12",
     "title": "オーディオテクニカ ATH-M20xBT ワイヤレスヘッドホン モニターヘッドホン Bluetooth 有線 ブラック | ヘッドホン 40mmCCAWボイスコイルドライバー 216gの軽量ボディ マルチポイント 低遅延モード 最大60時間再生 ハンズフリー通話 【国内正規品】",
-    "percent_off": 17
+    "percent_off": 17,
+    "archived": true
   },
   "B0FP24CSYK": {
     "first_seen": "2026-11-02",
     "first_seen_at": "2026-11-02T22:14:40+09:00",
     "last_seen": "2026-11-12",
     "title": "Logicool G ラピッドトリガー G515 RAPID TKL 薄型 ゲーミングキーボード G515-TKL-RTBK アクチュエーションポイント 調整可能 日本語配列 押下圧 35g 有線 テンキーレス 磁気式アナログスイッチ ロープロファイル LIGHTSYNC RGB ゲーミング キーボード メカニカルキーボード ラピトリ ブラック windows 国内正規品",
-    "percent_off": 18
+    "percent_off": 18,
+    "archived": true
   },
   "B0DWXDKXHM": {
     "first_seen": "2026-11-04",
     "first_seen_at": "2026-11-04T00:15:51+09:00",
     "last_seen": "2026-11-12",
     "title": "COSORI コソリ ノンフライヤー 6L大容量 エアフライヤー DCモーター 高速 最高温230℃ 発酵 air fryer CAF-DC601 | ノンフライヤー 家庭用,専用レシピ付き,ポテト,揚げ物,タイマー,カラー:ホワイト,電気フライヤー,ヘルシー",
-    "percent_off": 14
+    "percent_off": 14,
+    "archived": true
   },
   "B0FQGJ91GZ": {
     "first_seen": "2026-09-24",
@@ -4169,14 +5405,6 @@
     "last_seen": "2026-11-11",
     "title": "GARMIN(ガーミン) vivomove Sport Peach Gold/Ivory ハイブリッドスマートウォッチ 【日本正規品】 小",
     "percent_off": 17,
-    "archived": true
-  },
-  "B0C3VSNBQH": {
-    "first_seen": "2026-11-04",
-    "first_seen_at": "2026-11-04T22:14:46+09:00",
-    "last_seen": "2026-11-11",
-    "title": "COSORI コソリ ノンフライヤー 2L 一人用 エアフライヤー オイル97%カット 省エネ ミニ 卓上 フライヤー CAF-LI211-WJP | ノンフライヤー 人気 ランキング,PSE認証済み,カラー:ホワイト,一人用,エアーフライヤー,電気フライヤー,専用レシピ付き,揚げ物",
-    "percent_off": 15,
     "archived": true
   },
   "B0D4Z9HVRC": {
@@ -4259,28 +5487,12 @@
     "percent_off": 21,
     "archived": true
   },
-  "B0H262HBX2": {
-    "first_seen": "2026-11-04",
-    "first_seen_at": "2026-11-04T22:14:46+09:00",
-    "last_seen": "2026-11-11",
-    "title": "【セット買い】Amazon Fire TV Stick 4K Max + Amazon Fire TV Soundbar Plus",
-    "percent_off": 15,
-    "archived": true
-  },
   "B0FWJK8GV9": {
     "first_seen": "2026-11-04",
     "first_seen_at": "2026-11-04T00:15:51+09:00",
     "last_seen": "2026-11-11",
     "title": "Anker Zolo Charger (50W, 4 Ports) ブラック | 最大50W・4ポートでスマホやタブレットをまとめて充電。複数の充電器を1台に集約。USB-C 充電器 急速充電器 50W PD 充電器 iPhone iPad 4ポート",
     "percent_off": 17,
-    "archived": true
-  },
-  "B0H8DGJDF7": {
-    "first_seen": "2026-11-05",
-    "first_seen_at": "2026-11-05T02:16:18+09:00",
-    "last_seen": "2026-11-11",
-    "title": "KIOXIA(キオクシア) 旧東芝メモリ microSD 128GB UHS-I Class10 (最大読出速度100MB/s) Nintendo Switch動作確認済 国内サポート正規品 メーカー保証5年 KLMEA128G (× 5)",
-    "percent_off": 22,
     "archived": true
   },
   "B0BFDQG4T6": {
@@ -4411,14 +5623,6 @@
     "percent_off": 39,
     "archived": true
   },
-  "B005EUPRB8": {
-    "first_seen": "2026-11-05",
-    "first_seen_at": "2026-11-05T21:15:35+09:00",
-    "last_seen": "2026-11-09",
-    "title": "【Amazon.co.jp限定】 ロジクール ワイヤレスマウス 無線 マウス M185BL M185 ブルー 国内正規品 | 小型、軽量、2.4GHzワイヤレス接続、電池式（単3形乾電池 x 1）、電池寿命最大12ケ月、windows10、11以降、macOS 10.5以降、ChromeOS、Linuxカーネル2.6+以降、Amazon.co.jp限定 壁紙ダウンロード付き",
-    "percent_off": 30,
-    "archived": true
-  },
   "B0BKPDQB24": {
     "first_seen": "2026-11-09",
     "first_seen_at": "2026-11-09T22:14:55+09:00",
@@ -4433,14 +5637,6 @@
     "last_seen": "2026-11-09",
     "title": "【Amazon.co.jp限定】 ゼンハイザー（Sennheiser）イヤホン 有線 IE 200 エージング音源セット ブラック ダイナミック カナル型 TrueResponseトランスデューサー ブレードケーブル イヤーフック イヤフォン デュアルチューニングシステム 【国内正規品】",
     "percent_off": 27,
-    "archived": true
-  },
-  "B0GR1PZQ8G": {
-    "first_seen": "2026-11-05",
-    "first_seen_at": "2026-11-05T19:15:08+09:00",
-    "last_seen": "2026-11-09",
-    "title": "Apple 2026 MacBook Air M5チップ搭載13インチノートブック：AIとApple Intelligence、13.6インチLiquid Retinaディスプレイ、16GBユニファイドメモリ、512GB SSDストレージ、12MPセンターフレームカメラ、日本語キーボード、Touch ID - スターライト",
-    "percent_off": null,
     "archived": true
   },
   "B0BRXQYJFN": {
@@ -4635,14 +5831,6 @@
     "percent_off": 20,
     "archived": true
   },
-  "B0FJXTBNXB": {
-    "first_seen": "2026-11-07",
-    "first_seen_at": "2026-11-07T21:14:56+09:00",
-    "last_seen": "2026-11-07",
-    "title": "SwitchBot 温湿度計 パネル エアコン操作 温湿度管理 人感センサー搭載 LED 大画面 バックライト付き 壁掛け 卓上 乾燥対策 | スイッチボット 室内温度チェック 室温計 物理ボタン 複数デバイス操作 グラフ記録 アラート通知 スマートホーム Alexa Google Home Siri Matter対応（ハブ必要）",
-    "percent_off": 15,
-    "archived": true
-  },
   "B0FNRMBR4X": {
     "first_seen": "2026-11-07",
     "first_seen_at": "2026-11-07T21:14:56+09:00",
@@ -4771,14 +5959,6 @@
     "percent_off": 29,
     "archived": true
   },
-  "B0927ZDJTL": {
-    "first_seen": "2026-11-05",
-    "first_seen_at": "2026-11-05T21:15:35+09:00",
-    "last_seen": "2026-11-05",
-    "title": "【Amazon.co.jp限定】 ロジクール ワイヤレスマウス 静音 無線 M220OW オフホワイト 国内正規品 | 静音マウス、小型、2.4GHz USBワイヤレス接続、電池式（単3形乾電池x1）、電池寿命最大18ケ月、左右対称、M220、無線マウス、Windows 、macOS、ChromeOS、 Linux、壁紙ダウンロード付き",
-    "percent_off": 18,
-    "archived": true
-  },
   "B0FPLZHNQP": {
     "first_seen": "2026-11-02",
     "first_seen_at": "2026-11-02T22:14:40+09:00",
@@ -4817,14 +5997,6 @@
     "last_seen": "2026-11-05",
     "title": "SwitchBot 加湿器 気化式 温湿度計 省エネ - スイッチボット アレクサ パワフル加湿 除菌 冬乾燥対策 給水かんたん スマートホーム Google Home IFTTT Siri SmartThingsに対応（気化式加湿器＋温湿度計）",
     "percent_off": 19,
-    "archived": true
-  },
-  "B0H262JBF7": {
-    "first_seen": "2026-11-04",
-    "first_seen_at": "2026-11-04T09:15:07+09:00",
-    "last_seen": "2026-11-05",
-    "title": "【セット買い】Amazon Fire TV Stick 4K Plus + Amazon Fire TV Soundbar Plus",
-    "percent_off": 28,
     "archived": true
   },
   "B0DFYFT76Z": {
@@ -4897,14 +6069,6 @@
     "last_seen": "2026-11-04",
     "title": "Amazfit Bip 6 スマートウォッチ 2000nit高輝度 GPS内蔵 オフラインマップ AIによる音声操作と睡眠/運動管理 心拍 睡眠 ストレス 健康管理 140+スポーツモード ナビゲーション ルートインポート 14日間バッテリー持続 (ストーン)",
     "percent_off": 5,
-    "archived": true
-  },
-  "B0F2MRRKH7": {
-    "first_seen": "2026-10-13",
-    "first_seen_at": "2026-10-13T00:16:25+09:00",
-    "last_seen": "2026-11-03",
-    "title": "Anker Prime Charger (160W, 3 Ports) シルバー | 急速充電器 160W type-c 3ポート【PSE技術基準適合/折りたたみ式プラグ】iphone 18 MacBook PD対応Windows PC iPad Galaxy Android スマートフォン ノートPC 各種",
-    "percent_off": 22,
     "archived": true
   },
   "B0GR5WX95Q": {
