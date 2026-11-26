@@ -150,16 +150,6 @@
     "genre": "Apple製品",
     "price": 151599
   },
-  "B0DL6RT3DN": {
-    "first_seen": "2026-10-30",
-    "first_seen_at": "2026-10-30T20:16:01+09:00",
-    "last_seen": "2026-11-26",
-    "title": "Apple 2024 iMac 10 コア CPU、10 コア GPU の M4 チップ搭載オールインワンデスク トップコンピュータ: Apple Intelligence のために設計、24 インチ Retina ディスプレ イ、16GBユニファイドメモリ、256GBの SSD ストレージ、ボディと同じカラーのアクセサリ、iPhone や iPad との連係機能 - ピンク",
-    "percent_off": 13,
-    "brand": "Apple(アップル)",
-    "genre": "Apple製品",
-    "price": 252126
-  },
   "B0FQFQ2PH4": {
     "first_seen": "2026-10-17",
     "first_seen_at": "2026-10-17T21:15:05+09:00",
@@ -169,6 +159,16 @@
     "brand": "Apple(アップル)",
     "genre": "Apple製品",
     "price": 63434
+  },
+  "B0DL6RT3DN": {
+    "first_seen": "2026-10-30",
+    "first_seen_at": "2026-10-30T20:16:01+09:00",
+    "last_seen": "2026-11-26",
+    "title": "Apple 2024 iMac 10 コア CPU、10 コア GPU の M4 チップ搭載オールインワンデスク トップコンピュータ: Apple Intelligence のために設計、24 インチ Retina ディスプレ イ、16GBユニファイドメモリ、256GBの SSD ストレージ、ボディと同じカラーのアクセサリ、iPhone や iPad との連係機能 - ピンク",
+    "percent_off": 13,
+    "brand": "Apple(アップル)",
+    "genre": "Apple製品",
+    "price": 252126
   },
   "B0FRYXQ4K2": {
     "first_seen": "2026-10-24",
@@ -862,16 +862,6 @@
     "genre": "モニター・ディスプレイ",
     "price": 49800
   },
-  "B07B7NXV4R": {
-    "first_seen": "2026-07-30",
-    "first_seen_at": "2026-07-30T12:00:00+09:00",
-    "last_seen": "2026-11-26",
-    "title": "SwitchBot スイッチボット スイッチ ボタンに適用 指ロボット スマートスイッチ スマートホーム ワイヤレス タイマー スマホで遠隔操作 Alexa, Google Home, Siri, IFTTTなどに対応(ハブ必要) ホワイト",
-    "percent_off": 14,
-    "brand": "スイッチボット(SwitchBot)",
-    "genre": "スマートホーム",
-    "price": 4285
-  },
   "B0F5WNVHH7": {
     "first_seen": "2026-07-30",
     "first_seen_at": "2026-07-30T12:00:00+09:00",
@@ -941,6 +931,26 @@
     "brand": "ガーミン(GARMIN)",
     "genre": "スマートウォッチ",
     "price": 46800
+  },
+  "B0GQZVG4MD": {
+    "first_seen": "2026-11-10",
+    "first_seen_at": "2026-11-10T15:15:03+09:00",
+    "last_seen": "2026-11-26",
+    "title": "Ray-Ban Meta スマートグラス WAYFARER 調光レンズ IPX4防水トランスP.グレー/サファイア 50mm 0RW4012",
+    "percent_off": 13,
+    "brand": "Meta",
+    "genre": "XR・ARグラス",
+    "price": 77960
+  },
+  "B0FL6ZD3WL": {
+    "first_seen": "2026-07-29",
+    "first_seen_at": "2026-07-29T12:00:00+09:00",
+    "last_seen": "2026-11-26",
+    "title": "エレコム ワイヤレスキーボード Precisionist プレシジョニスト Bluetooth 無線2.4GHz マルチペアリング4台 充電式 薄型パンタグラフ式 フルサイズ ブラック TK-PN10FMPABK",
+    "percent_off": 36,
+    "brand": "エレコム(ELECOM)",
+    "genre": "キーボード・マウス",
+    "price": 5790
   },
   "B0FL77NZXM": {
     "first_seen": "2026-07-29",
@@ -1082,6 +1092,16 @@
     "genre": "キーボード・マウス",
     "price": 7318
   },
+  "B07B7NXV4R": {
+    "first_seen": "2026-07-30",
+    "first_seen_at": "2026-07-30T12:00:00+09:00",
+    "last_seen": "2026-11-26",
+    "title": "SwitchBot スイッチボット スイッチ ボタンに適用 指ロボット スマートスイッチ スマートホーム ワイヤレス タイマー スマホで遠隔操作 Alexa, Google Home, Siri, IFTTTなどに対応(ハブ必要) ホワイト",
+    "percent_off": 14,
+    "brand": "スイッチボット(SwitchBot)",
+    "genre": "スマートホーム",
+    "price": 4285
+  },
   "B0FQFQDN6K": {
     "first_seen": "2026-10-13",
     "first_seen_at": "2026-10-13T00:16:25+09:00",
@@ -1091,16 +1111,6 @@
     "brand": "Apple(アップル)",
     "genre": "Apple製品",
     "price": 42800
-  },
-  "B0FL6ZD3WL": {
-    "first_seen": "2026-07-29",
-    "first_seen_at": "2026-07-29T12:00:00+09:00",
-    "last_seen": "2026-11-26",
-    "title": "エレコム ワイヤレスキーボード Precisionist プレシジョニスト Bluetooth 無線2.4GHz マルチペアリング4台 充電式 薄型パンタグラフ式 フルサイズ ブラック TK-PN10FMPABK",
-    "percent_off": 36,
-    "brand": "エレコム(ELECOM)",
-    "genre": "キーボード・マウス",
-    "price": 5790
   },
   "B0F1FD99K8": {
     "first_seen": "2026-09-25",
@@ -1392,16 +1402,6 @@
     "brand": "Anker",
     "genre": "充電器",
     "price": 2490
-  },
-  "B0GQZVG4MD": {
-    "first_seen": "2026-11-10",
-    "first_seen_at": "2026-11-10T15:15:03+09:00",
-    "last_seen": "2026-11-25",
-    "title": "Ray-Ban Meta スマートグラス WAYFARER 調光レンズ IPX4防水トランスP.グレー/サファイア 50mm 0RW4012",
-    "percent_off": 13,
-    "brand": "Meta",
-    "genre": "XR・ARグラス",
-    "price": 77960
   },
   "B0DT4RGDSJ": {
     "first_seen": "2026-11-21",
