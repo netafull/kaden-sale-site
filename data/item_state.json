@@ -30,16 +30,6 @@
       }
     ]
   },
-  "B0FX45ZFGP": {
-    "first_seen": "2026-11-26",
-    "first_seen_at": "2026-11-26T12:14:13+09:00",
-    "last_seen": "2026-11-26",
-    "title": "11インチiPad Pro Wi‑Fi + Cellularモデル 1TB（Nano-textureガラス搭載）- シルバー + AppleCare+ for 11インチiPad Pro（M5）",
-    "percent_off": 27,
-    "brand": "Apple(アップル)",
-    "genre": "Apple製品",
-    "price": 285888
-  },
   "B0FQFW26JS": {
     "first_seen": "2026-09-26",
     "first_seen_at": "2026-09-26T22:15:02+09:00",
@@ -1010,6 +1000,16 @@
     "brand": "Logicool(ロジクール)",
     "genre": "キーボード・マウス",
     "price": 4373
+  },
+  "B0FX45ZFGP": {
+    "first_seen": "2026-11-26",
+    "first_seen_at": "2026-11-26T12:14:13+09:00",
+    "last_seen": "2026-11-26",
+    "title": "11インチiPad Pro Wi‑Fi + Cellularモデル 1TB（Nano-textureガラス搭載）- シルバー + AppleCare+ for 11インチiPad Pro（M5）",
+    "percent_off": 27,
+    "brand": "Apple(アップル)",
+    "genre": "Apple製品",
+    "price": 285888
   },
   "B0DPX7W84T": {
     "first_seen": "2026-10-20",
