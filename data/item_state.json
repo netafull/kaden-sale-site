@@ -722,6 +722,16 @@
     "genre": "充電器",
     "price": 3990
   },
+  "B0BF44GF6J": {
+    "first_seen": "2026-08-09",
+    "first_seen_at": "2026-08-09T01:55:23+09:00",
+    "last_seen": "2026-11-26",
+    "title": "Anker 523 Charger (Nano 3, 47W) ブラック | USB PD USB-C 急速充電器【PowerIQ 3.0 (Gen2)搭載/PSE技術基準適合/折りたたみ式プラグ】iPhone 18 / 17 / 16シリーズ / Air MacBook Air その他各種機器対応 (ブラック)",
+    "percent_off": null,
+    "brand": "Anker",
+    "genre": "充電器",
+    "price": 3990
+  },
   "B06ZXXQGZ8": {
     "first_seen": "2026-10-13",
     "first_seen_at": "2026-10-13T00:16:25+09:00",
@@ -1022,16 +1032,6 @@
     "genre": "キーボード・マウス",
     "price": 20729
   },
-  "B0CJR5HBMN": {
-    "first_seen": "2026-08-04",
-    "first_seen_at": "2026-08-04T21:17:38+09:00",
-    "last_seen": "2026-11-26",
-    "title": "ロジクール ワイヤレスマウス PEBBLE MOUSE2 M350sGR 薄型 静音 Bluetooth Logi Bolt マウス 無線 ワイヤレス 左右対称 Easy-Switch 4000dpi 電池寿命24ケ月 windows mac Chrome Android iPad M350 グラファイト 国内正規品",
-    "percent_off": 19,
-    "brand": "Logicool(ロジクール)",
-    "genre": "キーボード・マウス",
-    "price": 2936
-  },
   "B08TGDD1R4": {
     "first_seen": "2026-11-22",
     "first_seen_at": "2026-11-22T20:13:11+09:00",
@@ -1091,6 +1091,16 @@
     "brand": "Logicool(ロジクール)",
     "genre": "キーボード・マウス",
     "price": 7318
+  },
+  "B0CJR5HBMN": {
+    "first_seen": "2026-08-04",
+    "first_seen_at": "2026-08-04T21:17:38+09:00",
+    "last_seen": "2026-11-26",
+    "title": "ロジクール ワイヤレスマウス PEBBLE MOUSE2 M350sGR 薄型 静音 Bluetooth Logi Bolt マウス 無線 ワイヤレス 左右対称 Easy-Switch 4000dpi 電池寿命24ケ月 windows mac Chrome Android iPad M350 グラファイト 国内正規品",
+    "percent_off": 19,
+    "brand": "Logicool(ロジクール)",
+    "genre": "キーボード・マウス",
+    "price": 2936
   },
   "B0D53WHQD6": {
     "first_seen": "2026-09-01",
@@ -1221,16 +1231,6 @@
     "brand": "Sony",
     "genre": "ワイヤレスイヤホン",
     "price": 7909
-  },
-  "B0BF44GF6J": {
-    "first_seen": "2026-08-09",
-    "first_seen_at": "2026-08-09T01:55:23+09:00",
-    "last_seen": "2026-11-25",
-    "title": "Anker 523 Charger (Nano 3, 47W) ブラック | USB PD USB-C 急速充電器【PowerIQ 3.0 (Gen2)搭載/PSE技術基準適合/折りたたみ式プラグ】iPhone 18 / 17 / 16シリーズ / Air MacBook Air その他各種機器対応 (ブラック)",
-    "percent_off": 30,
-    "brand": "Anker",
-    "genre": "充電器",
-    "price": 2790
   },
   "B0GGGMH2M2": {
     "first_seen": "2026-11-22",
