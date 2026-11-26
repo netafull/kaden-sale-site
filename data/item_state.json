@@ -711,16 +711,6 @@
     "genre": "充電器",
     "price": 3990
   },
-  "B06ZXXQGZ8": {
-    "first_seen": "2026-10-13",
-    "first_seen_at": "2026-10-13T00:16:25+09:00",
-    "last_seen": "2026-11-26",
-    "title": "Anker PowerPort 2 Elite (USB充電器 24W 2ポート) | 【PSE認証済 / PowerIQ搭載 / 折りたたみ式プラグ搭載】iPhone&Android各種対応",
-    "percent_off": 22,
-    "brand": "Anker",
-    "genre": "充電器",
-    "price": 1390
-  },
   "B0FYFDD1WW": {
     "first_seen": "2026-11-14",
     "first_seen_at": "2026-11-14T01:15:03+09:00",
@@ -890,6 +880,16 @@
     "brand": "ガーミン(GARMIN)",
     "genre": "スマートウォッチ",
     "price": 118798
+  },
+  "B0GX8DRYCX": {
+    "first_seen": "2026-09-03",
+    "first_seen_at": "2026-09-03T12:14:47+09:00",
+    "last_seen": "2026-11-26",
+    "title": "HUAWEI WATCH FIT 5 スマートウォッチ 薄型軽量 大画面 GPS内蔵 10日間ロングバッテリー 通知 健康管理 心拍数 睡眠 ブラック | iPhone対応 android対応 1.82インチ画面 2500nits高輝度 ワークアウト 転倒検知 情緒測定 生理周期管理 64GBストレージ 録音機能 ランニング 防水",
+    "percent_off": 18,
+    "brand": "HUAWEI(ファーウェイ)",
+    "genre": "スマートウォッチ",
+    "price": 22300
   },
   "B0FMDBYSQ9": {
     "first_seen": "2026-10-17",
@@ -1071,6 +1071,26 @@
     "genre": "キーボード・マウス",
     "price": 7318
   },
+  "B0H33PTLSH": {
+    "first_seen": "2026-11-14",
+    "first_seen_at": "2026-11-14T21:14:56+09:00",
+    "last_seen": "2026-11-26",
+    "title": "【Amazon.co.jp限定】 Ninja ニンジャ Crispi クリスピー FN100JGNNR 自動調理器 3つの調理モード (クリスプ/ベイク・ロースト/リクリスプ) 煮る 焼く 蒸す 炒める 煮込む 炊く 温風調理 エアフライヤー ノンフライヤー FN100J ミント",
+    "percent_off": 27,
+    "brand": "NINJA",
+    "genre": "エアフライヤー",
+    "price": 18000
+  },
+  "B06ZXXQGZ8": {
+    "first_seen": "2026-10-13",
+    "first_seen_at": "2026-10-13T00:16:25+09:00",
+    "last_seen": "2026-11-26",
+    "title": "Anker PowerPort 2 Elite (USB充電器 24W 2ポート) | 【PSE認証済 / PowerIQ搭載 / 折りたたみ式プラグ搭載】iPhone&Android各種対応",
+    "percent_off": 22,
+    "brand": "Anker",
+    "genre": "充電器",
+    "price": 1390
+  },
   "B0GR1VMZRD": {
     "first_seen": "2026-11-20",
     "first_seen_at": "2026-11-20T18:15:52+09:00",
@@ -1091,16 +1111,6 @@
         "percent_off": null
       }
     ]
-  },
-  "B0GX8DRYCX": {
-    "first_seen": "2026-09-03",
-    "first_seen_at": "2026-09-03T12:14:47+09:00",
-    "last_seen": "2026-11-26",
-    "title": "HUAWEI WATCH FIT 5 スマートウォッチ 薄型軽量 大画面 GPS内蔵 10日間ロングバッテリー 通知 健康管理 心拍数 睡眠 ブラック | iPhone対応 android対応 1.82インチ画面 2500nits高輝度 ワークアウト 転倒検知 情緒測定 生理周期管理 64GBストレージ 録音機能 ランニング 防水",
-    "percent_off": 18,
-    "brand": "HUAWEI(ファーウェイ)",
-    "genre": "スマートウォッチ",
-    "price": 22300
   },
   "B07B7NXV4R": {
     "first_seen": "2026-07-30",
@@ -1362,16 +1372,6 @@
     "brand": "Anker",
     "genre": "充電器",
     "price": 2790
-  },
-  "B0H33PTLSH": {
-    "first_seen": "2026-11-14",
-    "first_seen_at": "2026-11-14T21:14:56+09:00",
-    "last_seen": "2026-11-25",
-    "title": "【Amazon.co.jp限定】 Ninja ニンジャ Crispi クリスピー FN100JGNNR 自動調理器 3つの調理モード (クリスプ/ベイク・ロースト/リクリスプ) 煮る 焼く 蒸す 炒める 煮込む 炊く 温風調理 エアフライヤー ノンフライヤー FN100J ミント",
-    "percent_off": 27,
-    "brand": "NINJA",
-    "genre": "エアフライヤー",
-    "price": 18000
   },
   "B0H3TMF8K4": {
     "first_seen": "2026-10-17",
