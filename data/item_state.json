@@ -581,27 +581,6 @@
     "genre": "Apple製品",
     "price": 213246
   },
-  "B0GR1VMZRD": {
-    "first_seen": "2026-11-20",
-    "first_seen_at": "2026-11-20T18:15:52+09:00",
-    "last_seen": "2026-11-26",
-    "title": "Apple 2026 MacBook Air M5チップ搭載13インチノートブック：AIとApple Intelligence、13.6インチLiquid Retinaディスプレイ、16GBユニファイドメモリ、512GB SSDストレージ、12MPセンターフレームカメラ、日本語キーボード、Touch ID - シルバー",
-    "percent_off": null,
-    "brand": "Apple(アップル)",
-    "genre": "Apple製品",
-    "price": 224800,
-    "past": [
-      {
-        "first_seen": "2026-10-31",
-        "last_seen": "2026-11-03",
-        "title": "Apple 2026 MacBook Air M5チップ搭載13インチノートブック：AIとApple Intelligence、13.6インチLiquid Retinaディスプレイ、16GBユニファイドメモリ、512GB SSDストレージ、12MPセンターフレームカメラ、日本語キーボード、Touch ID - シルバー",
-        "brand": null,
-        "genre": null,
-        "price": null,
-        "percent_off": null
-      }
-    ]
-  },
   "B0F3XFNHCW": {
     "first_seen": "2026-11-01",
     "first_seen_at": "2026-11-01T02:15:45+09:00",
@@ -640,7 +619,7 @@
     "percent_off": 23,
     "brand": "Sony",
     "genre": "ワイヤレスイヤホン",
-    "price": 7650
+    "price": 7600
   },
   "B0F6NFHB31": {
     "first_seen": "2026-07-25",
@@ -912,15 +891,15 @@
     "genre": "スマートウォッチ",
     "price": 118798
   },
-  "B0GX8DRYCX": {
-    "first_seen": "2026-09-03",
-    "first_seen_at": "2026-09-03T12:14:47+09:00",
+  "B0FMDBYSQ9": {
+    "first_seen": "2026-10-17",
+    "first_seen_at": "2026-10-17T05:15:28+09:00",
     "last_seen": "2026-11-26",
-    "title": "HUAWEI WATCH FIT 5 スマートウォッチ 薄型軽量 大画面 GPS内蔵 10日間ロングバッテリー 通知 健康管理 心拍数 睡眠 ブラック | iPhone対応 android対応 1.82インチ画面 2500nits高輝度 ワークアウト 転倒検知 情緒測定 生理周期管理 64GBストレージ 録音機能 ランニング 防水",
-    "percent_off": 18,
+    "title": "HUAWEI WATCH D2 ウェアラブル血圧計 LCA-B29:ブルー",
+    "percent_off": 17,
     "brand": "HUAWEI(ファーウェイ)",
     "genre": "スマートウォッチ",
-    "price": 22300
+    "price": 49941
   },
   "B094VSZPPP": {
     "first_seen": "2026-10-07",
@@ -1091,6 +1070,37 @@
     "brand": "Logicool(ロジクール)",
     "genre": "キーボード・マウス",
     "price": 7318
+  },
+  "B0GR1VMZRD": {
+    "first_seen": "2026-11-20",
+    "first_seen_at": "2026-11-20T18:15:52+09:00",
+    "last_seen": "2026-11-26",
+    "title": "Apple 2026 MacBook Air M5チップ搭載13インチノートブック：AIとApple Intelligence、13.6インチLiquid Retinaディスプレイ、16GBユニファイドメモリ、512GB SSDストレージ、12MPセンターフレームカメラ、日本語キーボード、Touch ID - シルバー",
+    "percent_off": null,
+    "brand": "Apple(アップル)",
+    "genre": "Apple製品",
+    "price": 224800,
+    "past": [
+      {
+        "first_seen": "2026-10-31",
+        "last_seen": "2026-11-03",
+        "title": "Apple 2026 MacBook Air M5チップ搭載13インチノートブック：AIとApple Intelligence、13.6インチLiquid Retinaディスプレイ、16GBユニファイドメモリ、512GB SSDストレージ、12MPセンターフレームカメラ、日本語キーボード、Touch ID - シルバー",
+        "brand": null,
+        "genre": null,
+        "price": null,
+        "percent_off": null
+      }
+    ]
+  },
+  "B0GX8DRYCX": {
+    "first_seen": "2026-09-03",
+    "first_seen_at": "2026-09-03T12:14:47+09:00",
+    "last_seen": "2026-11-26",
+    "title": "HUAWEI WATCH FIT 5 スマートウォッチ 薄型軽量 大画面 GPS内蔵 10日間ロングバッテリー 通知 健康管理 心拍数 睡眠 ブラック | iPhone対応 android対応 1.82インチ画面 2500nits高輝度 ワークアウト 転倒検知 情緒測定 生理周期管理 64GBストレージ 録音機能 ランニング 防水",
+    "percent_off": 18,
+    "brand": "HUAWEI(ファーウェイ)",
+    "genre": "スマートウォッチ",
+    "price": 22300
   },
   "B07B7NXV4R": {
     "first_seen": "2026-07-30",
@@ -1432,16 +1442,6 @@
     "brand": "Anker",
     "genre": "充電器",
     "price": 5400
-  },
-  "B0FMDBYSQ9": {
-    "first_seen": "2026-10-17",
-    "first_seen_at": "2026-10-17T05:15:28+09:00",
-    "last_seen": "2026-11-25",
-    "title": "HUAWEI WATCH D2 ウェアラブル血圧計 LCA-B29:ブルー",
-    "percent_off": 20,
-    "brand": "HUAWEI(ファーウェイ)",
-    "genre": "スマートウォッチ",
-    "price": 48000
   },
   "B0HLD2C5JC": {
     "first_seen": "2026-11-24",
