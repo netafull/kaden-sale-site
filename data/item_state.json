@@ -1119,10 +1119,10 @@
     "first_seen_at": "2026-08-16T23:40:53+09:00",
     "last_seen": "2026-11-27",
     "title": "ソニー(SONY) 完全ワイヤレスイヤホン WF-C510 / 軽量小型4.6g / 高精度通話品質/外音取り込み対応/マルチポイント対応 / IPX4防滴性能 / ブラック/WF-C510 BC",
-    "percent_off": 22,
+    "percent_off": 23,
     "brand": "Sony",
     "genre": "ワイヤレスイヤホン",
-    "price": 7727
+    "price": 7650
   },
   "B0GW7WT5SQ": {
     "first_seen": "2026-10-07",
@@ -1463,6 +1463,16 @@
     "brand": "Anker",
     "genre": "充電器",
     "price": 3790
+  },
+  "B099ZNTRL5": {
+    "first_seen": "2026-10-23",
+    "first_seen_at": "2026-10-23T21:15:12+09:00",
+    "last_seen": "2026-11-27",
+    "title": "Anker Nano Charger (20W) ホワイト - 最大20W出力 (USB-C/Type-C×1) の充電器 / iPhone対応 | 約45%小型化を実現した手のひらサイズの超コンパクト急速充電器。USB PD対応の最大20W出力でiPhoneやスマホを最大3倍速く充電でき、持ち運びにも最適。USB-C×1 Type-C PSE適合",
+    "percent_off": 41,
+    "brand": "Anker",
+    "genre": "充電器",
+    "price": 990
   },
   "B09CH44769": {
     "first_seen": "2026-11-04",
@@ -2337,16 +2347,6 @@
     "genre": "XR・ARグラス",
     "price": 37380
   },
-  "B0H4KF6WPW": {
-    "first_seen": "2026-11-27",
-    "first_seen_at": "2026-11-27T01:13:10+09:00",
-    "last_seen": "2026-11-27",
-    "title": "INMO GO3 AIスマートグラス リアルタイム翻訳を眼前に表示 127言語対応 AIアシスタント カメラ搭載ARグラス 軽量設計 会議/スピーチ/海外旅行/ナビゲーション",
-    "percent_off": 16,
-    "brand": "inmo",
-    "genre": "XR・ARグラス",
-    "price": 83900
-  },
   "B0GLYFHF71": {
     "first_seen": "2026-11-27",
     "first_seen_at": "2026-11-27T01:13:10+09:00",
@@ -2361,7 +2361,7 @@
     "first_seen": "2026-11-27",
     "first_seen_at": "2026-11-27T00:13:28+09:00",
     "last_seen": "2026-11-27",
-    "title": "RayNeo GT Max AR/XRグラス | 3D対応 267インチ相当、59° FOV、120Hz、1200nits、Dolby Vision、B&Oサウンド、Native 3DoF、iPhone 17/16/15",
+    "title": "RayNeo GT MAX ARグラス 267インチ大画面・59°広視野角・ネイティブ3DoF対応(IPD 64-67mm) | Dolby Vision対応・B&Oサウンド搭載。3D映像、Vision 4000＋Zone 360に対応。iPhone、Android、iPad、Mac/PC、Nintendo Switch、PS5で楽しめる。",
     "percent_off": 15,
     "brand": "RayNeo",
     "genre": "XR・ARグラス",
@@ -3205,6 +3205,16 @@
     "genre": "エアフライヤー",
     "price": 17270
   },
+  "B0H4KF6WPW": {
+    "first_seen": "2026-11-27",
+    "first_seen_at": "2026-11-27T01:13:10+09:00",
+    "last_seen": "2026-11-27",
+    "title": "INMO GO3 AIスマートグラス リアルタイム翻訳を眼前に表示 127言語対応 AIアシスタント カメラ搭載ARグラス 軽量設計 会議/スピーチ/海外旅行/ナビゲーション",
+    "percent_off": 16,
+    "brand": "inmo",
+    "genre": "XR・ARグラス",
+    "price": 83900
+  },
   "B0FLPSS5FS": {
     "first_seen": "2026-11-27",
     "first_seen_at": "2026-11-27T01:13:10+09:00",
@@ -3933,16 +3943,6 @@
     "brand": "アイリスオーヤマ(IRIS OHYAMA)",
     "genre": "エアフライヤー",
     "price": 10700
-  },
-  "B099ZNTRL5": {
-    "first_seen": "2026-10-23",
-    "first_seen_at": "2026-10-23T21:15:12+09:00",
-    "last_seen": "2026-11-25",
-    "title": "Anker Nano Charger (20W) ホワイト | USB-C 急速充電器【PSE技術基準適合/PowerIQ 3.0",
-    "percent_off": 21,
-    "brand": "Anker",
-    "genre": "充電器",
-    "price": 1340
   },
   "B0C5CBV6L3": {
     "first_seen": "2026-10-30",
