@@ -1182,7 +1182,7 @@
     "percent_off": 23,
     "brand": "Sony",
     "genre": "ワイヤレスイヤホン",
-    "price": 7650
+    "price": 7600
   },
   "B0GW7WT5SQ": {
     "first_seen": "2026-10-07",
@@ -1213,16 +1213,6 @@
     "brand": "Belkin",
     "genre": "モバイルバッテリー",
     "price": 1612
-  },
-  "B0DW3TKWWN": {
-    "first_seen": "2026-11-27",
-    "first_seen_at": "2026-11-27T05:13:17+09:00",
-    "last_seen": "2026-11-27",
-    "title": "Belkin モバイルバッテリー(20000mAh, 30W, USB-Cケーブル内蔵) 最大20W PD高速充電対応 PPS対応iPhone 17,16～12対応&Androidスマホ対応 2台同時充電 PSE認証 軽量&コンパクト 機内持込可能 アウトドア/災害/緊急用の便利グッズ メーカー保証2年 ブラック BPB024fqBK",
-    "percent_off": 62,
-    "brand": "Belkin",
-    "genre": "モバイルバッテリー",
-    "price": 2276
   },
   "B0FLQ2HL2S": {
     "first_seen": "2026-11-27",
@@ -1484,16 +1474,6 @@
     "genre": "充電器",
     "price": 2188
   },
-  "B0C3ZC4QWG": {
-    "first_seen": "2026-11-27",
-    "first_seen_at": "2026-11-27T01:13:10+09:00",
-    "last_seen": "2026-11-27",
-    "title": "Belkin USB充電器 (30W + 30W) 2ポート iPhone17,16～12 PD急速充電対応 WCB010dqWHJP",
-    "percent_off": 51,
-    "brand": "Belkin",
-    "genre": "充電器",
-    "price": 1692
-  },
   "B0CMQK8CMJ": {
     "first_seen": "2026-08-05",
     "first_seen_at": "2026-08-05T21:15:31+09:00",
@@ -1635,16 +1615,6 @@
     "genre": "充電器",
     "price": 1990
   },
-  "B0FH29S7QN": {
-    "first_seen": "2026-11-27",
-    "first_seen_at": "2026-11-27T01:13:10+09:00",
-    "last_seen": "2026-11-27",
-    "title": "Belkin Qi2 25W 3in1 ワイヤレス充電器 iPhone18対応 折りたたみ式充電スタンド MagSafe/急速充電対応 3台同時充電 | MagSafe充電器 Qi2公式認証、最大25W急速充電 パッシブ冷却設計、iPhone18/17〜12、Apple Watch・AirPods対応、折りたたみ可能 持ち運びにも最適 旅行・出張に便利、 2年保証 ブラック",
-    "percent_off": 33,
-    "brand": "Belkin",
-    "genre": "充電器",
-    "price": 10879
-  },
   "B0DBKTPD26": {
     "first_seen": "2026-11-04",
     "first_seen_at": "2026-11-04T00:15:51+09:00",
@@ -1674,6 +1644,16 @@
     "brand": "UGREEN",
     "genre": "充電器",
     "price": 2831
+  },
+  "B0FK4JGDPG": {
+    "first_seen": "2026-11-27",
+    "first_seen_at": "2026-11-27T06:13:27+09:00",
+    "last_seen": "2026-11-27",
+    "title": "Belkin Qi2 25W 3in1 ワイヤレス充電器 iPhone18対応 折りたたみ式充電スタンド MagSafe/急速充電対応 3台同時充電 | 【アマゾン限定】MagSafe充電器 Qi2公式認証、最大25W急速充電 パッシブ冷却設計、iPhone18/17〜12、Apple Watch・AirPods対応、折りたたみ可能 持ち運びにも最適 旅行・出張に便利、 2年保証 ブラック",
+    "percent_off": 32,
+    "brand": "Belkin",
+    "genre": "充電器",
+    "price": 10879
   },
   "B0FYFDD1WW": {
     "first_seen": "2026-11-14",
@@ -1956,6 +1936,16 @@
     "brand": "Belkin",
     "genre": "充電器",
     "price": 1850
+  },
+  "B0B1KKRLTG": {
+    "first_seen": "2026-11-27",
+    "first_seen_at": "2026-11-27T06:13:27+09:00",
+    "last_seen": "2026-11-27",
+    "title": "Belkin 充電器 USB-C 30W PD3.0急速充電 PPS対応 折りたたみ式プラグ iPhone15 / MacBook Air/iPad/iPhone17,16～12/Galaxy Note/Galaxy/Google Pixel対応 BOOST↑CHARGE WCA005dqWH",
+    "percent_off": 15,
+    "brand": "Belkin",
+    "genre": "充電器",
+    "price": 2020
   },
   "B08P45YTTL": {
     "first_seen": "2026-11-04",
@@ -3305,6 +3295,36 @@
     "brand": "Cosori",
     "genre": "エアフライヤー",
     "price": 17270
+  },
+  "B0DW3TKWWN": {
+    "first_seen": "2026-11-27",
+    "first_seen_at": "2026-11-27T05:13:17+09:00",
+    "last_seen": "2026-11-27",
+    "title": "Belkin モバイルバッテリー(20000mAh, 30W, USB-Cケーブル内蔵) 最大20W PD高速充電対応 PPS対応iPhone 17,16～12対応&Androidスマホ対応 2台同時充電 PSE認証 軽量&コンパクト 機内持込可能 アウトドア/災害/緊急用の便利グッズ メーカー保証2年 ブラック BPB024fqBK",
+    "percent_off": 62,
+    "brand": "Belkin",
+    "genre": "モバイルバッテリー",
+    "price": 2276
+  },
+  "B0C3ZC4QWG": {
+    "first_seen": "2026-11-27",
+    "first_seen_at": "2026-11-27T01:13:10+09:00",
+    "last_seen": "2026-11-27",
+    "title": "Belkin USB充電器 (30W + 30W) 2ポート iPhone17,16～12 PD急速充電対応 WCB010dqWHJP",
+    "percent_off": 51,
+    "brand": "Belkin",
+    "genre": "充電器",
+    "price": 1692
+  },
+  "B0FH29S7QN": {
+    "first_seen": "2026-11-27",
+    "first_seen_at": "2026-11-27T01:13:10+09:00",
+    "last_seen": "2026-11-27",
+    "title": "Belkin Qi2 25W 3in1 ワイヤレス充電器 iPhone18対応 折りたたみ式充電スタンド MagSafe/急速充電対応 3台同時充電 | MagSafe充電器 Qi2公式認証、最大25W急速充電 パッシブ冷却設計、iPhone18/17〜12、Apple Watch・AirPods対応、折りたたみ可能 持ち運びにも最適 旅行・出張に便利、 2年保証 ブラック",
+    "percent_off": 33,
+    "brand": "Belkin",
+    "genre": "充電器",
+    "price": 10879
   },
   "B0CJB9C81Z": {
     "first_seen": "2026-11-27",
