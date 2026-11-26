@@ -30,6 +30,16 @@
     "genre": "Apple製品",
     "price": 18000
   },
+  "B0FQG1QPLW": {
+    "first_seen": "2026-11-27",
+    "first_seen_at": "2026-11-27T00:13:28+09:00",
+    "last_seen": "2026-11-27",
+    "title": "Apple iPhone Air 256GB (SIMフリー) | 最大120HzのProMotionを採用した6.5インチディスプレイ、パワフルなA19 Proチップ、センターフレームフロントカメラ、一日中使えるバッテリー；スカイブルー",
+    "percent_off": 23,
+    "brand": "Apple(アップル)",
+    "genre": "Apple製品",
+    "price": 145900
+  },
   "B0FQFLWSWZ": {
     "first_seen": "2026-11-27",
     "first_seen_at": "2026-11-27T04:13:46+09:00",
@@ -49,16 +59,6 @@
     "brand": "Apple(アップル)",
     "genre": "Apple製品",
     "price": 172900
-  },
-  "B0FQG1QPLW": {
-    "first_seen": "2026-11-27",
-    "first_seen_at": "2026-11-27T00:13:28+09:00",
-    "last_seen": "2026-11-27",
-    "title": "Apple iPhone Air 256GB (SIMフリー) | 最大120HzのProMotionを採用した6.5インチディスプレイ、パワフルなA19 Proチップ、センターフレームフロントカメラ、一日中使えるバッテリー；スカイブルー",
-    "percent_off": 23,
-    "brand": "Apple(アップル)",
-    "genre": "Apple製品",
-    "price": 145900
   },
   "B0FQG5LKM2": {
     "first_seen": "2026-11-27",
@@ -592,6 +592,16 @@
     "brand": "Apple(アップル)",
     "genre": "Apple製品",
     "price": 63434
+  },
+  "B0GRTLSXQV": {
+    "first_seen": "2026-11-27",
+    "first_seen_at": "2026-11-27T08:13:23+09:00",
+    "last_seen": "2026-11-27",
+    "title": "Apple 2026 MacBook Air M5チップ搭載13インチノートブック：AIとApple Intelligence、13.6インチLiquid Retinaディスプレイ、16GBユニファイドメモリ、1TB SSD、12MPセンターフレームカメラ、Touch ID - スカイブルー + 3年延長 AppleCare+ for 13インチMacBook Air(M5)|ダウンロード版",
+    "percent_off": 11,
+    "brand": "Apple(アップル)",
+    "genre": "Apple製品",
+    "price": 276680
   },
   "B0GRTP18HB": {
     "first_seen": "2026-11-27",
@@ -1149,10 +1159,10 @@
     "first_seen_at": "2026-11-01T02:15:45+09:00",
     "last_seen": "2026-11-27",
     "title": "ソニー(SONY) WF-C710N ブラック ワイヤレスイヤホン 高性能ノイズキャンセリング Bluetoothロングバッテリー 外音取り込み IPX4防滴性能 軽量 コンパクト マルチポイント接続",
-    "percent_off": 30,
+    "percent_off": 29,
     "brand": "Sony",
     "genre": "ワイヤレスイヤホン",
-    "price": 12325
+    "price": 12420
   },
   "B0FNRS5WB2": {
     "first_seen": "2026-11-04",
@@ -1474,6 +1484,16 @@
     "genre": "充電器",
     "price": 980
   },
+  "B0BF9ZYCQ5": {
+    "first_seen": "2026-07-31",
+    "first_seen_at": "2026-07-31T12:00:00+09:00",
+    "last_seen": "2026-11-27",
+    "title": "【VGP受賞】Belkin 充電器 USB-C 2ポート PPS規格対応 GaN採用 小型 ACアダプター タイプC 急速充電 軽量【PD3.0対応 /PSE認証/折りたたみ式プラグ】45W(25W+20W) MacBook Windows PC Surface Pro iPad iPhone 17,16～12対応 Galaxy Android スマホ 各種ノートPC対応 WCH011dqWH",
+    "percent_off": 55,
+    "brand": "Belkin",
+    "genre": "充電器",
+    "price": 2188
+  },
   "B0C3ZC4QWG": {
     "first_seen": "2026-11-27",
     "first_seen_at": "2026-11-27T01:13:10+09:00",
@@ -1513,16 +1533,6 @@
     "brand": "Anker",
     "genre": "充電器",
     "price": 3790
-  },
-  "B099ZNTRL5": {
-    "first_seen": "2026-10-23",
-    "first_seen_at": "2026-10-23T21:15:12+09:00",
-    "last_seen": "2026-11-27",
-    "title": "Anker Nano Charger (20W) ホワイト - 最大20W出力 (USB-C/Type-C×1) の充電器 / iPhone対応 | 約45%小型化を実現した手のひらサイズの超コンパクト急速充電器。USB PD対応の最大20W出力でiPhoneやスマホを最大3倍速く充電でき、持ち運びにも最適。USB-C×1 Type-C PSE適合",
-    "percent_off": 41,
-    "brand": "Anker",
-    "genre": "充電器",
-    "price": 990
   },
   "B09JK9F927": {
     "first_seen": "2026-11-07",
@@ -1674,16 +1684,6 @@
     "brand": "UGREEN",
     "genre": "充電器",
     "price": 8980
-  },
-  "B0BF43HS1G": {
-    "first_seen": "2026-07-27",
-    "first_seen_at": "2026-07-27T12:00:00+09:00",
-    "last_seen": "2026-11-27",
-    "title": "Anker 523 Charger (Nano 3, 47W) ホワイト - 最大47W・2ポート (USB-C×2) 急速充電器 | 最大47W・USB-C 2ポートでスマホとタブレットを同時に急速充電。小型でもMacBook Airにも対応。USB-C 充電器 急速充電器 47W PD GaN iPhone iPad",
-    "percent_off": 31,
-    "brand": "Anker",
-    "genre": "充電器",
-    "price": 2760
   },
   "B0BF44GF6J": {
     "first_seen": "2026-08-09",
@@ -1917,6 +1917,16 @@
     "genre": "充電器",
     "price": 723
   },
+  "B0CTJDLWV4": {
+    "first_seen": "2026-11-04",
+    "first_seen_at": "2026-11-04T22:14:46+09:00",
+    "last_seen": "2026-11-27",
+    "title": "エレコム 充電器 65W USB PD対応 小型 Type-C 1ポート PPS対応 GaN II採用 PSE認証 ブラック 【iPhone 16 15 iPad Macbook 等対応】 EC-AC8565BK",
+    "percent_off": 16,
+    "brand": "エレコム(ELECOM)",
+    "genre": "充電器",
+    "price": 2090
+  },
   "B0FB2F95HY": {
     "first_seen": "2026-11-27",
     "first_seen_at": "2026-11-27T00:13:28+09:00",
@@ -1936,16 +1946,6 @@
     "brand": "Belkin",
     "genre": "充電器",
     "price": 7565
-  },
-  "B0CWN59C9H": {
-    "first_seen": "2026-11-04",
-    "first_seen_at": "2026-11-04T09:15:07+09:00",
-    "last_seen": "2026-11-27",
-    "title": "Belkin カーチャージャー 30W USB-C 車載充電器 PD/PPS対応 急速充電 ブラック | USB-C最大30W出力、PD/PPS対応、急速充電対応、iPhone 18シリーズ以下・iPad・Android対応、USB-IF認証、2年保証・最大2,500米ドルCEW",
-    "percent_off": 15,
-    "brand": "Belkin",
-    "genre": "充電器",
-    "price": 1850
   },
   "B08P45YTTL": {
     "first_seen": "2026-11-04",
@@ -2127,15 +2127,15 @@
     "genre": "スマートホーム",
     "price": 1680
   },
-  "B0DSPXKDP8": {
+  "B07TTH5TMW": {
     "first_seen": "2026-11-27",
-    "first_seen_at": "2026-11-27T00:13:28+09:00",
+    "first_seen_at": "2026-11-27T08:13:23+09:00",
     "last_seen": "2026-11-27",
-    "title": "【Amazon.co.jp限定】SwitchBot ハブミニ スマートリモコン スマートホーム アレクサ - Matter対応 赤外線家電を管理 白い | スマート家電 温湿度センサー搭載 スイッチボット 遠隔操作 エアコンコントローラー 節電·省エネ Echo Google Home Siri IFTTT SmartThings対応 Kataステッカー付き",
+    "title": "SwitchBot ハブミニ スマートリモコン スイッチボット アレクサ対応 - スマートホーム 赤外線家電を管理 スケジュール 遠隔操作 ホワイト | スマート家電 学習リモコン シーンで家電一括操作 簡単操作 節電·省エネ Google Home IFTTT Siri SmartThingsに対応",
     "percent_off": 15,
     "brand": "スイッチボット(SwitchBot)",
     "genre": "スマートホーム",
-    "price": 5250
+    "price": 4650
   },
   "B0CR3WTRD4": {
     "first_seen": "2026-11-27",
@@ -2176,16 +2176,6 @@
     "brand": "HUAWEI(ファーウェイ)",
     "genre": "スマートウォッチ",
     "price": 42200
-  },
-  "B0CJB9C81Z": {
-    "first_seen": "2026-11-27",
-    "first_seen_at": "2026-11-27T04:13:46+09:00",
-    "last_seen": "2026-11-27",
-    "title": "【Suica対応】Fitbit Charge 6 トラッカー ポーセレン／シルバー スマートウォッチ/防水/iPhone対応/アンドロイド対応/最大7日間のバッテリー/GPS搭載/心拍計/睡眠スコア [日本正規品]",
-    "percent_off": 29,
-    "brand": "Fitbit",
-    "genre": "スマートウォッチ",
-    "price": 16800
   },
   "B0HF4K8JBT": {
     "first_seen": "2026-11-27",
@@ -2252,16 +2242,6 @@
     "first_seen_at": "2026-11-01T19:15:08+09:00",
     "last_seen": "2026-11-27",
     "title": "HUAWEI WATCH FIT 5 スマートウォッチ 薄型軽量 大画面 GPS内蔵 10日間ロングバッテリー 通知 健康管理 心拍数 睡眠 ホワイト | iPhone対応 android対応 1.82インチ画面 2500nits高輝度 ワークアウト 転倒検知 情緒測定 生理周期管理 64GBストレージ 録音機能 ランニング 防水",
-    "percent_off": 21,
-    "brand": "HUAWEI(ファーウェイ)",
-    "genre": "スマートウォッチ",
-    "price": 21470
-  },
-  "B0GX8DRYCX": {
-    "first_seen": "2026-09-03",
-    "first_seen_at": "2026-09-03T12:14:47+09:00",
-    "last_seen": "2026-11-27",
-    "title": "HUAWEI WATCH FIT 5 スマートウォッチ 薄型軽量 大画面 GPS内蔵 10日間ロングバッテリー 通知 健康管理 心拍数 睡眠 ブラック | iPhone対応 android対応 1.82インチ画面 2500nits高輝度 ワークアウト 転倒検知 情緒測定 生理周期管理 64GBストレージ 録音機能 ランニング 防水",
     "percent_off": 21,
     "brand": "HUAWEI(ファーウェイ)",
     "genre": "スマートウォッチ",
@@ -3245,16 +3225,6 @@
     "genre": "キーボード・マウス",
     "price": 9330
   },
-  "B0H33R37MZ": {
-    "first_seen": "2026-11-03",
-    "first_seen_at": "2026-11-03T01:15:11+09:00",
-    "last_seen": "2026-11-27",
-    "title": "【Amazon.co.jp限定】 Ninja ニンジャ Crispi クリスピー FN100JGYNR 自動調理器 3つの調理モード (クリスプ/ベイク・ロースト/リクリスプ) 煮る 焼く 蒸す 炒める 煮込む 炊く 温風調理 エアフライヤー ノンフライヤー FN100J ネイビー",
-    "percent_off": 28,
-    "brand": "NINJA",
-    "genre": "エアフライヤー",
-    "price": 17800
-  },
   "B09HB4B15V": {
     "first_seen": "2026-11-27",
     "first_seen_at": "2026-11-27T01:13:10+09:00",
@@ -3296,15 +3266,75 @@
     "genre": "エアフライヤー",
     "price": 17270
   },
-  "B0BF9ZYCQ5": {
-    "first_seen": "2026-07-31",
-    "first_seen_at": "2026-07-31T12:00:00+09:00",
+  "B099ZNTRL5": {
+    "first_seen": "2026-10-23",
+    "first_seen_at": "2026-10-23T21:15:12+09:00",
     "last_seen": "2026-11-27",
-    "title": "【VGP受賞】Belkin 充電器 USB-C 2ポート PPS規格対応 GaN採用 小型 ACアダプター タイプC 急速充電 軽量【PD3.0対応 /PSE認証/折りたたみ式プラグ】45W(25W+20W) MacBook Windows PC Surface Pro iPad iPhone 17,16～12対応 Galaxy Android スマホ 各種ノートPC対応 WCH011dqWH",
-    "percent_off": 55,
+    "title": "Anker Nano Charger (20W) ホワイト - 最大20W出力 (USB-C/Type-C×1) の充電器 / iPhone対応 | 約45%小型化を実現した手のひらサイズの超コンパクト急速充電器。USB PD対応の最大20W出力でiPhoneやスマホを最大3倍速く充電でき、持ち運びにも最適。USB-C×1 Type-C PSE適合",
+    "percent_off": 41,
+    "brand": "Anker",
+    "genre": "充電器",
+    "price": 990
+  },
+  "B0BF43HS1G": {
+    "first_seen": "2026-07-27",
+    "first_seen_at": "2026-07-27T12:00:00+09:00",
+    "last_seen": "2026-11-27",
+    "title": "Anker 523 Charger (Nano 3, 47W) ホワイト - 最大47W・2ポート (USB-C×2) 急速充電器 | 最大47W・USB-C 2ポートでスマホとタブレットを同時に急速充電。小型でもMacBook Airにも対応。USB-C 充電器 急速充電器 47W PD GaN iPhone iPad",
+    "percent_off": 31,
+    "brand": "Anker",
+    "genre": "充電器",
+    "price": 2760
+  },
+  "B0CWN59C9H": {
+    "first_seen": "2026-11-04",
+    "first_seen_at": "2026-11-04T09:15:07+09:00",
+    "last_seen": "2026-11-27",
+    "title": "Belkin カーチャージャー 30W USB-C 車載充電器 PD/PPS対応 急速充電 ブラック | USB-C最大30W出力、PD/PPS対応、急速充電対応、iPhone 18シリーズ以下・iPad・Android対応、USB-IF認証、2年保証・最大2,500米ドルCEW",
+    "percent_off": 15,
     "brand": "Belkin",
     "genre": "充電器",
-    "price": 2188
+    "price": 1850
+  },
+  "B0DSPXKDP8": {
+    "first_seen": "2026-11-27",
+    "first_seen_at": "2026-11-27T00:13:28+09:00",
+    "last_seen": "2026-11-27",
+    "title": "【Amazon.co.jp限定】SwitchBot ハブミニ スマートリモコン スマートホーム アレクサ - Matter対応 赤外線家電を管理 白い | スマート家電 温湿度センサー搭載 スイッチボット 遠隔操作 エアコンコントローラー 節電·省エネ Echo Google Home Siri IFTTT SmartThings対応 Kataステッカー付き",
+    "percent_off": 15,
+    "brand": "スイッチボット(SwitchBot)",
+    "genre": "スマートホーム",
+    "price": 5250
+  },
+  "B0CJB9C81Z": {
+    "first_seen": "2026-11-27",
+    "first_seen_at": "2026-11-27T04:13:46+09:00",
+    "last_seen": "2026-11-27",
+    "title": "【Suica対応】Fitbit Charge 6 トラッカー ポーセレン／シルバー スマートウォッチ/防水/iPhone対応/アンドロイド対応/最大7日間のバッテリー/GPS搭載/心拍計/睡眠スコア [日本正規品]",
+    "percent_off": 29,
+    "brand": "Fitbit",
+    "genre": "スマートウォッチ",
+    "price": 16800
+  },
+  "B0GX8DRYCX": {
+    "first_seen": "2026-09-03",
+    "first_seen_at": "2026-09-03T12:14:47+09:00",
+    "last_seen": "2026-11-27",
+    "title": "HUAWEI WATCH FIT 5 スマートウォッチ 薄型軽量 大画面 GPS内蔵 10日間ロングバッテリー 通知 健康管理 心拍数 睡眠 ブラック | iPhone対応 android対応 1.82インチ画面 2500nits高輝度 ワークアウト 転倒検知 情緒測定 生理周期管理 64GBストレージ 録音機能 ランニング 防水",
+    "percent_off": 21,
+    "brand": "HUAWEI(ファーウェイ)",
+    "genre": "スマートウォッチ",
+    "price": 21470
+  },
+  "B0H33R37MZ": {
+    "first_seen": "2026-11-03",
+    "first_seen_at": "2026-11-03T01:15:11+09:00",
+    "last_seen": "2026-11-27",
+    "title": "【Amazon.co.jp限定】 Ninja ニンジャ Crispi クリスピー FN100JGYNR 自動調理器 3つの調理モード (クリスプ/ベイク・ロースト/リクリスプ) 煮る 焼く 蒸す 炒める 煮込む 炊く 温風調理 エアフライヤー ノンフライヤー FN100J ネイビー",
+    "percent_off": 28,
+    "brand": "NINJA",
+    "genre": "エアフライヤー",
+    "price": 17800
   },
   "B09CH44769": {
     "first_seen": "2026-11-04",
@@ -3345,16 +3375,6 @@
     "brand": "CIO",
     "genre": "充電器",
     "price": 4980
-  },
-  "B0CTJDLWV4": {
-    "first_seen": "2026-11-04",
-    "first_seen_at": "2026-11-04T22:14:46+09:00",
-    "last_seen": "2026-11-27",
-    "title": "エレコム 充電器 65W USB PD対応 小型 Type-C 1ポート PPS対応 GaN II採用 PSE認証 ブラック 【iPhone 16 15 iPad Macbook 等対応】 EC-AC8565BK",
-    "percent_off": 16,
-    "brand": "エレコム(ELECOM)",
-    "genre": "充電器",
-    "price": 2090
   },
   "B0B1KKRLTG": {
     "first_seen": "2026-11-27",
