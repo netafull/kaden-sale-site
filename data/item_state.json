@@ -601,15 +601,15 @@
     "genre": "ワイヤレスイヤホン",
     "price": 7600
   },
-  "B0F6NFHB31": {
-    "first_seen": "2026-07-25",
-    "first_seen_at": "2026-07-25T12:00:00+09:00",
+  "B0F6NC41DZ": {
+    "first_seen": "2026-08-06",
+    "first_seen_at": "2026-08-06T21:18:24+09:00",
     "last_seen": "2026-11-26",
-    "title": "UGREEN Air モバイルバッテリー 5000mAh 8.6mm超薄型 Qi2 15W MagSafe iPhone18Pro対応 | 【ATL製セル×難燃技術】マグネット式ワイヤレス充電｜軽量・小型設計｜USB-C PD 20W対応 ｜パススルー充電対応｜iPhone18 Pro/17/16/15 シリーズ/ Air対応｜PB580｜ダークグレー",
+    "title": "UGREEN Air モバイルバッテリー 10000mAh 薄型 Qi2 15W MagSafe ケーブル内蔵 iPhone18Pro対応 | 【ATL製セル×難燃技術】マグネット式ワイヤレス充電｜軽量・小型設計｜USB-C PD 30W対応 ｜パススルー充電対応｜ iPhone18 Pro/17/16/15 シリーズ/ Air対応｜PB570｜グレー",
     "percent_off": null,
     "brand": "UGREEN",
     "genre": "モバイルバッテリー",
-    "price": 6880
+    "price": 8680
   },
   "B0GMX4WKYG": {
     "first_seen": "2026-11-23",
@@ -620,6 +620,16 @@
     "brand": "CIO",
     "genre": "モバイルバッテリー",
     "price": 6280
+  },
+  "B0CX4FKYCS": {
+    "first_seen": "2026-10-10",
+    "first_seen_at": "2026-10-10T23:14:49+09:00",
+    "last_seen": "2026-11-26",
+    "title": "Anker Power Bank (10000mAh, Fusion, Built-In USB-C ケーブル) ホワイト | 10K 30W出力モバイルバッテリー搭載 30W出力USB充電器 / LEDディスプレイ/ケーブル一体型/コンセント一体型/折りたたみ式プラグ 1台3役 / iPhone 18 / 17 / 16 / 15 Android その他各種機器対応",
+    "percent_off": null,
+    "brand": "Anker",
+    "genre": "モバイルバッテリー",
+    "price": 8990
   },
   "B098SQSRRV": {
     "first_seen": "2026-07-31",
@@ -650,6 +660,16 @@
     "brand": "UGREEN",
     "genre": "充電器",
     "price": 8880
+  },
+  "B0B2QSZRCV": {
+    "first_seen": "2026-09-22",
+    "first_seen_at": "2026-09-22T22:14:54+09:00",
+    "last_seen": "2026-11-26",
+    "title": "Anker 511 Charger (Nano 3, 30W) ブルー | 30W USB-C急速充電器 手のひらサイズでノートPCにも給電。GaN採用で折りたたみ式プラグ搭載。PD PPS対応 MacBook Air iPhone iPad Galaxy Pixel対応 PSE技術基準適合",
+    "percent_off": null,
+    "brand": "Anker",
+    "genre": "充電器",
+    "price": 2790
   },
   "B0D53VKL36": {
     "first_seen": "2026-07-29",
@@ -731,15 +751,36 @@
     "genre": "充電器",
     "price": 2950
   },
-  "B09X7DZ9LG": {
-    "first_seen": "2026-11-24",
-    "first_seen_at": "2026-11-24T21:14:02+09:00",
+  "B08PTQMZY3": {
+    "first_seen": "2026-10-27",
+    "first_seen_at": "2026-10-27T21:14:38+09:00",
     "last_seen": "2026-11-26",
-    "title": "SanDisk (サンディスク) 128GB Extreme (エクストリーム) SDXC UHS-I メモリーカード - C10/U3/V30/4K/UHD　SDカード - SDSDXVA-128G-GNCIN",
-    "percent_off": 14,
-    "brand": "SANDISK",
+    "title": "KIOXIA(キオクシア) 旧東芝メモリ microSD 64GB UHS-I Class10 (最大読出速度100MB/s) Nintendo Switch動作確認済 国内サポート正規品 メーカー保証5年 KLMEA064G",
+    "percent_off": 29,
+    "brand": "KIOXIA",
     "genre": "SSD・メモリーカード",
-    "price": 6003
+    "price": 1690
+  },
+  "B0C5X8DP5G": {
+    "first_seen": "2026-11-23",
+    "first_seen_at": "2026-11-23T21:13:12+09:00",
+    "last_seen": "2026-11-26",
+    "title": "【Amazon.co.jp限定】 バッファロー microSD 512GB 100MB/s U1 V10 A1 RMSD-512U11HA/N",
+    "percent_off": 28,
+    "brand": "バッファロー",
+    "genre": "SSD・メモリーカード",
+    "price": 15280,
+    "past": [
+      {
+        "first_seen": "2026-10-31",
+        "last_seen": "2026-11-01",
+        "title": "Amazon限定 バッファロー microSD 512GB 100MB/s U1 microSD V10 A1 RMSD-512U11HA/N",
+        "brand": null,
+        "genre": null,
+        "price": null,
+        "percent_off": 28
+      }
+    ]
   },
   "B0F2DW782K": {
     "first_seen": "2026-11-22",
@@ -751,16 +792,6 @@
     "genre": "モニター・ディスプレイ",
     "price": 10480
   },
-  "B0DNKC8HXP": {
-    "first_seen": "2026-08-02",
-    "first_seen_at": "2026-08-02T11:33:18+09:00",
-    "last_seen": "2026-11-26",
-    "title": "INNOCN ゲーミングモニター 24.5インチ 200Hz IPS 1ms(GTG) フルHD 非光沢 フレームレス PS5/Xbox対応 Adaptive-Sync VESA100×100 HDMI2.0/DP1.4接続 25G2G",
-    "percent_off": 20,
-    "brand": "INNOCN",
-    "genre": "モニター・ディスプレイ",
-    "price": 13625
-  },
   "B0F7X3VJ99": {
     "first_seen": "2026-08-02",
     "first_seen_at": "2026-08-02T11:33:18+09:00",
@@ -770,16 +801,6 @@
     "brand": "アイオーデータ",
     "genre": "モニター・ディスプレイ",
     "price": 49800
-  },
-  "B0F5WNVHH7": {
-    "first_seen": "2026-07-30",
-    "first_seen_at": "2026-07-30T12:00:00+09:00",
-    "last_seen": "2026-11-26",
-    "title": "HUAWEI WATCH FIT 4 スマートウォッチ 薄型軽量 1.82インチ大画面 アウトドアに適した気圧計と測位システム 通知 フィットネス ヘルストラッカー 情緒測定 10日間ロングバッテリー iOS/Android対応 ブラック",
-    "percent_off": 33,
-    "brand": "HUAWEI(ファーウェイ)",
-    "genre": "スマートウォッチ",
-    "price": 16100
   },
   "B0GQLM2HG7": {
     "first_seen": "2026-11-18",
@@ -801,25 +822,15 @@
     "genre": "スマートウォッチ",
     "price": 36800
   },
-  "B0BWF162WJ": {
-    "first_seen": "2026-09-21",
-    "first_seen_at": "2026-09-21T17:14:46+09:00",
+  "B0BWF463MW": {
+    "first_seen": "2026-08-04",
+    "first_seen_at": "2026-08-04T12:38:09+09:00",
     "last_seen": "2026-11-26",
-    "title": "GARMIN（ガーミン）GPSランニングウォッチ Forerunner 965 White 【日本正規品】",
+    "title": "GARMIN（ガーミン）GPSランニングウォッチ Forerunner 965 Amp Yellow 【日本正規品】",
     "percent_off": 20,
     "brand": "ガーミン(GARMIN)",
     "genre": "スマートウォッチ",
     "price": 67800
-  },
-  "B0DDCR5WYQ": {
-    "first_seen": "2026-11-03",
-    "first_seen_at": "2026-11-03T12:15:59+09:00",
-    "last_seen": "2026-11-26",
-    "title": "ガーミン(GARMIN) フラッグシップモデル fenix 8 Sapphire AMOLED 47mm Ti Carbon Gray DLC/Black マルチスポーツGPSウォッチ【AMOLEDディスプレイ】 【ランニング・ゴルフ・登山・サイクリング等30種類以上対応】【Android/iOS対応】【Suica機能搭載】【ビジネスシーンもOK】【日本正規品】心電図(ECG)アプリ対応モデル",
-    "percent_off": 19,
-    "brand": "ガーミン(GARMIN)",
-    "genre": "スマートウォッチ",
-    "price": 117315
   },
   "B0GX8DRYCX": {
     "first_seen": "2026-09-03",
@@ -921,36 +932,6 @@
     "genre": "キーボード・マウス",
     "price": 20029
   },
-  "B0GL1B1L6Y": {
-    "first_seen": "2026-10-29",
-    "first_seen_at": "2026-10-29T23:15:00+09:00",
-    "last_seen": "2026-11-26",
-    "title": "東プレ REALFORCE GX1 Plus サザビー 日本語配列 ゲーミングキーボード X1PCS1",
-    "percent_off": 26,
-    "brand": "REALFORCE",
-    "genre": "キーボード・マウス",
-    "price": 44373
-  },
-  "B0FJRCJ1SN": {
-    "first_seen": "2026-07-26",
-    "first_seen_at": "2026-07-26T12:00:00+09:00",
-    "last_seen": "2026-11-26",
-    "title": "【リニューアル】 エレコム ワイヤレスマウス 静音 充電式 OSMOD Six Bluetooth 無線2.4GHz両対応 2台まで接続 マルチペアリング 6ボタン ブラック M-MY35MBSABK",
-    "percent_off": 25,
-    "brand": "エレコム(ELECOM)",
-    "genre": "キーボード・マウス",
-    "price": 2990
-  },
-  "B0BKPL1VKW": {
-    "first_seen": "2026-11-13",
-    "first_seen_at": "2026-11-13T21:14:48+09:00",
-    "last_seen": "2026-11-26",
-    "title": "ロジクール ワイヤレスマウス 静音 無線 高速スクロール Signature M750MGR レギュラー グラファイト M750 国内正規品 | レギュラーサイズ、6ボタン、サイドボタン、電池式（単3形乾電池x1）、Easy-Switch、DPI切り替え、Bluetooth、Logi Bolt、Windows10、Windows11、macOS、iPadOS、Android、ChromeOS",
-    "percent_off": 23,
-    "brand": "Logicool(ロジクール)",
-    "genre": "キーボード・マウス",
-    "price": 4063
-  },
   "B08TGDD1R4": {
     "first_seen": "2026-11-22",
     "first_seen_at": "2026-11-22T20:13:11+09:00",
@@ -991,6 +972,16 @@
     "genre": "キーボード・マウス",
     "price": 4700
   },
+  "B0BKPR1SPC": {
+    "first_seen": "2026-11-07",
+    "first_seen_at": "2026-11-07T13:16:06+09:00",
+    "last_seen": "2026-11-26",
+    "title": "ロジクール ワイヤレスマウス 静音 無線 高速スクロール Signature M750LGR ラージ グラファイト M750 国内正規品 | 手の大きめな方向け、6ボタン、サイドボタン、電池式（単3形乾電池x1）、Easy-Switch、DPI切り替え、Bluetooth、Logi Bolt、Windows10、Windows11、macOS、iPadOS、Android、ChromeOS",
+    "percent_off": 17,
+    "brand": "Logicool(ロジクール)",
+    "genre": "キーボード・マウス",
+    "price": 4400
+  },
   "B0CJR8Y56J": {
     "first_seen": "2026-07-26",
     "first_seen_at": "2026-07-26T12:00:00+09:00",
@@ -1000,6 +991,96 @@
     "brand": "Logicool(ロジクール)",
     "genre": "キーボード・マウス",
     "price": 4373
+  },
+  "B0F6NFHB31": {
+    "first_seen": "2026-07-25",
+    "first_seen_at": "2026-07-25T12:00:00+09:00",
+    "last_seen": "2026-11-26",
+    "title": "UGREEN Air モバイルバッテリー 5000mAh 8.6mm超薄型 Qi2 15W MagSafe iPhone18Pro対応 | 【ATL製セル×難燃技術】マグネット式ワイヤレス充電｜軽量・小型設計｜USB-C PD 20W対応 ｜パススルー充電対応｜iPhone18 Pro/17/16/15 シリーズ/ Air対応｜PB580｜ダークグレー",
+    "percent_off": null,
+    "brand": "UGREEN",
+    "genre": "モバイルバッテリー",
+    "price": 6880
+  },
+  "B09X7DZ9LG": {
+    "first_seen": "2026-11-24",
+    "first_seen_at": "2026-11-24T21:14:02+09:00",
+    "last_seen": "2026-11-26",
+    "title": "SanDisk (サンディスク) 128GB Extreme (エクストリーム) SDXC UHS-I メモリーカード - C10/U3/V30/4K/UHD　SDカード - SDSDXVA-128G-GNCIN",
+    "percent_off": 14,
+    "brand": "SANDISK",
+    "genre": "SSD・メモリーカード",
+    "price": 6003
+  },
+  "B0DNKC8HXP": {
+    "first_seen": "2026-08-02",
+    "first_seen_at": "2026-08-02T11:33:18+09:00",
+    "last_seen": "2026-11-26",
+    "title": "INNOCN ゲーミングモニター 24.5インチ 200Hz IPS 1ms(GTG) フルHD 非光沢 フレームレス PS5/Xbox対応 Adaptive-Sync VESA100×100 HDMI2.0/DP1.4接続 25G2G",
+    "percent_off": 20,
+    "brand": "INNOCN",
+    "genre": "モニター・ディスプレイ",
+    "price": 13625
+  },
+  "B0F5WNVHH7": {
+    "first_seen": "2026-07-30",
+    "first_seen_at": "2026-07-30T12:00:00+09:00",
+    "last_seen": "2026-11-26",
+    "title": "HUAWEI WATCH FIT 4 スマートウォッチ 薄型軽量 1.82インチ大画面 アウトドアに適した気圧計と測位システム 通知 フィットネス ヘルストラッカー 情緒測定 10日間ロングバッテリー iOS/Android対応 ブラック",
+    "percent_off": 33,
+    "brand": "HUAWEI(ファーウェイ)",
+    "genre": "スマートウォッチ",
+    "price": 16100
+  },
+  "B0BWF162WJ": {
+    "first_seen": "2026-09-21",
+    "first_seen_at": "2026-09-21T17:14:46+09:00",
+    "last_seen": "2026-11-26",
+    "title": "GARMIN（ガーミン）GPSランニングウォッチ Forerunner 965 White 【日本正規品】",
+    "percent_off": 20,
+    "brand": "ガーミン(GARMIN)",
+    "genre": "スマートウォッチ",
+    "price": 67800
+  },
+  "B0DDCR5WYQ": {
+    "first_seen": "2026-11-03",
+    "first_seen_at": "2026-11-03T12:15:59+09:00",
+    "last_seen": "2026-11-26",
+    "title": "ガーミン(GARMIN) フラッグシップモデル fenix 8 Sapphire AMOLED 47mm Ti Carbon Gray DLC/Black マルチスポーツGPSウォッチ【AMOLEDディスプレイ】 【ランニング・ゴルフ・登山・サイクリング等30種類以上対応】【Android/iOS対応】【Suica機能搭載】【ビジネスシーンもOK】【日本正規品】心電図(ECG)アプリ対応モデル",
+    "percent_off": 19,
+    "brand": "ガーミン(GARMIN)",
+    "genre": "スマートウォッチ",
+    "price": 117315
+  },
+  "B0GL1B1L6Y": {
+    "first_seen": "2026-10-29",
+    "first_seen_at": "2026-10-29T23:15:00+09:00",
+    "last_seen": "2026-11-26",
+    "title": "東プレ REALFORCE GX1 Plus サザビー 日本語配列 ゲーミングキーボード X1PCS1",
+    "percent_off": 26,
+    "brand": "REALFORCE",
+    "genre": "キーボード・マウス",
+    "price": 44373
+  },
+  "B0FJRCJ1SN": {
+    "first_seen": "2026-07-26",
+    "first_seen_at": "2026-07-26T12:00:00+09:00",
+    "last_seen": "2026-11-26",
+    "title": "【リニューアル】 エレコム ワイヤレスマウス 静音 充電式 OSMOD Six Bluetooth 無線2.4GHz両対応 2台まで接続 マルチペアリング 6ボタン ブラック M-MY35MBSABK",
+    "percent_off": 25,
+    "brand": "エレコム(ELECOM)",
+    "genre": "キーボード・マウス",
+    "price": 2990
+  },
+  "B0BKPL1VKW": {
+    "first_seen": "2026-11-13",
+    "first_seen_at": "2026-11-13T21:14:48+09:00",
+    "last_seen": "2026-11-26",
+    "title": "ロジクール ワイヤレスマウス 静音 無線 高速スクロール Signature M750MGR レギュラー グラファイト M750 国内正規品 | レギュラーサイズ、6ボタン、サイドボタン、電池式（単3形乾電池x1）、Easy-Switch、DPI切り替え、Bluetooth、Logi Bolt、Windows10、Windows11、macOS、iPadOS、Android、ChromeOS",
+    "percent_off": 23,
+    "brand": "Logicool(ロジクール)",
+    "genre": "キーボード・マウス",
+    "price": 4063
   },
   "B0FX45ZFGP": {
     "first_seen": "2026-11-26",
@@ -1212,16 +1293,6 @@
     "genre": "モバイルバッテリー",
     "price": 2979
   },
-  "B0CX4FKYCS": {
-    "first_seen": "2026-10-10",
-    "first_seen_at": "2026-10-10T23:14:49+09:00",
-    "last_seen": "2026-11-25",
-    "title": "Anker Power Bank (10000mAh, Fusion, Built-In USB-C ケーブル) ホワイト | 10K 30W出力モバイルバッテリー搭載 30W出力USB充電器 / LEDディスプレイ/ケーブル一体型/コンセント一体型/折りたたみ式プラグ 1台3役 / iPhone 18 / 17 / 16 / 15 Android その他各種機器対応",
-    "percent_off": null,
-    "brand": "Anker",
-    "genre": "モバイルバッテリー",
-    "price": 8990
-  },
   "B0G64NF1FQ": {
     "first_seen": "2026-09-16",
     "first_seen_at": "2026-09-16T01:14:30+09:00",
@@ -1231,16 +1302,6 @@
     "brand": "UGREEN",
     "genre": "充電器",
     "price": 3350
-  },
-  "B0BWF463MW": {
-    "first_seen": "2026-08-04",
-    "first_seen_at": "2026-08-04T12:38:09+09:00",
-    "last_seen": "2026-11-25",
-    "title": "GARMIN（ガーミン）GPSランニングウォッチ Forerunner 965 Amp Yellow 【日本正規品】",
-    "percent_off": 20,
-    "brand": "ガーミン(GARMIN)",
-    "genre": "スマートウォッチ",
-    "price": 67800
   },
   "B0CJR74NF3": {
     "first_seen": "2026-08-13",
@@ -1504,16 +1565,6 @@
     "genre": "モバイルバッテリー",
     "price": 9990
   },
-  "B0F6NC41DZ": {
-    "first_seen": "2026-08-06",
-    "first_seen_at": "2026-08-06T21:18:24+09:00",
-    "last_seen": "2026-11-24",
-    "title": "UGREEN Air モバイルバッテリー 10000mAh 薄型 Qi2 15W MagSafe ケーブル内蔵 iPhone18Pro対応 | 【ATL製セル×難燃技術】マグネット式ワイヤレス充電｜軽量・小型設計｜USB-C PD 30W対応 ｜パススルー充電対応｜ iPhone18 Pro/17/16/15 シリーズ/ Air対応｜PB570｜グレー",
-    "percent_off": 35,
-    "brand": "UGREEN",
-    "genre": "モバイルバッテリー",
-    "price": 5586
-  },
   "B0D53Z4WX3": {
     "first_seen": "2026-10-25",
     "first_seen_at": "2026-10-25T22:14:38+09:00",
@@ -1633,16 +1684,6 @@
     "brand": "Logicool G(ロジクール G)",
     "genre": "キーボード・マウス",
     "price": 4700
-  },
-  "B0BKPR1SPC": {
-    "first_seen": "2026-11-07",
-    "first_seen_at": "2026-11-07T13:16:06+09:00",
-    "last_seen": "2026-11-24",
-    "title": "ロジクール ワイヤレスマウス 静音 無線 高速スクロール Signature M750LGR ラージ グラファイト M750 国内正規品 | 手の大きめな方向け、6ボタン、サイドボタン、電池式（単3形乾電池x1）、Easy-Switch、DPI切り替え、Bluetooth、Logi Bolt、Windows10、Windows11、macOS、iPadOS、Android、ChromeOS",
-    "percent_off": 17,
-    "brand": "Logicool(ロジクール)",
-    "genre": "キーボード・マウス",
-    "price": 4400
   },
   "B0DW2SYD5H": {
     "first_seen": "2026-08-15",
@@ -1803,27 +1844,6 @@
     "brand": "UGREEN",
     "genre": "モバイルバッテリー",
     "price": 5586
-  },
-  "B0C5X8DP5G": {
-    "first_seen": "2026-11-23",
-    "first_seen_at": "2026-11-23T21:13:12+09:00",
-    "last_seen": "2026-11-23",
-    "title": "【Amazon.co.jp限定】 バッファロー microSD 512GB 100MB/s U1 V10 A1 RMSD-512U11HA/N",
-    "percent_off": 28,
-    "brand": "バッファロー",
-    "genre": "SSD・メモリーカード",
-    "price": 15280,
-    "past": [
-      {
-        "first_seen": "2026-10-31",
-        "last_seen": "2026-11-01",
-        "title": "Amazon限定 バッファロー microSD 512GB 100MB/s U1 microSD V10 A1 RMSD-512U11HA/N",
-        "brand": null,
-        "genre": null,
-        "price": null,
-        "percent_off": 28
-      }
-    ]
   },
   "B0CJR82M5M": {
     "first_seen": "2026-08-04",
@@ -2125,16 +2145,6 @@
     "brand": "Anker",
     "genre": "充電器",
     "price": 3290
-  },
-  "B08PTQMZY3": {
-    "first_seen": "2026-10-27",
-    "first_seen_at": "2026-10-27T21:14:38+09:00",
-    "last_seen": "2026-11-21",
-    "title": "KIOXIA(キオクシア) 旧東芝メモリ microSD 64GB UHS-I Class10 (最大読出速度100MB/s) Nintendo Switch動作確認済 国内サポート正規品 メーカー保証5年 KLMEA064G",
-    "percent_off": 28,
-    "brand": "KIOXIA",
-    "genre": "SSD・メモリーカード",
-    "price": 1720
   },
   "B0BWF4JPWS": {
     "first_seen": "2026-10-22",
@@ -2807,16 +2817,6 @@
     "brand": "UGREEN",
     "genre": "充電器",
     "price": 5579
-  },
-  "B0B2QSZRCV": {
-    "first_seen": "2026-09-22",
-    "first_seen_at": "2026-09-22T22:14:54+09:00",
-    "last_seen": "2026-11-18",
-    "title": "Anker 511 Charger (Nano 3, 30W) ブルー | 30W USB-C急速充電器 手のひらサイズでノートPCにも給電。GaN採用で折りたたみ式プラグ搭載。PD PPS対応 MacBook Air iPhone iPad Galaxy Pixel対応 PSE技術基準適合",
-    "percent_off": null,
-    "brand": "Anker",
-    "genre": "充電器",
-    "price": 2790
   },
   "B0GR5MCH7C": {
     "first_seen": "2026-11-18",
