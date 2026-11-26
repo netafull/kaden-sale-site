@@ -30,16 +30,6 @@
     "genre": "Apple製品",
     "price": 18000
   },
-  "B0FQG1QPLW": {
-    "first_seen": "2026-11-27",
-    "first_seen_at": "2026-11-27T00:13:28+09:00",
-    "last_seen": "2026-11-27",
-    "title": "Apple iPhone Air 256GB (SIMフリー) | 最大120HzのProMotionを採用した6.5インチディスプレイ、パワフルなA19 Proチップ、センターフレームフロントカメラ、一日中使えるバッテリー；スカイブルー",
-    "percent_off": 23,
-    "brand": "Apple(アップル)",
-    "genre": "Apple製品",
-    "price": 145900
-  },
   "B0FQFLWSWZ": {
     "first_seen": "2026-11-27",
     "first_seen_at": "2026-11-27T04:13:46+09:00",
@@ -59,6 +49,16 @@
     "brand": "Apple(アップル)",
     "genre": "Apple製品",
     "price": 172900
+  },
+  "B0FQG1QPLW": {
+    "first_seen": "2026-11-27",
+    "first_seen_at": "2026-11-27T00:13:28+09:00",
+    "last_seen": "2026-11-27",
+    "title": "Apple iPhone Air 256GB (SIMフリー) | 最大120HzのProMotionを採用した6.5インチディスプレイ、パワフルなA19 Proチップ、センターフレームフロントカメラ、一日中使えるバッテリー；スカイブルー",
+    "percent_off": 23,
+    "brand": "Apple(アップル)",
+    "genre": "Apple製品",
+    "price": 145900
   },
   "B0FQG5LKM2": {
     "first_seen": "2026-11-27",
@@ -1179,10 +1179,10 @@
     "first_seen_at": "2026-08-16T23:40:53+09:00",
     "last_seen": "2026-11-27",
     "title": "ソニー(SONY) 完全ワイヤレスイヤホン WF-C510 / 軽量小型4.6g / 高精度通話品質/外音取り込み対応/マルチポイント対応 / IPX4防滴性能 / ブラック/WF-C510 BC",
-    "percent_off": 23,
+    "percent_off": 22,
     "brand": "Sony",
     "genre": "ワイヤレスイヤホン",
-    "price": 7600
+    "price": 7718
   },
   "B0GW7WT5SQ": {
     "first_seen": "2026-10-07",
@@ -1213,6 +1213,16 @@
     "brand": "Belkin",
     "genre": "モバイルバッテリー",
     "price": 1612
+  },
+  "B0DW3TKWWN": {
+    "first_seen": "2026-11-27",
+    "first_seen_at": "2026-11-27T05:13:17+09:00",
+    "last_seen": "2026-11-27",
+    "title": "Belkin モバイルバッテリー(20000mAh, 30W, USB-Cケーブル内蔵) 最大20W PD高速充電対応 PPS対応iPhone 17,16～12対応&Androidスマホ対応 2台同時充電 PSE認証 軽量&コンパクト 機内持込可能 アウトドア/災害/緊急用の便利グッズ メーカー保証2年 ブラック BPB024fqBK",
+    "percent_off": 62,
+    "brand": "Belkin",
+    "genre": "モバイルバッテリー",
+    "price": 2276
   },
   "B0FLQ2HL2S": {
     "first_seen": "2026-11-27",
@@ -1464,15 +1474,15 @@
     "genre": "充電器",
     "price": 980
   },
-  "B0BF9ZYCQ5": {
-    "first_seen": "2026-07-31",
-    "first_seen_at": "2026-07-31T12:00:00+09:00",
+  "B0C3ZC4QWG": {
+    "first_seen": "2026-11-27",
+    "first_seen_at": "2026-11-27T01:13:10+09:00",
     "last_seen": "2026-11-27",
-    "title": "【VGP受賞】Belkin 充電器 USB-C 2ポート PPS規格対応 GaN採用 小型 ACアダプター タイプC 急速充電 軽量【PD3.0対応 /PSE認証/折りたたみ式プラグ】45W(25W+20W) MacBook Windows PC Surface Pro iPad iPhone 17,16～12対応 Galaxy Android スマホ 各種ノートPC対応 WCH011dqWH",
-    "percent_off": 55,
+    "title": "Belkin USB充電器 (30W + 30W) 2ポート iPhone17,16～12 PD急速充電対応 WCB010dqWHJP",
+    "percent_off": 51,
     "brand": "Belkin",
     "genre": "充電器",
-    "price": 2188
+    "price": 1692
   },
   "B0CMQK8CMJ": {
     "first_seen": "2026-08-05",
@@ -1514,11 +1524,11 @@
     "genre": "充電器",
     "price": 990
   },
-  "B09CH44769": {
-    "first_seen": "2026-11-04",
-    "first_seen_at": "2026-11-04T01:15:06+09:00",
+  "B09JK9F927": {
+    "first_seen": "2026-11-07",
+    "first_seen_at": "2026-11-07T07:15:07+09:00",
     "last_seen": "2026-11-27",
-    "title": "Anker PowerPort III 3-Port 65W Pod ブラック - 最大65W出力の充電器 / USB-C×2 USB-A×1 | 65W USB-C/Type-C 急速充電器 ノートPCとスマホを3台同時充電。USB-C/Type-C 2ポートとUSB-A1ポート搭載。Anker GaN II採用。MacBook Pro MacBook Air iPad iPhone対応",
+    "title": "Anker PowerPort III 3-Port 65W Pod ホワイト - 最大65W出力の充電器 / USB-C×2 USB-A×1 | 65W USB-C/Type-C 急速充電器 ノートPCとスマホを3台同時充電。USB-C/Type-C 2ポートとUSB-A1ポート搭載。Anker GaN II採用。MacBook Pro MacBook Air iPad iPhone対応",
     "percent_off": 40,
     "brand": "Anker",
     "genre": "充電器",
@@ -1615,6 +1625,16 @@
     "genre": "充電器",
     "price": 1990
   },
+  "B0FH29S7QN": {
+    "first_seen": "2026-11-27",
+    "first_seen_at": "2026-11-27T01:13:10+09:00",
+    "last_seen": "2026-11-27",
+    "title": "Belkin Qi2 25W 3in1 ワイヤレス充電器 iPhone18対応 折りたたみ式充電スタンド MagSafe/急速充電対応 3台同時充電 | MagSafe充電器 Qi2公式認証、最大25W急速充電 パッシブ冷却設計、iPhone18/17〜12、Apple Watch・AirPods対応、折りたたみ可能 持ち運びにも最適 旅行・出張に便利、 2年保証 ブラック",
+    "percent_off": 33,
+    "brand": "Belkin",
+    "genre": "充電器",
+    "price": 10879
+  },
   "B0DBKTPD26": {
     "first_seen": "2026-11-04",
     "first_seen_at": "2026-11-04T00:15:51+09:00",
@@ -1645,16 +1665,6 @@
     "genre": "充電器",
     "price": 2831
   },
-  "B0FK4JGDPG": {
-    "first_seen": "2026-11-27",
-    "first_seen_at": "2026-11-27T06:13:27+09:00",
-    "last_seen": "2026-11-27",
-    "title": "Belkin Qi2 25W 3in1 ワイヤレス充電器 iPhone18対応 折りたたみ式充電スタンド MagSafe/急速充電対応 3台同時充電 | 【アマゾン限定】MagSafe充電器 Qi2公式認証、最大25W急速充電 パッシブ冷却設計、iPhone18/17〜12、Apple Watch・AirPods対応、折りたたみ可能 持ち運びにも最適 旅行・出張に便利、 2年保証 ブラック",
-    "percent_off": 32,
-    "brand": "Belkin",
-    "genre": "充電器",
-    "price": 10879
-  },
   "B0FYFDD1WW": {
     "first_seen": "2026-11-14",
     "first_seen_at": "2026-11-14T01:15:03+09:00",
@@ -1664,6 +1674,16 @@
     "brand": "UGREEN",
     "genre": "充電器",
     "price": 8980
+  },
+  "B0BF43HS1G": {
+    "first_seen": "2026-07-27",
+    "first_seen_at": "2026-07-27T12:00:00+09:00",
+    "last_seen": "2026-11-27",
+    "title": "Anker 523 Charger (Nano 3, 47W) ホワイト - 最大47W・2ポート (USB-C×2) 急速充電器 | 最大47W・USB-C 2ポートでスマホとタブレットを同時に急速充電。小型でもMacBook Airにも対応。USB-C 充電器 急速充電器 47W PD GaN iPhone iPad",
+    "percent_off": 31,
+    "brand": "Anker",
+    "genre": "充電器",
+    "price": 2760
   },
   "B0BF44GF6J": {
     "first_seen": "2026-08-09",
@@ -1807,11 +1827,11 @@
       }
     ]
   },
-  "B0HH8J8Y6F": {
+  "B0HH8XVZPG": {
     "first_seen": "2026-11-27",
-    "first_seen_at": "2026-11-27T00:13:28+09:00",
+    "first_seen_at": "2026-11-27T07:13:41+09:00",
     "last_seen": "2026-11-27",
-    "title": "エレコム 充電器 Type-C 30W USB PD対応 PPS対応 2ポート USB-C×2 急速充電 2台同時充電 GaN スイング式プラグ 小型 PSE認証 iPhone しろちゃん EC-AC13530WF",
+    "title": "エレコム 充電器 Type-C 30W USB PD対応 PPS対応 2ポート USB-C×2 急速充電 2台同時充電 GaN スイング式プラグ 小型 PSE認証 iPhone ホワイト EC-AC13530WH",
     "percent_off": 20,
     "brand": "エレコム(ELECOM)",
     "genre": "充電器",
@@ -1877,11 +1897,11 @@
     "genre": "充電器",
     "price": 1790
   },
-  "B0H329XGNF": {
+  "B0H3281V2P": {
     "first_seen": "2026-11-27",
-    "first_seen_at": "2026-11-27T01:13:10+09:00",
+    "first_seen_at": "2026-11-27T07:13:41+09:00",
     "last_seen": "2026-11-27",
-    "title": "CIO NovaPort SLIM DUOII 65W2C PD急速充電器 USB-C×2 180°スイングプラグ 薄型軽量90g (ブラック) | 急速充電 2ポート 薄型 軽量 PD PPS NovaIntelligence ノートPC iPhone Switch2向け",
+    "title": "CIO NovaPort SLIM DUOII 65W2C PD急速充電器 USB-C×2 180°スイングプラグ 薄型軽90g (ホワイト) | 急速充電 2ポート 薄型 軽量 PD PPS NovaIntelligence ノートPC iPhone Switch2向け",
     "percent_off": 17,
     "brand": "CIO",
     "genre": "充電器",
@@ -1896,16 +1916,6 @@
     "brand": "エレコム(ELECOM)",
     "genre": "充電器",
     "price": 723
-  },
-  "B0CTJDLWV4": {
-    "first_seen": "2026-11-04",
-    "first_seen_at": "2026-11-04T22:14:46+09:00",
-    "last_seen": "2026-11-27",
-    "title": "エレコム 充電器 65W USB PD対応 小型 Type-C 1ポート PPS対応 GaN II採用 PSE認証 ブラック 【iPhone 16 15 iPad Macbook 等対応】 EC-AC8565BK",
-    "percent_off": 16,
-    "brand": "エレコム(ELECOM)",
-    "genre": "充電器",
-    "price": 2090
   },
   "B0FB2F95HY": {
     "first_seen": "2026-11-27",
@@ -1936,16 +1946,6 @@
     "brand": "Belkin",
     "genre": "充電器",
     "price": 1850
-  },
-  "B0B1KKRLTG": {
-    "first_seen": "2026-11-27",
-    "first_seen_at": "2026-11-27T06:13:27+09:00",
-    "last_seen": "2026-11-27",
-    "title": "Belkin 充電器 USB-C 30W PD3.0急速充電 PPS対応 折りたたみ式プラグ iPhone15 / MacBook Air/iPad/iPhone17,16～12/Galaxy Note/Galaxy/Google Pixel対応 BOOST↑CHARGE WCA005dqWH",
-    "percent_off": 15,
-    "brand": "Belkin",
-    "genre": "充電器",
-    "price": 2020
   },
   "B08P45YTTL": {
     "first_seen": "2026-11-04",
@@ -2177,6 +2177,16 @@
     "genre": "スマートウォッチ",
     "price": 42200
   },
+  "B0CJB9C81Z": {
+    "first_seen": "2026-11-27",
+    "first_seen_at": "2026-11-27T04:13:46+09:00",
+    "last_seen": "2026-11-27",
+    "title": "【Suica対応】Fitbit Charge 6 トラッカー ポーセレン／シルバー スマートウォッチ/防水/iPhone対応/アンドロイド対応/最大7日間のバッテリー/GPS搭載/心拍計/睡眠スコア [日本正規品]",
+    "percent_off": 29,
+    "brand": "Fitbit",
+    "genre": "スマートウォッチ",
+    "price": 16800
+  },
   "B0HF4K8JBT": {
     "first_seen": "2026-11-27",
     "first_seen_at": "2026-11-27T01:13:10+09:00",
@@ -2266,16 +2276,6 @@
     "brand": "Xiaomi",
     "genre": "スマートウォッチ",
     "price": 6480
-  },
-  "B0FMDBYSQ9": {
-    "first_seen": "2026-10-17",
-    "first_seen_at": "2026-10-17T05:15:28+09:00",
-    "last_seen": "2026-11-27",
-    "title": "HUAWEI WATCH D2 ウェアラブル血圧計 LCA-B29:ブルー",
-    "percent_off": 20,
-    "brand": "HUAWEI(ファーウェイ)",
-    "genre": "スマートウォッチ",
-    "price": 48000
   },
   "B0DDCR5WYQ": {
     "first_seen": "2026-11-03",
@@ -3296,45 +3296,85 @@
     "genre": "エアフライヤー",
     "price": 17270
   },
-  "B0DW3TKWWN": {
-    "first_seen": "2026-11-27",
-    "first_seen_at": "2026-11-27T05:13:17+09:00",
+  "B0BF9ZYCQ5": {
+    "first_seen": "2026-07-31",
+    "first_seen_at": "2026-07-31T12:00:00+09:00",
     "last_seen": "2026-11-27",
-    "title": "Belkin モバイルバッテリー(20000mAh, 30W, USB-Cケーブル内蔵) 最大20W PD高速充電対応 PPS対応iPhone 17,16～12対応&Androidスマホ対応 2台同時充電 PSE認証 軽量&コンパクト 機内持込可能 アウトドア/災害/緊急用の便利グッズ メーカー保証2年 ブラック BPB024fqBK",
-    "percent_off": 62,
-    "brand": "Belkin",
-    "genre": "モバイルバッテリー",
-    "price": 2276
-  },
-  "B0C3ZC4QWG": {
-    "first_seen": "2026-11-27",
-    "first_seen_at": "2026-11-27T01:13:10+09:00",
-    "last_seen": "2026-11-27",
-    "title": "Belkin USB充電器 (30W + 30W) 2ポート iPhone17,16～12 PD急速充電対応 WCB010dqWHJP",
-    "percent_off": 51,
+    "title": "【VGP受賞】Belkin 充電器 USB-C 2ポート PPS規格対応 GaN採用 小型 ACアダプター タイプC 急速充電 軽量【PD3.0対応 /PSE認証/折りたたみ式プラグ】45W(25W+20W) MacBook Windows PC Surface Pro iPad iPhone 17,16～12対応 Galaxy Android スマホ 各種ノートPC対応 WCH011dqWH",
+    "percent_off": 55,
     "brand": "Belkin",
     "genre": "充電器",
-    "price": 1692
+    "price": 2188
   },
-  "B0FH29S7QN": {
-    "first_seen": "2026-11-27",
-    "first_seen_at": "2026-11-27T01:13:10+09:00",
+  "B09CH44769": {
+    "first_seen": "2026-11-04",
+    "first_seen_at": "2026-11-04T01:15:06+09:00",
     "last_seen": "2026-11-27",
-    "title": "Belkin Qi2 25W 3in1 ワイヤレス充電器 iPhone18対応 折りたたみ式充電スタンド MagSafe/急速充電対応 3台同時充電 | MagSafe充電器 Qi2公式認証、最大25W急速充電 パッシブ冷却設計、iPhone18/17〜12、Apple Watch・AirPods対応、折りたたみ可能 持ち運びにも最適 旅行・出張に便利、 2年保証 ブラック",
-    "percent_off": 33,
+    "title": "Anker PowerPort III 3-Port 65W Pod ブラック - 最大65W出力の充電器 / USB-C×2 USB-A×1 | 65W USB-C/Type-C 急速充電器 ノートPCとスマホを3台同時充電。USB-C/Type-C 2ポートとUSB-A1ポート搭載。Anker GaN II採用。MacBook Pro MacBook Air iPad iPhone対応",
+    "percent_off": 40,
+    "brand": "Anker",
+    "genre": "充電器",
+    "price": 3290
+  },
+  "B0FK4JGDPG": {
+    "first_seen": "2026-11-27",
+    "first_seen_at": "2026-11-27T06:13:27+09:00",
+    "last_seen": "2026-11-27",
+    "title": "Belkin Qi2 25W 3in1 ワイヤレス充電器 iPhone18対応 折りたたみ式充電スタンド MagSafe/急速充電対応 3台同時充電 | 【アマゾン限定】MagSafe充電器 Qi2公式認証、最大25W急速充電 パッシブ冷却設計、iPhone18/17〜12、Apple Watch・AirPods対応、折りたたみ可能 持ち運びにも最適 旅行・出張に便利、 2年保証 ブラック",
+    "percent_off": 32,
     "brand": "Belkin",
     "genre": "充電器",
     "price": 10879
   },
-  "B0CJB9C81Z": {
+  "B0HH8J8Y6F": {
     "first_seen": "2026-11-27",
-    "first_seen_at": "2026-11-27T04:13:46+09:00",
+    "first_seen_at": "2026-11-27T00:13:28+09:00",
     "last_seen": "2026-11-27",
-    "title": "【Suica対応】Fitbit Charge 6 トラッカー ポーセレン／シルバー スマートウォッチ/防水/iPhone対応/アンドロイド対応/最大7日間のバッテリー/GPS搭載/心拍計/睡眠スコア [日本正規品]",
-    "percent_off": 29,
-    "brand": "Fitbit",
+    "title": "エレコム 充電器 Type-C 30W USB PD対応 PPS対応 2ポート USB-C×2 急速充電 2台同時充電 GaN スイング式プラグ 小型 PSE認証 iPhone しろちゃん EC-AC13530WF",
+    "percent_off": 20,
+    "brand": "エレコム(ELECOM)",
+    "genre": "充電器",
+    "price": 1583
+  },
+  "B0H329XGNF": {
+    "first_seen": "2026-11-27",
+    "first_seen_at": "2026-11-27T01:13:10+09:00",
+    "last_seen": "2026-11-27",
+    "title": "CIO NovaPort SLIM DUOII 65W2C PD急速充電器 USB-C×2 180°スイングプラグ 薄型軽量90g (ブラック) | 急速充電 2ポート 薄型 軽量 PD PPS NovaIntelligence ノートPC iPhone Switch2向け",
+    "percent_off": 17,
+    "brand": "CIO",
+    "genre": "充電器",
+    "price": 4980
+  },
+  "B0CTJDLWV4": {
+    "first_seen": "2026-11-04",
+    "first_seen_at": "2026-11-04T22:14:46+09:00",
+    "last_seen": "2026-11-27",
+    "title": "エレコム 充電器 65W USB PD対応 小型 Type-C 1ポート PPS対応 GaN II採用 PSE認証 ブラック 【iPhone 16 15 iPad Macbook 等対応】 EC-AC8565BK",
+    "percent_off": 16,
+    "brand": "エレコム(ELECOM)",
+    "genre": "充電器",
+    "price": 2090
+  },
+  "B0B1KKRLTG": {
+    "first_seen": "2026-11-27",
+    "first_seen_at": "2026-11-27T06:13:27+09:00",
+    "last_seen": "2026-11-27",
+    "title": "Belkin 充電器 USB-C 30W PD3.0急速充電 PPS対応 折りたたみ式プラグ iPhone15 / MacBook Air/iPad/iPhone17,16～12/Galaxy Note/Galaxy/Google Pixel対応 BOOST↑CHARGE WCA005dqWH",
+    "percent_off": 15,
+    "brand": "Belkin",
+    "genre": "充電器",
+    "price": 2020
+  },
+  "B0FMDBYSQ9": {
+    "first_seen": "2026-10-17",
+    "first_seen_at": "2026-10-17T05:15:28+09:00",
+    "last_seen": "2026-11-27",
+    "title": "HUAWEI WATCH D2 ウェアラブル血圧計 LCA-B29:ブルー",
+    "percent_off": 20,
+    "brand": "HUAWEI(ファーウェイ)",
     "genre": "スマートウォッチ",
-    "price": 16800
+    "price": 48000
   },
   "B0DW3J2KV6": {
     "first_seen": "2026-11-27",
@@ -3405,16 +3445,6 @@
     "brand": "Belkin",
     "genre": "充電器",
     "price": 10585
-  },
-  "B0BF43HS1G": {
-    "first_seen": "2026-07-27",
-    "first_seen_at": "2026-07-27T12:00:00+09:00",
-    "last_seen": "2026-11-27",
-    "title": "Anker 523 Charger (Nano 3, 47W) ホワイト | 最大47W・USB-C 2ポートでスマホとタブレットを同時に急速充電。小型でもMacBook Airにも対応。USB-C 充電器 急速充電器 47W PD GaN iPhone iPad",
-    "percent_off": 31,
-    "brand": "Anker",
-    "genre": "充電器",
-    "price": 2760
   },
   "B0GJD2WVRQ": {
     "first_seen": "2026-11-27",
@@ -5298,16 +5328,6 @@
     "brand": "UGREEN",
     "genre": "充電器",
     "price": 1980
-  },
-  "B09JK9F927": {
-    "first_seen": "2026-11-07",
-    "first_seen_at": "2026-11-07T07:15:07+09:00",
-    "last_seen": "2026-11-18",
-    "title": "Anker PowerPort III 3-Port 65W Pod ホワイト | 65W 充電器 USB-C PD【独自技術Anker GaN II採用/PD対応/PSE技術基準適合/折りたたみ式プラグ】MacBook PD対応Windows PC iPad iPhone Galaxy Android",
-    "percent_off": null,
-    "brand": "Anker",
-    "genre": "充電器",
-    "price": 5490
   },
   "B0C9CS34KJ": {
     "first_seen": "2026-09-25",
