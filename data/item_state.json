@@ -1179,10 +1179,10 @@
     "first_seen_at": "2026-08-16T23:40:53+09:00",
     "last_seen": "2026-11-27",
     "title": "ソニー(SONY) 完全ワイヤレスイヤホン WF-C510 / 軽量小型4.6g / 高精度通話品質/外音取り込み対応/マルチポイント対応 / IPX4防滴性能 / ブラック/WF-C510 BC",
-    "percent_off": 22,
+    "percent_off": 23,
     "brand": "Sony",
     "genre": "ワイヤレスイヤホン",
-    "price": 7727
+    "price": 7650
   },
   "B0GW7WT5SQ": {
     "first_seen": "2026-10-07",
@@ -1213,6 +1213,16 @@
     "brand": "Belkin",
     "genre": "モバイルバッテリー",
     "price": 1612
+  },
+  "B0DW3TKWWN": {
+    "first_seen": "2026-11-27",
+    "first_seen_at": "2026-11-27T05:13:17+09:00",
+    "last_seen": "2026-11-27",
+    "title": "Belkin モバイルバッテリー(20000mAh, 30W, USB-Cケーブル内蔵) 最大20W PD高速充電対応 PPS対応iPhone 17,16～12対応&Androidスマホ対応 2台同時充電 PSE認証 軽量&コンパクト 機内持込可能 アウトドア/災害/緊急用の便利グッズ メーカー保証2年 ブラック BPB024fqBK",
+    "percent_off": 62,
+    "brand": "Belkin",
+    "genre": "モバイルバッテリー",
+    "price": 2276
   },
   "B0FLQ2HL2S": {
     "first_seen": "2026-11-27",
@@ -2177,16 +2187,6 @@
     "genre": "スマートウォッチ",
     "price": 42200
   },
-  "B0CJB9C81Z": {
-    "first_seen": "2026-11-27",
-    "first_seen_at": "2026-11-27T04:13:46+09:00",
-    "last_seen": "2026-11-27",
-    "title": "【Suica対応】Fitbit Charge 6 トラッカー ポーセレン／シルバー スマートウォッチ/防水/iPhone対応/アンドロイド対応/最大7日間のバッテリー/GPS搭載/心拍計/睡眠スコア [日本正規品]",
-    "percent_off": 29,
-    "brand": "Fitbit",
-    "genre": "スマートウォッチ",
-    "price": 16800
-  },
   "B0HF4K8JBT": {
     "first_seen": "2026-11-27",
     "first_seen_at": "2026-11-27T01:13:10+09:00",
@@ -2206,6 +2206,16 @@
     "brand": "Xiaomi",
     "genre": "スマートウォッチ",
     "price": 10980
+  },
+  "B0GQLM2HG7": {
+    "first_seen": "2026-11-18",
+    "first_seen_at": "2026-11-18T22:15:10+09:00",
+    "last_seen": "2026-11-27",
+    "title": "Xiaomi Redmi Watch 6 シャオミ スマートウォッチ GPS Bluetooth通話 着信通知 防水 24日間持続 iPhone対応 | 2.07インチ有機EL 2000nits高輝度 薄型軽量 GPS/GNSS搭載 Bluetooth通話対応 録音機能 24日間バッテリー 24時間モニタリング 女性健康管理 スポーツモード ランニング 5ATM防水 水中心拍測定",
+    "percent_off": 26,
+    "brand": "Xiaomi",
+    "genre": "スマートウォッチ",
+    "price": 10981
   },
   "B0GJSCGFTP": {
     "first_seen": "2026-10-13",
@@ -2286,16 +2296,6 @@
     "brand": "ガーミン(GARMIN)",
     "genre": "スマートウォッチ",
     "price": 118000
-  },
-  "B0GQLM2HG7": {
-    "first_seen": "2026-11-18",
-    "first_seen_at": "2026-11-18T22:15:10+09:00",
-    "last_seen": "2026-11-27",
-    "title": "Xiaomi Redmi Watch 6 シャオミ スマートウォッチ GPS Bluetooth通話 着信通知 防水 24日間持続 iPhone対応 | 2.07インチ有機EL 2000nits高輝度 薄型軽量 GPS/GNSS搭載 Bluetooth通話対応 録音機能 24日間バッテリー 24時間モニタリング 女性健康管理 スポーツモード ランニング 5ATM防水 水中心拍測定",
-    "percent_off": 16,
-    "brand": "Xiaomi",
-    "genre": "スマートウォッチ",
-    "price": 12460
   },
   "B0HJH291KS": {
     "first_seen": "2026-11-27",
@@ -2416,6 +2416,16 @@
     "brand": "XREAL",
     "genre": "XR・ARグラス",
     "price": 37380
+  },
+  "B0H4KF6WPW": {
+    "first_seen": "2026-11-27",
+    "first_seen_at": "2026-11-27T01:13:10+09:00",
+    "last_seen": "2026-11-27",
+    "title": "INMO GO3 AIスマートグラス リアルタイム翻訳を眼前に表示 127言語対応 AIアシスタント カメラ搭載ARグラス 軽量設計 会議/スピーチ/海外旅行/ナビゲーション",
+    "percent_off": 16,
+    "brand": "inmo",
+    "genre": "XR・ARグラス",
+    "price": 83900
   },
   "B0GLYFHF71": {
     "first_seen": "2026-11-27",
@@ -3296,6 +3306,16 @@
     "genre": "エアフライヤー",
     "price": 17270
   },
+  "B0CJB9C81Z": {
+    "first_seen": "2026-11-27",
+    "first_seen_at": "2026-11-27T04:13:46+09:00",
+    "last_seen": "2026-11-27",
+    "title": "【Suica対応】Fitbit Charge 6 トラッカー ポーセレン／シルバー スマートウォッチ/防水/iPhone対応/アンドロイド対応/最大7日間のバッテリー/GPS搭載/心拍計/睡眠スコア [日本正規品]",
+    "percent_off": 29,
+    "brand": "Fitbit",
+    "genre": "スマートウォッチ",
+    "price": 16800
+  },
   "B0DW3J2KV6": {
     "first_seen": "2026-11-27",
     "first_seen_at": "2026-11-27T01:13:10+09:00",
@@ -3305,16 +3325,6 @@
     "brand": "Belkin",
     "genre": "モバイルバッテリー",
     "price": 1612
-  },
-  "B0H4KF6WPW": {
-    "first_seen": "2026-11-27",
-    "first_seen_at": "2026-11-27T01:13:10+09:00",
-    "last_seen": "2026-11-27",
-    "title": "INMO GO3 AIスマートグラス リアルタイム翻訳を眼前に表示 127言語対応 AIアシスタント カメラ搭載ARグラス 軽量設計 会議/スピーチ/海外旅行/ナビゲーション",
-    "percent_off": 16,
-    "brand": "inmo",
-    "genre": "XR・ARグラス",
-    "price": 83900
   },
   "B0FLPSS5FS": {
     "first_seen": "2026-11-27",
