@@ -1564,6 +1564,16 @@
     "genre": "充電器",
     "price": 3790
   },
+  "B099ZNTRL5": {
+    "first_seen": "2026-10-23",
+    "first_seen_at": "2026-10-23T21:15:12+09:00",
+    "last_seen": "2026-11-27",
+    "title": "Anker Nano Charger (20W) ホワイト - 最大20W出力 (USB-C/Type-C×1) の充電器 / iPhone対応 | 約45%小型化を実現した手のひらサイズの超コンパクト急速充電器。USB PD対応の最大20W出力でiPhoneやスマホを最大3倍速く充電でき、持ち運びにも最適。USB-C×1 Type-C PSE適合",
+    "percent_off": 41,
+    "brand": "Anker",
+    "genre": "充電器",
+    "price": 990
+  },
   "B09JK9F927": {
     "first_seen": "2026-11-07",
     "first_seen_at": "2026-11-07T07:15:07+09:00",
@@ -1997,6 +2007,16 @@
     "genre": "SSD・メモリーカード",
     "price": 50280
   },
+  "B08PTPTMH5": {
+    "first_seen": "2026-10-13",
+    "first_seen_at": "2026-10-13T09:15:04+09:00",
+    "last_seen": "2026-11-27",
+    "title": "KIOXIA(キオクシア) 旧東芝メモリ microSD 128GB UHS-I Class10 (最大読出速度100MB/s) Nintendo Switch動作確認済 国内サポート正規品 メーカー保証5年 KLMEA128G",
+    "percent_off": 27,
+    "brand": "KIOXIA",
+    "genre": "SSD・メモリーカード",
+    "price": 1945
+  },
   "B0GF26RSYQ": {
     "first_seen": "2026-07-27",
     "first_seen_at": "2026-07-27T12:00:00+09:00",
@@ -2326,6 +2346,16 @@
     "brand": "XREAL",
     "genre": "XR・ARグラス",
     "price": 25190
+  },
+  "B0GQZVG4MD": {
+    "first_seen": "2026-11-10",
+    "first_seen_at": "2026-11-10T15:15:03+09:00",
+    "last_seen": "2026-11-27",
+    "title": "Ray-Ban Meta スマートグラス WAYFARER 調光レンズ IPX4防水トランスP.グレー/サファイア 50mm 0RW4012",
+    "percent_off": 13,
+    "brand": "Meta",
+    "genre": "XR・ARグラス",
+    "price": 77960
   },
   "B0FFT61X6F": {
     "first_seen": "2026-11-04",
@@ -3245,27 +3275,6 @@
     "genre": "キーボード・マウス",
     "price": 9330
   },
-  "B0H33X4142": {
-    "first_seen": "2026-11-27",
-    "first_seen_at": "2026-11-27T09:14:24+09:00",
-    "last_seen": "2026-11-27",
-    "title": "【Amazon.co.jp限定】 Ninja ニンジャ Crispi クリスピー FN100JSTNR 自動調理器 3つの調理モード (クリスプ/ベイク・ロースト/リクリスプ) 煮る 焼く 蒸す 炒める 煮込む 炊く 温風調理 エアフライヤー ノンフライヤー FN100J ベージュ",
-    "percent_off": 28,
-    "brand": "NINJA",
-    "genre": "エアフライヤー",
-    "price": 17800,
-    "past": [
-      {
-        "first_seen": "2026-11-07",
-        "last_seen": "2026-11-12",
-        "title": "【Amazon.co.jp限定】 Ninja ニンジャ Crispi クリスピー FN100JSTNR 自動調理器 3つの調理モード (クリスプ/ベイク・ロースト/リクリスプ) 煮る 焼く 蒸す 炒める 煮込む 炊く 温風調理 エアフライヤー ノンフライヤー FN100J ベージュ",
-        "brand": null,
-        "genre": null,
-        "price": null,
-        "percent_off": 24
-      }
-    ]
-  },
   "B09HB4B15V": {
     "first_seen": "2026-11-27",
     "first_seen_at": "2026-11-27T01:13:10+09:00",
@@ -3307,6 +3316,27 @@
     "genre": "エアフライヤー",
     "price": 17270
   },
+  "B0H33X4142": {
+    "first_seen": "2026-11-27",
+    "first_seen_at": "2026-11-27T09:14:24+09:00",
+    "last_seen": "2026-11-27",
+    "title": "【Amazon.co.jp限定】 Ninja ニンジャ Crispi クリスピー FN100JSTNR 自動調理器 3つの調理モード (クリスプ/ベイク・ロースト/リクリスプ) 煮る 焼く 蒸す 炒める 煮込む 炊く 温風調理 エアフライヤー ノンフライヤー FN100J ベージュ",
+    "percent_off": 28,
+    "brand": "NINJA",
+    "genre": "エアフライヤー",
+    "price": 17800,
+    "past": [
+      {
+        "first_seen": "2026-11-07",
+        "last_seen": "2026-11-12",
+        "title": "【Amazon.co.jp限定】 Ninja ニンジャ Crispi クリスピー FN100JSTNR 自動調理器 3つの調理モード (クリスプ/ベイク・ロースト/リクリスプ) 煮る 焼く 蒸す 炒める 煮込む 炊く 温風調理 エアフライヤー ノンフライヤー FN100J ベージュ",
+        "brand": null,
+        "genre": null,
+        "price": null,
+        "percent_off": 24
+      }
+    ]
+  },
   "B0DW3TKWWN": {
     "first_seen": "2026-11-27",
     "first_seen_at": "2026-11-27T05:13:17+09:00",
@@ -3346,26 +3376,6 @@
     "brand": "スイッチボット(SwitchBot)",
     "genre": "スマートホーム",
     "price": 4650
-  },
-  "B0GQZVG4MD": {
-    "first_seen": "2026-11-10",
-    "first_seen_at": "2026-11-10T15:15:03+09:00",
-    "last_seen": "2026-11-27",
-    "title": "Ray-Ban Meta スマートグラス WAYFARER 調光レンズ IPX4防水トランスP.グレー/サファイア 50mm 0RW4012",
-    "percent_off": 13,
-    "brand": "Meta",
-    "genre": "XR・ARグラス",
-    "price": 77960
-  },
-  "B099ZNTRL5": {
-    "first_seen": "2026-10-23",
-    "first_seen_at": "2026-10-23T21:15:12+09:00",
-    "last_seen": "2026-11-27",
-    "title": "Anker Nano Charger (20W) ホワイト - 最大20W出力 (USB-C/Type-C×1) の充電器 / iPhone対応 | 約45%小型化を実現した手のひらサイズの超コンパクト急速充電器。USB PD対応の最大20W出力でiPhoneやスマホを最大3倍速く充電でき、持ち運びにも最適。USB-C×1 Type-C PSE適合",
-    "percent_off": 41,
-    "brand": "Anker",
-    "genre": "充電器",
-    "price": 990
   },
   "B0BF43HS1G": {
     "first_seen": "2026-07-27",
@@ -5460,16 +5470,6 @@
     "brand": "UGREEN",
     "genre": "充電器",
     "price": 1584
-  },
-  "B08PTPTMH5": {
-    "first_seen": "2026-10-13",
-    "first_seen_at": "2026-10-13T09:15:04+09:00",
-    "last_seen": "2026-11-17",
-    "title": "KIOXIA(キオクシア) 旧東芝メモリ microSD 128GB UHS-I Class10 (最大読出速度100MB/s) Nintendo Switch動作確認済 国内サポート正規品 メーカー保証5年 KLMEA128G",
-    "percent_off": 15,
-    "brand": "KIOXIA",
-    "genre": "SSD・メモリーカード",
-    "price": 2290
   },
   "B0GL17FPP3": {
     "first_seen": "2026-11-04",
