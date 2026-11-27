@@ -9,16 +9,6 @@
     "genre": "Apple製品",
     "price": 18000
   },
-  "B0FQG1QPLW": {
-    "first_seen": "2026-11-27",
-    "first_seen_at": "2026-11-27T00:13:28+09:00",
-    "last_seen": "2026-11-27",
-    "title": "Apple iPhone Air 256GB (SIMフリー) | 最大120HzのProMotionを採用した6.5インチディスプレイ、パワフルなA19 Proチップ、センターフレームフロントカメラ、一日中使えるバッテリー；スカイブルー",
-    "percent_off": 23,
-    "brand": "Apple(アップル)",
-    "genre": "Apple製品",
-    "price": 145900
-  },
   "B0FQFLWSWZ": {
     "first_seen": "2026-11-27",
     "first_seen_at": "2026-11-27T04:13:46+09:00",
@@ -38,6 +28,16 @@
     "brand": "Apple(アップル)",
     "genre": "Apple製品",
     "price": 172900
+  },
+  "B0FQG1QPLW": {
+    "first_seen": "2026-11-27",
+    "first_seen_at": "2026-11-27T00:13:28+09:00",
+    "last_seen": "2026-11-27",
+    "title": "Apple iPhone Air 256GB (SIMフリー) | 最大120HzのProMotionを採用した6.5インチディスプレイ、パワフルなA19 Proチップ、センターフレームフロントカメラ、一日中使えるバッテリー；スカイブルー",
+    "percent_off": 23,
+    "brand": "Apple(アップル)",
+    "genre": "Apple製品",
+    "price": 145900
   },
   "B0FQG5LKM2": {
     "first_seen": "2026-11-27",
@@ -1062,27 +1062,6 @@
     "genre": "Apple製品",
     "price": 89800
   },
-  "B0DZ7WF87P": {
-    "first_seen": "2026-11-22",
-    "first_seen_at": "2026-11-22T04:14:23+09:00",
-    "last_seen": "2026-11-27",
-    "title": "Apple 11 インチ iPad (A16): 11 インチモデル、Liquid Retina ディスプレイ、128GB、Wi-Fi 6、12MP フロント/12MP バックカメラ、Touch ID、一日中使えるバ ッテリー - シルバー",
-    "percent_off": 5,
-    "brand": "Apple(アップル)",
-    "genre": "Apple製品",
-    "price": 71082,
-    "past": [
-      {
-        "first_seen": "2026-10-30",
-        "last_seen": "2026-10-31",
-        "title": "Apple 11 インチ iPad (A16): 11 インチモデル、Liquid Retina ディスプレイ、128GB、Wi-Fi 6、12MP フロント/12MP バックカメラ、Touch ID、一日中使えるバ ッテリー - シルバー",
-        "brand": null,
-        "genre": null,
-        "price": null,
-        "percent_off": 5
-      }
-    ]
-  },
   "B0HJ9VNBZ8": {
     "first_seen": "2026-11-27",
     "first_seen_at": "2026-11-27T00:13:28+09:00",
@@ -1173,15 +1152,15 @@
     "genre": "ワイヤレスイヤホン",
     "price": 4490
   },
-  "B0FRSCXWSV": {
-    "first_seen": "2026-11-27",
-    "first_seen_at": "2026-11-27T13:13:36+09:00",
+  "B0FRSGC73Z": {
+    "first_seen": "2026-11-21",
+    "first_seen_at": "2026-11-21T13:13:27+09:00",
     "last_seen": "2026-11-27",
     "title": "Xiaomi シャオミ REDMI Buds 8 Lite ワイヤレスイヤホン Bluetooth 5.4 ノイズキャンセリング ANC 36時間再生 | iPhone/Android対応 アクティブノイズキャンセリング 外音取り込みモード マルチポイント 12.4mmドライバー 最大36時間再生 急速充電 専用アプリ カスタムEQ 通勤 通学 オンライン会議",
     "percent_off": 24,
     "brand": "Xiaomi",
     "genre": "ワイヤレスイヤホン",
-    "price": 2780
+    "price": 2781
   },
   "B0DDKHF9XY": {
     "first_seen": "2026-08-16",
@@ -1222,16 +1201,6 @@
     "brand": "Belkin",
     "genre": "モバイルバッテリー",
     "price": 1612
-  },
-  "B0DW3TKWWN": {
-    "first_seen": "2026-11-27",
-    "first_seen_at": "2026-11-27T05:13:17+09:00",
-    "last_seen": "2026-11-27",
-    "title": "Belkin モバイルバッテリー(20000mAh, 30W, USB-Cケーブル内蔵) 最大20W PD高速充電対応 PPS対応iPhone 17,16～12対応&Androidスマホ対応 2台同時充電 PSE認証 軽量&コンパクト 機内持込可能 アウトドア/災害/緊急用の便利グッズ メーカー保証2年 ブラック BPB024fqBK",
-    "percent_off": 62,
-    "brand": "Belkin",
-    "genre": "モバイルバッテリー",
-    "price": 2276
   },
   "B0FLQ2HL2S": {
     "first_seen": "2026-11-27",
@@ -1292,6 +1261,16 @@
     "brand": "Anker",
     "genre": "モバイルバッテリー",
     "price": 5990
+  },
+  "B0BVKR5J8F": {
+    "first_seen": "2026-11-23",
+    "first_seen_at": "2026-11-23T14:13:26+09:00",
+    "last_seen": "2026-11-27",
+    "title": "Anker Nano Power Bank (12W, Built-In Lightning Connector) グリーン | モバイルバッテリー 5K 5000mAh 小型 軽量 コンパクト lightning【MFi認証済/PowerIQ搭載/ライトニング端子一体型】 iPhone 14 シリーズ",
+    "percent_off": null,
+    "brand": "Anker",
+    "genre": "モバイルバッテリー",
+    "price": 4490
   },
   "B0F6LBT3ZX": {
     "first_seen": "2026-11-27",
@@ -1492,6 +1471,16 @@
     "brand": "Belkin",
     "genre": "充電器",
     "price": 980
+  },
+  "B0BF9ZYCQ5": {
+    "first_seen": "2026-07-31",
+    "first_seen_at": "2026-07-31T12:00:00+09:00",
+    "last_seen": "2026-11-27",
+    "title": "【VGP受賞】Belkin 充電器 USB-C 2ポート PPS規格対応 GaN採用 小型 ACアダプター タイプC 急速充電 軽量【PD3.0対応 /PSE認証/折りたたみ式プラグ】45W(25W+20W) MacBook Windows PC Surface Pro iPad iPhone 17,16～12対応 Galaxy Android スマホ 各種ノートPC対応 WCH011dqWH",
+    "percent_off": 55,
+    "brand": "Belkin",
+    "genre": "充電器",
+    "price": 2188
   },
   "B0C3ZC4QWG": {
     "first_seen": "2026-11-27",
@@ -1856,11 +1845,11 @@
     "genre": "充電器",
     "price": 1583
   },
-  "B0F43RNTYH": {
+  "B0F43NCQ25": {
     "first_seen": "2026-11-27",
-    "first_seen_at": "2026-11-27T13:13:36+09:00",
+    "first_seen_at": "2026-11-27T00:13:28+09:00",
     "last_seen": "2026-11-27",
-    "title": "エレコム 充電器 100W 3ポート Type-C USB PD対応 スイング式プラグ採用 ブラック EC-AC113100BK",
+    "title": "エレコム 充電器 100W 3ポート Type-C USB-A USB PD対応 スイング式プラグ採用 ブラック EC-AC104100BK",
     "percent_off": 19,
     "brand": "エレコム(ELECOM)",
     "genre": "充電器",
@@ -1916,11 +1905,11 @@
     "genre": "充電器",
     "price": 1790
   },
-  "B0H3281V2P": {
+  "B0H329XGNF": {
     "first_seen": "2026-11-27",
-    "first_seen_at": "2026-11-27T07:13:41+09:00",
+    "first_seen_at": "2026-11-27T01:13:10+09:00",
     "last_seen": "2026-11-27",
-    "title": "CIO NovaPort SLIM DUOII 65W2C PD急速充電器 USB-C×2 180°スイングプラグ 薄型軽90g (ホワイト) | 急速充電 2ポート 薄型 軽量 PD PPS NovaIntelligence ノートPC iPhone Switch2向け",
+    "title": "CIO NovaPort SLIM DUOII 65W2C PD急速充電器 USB-C×2 180°スイングプラグ 薄型軽量90g (ブラック) | 急速充電 2ポート 薄型 軽量 PD PPS NovaIntelligence ノートPC iPhone Switch2向け",
     "percent_off": 17,
     "brand": "CIO",
     "genre": "充電器",
@@ -1996,11 +1985,11 @@
     "genre": "SSD・メモリーカード",
     "price": 1945
   },
-  "B0GF24NN7N": {
-    "first_seen": "2026-10-05",
-    "first_seen_at": "2026-10-05T21:14:52+09:00",
+  "B0GF26RSYQ": {
+    "first_seen": "2026-07-27",
+    "first_seen_at": "2026-07-27T12:00:00+09:00",
     "last_seen": "2026-11-27",
-    "title": "Anker Nano Charger (45W, Display, スイングプラグ) ホワイト - 充電器 最大45W出力 iPhone iPad対応 | 45W USB-C急速充電器 充電状況が見えるディスプレイ搭載。USB-C/Type-C 1ポート。iPhoneのモデルを検知し出力を最適化。180度スイングプラグ採用。iPhone iPad Galaxy MacBook Air対応",
+    "title": "Anker Nano Charger (45W, Display, スイングプラグ) ブラック - 充電器 最大45W出力 iPhone iPad対応 | 45W USB-C急速充電器 充電状況が見えるディスプレイ搭載。USB-C/Type-C 1ポート。iPhoneのモデルを検知し出力を最適化。180度スイングプラグ採用。iPhone iPad Galaxy MacBook Air対応",
     "percent_off": 35,
     "brand": "Anker",
     "genre": "モニター・ディスプレイ",
@@ -2166,16 +2155,6 @@
     "genre": "スマートホーム",
     "price": 5250
   },
-  "B07Y6H32B6": {
-    "first_seen": "2026-11-27",
-    "first_seen_at": "2026-11-27T13:13:36+09:00",
-    "last_seen": "2026-11-27",
-    "title": "SwitchBot 加湿器 超音波式 Alexa 大容量 3.5L 上から給水 6-15畳対応 アロマ対応 静音 スマート家電 空焚き防止 | 除菌フィルター・最大48時間連続稼働・アプリ自動制御・Echo / Google Home / HomePod / Siri対応",
-    "percent_off": 15,
-    "brand": "スイッチボット(SwitchBot)",
-    "genre": "スマートホーム",
-    "price": 5508
-  },
   "B0CR3WTRD4": {
     "first_seen": "2026-11-27",
     "first_seen_at": "2026-11-27T00:13:28+09:00",
@@ -2326,15 +2305,15 @@
     "genre": "スマートウォッチ",
     "price": 46800
   },
-  "B0D876RN9C": {
+  "B0DR2D2Z34": {
     "first_seen": "2026-11-27",
-    "first_seen_at": "2026-11-27T00:13:28+09:00",
+    "first_seen_at": "2026-11-27T14:13:11+09:00",
     "last_seen": "2026-11-27",
-    "title": "XREAL Beam Pro(8+256GB) XREAL ARグラス空間コンピューティングコンパニオン 3Dカメラ Android 14 すべてのGoogle Playストアアプリをサポート 映画、テレビ、ゲームのための3DoF 空間体験 FHD 1080",
+    "title": "XREAL Beam Pro 5G版(8+256GB) XREAL ARグラス空間コンピューティングコンパニオン 3Dカメラ Android 14 すべてのGoogle Playストアアプリをサポート 映画、テレビ、ゲームのための3DoF 空間体験 FHD 1080",
     "percent_off": 30,
     "brand": "XREAL",
     "genre": "XR・ARグラス",
-    "price": 25190
+    "price": 30230
   },
   "B0GQZVG4MD": {
     "first_seen": "2026-11-10",
@@ -2426,16 +2405,6 @@
     "genre": "XR・ARグラス",
     "price": 37380
   },
-  "B0H4KF6WPW": {
-    "first_seen": "2026-11-27",
-    "first_seen_at": "2026-11-27T01:13:10+09:00",
-    "last_seen": "2026-11-27",
-    "title": "INMO GO3 AIスマートグラス リアルタイム翻訳を眼前に表示 127言語対応 AIアシスタント カメラ搭載ARグラス 軽量設計 会議/スピーチ/海外旅行/ナビゲーション",
-    "percent_off": 16,
-    "brand": "inmo",
-    "genre": "XR・ARグラス",
-    "price": 83900
-  },
   "B0GLYFHF71": {
     "first_seen": "2026-11-27",
     "first_seen_at": "2026-11-27T01:13:10+09:00",
@@ -2455,6 +2424,27 @@
     "brand": "RayNeo",
     "genre": "XR・ARグラス",
     "price": 57783
+  },
+  "B0G3YCRJKX": {
+    "first_seen": "2026-11-27",
+    "first_seen_at": "2026-11-27T01:13:10+09:00",
+    "last_seen": "2026-11-27",
+    "title": "Amazon Fire TV Stick HD | 手軽にストリーミングをはじめよう | ストリーミングメディアプレイヤー",
+    "percent_off": 60,
+    "brand": "Amazon",
+    "genre": "Amazonデバイス",
+    "price": 3980,
+    "past": [
+      {
+        "first_seen": "2026-11-04",
+        "last_seen": "2026-11-12",
+        "title": "Amazon Fire TV Stick HD | 手軽にストリーミングをはじめよう | ストリーミングメディアプレイヤー",
+        "brand": null,
+        "genre": null,
+        "price": null,
+        "percent_off": 50
+      }
+    ]
   },
   "B0DKLDS8T7": {
     "first_seen": "2026-11-27",
@@ -2517,27 +2507,6 @@
       }
     ]
   },
-  "B0DVJ64ZLT": {
-    "first_seen": "2026-11-27",
-    "first_seen_at": "2026-11-27T13:13:36+09:00",
-    "last_seen": "2026-11-27",
-    "title": "Amazon Fire TV Stick HD | 手軽にストリーミングをはじめよう | ストリーミングメディアプレイヤー",
-    "percent_off": 43,
-    "brand": "Amazon",
-    "genre": "Amazonデバイス",
-    "price": 3980,
-    "past": [
-      {
-        "first_seen": "2026-11-05",
-        "last_seen": "2026-11-05",
-        "title": "Amazon Fire TV Stick HD | 手軽にストリーミングをはじめよう | ストリーミングメディアプレイヤー",
-        "brand": null,
-        "genre": null,
-        "price": null,
-        "percent_off": 29
-      }
-    ]
-  },
   "B0DYC5NRM7": {
     "first_seen": "2026-11-27",
     "first_seen_at": "2026-11-27T01:13:10+09:00",
@@ -2548,25 +2517,15 @@
     "genre": "Amazonデバイス",
     "price": 23980
   },
-  "B0C2RZWV9B": {
+  "B0C2S4K41G": {
     "first_seen": "2026-11-27",
-    "first_seen_at": "2026-11-27T13:13:36+09:00",
+    "first_seen_at": "2026-11-27T01:13:10+09:00",
     "last_seen": "2026-11-27",
-    "title": "Amazon Echo Spot（2024年発売） - スマートアラームクロック、鮮やかなサウンド、Alexa+ 早期アクセス対象 | グレーシャーホワイト",
+    "title": "Amazon Echo Spot（2024年発売） - スマートアラームクロック、鮮やかなサウンド、Alexa+ 早期アクセス対象 | ブラック",
     "percent_off": 35,
     "brand": "Amazon",
     "genre": "Amazonデバイス",
     "price": 7480
-  },
-  "B0FBH9TGNL": {
-    "first_seen": "2026-11-27",
-    "first_seen_at": "2026-11-27T13:13:36+09:00",
-    "last_seen": "2026-11-27",
-    "title": "Amazon Echo Studio (エコースタジオ) 最新モデル (2026年発売) - 没入感ある空間オーディオ、Dolby Atmos、スマートホームハブ内蔵、Alexa+のための設計 | グレーシャーホワイト",
-    "percent_off": 29,
-    "brand": "Amazon",
-    "genre": "Amazonデバイス",
-    "price": 29980
   },
   "B0CX8MT2M2": {
     "first_seen": "2026-11-04",
@@ -2618,6 +2577,16 @@
     "genre": "Amazonデバイス",
     "price": 26980
   },
+  "B0DXMYB4XN": {
+    "first_seen": "2026-11-27",
+    "first_seen_at": "2026-11-27T00:13:28+09:00",
+    "last_seen": "2026-11-27",
+    "title": "Amazon Echo Studio (エコースタジオ) 最新モデル (2025年発売) - 没入感ある空間オーディオ、Dolby Atmos、スマートホームハブ内蔵、Alexa+のための設計 | グラファイト",
+    "percent_off": 25,
+    "brand": "Amazon",
+    "genre": "Amazonデバイス",
+    "price": 29980
+  },
   "B0CFPL6CFY": {
     "first_seen": "2026-11-27",
     "first_seen_at": "2026-11-27T00:13:28+09:00",
@@ -2668,6 +2637,16 @@
     "genre": "Amazonデバイス",
     "price": 93980
   },
+  "B0FL6ZD3WL": {
+    "first_seen": "2026-07-29",
+    "first_seen_at": "2026-07-29T12:00:00+09:00",
+    "last_seen": "2026-11-27",
+    "title": "エレコム ワイヤレスキーボード Precisionist プレシジョニスト Bluetooth 無線2.4GHz マルチペアリング4台 充電式 薄型パンタグラフ式 フルサイズ ブラック TK-PN10FMPABK",
+    "percent_off": 45,
+    "brand": "エレコム(ELECOM)",
+    "genre": "キーボード・マウス",
+    "price": 4920
+  },
   "B0FL77NZXM": {
     "first_seen": "2026-07-29",
     "first_seen_at": "2026-07-29T12:00:00+09:00",
@@ -2713,10 +2692,10 @@
     "first_seen_at": "2026-11-27T01:13:10+09:00",
     "last_seen": "2026-11-27",
     "title": "【Amazon.co.jp限定】 ロジクール ワイヤレスマウス 無線 マウス M185CG M185 グレー 国内正規品 | 小型、軽量、2.4GHzワイヤレス接続、電池式（単3形乾電池 x 1）、電池寿命最大12ケ月、windows10、11以降、macOS 10.5以降、ChromeOS、Linuxカーネル2.6+以降、Amazon.co.jp限定 壁紙ダウンロード付き",
-    "percent_off": 30,
+    "percent_off": 31,
     "brand": "Logicool(ロジクール)",
     "genre": "キーボード・マウス",
-    "price": 998,
+    "price": 989,
     "past": [
       {
         "first_seen": "2026-10-06",
@@ -2832,16 +2811,6 @@
     "genre": "キーボード・マウス",
     "price": 18980
   },
-  "B0CLGVLBMV": {
-    "first_seen": "2026-08-23",
-    "first_seen_at": "2026-08-23T20:37:59+09:00",
-    "last_seen": "2026-11-27",
-    "title": "Razer ラピッドトリガー 搭載 Huntsman V3 Pro Mini JP ラピッドトリガーと調整可能なアクチュエーション搭載のアナログ ゲーミングキーボード アナログオプティカルスイッチ 調整可能なアクチュエーション 押下圧 40G 日本語配列 ハンツマン ブイスリー プロ ミニ ジェイピー【日本正規代理店保証品】 ブラック",
-    "percent_off": 26,
-    "brand": "Razer(レイザー)",
-    "genre": "キーボード・マウス",
-    "price": 20029
-  },
   "B0GL1B1L6Y": {
     "first_seen": "2026-10-29",
     "first_seen_at": "2026-10-29T23:15:00+09:00",
@@ -2882,6 +2851,16 @@
         "percent_off": 19
       }
     ]
+  },
+  "B0F1FD99K8": {
+    "first_seen": "2026-09-25",
+    "first_seen_at": "2026-09-25T22:14:49+09:00",
+    "last_seen": "2026-11-27",
+    "title": "ラピッドトリガー 搭載 Razer レイザー Huntsman V3 Pro Mini JP (White Edition) ラピッドトリガーと調整可能なアクチュエーション搭載のアナログ ゲーミングキーボード アナログオプティカルスイッチ 調整可能なアクチュエーション 押下圧 40G 日本語配列 ハンツマン ブイスリー プロ ミニ ジェイピー ホワイト エディション【日本正規代理店保証品】",
+    "percent_off": 23,
+    "brand": "Razer(レイザー)",
+    "genre": "キーボード・マウス",
+    "price": 20729
   },
   "B0BWDSC5ZB": {
     "first_seen": "2026-11-27",
@@ -3105,21 +3084,21 @@
     "genre": "キーボード・マウス",
     "price": 33847
   },
-  "B0B3R3PPMK": {
+  "B0B3QHNY7F": {
     "first_seen": "2026-11-27",
-    "first_seen_at": "2026-11-27T13:13:36+09:00",
+    "first_seen_at": "2026-11-27T01:13:10+09:00",
     "last_seen": "2026-11-27",
-    "title": "REALFORCE R3S キーボード 有線 テンキーレス 30g 日本語配列 ブラック R3SC13",
+    "title": "REALFORCE R3S キーボード 有線 フル 45g 日本語配列 ブラック R3SA11",
     "percent_off": 15,
     "brand": "REALFORCE",
     "genre": "キーボード・マウス",
-    "price": 21879
+    "price": 22627
   },
-  "B0DH8B3MB4": {
+  "B0DH88QC5B": {
     "first_seen": "2026-11-27",
-    "first_seen_at": "2026-11-27T00:13:28+09:00",
+    "first_seen_at": "2026-11-27T14:13:11+09:00",
     "last_seen": "2026-11-27",
-    "title": "REALFORCE RC1 キーボード 70% ブラック 日本語配列 キー荷重 45g Bluetooth 有線 バッテリー コンパクト C1HJ11",
+    "title": "REALFORCE RC1 キーボード 70% ブラック 日本語配列 キー荷重 30g Bluetooth 有線 バッテリー コンパクト C1HJ13",
     "percent_off": 15,
     "brand": "REALFORCE",
     "genre": "キーボード・マウス",
@@ -3135,11 +3114,11 @@
     "genre": "キーボード・マウス",
     "price": 20757
   },
-  "B0DNJTKMQR": {
+  "B0DNJQMDSK": {
     "first_seen": "2026-11-27",
-    "first_seen_at": "2026-11-27T00:13:28+09:00",
+    "first_seen_at": "2026-11-27T14:13:11+09:00",
     "last_seen": "2026-11-27",
-    "title": "REALFORCE RT1 テンキーボード ホワイト キー荷重 45g 有線 プログラマブル テンキー 静電容量無接点方式 左手デバイス 片手デバイス T1UX21",
+    "title": "REALFORCE RT1 テンキーボード ブラック キー荷重 45g 有線 プログラマブル テンキー 静電容量無接点方式 左手デバイス 片手デバイス T1UX11",
     "percent_off": 15,
     "brand": "REALFORCE",
     "genre": "キーボード・マウス",
@@ -3190,6 +3169,16 @@
     "first_seen_at": "2026-11-27T01:13:10+09:00",
     "last_seen": "2026-11-27",
     "title": "REALFORCE RC1 キーボード 70% ホワイト 英語配列 キー荷重 30g Bluetooth 有線 バッテリー コンパクト C1HK23",
+    "percent_off": 15,
+    "brand": "REALFORCE",
+    "genre": "キーボード・マウス",
+    "price": 32538
+  },
+  "B0DH8B3MB4": {
+    "first_seen": "2026-11-27",
+    "first_seen_at": "2026-11-27T00:13:28+09:00",
+    "last_seen": "2026-11-27",
+    "title": "REALFORCE RC1 キーボード 70% ブラック 日本語配列 キー荷重 45g Bluetooth 有線 バッテリー コンパクト C1HJ11",
     "percent_off": 15,
     "brand": "REALFORCE",
     "genre": "キーボード・マウス",
@@ -3337,6 +3326,178 @@
     "genre": "エアフライヤー",
     "price": 17270
   },
+  "B0DZ7WF87P": {
+    "first_seen": "2026-11-22",
+    "first_seen_at": "2026-11-22T04:14:23+09:00",
+    "last_seen": "2026-11-27",
+    "title": "Apple 11 インチ iPad (A16): 11 インチモデル、Liquid Retina ディスプレイ、128GB、Wi-Fi 6、12MP フロント/12MP バックカメラ、Touch ID、一日中使えるバ ッテリー - シルバー",
+    "percent_off": 5,
+    "brand": "Apple(アップル)",
+    "genre": "Apple製品",
+    "price": 71082,
+    "past": [
+      {
+        "first_seen": "2026-10-30",
+        "last_seen": "2026-10-31",
+        "title": "Apple 11 インチ iPad (A16): 11 インチモデル、Liquid Retina ディスプレイ、128GB、Wi-Fi 6、12MP フロント/12MP バックカメラ、Touch ID、一日中使えるバ ッテリー - シルバー",
+        "brand": null,
+        "genre": null,
+        "price": null,
+        "percent_off": 5
+      }
+    ]
+  },
+  "B0FRSCXWSV": {
+    "first_seen": "2026-11-27",
+    "first_seen_at": "2026-11-27T13:13:36+09:00",
+    "last_seen": "2026-11-27",
+    "title": "Xiaomi シャオミ REDMI Buds 8 Lite ワイヤレスイヤホン Bluetooth 5.4 ノイズキャンセリング ANC 36時間再生 | iPhone/Android対応 アクティブノイズキャンセリング 外音取り込みモード マルチポイント 12.4mmドライバー 最大36時間再生 急速充電 専用アプリ カスタムEQ 通勤 通学 オンライン会議",
+    "percent_off": 24,
+    "brand": "Xiaomi",
+    "genre": "ワイヤレスイヤホン",
+    "price": 2780
+  },
+  "B0DW3TKWWN": {
+    "first_seen": "2026-11-27",
+    "first_seen_at": "2026-11-27T05:13:17+09:00",
+    "last_seen": "2026-11-27",
+    "title": "Belkin モバイルバッテリー(20000mAh, 30W, USB-Cケーブル内蔵) 最大20W PD高速充電対応 PPS対応iPhone 17,16～12対応&Androidスマホ対応 2台同時充電 PSE認証 軽量&コンパクト 機内持込可能 アウトドア/災害/緊急用の便利グッズ メーカー保証2年 ブラック BPB024fqBK",
+    "percent_off": 62,
+    "brand": "Belkin",
+    "genre": "モバイルバッテリー",
+    "price": 2276
+  },
+  "B0F43RNTYH": {
+    "first_seen": "2026-11-27",
+    "first_seen_at": "2026-11-27T13:13:36+09:00",
+    "last_seen": "2026-11-27",
+    "title": "エレコム 充電器 100W 3ポート Type-C USB PD対応 スイング式プラグ採用 ブラック EC-AC113100BK",
+    "percent_off": 19,
+    "brand": "エレコム(ELECOM)",
+    "genre": "充電器",
+    "price": 4445
+  },
+  "B0H3281V2P": {
+    "first_seen": "2026-11-27",
+    "first_seen_at": "2026-11-27T07:13:41+09:00",
+    "last_seen": "2026-11-27",
+    "title": "CIO NovaPort SLIM DUOII 65W2C PD急速充電器 USB-C×2 180°スイングプラグ 薄型軽90g (ホワイト) | 急速充電 2ポート 薄型 軽量 PD PPS NovaIntelligence ノートPC iPhone Switch2向け",
+    "percent_off": 17,
+    "brand": "CIO",
+    "genre": "充電器",
+    "price": 4980
+  },
+  "B0GF24NN7N": {
+    "first_seen": "2026-10-05",
+    "first_seen_at": "2026-10-05T21:14:52+09:00",
+    "last_seen": "2026-11-27",
+    "title": "Anker Nano Charger (45W, Display, スイングプラグ) ホワイト - 充電器 最大45W出力 iPhone iPad対応 | 45W USB-C急速充電器 充電状況が見えるディスプレイ搭載。USB-C/Type-C 1ポート。iPhoneのモデルを検知し出力を最適化。180度スイングプラグ採用。iPhone iPad Galaxy MacBook Air対応",
+    "percent_off": 35,
+    "brand": "Anker",
+    "genre": "モニター・ディスプレイ",
+    "price": 2590
+  },
+  "B07Y6H32B6": {
+    "first_seen": "2026-11-27",
+    "first_seen_at": "2026-11-27T13:13:36+09:00",
+    "last_seen": "2026-11-27",
+    "title": "SwitchBot 加湿器 超音波式 Alexa 大容量 3.5L 上から給水 6-15畳対応 アロマ対応 静音 スマート家電 空焚き防止 | 除菌フィルター・最大48時間連続稼働・アプリ自動制御・Echo / Google Home / HomePod / Siri対応",
+    "percent_off": 15,
+    "brand": "スイッチボット(SwitchBot)",
+    "genre": "スマートホーム",
+    "price": 5508
+  },
+  "B0D876RN9C": {
+    "first_seen": "2026-11-27",
+    "first_seen_at": "2026-11-27T00:13:28+09:00",
+    "last_seen": "2026-11-27",
+    "title": "XREAL Beam Pro(8+256GB) XREAL ARグラス空間コンピューティングコンパニオン 3Dカメラ Android 14 すべてのGoogle Playストアアプリをサポート 映画、テレビ、ゲームのための3DoF 空間体験 FHD 1080",
+    "percent_off": 30,
+    "brand": "XREAL",
+    "genre": "XR・ARグラス",
+    "price": 25190
+  },
+  "B0H4KF6WPW": {
+    "first_seen": "2026-11-27",
+    "first_seen_at": "2026-11-27T01:13:10+09:00",
+    "last_seen": "2026-11-27",
+    "title": "INMO GO3 AIスマートグラス リアルタイム翻訳を眼前に表示 127言語対応 AIアシスタント カメラ搭載ARグラス 軽量設計 会議/スピーチ/海外旅行/ナビゲーション",
+    "percent_off": 16,
+    "brand": "inmo",
+    "genre": "XR・ARグラス",
+    "price": 83900
+  },
+  "B0DVJ64ZLT": {
+    "first_seen": "2026-11-27",
+    "first_seen_at": "2026-11-27T13:13:36+09:00",
+    "last_seen": "2026-11-27",
+    "title": "Amazon Fire TV Stick HD | 手軽にストリーミングをはじめよう | ストリーミングメディアプレイヤー",
+    "percent_off": 43,
+    "brand": "Amazon",
+    "genre": "Amazonデバイス",
+    "price": 3980,
+    "past": [
+      {
+        "first_seen": "2026-11-05",
+        "last_seen": "2026-11-05",
+        "title": "Amazon Fire TV Stick HD | 手軽にストリーミングをはじめよう | ストリーミングメディアプレイヤー",
+        "brand": null,
+        "genre": null,
+        "price": null,
+        "percent_off": 29
+      }
+    ]
+  },
+  "B0C2RZWV9B": {
+    "first_seen": "2026-11-27",
+    "first_seen_at": "2026-11-27T13:13:36+09:00",
+    "last_seen": "2026-11-27",
+    "title": "Amazon Echo Spot（2024年発売） - スマートアラームクロック、鮮やかなサウンド、Alexa+ 早期アクセス対象 | グレーシャーホワイト",
+    "percent_off": 35,
+    "brand": "Amazon",
+    "genre": "Amazonデバイス",
+    "price": 7480
+  },
+  "B0FBH9TGNL": {
+    "first_seen": "2026-11-27",
+    "first_seen_at": "2026-11-27T13:13:36+09:00",
+    "last_seen": "2026-11-27",
+    "title": "Amazon Echo Studio (エコースタジオ) 最新モデル (2026年発売) - 没入感ある空間オーディオ、Dolby Atmos、スマートホームハブ内蔵、Alexa+のための設計 | グレーシャーホワイト",
+    "percent_off": 29,
+    "brand": "Amazon",
+    "genre": "Amazonデバイス",
+    "price": 29980
+  },
+  "B0CLGVLBMV": {
+    "first_seen": "2026-08-23",
+    "first_seen_at": "2026-08-23T20:37:59+09:00",
+    "last_seen": "2026-11-27",
+    "title": "Razer ラピッドトリガー 搭載 Huntsman V3 Pro Mini JP ラピッドトリガーと調整可能なアクチュエーション搭載のアナログ ゲーミングキーボード アナログオプティカルスイッチ 調整可能なアクチュエーション 押下圧 40G 日本語配列 ハンツマン ブイスリー プロ ミニ ジェイピー【日本正規代理店保証品】 ブラック",
+    "percent_off": 26,
+    "brand": "Razer(レイザー)",
+    "genre": "キーボード・マウス",
+    "price": 20029
+  },
+  "B0B3R3PPMK": {
+    "first_seen": "2026-11-27",
+    "first_seen_at": "2026-11-27T13:13:36+09:00",
+    "last_seen": "2026-11-27",
+    "title": "REALFORCE R3S キーボード 有線 テンキーレス 30g 日本語配列 ブラック R3SC13",
+    "percent_off": 15,
+    "brand": "REALFORCE",
+    "genre": "キーボード・マウス",
+    "price": 21879
+  },
+  "B0DNJTKMQR": {
+    "first_seen": "2026-11-27",
+    "first_seen_at": "2026-11-27T00:13:28+09:00",
+    "last_seen": "2026-11-27",
+    "title": "REALFORCE RT1 テンキーボード ホワイト キー荷重 45g 有線 プログラマブル テンキー 静電容量無接点方式 左手デバイス 片手デバイス T1UX21",
+    "percent_off": 15,
+    "brand": "REALFORCE",
+    "genre": "キーボード・マウス",
+    "price": 11968
+  },
   "B0FWDFGWTT": {
     "first_seen": "2026-11-24",
     "first_seen_at": "2026-11-24T13:13:28+09:00",
@@ -3357,16 +3518,6 @@
         "percent_off": 23
       }
     ]
-  },
-  "B0FRSGC73Z": {
-    "first_seen": "2026-11-21",
-    "first_seen_at": "2026-11-21T13:13:27+09:00",
-    "last_seen": "2026-11-27",
-    "title": "Xiaomi シャオミ REDMI Buds 8 Lite ワイヤレスイヤホン Bluetooth 5.4 ノイズキャンセリング ANC 36時間再生 | iPhone/Android対応 アクティブノイズキャンセリング 外音取り込みモード マルチポイント 12.4mmドライバー 最大36時間再生 急速充電 専用アプリ カスタムEQ 通勤 通学 オンライン会議",
-    "percent_off": 24,
-    "brand": "Xiaomi",
-    "genre": "ワイヤレスイヤホン",
-    "price": 2781
   },
   "B0H1BYKWRV": {
     "first_seen": "2026-11-27",
@@ -3398,16 +3549,6 @@
     "genre": "モバイルバッテリー",
     "price": 4250
   },
-  "B0BF9ZYCQ5": {
-    "first_seen": "2026-07-31",
-    "first_seen_at": "2026-07-31T12:00:00+09:00",
-    "last_seen": "2026-11-27",
-    "title": "【VGP受賞】Belkin 充電器 USB-C 2ポート PPS規格対応 GaN採用 小型 ACアダプター タイプC 急速充電 軽量【PD3.0対応 /PSE認証/折りたたみ式プラグ】45W(25W+20W) MacBook Windows PC Surface Pro iPad iPhone 17,16～12対応 Galaxy Android スマホ 各種ノートPC対応 WCH011dqWH",
-    "percent_off": 55,
-    "brand": "Belkin",
-    "genre": "充電器",
-    "price": 2188
-  },
   "B0D53VJJ7F": {
     "first_seen": "2026-07-28",
     "first_seen_at": "2026-07-28T12:00:00+09:00",
@@ -3438,36 +3579,6 @@
     "genre": "充電器",
     "price": 1583
   },
-  "B0F43NCQ25": {
-    "first_seen": "2026-11-27",
-    "first_seen_at": "2026-11-27T00:13:28+09:00",
-    "last_seen": "2026-11-27",
-    "title": "エレコム 充電器 100W 3ポート Type-C USB-A USB PD対応 スイング式プラグ採用 ブラック EC-AC104100BK",
-    "percent_off": 19,
-    "brand": "エレコム(ELECOM)",
-    "genre": "充電器",
-    "price": 4445
-  },
-  "B0H329XGNF": {
-    "first_seen": "2026-11-27",
-    "first_seen_at": "2026-11-27T01:13:10+09:00",
-    "last_seen": "2026-11-27",
-    "title": "CIO NovaPort SLIM DUOII 65W2C PD急速充電器 USB-C×2 180°スイングプラグ 薄型軽量90g (ブラック) | 急速充電 2ポート 薄型 軽量 PD PPS NovaIntelligence ノートPC iPhone Switch2向け",
-    "percent_off": 17,
-    "brand": "CIO",
-    "genre": "充電器",
-    "price": 4980
-  },
-  "B0GF26RSYQ": {
-    "first_seen": "2026-07-27",
-    "first_seen_at": "2026-07-27T12:00:00+09:00",
-    "last_seen": "2026-11-27",
-    "title": "Anker Nano Charger (45W, Display, スイングプラグ) ブラック - 充電器 最大45W出力 iPhone iPad対応 | 45W USB-C急速充電器 充電状況が見えるディスプレイ搭載。USB-C/Type-C 1ポート。iPhoneのモデルを検知し出力を最適化。180度スイングプラグ採用。iPhone iPad Galaxy MacBook Air対応",
-    "percent_off": 35,
-    "brand": "Anker",
-    "genre": "モニター・ディスプレイ",
-    "price": 2590
-  },
   "B09DGBYQD4": {
     "first_seen": "2026-11-27",
     "first_seen_at": "2026-11-27T00:13:28+09:00",
@@ -3477,27 +3588,6 @@
     "brand": "スイッチボット(SwitchBot)",
     "genre": "スマートホーム",
     "price": 1584
-  },
-  "B0G3YCRJKX": {
-    "first_seen": "2026-11-27",
-    "first_seen_at": "2026-11-27T01:13:10+09:00",
-    "last_seen": "2026-11-27",
-    "title": "Amazon Fire TV Stick HD | 手軽にストリーミングをはじめよう | ストリーミングメディアプレイヤー",
-    "percent_off": 60,
-    "brand": "Amazon",
-    "genre": "Amazonデバイス",
-    "price": 3980,
-    "past": [
-      {
-        "first_seen": "2026-11-04",
-        "last_seen": "2026-11-12",
-        "title": "Amazon Fire TV Stick HD | 手軽にストリーミングをはじめよう | ストリーミングメディアプレイヤー",
-        "brand": null,
-        "genre": null,
-        "price": null,
-        "percent_off": 50
-      }
-    ]
   },
   "B09B2RLPLV": {
     "first_seen": "2026-11-27",
@@ -3519,16 +3609,6 @@
     "genre": "Amazonデバイス",
     "price": 8980
   },
-  "B0C2S4K41G": {
-    "first_seen": "2026-11-27",
-    "first_seen_at": "2026-11-27T01:13:10+09:00",
-    "last_seen": "2026-11-27",
-    "title": "Amazon Echo Spot（2024年発売） - スマートアラームクロック、鮮やかなサウンド、Alexa+ 早期アクセス対象 | ブラック",
-    "percent_off": 35,
-    "brand": "Amazon",
-    "genre": "Amazonデバイス",
-    "price": 7480
-  },
   "B0GFY9GN5Y": {
     "first_seen": "2026-11-27",
     "first_seen_at": "2026-11-27T00:13:28+09:00",
@@ -3538,36 +3618,6 @@
     "brand": "Amazon",
     "genre": "Amazonデバイス",
     "price": 26980
-  },
-  "B0DXMYB4XN": {
-    "first_seen": "2026-11-27",
-    "first_seen_at": "2026-11-27T00:13:28+09:00",
-    "last_seen": "2026-11-27",
-    "title": "Amazon Echo Studio (エコースタジオ) 最新モデル (2025年発売) - 没入感ある空間オーディオ、Dolby Atmos、スマートホームハブ内蔵、Alexa+のための設計 | グラファイト",
-    "percent_off": 25,
-    "brand": "Amazon",
-    "genre": "Amazonデバイス",
-    "price": 29980
-  },
-  "B0FL6ZD3WL": {
-    "first_seen": "2026-07-29",
-    "first_seen_at": "2026-07-29T12:00:00+09:00",
-    "last_seen": "2026-11-27",
-    "title": "エレコム ワイヤレスキーボード Precisionist プレシジョニスト Bluetooth 無線2.4GHz マルチペアリング4台 充電式 薄型パンタグラフ式 フルサイズ ブラック TK-PN10FMPABK",
-    "percent_off": 45,
-    "brand": "エレコム(ELECOM)",
-    "genre": "キーボード・マウス",
-    "price": 4920
-  },
-  "B0B3QHNY7F": {
-    "first_seen": "2026-11-27",
-    "first_seen_at": "2026-11-27T01:13:10+09:00",
-    "last_seen": "2026-11-27",
-    "title": "REALFORCE R3S キーボード 有線 フル 45g 日本語配列 ブラック R3SA11",
-    "percent_off": 15,
-    "brand": "REALFORCE",
-    "genre": "キーボード・マウス",
-    "price": 22627
   },
   "B0HJWCJCL2": {
     "first_seen": "2026-11-22",
@@ -4197,16 +4247,6 @@
     "genre": "エアフライヤー",
     "price": 18000
   },
-  "B0F1FD99K8": {
-    "first_seen": "2026-09-25",
-    "first_seen_at": "2026-09-25T22:14:49+09:00",
-    "last_seen": "2026-11-26",
-    "title": "ラピッドトリガー 搭載 Razer レイザー Huntsman V3 Pro Mini JP (White Edition) ラピッドトリガーと調整可能なアクチュエーション搭載のアナログ ゲーミングキーボード アナログオプティカルスイッチ 調整可能なアクチュエーション 押下圧 40G 日本語配列 ハンツマン ブイスリー プロ ミニ ジェイピー ホワイト エディション【日本正規代理店保証品】",
-    "percent_off": 23,
-    "brand": "Razer(レイザー)",
-    "genre": "キーボード・マウス",
-    "price": 20729
-  },
   "B0CJR5HBMN": {
     "first_seen": "2026-08-04",
     "first_seen_at": "2026-08-04T21:17:38+09:00",
@@ -4568,16 +4608,6 @@
     "brand": "Anker",
     "genre": "モバイルバッテリー",
     "price": 7990
-  },
-  "B0BVKR5J8F": {
-    "first_seen": "2026-11-23",
-    "first_seen_at": "2026-11-23T14:13:26+09:00",
-    "last_seen": "2026-11-24",
-    "title": "Anker Nano Power Bank (12W, Built-In Lightning Connector) グリーン | モバイルバッテリー 5K 5000mAh 小型 軽量 コンパクト lightning【MFi認証済/PowerIQ搭載/ライトニング端子一体型】 iPhone 14 シリーズ",
-    "percent_off": null,
-    "brand": "Anker",
-    "genre": "モバイルバッテリー",
-    "price": 4490
   },
   "B0DGJL1BBJ": {
     "first_seen": "2026-11-17",
