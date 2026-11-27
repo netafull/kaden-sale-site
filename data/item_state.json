@@ -139,6 +139,16 @@
     "genre": "Apple製品",
     "price": 4649
   },
+  "B0GJTXZHDX": {
+    "first_seen": "2026-08-07",
+    "first_seen_at": "2026-08-07T09:18:51+09:00",
+    "last_seen": "2026-11-27",
+    "title": "Apple AirTag 4個入り（第2世代）：紛失防止タグ、音で探せる、耐水 防塵 iPhone/iPad「探す」ネットワーク対応 、探せる範囲が最大1.5 倍に広がった「正確な場所を見つける」機能搭載",
+    "percent_off": 15,
+    "brand": "Apple(アップル)",
+    "genre": "Apple製品",
+    "price": 15639
+  },
   "B0HJB1CR9Q": {
     "first_seen": "2026-11-27",
     "first_seen_at": "2026-11-27T00:13:28+09:00",
@@ -194,16 +204,6 @@
     "first_seen_at": "2026-11-21T00:15:28+09:00",
     "last_seen": "2026-11-27",
     "title": "Apple Watch Series 12（GPSモデル） | 42mmスペースグレイアルミニウムケースとネイビーブルースポーツバンド - M/L。健康 + フィットネス + 睡眠記録、心拍数、安全",
-    "percent_off": 15,
-    "brand": "Apple(アップル)",
-    "genre": "Apple製品",
-    "price": 61000
-  },
-  "B0HJB11VYX": {
-    "first_seen": "2026-11-21",
-    "first_seen_at": "2026-11-21T11:13:11+09:00",
-    "last_seen": "2026-11-27",
-    "title": "Apple Watch Series 12（GPSモデル） | 42mmダークブロンズアルミニウムケースとオリーブスポーツバンド - M/L。健康 + フィットネス + 睡眠記録、心拍数、安全",
     "percent_off": 15,
     "brand": "Apple(アップル)",
     "genre": "Apple製品",
@@ -1061,6 +1061,27 @@
     "brand": "Apple(アップル)",
     "genre": "Apple製品",
     "price": 89800
+  },
+  "B0DZ7WF87P": {
+    "first_seen": "2026-11-22",
+    "first_seen_at": "2026-11-22T04:14:23+09:00",
+    "last_seen": "2026-11-27",
+    "title": "Apple 11 インチ iPad (A16): 11 インチモデル、Liquid Retina ディスプレイ、128GB、Wi-Fi 6、12MP フロント/12MP バックカメラ、Touch ID、一日中使えるバ ッテリー - シルバー",
+    "percent_off": 5,
+    "brand": "Apple(アップル)",
+    "genre": "Apple製品",
+    "price": 71082,
+    "past": [
+      {
+        "first_seen": "2026-10-30",
+        "last_seen": "2026-10-31",
+        "title": "Apple 11 インチ iPad (A16): 11 インチモデル、Liquid Retina ディスプレイ、128GB、Wi-Fi 6、12MP フロント/12MP バックカメラ、Touch ID、一日中使えるバ ッテリー - シルバー",
+        "brand": null,
+        "genre": null,
+        "price": null,
+        "percent_off": 5
+      }
+    ]
   },
   "B0HJ9VNBZ8": {
     "first_seen": "2026-11-27",
@@ -1936,11 +1957,11 @@
     "genre": "充電器",
     "price": 1790
   },
-  "B0H329XGNF": {
+  "B0H3281V2P": {
     "first_seen": "2026-11-27",
-    "first_seen_at": "2026-11-27T01:13:10+09:00",
+    "first_seen_at": "2026-11-27T07:13:41+09:00",
     "last_seen": "2026-11-27",
-    "title": "CIO NovaPort SLIM DUOII 65W2C PD急速充電器 USB-C×2 180°スイングプラグ 薄型軽量90g (ブラック) | 急速充電 2ポート 薄型 軽量 PD PPS NovaIntelligence ノートPC iPhone Switch2向け",
+    "title": "CIO NovaPort SLIM DUOII 65W2C PD急速充電器 USB-C×2 180°スイングプラグ 薄型軽90g (ホワイト) | 急速充電 2ポート 薄型 軽量 PD PPS NovaIntelligence ノートPC iPhone Switch2向け",
     "percent_off": 17,
     "brand": "CIO",
     "genre": "充電器",
@@ -2130,7 +2151,7 @@
     "first_seen": "2026-07-30",
     "first_seen_at": "2026-07-30T12:00:00+09:00",
     "last_seen": "2026-11-27",
-    "title": "SwitchBot スイッチボット スイッチ ボタンに適用 指ロボット スマートスイッチ スマートホーム ワイヤレス タイマー スマホで遠隔操作 Alexa, Google Home, Siri, IFTTTなどに対応(ハブ必要) ホワイト",
+    "title": "SwitchBot スイッチボット スイッチ ボタンに適用 指ロボット スマートホーム ワイヤレス タイマー スマホで遠隔操作 ホワイト 工事不要 | 寒い夜も布団の中からスマホで消灯/工事不要で壁スイッチに後付け/一人暮らし 便利グッズ/Alexa・Google Home・Siriショートカット・IFTTT対応（別売のSwitchBotハブが必要）",
     "percent_off": 24,
     "brand": "スイッチボット(SwitchBot)",
     "genre": "スマートホーム",
@@ -3010,10 +3031,10 @@
     "first_seen_at": "2026-11-22T20:13:11+09:00",
     "last_seen": "2026-11-27",
     "title": "エレコム ワイヤレスキーボード TK-FDM110TKBK 薄型 メンブレン式 抗菌 テンキー付 ブラック",
-    "percent_off": 19,
+    "percent_off": 20,
     "brand": "エレコム(ELECOM)",
     "genre": "キーボード・マウス",
-    "price": 1636
+    "price": 1600
   },
   "B0DPF33WVV": {
     "first_seen": "2026-09-17",
@@ -3164,16 +3185,6 @@
     "brand": "REALFORCE",
     "genre": "キーボード・マウス",
     "price": 20757
-  },
-  "B0DNJQMDSK": {
-    "first_seen": "2026-11-27",
-    "first_seen_at": "2026-11-27T14:13:11+09:00",
-    "last_seen": "2026-11-27",
-    "title": "REALFORCE RT1 テンキーボード ブラック キー荷重 45g 有線 プログラマブル テンキー 静電容量無接点方式 左手デバイス 片手デバイス T1UX11",
-    "percent_off": 15,
-    "brand": "REALFORCE",
-    "genre": "キーボード・マウス",
-    "price": 11968
   },
   "B0B3QG8B45": {
     "first_seen": "2026-11-27",
@@ -3356,6 +3367,36 @@
     "genre": "エアフライヤー",
     "price": 17270
   },
+  "B0HJB11VYX": {
+    "first_seen": "2026-11-21",
+    "first_seen_at": "2026-11-21T11:13:11+09:00",
+    "last_seen": "2026-11-27",
+    "title": "Apple Watch Series 12（GPSモデル） | 42mmダークブロンズアルミニウムケースとオリーブスポーツバンド - M/L。健康 + フィットネス + 睡眠記録、心拍数、安全",
+    "percent_off": 15,
+    "brand": "Apple(アップル)",
+    "genre": "Apple製品",
+    "price": 61000
+  },
+  "B0H329XGNF": {
+    "first_seen": "2026-11-27",
+    "first_seen_at": "2026-11-27T01:13:10+09:00",
+    "last_seen": "2026-11-27",
+    "title": "CIO NovaPort SLIM DUOII 65W2C PD急速充電器 USB-C×2 180°スイングプラグ 薄型軽量90g (ブラック) | 急速充電 2ポート 薄型 軽量 PD PPS NovaIntelligence ノートPC iPhone Switch2向け",
+    "percent_off": 17,
+    "brand": "CIO",
+    "genre": "充電器",
+    "price": 4980
+  },
+  "B0DNJQMDSK": {
+    "first_seen": "2026-11-27",
+    "first_seen_at": "2026-11-27T14:13:11+09:00",
+    "last_seen": "2026-11-27",
+    "title": "REALFORCE RT1 テンキーボード ブラック キー荷重 45g 有線 プログラマブル テンキー 静電容量無接点方式 左手デバイス 片手デバイス T1UX11",
+    "percent_off": 15,
+    "brand": "REALFORCE",
+    "genre": "キーボード・マウス",
+    "price": 11968
+  },
   "B0FQG2HWLF": {
     "first_seen": "2026-10-28",
     "first_seen_at": "2026-10-28T13:16:03+09:00",
@@ -3426,16 +3467,6 @@
     "genre": "キーボード・マウス",
     "price": 21879
   },
-  "B0H3281V2P": {
-    "first_seen": "2026-11-27",
-    "first_seen_at": "2026-11-27T07:13:41+09:00",
-    "last_seen": "2026-11-27",
-    "title": "CIO NovaPort SLIM DUOII 65W2C PD急速充電器 USB-C×2 180°スイングプラグ 薄型軽90g (ホワイト) | 急速充電 2ポート 薄型 軽量 PD PPS NovaIntelligence ノートPC iPhone Switch2向け",
-    "percent_off": 17,
-    "brand": "CIO",
-    "genre": "充電器",
-    "price": 4980
-  },
   "B0DGJBNYVY": {
     "first_seen": "2026-09-05",
     "first_seen_at": "2026-09-05T08:14:38+09:00",
@@ -3455,27 +3486,6 @@
     "brand": "Apple(アップル)",
     "genre": "Apple製品",
     "price": 23900
-  },
-  "B0DZ7WF87P": {
-    "first_seen": "2026-11-22",
-    "first_seen_at": "2026-11-22T04:14:23+09:00",
-    "last_seen": "2026-11-27",
-    "title": "Apple 11 インチ iPad (A16): 11 インチモデル、Liquid Retina ディスプレイ、128GB、Wi-Fi 6、12MP フロント/12MP バックカメラ、Touch ID、一日中使えるバ ッテリー - シルバー",
-    "percent_off": 5,
-    "brand": "Apple(アップル)",
-    "genre": "Apple製品",
-    "price": 71082,
-    "past": [
-      {
-        "first_seen": "2026-10-30",
-        "last_seen": "2026-10-31",
-        "title": "Apple 11 インチ iPad (A16): 11 インチモデル、Liquid Retina ディスプレイ、128GB、Wi-Fi 6、12MP フロント/12MP バックカメラ、Touch ID、一日中使えるバ ッテリー - シルバー",
-        "brand": null,
-        "genre": null,
-        "price": null,
-        "percent_off": 5
-      }
-    ]
   },
   "B0H33X4142": {
     "first_seen": "2026-11-27",
@@ -4860,16 +4870,6 @@
     "brand": "Logicool(ロジクール)",
     "genre": "キーボード・マウス",
     "price": 4364
-  },
-  "B0GJTXZHDX": {
-    "first_seen": "2026-08-07",
-    "first_seen_at": "2026-08-07T09:18:51+09:00",
-    "last_seen": "2026-11-22",
-    "title": "Apple AirTag 4個入り（第2世代）：紛失防止タグ、音で探せる、耐水 防塵 iPhone/iPad「探す」ネットワーク対応 、探せる範囲が最大1.5 倍に広がった「正確な場所を見つける」機能搭載",
-    "percent_off": 15,
-    "brand": "Apple(アップル)",
-    "genre": "Apple製品",
-    "price": 15639
   },
   "B0FQG2B81Z": {
     "first_seen": "2026-11-22",
