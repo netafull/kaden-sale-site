@@ -1052,6 +1052,27 @@
     "genre": "Apple製品",
     "price": 231380
   },
+  "B0DZ7WF87P": {
+    "first_seen": "2026-11-22",
+    "first_seen_at": "2026-11-22T04:14:23+09:00",
+    "last_seen": "2026-11-28",
+    "title": "Apple 11 インチ iPad (A16): 11 インチモデル、Liquid Retina ディスプレイ、128GB、Wi-Fi 6、12MP フロント/12MP バックカメラ、Touch ID、一日中使えるバ ッテリー - シルバー",
+    "percent_off": 5,
+    "brand": "Apple(アップル)",
+    "genre": "Apple製品",
+    "price": 71082,
+    "past": [
+      {
+        "first_seen": "2026-10-30",
+        "last_seen": "2026-10-31",
+        "title": "Apple 11 インチ iPad (A16): 11 インチモデル、Liquid Retina ディスプレイ、128GB、Wi-Fi 6、12MP フロント/12MP バックカメラ、Touch ID、一日中使えるバ ッテリー - シルバー",
+        "brand": null,
+        "genre": null,
+        "price": null,
+        "percent_off": 5
+      }
+    ]
+  },
   "B0HJ9VNBZ8": {
     "first_seen": "2026-11-27",
     "first_seen_at": "2026-11-27T00:13:28+09:00",
@@ -1502,16 +1523,6 @@
     "brand": "Belkin",
     "genre": "充電器",
     "price": 980
-  },
-  "B0BF9ZYCQ5": {
-    "first_seen": "2026-07-31",
-    "first_seen_at": "2026-07-31T12:00:00+09:00",
-    "last_seen": "2026-11-28",
-    "title": "【VGP受賞】Belkin 充電器 USB-C 2ポート PPS規格対応 GaN採用 小型 ACアダプター タイプC 急速充電 軽量【PD3.0対応 /PSE認証/折りたたみ式プラグ】45W(25W+20W) MacBook Windows PC Surface Pro iPad iPhone 17,16～12対応 Galaxy Android スマホ 各種ノートPC対応 WCH011dqWH",
-    "percent_off": 55,
-    "brand": "Belkin",
-    "genre": "充電器",
-    "price": 2182
   },
   "B0C3ZC4QWG": {
     "first_seen": "2026-11-27",
@@ -1975,6 +1986,16 @@
     "brand": "Belkin",
     "genre": "充電器",
     "price": 7565
+  },
+  "B0CWN59C9H": {
+    "first_seen": "2026-11-04",
+    "first_seen_at": "2026-11-04T09:15:07+09:00",
+    "last_seen": "2026-11-28",
+    "title": "Belkin カーチャージャー 30W USB-C 車載充電器 PD/PPS対応 急速充電 ブラック | USB-C最大30W出力、PD/PPS対応、急速充電対応、iPhone 18シリーズ以下・iPad・Android対応、USB-IF認証、2年保証・最大2,500米ドルCEW",
+    "percent_off": 15,
+    "brand": "Belkin",
+    "genre": "充電器",
+    "price": 1850
   },
   "B0H8DXC8V1": {
     "first_seen": "2026-11-27",
@@ -2448,6 +2469,16 @@
     "genre": "XR・ARグラス",
     "price": 71980
   },
+  "B0H4KF6WPW": {
+    "first_seen": "2026-11-27",
+    "first_seen_at": "2026-11-27T01:13:10+09:00",
+    "last_seen": "2026-11-28",
+    "title": "INMO GO3 AIスマートグラス リアルタイム翻訳を眼前に表示 127言語対応 AIアシスタント カメラ搭載ARグラス 軽量設計 会議/スピーチ/海外旅行/ナビゲーション",
+    "percent_off": 16,
+    "brand": "inmo",
+    "genre": "XR・ARグラス",
+    "price": 83900
+  },
   "B0H5HS653V": {
     "first_seen": "2026-11-27",
     "first_seen_at": "2026-11-27T00:13:28+09:00",
@@ -2458,16 +2489,6 @@
     "genre": "XR・ARグラス",
     "price": 37380
   },
-  "B0GLYFHF71": {
-    "first_seen": "2026-11-27",
-    "first_seen_at": "2026-11-27T01:13:10+09:00",
-    "last_seen": "2026-11-28",
-    "title": "XREAL 1S ARグラス | 最大500インチ相当| 52°の広視野角 | ネイティブ3DoF & 3Dリアル変換機能 | X1チップ搭載 | iPhone 17/16/15・Switch 2・USB-C DPデバイス対応",
-    "percent_off": 15,
-    "brand": "XREAL",
-    "genre": "XR・ARグラス",
-    "price": 57780
-  },
   "B0HKS1C2MZ": {
     "first_seen": "2026-11-27",
     "first_seen_at": "2026-11-27T00:13:28+09:00",
@@ -2477,6 +2498,16 @@
     "brand": "RayNeo",
     "genre": "XR・ARグラス",
     "price": 57783
+  },
+  "B0GLYFHF71": {
+    "first_seen": "2026-11-27",
+    "first_seen_at": "2026-11-27T01:13:10+09:00",
+    "last_seen": "2026-11-28",
+    "title": "XREAL 1S ARグラス | 最大500インチ相当| 52°の広視野角 | ネイティブ3DoF & 3Dリアル変換機能 | X1チップ搭載 | iPhone 17/16/15・Switch 2・USB-C DPデバイス対応",
+    "percent_off": 15,
+    "brand": "XREAL",
+    "genre": "XR・ARグラス",
+    "price": 57780
   },
   "B0G3YCRJKX": {
     "first_seen": "2026-11-27",
@@ -2914,6 +2945,16 @@
     "genre": "キーボード・マウス",
     "price": 12300
   },
+  "B0G7RLC8BB": {
+    "first_seen": "2026-11-27",
+    "first_seen_at": "2026-11-27T01:13:10+09:00",
+    "last_seen": "2026-11-28",
+    "title": "REALFORCE GX1Plus キーボード 45g 日本語配列 ブラック ダークグレー 静電容量無接点方式 ラピッドトリガー 8000Hz 最速0.1mm作動 PBT リアルフォース 日本製 かな無し X1PC11",
+    "percent_off": 20,
+    "brand": "REALFORCE",
+    "genre": "キーボード・マウス",
+    "price": 28160
+  },
   "B0GVYXY8RQ": {
     "first_seen": "2026-11-27",
     "first_seen_at": "2026-11-27T00:13:28+09:00",
@@ -3276,25 +3317,15 @@
     "genre": "エアフライヤー",
     "price": 17270
   },
-  "B0CWN59C9H": {
-    "first_seen": "2026-11-04",
-    "first_seen_at": "2026-11-04T09:15:07+09:00",
+  "B0BF9ZYCQ5": {
+    "first_seen": "2026-07-31",
+    "first_seen_at": "2026-07-31T12:00:00+09:00",
     "last_seen": "2026-11-28",
-    "title": "Belkin カーチャージャー 30W USB-C 車載充電器 PD/PPS対応 急速充電 ブラック | USB-C最大30W出力、PD/PPS対応、急速充電対応、iPhone 18シリーズ以下・iPad・Android対応、USB-IF認証、2年保証・最大2,500米ドルCEW",
-    "percent_off": 15,
+    "title": "【VGP受賞】Belkin 充電器 USB-C 2ポート PPS規格対応 GaN採用 小型 ACアダプター タイプC 急速充電 軽量【PD3.0対応 /PSE認証/折りたたみ式プラグ】45W(25W+20W) MacBook Windows PC Surface Pro iPad iPhone 17,16～12対応 Galaxy Android スマホ 各種ノートPC対応 WCH011dqWH",
+    "percent_off": 55,
     "brand": "Belkin",
     "genre": "充電器",
-    "price": 1850
-  },
-  "B0H4KF6WPW": {
-    "first_seen": "2026-11-27",
-    "first_seen_at": "2026-11-27T01:13:10+09:00",
-    "last_seen": "2026-11-28",
-    "title": "INMO GO3 AIスマートグラス リアルタイム翻訳を眼前に表示 127言語対応 AIアシスタント カメラ搭載ARグラス 軽量設計 会議/スピーチ/海外旅行/ナビゲーション",
-    "percent_off": 16,
-    "brand": "inmo",
-    "genre": "XR・ARグラス",
-    "price": 83900
+    "price": 2182
   },
   "B0H3281V2P": {
     "first_seen": "2026-11-27",
@@ -4355,16 +4386,6 @@
       }
     ]
   },
-  "B0G7RLC8BB": {
-    "first_seen": "2026-11-27",
-    "first_seen_at": "2026-11-27T01:13:10+09:00",
-    "last_seen": "2026-11-27",
-    "title": "REALFORCE GX1Plus キーボード 45g 日本語配列 ブラック ダークグレー 静電容量無接点方式 ラピッドトリガー 8000Hz 最速0.1mm作動 PBT リアルフォース 日本製 かな無し X1PC11",
-    "percent_off": 20,
-    "brand": "REALFORCE",
-    "genre": "キーボード・マウス",
-    "price": 28160
-  },
   "B08LMK3L5C": {
     "first_seen": "2026-11-27",
     "first_seen_at": "2026-11-27T01:13:10+09:00",
@@ -4416,27 +4437,6 @@
     "brand": "REALFORCE",
     "genre": "キーボード・マウス",
     "price": 21879
-  },
-  "B0DZ7WF87P": {
-    "first_seen": "2026-11-22",
-    "first_seen_at": "2026-11-22T04:14:23+09:00",
-    "last_seen": "2026-11-27",
-    "title": "Apple 11 インチ iPad (A16): 11 インチモデル、Liquid Retina ディスプレイ、128GB、Wi-Fi 6、12MP フロント/12MP バックカメラ、Touch ID、一日中使えるバ ッテリー - シルバー",
-    "percent_off": 5,
-    "brand": "Apple(アップル)",
-    "genre": "Apple製品",
-    "price": 71082,
-    "past": [
-      {
-        "first_seen": "2026-10-30",
-        "last_seen": "2026-10-31",
-        "title": "Apple 11 インチ iPad (A16): 11 インチモデル、Liquid Retina ディスプレイ、128GB、Wi-Fi 6、12MP フロント/12MP バックカメラ、Touch ID、一日中使えるバ ッテリー - シルバー",
-        "brand": null,
-        "genre": null,
-        "price": null,
-        "percent_off": 5
-      }
-    ]
   },
   "B08PTPTMH5": {
     "first_seen": "2026-10-13",
