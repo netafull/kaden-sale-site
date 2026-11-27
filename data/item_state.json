@@ -822,6 +822,16 @@
     "genre": "Apple製品",
     "price": 312680
   },
+  "B0HM6ZLSD1": {
+    "first_seen": "2026-11-11",
+    "first_seen_at": "2026-11-11T15:15:38+09:00",
+    "last_seen": "2026-11-27",
+    "title": "AirPods 5 + AppleCare+ for Headphones - AirPods",
+    "percent_off": 9,
+    "brand": "Apple(アップル)",
+    "genre": "Apple製品",
+    "price": 26500
+  },
   "B0DL6WXF1G": {
     "first_seen": "2026-11-27",
     "first_seen_at": "2026-11-27T02:14:47+09:00",
@@ -1202,6 +1212,16 @@
     "genre": "モバイルバッテリー",
     "price": 1612
   },
+  "B0DW3TKWWN": {
+    "first_seen": "2026-11-27",
+    "first_seen_at": "2026-11-27T05:13:17+09:00",
+    "last_seen": "2026-11-27",
+    "title": "Belkin モバイルバッテリー(20000mAh, 30W, USB-Cケーブル内蔵) 最大20W PD高速充電対応 PPS対応iPhone 17,16～12対応&Androidスマホ対応 2台同時充電 PSE認証 軽量&コンパクト 機内持込可能 アウトドア/災害/緊急用の便利グッズ メーカー保証2年 ブラック BPB024fqBK",
+    "percent_off": 62,
+    "brand": "Belkin",
+    "genre": "モバイルバッテリー",
+    "price": 2276
+  },
   "B0FLQ2HL2S": {
     "first_seen": "2026-11-27",
     "first_seen_at": "2026-11-27T02:14:47+09:00",
@@ -1480,7 +1500,7 @@
     "percent_off": 55,
     "brand": "Belkin",
     "genre": "充電器",
-    "price": 2188
+    "price": 2182
   },
   "B0C3ZC4QWG": {
     "first_seen": "2026-11-27",
@@ -1905,11 +1925,11 @@
     "genre": "充電器",
     "price": 1790
   },
-  "B0H329XGNF": {
+  "B0H3281V2P": {
     "first_seen": "2026-11-27",
-    "first_seen_at": "2026-11-27T01:13:10+09:00",
+    "first_seen_at": "2026-11-27T07:13:41+09:00",
     "last_seen": "2026-11-27",
-    "title": "CIO NovaPort SLIM DUOII 65W2C PD急速充電器 USB-C×2 180°スイングプラグ 薄型軽量90g (ブラック) | 急速充電 2ポート 薄型 軽量 PD PPS NovaIntelligence ノートPC iPhone Switch2向け",
+    "title": "CIO NovaPort SLIM DUOII 65W2C PD急速充電器 USB-C×2 180°スイングプラグ 薄型軽90g (ホワイト) | 急速充電 2ポート 薄型 軽量 PD PPS NovaIntelligence ノートPC iPhone Switch2向け",
     "percent_off": 17,
     "brand": "CIO",
     "genre": "充電器",
@@ -2404,6 +2424,16 @@
     "brand": "XREAL",
     "genre": "XR・ARグラス",
     "price": 37380
+  },
+  "B0H4KF6WPW": {
+    "first_seen": "2026-11-27",
+    "first_seen_at": "2026-11-27T01:13:10+09:00",
+    "last_seen": "2026-11-27",
+    "title": "INMO GO3 AIスマートグラス リアルタイム翻訳を眼前に表示 127言語対応 AIアシスタント カメラ搭載ARグラス 軽量設計 会議/スピーチ/海外旅行/ナビゲーション",
+    "percent_off": 16,
+    "brand": "inmo",
+    "genre": "XR・ARグラス",
+    "price": 83900
   },
   "B0GLYFHF71": {
     "first_seen": "2026-11-27",
@@ -3326,6 +3356,16 @@
     "genre": "エアフライヤー",
     "price": 17270
   },
+  "B0H329XGNF": {
+    "first_seen": "2026-11-27",
+    "first_seen_at": "2026-11-27T01:13:10+09:00",
+    "last_seen": "2026-11-27",
+    "title": "CIO NovaPort SLIM DUOII 65W2C PD急速充電器 USB-C×2 180°スイングプラグ 薄型軽量90g (ブラック) | 急速充電 2ポート 薄型 軽量 PD PPS NovaIntelligence ノートPC iPhone Switch2向け",
+    "percent_off": 17,
+    "brand": "CIO",
+    "genre": "充電器",
+    "price": 4980
+  },
   "B0DZ7WF87P": {
     "first_seen": "2026-11-22",
     "first_seen_at": "2026-11-22T04:14:23+09:00",
@@ -3357,16 +3397,6 @@
     "genre": "ワイヤレスイヤホン",
     "price": 2780
   },
-  "B0DW3TKWWN": {
-    "first_seen": "2026-11-27",
-    "first_seen_at": "2026-11-27T05:13:17+09:00",
-    "last_seen": "2026-11-27",
-    "title": "Belkin モバイルバッテリー(20000mAh, 30W, USB-Cケーブル内蔵) 最大20W PD高速充電対応 PPS対応iPhone 17,16～12対応&Androidスマホ対応 2台同時充電 PSE認証 軽量&コンパクト 機内持込可能 アウトドア/災害/緊急用の便利グッズ メーカー保証2年 ブラック BPB024fqBK",
-    "percent_off": 62,
-    "brand": "Belkin",
-    "genre": "モバイルバッテリー",
-    "price": 2276
-  },
   "B0F43RNTYH": {
     "first_seen": "2026-11-27",
     "first_seen_at": "2026-11-27T13:13:36+09:00",
@@ -3376,16 +3406,6 @@
     "brand": "エレコム(ELECOM)",
     "genre": "充電器",
     "price": 4445
-  },
-  "B0H3281V2P": {
-    "first_seen": "2026-11-27",
-    "first_seen_at": "2026-11-27T07:13:41+09:00",
-    "last_seen": "2026-11-27",
-    "title": "CIO NovaPort SLIM DUOII 65W2C PD急速充電器 USB-C×2 180°スイングプラグ 薄型軽90g (ホワイト) | 急速充電 2ポート 薄型 軽量 PD PPS NovaIntelligence ノートPC iPhone Switch2向け",
-    "percent_off": 17,
-    "brand": "CIO",
-    "genre": "充電器",
-    "price": 4980
   },
   "B0GF24NN7N": {
     "first_seen": "2026-10-05",
@@ -3416,16 +3436,6 @@
     "brand": "XREAL",
     "genre": "XR・ARグラス",
     "price": 25190
-  },
-  "B0H4KF6WPW": {
-    "first_seen": "2026-11-27",
-    "first_seen_at": "2026-11-27T01:13:10+09:00",
-    "last_seen": "2026-11-27",
-    "title": "INMO GO3 AIスマートグラス リアルタイム翻訳を眼前に表示 127言語対応 AIアシスタント カメラ搭載ARグラス 軽量設計 会議/スピーチ/海外旅行/ナビゲーション",
-    "percent_off": 16,
-    "brand": "inmo",
-    "genre": "XR・ARグラス",
-    "price": 83900
   },
   "B0DVJ64ZLT": {
     "first_seen": "2026-11-27",
@@ -6101,13 +6111,6 @@
     "last_seen": "2026-11-13",
     "title": "Apple 11インチiPad Air（M4）：Liquid Retinaディスプレイ、128GB、12MPフロント/バックカメラ、Apple N1によるWi-Fi 7、Touch ID、一日中使えるバッテリー — スペースグレイ + 2年延長 AppleCare+ for iPad Air 11-inch (M4)|ダウンロード版",
     "percent_off": 11
-  },
-  "B0HM6ZLSD1": {
-    "first_seen": "2026-11-11",
-    "first_seen_at": "2026-11-11T15:15:38+09:00",
-    "last_seen": "2026-11-13",
-    "title": "AirPods 5 + AppleCare+ for Headphones - AirPods",
-    "percent_off": 9
   },
   "B0D8Q93VMG": {
     "first_seen": "2026-10-20",
