@@ -19,11 +19,11 @@
     "genre": "Apple製品",
     "price": 107879
   },
-  "B0FQFLWSWZ": {
+  "B0FQG1QPLW": {
     "first_seen": "2026-11-27",
-    "first_seen_at": "2026-11-27T04:13:46+09:00",
+    "first_seen_at": "2026-11-27T00:13:28+09:00",
     "last_seen": "2026-11-28",
-    "title": "Apple iPhone Air 256GB (SIMフリー) | 最大120HzのProMotionを採用した6.5インチディスプレイ、パワフルなA19 Proチップ、センターフレームフロントカメラ、一日中使えるバッテリー；スペースブラック",
+    "title": "Apple iPhone Air 256GB (SIMフリー) | 最大120HzのProMotionを採用した6.5インチディスプレイ、パワフルなA19 Proチップ、センターフレームフロントカメラ、一日中使えるバッテリー；スカイブルー",
     "percent_off": 23,
     "brand": "Apple(アップル)",
     "genre": "Apple製品",
@@ -39,6 +39,16 @@
     "genre": "Apple製品",
     "price": 55354
   },
+  "B0FQFLWSWZ": {
+    "first_seen": "2026-11-27",
+    "first_seen_at": "2026-11-27T04:13:46+09:00",
+    "last_seen": "2026-11-28",
+    "title": "Apple iPhone Air 256GB (SIMフリー) | 最大120HzのProMotionを採用した6.5インチディスプレイ、パワフルなA19 Proチップ、センターフレームフロントカメラ、一日中使えるバッテリー；スペースブラック",
+    "percent_off": 23,
+    "brand": "Apple(アップル)",
+    "genre": "Apple製品",
+    "price": 145900
+  },
   "B0FQFPZW9G": {
     "first_seen": "2026-11-27",
     "first_seen_at": "2026-11-27T04:13:46+09:00",
@@ -48,16 +58,6 @@
     "brand": "Apple(アップル)",
     "genre": "Apple製品",
     "price": 172900
-  },
-  "B0FQG1QPLW": {
-    "first_seen": "2026-11-27",
-    "first_seen_at": "2026-11-27T00:13:28+09:00",
-    "last_seen": "2026-11-28",
-    "title": "Apple iPhone Air 256GB (SIMフリー) | 最大120HzのProMotionを採用した6.5インチディスプレイ、パワフルなA19 Proチップ、センターフレームフロントカメラ、一日中使えるバッテリー；スカイブルー",
-    "percent_off": 23,
-    "brand": "Apple(アップル)",
-    "genre": "Apple製品",
-    "price": 145900
   },
   "B0FQG5LKM2": {
     "first_seen": "2026-11-27",
@@ -1157,10 +1157,10 @@
     "first_seen_at": "2026-08-16T23:40:53+09:00",
     "last_seen": "2026-11-28",
     "title": "ソニー(SONY) 完全ワイヤレスイヤホン WF-C510 / 軽量小型4.6g / 高精度通話品質/外音取り込み対応/マルチポイント対応 / IPX4防滴性能 / ブラック/WF-C510 BC",
-    "percent_off": 22,
+    "percent_off": 23,
     "brand": "Sony",
     "genre": "ワイヤレスイヤホン",
-    "price": 7718
+    "price": 7644
   },
   "B0GW7WT5SQ": {
     "first_seen": "2026-10-07",
@@ -1583,11 +1583,11 @@
     "genre": "充電器",
     "price": 2690
   },
-  "B0D53VJJ7F": {
-    "first_seen": "2026-07-28",
-    "first_seen_at": "2026-07-28T12:00:00+09:00",
+  "B0D53Z4WX3": {
+    "first_seen": "2026-10-25",
+    "first_seen_at": "2026-10-25T22:14:38+09:00",
     "last_seen": "2026-11-28",
-    "title": "CIO NovaPort TRIOⅡ 65W 2C1A PD急速充電器 USB-C×2+USB-A×1 3台同時充電 世界最小級 (ブラック) | ノートPC対応, MacBook対応, iPhone対応, iPad対応, Android対応, 電力を自動最適配分",
+    "title": "CIO NovaPort TRIOⅡ 65W 3C PD急速充電器 USB-C×3 3台同時充電 軽量 世界最小級 (ブラック) | ノートPC対応, MacBook対応, iPhone対応, iPad対応, Android対応, 電力を自動最適配分",
     "percent_off": 40,
     "brand": "CIO",
     "genre": "充電器",
@@ -1613,6 +1613,16 @@
         "percent_off": 29
       }
     ]
+  },
+  "B0FK4L4ZRV": {
+    "first_seen": "2026-11-27",
+    "first_seen_at": "2026-11-27T21:13:23+09:00",
+    "last_seen": "2026-11-28",
+    "title": "Belkin Qi2 25W 3in1 ワイヤレス充電器 iPhone18対応 折りたたみ式充電スタンド MagSafe/急速充電対応 3台同時充電 | 【アマゾン限定】MagSafe充電器 Qi2公式認証、最大25W急速充電 パッシブ冷却設計、iPhone18/17〜12、Apple Watch・AirPods対応、折りたたみ可能 持ち運びにも最適 旅行・出張に便利、 2年保証 ホワイト",
+    "percent_off": 34,
+    "brand": "Belkin",
+    "genre": "充電器",
+    "price": 10585
   },
   "B091BGMKYS": {
     "first_seen": "2026-07-27",
@@ -1703,16 +1713,6 @@
     "brand": "UGREEN",
     "genre": "充電器",
     "price": 2831
-  },
-  "B0FK4JGDPG": {
-    "first_seen": "2026-11-27",
-    "first_seen_at": "2026-11-27T06:13:27+09:00",
-    "last_seen": "2026-11-28",
-    "title": "Belkin Qi2 25W 3in1 ワイヤレス充電器 iPhone18対応 折りたたみ式充電スタンド MagSafe/急速充電対応 3台同時充電 | 【アマゾン限定】MagSafe充電器 Qi2公式認証、最大25W急速充電 パッシブ冷却設計、iPhone18/17〜12、Apple Watch・AirPods対応、折りたたみ可能 持ち運びにも最適 旅行・出張に便利、 2年保証 ブラック",
-    "percent_off": 32,
-    "brand": "Belkin",
-    "genre": "充電器",
-    "price": 10879
   },
   "B0BF43HS1G": {
     "first_seen": "2026-07-27",
@@ -1925,16 +1925,6 @@
     "brand": "Anker",
     "genre": "充電器",
     "price": 1790
-  },
-  "B0H3281V2P": {
-    "first_seen": "2026-11-27",
-    "first_seen_at": "2026-11-27T07:13:41+09:00",
-    "last_seen": "2026-11-28",
-    "title": "CIO NovaPort SLIM DUOII 65W2C PD急速充電器 USB-C×2 180°スイングプラグ 薄型軽90g (ホワイト) | 急速充電 2ポート 薄型 軽量 PD PPS NovaIntelligence ノートPC iPhone Switch2向け",
-    "percent_off": 17,
-    "brand": "CIO",
-    "genre": "充電器",
-    "price": 4980
   },
   "B0CZN9XSDM": {
     "first_seen": "2026-11-27",
@@ -2722,6 +2712,16 @@
     "genre": "Amazonデバイス",
     "price": 93980
   },
+  "B0FL6ZD3WL": {
+    "first_seen": "2026-07-29",
+    "first_seen_at": "2026-07-29T12:00:00+09:00",
+    "last_seen": "2026-11-28",
+    "title": "エレコム ワイヤレスキーボード Precisionist プレシジョニスト Bluetooth 無線2.4GHz マルチペアリング4台 充電式 薄型パンタグラフ式 フルサイズ ブラック TK-PN10FMPABK",
+    "percent_off": 45,
+    "brand": "エレコム(ELECOM)",
+    "genre": "キーボード・マウス",
+    "price": 4920
+  },
   "B0FL77NZXM": {
     "first_seen": "2026-07-29",
     "first_seen_at": "2026-07-29T12:00:00+09:00",
@@ -3286,6 +3286,36 @@
     "genre": "エアフライヤー",
     "price": 17270
   },
+  "B0D53VJJ7F": {
+    "first_seen": "2026-07-28",
+    "first_seen_at": "2026-07-28T12:00:00+09:00",
+    "last_seen": "2026-11-28",
+    "title": "CIO NovaPort TRIOⅡ 65W 2C1A PD急速充電器 USB-C×2+USB-A×1 3台同時充電 世界最小級 (ブラック) | ノートPC対応, MacBook対応, iPhone対応, iPad対応, Android対応, 電力を自動最適配分",
+    "percent_off": 40,
+    "brand": "CIO",
+    "genre": "充電器",
+    "price": 3980
+  },
+  "B0FK4JGDPG": {
+    "first_seen": "2026-11-27",
+    "first_seen_at": "2026-11-27T06:13:27+09:00",
+    "last_seen": "2026-11-28",
+    "title": "Belkin Qi2 25W 3in1 ワイヤレス充電器 iPhone18対応 折りたたみ式充電スタンド MagSafe/急速充電対応 3台同時充電 | 【アマゾン限定】MagSafe充電器 Qi2公式認証、最大25W急速充電 パッシブ冷却設計、iPhone18/17〜12、Apple Watch・AirPods対応、折りたたみ可能 持ち運びにも最適 旅行・出張に便利、 2年保証 ブラック",
+    "percent_off": 32,
+    "brand": "Belkin",
+    "genre": "充電器",
+    "price": 10879
+  },
+  "B0H3281V2P": {
+    "first_seen": "2026-11-27",
+    "first_seen_at": "2026-11-27T07:13:41+09:00",
+    "last_seen": "2026-11-28",
+    "title": "CIO NovaPort SLIM DUOII 65W2C PD急速充電器 USB-C×2 180°スイングプラグ 薄型軽90g (ホワイト) | 急速充電 2ポート 薄型 軽量 PD PPS NovaIntelligence ノートPC iPhone Switch2向け",
+    "percent_off": 17,
+    "brand": "CIO",
+    "genre": "充電器",
+    "price": 4980
+  },
   "B0DZ7WF87P": {
     "first_seen": "2026-11-22",
     "first_seen_at": "2026-11-22T04:14:23+09:00",
@@ -3316,16 +3346,6 @@
     "brand": "CIO",
     "genre": "充電器",
     "price": 4980
-  },
-  "B0FL6ZD3WL": {
-    "first_seen": "2026-07-29",
-    "first_seen_at": "2026-07-29T12:00:00+09:00",
-    "last_seen": "2026-11-28",
-    "title": "エレコム ワイヤレスキーボード Precisionist プレシジョニスト Bluetooth 無線2.4GHz マルチペアリング4台 充電式 薄型パンタグラフ式 フルサイズ ブラック TK-PN10FMPABK",
-    "percent_off": 45,
-    "brand": "エレコム(ELECOM)",
-    "genre": "キーボード・マウス",
-    "price": 4920
   },
   "B0BF9ZYCQ5": {
     "first_seen": "2026-07-31",
@@ -3448,16 +3468,6 @@
     "brand": "UGREEN",
     "genre": "モバイルバッテリー",
     "price": 5506
-  },
-  "B0D53Z4WX3": {
-    "first_seen": "2026-10-25",
-    "first_seen_at": "2026-10-25T22:14:38+09:00",
-    "last_seen": "2026-11-28",
-    "title": "CIO NovaPort TRIOⅡ 65W 3C PD急速充電器 USB-C×3 3台同時充電 軽量 世界最小級 (ブラック) | ノートPC対応, MacBook対応, iPhone対応, iPad対応, Android対応, 電力を自動最適配分",
-    "percent_off": 40,
-    "brand": "CIO",
-    "genre": "充電器",
-    "price": 3980
   },
   "B0D73JBJ56": {
     "first_seen": "2026-11-27",
@@ -4211,16 +4221,6 @@
     "brand": "Anker",
     "genre": "充電器",
     "price": 8390
-  },
-  "B0FK4L4ZRV": {
-    "first_seen": "2026-11-27",
-    "first_seen_at": "2026-11-27T21:13:23+09:00",
-    "last_seen": "2026-11-27",
-    "title": "Belkin Qi2 25W 3in1 ワイヤレス充電器 iPhone18対応 折りたたみ式充電スタンド MagSafe/急速充電対応 3台同時充電 | 【アマゾン限定】MagSafe充電器 Qi2公式認証、最大25W急速充電 パッシブ冷却設計、iPhone18/17〜12、Apple Watch・AirPods対応、折りたたみ可能 持ち運びにも最適 旅行・出張に便利、 2年保証 ホワイト",
-    "percent_off": 34,
-    "brand": "Belkin",
-    "genre": "充電器",
-    "price": 10585
   },
   "B0CTJDLWV4": {
     "first_seen": "2026-11-04",
