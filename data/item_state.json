@@ -1966,11 +1966,11 @@
     "genre": "充電器",
     "price": 1790
   },
-  "B0H3281V2P": {
+  "B0H329XGNF": {
     "first_seen": "2026-11-27",
-    "first_seen_at": "2026-11-27T07:13:41+09:00",
+    "first_seen_at": "2026-11-27T01:13:10+09:00",
     "last_seen": "2026-11-27",
-    "title": "CIO NovaPort SLIM DUOII 65W2C PD急速充電器 USB-C×2 180°スイングプラグ 薄型軽90g (ホワイト) | 急速充電 2ポート 薄型 軽量 PD PPS NovaIntelligence ノートPC iPhone Switch2向け",
+    "title": "CIO NovaPort SLIM DUOII 65W2C PD急速充電器 USB-C×2 180°スイングプラグ 薄型軽量90g (ブラック) | 急速充電 2ポート 薄型 軽量 PD PPS NovaIntelligence ノートPC iPhone Switch2向け",
     "percent_off": 17,
     "brand": "CIO",
     "genre": "充電器",
@@ -2251,10 +2251,10 @@
     "first_seen_at": "2026-08-22T00:50:58+09:00",
     "last_seen": "2026-11-27",
     "title": "HUAWEI WATCH D2 ウェアラブル血圧計LCA-B10:ブラック",
-    "percent_off": 30,
+    "percent_off": 31,
     "brand": "HUAWEI(ファーウェイ)",
     "genre": "スマートウォッチ",
-    "price": 42200
+    "price": 41817
   },
   "B0HF4K8JBT": {
     "first_seen": "2026-11-27",
@@ -2608,6 +2608,16 @@
     "genre": "Amazonデバイス",
     "price": 7480
   },
+  "B0C7Y1N38H": {
+    "first_seen": "2026-11-27",
+    "first_seen_at": "2026-11-27T18:13:40+09:00",
+    "last_seen": "2026-11-27",
+    "title": "Amazon Echo Show 15 (エコーショー15) 第2世代 (2024年発売) - 15.6インチ フルHDスマートディスプレイ、Fire TV機能搭載、Alexa対応音声認識リモコン同梱、Alexa+ 早期アクセス対象",
+    "percent_off": 33,
+    "brand": "Amazon",
+    "genre": "Amazonデバイス",
+    "price": 31980
+  },
   "B0CX8MT2M2": {
     "first_seen": "2026-11-04",
     "first_seen_at": "2026-11-04T05:15:15+09:00",
@@ -2794,10 +2804,10 @@
     "first_seen_at": "2026-11-27T01:13:10+09:00",
     "last_seen": "2026-11-27",
     "title": "【Amazon.co.jp限定】 Logicool G PRO ゲーミングキーボード G-PKB-002LNd テンキーレス リニア 赤軸 日本語配列 | 静かなタイピング GXスイッチ 有線 メカニカルキーボード LIGHTSYNC RGB 充電 着脱式ケーブル ブラック ゲーミング キーボード 壁紙ダウンロード付き 国内正規品",
-    "percent_off": 30,
+    "percent_off": 31,
     "brand": "Logicool G(ロジクール G)",
     "genre": "キーボード・マウス",
-    "price": 9800,
+    "price": 9702,
     "past": [
       {
         "first_seen": "2026-10-13",
@@ -2819,16 +2829,6 @@
     "brand": "エレコム(ELECOM)",
     "genre": "キーボード・マウス",
     "price": 990
-  },
-  "B09Q5SHDR3": {
-    "first_seen": "2026-11-26",
-    "first_seen_at": "2026-11-26T08:13:54+09:00",
-    "last_seen": "2026-11-27",
-    "title": "ロジクール ワイヤレスマウス 静音 無線 高速スクロール Signature M650MGR レギュラー グラファイト M650 国内正規品 | レギュラーサイズ、5ボタン、サイドボタン、電池式（単3形乾電池x1）、Bluetooth、Logi Bolt、Windows10、Windows11、macOS、iPadOS、Android、ChromeOS、M650M",
-    "percent_off": 26,
-    "brand": "Logicool(ロジクール)",
-    "genre": "キーボード・マウス",
-    "price": 3439
   },
   "B08K2RGTHY": {
     "first_seen": "2026-07-26",
@@ -2869,7 +2869,7 @@
     "percent_off": 26,
     "brand": "Logicool(ロジクール)",
     "genre": "キーボード・マウス",
-    "price": 2970,
+    "price": 2950,
     "past": [
       {
         "first_seen": "2026-11-03",
@@ -3084,6 +3084,16 @@
     "brand": "Logicool(ロジクール)",
     "genre": "キーボード・マウス",
     "price": 2880
+  },
+  "B09Q5SHDR3": {
+    "first_seen": "2026-11-26",
+    "first_seen_at": "2026-11-26T08:13:54+09:00",
+    "last_seen": "2026-11-27",
+    "title": "ロジクール ワイヤレスマウス 静音 無線 高速スクロール Signature M650MGR レギュラー グラファイト M650 国内正規品 | レギュラーサイズ、5ボタン、サイドボタン、電池式（単3形乾電池x1）、Bluetooth、Logi Bolt、Windows10、Windows11、macOS、iPadOS、Android、ChromeOS、M650M",
+    "percent_off": 17,
+    "brand": "Logicool(ロジクール)",
+    "genre": "キーボード・マウス",
+    "price": 3822
   },
   "B01HLPWZPO": {
     "first_seen": "2026-11-27",
@@ -3396,6 +3406,16 @@
     "genre": "エアフライヤー",
     "price": 17270
   },
+  "B0H3281V2P": {
+    "first_seen": "2026-11-27",
+    "first_seen_at": "2026-11-27T07:13:41+09:00",
+    "last_seen": "2026-11-27",
+    "title": "CIO NovaPort SLIM DUOII 65W2C PD急速充電器 USB-C×2 180°スイングプラグ 薄型軽90g (ホワイト) | 急速充電 2ポート 薄型 軽量 PD PPS NovaIntelligence ノートPC iPhone Switch2向け",
+    "percent_off": 17,
+    "brand": "CIO",
+    "genre": "充電器",
+    "price": 4980
+  },
   "B0DGJBNYVY": {
     "first_seen": "2026-09-05",
     "first_seen_at": "2026-09-05T08:14:38+09:00",
@@ -3436,16 +3456,6 @@
         "percent_off": 5
       }
     ]
-  },
-  "B0H329XGNF": {
-    "first_seen": "2026-11-27",
-    "first_seen_at": "2026-11-27T01:13:10+09:00",
-    "last_seen": "2026-11-27",
-    "title": "CIO NovaPort SLIM DUOII 65W2C PD急速充電器 USB-C×2 180°スイングプラグ 薄型軽量90g (ブラック) | 急速充電 2ポート 薄型 軽量 PD PPS NovaIntelligence ノートPC iPhone Switch2向け",
-    "percent_off": 17,
-    "brand": "CIO",
-    "genre": "充電器",
-    "price": 4980
   },
   "B0H33X4142": {
     "first_seen": "2026-11-27",
