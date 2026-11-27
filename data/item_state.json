@@ -1062,27 +1062,6 @@
     "genre": "Apple製品",
     "price": 89800
   },
-  "B0DZ7WF87P": {
-    "first_seen": "2026-11-22",
-    "first_seen_at": "2026-11-22T04:14:23+09:00",
-    "last_seen": "2026-11-27",
-    "title": "Apple 11 インチ iPad (A16): 11 インチモデル、Liquid Retina ディスプレイ、128GB、Wi-Fi 6、12MP フロント/12MP バックカメラ、Touch ID、一日中使えるバ ッテリー - シルバー",
-    "percent_off": 5,
-    "brand": "Apple(アップル)",
-    "genre": "Apple製品",
-    "price": 71082,
-    "past": [
-      {
-        "first_seen": "2026-10-30",
-        "last_seen": "2026-10-31",
-        "title": "Apple 11 インチ iPad (A16): 11 インチモデル、Liquid Retina ディスプレイ、128GB、Wi-Fi 6、12MP フロント/12MP バックカメラ、Touch ID、一日中使えるバ ッテリー - シルバー",
-        "brand": null,
-        "genre": null,
-        "price": null,
-        "percent_off": 5
-      }
-    ]
-  },
   "B0HJ9VNBZ8": {
     "first_seen": "2026-11-27",
     "first_seen_at": "2026-11-27T00:13:28+09:00",
@@ -1143,15 +1122,25 @@
     "genre": "ワイヤレスイヤホン",
     "price": 9990
   },
-  "B0F3XFNHCW": {
-    "first_seen": "2026-11-01",
-    "first_seen_at": "2026-11-01T02:15:45+09:00",
+  "B0F3XBK3HK": {
+    "first_seen": "2026-11-10",
+    "first_seen_at": "2026-11-10T22:15:00+09:00",
     "last_seen": "2026-11-27",
-    "title": "ソニー(SONY) WF-C710N ブラック ワイヤレスイヤホン 高性能ノイズキャンセリング Bluetoothロングバッテリー 外音取り込み IPX4防滴性能 軽量 コンパクト マルチポイント接続",
-    "percent_off": 29,
+    "title": "ソニー(SONY) WF-C710N ホワイト ワイヤレスイヤホン 高性能ノイズキャンセリング Bluetoothロングバッテリー 外音取り込み IPX4防滴性能 軽量 コンパクト マルチポイント接続",
+    "percent_off": 31,
     "brand": "Sony",
     "genre": "ワイヤレスイヤホン",
-    "price": 12449
+    "price": 12118
+  },
+  "B08N5ZV798": {
+    "first_seen": "2026-11-27",
+    "first_seen_at": "2026-11-27T21:13:23+09:00",
+    "last_seen": "2026-11-27",
+    "title": "Xiaomi REDMI Buds 8 Active シャオミワイヤレスイヤホン Bluetooth AI通話ノイズリダクション 37時間再生 防水 | 急速充電 最大37時間再生 デュアルマイクAI通話 インナーイヤー型 SBC/AAC対応 低遅延 IP54 防塵防滴 Google Fast Pair マルチポイント iPhone Android Pad適用 会議 通勤 運動 小型軽量",
+    "percent_off": 27,
+    "brand": "Xiaomi",
+    "genre": "ワイヤレスイヤホン",
+    "price": 2180
   },
   "B0FNRS5WB2": {
     "first_seen": "2026-11-04",
@@ -1173,16 +1162,6 @@
     "genre": "ワイヤレスイヤホン",
     "price": 4490
   },
-  "B0FRSGC73Z": {
-    "first_seen": "2026-11-21",
-    "first_seen_at": "2026-11-21T13:13:27+09:00",
-    "last_seen": "2026-11-27",
-    "title": "Xiaomi シャオミ REDMI Buds 8 Lite ワイヤレスイヤホン Bluetooth 5.4 ノイズキャンセリング ANC 36時間再生 | iPhone/Android対応 アクティブノイズキャンセリング 外音取り込みモード マルチポイント 12.4mmドライバー 最大36時間再生 急速充電 専用アプリ カスタムEQ 通勤 通学 オンライン会議",
-    "percent_off": 24,
-    "brand": "Xiaomi",
-    "genre": "ワイヤレスイヤホン",
-    "price": 2781
-  },
   "B0DDKHF9XY": {
     "first_seen": "2026-08-16",
     "first_seen_at": "2026-08-16T23:40:53+09:00",
@@ -1203,11 +1182,11 @@
     "genre": "ワイヤレスイヤホン",
     "price": 20500
   },
-  "B0CBKQZXT7": {
+  "B0CBKS4THP": {
     "first_seen": "2026-11-27",
-    "first_seen_at": "2026-11-27T00:13:28+09:00",
+    "first_seen_at": "2026-11-27T21:13:23+09:00",
     "last_seen": "2026-11-27",
-    "title": "ソニー(SONY)ワイヤレスノイズキャンセリングイヤホン WF-1000XM5 :【VGP2025金賞】 / 完全ワイヤレス/圧倒的ノイズキャンセリング性能/小型軽量設計/高性能マイク通話品質/Amazon Alexa搭載/Bluetooth/LDAC対応 / 最大8時間連続再生 / IPX4防滴性能 / マルチポイント対応/ブラック/WF-1000XM5 BC",
+    "title": "ソニー(SONY) ワイヤレスノイズキャンセリングイヤホン WF-1000XM5 :MISIA CMモデル/完全ワイヤレス/圧倒的ノイズキャンセリング性能/小型軽量設計/高性能マイク通話品質/Amazon Alexa搭載/Bluetooth/LDAC対応/最大8時間連続再生/IPX4防滴性能/2023年 / マイク付き/マルチポイント対応 プラチナシルバー WF-1000XM5 SC",
     "percent_off": 17,
     "brand": "Sony",
     "genre": "ワイヤレスイヤホン",
@@ -1635,6 +1614,16 @@
       }
     ]
   },
+  "B0FK4L4ZRV": {
+    "first_seen": "2026-11-27",
+    "first_seen_at": "2026-11-27T21:13:23+09:00",
+    "last_seen": "2026-11-27",
+    "title": "Belkin Qi2 25W 3in1 ワイヤレス充電器 iPhone18対応 折りたたみ式充電スタンド MagSafe/急速充電対応 3台同時充電 | 【アマゾン限定】MagSafe充電器 Qi2公式認証、最大25W急速充電 パッシブ冷却設計、iPhone18/17〜12、Apple Watch・AirPods対応、折りたたみ可能 持ち運びにも最適 旅行・出張に便利、 2年保証 ホワイト",
+    "percent_off": 34,
+    "brand": "Belkin",
+    "genre": "充電器",
+    "price": 10585
+  },
   "B091BGMKYS": {
     "first_seen": "2026-07-27",
     "first_seen_at": "2026-07-27T12:00:00+09:00",
@@ -1725,16 +1714,6 @@
     "genre": "充電器",
     "price": 2831
   },
-  "B0FK4JGDPG": {
-    "first_seen": "2026-11-27",
-    "first_seen_at": "2026-11-27T06:13:27+09:00",
-    "last_seen": "2026-11-27",
-    "title": "Belkin Qi2 25W 3in1 ワイヤレス充電器 iPhone18対応 折りたたみ式充電スタンド MagSafe/急速充電対応 3台同時充電 | 【アマゾン限定】MagSafe充電器 Qi2公式認証、最大25W急速充電 パッシブ冷却設計、iPhone18/17〜12、Apple Watch・AirPods対応、折りたたみ可能 持ち運びにも最適 旅行・出張に便利、 2年保証 ブラック",
-    "percent_off": 32,
-    "brand": "Belkin",
-    "genre": "充電器",
-    "price": 10879
-  },
   "B0FYFDD1WW": {
     "first_seen": "2026-11-14",
     "first_seen_at": "2026-11-14T01:15:03+09:00",
@@ -1805,16 +1784,6 @@
     "brand": "UGREEN",
     "genre": "充電器",
     "price": 1469
-  },
-  "B0H6JNDVKT": {
-    "first_seen": "2026-11-27",
-    "first_seen_at": "2026-11-27T00:13:28+09:00",
-    "last_seen": "2026-11-27",
-    "title": "Anker Nano Charger Neo (AVS対応,最大65W出力) ブラック - AVS対応で最大65W出力(USB-C/Type-C×1) | 45W〜65Wのダイナミック急速充電に対応。AVS対応。発熱を抑えた充電、180度折りたたみ式プラグ、ActiveShield 4.0、Type-C充電器、iPhone 18/17 Pro/Pro MaxおよびMacBook向け急速充電",
-    "percent_off": 25,
-    "brand": "Anker",
-    "genre": "充電器",
-    "price": 2990
   },
   "B0H6JV3LCP": {
     "first_seen": "2026-11-27",
@@ -2017,6 +1986,16 @@
     "genre": "充電器",
     "price": 1850
   },
+  "B08PTQMZY3": {
+    "first_seen": "2026-10-27",
+    "first_seen_at": "2026-10-27T21:14:38+09:00",
+    "last_seen": "2026-11-27",
+    "title": "KIOXIA(キオクシア) 旧東芝メモリ microSD 64GB UHS-I Class10 (最大読出速度100MB/s) Nintendo Switch動作確認済 国内サポート正規品 メーカー保証5年 KLMEA064G",
+    "percent_off": 36,
+    "brand": "KIOXIA",
+    "genre": "SSD・メモリーカード",
+    "price": 1534
+  },
   "B08P45YTTL": {
     "first_seen": "2026-11-04",
     "first_seen_at": "2026-11-04T09:15:07+09:00",
@@ -2026,16 +2005,6 @@
     "brand": "SANDISK",
     "genre": "SSD・メモリーカード",
     "price": 50280
-  },
-  "B08PTPTMH5": {
-    "first_seen": "2026-10-13",
-    "first_seen_at": "2026-10-13T09:15:04+09:00",
-    "last_seen": "2026-11-27",
-    "title": "KIOXIA(キオクシア) 旧東芝メモリ microSD 128GB UHS-I Class10 (最大読出速度100MB/s) Nintendo Switch動作確認済 国内サポート正規品 メーカー保証5年 KLMEA128G",
-    "percent_off": 27,
-    "brand": "KIOXIA",
-    "genre": "SSD・メモリーカード",
-    "price": 1945
   },
   "B0CH2X5LBX": {
     "first_seen": "2026-11-27",
@@ -2097,6 +2066,16 @@
     "genre": "モニター・ディスプレイ",
     "price": 27980
   },
+  "B0CPXPKXHS": {
+    "first_seen": "2026-11-27",
+    "first_seen_at": "2026-11-27T21:13:23+09:00",
+    "last_seen": "2026-11-27",
+    "title": "【Amazon.co.jp 限定】IODATA モニター 21.5型 省電力 (HDMI/アナログRGB/スピーカ付/VESA) EX-A221DB | ADSパネル,ブラック",
+    "percent_off": 15,
+    "brand": "アイオーデータ",
+    "genre": "モニター・ディスプレイ",
+    "price": 11030
+  },
   "B0CPXQQLL2": {
     "first_seen": "2026-11-27",
     "first_seen_at": "2026-11-27T00:13:28+09:00",
@@ -2117,15 +2096,26 @@
     "genre": "スマートホーム",
     "price": 6980
   },
-  "B09Z68BVSK": {
+  "B0BN5ZG2T8": {
     "first_seen": "2026-11-27",
-    "first_seen_at": "2026-11-27T00:13:28+09:00",
+    "first_seen_at": "2026-11-27T21:13:23+09:00",
     "last_seen": "2026-11-27",
-    "title": "SwitchBot LEDシーリングライト 6畳 Alexa 無段階 - 調光調色 天井 照明器具 3500lm リモコン付き 取付簡単 省エネ | アレクサ 防虫 防塵 ハブ機能付き スイッチボット 電球色 昼白色 昼光色 2.4GHzWi-Fi Bluetoothに対応 節電対策 5年保証 W2612230",
+    "title": "SwitchBot LEDシーリングライトプロ 12畳 リモコン付き - 無段階 調光調色 スイッチボット 天井 照明器具 5499lm | スマートリモコン機能付き ハブ機能付き 電球色 昼白色 昼光色 取付簡単 防虫 防塵 省エネ 節電対策 2.4GHzWi-Fi Bluetoothに対応 5年保証 W2612250",
     "percent_off": 35,
     "brand": "スイッチボット(SwitchBot)",
     "genre": "スマートホーム",
-    "price": 4537
+    "price": 9737,
+    "past": [
+      {
+        "first_seen": "2026-11-04",
+        "last_seen": "2026-11-12",
+        "title": "SwitchBot LEDシーリングライトプロ 12畳 リモコン付き - 無段階 調光調色 スイッチボット 天井 照明器具 5499lm | スマートリモコン機能付き ハブ機能付き 電球色 昼白色 昼光色 取付簡単 防虫 防塵 省エネ 節電対策 2.4GHzWi-Fi Bluetoothに対応 5年保証 W2612250",
+        "brand": null,
+        "genre": null,
+        "price": null,
+        "percent_off": 15
+      }
+    ]
   },
   "B0CL4R54X4": {
     "first_seen": "2026-11-04",
@@ -2167,15 +2157,15 @@
     "genre": "スマートホーム",
     "price": 7980
   },
-  "B09KCF5Z79": {
+  "B09DGBYQD4": {
     "first_seen": "2026-11-27",
-    "first_seen_at": "2026-11-27T13:13:36+09:00",
+    "first_seen_at": "2026-11-27T00:13:28+09:00",
     "last_seen": "2026-11-27",
-    "title": "SwitchBot LED電球 スマートライト Alexa スマートホーム - スマート電球 E26 スイッチボット 調光調色 広配光 800lm 60W形相当 電球色・昼白色対応 RGBCWマルチカラー 1600万色 間接照明 Google Home IFTTT イフト Siri SmartThings に対応(2個パック)",
+    "title": "【Works with Alexa認定】SwitchBot LED電球 スマートライト Alexa スマートホーム-スマート電球 E26 スイッチボット調光調色 広配光 800lm 60W形相当 電球色・昼白色対応 RGBCWマルチカラー 1600万色 間接照明 Google Home IFTTTイフトSiri SmartThings に対応W1401400​",
     "percent_off": 20,
     "brand": "スイッチボット(SwitchBot)",
     "genre": "スマートホーム",
-    "price": 3024
+    "price": 1584
   },
   "B0GQRLL8Q4": {
     "first_seen": "2026-11-27",
@@ -2186,6 +2176,27 @@
     "brand": "スイッチボット(SwitchBot)",
     "genre": "スマートホーム",
     "price": 21560
+  },
+  "B0FJXTBNXB": {
+    "first_seen": "2026-11-27",
+    "first_seen_at": "2026-11-27T00:13:28+09:00",
+    "last_seen": "2026-11-27",
+    "title": "SwitchBot 温湿度計 パネル 温度計 湿度計 - アレクサ スイッチボット 温湿度管理 エアコン操作 人感センサー搭載 乾燥対策 壁掛け 卓上 | LED大画面 室内温度チェック バックライト付き 物理ボタン 複数デバイス操作 グラフ記録 アラート通知 スマートホーム Alexa Google Home Siri Matter対応（ハブ必要）",
+    "percent_off": 17,
+    "brand": "スイッチボット(SwitchBot)",
+    "genre": "スマートホーム",
+    "price": 5793,
+    "past": [
+      {
+        "first_seen": "2026-11-07",
+        "last_seen": "2026-11-07",
+        "title": "SwitchBot 温湿度計 パネル エアコン操作 温湿度管理 人感センサー搭載 LED 大画面 バックライト付き 壁掛け 卓上 乾燥対策 | スイッチボット 室内温度チェック 室温計 物理ボタン 複数デバイス操作 グラフ記録 アラート通知 スマートホーム Alexa Google Home Siri Matter対応（ハブ必要）",
+        "brand": null,
+        "genre": null,
+        "price": null,
+        "percent_off": 15
+      }
+    ]
   },
   "B0DT6S7NZ8": {
     "first_seen": "2026-11-27",
@@ -2257,25 +2268,15 @@
     "genre": "スマートウォッチ",
     "price": 7200
   },
-  "B0GQL9JZS7": {
+  "B0GQLMGTTS": {
     "first_seen": "2026-11-27",
-    "first_seen_at": "2026-11-27T00:13:28+09:00",
+    "first_seen_at": "2026-11-27T21:13:23+09:00",
     "last_seen": "2026-11-27",
     "title": "Xiaomi Redmi Watch 6 シャオミ スマートウォッチ GPS Bluetooth通話 着信通知 防水 24日間持続 iPhone対応 | 2.07インチ有機EL 2000nits高輝度 薄型軽量 GPS/GNSS搭載 Bluetooth通話対応 録音機能 24日間バッテリー 24時間モニタリング 女性健康管理 スポーツモード ランニング 5ATM防水 水中心拍測定",
     "percent_off": 26,
     "brand": "Xiaomi",
     "genre": "スマートウォッチ",
     "price": 10980
-  },
-  "B0GQLM2HG7": {
-    "first_seen": "2026-11-18",
-    "first_seen_at": "2026-11-18T22:15:10+09:00",
-    "last_seen": "2026-11-27",
-    "title": "Xiaomi Redmi Watch 6 シャオミ スマートウォッチ GPS Bluetooth通話 着信通知 防水 24日間持続 iPhone対応 | 2.07インチ有機EL 2000nits高輝度 薄型軽量 GPS/GNSS搭載 Bluetooth通話対応 録音機能 24日間バッテリー 24時間モニタリング 女性健康管理 スポーツモード ランニング 5ATM防水 水中心拍測定",
-    "percent_off": 26,
-    "brand": "Xiaomi",
-    "genre": "スマートウォッチ",
-    "price": 10981
   },
   "B0GJSCGFTP": {
     "first_seen": "2026-10-13",
@@ -2306,16 +2307,6 @@
     "brand": "ガーミン(GARMIN)",
     "genre": "スマートウォッチ",
     "price": 49800
-  },
-  "B0GX8BVR4L": {
-    "first_seen": "2026-11-01",
-    "first_seen_at": "2026-11-01T19:15:08+09:00",
-    "last_seen": "2026-11-27",
-    "title": "HUAWEI WATCH FIT 5 スマートウォッチ 薄型軽量 大画面 GPS内蔵 10日間ロングバッテリー 通知 健康管理 心拍数 睡眠 ホワイト | iPhone対応 android対応 1.82インチ画面 2500nits高輝度 ワークアウト 転倒検知 情緒測定 生理周期管理 64GBストレージ 録音機能 ランニング 防水",
-    "percent_off": 21,
-    "brand": "HUAWEI(ファーウェイ)",
-    "genre": "スマートウォッチ",
-    "price": 21470
   },
   "B0GX8DRYCX": {
     "first_seen": "2026-09-03",
@@ -2528,11 +2519,11 @@
     "genre": "Amazonデバイス",
     "price": 8980
   },
-  "B09B2PF8S4": {
+  "B09B2T3QBN": {
     "first_seen": "2026-11-27",
-    "first_seen_at": "2026-11-27T13:13:36+09:00",
+    "first_seen_at": "2026-11-27T00:13:28+09:00",
     "last_seen": "2026-11-27",
-    "title": "Amazon Echo Show 5 (エコーショー5) 第3世代 - スマートディスプレイ、2メガピクセルカメラ付き、Alexa+ 早期アクセス対象 | チャコール",
+    "title": "Amazon Echo Show 5 (エコーショー5) 第3世代 - スマートディスプレイ、2メガピクセルカメラ付き、Alexa+ 早期アクセス対象 | クラウドブルー",
     "percent_off": 50,
     "brand": "Amazon",
     "genre": "Amazonデバイス",
@@ -2759,20 +2750,20 @@
     "genre": "キーボード・マウス",
     "price": 2455
   },
-  "B0956X785M": {
+  "B005EUPRC2": {
     "first_seen": "2026-11-27",
-    "first_seen_at": "2026-11-27T01:13:10+09:00",
+    "first_seen_at": "2026-11-27T21:13:23+09:00",
     "last_seen": "2026-11-27",
-    "title": "【Amazon.co.jp限定】 ロジクール ワイヤレスマウス 無線 マウス M185CG M185 グレー 国内正規品 | 小型、軽量、2.4GHzワイヤレス接続、電池式（単3形乾電池 x 1）、電池寿命最大12ケ月、windows10、11以降、macOS 10.5以降、ChromeOS、Linuxカーネル2.6+以降、Amazon.co.jp限定 壁紙ダウンロード付き",
+    "title": "【Amazon.co.jp限定】 ロジクール ワイヤレスマウス 無線 マウス M185RD M185 レッド 国内正規品 | 小型、軽量、2.4GHzワイヤレス接続、電池式（単3形乾電池 x 1）、電池寿命最大12ケ月、windows10、11以降、macOS 10.5以降、ChromeOS、Linuxカーネル2.6+以降、Amazon.co.jp限定 壁紙ダウンロード付き",
     "percent_off": 31,
     "brand": "Logicool(ロジクール)",
     "genre": "キーボード・マウス",
     "price": 989,
     "past": [
       {
-        "first_seen": "2026-10-06",
+        "first_seen": "2026-11-04",
         "last_seen": "2026-11-12",
-        "title": "【Amazon.co.jp限定】 ロジクール ワイヤレスマウス 無線 マウス M185CG M185 グレー 国内正規品 | 小型、軽量、2.4GHzワイヤレス接続、電池式（単3形乾電池 x 1）、電池寿命最大12ケ月、windows10、11以降、macOS 10.5以降、ChromeOS、Linuxカーネル2.6+以降、Amazon.co.jp限定 壁紙ダウンロード付き",
+        "title": "【Amazon.co.jp限定】 ロジクール ワイヤレスマウス 無線 マウス M185RD M185 レッド 国内正規品 | 小型、軽量、2.4GHzワイヤレス接続、電池式（単3形乾電池 x 1）、電池寿命最大12ケ月、windows10、11以降、macOS 10.5以降、ChromeOS、Linuxカーネル2.6+以降、Amazon.co.jp限定 壁紙ダウンロード付き",
         "brand": null,
         "genre": null,
         "price": null,
@@ -3056,6 +3047,27 @@
     "genre": "キーボード・マウス",
     "price": 4700
   },
+  "B09MQ9KK6P": {
+    "first_seen": "2026-11-27",
+    "first_seen_at": "2026-11-27T21:13:23+09:00",
+    "last_seen": "2026-11-27",
+    "title": "エレコム ワイヤレスキーボード Bluetooth 静音 TK-FFBM03SKBK 最大3台マルチペアリング対応 抗菌 iPad/macbook/Surface/Chromebook テンキー付 ブラック",
+    "percent_off": 18,
+    "brand": "エレコム(ELECOM)",
+    "genre": "キーボード・マウス",
+    "price": 2330,
+    "past": [
+      {
+        "first_seen": "2026-11-04",
+        "last_seen": "2026-11-04",
+        "title": "エレコム ワイヤレスキーボード Bluetooth 静音 TK-FFBM03SKBK 最大3台マルチペアリング対応 抗菌 iPad/macbook/Surface/Chromebook テンキー付 ブラック",
+        "brand": null,
+        "genre": null,
+        "price": null,
+        "percent_off": 14
+      }
+    ]
+  },
   "B0FDQKRJJ3": {
     "first_seen": "2026-11-27",
     "first_seen_at": "2026-11-27T00:13:28+09:00",
@@ -3206,11 +3218,11 @@
     "genre": "キーボード・マウス",
     "price": 20009
   },
-  "B0BFHDJT78": {
+  "B0BFHD4XCC": {
     "first_seen": "2026-11-27",
-    "first_seen_at": "2026-11-27T00:13:28+09:00",
+    "first_seen_at": "2026-11-27T21:13:23+09:00",
     "last_seen": "2026-11-27",
-    "title": "REALFORCE R3S キーボード 有線 テンキーレス 45g 英語配列 ブラック R3SD11",
+    "title": "REALFORCE R3S キーボード 有線 テンキーレス 30g 英語配列 ブラック R3SD13",
     "percent_off": 15,
     "brand": "REALFORCE",
     "genre": "キーボード・マウス",
@@ -3246,16 +3258,6 @@
     "genre": "キーボード・マウス",
     "price": 16900
   },
-  "B0HCNM9HTB": {
-    "first_seen": "2026-11-27",
-    "first_seen_at": "2026-11-27T00:13:28+09:00",
-    "last_seen": "2026-11-27",
-    "title": "Logicool G PRO X3 SUPERSTRIKE LIGHTSPEED ワイヤレス ゲーミングマウス G-PPD-X3-STRK-MBd | ラピッドトリガー 8000Hz ポーリングレート 軽量 59g HITS 135時間 USB Type-C 充電 POWERPLAY ワイヤレス ゲーミング マウス ブラック 黒 壁紙ダウンロード付き",
-    "percent_off": 15,
-    "brand": "Logicool G(ロジクール G)",
-    "genre": "キーボード・マウス",
-    "price": 25000
-  },
   "B09J46WG5D": {
     "first_seen": "2026-11-27",
     "first_seen_at": "2026-11-27T01:13:10+09:00",
@@ -3265,6 +3267,16 @@
     "brand": "Logicool(ロジクール)",
     "genre": "キーボード・マウス",
     "price": 1270
+  },
+  "B0HCNM9HTB": {
+    "first_seen": "2026-11-27",
+    "first_seen_at": "2026-11-27T00:13:28+09:00",
+    "last_seen": "2026-11-27",
+    "title": "Logicool G PRO X3 SUPERSTRIKE LIGHTSPEED ワイヤレス ゲーミングマウス G-PPD-X3-STRK-MBd | ラピッドトリガー 8000Hz ポーリングレート 軽量 59g HITS 135時間 USB Type-C 充電 POWERPLAY ワイヤレス ゲーミング マウス ブラック 黒 壁紙ダウンロード付き",
+    "percent_off": 15,
+    "brand": "Logicool G(ロジクール G)",
+    "genre": "キーボード・マウス",
+    "price": 25000
   },
   "B08GS6NK9R": {
     "first_seen": "2026-11-27",
@@ -3336,6 +3348,209 @@
     "genre": "エアフライヤー",
     "price": 11860
   },
+  "B0C3VSNBQH": {
+    "first_seen": "2026-11-27",
+    "first_seen_at": "2026-11-27T00:13:28+09:00",
+    "last_seen": "2026-11-27",
+    "title": "COSORI コソリ ノンフライヤー 2L 一人用 エアフライヤー オイル97%カット 省エネ ミニ 卓上 フライヤー CAF-LI211-WJP | ノンフライヤー 人気 ランキング,PSE認証済み,カラー:ホワイト,一人用,エアーフライヤー,電気フライヤー,専用レシピ付き,揚げ物",
+    "percent_off": 16,
+    "brand": "Cosori",
+    "genre": "エアフライヤー",
+    "price": 7542,
+    "past": [
+      {
+        "first_seen": "2026-11-04",
+        "last_seen": "2026-11-11",
+        "title": "COSORI コソリ ノンフライヤー 2L 一人用 エアフライヤー オイル97%カット 省エネ ミニ 卓上 フライヤー CAF-LI211-WJP | ノンフライヤー 人気 ランキング,PSE認証済み,カラー:ホワイト,一人用,エアーフライヤー,電気フライヤー,専用レシピ付き,揚げ物",
+        "brand": null,
+        "genre": null,
+        "price": null,
+        "percent_off": 15
+      }
+    ]
+  },
+  "B0CTBN5D74": {
+    "first_seen": "2026-11-27",
+    "first_seen_at": "2026-11-27T00:13:28+09:00",
+    "last_seen": "2026-11-27",
+    "title": "COSORI コソリ ノンフライヤー 6L大容量 家庭用 エアフライヤー DCモーター 高速 最高温230℃ タイマー air fryer 発酵 揚げ物 ポテト 専用レシピ付き ブラック CAF-DC601",
+    "percent_off": 14,
+    "brand": "Cosori",
+    "genre": "エアフライヤー",
+    "price": 17270
+  },
+  "B0DZ7WF87P": {
+    "first_seen": "2026-11-22",
+    "first_seen_at": "2026-11-22T04:14:23+09:00",
+    "last_seen": "2026-11-27",
+    "title": "Apple 11 インチ iPad (A16): 11 インチモデル、Liquid Retina ディスプレイ、128GB、Wi-Fi 6、12MP フロント/12MP バックカメラ、Touch ID、一日中使えるバ ッテリー - シルバー",
+    "percent_off": 5,
+    "brand": "Apple(アップル)",
+    "genre": "Apple製品",
+    "price": 71082,
+    "past": [
+      {
+        "first_seen": "2026-10-30",
+        "last_seen": "2026-10-31",
+        "title": "Apple 11 インチ iPad (A16): 11 インチモデル、Liquid Retina ディスプレイ、128GB、Wi-Fi 6、12MP フロント/12MP バックカメラ、Touch ID、一日中使えるバ ッテリー - シルバー",
+        "brand": null,
+        "genre": null,
+        "price": null,
+        "percent_off": 5
+      }
+    ]
+  },
+  "B0F3XFNHCW": {
+    "first_seen": "2026-11-01",
+    "first_seen_at": "2026-11-01T02:15:45+09:00",
+    "last_seen": "2026-11-27",
+    "title": "ソニー(SONY) WF-C710N ブラック ワイヤレスイヤホン 高性能ノイズキャンセリング Bluetoothロングバッテリー 外音取り込み IPX4防滴性能 軽量 コンパクト マルチポイント接続",
+    "percent_off": 29,
+    "brand": "Sony",
+    "genre": "ワイヤレスイヤホン",
+    "price": 12449
+  },
+  "B0FRSGC73Z": {
+    "first_seen": "2026-11-21",
+    "first_seen_at": "2026-11-21T13:13:27+09:00",
+    "last_seen": "2026-11-27",
+    "title": "Xiaomi シャオミ REDMI Buds 8 Lite ワイヤレスイヤホン Bluetooth 5.4 ノイズキャンセリング ANC 36時間再生 | iPhone/Android対応 アクティブノイズキャンセリング 外音取り込みモード マルチポイント 12.4mmドライバー 最大36時間再生 急速充電 専用アプリ カスタムEQ 通勤 通学 オンライン会議",
+    "percent_off": 24,
+    "brand": "Xiaomi",
+    "genre": "ワイヤレスイヤホン",
+    "price": 2781
+  },
+  "B0CBKQZXT7": {
+    "first_seen": "2026-11-27",
+    "first_seen_at": "2026-11-27T00:13:28+09:00",
+    "last_seen": "2026-11-27",
+    "title": "ソニー(SONY)ワイヤレスノイズキャンセリングイヤホン WF-1000XM5 :【VGP2025金賞】 / 完全ワイヤレス/圧倒的ノイズキャンセリング性能/小型軽量設計/高性能マイク通話品質/Amazon Alexa搭載/Bluetooth/LDAC対応 / 最大8時間連続再生 / IPX4防滴性能 / マルチポイント対応/ブラック/WF-1000XM5 BC",
+    "percent_off": 17,
+    "brand": "Sony",
+    "genre": "ワイヤレスイヤホン",
+    "price": 22000
+  },
+  "B0FK4JGDPG": {
+    "first_seen": "2026-11-27",
+    "first_seen_at": "2026-11-27T06:13:27+09:00",
+    "last_seen": "2026-11-27",
+    "title": "Belkin Qi2 25W 3in1 ワイヤレス充電器 iPhone18対応 折りたたみ式充電スタンド MagSafe/急速充電対応 3台同時充電 | 【アマゾン限定】MagSafe充電器 Qi2公式認証、最大25W急速充電 パッシブ冷却設計、iPhone18/17〜12、Apple Watch・AirPods対応、折りたたみ可能 持ち運びにも最適 旅行・出張に便利、 2年保証 ブラック",
+    "percent_off": 32,
+    "brand": "Belkin",
+    "genre": "充電器",
+    "price": 10879
+  },
+  "B0H6JNDVKT": {
+    "first_seen": "2026-11-27",
+    "first_seen_at": "2026-11-27T00:13:28+09:00",
+    "last_seen": "2026-11-27",
+    "title": "Anker Nano Charger Neo (AVS対応,最大65W出力) ブラック - AVS対応で最大65W出力(USB-C/Type-C×1) | 45W〜65Wのダイナミック急速充電に対応。AVS対応。発熱を抑えた充電、180度折りたたみ式プラグ、ActiveShield 4.0、Type-C充電器、iPhone 18/17 Pro/Pro MaxおよびMacBook向け急速充電",
+    "percent_off": 25,
+    "brand": "Anker",
+    "genre": "充電器",
+    "price": 2990
+  },
+  "B08PTPTMH5": {
+    "first_seen": "2026-10-13",
+    "first_seen_at": "2026-10-13T09:15:04+09:00",
+    "last_seen": "2026-11-27",
+    "title": "KIOXIA(キオクシア) 旧東芝メモリ microSD 128GB UHS-I Class10 (最大読出速度100MB/s) Nintendo Switch動作確認済 国内サポート正規品 メーカー保証5年 KLMEA128G",
+    "percent_off": 27,
+    "brand": "KIOXIA",
+    "genre": "SSD・メモリーカード",
+    "price": 1945
+  },
+  "B09Z68BVSK": {
+    "first_seen": "2026-11-27",
+    "first_seen_at": "2026-11-27T00:13:28+09:00",
+    "last_seen": "2026-11-27",
+    "title": "SwitchBot LEDシーリングライト 6畳 Alexa 無段階 - 調光調色 天井 照明器具 3500lm リモコン付き 取付簡単 省エネ | アレクサ 防虫 防塵 ハブ機能付き スイッチボット 電球色 昼白色 昼光色 2.4GHzWi-Fi Bluetoothに対応 節電対策 5年保証 W2612230",
+    "percent_off": 35,
+    "brand": "スイッチボット(SwitchBot)",
+    "genre": "スマートホーム",
+    "price": 4537
+  },
+  "B09KCF5Z79": {
+    "first_seen": "2026-11-27",
+    "first_seen_at": "2026-11-27T13:13:36+09:00",
+    "last_seen": "2026-11-27",
+    "title": "SwitchBot LED電球 スマートライト Alexa スマートホーム - スマート電球 E26 スイッチボット 調光調色 広配光 800lm 60W形相当 電球色・昼白色対応 RGBCWマルチカラー 1600万色 間接照明 Google Home IFTTT イフト Siri SmartThings に対応(2個パック)",
+    "percent_off": 20,
+    "brand": "スイッチボット(SwitchBot)",
+    "genre": "スマートホーム",
+    "price": 3024
+  },
+  "B0GQL9JZS7": {
+    "first_seen": "2026-11-27",
+    "first_seen_at": "2026-11-27T00:13:28+09:00",
+    "last_seen": "2026-11-27",
+    "title": "Xiaomi Redmi Watch 6 シャオミ スマートウォッチ GPS Bluetooth通話 着信通知 防水 24日間持続 iPhone対応 | 2.07インチ有機EL 2000nits高輝度 薄型軽量 GPS/GNSS搭載 Bluetooth通話対応 録音機能 24日間バッテリー 24時間モニタリング 女性健康管理 スポーツモード ランニング 5ATM防水 水中心拍測定",
+    "percent_off": 26,
+    "brand": "Xiaomi",
+    "genre": "スマートウォッチ",
+    "price": 10980
+  },
+  "B0GQLM2HG7": {
+    "first_seen": "2026-11-18",
+    "first_seen_at": "2026-11-18T22:15:10+09:00",
+    "last_seen": "2026-11-27",
+    "title": "Xiaomi Redmi Watch 6 シャオミ スマートウォッチ GPS Bluetooth通話 着信通知 防水 24日間持続 iPhone対応 | 2.07インチ有機EL 2000nits高輝度 薄型軽量 GPS/GNSS搭載 Bluetooth通話対応 録音機能 24日間バッテリー 24時間モニタリング 女性健康管理 スポーツモード ランニング 5ATM防水 水中心拍測定",
+    "percent_off": 26,
+    "brand": "Xiaomi",
+    "genre": "スマートウォッチ",
+    "price": 10981
+  },
+  "B0GX8BVR4L": {
+    "first_seen": "2026-11-01",
+    "first_seen_at": "2026-11-01T19:15:08+09:00",
+    "last_seen": "2026-11-27",
+    "title": "HUAWEI WATCH FIT 5 スマートウォッチ 薄型軽量 大画面 GPS内蔵 10日間ロングバッテリー 通知 健康管理 心拍数 睡眠 ホワイト | iPhone対応 android対応 1.82インチ画面 2500nits高輝度 ワークアウト 転倒検知 情緒測定 生理周期管理 64GBストレージ 録音機能 ランニング 防水",
+    "percent_off": 21,
+    "brand": "HUAWEI(ファーウェイ)",
+    "genre": "スマートウォッチ",
+    "price": 21470
+  },
+  "B09B2PF8S4": {
+    "first_seen": "2026-11-27",
+    "first_seen_at": "2026-11-27T13:13:36+09:00",
+    "last_seen": "2026-11-27",
+    "title": "Amazon Echo Show 5 (エコーショー5) 第3世代 - スマートディスプレイ、2メガピクセルカメラ付き、Alexa+ 早期アクセス対象 | チャコール",
+    "percent_off": 50,
+    "brand": "Amazon",
+    "genre": "Amazonデバイス",
+    "price": 8980
+  },
+  "B0956X785M": {
+    "first_seen": "2026-11-27",
+    "first_seen_at": "2026-11-27T01:13:10+09:00",
+    "last_seen": "2026-11-27",
+    "title": "【Amazon.co.jp限定】 ロジクール ワイヤレスマウス 無線 マウス M185CG M185 グレー 国内正規品 | 小型、軽量、2.4GHzワイヤレス接続、電池式（単3形乾電池 x 1）、電池寿命最大12ケ月、windows10、11以降、macOS 10.5以降、ChromeOS、Linuxカーネル2.6+以降、Amazon.co.jp限定 壁紙ダウンロード付き",
+    "percent_off": 31,
+    "brand": "Logicool(ロジクール)",
+    "genre": "キーボード・マウス",
+    "price": 989,
+    "past": [
+      {
+        "first_seen": "2026-10-06",
+        "last_seen": "2026-11-12",
+        "title": "【Amazon.co.jp限定】 ロジクール ワイヤレスマウス 無線 マウス M185CG M185 グレー 国内正規品 | 小型、軽量、2.4GHzワイヤレス接続、電池式（単3形乾電池 x 1）、電池寿命最大12ケ月、windows10、11以降、macOS 10.5以降、ChromeOS、Linuxカーネル2.6+以降、Amazon.co.jp限定 壁紙ダウンロード付き",
+        "brand": null,
+        "genre": null,
+        "price": null,
+        "percent_off": 30
+      }
+    ]
+  },
+  "B0BFHDJT78": {
+    "first_seen": "2026-11-27",
+    "first_seen_at": "2026-11-27T00:13:28+09:00",
+    "last_seen": "2026-11-27",
+    "title": "REALFORCE R3S キーボード 有線 テンキーレス 45g 英語配列 ブラック R3SD11",
+    "percent_off": 15,
+    "brand": "REALFORCE",
+    "genre": "キーボード・マウス",
+    "price": 21879
+  },
   "B0C3VYP1PG": {
     "first_seen": "2026-11-27",
     "first_seen_at": "2026-11-27T01:13:10+09:00",
@@ -3356,16 +3571,6 @@
         "percent_off": 15
       }
     ]
-  },
-  "B0CTBN5D74": {
-    "first_seen": "2026-11-27",
-    "first_seen_at": "2026-11-27T00:13:28+09:00",
-    "last_seen": "2026-11-27",
-    "title": "COSORI コソリ ノンフライヤー 6L大容量 家庭用 エアフライヤー DCモーター 高速 最高温230℃ タイマー air fryer 発酵 揚げ物 ポテト 専用レシピ付き ブラック CAF-DC601",
-    "percent_off": 14,
-    "brand": "Cosori",
-    "genre": "エアフライヤー",
-    "price": 17270
   },
   "B0HJB11VYX": {
     "first_seen": "2026-11-21",
@@ -3710,16 +3915,6 @@
     "genre": "充電器",
     "price": 1583
   },
-  "B09DGBYQD4": {
-    "first_seen": "2026-11-27",
-    "first_seen_at": "2026-11-27T00:13:28+09:00",
-    "last_seen": "2026-11-27",
-    "title": "【Works with Alexa認定】SwitchBot LED電球 スマートライト Alexa スマートホーム-スマート電球 E26 スイッチボット調光調色 広配光 800lm 60W形相当 電球色・昼白色対応 RGBCWマルチカラー 1600万色 間接照明 Google Home IFTTTイフトSiri SmartThings に対応W1401400​",
-    "percent_off": 20,
-    "brand": "スイッチボット(SwitchBot)",
-    "genre": "スマートホーム",
-    "price": 1584
-  },
   "B09B2RLPLV": {
     "first_seen": "2026-11-27",
     "first_seen_at": "2026-11-27T01:13:10+09:00",
@@ -3951,27 +4146,6 @@
       }
     ]
   },
-  "B0FJXTBNXB": {
-    "first_seen": "2026-11-27",
-    "first_seen_at": "2026-11-27T00:13:28+09:00",
-    "last_seen": "2026-11-27",
-    "title": "SwitchBot 温湿度計 パネル 温度計 湿度計 - アレクサ スイッチボット 温湿度管理 エアコン操作 人感センサー搭載 乾燥対策 壁掛け 卓上 | LED大画面 室内温度チェック バックライト付き 物理ボタン 複数デバイス操作 グラフ記録 アラート通知 スマートホーム Alexa Google Home Siri Matter対応（ハブ必要）",
-    "percent_off": 17,
-    "brand": "スイッチボット(SwitchBot)",
-    "genre": "スマートホーム",
-    "price": 5793,
-    "past": [
-      {
-        "first_seen": "2026-11-07",
-        "last_seen": "2026-11-07",
-        "title": "SwitchBot 温湿度計 パネル エアコン操作 温湿度管理 人感センサー搭載 LED 大画面 バックライト付き 壁掛け 卓上 乾燥対策 | スイッチボット 室内温度チェック 室温計 物理ボタン 複数デバイス操作 グラフ記録 アラート通知 スマートホーム Alexa Google Home Siri Matter対応（ハブ必要）",
-        "brand": null,
-        "genre": null,
-        "price": null,
-        "percent_off": 15
-      }
-    ]
-  },
   "B0FHTLTPSY": {
     "first_seen": "2026-11-27",
     "first_seen_at": "2026-11-27T00:13:28+09:00",
@@ -3991,16 +4165,6 @@
     "brand": "Amazon",
     "genre": "Amazonデバイス",
     "price": 7480
-  },
-  "B09B2T3QBN": {
-    "first_seen": "2026-11-27",
-    "first_seen_at": "2026-11-27T00:13:28+09:00",
-    "last_seen": "2026-11-27",
-    "title": "Amazon Echo Show 5 (エコーショー5) 第3世代 - スマートディスプレイ、2メガピクセルカメラ付き、Alexa+ 早期アクセス対象 | クラウドブルー",
-    "percent_off": 50,
-    "brand": "Amazon",
-    "genre": "Amazonデバイス",
-    "price": 8980
   },
   "B0H25PNF9J": {
     "first_seen": "2026-11-27",
@@ -4156,27 +4320,6 @@
     "genre": "キーボード・マウス",
     "price": 21879
   },
-  "B0C3VSNBQH": {
-    "first_seen": "2026-11-27",
-    "first_seen_at": "2026-11-27T00:13:28+09:00",
-    "last_seen": "2026-11-27",
-    "title": "COSORI コソリ ノンフライヤー 2L 一人用 エアフライヤー オイル97%カット 省エネ ミニ 卓上 フライヤー CAF-LI211-WJP | ノンフライヤー 人気 ランキング,PSE認証済み,カラー:ホワイト,一人用,エアーフライヤー,電気フライヤー,専用レシピ付き,揚げ物",
-    "percent_off": 16,
-    "brand": "Cosori",
-    "genre": "エアフライヤー",
-    "price": 7542,
-    "past": [
-      {
-        "first_seen": "2026-11-04",
-        "last_seen": "2026-11-11",
-        "title": "COSORI コソリ ノンフライヤー 2L 一人用 エアフライヤー オイル97%カット 省エネ ミニ 卓上 フライヤー CAF-LI211-WJP | ノンフライヤー 人気 ランキング,PSE認証済み,カラー:ホワイト,一人用,エアーフライヤー,電気フライヤー,専用レシピ付き,揚げ物",
-        "brand": null,
-        "genre": null,
-        "price": null,
-        "percent_off": 15
-      }
-    ]
-  },
   "B0B8D56B2B": {
     "first_seen": "2026-11-27",
     "first_seen_at": "2026-11-27T00:13:28+09:00",
@@ -4286,16 +4429,6 @@
     "brand": "Anker",
     "genre": "充電器",
     "price": 2790
-  },
-  "B08PTQMZY3": {
-    "first_seen": "2026-10-27",
-    "first_seen_at": "2026-10-27T21:14:38+09:00",
-    "last_seen": "2026-11-26",
-    "title": "KIOXIA(キオクシア) 旧東芝メモリ microSD 64GB UHS-I Class10 (最大読出速度100MB/s) Nintendo Switch動作確認済 国内サポート正規品 メーカー保証5年 KLMEA064G",
-    "percent_off": 29,
-    "brand": "KIOXIA",
-    "genre": "SSD・メモリーカード",
-    "price": 1690
   },
   "B0C5X8DP5G": {
     "first_seen": "2026-11-23",
@@ -5894,16 +6027,6 @@
     "genre": "スマートウォッチ",
     "price": 64972
   },
-  "B0F3XBK3HK": {
-    "first_seen": "2026-11-10",
-    "first_seen_at": "2026-11-10T22:15:00+09:00",
-    "last_seen": "2026-11-16",
-    "title": "ソニー(SONY) WF-C710N ホワイト ワイヤレスイヤホン 高性能ノイズキャンセリング Bluetoothロングバッテリー 外音取り込み IPX4防滴性能 軽量 コンパクト マルチポイント接続",
-    "percent_off": 29,
-    "brand": "Sony",
-    "genre": "ワイヤレスイヤホン",
-    "price": 12495
-  },
   "B0FJRGKP9F": {
     "first_seen": "2026-10-13",
     "first_seen_at": "2026-10-13T22:15:31+09:00",
@@ -6272,14 +6395,6 @@
     "percent_off": 20,
     "archived": true
   },
-  "B0BN5ZG2T8": {
-    "first_seen": "2026-11-04",
-    "first_seen_at": "2026-11-04T21:15:05+09:00",
-    "last_seen": "2026-11-12",
-    "title": "SwitchBot LEDシーリングライトプロ 12畳 リモコン付き - 無段階 調光調色 スイッチボット 天井 照明器具 5499lm | スマートリモコン機能付き ハブ機能付き 電球色 昼白色 昼光色 取付簡単 防虫 防塵 省エネ 節電対策 2.4GHzWi-Fi Bluetoothに対応 5年保証 W2612250",
-    "percent_off": 15,
-    "archived": true
-  },
   "B0DBLVH7GX": {
     "first_seen": "2026-11-05",
     "first_seen_at": "2026-11-05T21:15:35+09:00",
@@ -6390,14 +6505,6 @@
     "last_seen": "2026-11-12",
     "title": "HUAWEI WATCH FIT 5 スマートウォッチ 薄型軽量 大画面 GPS内蔵 10日間ロングバッテリー 通知 健康管理 心拍数 睡眠 グリーン | iPhone対応 android対応 1.82インチ画面 2500nits高輝度 ワークアウト 転倒検知 情緒測定 生理周期管理 64GBストレージ 録音機能 ランニング 防水",
     "percent_off": 17,
-    "archived": true
-  },
-  "B005EUPRC2": {
-    "first_seen": "2026-11-04",
-    "first_seen_at": "2026-11-04T21:15:05+09:00",
-    "last_seen": "2026-11-12",
-    "title": "【Amazon.co.jp限定】 ロジクール ワイヤレスマウス 無線 マウス M185RD M185 レッド 国内正規品 | 小型、軽量、2.4GHzワイヤレス接続、電池式（単3形乾電池 x 1）、電池寿命最大12ケ月、windows10、11以降、macOS 10.5以降、ChromeOS、Linuxカーネル2.6+以降、Amazon.co.jp限定 壁紙ダウンロード付き",
-    "percent_off": 30,
     "archived": true
   },
   "B0FG6M4DFP": {
@@ -7254,14 +7361,6 @@
     "last_seen": "2026-11-04",
     "title": "Anker Nano Charger (20W) ダークグレー | USB-C 急速充電器【PSE技術基準適合/PowerIQ 3.0",
     "percent_off": 21,
-    "archived": true
-  },
-  "B09MQ9KK6P": {
-    "first_seen": "2026-11-04",
-    "first_seen_at": "2026-11-04T22:14:46+09:00",
-    "last_seen": "2026-11-04",
-    "title": "エレコム ワイヤレスキーボード Bluetooth 静音 TK-FFBM03SKBK 最大3台マルチペアリング対応 抗菌 iPad/macbook/Surface/Chromebook テンキー付 ブラック",
-    "percent_off": 14,
     "archived": true
   },
   "B0G529YNFK": {
