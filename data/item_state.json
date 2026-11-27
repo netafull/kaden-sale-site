@@ -1,24 +1,4 @@
 {
-  "B0DGJBNYVY": {
-    "first_seen": "2026-09-05",
-    "first_seen_at": "2026-09-05T08:14:38+09:00",
-    "last_seen": "2026-11-27",
-    "title": "Apple AirPods 4 アクティブノイズ キャンセリング搭載、ワイヤレスイヤホン、Bluetooth 5.3、ライブ翻訳、適応型オーディオ、外部音取り込みモード、パーソナライズされた空間オーディオ、USB-C充電ケース、ワイヤレス充電、H2チップ、防塵性能と耐汗耐水性能、「探す」対応、Qi充電",
-    "percent_off": 39,
-    "brand": "Apple(アップル)",
-    "genre": "Apple製品",
-    "price": 20000
-  },
-  "B0DT3XJKH9": {
-    "first_seen": "2026-09-05",
-    "first_seen_at": "2026-09-05T21:15:05+09:00",
-    "last_seen": "2026-11-27",
-    "title": "Apple AirPods 4ワイヤレスイヤーバッド、Bluetoothヘッドフォン、アクティブノイズ キャンセリング搭載、適応型オーディオ、外部音取り込みモード、パーソナライズされ た空間オーディオ、USB-C充電ケース、ワイヤレス充電、H2チップ + 延長2年 AppleCare+ for Headphones - AirPods",
-    "percent_off": 37,
-    "brand": "Apple(アップル)",
-    "genre": "Apple製品",
-    "price": 23900
-  },
   "B0D3J7MFTT": {
     "first_seen": "2026-11-27",
     "first_seen_at": "2026-11-27T02:14:47+09:00",
@@ -1122,27 +1102,6 @@
     "genre": "Apple製品",
     "price": 51919
   },
-  "B0DZ7WF87P": {
-    "first_seen": "2026-11-22",
-    "first_seen_at": "2026-11-22T04:14:23+09:00",
-    "last_seen": "2026-11-27",
-    "title": "Apple 11 インチ iPad (A16): 11 インチモデル、Liquid Retina ディスプレイ、128GB、Wi-Fi 6、12MP フロント/12MP バックカメラ、Touch ID、一日中使えるバ ッテリー - シルバー",
-    "percent_off": 5,
-    "brand": "Apple(アップル)",
-    "genre": "Apple製品",
-    "price": 71082,
-    "past": [
-      {
-        "first_seen": "2026-10-30",
-        "last_seen": "2026-10-31",
-        "title": "Apple 11 インチ iPad (A16): 11 インチモデル、Liquid Retina ディスプレイ、128GB、Wi-Fi 6、12MP フロント/12MP バックカメラ、Touch ID、一日中使えるバ ッテリー - シルバー",
-        "brand": null,
-        "genre": null,
-        "price": null,
-        "percent_off": 5
-      }
-    ]
-  },
   "B0GR1NTKL9": {
     "first_seen": "2026-11-24",
     "first_seen_at": "2026-11-24T10:13:28+09:00",
@@ -1282,6 +1241,27 @@
     "brand": "Belkin",
     "genre": "モバイルバッテリー",
     "price": 1540
+  },
+  "B0D4F34SB4": {
+    "first_seen": "2026-11-27",
+    "first_seen_at": "2026-11-27T17:13:13+09:00",
+    "last_seen": "2026-11-27",
+    "title": "UGREEN 145W 4-in-1モバイルバッテリー 20000mAh 15Wマグネット式ワイヤレス充電対応 3ポート | Qi2/Magsafe対応 TFTディスプレイ 大容量 縦置き 急速充電対応 パススルー/低電流モード PSE技術基準適合 MacBook/iPhone 18 17シリーズなど/スマホ/ノートPC/出張/防災/旅行対応 PB771",
+    "percent_off": 43,
+    "brand": "UGREEN",
+    "genre": "モバイルバッテリー",
+    "price": 12190,
+    "past": [
+      {
+        "first_seen": "2026-07-24",
+        "last_seen": "2026-11-01",
+        "title": "UGREEN 145W 4-in-1モバイルバッテリー 20000mAh 15Wワイヤレス充電対応 3ポート iPhone 18 Pro/Duo対応 | Qi2/Magsafe対応 TFTディスプレイ 大容量 縦置き 急速充電対応 パススルー/低電流モード PSE技術基準適合 MacBook/iPhone 18 17シリーズなど/スマホ/ノートPC/出張/防災/旅行対応 PB771",
+        "brand": null,
+        "genre": null,
+        "price": null,
+        "percent_off": 40
+      }
+    ]
   },
   "B0CTLQRSFX": {
     "first_seen": "2026-11-27",
@@ -1618,6 +1598,16 @@
     "first_seen_at": "2026-11-07T07:15:07+09:00",
     "last_seen": "2026-11-27",
     "title": "Anker PowerPort III 3-Port 65W Pod ホワイト - 最大65W出力の充電器 / USB-C×2 USB-A×1 | 65W USB-C/Type-C 急速充電器 ノートPCとスマホを3台同時充電。USB-C/Type-C 2ポートとUSB-A1ポート搭載。Anker GaN II採用。MacBook Pro MacBook Air iPad iPhone対応",
+    "percent_off": 40,
+    "brand": "Anker",
+    "genre": "充電器",
+    "price": 3290
+  },
+  "B09CH44769": {
+    "first_seen": "2026-11-04",
+    "first_seen_at": "2026-11-04T01:15:06+09:00",
+    "last_seen": "2026-11-27",
+    "title": "Anker PowerPort III 3-Port 65W Pod ブラック - 最大65W出力の充電器 / USB-C×2 USB-A×1 | 65W USB-C/Type-C 急速充電器 ノートPCとスマホを3台同時充電。USB-C/Type-C 2ポートとUSB-A1ポート搭載。Anker GaN II採用。MacBook Pro MacBook Air iPad iPhone対応",
     "percent_off": 40,
     "brand": "Anker",
     "genre": "充電器",
@@ -1976,11 +1966,11 @@
     "genre": "充電器",
     "price": 1790
   },
-  "B0H329XGNF": {
+  "B0H3281V2P": {
     "first_seen": "2026-11-27",
-    "first_seen_at": "2026-11-27T01:13:10+09:00",
+    "first_seen_at": "2026-11-27T07:13:41+09:00",
     "last_seen": "2026-11-27",
-    "title": "CIO NovaPort SLIM DUOII 65W2C PD急速充電器 USB-C×2 180°スイングプラグ 薄型軽量90g (ブラック) | 急速充電 2ポート 薄型 軽量 PD PPS NovaIntelligence ノートPC iPhone Switch2向け",
+    "title": "CIO NovaPort SLIM DUOII 65W2C PD急速充電器 USB-C×2 180°スイングプラグ 薄型軽90g (ホワイト) | 急速充電 2ポート 薄型 軽量 PD PPS NovaIntelligence ノートPC iPhone Switch2向け",
     "percent_off": 17,
     "brand": "CIO",
     "genre": "充電器",
@@ -3406,11 +3396,52 @@
     "genre": "エアフライヤー",
     "price": 17270
   },
-  "B0H3281V2P": {
-    "first_seen": "2026-11-27",
-    "first_seen_at": "2026-11-27T07:13:41+09:00",
+  "B0DGJBNYVY": {
+    "first_seen": "2026-09-05",
+    "first_seen_at": "2026-09-05T08:14:38+09:00",
     "last_seen": "2026-11-27",
-    "title": "CIO NovaPort SLIM DUOII 65W2C PD急速充電器 USB-C×2 180°スイングプラグ 薄型軽90g (ホワイト) | 急速充電 2ポート 薄型 軽量 PD PPS NovaIntelligence ノートPC iPhone Switch2向け",
+    "title": "Apple AirPods 4 アクティブノイズ キャンセリング搭載、ワイヤレスイヤホン、Bluetooth 5.3、ライブ翻訳、適応型オーディオ、外部音取り込みモード、パーソナライズされた空間オーディオ、USB-C充電ケース、ワイヤレス充電、H2チップ、防塵性能と耐汗耐水性能、「探す」対応、Qi充電",
+    "percent_off": 39,
+    "brand": "Apple(アップル)",
+    "genre": "Apple製品",
+    "price": 20000
+  },
+  "B0DT3XJKH9": {
+    "first_seen": "2026-09-05",
+    "first_seen_at": "2026-09-05T21:15:05+09:00",
+    "last_seen": "2026-11-27",
+    "title": "Apple AirPods 4ワイヤレスイヤーバッド、Bluetoothヘッドフォン、アクティブノイズ キャンセリング搭載、適応型オーディオ、外部音取り込みモード、パーソナライズされ た空間オーディオ、USB-C充電ケース、ワイヤレス充電、H2チップ + 延長2年 AppleCare+ for Headphones - AirPods",
+    "percent_off": 37,
+    "brand": "Apple(アップル)",
+    "genre": "Apple製品",
+    "price": 23900
+  },
+  "B0DZ7WF87P": {
+    "first_seen": "2026-11-22",
+    "first_seen_at": "2026-11-22T04:14:23+09:00",
+    "last_seen": "2026-11-27",
+    "title": "Apple 11 インチ iPad (A16): 11 インチモデル、Liquid Retina ディスプレイ、128GB、Wi-Fi 6、12MP フロント/12MP バックカメラ、Touch ID、一日中使えるバ ッテリー - シルバー",
+    "percent_off": 5,
+    "brand": "Apple(アップル)",
+    "genre": "Apple製品",
+    "price": 71082,
+    "past": [
+      {
+        "first_seen": "2026-10-30",
+        "last_seen": "2026-10-31",
+        "title": "Apple 11 インチ iPad (A16): 11 インチモデル、Liquid Retina ディスプレイ、128GB、Wi-Fi 6、12MP フロント/12MP バックカメラ、Touch ID、一日中使えるバ ッテリー - シルバー",
+        "brand": null,
+        "genre": null,
+        "price": null,
+        "percent_off": 5
+      }
+    ]
+  },
+  "B0H329XGNF": {
+    "first_seen": "2026-11-27",
+    "first_seen_at": "2026-11-27T01:13:10+09:00",
+    "last_seen": "2026-11-27",
+    "title": "CIO NovaPort SLIM DUOII 65W2C PD急速充電器 USB-C×2 180°スイングプラグ 薄型軽量90g (ブラック) | 急速充電 2ポート 薄型 軽量 PD PPS NovaIntelligence ノートPC iPhone Switch2向け",
     "percent_off": 17,
     "brand": "CIO",
     "genre": "充電器",
@@ -3738,16 +3769,6 @@
     "brand": "Fitbit",
     "genre": "スマートウォッチ",
     "price": 16800
-  },
-  "B09CH44769": {
-    "first_seen": "2026-11-04",
-    "first_seen_at": "2026-11-04T01:15:06+09:00",
-    "last_seen": "2026-11-27",
-    "title": "Anker PowerPort III 3-Port 65W Pod ブラック - 最大65W出力の充電器 / USB-C×2 USB-A×1 | 65W USB-C/Type-C 急速充電器 ノートPCとスマホを3台同時充電。USB-C/Type-C 2ポートとUSB-A1ポート搭載。Anker GaN II採用。MacBook Pro MacBook Air iPad iPhone対応",
-    "percent_off": 40,
-    "brand": "Anker",
-    "genre": "充電器",
-    "price": 3290
   },
   "B0B1KKRLTG": {
     "first_seen": "2026-11-27",
@@ -7429,14 +7450,6 @@
     "last_seen": "2026-11-01",
     "title": "UGREEN Air モバイルバッテリー 10000mAh 薄型 Qi2 15W MagSafe ケーブル内蔵 iPhone18Pro対応 | 【ATL製セル×難燃技術】マグネット式ワイヤレス充電｜軽量・小型設計｜USB-C PD 30W対応 ｜パススルー充電対応｜iPhone18 Pro/17/16/15 シリーズ/ Air対応｜PB570｜ ホワイト",
     "percent_off": 30,
-    "archived": true
-  },
-  "B0D4F34SB4": {
-    "first_seen": "2026-07-24",
-    "first_seen_at": "2026-07-24T12:00:00+09:00",
-    "last_seen": "2026-11-01",
-    "title": "UGREEN 145W 4-in-1モバイルバッテリー 20000mAh 15Wワイヤレス充電対応 3ポート iPhone 18 Pro/Duo対応 | Qi2/Magsafe対応 TFTディスプレイ 大容量 縦置き 急速充電対応 パススルー/低電流モード PSE技術基準適合 MacBook/iPhone 18 17シリーズなど/スマホ/ノートPC/出張/防災/旅行対応 PB771",
-    "percent_off": 40,
     "archived": true
   },
   "B0CQY7SRTY": {
