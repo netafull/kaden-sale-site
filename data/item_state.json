@@ -19,11 +19,11 @@
     "genre": "Apple製品",
     "price": 107879
   },
-  "B0FQG1QPLW": {
+  "B0FQFLWSWZ": {
     "first_seen": "2026-11-27",
-    "first_seen_at": "2026-11-27T00:13:28+09:00",
+    "first_seen_at": "2026-11-27T04:13:46+09:00",
     "last_seen": "2026-11-28",
-    "title": "Apple iPhone Air 256GB (SIMフリー) | 最大120HzのProMotionを採用した6.5インチディスプレイ、パワフルなA19 Proチップ、センターフレームフロントカメラ、一日中使えるバッテリー；スカイブルー",
+    "title": "Apple iPhone Air 256GB (SIMフリー) | 最大120HzのProMotionを採用した6.5インチディスプレイ、パワフルなA19 Proチップ、センターフレームフロントカメラ、一日中使えるバッテリー；スペースブラック",
     "percent_off": 23,
     "brand": "Apple(アップル)",
     "genre": "Apple製品",
@@ -39,16 +39,6 @@
     "genre": "Apple製品",
     "price": 55354
   },
-  "B0FQFLWSWZ": {
-    "first_seen": "2026-11-27",
-    "first_seen_at": "2026-11-27T04:13:46+09:00",
-    "last_seen": "2026-11-28",
-    "title": "Apple iPhone Air 256GB (SIMフリー) | 最大120HzのProMotionを採用した6.5インチディスプレイ、パワフルなA19 Proチップ、センターフレームフロントカメラ、一日中使えるバッテリー；スペースブラック",
-    "percent_off": 23,
-    "brand": "Apple(アップル)",
-    "genre": "Apple製品",
-    "price": 145900
-  },
   "B0FQFPZW9G": {
     "first_seen": "2026-11-27",
     "first_seen_at": "2026-11-27T04:13:46+09:00",
@@ -58,6 +48,16 @@
     "brand": "Apple(アップル)",
     "genre": "Apple製品",
     "price": 172900
+  },
+  "B0FQG1QPLW": {
+    "first_seen": "2026-11-27",
+    "first_seen_at": "2026-11-27T00:13:28+09:00",
+    "last_seen": "2026-11-28",
+    "title": "Apple iPhone Air 256GB (SIMフリー) | 最大120HzのProMotionを採用した6.5インチディスプレイ、パワフルなA19 Proチップ、センターフレームフロントカメラ、一日中使えるバッテリー；スカイブルー",
+    "percent_off": 23,
+    "brand": "Apple(アップル)",
+    "genre": "Apple製品",
+    "price": 145900
   },
   "B0FQG5LKM2": {
     "first_seen": "2026-11-27",
@@ -128,6 +128,16 @@
     "brand": "Apple(アップル)",
     "genre": "Apple製品",
     "price": 40260
+  },
+  "B0FQG2HWLF": {
+    "first_seen": "2026-10-28",
+    "first_seen_at": "2026-10-28T13:16:03+09:00",
+    "last_seen": "2026-11-28",
+    "title": "Apple Watch Ultra 3(GPS + Cellularモデル)- 49mmブラックチタニウムケースとブラック/チャコールトレイルループ - S/M",
+    "percent_off": 16,
+    "brand": "Apple(アップル)",
+    "genre": "Apple製品",
+    "price": 119800
   },
   "B0FQG6NZ6T": {
     "first_seen": "2026-10-11",
@@ -324,6 +334,16 @@
     "first_seen_at": "2026-10-11T18:14:49+09:00",
     "last_seen": "2026-11-28",
     "title": "Apple Watch Ultra 3(GPS + Cellularモデル)- 49mmナチュラルチタニウムケースとブルー/ブライトブルートレイルループ - M/L + 2年延長 AppleCare+ for Apple Watch Ultra 3",
+    "percent_off": 15,
+    "brand": "Apple(アップル)",
+    "genre": "Apple製品",
+    "price": 136599
+  },
+  "B0FRZ28FST": {
+    "first_seen": "2026-10-28",
+    "first_seen_at": "2026-10-28T13:16:03+09:00",
+    "last_seen": "2026-11-28",
+    "title": "Apple Watch Ultra 3(GPS + Cellularモデル)- 49mmブラックチタニウムケースとブラック/チャコールトレイルループ - S/M + 2年延長 AppleCare+ for Apple Watch Ultra 3",
     "percent_off": 15,
     "brand": "Apple(アップル)",
     "genre": "Apple製品",
@@ -1614,16 +1634,6 @@
       }
     ]
   },
-  "B0FK4L4ZRV": {
-    "first_seen": "2026-11-27",
-    "first_seen_at": "2026-11-27T21:13:23+09:00",
-    "last_seen": "2026-11-28",
-    "title": "Belkin Qi2 25W 3in1 ワイヤレス充電器 iPhone18対応 折りたたみ式充電スタンド MagSafe/急速充電対応 3台同時充電 | 【アマゾン限定】MagSafe充電器 Qi2公式認証、最大25W急速充電 パッシブ冷却設計、iPhone18/17〜12、Apple Watch・AirPods対応、折りたたみ可能 持ち運びにも最適 旅行・出張に便利、 2年保証 ホワイト",
-    "percent_off": 34,
-    "brand": "Belkin",
-    "genre": "充電器",
-    "price": 10585
-  },
   "B091BGMKYS": {
     "first_seen": "2026-07-27",
     "first_seen_at": "2026-07-27T12:00:00+09:00",
@@ -1713,6 +1723,16 @@
     "brand": "UGREEN",
     "genre": "充電器",
     "price": 2831
+  },
+  "B0FK4JGDPG": {
+    "first_seen": "2026-11-27",
+    "first_seen_at": "2026-11-27T06:13:27+09:00",
+    "last_seen": "2026-11-28",
+    "title": "Belkin Qi2 25W 3in1 ワイヤレス充電器 iPhone18対応 折りたたみ式充電スタンド MagSafe/急速充電対応 3台同時充電 | 【アマゾン限定】MagSafe充電器 Qi2公式認証、最大25W急速充電 パッシブ冷却設計、iPhone18/17〜12、Apple Watch・AirPods対応、折りたたみ可能 持ち運びにも最適 旅行・出張に便利、 2年保証 ブラック",
+    "percent_off": 32,
+    "brand": "Belkin",
+    "genre": "充電器",
+    "price": 10879
   },
   "B0BF43HS1G": {
     "first_seen": "2026-07-27",
@@ -1925,6 +1945,16 @@
     "brand": "Anker",
     "genre": "充電器",
     "price": 1790
+  },
+  "B0H329XGNF": {
+    "first_seen": "2026-11-27",
+    "first_seen_at": "2026-11-27T01:13:10+09:00",
+    "last_seen": "2026-11-28",
+    "title": "CIO NovaPort SLIM DUOII 65W2C PD急速充電器 USB-C×2 180°スイングプラグ 薄型軽量90g (ブラック) | 急速充電 2ポート 薄型 軽量 PD PPS NovaIntelligence ノートPC iPhone Switch2向け",
+    "percent_off": 17,
+    "brand": "CIO",
+    "genre": "充電器",
+    "price": 4980
   },
   "B0CZN9XSDM": {
     "first_seen": "2026-11-27",
@@ -3286,6 +3316,16 @@
     "genre": "エアフライヤー",
     "price": 17270
   },
+  "B0FK4L4ZRV": {
+    "first_seen": "2026-11-27",
+    "first_seen_at": "2026-11-27T21:13:23+09:00",
+    "last_seen": "2026-11-28",
+    "title": "Belkin Qi2 25W 3in1 ワイヤレス充電器 iPhone18対応 折りたたみ式充電スタンド MagSafe/急速充電対応 3台同時充電 | 【アマゾン限定】MagSafe充電器 Qi2公式認証、最大25W急速充電 パッシブ冷却設計、iPhone18/17〜12、Apple Watch・AirPods対応、折りたたみ可能 持ち運びにも最適 旅行・出張に便利、 2年保証 ホワイト",
+    "percent_off": 34,
+    "brand": "Belkin",
+    "genre": "充電器",
+    "price": 10585
+  },
   "B0D53VJJ7F": {
     "first_seen": "2026-07-28",
     "first_seen_at": "2026-07-28T12:00:00+09:00",
@@ -3295,16 +3335,6 @@
     "brand": "CIO",
     "genre": "充電器",
     "price": 3980
-  },
-  "B0FK4JGDPG": {
-    "first_seen": "2026-11-27",
-    "first_seen_at": "2026-11-27T06:13:27+09:00",
-    "last_seen": "2026-11-28",
-    "title": "Belkin Qi2 25W 3in1 ワイヤレス充電器 iPhone18対応 折りたたみ式充電スタンド MagSafe/急速充電対応 3台同時充電 | 【アマゾン限定】MagSafe充電器 Qi2公式認証、最大25W急速充電 パッシブ冷却設計、iPhone18/17〜12、Apple Watch・AirPods対応、折りたたみ可能 持ち運びにも最適 旅行・出張に便利、 2年保証 ブラック",
-    "percent_off": 32,
-    "brand": "Belkin",
-    "genre": "充電器",
-    "price": 10879
   },
   "B0H3281V2P": {
     "first_seen": "2026-11-27",
@@ -3336,16 +3366,6 @@
         "percent_off": 5
       }
     ]
-  },
-  "B0H329XGNF": {
-    "first_seen": "2026-11-27",
-    "first_seen_at": "2026-11-27T01:13:10+09:00",
-    "last_seen": "2026-11-28",
-    "title": "CIO NovaPort SLIM DUOII 65W2C PD急速充電器 USB-C×2 180°スイングプラグ 薄型軽量90g (ブラック) | 急速充電 2ポート 薄型 軽量 PD PPS NovaIntelligence ノートPC iPhone Switch2向け",
-    "percent_off": 17,
-    "brand": "CIO",
-    "genre": "充電器",
-    "price": 4980
   },
   "B0BF9ZYCQ5": {
     "first_seen": "2026-07-31",
@@ -4518,26 +4538,6 @@
     "brand": "REALFORCE",
     "genre": "キーボード・マウス",
     "price": 11968
-  },
-  "B0FQG2HWLF": {
-    "first_seen": "2026-10-28",
-    "first_seen_at": "2026-10-28T13:16:03+09:00",
-    "last_seen": "2026-11-27",
-    "title": "Apple Watch Ultra 3(GPS + Cellularモデル)- 49mmブラックチタニウムケースとブラック/チャコールトレイルループ - S/M",
-    "percent_off": 16,
-    "brand": "Apple(アップル)",
-    "genre": "Apple製品",
-    "price": 119800
-  },
-  "B0FRZ28FST": {
-    "first_seen": "2026-10-28",
-    "first_seen_at": "2026-10-28T13:16:03+09:00",
-    "last_seen": "2026-11-27",
-    "title": "Apple Watch Ultra 3(GPS + Cellularモデル)- 49mmブラックチタニウムケースとブラック/チャコールトレイルループ - S/M + 2年延長 AppleCare+ for Apple Watch Ultra 3",
-    "percent_off": 15,
-    "brand": "Apple(アップル)",
-    "genre": "Apple製品",
-    "price": 136599
   },
   "B0DW3TKWWN": {
     "first_seen": "2026-11-27",
