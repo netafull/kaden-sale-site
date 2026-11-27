@@ -1029,8 +1029,8 @@
     },
     "B0DZ7WF87P": {
      "last_seen": "2026-11-27",
-     "pct": 5,
-     "points_pct": 1
+     "pct": null,
+     "points_pct": null
     },
     "B0DZ7ZCLNG": {
      "last_seen": "2026-11-27",
@@ -1129,8 +1129,8 @@
     },
     "B0F4WHB7NB": {
      "last_seen": "2026-11-27",
-     "pct": 4,
-     "points_pct": 0
+     "pct": null,
+     "points_pct": null
     },
     "B0F4WHFY47": {
      "last_seen": "2026-11-24",
@@ -1214,8 +1214,8 @@
     },
     "B0GXXMWTFG": {
      "last_seen": "2026-11-27",
-     "pct": 7,
-     "points_pct": 0
+     "pct": null,
+     "points_pct": null
     },
     "B0GXXP2GGB": {
      "last_seen": "2026-11-16",
@@ -1264,8 +1264,8 @@
     },
     "B0HJWCJCL2": {
      "last_seen": "2026-11-27",
-     "pct": 5,
-     "points_pct": 0
+     "pct": null,
+     "points_pct": null
     }
    },
    "no_variations": false,
@@ -2466,7 +2466,7 @@
    },
    "genre": "Apple製品",
    "label": "Apple Watch Ultra 3(GPS + Cellularモデル)- ",
-   "last_sweep_at": "2026-11-27T05:07:22+09:00",
+   "last_sweep_at": "2026-11-27T12:07:18+09:00",
    "members": {
     "B0FQFW26JS": {
      "last_seen": "2026-11-27",
