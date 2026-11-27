@@ -609,6 +609,67 @@
    "seed": "B0DL6ZMCV9",
    "variation_count": 2
   },
+  "B0DNPNFW44": {
+   "aliases": {},
+   "genre": "Apple製品",
+   "label": "Apple iPhone 16 Plus (256 GB) - ブラック SIM",
+   "last_sweep_at": "2026-11-27T22:07:14+09:00",
+   "members": {
+    "B0DGHQ71DD": {
+     "last_seen": "2026-11-27",
+     "pct": 0,
+     "points_pct": 1
+    },
+    "B0DGHW1XTK": {
+     "last_seen": "2026-11-27",
+     "pct": 0,
+     "points_pct": 1
+    },
+    "B0DGJ3RDYQ": {
+     "last_seen": "2026-11-27",
+     "pct": 0,
+     "points_pct": 1
+    },
+    "B0DGJ3Z2S9": {
+     "last_seen": "2026-11-27",
+     "pct": 0,
+     "points_pct": 1
+    },
+    "B0DGJ5ZGXT": {
+     "last_seen": "2026-11-27",
+     "pct": 0,
+     "points_pct": 1
+    },
+    "B0DGJ66S66": {
+     "last_seen": "2026-11-27",
+     "pct": 0,
+     "points_pct": 1
+    },
+    "B0DGJ6BK8C": {
+     "last_seen": "2026-11-27",
+     "pct": 0,
+     "points_pct": 1
+    },
+    "B0DGJ7GVSJ": {
+     "last_seen": "2026-11-27",
+     "pct": 0,
+     "points_pct": 1
+    },
+    "B0DGJ8DP89": {
+     "last_seen": "2026-11-27",
+     "pct": 9,
+     "points_pct": 1
+    },
+    "B0DGJJJP4V": {
+     "last_seen": "2026-11-27",
+     "pct": 0,
+     "points_pct": 1
+    }
+   },
+   "no_variations": false,
+   "seed": "B0DGJ3RDYQ",
+   "variation_count": 10
+  },
   "B0DNPT3S1K": {
    "aliases": {},
    "genre": "Apple製品",
