@@ -1052,16 +1052,6 @@
     "genre": "Apple製品",
     "price": 231380
   },
-  "B0HJB96X85": {
-    "first_seen": "2026-11-26",
-    "first_seen_at": "2026-11-26T22:13:50+09:00",
-    "last_seen": "2026-11-28",
-    "title": "Apple Watch Series 12（GPSモデル） | 46mmダークブロンズアルミニウムケースとダークブロンズミラネーゼループ - S/M。健康 + フィットネス + 睡眠記録、心拍数、安全",
-    "percent_off": null,
-    "brand": "Apple(アップル)",
-    "genre": "Apple製品",
-    "price": 89800
-  },
   "B0HJ9VNBZ8": {
     "first_seen": "2026-11-27",
     "first_seen_at": "2026-11-27T00:13:28+09:00",
@@ -1102,6 +1092,16 @@
     "genre": "Apple製品",
     "price": 564612
   },
+  "B0DPX7W84T": {
+    "first_seen": "2026-10-20",
+    "first_seen_at": "2026-10-20T15:15:01+09:00",
+    "last_seen": "2026-11-28",
+    "title": "Anker Soundcore Q30i ブラック (ワイヤレス ヘッドホン / ウルトラノイズキャンセリング) | （Bluetooth5.3 ワイヤレス ヘッドホン）【ウルトラノイズキャンセリング/外音取り込みモード/Bluetooth対応/ハイレゾ対応（AUX接続時） / 最大80時間音楽再生 / マイク内蔵/専用アプリ対応】",
+    "percent_off": 35,
+    "brand": "Soundcore",
+    "genre": "ワイヤレスイヤホン",
+    "price": 6490
+  },
   "B0DRVB48LJ": {
     "first_seen": "2026-11-27",
     "first_seen_at": "2026-11-27T01:13:10+09:00",
@@ -1117,10 +1117,10 @@
     "first_seen_at": "2026-11-01T02:15:45+09:00",
     "last_seen": "2026-11-28",
     "title": "ソニー(SONY) WF-C710N ブラック ワイヤレスイヤホン 高性能ノイズキャンセリング Bluetoothロングバッテリー 外音取り込み IPX4防滴性能 軽量 コンパクト マルチポイント接続",
-    "percent_off": 29,
+    "percent_off": 27,
     "brand": "Sony",
     "genre": "ワイヤレスイヤホン",
-    "price": 12454
+    "price": 12800
   },
   "B0FNRS5WB2": {
     "first_seen": "2026-11-04",
@@ -1233,6 +1233,16 @@
     "genre": "モバイルバッテリー",
     "price": 793
   },
+  "B0F6NFHB31": {
+    "first_seen": "2026-07-25",
+    "first_seen_at": "2026-07-25T12:00:00+09:00",
+    "last_seen": "2026-11-28",
+    "title": "UGREEN Air モバイルバッテリー 5000mAh 8.6mm超薄型 Qi2 15W MagSafe iPhone18Pro対応 | 【ATL製セル×難燃技術】マグネット式ワイヤレス充電｜軽量・小型設計｜USB-C PD 20W対応 ｜パススルー充電対応｜iPhone18 Pro/17/16/15 シリーズ/ Air対応｜PB580｜ダークグレー",
+    "percent_off": 40,
+    "brand": "UGREEN",
+    "genre": "モバイルバッテリー",
+    "price": 4144
+  },
   "B0DT4RGDSJ": {
     "first_seen": "2026-11-21",
     "first_seen_at": "2026-11-21T00:15:28+09:00",
@@ -1243,15 +1253,26 @@
     "genre": "モバイルバッテリー",
     "price": 10790
   },
-  "B0F37QGJHP": {
-    "first_seen": "2026-11-19",
-    "first_seen_at": "2026-11-19T22:14:42+09:00",
+  "B0F6NCZ7HX": {
+    "first_seen": "2026-11-28",
+    "first_seen_at": "2026-11-28T01:13:45+09:00",
     "last_seen": "2026-11-28",
-    "title": "UGREEN Air モバイルバッテリー 10000mAh 薄型 Qi2 15W MagSafe ケーブル内蔵 iPhone18Pro対応 | 【ATL製セル×難燃技術】マグネット式ワイヤレス充電｜軽量・小型設計｜USB-C PD 30W対応 ｜パススルー充電対応｜iPhone18 Pro/17/16/15 シリーズ/ Air対応 ｜PB570｜水色",
+    "title": "UGREEN Air モバイルバッテリー 10000mAh 薄型 Qi2 15W MagSafe ケーブル内蔵 iPhone18Pro対応 | 【ATL製セル×難燃技術】マグネット式ワイヤレス充電｜軽量・小型設計｜USB-C PD 30W対応 ｜パススルー充電対応｜iPhone18 Pro/17/16/15 シリーズ/ Air対応｜PB570｜ しろ",
     "percent_off": 36,
     "brand": "UGREEN",
     "genre": "モバイルバッテリー",
-    "price": 5506
+    "price": 5530,
+    "past": [
+      {
+        "first_seen": "2026-10-21",
+        "last_seen": "2026-11-01",
+        "title": "UGREEN Air モバイルバッテリー 10000mAh 薄型 Qi2 15W MagSafe ケーブル内蔵 iPhone18Pro対応 | 【ATL製セル×難燃技術】マグネット式ワイヤレス充電｜軽量・小型設計｜USB-C PD 30W対応 ｜パススルー充電対応｜iPhone18 Pro/17/16/15 シリーズ/ Air対応｜PB570｜ ホワイト",
+        "brand": null,
+        "genre": null,
+        "price": null,
+        "percent_off": 30
+      }
+    ]
   },
   "B0CX4C1TVK": {
     "first_seen": "2026-07-27",
@@ -1372,6 +1393,26 @@
     "brand": "Anker",
     "genre": "モバイルバッテリー",
     "price": 2790
+  },
+  "B0H1G5LYR8": {
+    "first_seen": "2026-11-27",
+    "first_seen_at": "2026-11-27T00:13:28+09:00",
+    "last_seen": "2026-11-28",
+    "title": "Anker Nano Power Bank (MagGo, Plus) ブラック 【釘を刺しても燃えないモバイルバッテリー】 | 10000mAh MagSafeモバイルバッテリー PSE 3C認証 安全 Qi2 最大出力15W マグセーフ マグネット式ワイヤレス充電対応 薄型 大容量 iPhone 18 / 17 / 16 / 15 シリーズ対応",
+    "percent_off": 20,
+    "brand": "Anker",
+    "genre": "モバイルバッテリー",
+    "price": 9590
+  },
+  "B0H1BYKWRV": {
+    "first_seen": "2026-11-27",
+    "first_seen_at": "2026-11-27T00:13:28+09:00",
+    "last_seen": "2026-11-28",
+    "title": "エレコム モバイルバッテリー 10000mAh 大容量 急速充電 軽量 小型 残量表示 LEDパネル 22.5W PD対応 PPS対応 USB-C USB-A 2ポート パススルー充電 PSE認証 iPhone iPad しろちゃん EC-C65LWF",
+    "percent_off": 18,
+    "brand": "エレコム(ELECOM)",
+    "genre": "モバイルバッテリー",
+    "price": 2465
   },
   "B0DRP2QYCY": {
     "first_seen": "2026-11-27",
@@ -1503,6 +1544,16 @@
     "genre": "充電器",
     "price": 990
   },
+  "B0FL1SH21C": {
+    "first_seen": "2026-09-07",
+    "first_seen_at": "2026-09-07T21:14:48+09:00",
+    "last_seen": "2026-11-28",
+    "title": "Anker Zolo Charger (70W, 4 Ports) ホワイト - 最大70W出力の充電器 / USB-C×2 USB-A×2 | 70W USB-C/Type-C 急速充電器 4台同時充電対応。USB-C3ポートとUSB-A1ポートを搭載しPCとスマホをまとめて充電。MacBook Pro MacBook Air iPhone iPad Galaxy対応 PSE技術基準適合",
+    "percent_off": 42,
+    "brand": "Anker",
+    "genre": "充電器",
+    "price": 3790
+  },
   "B099ZNTRL5": {
     "first_seen": "2026-10-23",
     "first_seen_at": "2026-10-23T21:15:12+09:00",
@@ -1523,11 +1574,11 @@
     "genre": "充電器",
     "price": 2690
   },
-  "B0D53Z4WX3": {
-    "first_seen": "2026-10-25",
-    "first_seen_at": "2026-10-25T22:14:38+09:00",
+  "B0D53VJJ7F": {
+    "first_seen": "2026-07-28",
+    "first_seen_at": "2026-07-28T12:00:00+09:00",
     "last_seen": "2026-11-28",
-    "title": "CIO NovaPort TRIOⅡ 65W 3C PD急速充電器 USB-C×3 3台同時充電 軽量 世界最小級 (ブラック) | ノートPC対応, MacBook対応, iPhone対応, iPad対応, Android対応, 電力を自動最適配分",
+    "title": "CIO NovaPort TRIOⅡ 65W 2C1A PD急速充電器 USB-C×2+USB-A×1 3台同時充電 世界最小級 (ブラック) | ノートPC対応, MacBook対応, iPhone対応, iPad対応, Android対応, 電力を自動最適配分",
     "percent_off": 40,
     "brand": "CIO",
     "genre": "充電器",
@@ -1775,16 +1826,6 @@
     "genre": "充電器",
     "price": 2290
   },
-  "B0D73JBJ56": {
-    "first_seen": "2026-11-27",
-    "first_seen_at": "2026-11-27T23:14:25+09:00",
-    "last_seen": "2026-11-28",
-    "title": "Anker Prime Charger (100W, 3 Ports, GaN) | 急速充電器 100W type-c 3ポート【PSE技術基準適合/折りたたみ式プラグ】MacBook PD対応Windows PC iPad iPhone Galaxy Android スマートフォン ノートPC 各種",
-    "percent_off": 22,
-    "brand": "Anker",
-    "genre": "充電器",
-    "price": 6990
-  },
   "B0F43M6SBB": {
     "first_seen": "2026-11-04",
     "first_seen_at": "2026-11-04T09:15:07+09:00",
@@ -1836,6 +1877,16 @@
     "genre": "充電器",
     "price": 1583
   },
+  "B0F43NCQ25": {
+    "first_seen": "2026-11-27",
+    "first_seen_at": "2026-11-27T00:13:28+09:00",
+    "last_seen": "2026-11-28",
+    "title": "エレコム 充電器 100W 3ポート Type-C USB-A USB PD対応 スイング式プラグ採用 ブラック EC-AC104100BK",
+    "percent_off": 19,
+    "brand": "エレコム(ELECOM)",
+    "genre": "充電器",
+    "price": 4445
+  },
   "B0DHTT13KN": {
     "first_seen": "2026-11-04",
     "first_seen_at": "2026-11-04T00:15:51+09:00",
@@ -1866,11 +1917,11 @@
     "genre": "充電器",
     "price": 14680
   },
-  "B0FK4L5BW2": {
-    "first_seen": "2026-11-28",
-    "first_seen_at": "2026-11-28T00:13:29+09:00",
+  "B0FK4L1S7C": {
+    "first_seen": "2026-11-27",
+    "first_seen_at": "2026-11-27T00:13:28+09:00",
     "last_seen": "2026-11-28",
-    "title": "Belkin Qi2 25W 2in1 ワイヤレス充電器 iPhone18対応 折りたたみ式充電スタンド MagSafe/急速充電対応 2台同時充電 | 【アマゾン限定】MagSafe充電器 Qi2公式認証、最大25W急速充電、パッシブ冷却設計 iPhone18〜12・Google Pixel 10 Pro XL対応、AirPods同時充電、折りたたみ可能 持ち運びにも最適、2年保証 ホワイト",
+    "title": "Belkin Qi2 25W 2in1 ワイヤレス充電器 iPhone18対応 折りたたみ式充電スタンド MagSafe/急速充電対応 2台同時充電 | 【アマゾン限定】MagSafe充電器 Qi2公式認証、最大25W急速充電、パッシブ冷却設計 iPhone18〜12・Google Pixel 10 Pro XL対応、AirPods同時充電、折りたたみ可能 持ち運びにも最適、2年保証 ブラック",
     "percent_off": 18,
     "brand": "Belkin",
     "genre": "充電器",
@@ -1905,16 +1956,6 @@
     "brand": "エレコム(ELECOM)",
     "genre": "充電器",
     "price": 723
-  },
-  "B0CTJCR3W4": {
-    "first_seen": "2026-11-27",
-    "first_seen_at": "2026-11-27T23:14:25+09:00",
-    "last_seen": "2026-11-28",
-    "title": "エレコム 充電器 65W USB PD対応 小型 Type-C 1ポート PPS対応 GaN II採用 PSE認証 ホワイト 【iPhone 16 15 iPad Macbook 等対応】 EC-AC8565WH",
-    "percent_off": 16,
-    "brand": "エレコム(ELECOM)",
-    "genre": "充電器",
-    "price": 2090
   },
   "B0FB2F95HY": {
     "first_seen": "2026-11-27",
@@ -1976,6 +2017,16 @@
     "brand": "SANDISK",
     "genre": "SSD・メモリーカード",
     "price": 50280
+  },
+  "B0H8DRW1T7": {
+    "first_seen": "2026-11-28",
+    "first_seen_at": "2026-11-28T01:13:45+09:00",
+    "last_seen": "2026-11-28",
+    "title": "【 サンディスク 正規品 】 SanDisk microSD カード 64GB UHS-I U1 Class10 Nintendo Switch メーカー動作確認済 Ultra SDSQUAB-064G-GH3MA 簡易デザインパッケージ 10年間限定保証 (× 5)",
+    "percent_off": 20,
+    "brand": "SANDISK",
+    "genre": "SSD・メモリーカード",
+    "price": 14610
   },
   "B09X7DZ9LG": {
     "first_seen": "2026-11-24",
@@ -2510,6 +2561,27 @@
     "genre": "Amazonデバイス",
     "price": 13730
   },
+  "B0H25V3WSP": {
+    "first_seen": "2026-11-28",
+    "first_seen_at": "2026-11-28T01:13:45+09:00",
+    "last_seen": "2026-11-28",
+    "title": "【セット買い】Amazon Fire TV Stick 4K Select + Amazon Fire TV Soundbar Plus",
+    "percent_off": 39,
+    "brand": "Amazon",
+    "genre": "Amazonデバイス",
+    "price": 27780,
+    "past": [
+      {
+        "first_seen": "2026-11-04",
+        "last_seen": "2026-11-12",
+        "title": "【セット買い】Amazon Fire TV Stick 4K Select + Amazon Fire TV Soundbar Plus",
+        "brand": null,
+        "genre": null,
+        "price": null,
+        "percent_off": 27
+      }
+    ]
+  },
   "B0F2FNYCRD": {
     "first_seen": "2026-11-27",
     "first_seen_at": "2026-11-27T23:14:25+09:00",
@@ -2530,15 +2602,15 @@
     "genre": "Amazonデバイス",
     "price": 27980
   },
-  "B0F2FNL2QH": {
+  "B09B8SZLLG": {
     "first_seen": "2026-11-27",
-    "first_seen_at": "2026-11-27T23:14:25+09:00",
+    "first_seen_at": "2026-11-27T01:13:10+09:00",
     "last_seen": "2026-11-28",
-    "title": "【セット買い】Echo Dot (第5世代) グレーシャーホワイト + SwitchBot スマートリモコン Hub Mini (温湿度センサー搭載・Matter対応版)",
-    "percent_off": 25,
+    "title": "Amazon Echo Dot (エコードット) 第5世代 - センサー搭載、鮮やかなサウンド、Alexa+ 早期アクセス対象 | チャコール",
+    "percent_off": 27,
     "brand": "Amazon",
     "genre": "Amazonデバイス",
-    "price": 10230
+    "price": 5480
   },
   "B0GMKC5ZST": {
     "first_seen": "2026-11-27",
@@ -2731,6 +2803,16 @@
     "genre": "キーボード・マウス",
     "price": 18980
   },
+  "B0GL1B1L6Y": {
+    "first_seen": "2026-10-29",
+    "first_seen_at": "2026-10-29T23:15:00+09:00",
+    "last_seen": "2026-11-28",
+    "title": "東プレ REALFORCE GX1 Plus サザビー 日本語配列 ゲーミングキーボード X1PCS1",
+    "percent_off": 26,
+    "brand": "REALFORCE",
+    "genre": "キーボード・マウス",
+    "price": 44373
+  },
   "B0BKPL1VKW": {
     "first_seen": "2026-11-13",
     "first_seen_at": "2026-11-13T21:14:48+09:00",
@@ -2791,16 +2873,6 @@
     "genre": "キーボード・マウス",
     "price": 28160
   },
-  "B08LM7WTX7": {
-    "first_seen": "2026-11-27",
-    "first_seen_at": "2026-11-27T23:14:25+09:00",
-    "last_seen": "2026-11-28",
-    "title": "エレコム ワイヤレスマウス Bluetooth Slint M-TM10BBWH/EC 薄型 静音 4ボタン プレゼンモード機能付 Windows Mac Android iOS iPadOS FireOS対応 ホワイト",
-    "percent_off": 20,
-    "brand": "エレコム(ELECOM)",
-    "genre": "キーボード・マウス",
-    "price": 1277
-  },
   "B0DCJZH3QH": {
     "first_seen": "2026-11-27",
     "first_seen_at": "2026-11-27T04:13:46+09:00",
@@ -2831,6 +2903,16 @@
     "brand": "エレコム(ELECOM)",
     "genre": "キーボード・マウス",
     "price": 1600
+  },
+  "B0H8DWJ44X": {
+    "first_seen": "2026-11-28",
+    "first_seen_at": "2026-11-28T01:13:45+09:00",
+    "last_seen": "2026-11-28",
+    "title": "エレコム ワイヤレスマウス Bluetooth Slint 薄型 静音 4ボタン プレゼンモード機能付 Windows Mac Android iOS iPadOS FireOS対応 ブラック M-TM10BBBK/EC (× 3)",
+    "percent_off": 20,
+    "brand": "エレコム(ELECOM)",
+    "genre": "キーボード・マウス",
+    "price": 3831
   },
   "B0DPF33WVV": {
     "first_seen": "2026-09-17",
@@ -2912,6 +2994,16 @@
     "genre": "キーボード・マウス",
     "price": 1140
   },
+  "B0CFKL2GHQ": {
+    "first_seen": "2026-11-27",
+    "first_seen_at": "2026-11-27T00:13:28+09:00",
+    "last_seen": "2026-11-28",
+    "title": "エレコム マウス ワイヤレスマウス EX-G Bluetooth 静音 Mサイズ 5ボタン マルチペアリング 「AskDoctors評価サービス」認証 抗菌 ブラック M-XGM30BBSKABK",
+    "percent_off": 16,
+    "brand": "エレコム(ELECOM)",
+    "genre": "キーボード・マウス",
+    "price": 3090
+  },
   "B0HFHBGBRG": {
     "first_seen": "2026-11-27",
     "first_seen_at": "2026-11-27T00:13:28+09:00",
@@ -2961,16 +3053,6 @@
     "brand": "REALFORCE",
     "genre": "キーボード・マウス",
     "price": 32538
-  },
-  "B0B3R84VG4": {
-    "first_seen": "2026-11-27",
-    "first_seen_at": "2026-11-27T00:13:28+09:00",
-    "last_seen": "2026-11-28",
-    "title": "REALFORCE R3S キーボード 標準スイッチ 有線 フル 45g 日本語配列 ブラック R3SA31",
-    "percent_off": 15,
-    "brand": "REALFORCE",
-    "genre": "キーボード・マウス",
-    "price": 20757
   },
   "B0B3QG8B45": {
     "first_seen": "2026-11-27",
@@ -3153,6 +3235,96 @@
     "genre": "エアフライヤー",
     "price": 17270
   },
+  "B0HJB96X85": {
+    "first_seen": "2026-11-26",
+    "first_seen_at": "2026-11-26T22:13:50+09:00",
+    "last_seen": "2026-11-28",
+    "title": "Apple Watch Series 12（GPSモデル） | 46mmダークブロンズアルミニウムケースとダークブロンズミラネーゼループ - S/M。健康 + フィットネス + 睡眠記録、心拍数、安全",
+    "percent_off": null,
+    "brand": "Apple(アップル)",
+    "genre": "Apple製品",
+    "price": 89800
+  },
+  "B0F37QGJHP": {
+    "first_seen": "2026-11-19",
+    "first_seen_at": "2026-11-19T22:14:42+09:00",
+    "last_seen": "2026-11-28",
+    "title": "UGREEN Air モバイルバッテリー 10000mAh 薄型 Qi2 15W MagSafe ケーブル内蔵 iPhone18Pro対応 | 【ATL製セル×難燃技術】マグネット式ワイヤレス充電｜軽量・小型設計｜USB-C PD 30W対応 ｜パススルー充電対応｜iPhone18 Pro/17/16/15 シリーズ/ Air対応 ｜PB570｜水色",
+    "percent_off": 36,
+    "brand": "UGREEN",
+    "genre": "モバイルバッテリー",
+    "price": 5506
+  },
+  "B0D53Z4WX3": {
+    "first_seen": "2026-10-25",
+    "first_seen_at": "2026-10-25T22:14:38+09:00",
+    "last_seen": "2026-11-28",
+    "title": "CIO NovaPort TRIOⅡ 65W 3C PD急速充電器 USB-C×3 3台同時充電 軽量 世界最小級 (ブラック) | ノートPC対応, MacBook対応, iPhone対応, iPad対応, Android対応, 電力を自動最適配分",
+    "percent_off": 40,
+    "brand": "CIO",
+    "genre": "充電器",
+    "price": 3980
+  },
+  "B0D73JBJ56": {
+    "first_seen": "2026-11-27",
+    "first_seen_at": "2026-11-27T23:14:25+09:00",
+    "last_seen": "2026-11-28",
+    "title": "Anker Prime Charger (100W, 3 Ports, GaN) | 急速充電器 100W type-c 3ポート【PSE技術基準適合/折りたたみ式プラグ】MacBook PD対応Windows PC iPad iPhone Galaxy Android スマートフォン ノートPC 各種",
+    "percent_off": 22,
+    "brand": "Anker",
+    "genre": "充電器",
+    "price": 6990
+  },
+  "B0FK4L5BW2": {
+    "first_seen": "2026-11-28",
+    "first_seen_at": "2026-11-28T00:13:29+09:00",
+    "last_seen": "2026-11-28",
+    "title": "Belkin Qi2 25W 2in1 ワイヤレス充電器 iPhone18対応 折りたたみ式充電スタンド MagSafe/急速充電対応 2台同時充電 | 【アマゾン限定】MagSafe充電器 Qi2公式認証、最大25W急速充電、パッシブ冷却設計 iPhone18〜12・Google Pixel 10 Pro XL対応、AirPods同時充電、折りたたみ可能 持ち運びにも最適、2年保証 ホワイト",
+    "percent_off": 18,
+    "brand": "Belkin",
+    "genre": "充電器",
+    "price": 6454
+  },
+  "B0CTJCR3W4": {
+    "first_seen": "2026-11-27",
+    "first_seen_at": "2026-11-27T23:14:25+09:00",
+    "last_seen": "2026-11-28",
+    "title": "エレコム 充電器 65W USB PD対応 小型 Type-C 1ポート PPS対応 GaN II採用 PSE認証 ホワイト 【iPhone 16 15 iPad Macbook 等対応】 EC-AC8565WH",
+    "percent_off": 16,
+    "brand": "エレコム(ELECOM)",
+    "genre": "充電器",
+    "price": 2090
+  },
+  "B0F2FNL2QH": {
+    "first_seen": "2026-11-27",
+    "first_seen_at": "2026-11-27T23:14:25+09:00",
+    "last_seen": "2026-11-28",
+    "title": "【セット買い】Echo Dot (第5世代) グレーシャーホワイト + SwitchBot スマートリモコン Hub Mini (温湿度センサー搭載・Matter対応版)",
+    "percent_off": 25,
+    "brand": "Amazon",
+    "genre": "Amazonデバイス",
+    "price": 10230
+  },
+  "B08LM7WTX7": {
+    "first_seen": "2026-11-27",
+    "first_seen_at": "2026-11-27T23:14:25+09:00",
+    "last_seen": "2026-11-28",
+    "title": "エレコム ワイヤレスマウス Bluetooth Slint M-TM10BBWH/EC 薄型 静音 4ボタン プレゼンモード機能付 Windows Mac Android iOS iPadOS FireOS対応 ホワイト",
+    "percent_off": 20,
+    "brand": "エレコム(ELECOM)",
+    "genre": "キーボード・マウス",
+    "price": 1277
+  },
+  "B0B3R84VG4": {
+    "first_seen": "2026-11-27",
+    "first_seen_at": "2026-11-27T00:13:28+09:00",
+    "last_seen": "2026-11-28",
+    "title": "REALFORCE R3S キーボード 標準スイッチ 有線 フル 45g 日本語配列 ブラック R3SA31",
+    "percent_off": 15,
+    "brand": "REALFORCE",
+    "genre": "キーボード・マウス",
+    "price": 20757
+  },
   "B0GZT5XM4R": {
     "first_seen": "2026-11-27",
     "first_seen_at": "2026-11-27T23:14:25+09:00",
@@ -3214,16 +3386,6 @@
     "genre": "モバイルバッテリー",
     "price": 4250
   },
-  "B0D53VJJ7F": {
-    "first_seen": "2026-07-28",
-    "first_seen_at": "2026-07-28T12:00:00+09:00",
-    "last_seen": "2026-11-27",
-    "title": "CIO NovaPort TRIOⅡ 65W 2C1A PD急速充電器 USB-C×2+USB-A×1 3台同時充電 世界最小級 (ブラック) | ノートPC対応, MacBook対応, iPhone対応, iPad対応, Android対応, 電力を自動最適配分",
-    "percent_off": 40,
-    "brand": "CIO",
-    "genre": "充電器",
-    "price": 3980
-  },
   "B0BN688W42": {
     "first_seen": "2026-08-07",
     "first_seen_at": "2026-08-07T22:31:51+09:00",
@@ -3233,16 +3395,6 @@
     "brand": "UGREEN",
     "genre": "充電器",
     "price": 2967
-  },
-  "B0FK4L1S7C": {
-    "first_seen": "2026-11-27",
-    "first_seen_at": "2026-11-27T00:13:28+09:00",
-    "last_seen": "2026-11-27",
-    "title": "Belkin Qi2 25W 2in1 ワイヤレス充電器 iPhone18対応 折りたたみ式充電スタンド MagSafe/急速充電対応 2台同時充電 | 【アマゾン限定】MagSafe充電器 Qi2公式認証、最大25W急速充電、パッシブ冷却設計 iPhone18〜12・Google Pixel 10 Pro XL対応、AirPods同時充電、折りたたみ可能 持ち運びにも最適、2年保証 ブラック",
-    "percent_off": 18,
-    "brand": "Belkin",
-    "genre": "充電器",
-    "price": 6454
   },
   "B0DT4CC313": {
     "first_seen": "2026-11-27",
@@ -3304,16 +3456,6 @@
         "percent_off": 30
       }
     ]
-  },
-  "B0GL1B1L6Y": {
-    "first_seen": "2026-10-29",
-    "first_seen_at": "2026-10-29T23:15:00+09:00",
-    "last_seen": "2026-11-27",
-    "title": "東プレ REALFORCE GX1 Plus サザビー 日本語配列 ゲーミングキーボード X1PCS1",
-    "percent_off": 26,
-    "brand": "REALFORCE",
-    "genre": "キーボード・マウス",
-    "price": 44373
   },
   "B0BKPHMVPL": {
     "first_seen": "2026-09-26",
@@ -3866,16 +4008,6 @@
       }
     ]
   },
-  "B0DPX7W84T": {
-    "first_seen": "2026-10-20",
-    "first_seen_at": "2026-10-20T15:15:01+09:00",
-    "last_seen": "2026-11-27",
-    "title": "Anker Soundcore Q30i ブラック (ワイヤレス ヘッドホン / ウルトラノイズキャンセリング) | （Bluetooth5.3 ワイヤレス ヘッドホン）【ウルトラノイズキャンセリング/外音取り込みモード/Bluetooth対応/ハイレゾ対応（AUX接続時） / 最大80時間音楽再生 / マイク内蔵/専用アプリ対応】",
-    "percent_off": 35,
-    "brand": "Soundcore",
-    "genre": "ワイヤレスイヤホン",
-    "price": 6490
-  },
   "B0F3XBK3HK": {
     "first_seen": "2026-11-10",
     "first_seen_at": "2026-11-10T22:15:00+09:00",
@@ -3906,16 +4038,6 @@
     "genre": "ワイヤレスイヤホン",
     "price": 22000
   },
-  "B0F6NFHB31": {
-    "first_seen": "2026-07-25",
-    "first_seen_at": "2026-07-25T12:00:00+09:00",
-    "last_seen": "2026-11-27",
-    "title": "UGREEN Air モバイルバッテリー 5000mAh 8.6mm超薄型 Qi2 15W MagSafe iPhone18Pro対応 | 【ATL製セル×難燃技術】マグネット式ワイヤレス充電｜軽量・小型設計｜USB-C PD 20W対応 ｜パススルー充電対応｜iPhone18 Pro/17/16/15 シリーズ/ Air対応｜PB580｜ダークグレー",
-    "percent_off": 40,
-    "brand": "UGREEN",
-    "genre": "モバイルバッテリー",
-    "price": 4144
-  },
   "B0DNLVY85L": {
     "first_seen": "2026-10-01",
     "first_seen_at": "2026-10-01T23:14:55+09:00",
@@ -3926,16 +4048,6 @@
     "genre": "モバイルバッテリー",
     "price": 5190
   },
-  "B0H1G5LYR8": {
-    "first_seen": "2026-11-27",
-    "first_seen_at": "2026-11-27T00:13:28+09:00",
-    "last_seen": "2026-11-27",
-    "title": "Anker Nano Power Bank (MagGo, Plus) ブラック 【釘を刺しても燃えないモバイルバッテリー】 | 10000mAh MagSafeモバイルバッテリー PSE 3C認証 安全 Qi2 最大出力15W マグセーフ マグネット式ワイヤレス充電対応 薄型 大容量 iPhone 18 / 17 / 16 / 15 シリーズ対応",
-    "percent_off": 20,
-    "brand": "Anker",
-    "genre": "モバイルバッテリー",
-    "price": 9590
-  },
   "B0DRFQNPDQ": {
     "first_seen": "2026-11-27",
     "first_seen_at": "2026-11-27T13:13:36+09:00",
@@ -3945,16 +4057,6 @@
     "brand": "Anker",
     "genre": "モバイルバッテリー",
     "price": 3990
-  },
-  "B0FL1SH21C": {
-    "first_seen": "2026-09-07",
-    "first_seen_at": "2026-09-07T21:14:48+09:00",
-    "last_seen": "2026-11-27",
-    "title": "Anker Zolo Charger (70W, 4 Ports) ホワイト - 最大70W出力の充電器 / USB-C×2 USB-A×2 | 70W USB-C/Type-C 急速充電器 4台同時充電対応。USB-C3ポートとUSB-A1ポートを搭載しPCとスマホをまとめて充電。MacBook Pro MacBook Air iPhone iPad Galaxy対応 PSE技術基準適合",
-    "percent_off": 42,
-    "brand": "Anker",
-    "genre": "充電器",
-    "price": 3790
   },
   "B0D3GG4M9N": {
     "first_seen": "2026-10-17",
@@ -3975,16 +4077,6 @@
     "brand": "Belkin",
     "genre": "充電器",
     "price": 10585
-  },
-  "B0F43NCQ25": {
-    "first_seen": "2026-11-27",
-    "first_seen_at": "2026-11-27T00:13:28+09:00",
-    "last_seen": "2026-11-27",
-    "title": "エレコム 充電器 100W 3ポート Type-C USB-A USB PD対応 スイング式プラグ採用 ブラック EC-AC104100BK",
-    "percent_off": 19,
-    "brand": "エレコム(ELECOM)",
-    "genre": "充電器",
-    "price": 4445
   },
   "B0H3281V2P": {
     "first_seen": "2026-11-27",
@@ -4170,16 +4262,6 @@
     "genre": "Amazonデバイス",
     "price": 7480
   },
-  "B09B8SZLLG": {
-    "first_seen": "2026-11-27",
-    "first_seen_at": "2026-11-27T01:13:10+09:00",
-    "last_seen": "2026-11-27",
-    "title": "Amazon Echo Dot (エコードット) 第5世代 - センサー搭載、鮮やかなサウンド、Alexa+ 早期アクセス対象 | チャコール",
-    "percent_off": 27,
-    "brand": "Amazon",
-    "genre": "Amazonデバイス",
-    "price": 5480
-  },
   "B0G2TXBSWJ": {
     "first_seen": "2026-11-13",
     "first_seen_at": "2026-11-13T00:15:52+09:00",
@@ -4304,16 +4386,6 @@
         "percent_off": 14
       }
     ]
-  },
-  "B0CFKL2GHQ": {
-    "first_seen": "2026-11-27",
-    "first_seen_at": "2026-11-27T00:13:28+09:00",
-    "last_seen": "2026-11-27",
-    "title": "エレコム マウス ワイヤレスマウス EX-G Bluetooth 静音 Mサイズ 5ボタン マルチペアリング 「AskDoctors評価サービス」認証 抗菌 ブラック M-XGM30BBSKABK",
-    "percent_off": 16,
-    "brand": "エレコム(ELECOM)",
-    "genre": "キーボード・マウス",
-    "price": 3090
   },
   "B0BFHD4XCC": {
     "first_seen": "2026-11-27",
@@ -4639,16 +4711,6 @@
         "percent_off": 23
       }
     ]
-  },
-  "B0H1BYKWRV": {
-    "first_seen": "2026-11-27",
-    "first_seen_at": "2026-11-27T00:13:28+09:00",
-    "last_seen": "2026-11-27",
-    "title": "エレコム モバイルバッテリー 10000mAh 大容量 急速充電 軽量 小型 残量表示 LEDパネル 22.5W PD対応 PPS対応 USB-C USB-A 2ポート パススルー充電 PSE認証 iPhone iPad しろちゃん EC-C65LWF",
-    "percent_off": 18,
-    "brand": "エレコム(ELECOM)",
-    "genre": "モバイルバッテリー",
-    "price": 2465
   },
   "B0H389CB56": {
     "first_seen": "2026-11-27",
@@ -6936,14 +6998,6 @@
     "percent_off": 30,
     "archived": true
   },
-  "B0H25V3WSP": {
-    "first_seen": "2026-11-04",
-    "first_seen_at": "2026-11-04T22:14:46+09:00",
-    "last_seen": "2026-11-12",
-    "title": "【セット買い】Amazon Fire TV Stick 4K Select + Amazon Fire TV Soundbar Plus",
-    "percent_off": 27,
-    "archived": true
-  },
   "B0DRJJT13G": {
     "first_seen": "2026-11-11",
     "first_seen_at": "2026-11-11T00:14:56+09:00",
@@ -7990,14 +8044,6 @@
     "last_seen": "2026-11-02",
     "title": "ロジクール ワイヤレスマウス キーボード セット MK295OW 静音 耐水 無線 USB接続 Unifying非対応 MK295 オフホワイト 国内正規品",
     "percent_off": 23,
-    "archived": true
-  },
-  "B0F6NCZ7HX": {
-    "first_seen": "2026-10-21",
-    "first_seen_at": "2026-10-21T21:15:05+09:00",
-    "last_seen": "2026-11-01",
-    "title": "UGREEN Air モバイルバッテリー 10000mAh 薄型 Qi2 15W MagSafe ケーブル内蔵 iPhone18Pro対応 | 【ATL製セル×難燃技術】マグネット式ワイヤレス充電｜軽量・小型設計｜USB-C PD 30W対応 ｜パススルー充電対応｜iPhone18 Pro/17/16/15 シリーズ/ Air対応｜PB570｜ ホワイト",
-    "percent_off": 30,
     "archived": true
   },
   "B0CQY7SRTY": {
