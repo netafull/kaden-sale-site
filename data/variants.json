@@ -692,7 +692,7 @@
    },
    "genre": "Apple製品",
    "label": "Apple 2024 iMac 8 コア CPU、8 コア GPU の M4 チ",
-   "last_sweep_at": "2026-11-28T09:07:20+09:00",
+   "last_sweep_at": "2026-11-28T16:07:14+09:00",
    "members": {
     "B0DL6MTB5K": {
      "last_seen": "2026-11-28",
@@ -990,7 +990,7 @@
    "aliases": {},
    "genre": "Apple製品",
    "label": "Apple 13インチiPad Air (M4) 用Magic Keyboard",
-   "last_sweep_at": "2026-11-28T09:07:20+09:00",
+   "last_sweep_at": "2026-11-28T16:07:14+09:00",
    "members": {
     "B0DZ7YJC17": {
      "last_seen": "2026-11-28",
@@ -1260,8 +1260,8 @@
     },
     "B0GXXLG3JM": {
      "last_seen": "2026-11-28",
-     "pct": 3,
-     "points_pct": 0
+     "pct": null,
+     "points_pct": null
     },
     "B0GXXLSP6B": {
      "last_seen": "2026-11-26",
@@ -1497,20 +1497,43 @@
   "B0FQHD1GNH": {
    "aliases": {
     "B0FQFM242M": "2026-11-28",
-    "B0FQFQDMQG": "2026-10-16",
-    "B0FQG234S7": "2026-11-28",
     "B0FQGJ2YKW": "2026-11-28"
    },
    "genre": "Apple製品",
    "label": "Apple iPhone 17 Pro Max 512GB (SIMフリー)：P",
-   "last_sweep_at": "2026-11-28T09:07:20+09:00",
+   "last_sweep_at": "2026-11-28T16:07:14+09:00",
    "members": {
     "B0FQFJN864": {
      "last_seen": "2026-11-28",
      "pct": 0,
      "points_pct": 1
     },
+    "B0FQFQDMQG": {
+     "last_seen": "2026-11-28",
+     "pct": 0,
+     "points_pct": 1
+    },
     "B0FQFWHLMP": {
+     "last_seen": "2026-11-28",
+     "pct": 0,
+     "points_pct": 1
+    },
+    "B0FQG234S7": {
+     "last_seen": "2026-11-28",
+     "pct": 0,
+     "points_pct": 1
+    },
+    "B0FQG2LRDX": {
+     "last_seen": "2026-11-28",
+     "pct": 0,
+     "points_pct": 1
+    },
+    "B0FQGC56BV": {
+     "last_seen": "2026-11-28",
+     "pct": 0,
+     "points_pct": 1
+    },
+    "B0FQGCMJMJ": {
      "last_seen": "2026-11-28",
      "pct": 0,
      "points_pct": 1
@@ -1523,7 +1546,7 @@
    },
    "no_variations": false,
    "seed": "B0FQFJN864",
-   "variation_count": 2
+   "variation_count": 7
   },
   "B0FQHS9C5V": {
    "aliases": {
@@ -4529,7 +4552,7 @@
     "B0HJ9Y9FN4": "2026-10-27",
     "B0HJ9ZYXPV": "2026-11-17",
     "B0HJB4LCRD": "2026-11-25",
-    "B0HJB69RVJ": "2026-11-23"
+    "B0HJB69RVJ": "2026-11-28"
    },
    "genre": "Apple製品",
    "label": "Apple iPhone 18 Pro Max (2 TB) - バーガンディ",

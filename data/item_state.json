@@ -2366,16 +2366,6 @@
     "genre": "XR・ARグラス",
     "price": 37380
   },
-  "B0GLYFHF71": {
-    "first_seen": "2026-11-27",
-    "first_seen_at": "2026-11-27T01:13:10+09:00",
-    "last_seen": "2026-11-28",
-    "title": "XREAL 1S ARグラス | 最大500インチ相当| 52°の広視野角 | ネイティブ3DoF & 3Dリアル変換機能 | X1チップ搭載 | iPhone 17/16/15・Switch 2・USB-C DPデバイス対応",
-    "percent_off": 15,
-    "brand": "XREAL",
-    "genre": "XR・ARグラス",
-    "price": 57780
-  },
   "B0HKS1C2MZ": {
     "first_seen": "2026-11-27",
     "first_seen_at": "2026-11-27T00:13:28+09:00",
@@ -2385,6 +2375,16 @@
     "brand": "RayNeo",
     "genre": "XR・ARグラス",
     "price": 57783
+  },
+  "B0GLYFHF71": {
+    "first_seen": "2026-11-27",
+    "first_seen_at": "2026-11-27T01:13:10+09:00",
+    "last_seen": "2026-11-28",
+    "title": "XREAL 1S ARグラス | 最大500インチ相当| 52°の広視野角 | ネイティブ3DoF & 3Dリアル変換機能 | X1チップ搭載 | iPhone 17/16/15・Switch 2・USB-C DPデバイス対応",
+    "percent_off": 15,
+    "brand": "XREAL",
+    "genre": "XR・ARグラス",
+    "price": 57780
   },
   "B0G3YCRJKX": {
     "first_seen": "2026-11-27",
