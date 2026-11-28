@@ -1162,27 +1162,6 @@
     "genre": "モバイルバッテリー",
     "price": 1540
   },
-  "B0D4F34SB4": {
-    "first_seen": "2026-11-27",
-    "first_seen_at": "2026-11-27T17:13:13+09:00",
-    "last_seen": "2026-11-28",
-    "title": "UGREEN 145W 4-in-1モバイルバッテリー 20000mAh 15Wマグネット式ワイヤレス充電対応 3ポート | Qi2/Magsafe対応 TFTディスプレイ 大容量 縦置き 急速充電対応 パススルー/低電流モード PSE技術基準適合 MacBook/iPhone 18 17シリーズなど/スマホ/ノートPC/出張/防災/旅行対応 PB771",
-    "percent_off": 43,
-    "brand": "UGREEN",
-    "genre": "モバイルバッテリー",
-    "price": 12190,
-    "past": [
-      {
-        "first_seen": "2026-07-24",
-        "last_seen": "2026-11-01",
-        "title": "UGREEN 145W 4-in-1モバイルバッテリー 20000mAh 15Wワイヤレス充電対応 3ポート iPhone 18 Pro/Duo対応 | Qi2/Magsafe対応 TFTディスプレイ 大容量 縦置き 急速充電対応 パススルー/低電流モード PSE技術基準適合 MacBook/iPhone 18 17シリーズなど/スマホ/ノートPC/出張/防災/旅行対応 PB771",
-        "brand": null,
-        "genre": null,
-        "price": null,
-        "percent_off": 40
-      }
-    ]
-  },
   "B0CTLQRSFX": {
     "first_seen": "2026-11-27",
     "first_seen_at": "2026-11-27T00:13:28+09:00",
@@ -1192,6 +1171,16 @@
     "brand": "Belkin",
     "genre": "モバイルバッテリー",
     "price": 793
+  },
+  "B0CJY37RT3": {
+    "first_seen": "2026-11-28",
+    "first_seen_at": "2026-11-28T19:13:33+09:00",
+    "last_seen": "2026-11-28",
+    "title": "UGREEN 300W モバイルバッテリー 48000mAh 5ポート 3*USB-C＋2*Type-A LEDライト iPhone 18 Pro対応 | 240W充電ケーブル付 PD3.1 単ポート140W ハンドル付 縦置型コンパクト NTC温調 パススルー/低電流モード PSE適合 MacBook/iPhone 18 17など/スマホ/ノートPC/出張/防災/旅行 PB770【VGP2025受賞】",
+    "percent_off": 41,
+    "brand": "UGREEN",
+    "genre": "モバイルバッテリー",
+    "price": 13649
   },
   "B0F6NFHB31": {
     "first_seen": "2026-07-25",
@@ -1816,11 +1805,11 @@
     "genre": "充電器",
     "price": 1583
   },
-  "B0F43NCQ25": {
+  "B0F43RNTYH": {
     "first_seen": "2026-11-27",
-    "first_seen_at": "2026-11-27T00:13:28+09:00",
+    "first_seen_at": "2026-11-27T13:13:36+09:00",
     "last_seen": "2026-11-28",
-    "title": "エレコム 充電器 100W 3ポート Type-C USB-A USB PD対応 スイング式プラグ採用 ブラック EC-AC104100BK",
+    "title": "エレコム 充電器 100W 3ポート Type-C USB PD対応 スイング式プラグ採用 ブラック EC-AC113100BK",
     "percent_off": 19,
     "brand": "エレコム(ELECOM)",
     "genre": "充電器",
@@ -1955,6 +1944,16 @@
     "brand": "KIOXIA",
     "genre": "SSD・メモリーカード",
     "price": 1933
+  },
+  "B0CH2X5LBX": {
+    "first_seen": "2026-11-27",
+    "first_seen_at": "2026-11-27T19:13:24+09:00",
+    "last_seen": "2026-11-28",
+    "title": "【Amazon.co.jp限定】 SanDisk microSD カード Ultra SDSQUAB-128G-GH3MA 簡易デザインパッケージ | 128GB UHS-I U1 Class10 Nintendo Switch メーカー動作確認済 10年間限定保証",
+    "percent_off": 21,
+    "brand": "SANDISK",
+    "genre": "SSD・メモリーカード",
+    "price": 3867
   },
   "B09X7DZ9LG": {
     "first_seen": "2026-11-24",
@@ -2120,7 +2119,7 @@
     "first_seen": "2026-11-27",
     "first_seen_at": "2026-11-27T00:13:28+09:00",
     "last_seen": "2026-11-28",
-    "title": "【Amazon.co.jp限定】SwitchBot ハブミニ スマートリモコン スマートホーム アレクサ - Matter対応 赤外線家電を管理 白い | スマート家電 温湿度センサー搭載 スイッチボット 遠隔操作 エアコンコントローラー 節電·省エネ Echo Google Home Siri IFTTT SmartThings対応 Kataステッカー付き",
+    "title": "SwitchBot ハブミニ(Matter対応) スマートリモコン スマートホーム アレクサ - 赤外線家電管理 白い【Amazon.co.jp限定】 | スマート家電 温湿度センサー搭載 スイッチボット 遠隔操作 エアコンコントローラー 節電·省エネ Echo Google Home Siri IFTTT SmartThings対応 Kataステッカー付き",
     "percent_off": 15,
     "brand": "スイッチボット(SwitchBot)",
     "genre": "スマートホーム",
@@ -2216,11 +2215,11 @@
     "genre": "スマートウォッチ",
     "price": 49800
   },
-  "B0GX8BVR4L": {
-    "first_seen": "2026-11-01",
-    "first_seen_at": "2026-11-01T19:15:08+09:00",
+  "B0GX8DRYCX": {
+    "first_seen": "2026-09-03",
+    "first_seen_at": "2026-09-03T12:14:47+09:00",
     "last_seen": "2026-11-28",
-    "title": "HUAWEI WATCH FIT 5 スマートウォッチ 薄型軽量 大画面 GPS内蔵 10日間ロングバッテリー 通知 健康管理 心拍数 睡眠 ホワイト | iPhone対応 android対応 1.82インチ画面 2500nits高輝度 ワークアウト 転倒検知 情緒測定 生理周期管理 64GBストレージ 録音機能 ランニング 防水",
+    "title": "HUAWEI WATCH FIT 5 スマートウォッチ 薄型軽量 大画面 GPS内蔵 10日間ロングバッテリー 通知 健康管理 心拍数 睡眠 ブラック | iPhone対応 android対応 1.82インチ画面 2500nits高輝度 ワークアウト 転倒検知 情緒測定 生理周期管理 64GBストレージ 録音機能 ランニング 防水",
     "percent_off": 21,
     "brand": "HUAWEI(ファーウェイ)",
     "genre": "スマートウォッチ",
@@ -2345,6 +2344,16 @@
     "brand": "XREAL",
     "genre": "XR・ARグラス",
     "price": 71980
+  },
+  "B0H4KF6WPW": {
+    "first_seen": "2026-11-27",
+    "first_seen_at": "2026-11-27T01:13:10+09:00",
+    "last_seen": "2026-11-28",
+    "title": "INMO GO3 AIスマートグラス リアルタイム翻訳を眼前に表示 127言語対応 AIアシスタント カメラ搭載ARグラス 軽量設計 会議/スピーチ/海外旅行/ナビゲーション",
+    "percent_off": 16,
+    "brand": "inmo",
+    "genre": "XR・ARグラス",
+    "price": 83900
   },
   "B0H5HS653V": {
     "first_seen": "2026-11-27",
@@ -2628,6 +2637,16 @@
     "genre": "キーボード・マウス",
     "price": 1580
   },
+  "B0CLGVLBMV": {
+    "first_seen": "2026-08-23",
+    "first_seen_at": "2026-08-23T20:37:59+09:00",
+    "last_seen": "2026-11-28",
+    "title": "Razer ラピッドトリガー 搭載 Huntsman V3 Pro Mini JP ラピッドトリガーと調整可能なアクチュエーション搭載のアナログ ゲーミングキーボード アナログオプティカルスイッチ 調整可能なアクチュエーション 押下圧 40G 日本語配列 ハンツマン ブイスリー プロ ミニ ジェイピー【日本正規代理店保証品】 ブラック",
+    "percent_off": 41,
+    "brand": "Razer(レイザー)",
+    "genre": "キーボード・マウス",
+    "price": 15980
+  },
   "B0FJRCJ1SN": {
     "first_seen": "2026-07-26",
     "first_seen_at": "2026-07-26T12:00:00+09:00",
@@ -2782,16 +2801,6 @@
     "genre": "キーボード・マウス",
     "price": 18980
   },
-  "B0CLGVLBMV": {
-    "first_seen": "2026-08-23",
-    "first_seen_at": "2026-08-23T20:37:59+09:00",
-    "last_seen": "2026-11-28",
-    "title": "Razer ラピッドトリガー 搭載 Huntsman V3 Pro Mini JP ラピッドトリガーと調整可能なアクチュエーション搭載のアナログ ゲーミングキーボード アナログオプティカルスイッチ 調整可能なアクチュエーション 押下圧 40G 日本語配列 ハンツマン ブイスリー プロ ミニ ジェイピー【日本正規代理店保証品】 ブラック",
-    "percent_off": 26,
-    "brand": "Razer(レイザー)",
-    "genre": "キーボード・マウス",
-    "price": 20029
-  },
   "B09Q5SHDR3": {
     "first_seen": "2026-11-26",
     "first_seen_at": "2026-11-26T08:13:54+09:00",
@@ -2833,16 +2842,6 @@
     "genre": "キーボード・マウス",
     "price": 4104
   },
-  "B0BWDSC5ZB": {
-    "first_seen": "2026-11-27",
-    "first_seen_at": "2026-11-27T00:13:28+09:00",
-    "last_seen": "2026-11-28",
-    "title": "【Amazon.co.jp限定】 ロジクール ワイヤレスキーボード 無線 MX KEYS mini KX700GRd 日本語配列 国内正規品 | テンキーレス、コンパクト、薄型、USB-C充電式、Bluetooth、Logi Bolt、イルミネイテッド、グラファイト色、ミニマリスト、KX700 、Unifying接続非対応、壁紙ダウンロード付き",
-    "percent_off": 21,
-    "brand": "Logicool(ロジクール)",
-    "genre": "キーボード・マウス",
-    "price": 12300
-  },
   "B0FDQL8KNL": {
     "first_seen": "2026-11-27",
     "first_seen_at": "2026-11-27T00:13:28+09:00",
@@ -2852,6 +2851,16 @@
     "brand": "Logicool(ロジクール)",
     "genre": "キーボード・マウス",
     "price": 1980
+  },
+  "B0BWDSC5ZB": {
+    "first_seen": "2026-11-27",
+    "first_seen_at": "2026-11-27T00:13:28+09:00",
+    "last_seen": "2026-11-28",
+    "title": "【Amazon.co.jp限定】 ロジクール ワイヤレスキーボード 無線 MX KEYS mini KX700GRd 日本語配列 国内正規品 | テンキーレス、コンパクト、薄型、USB-C充電式、Bluetooth、Logi Bolt、イルミネイテッド、グラファイト色、ミニマリスト、KX700 、Unifying接続非対応、壁紙ダウンロード付き",
+    "percent_off": 21,
+    "brand": "Logicool(ロジクール)",
+    "genre": "キーボード・マウス",
+    "price": 12300
   },
   "B0C3QXBTJP": {
     "first_seen": "2026-11-27",
@@ -3005,15 +3014,15 @@
     "genre": "キーボード・マウス",
     "price": 1140
   },
-  "B0CFKL2GHQ": {
-    "first_seen": "2026-11-27",
-    "first_seen_at": "2026-11-27T00:13:28+09:00",
+  "B0CFKJP1WX": {
+    "first_seen": "2026-11-28",
+    "first_seen_at": "2026-11-28T19:13:33+09:00",
     "last_seen": "2026-11-28",
-    "title": "エレコム マウス ワイヤレスマウス EX-G Bluetooth 静音 Mサイズ 5ボタン マルチペアリング 「AskDoctors評価サービス」認証 抗菌 ブラック M-XGM30BBSKABK",
+    "title": "エレコム マウス ワイヤレスマウス EX-G 無線2.4GHz 静音 Mサイズ 5ボタン 「AskDoctors評価サービス」認証 抗菌 ブラック M-XGM30DBSKABK",
     "percent_off": 16,
     "brand": "エレコム(ELECOM)",
     "genre": "キーボード・マウス",
-    "price": 3090
+    "price": 2760
   },
   "B0DJLRYYSS": {
     "first_seen": "2026-11-27",
@@ -3247,25 +3256,56 @@
     "genre": "エアフライヤー",
     "price": 17270
   },
-  "B0GX8DRYCX": {
-    "first_seen": "2026-09-03",
-    "first_seen_at": "2026-09-03T12:14:47+09:00",
+  "B0D4F34SB4": {
+    "first_seen": "2026-11-27",
+    "first_seen_at": "2026-11-27T17:13:13+09:00",
     "last_seen": "2026-11-28",
-    "title": "HUAWEI WATCH FIT 5 スマートウォッチ 薄型軽量 大画面 GPS内蔵 10日間ロングバッテリー 通知 健康管理 心拍数 睡眠 ブラック | iPhone対応 android対応 1.82インチ画面 2500nits高輝度 ワークアウト 転倒検知 情緒測定 生理周期管理 64GBストレージ 録音機能 ランニング 防水",
+    "title": "UGREEN 145W 4-in-1モバイルバッテリー 20000mAh 15Wマグネット式ワイヤレス充電対応 3ポート | Qi2/Magsafe対応 TFTディスプレイ 大容量 縦置き 急速充電対応 パススルー/低電流モード PSE技術基準適合 MacBook/iPhone 18 17シリーズなど/スマホ/ノートPC/出張/防災/旅行対応 PB771",
+    "percent_off": 43,
+    "brand": "UGREEN",
+    "genre": "モバイルバッテリー",
+    "price": 12190,
+    "past": [
+      {
+        "first_seen": "2026-07-24",
+        "last_seen": "2026-11-01",
+        "title": "UGREEN 145W 4-in-1モバイルバッテリー 20000mAh 15Wワイヤレス充電対応 3ポート iPhone 18 Pro/Duo対応 | Qi2/Magsafe対応 TFTディスプレイ 大容量 縦置き 急速充電対応 パススルー/低電流モード PSE技術基準適合 MacBook/iPhone 18 17シリーズなど/スマホ/ノートPC/出張/防災/旅行対応 PB771",
+        "brand": null,
+        "genre": null,
+        "price": null,
+        "percent_off": 40
+      }
+    ]
+  },
+  "B0F43NCQ25": {
+    "first_seen": "2026-11-27",
+    "first_seen_at": "2026-11-27T00:13:28+09:00",
+    "last_seen": "2026-11-28",
+    "title": "エレコム 充電器 100W 3ポート Type-C USB-A USB PD対応 スイング式プラグ採用 ブラック EC-AC104100BK",
+    "percent_off": 19,
+    "brand": "エレコム(ELECOM)",
+    "genre": "充電器",
+    "price": 4445
+  },
+  "B0GX8BVR4L": {
+    "first_seen": "2026-11-01",
+    "first_seen_at": "2026-11-01T19:15:08+09:00",
+    "last_seen": "2026-11-28",
+    "title": "HUAWEI WATCH FIT 5 スマートウォッチ 薄型軽量 大画面 GPS内蔵 10日間ロングバッテリー 通知 健康管理 心拍数 睡眠 ホワイト | iPhone対応 android対応 1.82インチ画面 2500nits高輝度 ワークアウト 転倒検知 情緒測定 生理周期管理 64GBストレージ 録音機能 ランニング 防水",
     "percent_off": 21,
     "brand": "HUAWEI(ファーウェイ)",
     "genre": "スマートウォッチ",
     "price": 21470
   },
-  "B0H4KF6WPW": {
+  "B0CFKL2GHQ": {
     "first_seen": "2026-11-27",
-    "first_seen_at": "2026-11-27T01:13:10+09:00",
+    "first_seen_at": "2026-11-27T00:13:28+09:00",
     "last_seen": "2026-11-28",
-    "title": "INMO GO3 AIスマートグラス リアルタイム翻訳を眼前に表示 127言語対応 AIアシスタント カメラ搭載ARグラス 軽量設計 会議/スピーチ/海外旅行/ナビゲーション",
+    "title": "エレコム マウス ワイヤレスマウス EX-G Bluetooth 静音 Mサイズ 5ボタン マルチペアリング 「AskDoctors評価サービス」認証 抗菌 ブラック M-XGM30BBSKABK",
     "percent_off": 16,
-    "brand": "inmo",
-    "genre": "XR・ARグラス",
-    "price": 83900
+    "brand": "エレコム(ELECOM)",
+    "genre": "キーボード・マウス",
+    "price": 3090
   },
   "B0HJB28XVR": {
     "first_seen": "2026-11-27",
@@ -4606,16 +4646,6 @@
     "genre": "SSD・メモリーカード",
     "price": 1534
   },
-  "B0CH2X5LBX": {
-    "first_seen": "2026-11-27",
-    "first_seen_at": "2026-11-27T19:13:24+09:00",
-    "last_seen": "2026-11-27",
-    "title": "【Amazon.co.jp限定】 SanDisk microSD カード Ultra SDSQUAB-128G-GH3MA 簡易デザインパッケージ | 128GB UHS-I U1 Class10 Nintendo Switch メーカー動作確認済 10年間限定保証",
-    "percent_off": 21,
-    "brand": "SANDISK",
-    "genre": "SSD・メモリーカード",
-    "price": 3867
-  },
   "B0BN5ZG2T8": {
     "first_seen": "2026-11-27",
     "first_seen_at": "2026-11-27T21:13:23+09:00",
@@ -4809,16 +4839,6 @@
     "brand": "Apple(アップル)",
     "genre": "Apple製品",
     "price": 23900
-  },
-  "B0F43RNTYH": {
-    "first_seen": "2026-11-27",
-    "first_seen_at": "2026-11-27T13:13:36+09:00",
-    "last_seen": "2026-11-27",
-    "title": "エレコム 充電器 100W 3ポート Type-C USB PD対応 スイング式プラグ採用 ブラック EC-AC113100BK",
-    "percent_off": 19,
-    "brand": "エレコム(ELECOM)",
-    "genre": "充電器",
-    "price": 4445
   },
   "B0GF24NN7N": {
     "first_seen": "2026-10-05",
