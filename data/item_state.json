@@ -1087,10 +1087,10 @@
     "first_seen_at": "2026-11-01T02:15:45+09:00",
     "last_seen": "2026-11-28",
     "title": "ソニー(SONY) WF-C710N ブラック ワイヤレスイヤホン 高性能ノイズキャンセリング Bluetoothロングバッテリー 外音取り込み IPX4防滴性能 軽量 コンパクト マルチポイント接続",
-    "percent_off": 30,
+    "percent_off": 27,
     "brand": "Sony",
     "genre": "ワイヤレスイヤホン",
-    "price": 12325
+    "price": 12800
   },
   "B0FNRS5WB2": {
     "first_seen": "2026-11-04",
@@ -1924,7 +1924,7 @@
     "percent_off": 16,
     "brand": "Belkin",
     "genre": "充電器",
-    "price": 7565
+    "price": 7564
   },
   "B0CWN59C9H": {
     "first_seen": "2026-11-04",
@@ -2216,11 +2216,11 @@
     "genre": "スマートウォッチ",
     "price": 49800
   },
-  "B0GX8DRYCX": {
-    "first_seen": "2026-09-03",
-    "first_seen_at": "2026-09-03T12:14:47+09:00",
+  "B0GX8BVR4L": {
+    "first_seen": "2026-11-01",
+    "first_seen_at": "2026-11-01T19:15:08+09:00",
     "last_seen": "2026-11-28",
-    "title": "HUAWEI WATCH FIT 5 スマートウォッチ 薄型軽量 大画面 GPS内蔵 10日間ロングバッテリー 通知 健康管理 心拍数 睡眠 ブラック | iPhone対応 android対応 1.82インチ画面 2500nits高輝度 ワークアウト 転倒検知 情緒測定 生理周期管理 64GBストレージ 録音機能 ランニング 防水",
+    "title": "HUAWEI WATCH FIT 5 スマートウォッチ 薄型軽量 大画面 GPS内蔵 10日間ロングバッテリー 通知 健康管理 心拍数 睡眠 ホワイト | iPhone対応 android対応 1.82インチ画面 2500nits高輝度 ワークアウト 転倒検知 情緒測定 生理周期管理 64GBストレージ 録音機能 ランニング 防水",
     "percent_off": 21,
     "brand": "HUAWEI(ファーウェイ)",
     "genre": "スマートウォッチ",
@@ -2244,7 +2244,7 @@
     "percent_off": 18,
     "brand": "ガーミン(GARMIN)",
     "genre": "スマートウォッチ",
-    "price": 118000
+    "price": 117927
   },
   "B0HJH291KS": {
     "first_seen": "2026-11-27",
@@ -2346,16 +2346,6 @@
     "genre": "XR・ARグラス",
     "price": 71980
   },
-  "B0H4KF6WPW": {
-    "first_seen": "2026-11-27",
-    "first_seen_at": "2026-11-27T01:13:10+09:00",
-    "last_seen": "2026-11-28",
-    "title": "INMO GO3 AIスマートグラス リアルタイム翻訳を眼前に表示 127言語対応 AIアシスタント カメラ搭載ARグラス 軽量設計 会議/スピーチ/海外旅行/ナビゲーション",
-    "percent_off": 16,
-    "brand": "inmo",
-    "genre": "XR・ARグラス",
-    "price": 83900
-  },
   "B0H5HS653V": {
     "first_seen": "2026-11-27",
     "first_seen_at": "2026-11-27T00:13:28+09:00",
@@ -2366,16 +2356,6 @@
     "genre": "XR・ARグラス",
     "price": 37380
   },
-  "B0HKS1C2MZ": {
-    "first_seen": "2026-11-27",
-    "first_seen_at": "2026-11-27T00:13:28+09:00",
-    "last_seen": "2026-11-28",
-    "title": "RayNeo GT MAX ARグラス 267インチ大画面・59°広視野角・ネイティブ3DoF対応(IPD 64-67mm) | Dolby Vision対応・B&Oサウンド搭載。3D映像、Vision 4000＋Zone 360に対応。iPhone、Android、iPad、Mac/PC、Nintendo Switch、PS5で楽しめる。",
-    "percent_off": 15,
-    "brand": "RayNeo",
-    "genre": "XR・ARグラス",
-    "price": 57783
-  },
   "B0GLYFHF71": {
     "first_seen": "2026-11-27",
     "first_seen_at": "2026-11-27T01:13:10+09:00",
@@ -2385,6 +2365,16 @@
     "brand": "XREAL",
     "genre": "XR・ARグラス",
     "price": 57780
+  },
+  "B0HKS1C2MZ": {
+    "first_seen": "2026-11-27",
+    "first_seen_at": "2026-11-27T00:13:28+09:00",
+    "last_seen": "2026-11-28",
+    "title": "RayNeo GT MAX ARグラス 267インチ大画面・59°広視野角・ネイティブ3DoF対応(IPD 64-67mm) | Dolby Vision対応・B&Oサウンド搭載。3D映像、Vision 4000＋Zone 360に対応。iPhone、Android、iPad、Mac/PC、Nintendo Switch、PS5で楽しめる。",
+    "percent_off": 15,
+    "brand": "RayNeo",
+    "genre": "XR・ARグラス",
+    "price": 57783
   },
   "B0G3YCRJKX": {
     "first_seen": "2026-11-27",
@@ -3256,6 +3246,26 @@
     "brand": "Cosori",
     "genre": "エアフライヤー",
     "price": 17270
+  },
+  "B0GX8DRYCX": {
+    "first_seen": "2026-09-03",
+    "first_seen_at": "2026-09-03T12:14:47+09:00",
+    "last_seen": "2026-11-28",
+    "title": "HUAWEI WATCH FIT 5 スマートウォッチ 薄型軽量 大画面 GPS内蔵 10日間ロングバッテリー 通知 健康管理 心拍数 睡眠 ブラック | iPhone対応 android対応 1.82インチ画面 2500nits高輝度 ワークアウト 転倒検知 情緒測定 生理周期管理 64GBストレージ 録音機能 ランニング 防水",
+    "percent_off": 21,
+    "brand": "HUAWEI(ファーウェイ)",
+    "genre": "スマートウォッチ",
+    "price": 21470
+  },
+  "B0H4KF6WPW": {
+    "first_seen": "2026-11-27",
+    "first_seen_at": "2026-11-27T01:13:10+09:00",
+    "last_seen": "2026-11-28",
+    "title": "INMO GO3 AIスマートグラス リアルタイム翻訳を眼前に表示 127言語対応 AIアシスタント カメラ搭載ARグラス 軽量設計 会議/スピーチ/海外旅行/ナビゲーション",
+    "percent_off": 16,
+    "brand": "inmo",
+    "genre": "XR・ARグラス",
+    "price": 83900
   },
   "B0HJB28XVR": {
     "first_seen": "2026-11-27",
@@ -4719,16 +4729,6 @@
     "brand": "REALFORCE",
     "genre": "キーボード・マウス",
     "price": 21879
-  },
-  "B0GX8BVR4L": {
-    "first_seen": "2026-11-01",
-    "first_seen_at": "2026-11-01T19:15:08+09:00",
-    "last_seen": "2026-11-27",
-    "title": "HUAWEI WATCH FIT 5 スマートウォッチ 薄型軽量 大画面 GPS内蔵 10日間ロングバッテリー 通知 健康管理 心拍数 睡眠 ホワイト | iPhone対応 android対応 1.82インチ画面 2500nits高輝度 ワークアウト 転倒検知 情緒測定 生理周期管理 64GBストレージ 録音機能 ランニング 防水",
-    "percent_off": 21,
-    "brand": "HUAWEI(ファーウェイ)",
-    "genre": "スマートウォッチ",
-    "price": 21470
   },
   "B0HJB11VYX": {
     "first_seen": "2026-11-21",
