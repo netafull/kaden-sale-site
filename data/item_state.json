@@ -249,6 +249,16 @@
     "genre": "Apple製品",
     "price": 61000
   },
+  "B0HJB3GN3F": {
+    "first_seen": "2026-11-20",
+    "first_seen_at": "2026-11-20T13:15:25+09:00",
+    "last_seen": "2026-11-29",
+    "title": "Apple Watch Series 12（GPSモデル） | 42mmライトゴールドアルミニウムケースとサンドスポーツバンド - S/M。健康 + フィットネス + 睡眠記録、心拍数、安全",
+    "percent_off": 15,
+    "brand": "Apple(アップル)",
+    "genre": "Apple製品",
+    "price": 61000
+  },
   "B0HJB812TG": {
     "first_seen": "2026-11-20",
     "first_seen_at": "2026-11-20T19:15:18+09:00",
@@ -1032,27 +1042,6 @@
     "genre": "Apple製品",
     "price": 89800
   },
-  "B0DZ7WF87P": {
-    "first_seen": "2026-11-22",
-    "first_seen_at": "2026-11-22T04:14:23+09:00",
-    "last_seen": "2026-11-29",
-    "title": "Apple 11 インチ iPad (A16): 11 インチモデル、Liquid Retina ディスプレイ、128GB、Wi-Fi 6、12MP フロント/12MP バックカメラ、Touch ID、一日中使えるバ ッテリー - シルバー",
-    "percent_off": 5,
-    "brand": "Apple(アップル)",
-    "genre": "Apple製品",
-    "price": 71082,
-    "past": [
-      {
-        "first_seen": "2026-10-30",
-        "last_seen": "2026-10-31",
-        "title": "Apple 11 インチ iPad (A16): 11 インチモデル、Liquid Retina ディスプレイ、128GB、Wi-Fi 6、12MP フロント/12MP バックカメラ、Touch ID、一日中使えるバ ッテリー - シルバー",
-        "brand": null,
-        "genre": null,
-        "price": null,
-        "percent_off": 5
-      }
-    ]
-  },
   "B0HJ9VNBZ8": {
     "first_seen": "2026-11-27",
     "first_seen_at": "2026-11-27T00:13:28+09:00",
@@ -1098,20 +1087,20 @@
     "first_seen_at": "2026-11-28T21:13:19+09:00",
     "last_seen": "2026-11-29",
     "title": "ソニー(SONY) オープンイヤー LinkBudsOpen Bluetooth ワイヤレスイヤホン 防滴 ロングバッテリー最大8時間連続再生 マイク付 迫力の音質 軽量 コンパクト カラフルケースカバー WF-L910 ブラック",
-    "percent_off": 66,
+    "percent_off": 67,
     "brand": "Sony",
     "genre": "ワイヤレスイヤホン",
-    "price": 10000
+    "price": 9800
   },
   "B0D3T5ZW6Z": {
     "first_seen": "2026-11-09",
     "first_seen_at": "2026-11-09T22:14:55+09:00",
     "last_seen": "2026-11-29",
     "title": "JBL LIVE BEAM 3 ワイヤレスイヤホン スマート充電ケース/LDAC対応ハイレゾ/マルチポイント/ハイブリッド ノイズキャンセリング/IP55防水/ワイヤレス充電対応/ブラック/JBLLIVEBEAM3BLK",
-    "percent_off": 54,
+    "percent_off": 64,
     "brand": "JBL",
     "genre": "ワイヤレスイヤホン",
-    "price": 12780
+    "price": 9990
   },
   "B0DPX7W84T": {
     "first_seen": "2026-10-20",
@@ -1486,16 +1475,6 @@
     "genre": "モバイルバッテリー",
     "price": 2465
   },
-  "B0F4VL7XFR": {
-    "first_seen": "2026-11-28",
-    "first_seen_at": "2026-11-28T13:13:37+09:00",
-    "last_seen": "2026-11-29",
-    "title": "【アマゾン限定】Belkin モバイルバッテリー 3C認証 軽量 10000mAh 20W USB-Cケーブル内蔵 2台同時充電 ブラック | BoostCharge ccc認証 モバイルバッテリー PD対応 PPS対応 iPhone18，17〜12対応 Android対応 PSE認証 機内持込可能 コンパクト アウトドア 災害対策 2年保証 2500ドルのCEW補償",
-    "percent_off": 18,
-    "brand": "Belkin",
-    "genre": "モバイルバッテリー",
-    "price": 2317
-  },
   "B0DRP2QYCY": {
     "first_seen": "2026-11-27",
     "first_seen_at": "2026-11-27T13:13:36+09:00",
@@ -1536,6 +1515,16 @@
     "genre": "モバイルバッテリー",
     "price": 14440
   },
+  "B0F4VW6DFG": {
+    "first_seen": "2026-11-27",
+    "first_seen_at": "2026-11-27T01:13:10+09:00",
+    "last_seen": "2026-11-29",
+    "title": "【アマゾン限定】Belkin モバイルバッテリー 3C認証 軽量 10000mAh 20W USB-Cケーブル内蔵 2台同時充電 ブルー | BoostCharge ccc認証 モバイルバッテリー PD対応 PPS対応 iPhone18，17〜12対応 Android対応 PSE認証 機内持込可能 コンパクト アウトドア 災害対策 2年保証 2500ドルのCEW補償",
+    "percent_off": 15,
+    "brand": "Belkin",
+    "genre": "モバイルバッテリー",
+    "price": 2414
+  },
   "B0GTLRMFJZ": {
     "first_seen": "2026-11-27",
     "first_seen_at": "2026-11-27T00:13:28+09:00",
@@ -1575,6 +1564,16 @@
     "brand": "Belkin",
     "genre": "充電器",
     "price": 2182
+  },
+  "B0C3ZC4QWG": {
+    "first_seen": "2026-11-27",
+    "first_seen_at": "2026-11-27T01:13:10+09:00",
+    "last_seen": "2026-11-29",
+    "title": "Belkin USB充電器 (30W + 30W) 2ポート iPhone17,16～12 PD急速充電対応 WCB010dqWHJP",
+    "percent_off": 51,
+    "brand": "Belkin",
+    "genre": "充電器",
+    "price": 1692
   },
   "B09CH44769": {
     "first_seen": "2026-11-04",
@@ -2131,16 +2130,6 @@
     "genre": "充電器",
     "price": 1850
   },
-  "B0B1KKRLTG": {
-    "first_seen": "2026-11-27",
-    "first_seen_at": "2026-11-27T06:13:27+09:00",
-    "last_seen": "2026-11-29",
-    "title": "Belkin 充電器 USB-C 30W PD3.0急速充電 PPS対応 折りたたみ式プラグ iPhone15 / MacBook Air/iPad/iPhone17,16～12/Galaxy Note/Galaxy/Google Pixel対応 BOOST↑CHARGE WCA005dqWH",
-    "percent_off": 15,
-    "brand": "Belkin",
-    "genre": "充電器",
-    "price": 2020
-  },
   "B08P45YTTL": {
     "first_seen": "2026-11-04",
     "first_seen_at": "2026-11-04T09:15:07+09:00",
@@ -2392,6 +2381,16 @@
     "brand": "スイッチボット(SwitchBot)",
     "genre": "スマートホーム",
     "price": 1680
+  },
+  "B07Y6H32B6": {
+    "first_seen": "2026-11-27",
+    "first_seen_at": "2026-11-27T13:13:36+09:00",
+    "last_seen": "2026-11-29",
+    "title": "SwitchBot 加湿器 超音波式 Alexa 大容量 3.5L 上から給水 6-15畳対応 アロマ対応 静音 スマート家電 空焚き防止 | 除菌フィルター・最大48時間連続稼働・アプリ自動制御・Echo / Google Home / HomePod / Siri対応",
+    "percent_off": 15,
+    "brand": "スイッチボット(SwitchBot)",
+    "genre": "スマートホーム",
+    "price": 5508
   },
   "B0DSPXKDP8": {
     "first_seen": "2026-11-27",
@@ -3690,15 +3689,46 @@
     "genre": "エアフライヤー",
     "price": 17270
   },
-  "B0C3ZC4QWG": {
-    "first_seen": "2026-11-27",
-    "first_seen_at": "2026-11-27T01:13:10+09:00",
+  "B0DZ7WF87P": {
+    "first_seen": "2026-11-22",
+    "first_seen_at": "2026-11-22T04:14:23+09:00",
     "last_seen": "2026-11-29",
-    "title": "Belkin USB充電器 (30W + 30W) 2ポート iPhone17,16～12 PD急速充電対応 WCB010dqWHJP",
-    "percent_off": 51,
+    "title": "Apple 11 インチ iPad (A16): 11 インチモデル、Liquid Retina ディスプレイ、128GB、Wi-Fi 6、12MP フロント/12MP バックカメラ、Touch ID、一日中使えるバ ッテリー - シルバー",
+    "percent_off": 5,
+    "brand": "Apple(アップル)",
+    "genre": "Apple製品",
+    "price": 71082,
+    "past": [
+      {
+        "first_seen": "2026-10-30",
+        "last_seen": "2026-10-31",
+        "title": "Apple 11 インチ iPad (A16): 11 インチモデル、Liquid Retina ディスプレイ、128GB、Wi-Fi 6、12MP フロント/12MP バックカメラ、Touch ID、一日中使えるバ ッテリー - シルバー",
+        "brand": null,
+        "genre": null,
+        "price": null,
+        "percent_off": 5
+      }
+    ]
+  },
+  "B0F4VL7XFR": {
+    "first_seen": "2026-11-28",
+    "first_seen_at": "2026-11-28T13:13:37+09:00",
+    "last_seen": "2026-11-29",
+    "title": "【アマゾン限定】Belkin モバイルバッテリー 3C認証 軽量 10000mAh 20W USB-Cケーブル内蔵 2台同時充電 ブラック | BoostCharge ccc認証 モバイルバッテリー PD対応 PPS対応 iPhone18，17〜12対応 Android対応 PSE認証 機内持込可能 コンパクト アウトドア 災害対策 2年保証 2500ドルのCEW補償",
+    "percent_off": 18,
+    "brand": "Belkin",
+    "genre": "モバイルバッテリー",
+    "price": 2317
+  },
+  "B0B1KKRLTG": {
+    "first_seen": "2026-11-27",
+    "first_seen_at": "2026-11-27T06:13:27+09:00",
+    "last_seen": "2026-11-29",
+    "title": "Belkin 充電器 USB-C 30W PD3.0急速充電 PPS対応 折りたたみ式プラグ iPhone15 / MacBook Air/iPad/iPhone17,16～12/Galaxy Note/Galaxy/Google Pixel対応 BOOST↑CHARGE WCA005dqWH",
+    "percent_off": 15,
     "brand": "Belkin",
     "genre": "充電器",
-    "price": 1692
+    "price": 2020
   },
   "B0CL4R54X4": {
     "first_seen": "2026-11-04",
@@ -3769,16 +3799,6 @@
     "brand": "エレコム(ELECOM)",
     "genre": "モバイルバッテリー",
     "price": 2168
-  },
-  "B0F4VW6DFG": {
-    "first_seen": "2026-11-27",
-    "first_seen_at": "2026-11-27T01:13:10+09:00",
-    "last_seen": "2026-11-29",
-    "title": "【アマゾン限定】Belkin モバイルバッテリー 3C認証 軽量 10000mAh 20W USB-Cケーブル内蔵 2台同時充電 ブルー | BoostCharge ccc認証 モバイルバッテリー PD対応 PPS対応 iPhone18，17〜12対応 Android対応 PSE認証 機内持込可能 コンパクト アウトドア 災害対策 2年保証 2500ドルのCEW補償",
-    "percent_off": 15,
-    "brand": "Belkin",
-    "genre": "モバイルバッテリー",
-    "price": 2414
   },
   "B0FTZ4M256": {
     "first_seen": "2026-11-28",
@@ -3941,16 +3961,6 @@
         "percent_off": 20
       }
     ]
-  },
-  "B07Y6H32B6": {
-    "first_seen": "2026-11-27",
-    "first_seen_at": "2026-11-27T13:13:36+09:00",
-    "last_seen": "2026-11-28",
-    "title": "SwitchBot 加湿器 超音波式 Alexa 大容量 3.5L 上から給水 6-15畳対応 アロマ対応 静音 スマート家電 空焚き防止 | 除菌フィルター・最大48時間連続稼働・アプリ自動制御・Echo / Google Home / HomePod / Siri対応",
-    "percent_off": 15,
-    "brand": "スイッチボット(SwitchBot)",
-    "genre": "スマートホーム",
-    "price": 5508
   },
   "B0BFHD4XCC": {
     "first_seen": "2026-11-27",
@@ -5165,16 +5175,6 @@
     "brand": "Logicool(ロジクール)",
     "genre": "キーボード・マウス",
     "price": 13673
-  },
-  "B0HJB3GN3F": {
-    "first_seen": "2026-11-20",
-    "first_seen_at": "2026-11-20T13:15:25+09:00",
-    "last_seen": "2026-11-27",
-    "title": "Apple Watch Series 12（GPSモデル） | 42mmライトゴールドアルミニウムケースとサンドスポーツバンド - S/M。健康 + フィットネス + 睡眠記録、心拍数、安全",
-    "percent_off": 15,
-    "brand": "Apple(アップル)",
-    "genre": "Apple製品",
-    "price": 61000
   },
   "B0DRVCV19L": {
     "first_seen": "2026-11-27",
