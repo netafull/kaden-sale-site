@@ -1604,6 +1604,16 @@
     "genre": "充電器",
     "price": 3980
   },
+  "B0DW2SYD5H": {
+    "first_seen": "2026-08-15",
+    "first_seen_at": "2026-08-15T20:37:29+09:00",
+    "last_seen": "2026-11-28",
+    "title": "Anker Zolo Wireless Charger (Magnetic, Pad) ブラック | ブラック Qi2対応 マグネット式 ワイヤレス充電/ワイヤレス出力 iPhone MagSafe対応 iPhone 18 / 18 / 17 / 16 / 14 シリーズ対応 Pixel10非対応",
+    "percent_off": 23,
+    "brand": "Anker",
+    "genre": "充電器",
+    "price": 2290
+  },
   "B09N9F6WSX": {
     "first_seen": "2026-11-27",
     "first_seen_at": "2026-11-27T01:13:10+09:00",
@@ -1956,6 +1966,16 @@
     "brand": "エレコム(ELECOM)",
     "genre": "充電器",
     "price": 723
+  },
+  "B0CTJDLWV4": {
+    "first_seen": "2026-11-04",
+    "first_seen_at": "2026-11-04T22:14:46+09:00",
+    "last_seen": "2026-11-28",
+    "title": "エレコム 充電器 65W USB PD対応 小型 Type-C 1ポート PPS対応 GaN II採用 PSE認証 ブラック 【iPhone 16 15 iPad Macbook 等対応】 EC-AC8565BK",
+    "percent_off": 16,
+    "brand": "エレコム(ELECOM)",
+    "genre": "充電器",
+    "price": 2090
   },
   "B0FB2F95HY": {
     "first_seen": "2026-11-27",
@@ -2729,6 +2749,27 @@
     "genre": "キーボード・マウス",
     "price": 2764
   },
+  "B0956X785M": {
+    "first_seen": "2026-11-27",
+    "first_seen_at": "2026-11-27T01:13:10+09:00",
+    "last_seen": "2026-11-28",
+    "title": "【Amazon.co.jp限定】 ロジクール ワイヤレスマウス 無線 マウス M185CG M185 グレー 国内正規品 | 小型、軽量、2.4GHzワイヤレス接続、電池式（単3形乾電池 x 1）、電池寿命最大12ケ月、windows10、11以降、macOS 10.5以降、ChromeOS、Linuxカーネル2.6+以降、Amazon.co.jp限定 壁紙ダウンロード付き",
+    "percent_off": 31,
+    "brand": "Logicool(ロジクール)",
+    "genre": "キーボード・マウス",
+    "price": 989,
+    "past": [
+      {
+        "first_seen": "2026-10-06",
+        "last_seen": "2026-11-12",
+        "title": "【Amazon.co.jp限定】 ロジクール ワイヤレスマウス 無線 マウス M185CG M185 グレー 国内正規品 | 小型、軽量、2.4GHzワイヤレス接続、電池式（単3形乾電池 x 1）、電池寿命最大12ケ月、windows10、11以降、macOS 10.5以降、ChromeOS、Linuxカーネル2.6+以降、Amazon.co.jp限定 壁紙ダウンロード付き",
+        "brand": null,
+        "genre": null,
+        "price": null,
+        "percent_off": 30
+      }
+    ]
+  },
   "B0BC135WFD": {
     "first_seen": "2026-11-27",
     "first_seen_at": "2026-11-27T01:13:10+09:00",
@@ -2788,6 +2829,27 @@
         "genre": null,
         "price": null,
         "percent_off": 21
+      }
+    ]
+  },
+  "B0BKP2XWY5": {
+    "first_seen": "2026-11-27",
+    "first_seen_at": "2026-11-27T11:13:37+09:00",
+    "last_seen": "2026-11-28",
+    "title": "【Amazon.co.jp限定】 ロジクールワイヤレスマウス 静音 無線 Signature M550MBKs レギュラー ブラック 国内正規品 | レギュラーサイズ、3ボタン、電池式（単3形乾電池x1）、Bluetooth、Logi Bolt、Windows10、Windows11、macOS、iPadOS、Android、ChromeOS、M550、M550M、壁紙ダウンロード付き",
+    "percent_off": 26,
+    "brand": "Logicool(ロジクール)",
+    "genre": "キーボード・マウス",
+    "price": 2950,
+    "past": [
+      {
+        "first_seen": "2026-11-03",
+        "last_seen": "2026-11-12",
+        "title": "【Amazon.co.jp限定】 ロジクールワイヤレスマウス 静音 無線 Signature M550MBKs レギュラー ブラック 国内正規品 | レギュラーサイズ、3ボタン、電池式（単3形乾電池x1）、Bluetooth、Logi Bolt、Windows10、Windows11、macOS、iPadOS、Android、ChromeOS、M550、M550M、壁紙ダウンロード付き",
+        "brand": null,
+        "genre": null,
+        "price": null,
+        "percent_off": 26
       }
     ]
   },
@@ -2862,6 +2924,16 @@
     "genre": "キーボード・マウス",
     "price": 20729
   },
+  "B0BWDSC5ZB": {
+    "first_seen": "2026-11-27",
+    "first_seen_at": "2026-11-27T00:13:28+09:00",
+    "last_seen": "2026-11-28",
+    "title": "【Amazon.co.jp限定】 ロジクール ワイヤレスキーボード 無線 MX KEYS mini KX700GRd 日本語配列 国内正規品 | テンキーレス、コンパクト、薄型、USB-C充電式、Bluetooth、Logi Bolt、イルミネイテッド、グラファイト色、ミニマリスト、KX700 、Unifying接続非対応、壁紙ダウンロード付き",
+    "percent_off": 21,
+    "brand": "Logicool(ロジクール)",
+    "genre": "キーボード・マウス",
+    "price": 12300
+  },
   "B0C3QXBTJP": {
     "first_seen": "2026-11-27",
     "first_seen_at": "2026-11-27T00:13:28+09:00",
@@ -2881,16 +2953,6 @@
     "brand": "Logicool(ロジクール)",
     "genre": "キーボード・マウス",
     "price": 1980
-  },
-  "B0BWDSC5ZB": {
-    "first_seen": "2026-11-27",
-    "first_seen_at": "2026-11-27T00:13:28+09:00",
-    "last_seen": "2026-11-28",
-    "title": "【Amazon.co.jp限定】 ロジクール ワイヤレスキーボード 無線 MX KEYS mini KX700GRd 日本語配列 国内正規品 | テンキーレス、コンパクト、薄型、USB-C充電式、Bluetooth、Logi Bolt、イルミネイテッド、グラファイト色、ミニマリスト、KX700 、Unifying接続非対応、壁紙ダウンロード付き",
-    "percent_off": 21,
-    "brand": "Logicool(ロジクール)",
-    "genre": "キーボード・マウス",
-    "price": 12300
   },
   "B0G7RLC8BB": {
     "first_seen": "2026-11-27",
@@ -3295,16 +3357,6 @@
     "genre": "モバイルバッテリー",
     "price": 4490
   },
-  "B0CTJDLWV4": {
-    "first_seen": "2026-11-04",
-    "first_seen_at": "2026-11-04T22:14:46+09:00",
-    "last_seen": "2026-11-28",
-    "title": "エレコム 充電器 65W USB PD対応 小型 Type-C 1ポート PPS対応 GaN II採用 PSE認証 ブラック 【iPhone 16 15 iPad Macbook 等対応】 EC-AC8565BK",
-    "percent_off": 16,
-    "brand": "エレコム(ELECOM)",
-    "genre": "充電器",
-    "price": 2090
-  },
   "B0H8DXC8V1": {
     "first_seen": "2026-11-27",
     "first_seen_at": "2026-11-27T22:13:32+09:00",
@@ -3559,16 +3611,6 @@
     "brand": "Anker",
     "genre": "充電器",
     "price": 2790
-  },
-  "B0DW2SYD5H": {
-    "first_seen": "2026-08-15",
-    "first_seen_at": "2026-08-15T20:37:29+09:00",
-    "last_seen": "2026-11-28",
-    "title": "Anker Zolo Wireless Charger (Magnetic, Pad) ブラック | ブラック Qi2対応 マグネット式 ワイヤレス充電/ワイヤレス出力 iPhone MagSafe対応 iPhone 18 / 18 / 17 / 16 / 14 シリーズ対応 Pixel10非対応",
-    "percent_off": 23,
-    "brand": "Anker",
-    "genre": "充電器",
-    "price": 2290
   },
   "B0H25PNF9J": {
     "first_seen": "2026-11-27",
@@ -4446,27 +4488,6 @@
       }
     ]
   },
-  "B0BKP2XWY5": {
-    "first_seen": "2026-11-27",
-    "first_seen_at": "2026-11-27T11:13:37+09:00",
-    "last_seen": "2026-11-27",
-    "title": "【Amazon.co.jp限定】 ロジクールワイヤレスマウス 静音 無線 Signature M550MBKs レギュラー ブラック 国内正規品 | レギュラーサイズ、3ボタン、電池式（単3形乾電池x1）、Bluetooth、Logi Bolt、Windows10、Windows11、macOS、iPadOS、Android、ChromeOS、M550、M550M、壁紙ダウンロード付き",
-    "percent_off": 26,
-    "brand": "Logicool(ロジクール)",
-    "genre": "キーボード・マウス",
-    "price": 2950,
-    "past": [
-      {
-        "first_seen": "2026-11-03",
-        "last_seen": "2026-11-12",
-        "title": "【Amazon.co.jp限定】 ロジクールワイヤレスマウス 静音 無線 Signature M550MBKs レギュラー ブラック 国内正規品 | レギュラーサイズ、3ボタン、電池式（単3形乾電池x1）、Bluetooth、Logi Bolt、Windows10、Windows11、macOS、iPadOS、Android、ChromeOS、M550、M550M、壁紙ダウンロード付き",
-        "brand": null,
-        "genre": null,
-        "price": null,
-        "percent_off": 26
-      }
-    ]
-  },
   "B09MQ9KK6P": {
     "first_seen": "2026-11-27",
     "first_seen_at": "2026-11-27T21:13:23+09:00",
@@ -4507,27 +4528,6 @@
     "brand": "HUAWEI(ファーウェイ)",
     "genre": "スマートウォッチ",
     "price": 21470
-  },
-  "B0956X785M": {
-    "first_seen": "2026-11-27",
-    "first_seen_at": "2026-11-27T01:13:10+09:00",
-    "last_seen": "2026-11-27",
-    "title": "【Amazon.co.jp限定】 ロジクール ワイヤレスマウス 無線 マウス M185CG M185 グレー 国内正規品 | 小型、軽量、2.4GHzワイヤレス接続、電池式（単3形乾電池 x 1）、電池寿命最大12ケ月、windows10、11以降、macOS 10.5以降、ChromeOS、Linuxカーネル2.6+以降、Amazon.co.jp限定 壁紙ダウンロード付き",
-    "percent_off": 31,
-    "brand": "Logicool(ロジクール)",
-    "genre": "キーボード・マウス",
-    "price": 989,
-    "past": [
-      {
-        "first_seen": "2026-10-06",
-        "last_seen": "2026-11-12",
-        "title": "【Amazon.co.jp限定】 ロジクール ワイヤレスマウス 無線 マウス M185CG M185 グレー 国内正規品 | 小型、軽量、2.4GHzワイヤレス接続、電池式（単3形乾電池 x 1）、電池寿命最大12ケ月、windows10、11以降、macOS 10.5以降、ChromeOS、Linuxカーネル2.6+以降、Amazon.co.jp限定 壁紙ダウンロード付き",
-        "brand": null,
-        "genre": null,
-        "price": null,
-        "percent_off": 30
-      }
-    ]
   },
   "B0HJB11VYX": {
     "first_seen": "2026-11-21",
