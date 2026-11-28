@@ -249,16 +249,6 @@
     "genre": "Apple製品",
     "price": 61000
   },
-  "B0HJB3GN3F": {
-    "first_seen": "2026-11-20",
-    "first_seen_at": "2026-11-20T13:15:25+09:00",
-    "last_seen": "2026-11-29",
-    "title": "Apple Watch Series 12（GPSモデル） | 42mmライトゴールドアルミニウムケースとサンドスポーツバンド - S/M。健康 + フィットネス + 睡眠記録、心拍数、安全",
-    "percent_off": 15,
-    "brand": "Apple(アップル)",
-    "genre": "Apple製品",
-    "price": 61000
-  },
   "B0HJB812TG": {
     "first_seen": "2026-11-20",
     "first_seen_at": "2026-11-20T19:15:18+09:00",
@@ -1042,6 +1032,27 @@
     "genre": "Apple製品",
     "price": 89800
   },
+  "B0DZ7WF87P": {
+    "first_seen": "2026-11-22",
+    "first_seen_at": "2026-11-22T04:14:23+09:00",
+    "last_seen": "2026-11-29",
+    "title": "Apple 11 インチ iPad (A16): 11 インチモデル、Liquid Retina ディスプレイ、128GB、Wi-Fi 6、12MP フロント/12MP バックカメラ、Touch ID、一日中使えるバ ッテリー - シルバー",
+    "percent_off": 5,
+    "brand": "Apple(アップル)",
+    "genre": "Apple製品",
+    "price": 71082,
+    "past": [
+      {
+        "first_seen": "2026-10-30",
+        "last_seen": "2026-10-31",
+        "title": "Apple 11 インチ iPad (A16): 11 インチモデル、Liquid Retina ディスプレイ、128GB、Wi-Fi 6、12MP フロント/12MP バックカメラ、Touch ID、一日中使えるバ ッテリー - シルバー",
+        "brand": null,
+        "genre": null,
+        "price": null,
+        "percent_off": 5
+      }
+    ]
+  },
   "B0HJ9VNBZ8": {
     "first_seen": "2026-11-27",
     "first_seen_at": "2026-11-27T00:13:28+09:00",
@@ -1097,10 +1108,10 @@
     "first_seen_at": "2026-11-09T22:14:55+09:00",
     "last_seen": "2026-11-29",
     "title": "JBL LIVE BEAM 3 ワイヤレスイヤホン スマート充電ケース/LDAC対応ハイレゾ/マルチポイント/ハイブリッド ノイズキャンセリング/IP55防水/ワイヤレス充電対応/ブラック/JBLLIVEBEAM3BLK",
-    "percent_off": 64,
+    "percent_off": 54,
     "brand": "JBL",
     "genre": "ワイヤレスイヤホン",
-    "price": 9990
+    "price": 12780
   },
   "B0DPX7W84T": {
     "first_seen": "2026-10-20",
@@ -3689,26 +3700,15 @@
     "genre": "エアフライヤー",
     "price": 17270
   },
-  "B0DZ7WF87P": {
-    "first_seen": "2026-11-22",
-    "first_seen_at": "2026-11-22T04:14:23+09:00",
+  "B0HJB3GN3F": {
+    "first_seen": "2026-11-20",
+    "first_seen_at": "2026-11-20T13:15:25+09:00",
     "last_seen": "2026-11-29",
-    "title": "Apple 11 インチ iPad (A16): 11 インチモデル、Liquid Retina ディスプレイ、128GB、Wi-Fi 6、12MP フロント/12MP バックカメラ、Touch ID、一日中使えるバ ッテリー - シルバー",
-    "percent_off": 5,
+    "title": "Apple Watch Series 12（GPSモデル） | 42mmライトゴールドアルミニウムケースとサンドスポーツバンド - S/M。健康 + フィットネス + 睡眠記録、心拍数、安全",
+    "percent_off": 15,
     "brand": "Apple(アップル)",
     "genre": "Apple製品",
-    "price": 71082,
-    "past": [
-      {
-        "first_seen": "2026-10-30",
-        "last_seen": "2026-10-31",
-        "title": "Apple 11 インチ iPad (A16): 11 インチモデル、Liquid Retina ディスプレイ、128GB、Wi-Fi 6、12MP フロント/12MP バックカメラ、Touch ID、一日中使えるバ ッテリー - シルバー",
-        "brand": null,
-        "genre": null,
-        "price": null,
-        "percent_off": 5
-      }
-    ]
+    "price": 61000
   },
   "B0F4VL7XFR": {
     "first_seen": "2026-11-28",
