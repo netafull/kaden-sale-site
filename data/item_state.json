@@ -1158,10 +1158,10 @@
     "first_seen_at": "2026-11-01T02:15:45+09:00",
     "last_seen": "2026-11-28",
     "title": "ソニー(SONY) WF-C710N ブラック ワイヤレスイヤホン 高性能ノイズキャンセリング Bluetoothロングバッテリー 外音取り込み IPX4防滴性能 軽量 コンパクト マルチポイント接続",
-    "percent_off": 30,
+    "percent_off": 27,
     "brand": "Sony",
     "genre": "ワイヤレスイヤホン",
-    "price": 12300
+    "price": 12800
   },
   "B0FNRS5WB2": {
     "first_seen": "2026-11-04",
@@ -1222,16 +1222,6 @@
     "brand": "Sony",
     "genre": "ワイヤレスイヤホン",
     "price": 22000
-  },
-  "B0F4VK1ZJN": {
-    "first_seen": "2026-11-27",
-    "first_seen_at": "2026-11-27T01:13:10+09:00",
-    "last_seen": "2026-11-28",
-    "title": "【Amazon.co.jp限定】 Belkin モバイルバッテリー(20000mAh, 30W, USB-Cケーブル内蔵) 最大30W PD高速充電対応 PPS対応 iPhone 17,16～12対応&Androidスマホ対応 2台同時充電 PSE認証 軽量&コンパクト 機内持込可能 メーカー保証2年 ブルー BPB024fqBL-A ※Amazon.co.jp限定 壁紙ダウンロード付き",
-    "percent_off": 69,
-    "brand": "Belkin",
-    "genre": "モバイルバッテリー",
-    "price": 1612
   },
   "B0FLQ2HL2S": {
     "first_seen": "2026-11-27",
@@ -1313,16 +1303,6 @@
     "brand": "Anker",
     "genre": "モバイルバッテリー",
     "price": 5990
-  },
-  "B0BVKR5J8F": {
-    "first_seen": "2026-11-23",
-    "first_seen_at": "2026-11-23T14:13:26+09:00",
-    "last_seen": "2026-11-28",
-    "title": "Anker Nano Power Bank (12W, Built-In Lightning Connector) グリーン | モバイルバッテリー 5K 5000mAh 小型 軽量 コンパクト lightning【MFi認証済/PowerIQ搭載/ライトニング端子一体型】 iPhone 14 シリーズ",
-    "percent_off": null,
-    "brand": "Anker",
-    "genre": "モバイルバッテリー",
-    "price": 4490
   },
   "B0F6LBT3ZX": {
     "first_seen": "2026-11-27",
@@ -1977,16 +1957,6 @@
     "genre": "充電器",
     "price": 723
   },
-  "B0CTJDLWV4": {
-    "first_seen": "2026-11-04",
-    "first_seen_at": "2026-11-04T22:14:46+09:00",
-    "last_seen": "2026-11-28",
-    "title": "エレコム 充電器 65W USB PD対応 小型 Type-C 1ポート PPS対応 GaN II採用 PSE認証 ブラック 【iPhone 16 15 iPad Macbook 等対応】 EC-AC8565BK",
-    "percent_off": 16,
-    "brand": "エレコム(ELECOM)",
-    "genre": "充電器",
-    "price": 2090
-  },
   "B0FB2F95HY": {
     "first_seen": "2026-11-27",
     "first_seen_at": "2026-11-27T00:13:28+09:00",
@@ -2017,27 +1987,6 @@
     "genre": "充電器",
     "price": 1850
   },
-  "B0H8DXC8V1": {
-    "first_seen": "2026-11-27",
-    "first_seen_at": "2026-11-27T22:13:32+09:00",
-    "last_seen": "2026-11-28",
-    "title": "KIOXIA(キオクシア) 旧東芝メモリ microSD 64GB UHS-I Class10 (最大読出速度100MB/s) Nintendo Switch動作確認済 国内サポート正規品 メーカー保証5年 KLMEA064G (× 5)",
-    "percent_off": 36,
-    "brand": "KIOXIA",
-    "genre": "SSD・メモリーカード",
-    "price": 7670,
-    "past": [
-      {
-        "first_seen": "2026-11-12",
-        "last_seen": "2026-11-12",
-        "title": "KIOXIA(キオクシア) 旧東芝メモリ microSD 64GB UHS-I Class10 (最大読出速度100MB/s) Nintendo Switch動作確認済 国内サポート正規品 メーカー保証5年 KLMEA064G (× 5)",
-        "brand": null,
-        "genre": null,
-        "price": null,
-        "percent_off": 35
-      }
-    ]
-  },
   "B08P45YTTL": {
     "first_seen": "2026-11-04",
     "first_seen_at": "2026-11-04T09:15:07+09:00",
@@ -2048,15 +1997,15 @@
     "genre": "SSD・メモリーカード",
     "price": 50280
   },
-  "B0H8DRW1T7": {
-    "first_seen": "2026-11-28",
-    "first_seen_at": "2026-11-28T01:13:45+09:00",
+  "B08PTPTMH5": {
+    "first_seen": "2026-10-13",
+    "first_seen_at": "2026-10-13T09:15:04+09:00",
     "last_seen": "2026-11-28",
-    "title": "【 サンディスク 正規品 】 SanDisk microSD カード 64GB UHS-I U1 Class10 Nintendo Switch メーカー動作確認済 Ultra SDSQUAB-064G-GH3MA 簡易デザインパッケージ 10年間限定保証 (× 5)",
-    "percent_off": 20,
-    "brand": "SANDISK",
+    "title": "KIOXIA(キオクシア) 旧東芝メモリ microSD 128GB UHS-I Class10 (最大読出速度100MB/s) Nintendo Switch動作確認済 国内サポート正規品 メーカー保証5年 KLMEA128G",
+    "percent_off": 28,
+    "brand": "KIOXIA",
     "genre": "SSD・メモリーカード",
-    "price": 14610
+    "price": 1933
   },
   "B09X7DZ9LG": {
     "first_seen": "2026-11-24",
@@ -2158,16 +2107,6 @@
     "genre": "スマートホーム",
     "price": 13860
   },
-  "B0CXDDGSD7": {
-    "first_seen": "2026-11-27",
-    "first_seen_at": "2026-11-27T23:14:25+09:00",
-    "last_seen": "2026-11-28",
-    "title": "SwitchBot 加湿器 気化式 温湿度計プラス 省エネ - スイッチボット アレクサ パワフル加湿 除菌 冬乾燥対策 給水かんたん スマートホーム Google Home IFTTT Siri SmartThingsに対応（気化式加湿器＋温湿度計プラス）",
-    "percent_off": 27,
-    "brand": "スイッチボット(SwitchBot)",
-    "genre": "スマートホーム",
-    "price": 16390
-  },
   "B0FB3LPDBQ": {
     "first_seen": "2026-11-27",
     "first_seen_at": "2026-11-27T00:13:28+09:00",
@@ -2198,15 +2137,15 @@
     "genre": "スマートホーム",
     "price": 7980
   },
-  "B0GN13MT4S": {
-    "first_seen": "2026-11-28",
-    "first_seen_at": "2026-11-28T04:13:23+09:00",
+  "B09KCF5Z79": {
+    "first_seen": "2026-11-27",
+    "first_seen_at": "2026-11-27T13:13:36+09:00",
     "last_seen": "2026-11-28",
-    "title": "【ゲーミングルームアップデートセット】SwitchBot LED電球 スマートライト 1600万色(2個パック) + Logicool G ゲーミングヘッドセット G321-BKd",
-    "percent_off": 21,
+    "title": "SwitchBot LED電球 スマートライト Alexa スマートホーム - スマート電球 E26 スイッチボット 調光調色 広配光 800lm 60W形相当 電球色・昼白色対応 RGBCWマルチカラー 1600万色 間接照明 Google Home IFTTT イフト Siri SmartThings に対応(2個パック)",
+    "percent_off": 20,
     "brand": "スイッチボット(SwitchBot)",
     "genre": "スマートホーム",
-    "price": 9934
+    "price": 3024
   },
   "B0GQRLL8Q4": {
     "first_seen": "2026-11-27",
@@ -2278,16 +2217,6 @@
     "genre": "スマートウォッチ",
     "price": 33120
   },
-  "B0CJB9C81Z": {
-    "first_seen": "2026-11-27",
-    "first_seen_at": "2026-11-27T04:13:46+09:00",
-    "last_seen": "2026-11-28",
-    "title": "【Suica対応】Fitbit Charge 6 トラッカー ポーセレン／シルバー スマートウォッチ/防水/iPhone対応/アンドロイド対応/最大7日間のバッテリー/GPS搭載/心拍計/睡眠スコア [日本正規品]",
-    "percent_off": 29,
-    "brand": "Fitbit",
-    "genre": "スマートウォッチ",
-    "price": 16800
-  },
   "B0HF4K8JBT": {
     "first_seen": "2026-11-27",
     "first_seen_at": "2026-11-27T01:13:10+09:00",
@@ -2348,6 +2277,16 @@
     "genre": "スマートウォッチ",
     "price": 49800
   },
+  "B0GX8DRYCX": {
+    "first_seen": "2026-09-03",
+    "first_seen_at": "2026-09-03T12:14:47+09:00",
+    "last_seen": "2026-11-28",
+    "title": "HUAWEI WATCH FIT 5 スマートウォッチ 薄型軽量 大画面 GPS内蔵 10日間ロングバッテリー 通知 健康管理 心拍数 睡眠 ブラック | iPhone対応 android対応 1.82インチ画面 2500nits高輝度 ワークアウト 転倒検知 情緒測定 生理周期管理 64GBストレージ 録音機能 ランニング 防水",
+    "percent_off": 21,
+    "brand": "HUAWEI(ファーウェイ)",
+    "genre": "スマートウォッチ",
+    "price": 21470
+  },
   "B0H5KDLK7M": {
     "first_seen": "2026-11-27",
     "first_seen_at": "2026-11-27T00:13:28+09:00",
@@ -2357,27 +2296,6 @@
     "brand": "Xiaomi",
     "genre": "スマートウォッチ",
     "price": 6480
-  },
-  "B0H24M3VXL": {
-    "first_seen": "2026-11-27",
-    "first_seen_at": "2026-11-27T22:13:32+09:00",
-    "last_seen": "2026-11-28",
-    "title": "【体組成計セット】HUAWEI WATCH FIT 5 スマートウォッチ 薄型軽量 大画面 GPS内蔵 10日間ロングバッテリー 心拍数 ブラック",
-    "percent_off": 20,
-    "brand": "HUAWEI(ファーウェイ)",
-    "genre": "スマートウォッチ",
-    "price": 25110,
-    "past": [
-      {
-        "first_seen": "2026-11-04",
-        "last_seen": "2026-11-10",
-        "title": "【体組成計セット】HUAWEI WATCH FIT 5 スマートウォッチ 薄型軽量 1.82インチ大画面 2500nits高輝度 10日間ロングバッテリー ワークアウト GPS内蔵 転倒検知 健康管理 心拍数 睡眠 情緒測定 iOS/アンドロイド対応 ブラック",
-        "brand": null,
-        "genre": null,
-        "price": null,
-        "percent_off": 21
-      }
-    ]
   },
   "B0DDCR5WYQ": {
     "first_seen": "2026-11-03",
@@ -2994,6 +2912,27 @@
     "genre": "キーボード・マウス",
     "price": 28160
   },
+  "B08LMK3L5C": {
+    "first_seen": "2026-11-27",
+    "first_seen_at": "2026-11-27T01:13:10+09:00",
+    "last_seen": "2026-11-28",
+    "title": "エレコム ワイヤレスマウス Bluetooth Slint 薄型 静音 4ボタン プレゼンモード機能付 Windows Mac Android iOS iPadOS FireOS対応 ブラック M-TM10BBBK/EC",
+    "percent_off": 20,
+    "brand": "エレコム(ELECOM)",
+    "genre": "キーボード・マウス",
+    "price": 1277,
+    "past": [
+      {
+        "first_seen": "2026-10-06",
+        "last_seen": "2026-11-02",
+        "title": "エレコム ワイヤレスマウス Bluetooth Slint 薄型 静音 4ボタン プレゼンモード機能付 Windows Mac Android iOS iPadOS FireOS対応 ブラック M-TM10BBBK/EC",
+        "brand": null,
+        "genre": null,
+        "price": null,
+        "percent_off": null
+      }
+    ]
+  },
   "B0DCJZH3QH": {
     "first_seen": "2026-11-27",
     "first_seen_at": "2026-11-27T04:13:46+09:00",
@@ -3024,16 +2963,6 @@
     "brand": "エレコム(ELECOM)",
     "genre": "キーボード・マウス",
     "price": 1600
-  },
-  "B0H8DWJ44X": {
-    "first_seen": "2026-11-28",
-    "first_seen_at": "2026-11-28T01:13:45+09:00",
-    "last_seen": "2026-11-28",
-    "title": "エレコム ワイヤレスマウス Bluetooth Slint 薄型 静音 4ボタン プレゼンモード機能付 Windows Mac Android iOS iPadOS FireOS対応 ブラック M-TM10BBBK/EC (× 3)",
-    "percent_off": 20,
-    "brand": "エレコム(ELECOM)",
-    "genre": "キーボード・マウス",
-    "price": 3831
   },
   "B0DPF33WVV": {
     "first_seen": "2026-09-17",
@@ -3345,6 +3274,128 @@
     "brand": "Cosori",
     "genre": "エアフライヤー",
     "price": 17270
+  },
+  "B0F4VK1ZJN": {
+    "first_seen": "2026-11-27",
+    "first_seen_at": "2026-11-27T01:13:10+09:00",
+    "last_seen": "2026-11-28",
+    "title": "【Amazon.co.jp限定】 Belkin モバイルバッテリー(20000mAh, 30W, USB-Cケーブル内蔵) 最大30W PD高速充電対応 PPS対応 iPhone 17,16～12対応&Androidスマホ対応 2台同時充電 PSE認証 軽量&コンパクト 機内持込可能 メーカー保証2年 ブルー BPB024fqBL-A ※Amazon.co.jp限定 壁紙ダウンロード付き",
+    "percent_off": 69,
+    "brand": "Belkin",
+    "genre": "モバイルバッテリー",
+    "price": 1612
+  },
+  "B0BVKR5J8F": {
+    "first_seen": "2026-11-23",
+    "first_seen_at": "2026-11-23T14:13:26+09:00",
+    "last_seen": "2026-11-28",
+    "title": "Anker Nano Power Bank (12W, Built-In Lightning Connector) グリーン | モバイルバッテリー 5K 5000mAh 小型 軽量 コンパクト lightning【MFi認証済/PowerIQ搭載/ライトニング端子一体型】 iPhone 14 シリーズ",
+    "percent_off": null,
+    "brand": "Anker",
+    "genre": "モバイルバッテリー",
+    "price": 4490
+  },
+  "B0CTJDLWV4": {
+    "first_seen": "2026-11-04",
+    "first_seen_at": "2026-11-04T22:14:46+09:00",
+    "last_seen": "2026-11-28",
+    "title": "エレコム 充電器 65W USB PD対応 小型 Type-C 1ポート PPS対応 GaN II採用 PSE認証 ブラック 【iPhone 16 15 iPad Macbook 等対応】 EC-AC8565BK",
+    "percent_off": 16,
+    "brand": "エレコム(ELECOM)",
+    "genre": "充電器",
+    "price": 2090
+  },
+  "B0H8DXC8V1": {
+    "first_seen": "2026-11-27",
+    "first_seen_at": "2026-11-27T22:13:32+09:00",
+    "last_seen": "2026-11-28",
+    "title": "KIOXIA(キオクシア) 旧東芝メモリ microSD 64GB UHS-I Class10 (最大読出速度100MB/s) Nintendo Switch動作確認済 国内サポート正規品 メーカー保証5年 KLMEA064G (× 5)",
+    "percent_off": 36,
+    "brand": "KIOXIA",
+    "genre": "SSD・メモリーカード",
+    "price": 7670,
+    "past": [
+      {
+        "first_seen": "2026-11-12",
+        "last_seen": "2026-11-12",
+        "title": "KIOXIA(キオクシア) 旧東芝メモリ microSD 64GB UHS-I Class10 (最大読出速度100MB/s) Nintendo Switch動作確認済 国内サポート正規品 メーカー保証5年 KLMEA064G (× 5)",
+        "brand": null,
+        "genre": null,
+        "price": null,
+        "percent_off": 35
+      }
+    ]
+  },
+  "B0H8DRW1T7": {
+    "first_seen": "2026-11-28",
+    "first_seen_at": "2026-11-28T01:13:45+09:00",
+    "last_seen": "2026-11-28",
+    "title": "【 サンディスク 正規品 】 SanDisk microSD カード 64GB UHS-I U1 Class10 Nintendo Switch メーカー動作確認済 Ultra SDSQUAB-064G-GH3MA 簡易デザインパッケージ 10年間限定保証 (× 5)",
+    "percent_off": 20,
+    "brand": "SANDISK",
+    "genre": "SSD・メモリーカード",
+    "price": 14610
+  },
+  "B0CXDDGSD7": {
+    "first_seen": "2026-11-27",
+    "first_seen_at": "2026-11-27T23:14:25+09:00",
+    "last_seen": "2026-11-28",
+    "title": "SwitchBot 加湿器 気化式 温湿度計プラス 省エネ - スイッチボット アレクサ パワフル加湿 除菌 冬乾燥対策 給水かんたん スマートホーム Google Home IFTTT Siri SmartThingsに対応（気化式加湿器＋温湿度計プラス）",
+    "percent_off": 27,
+    "brand": "スイッチボット(SwitchBot)",
+    "genre": "スマートホーム",
+    "price": 16390
+  },
+  "B0GN13MT4S": {
+    "first_seen": "2026-11-28",
+    "first_seen_at": "2026-11-28T04:13:23+09:00",
+    "last_seen": "2026-11-28",
+    "title": "【ゲーミングルームアップデートセット】SwitchBot LED電球 スマートライト 1600万色(2個パック) + Logicool G ゲーミングヘッドセット G321-BKd",
+    "percent_off": 21,
+    "brand": "スイッチボット(SwitchBot)",
+    "genre": "スマートホーム",
+    "price": 9934
+  },
+  "B0CJB9C81Z": {
+    "first_seen": "2026-11-27",
+    "first_seen_at": "2026-11-27T04:13:46+09:00",
+    "last_seen": "2026-11-28",
+    "title": "【Suica対応】Fitbit Charge 6 トラッカー ポーセレン／シルバー スマートウォッチ/防水/iPhone対応/アンドロイド対応/最大7日間のバッテリー/GPS搭載/心拍計/睡眠スコア [日本正規品]",
+    "percent_off": 29,
+    "brand": "Fitbit",
+    "genre": "スマートウォッチ",
+    "price": 16800
+  },
+  "B0H24M3VXL": {
+    "first_seen": "2026-11-27",
+    "first_seen_at": "2026-11-27T22:13:32+09:00",
+    "last_seen": "2026-11-28",
+    "title": "【体組成計セット】HUAWEI WATCH FIT 5 スマートウォッチ 薄型軽量 大画面 GPS内蔵 10日間ロングバッテリー 心拍数 ブラック",
+    "percent_off": 20,
+    "brand": "HUAWEI(ファーウェイ)",
+    "genre": "スマートウォッチ",
+    "price": 25110,
+    "past": [
+      {
+        "first_seen": "2026-11-04",
+        "last_seen": "2026-11-10",
+        "title": "【体組成計セット】HUAWEI WATCH FIT 5 スマートウォッチ 薄型軽量 1.82インチ大画面 2500nits高輝度 10日間ロングバッテリー ワークアウト GPS内蔵 転倒検知 健康管理 心拍数 睡眠 情緒測定 iOS/アンドロイド対応 ブラック",
+        "brand": null,
+        "genre": null,
+        "price": null,
+        "percent_off": 21
+      }
+    ]
+  },
+  "B0H8DWJ44X": {
+    "first_seen": "2026-11-28",
+    "first_seen_at": "2026-11-28T01:13:45+09:00",
+    "last_seen": "2026-11-28",
+    "title": "エレコム ワイヤレスマウス Bluetooth Slint 薄型 静音 4ボタン プレゼンモード機能付 Windows Mac Android iOS iPadOS FireOS対応 ブラック M-TM10BBBK/EC (× 3)",
+    "percent_off": 20,
+    "brand": "エレコム(ELECOM)",
+    "genre": "キーボード・マウス",
+    "price": 3831
   },
   "B09CH44769": {
     "first_seen": "2026-11-04",
@@ -4364,16 +4415,6 @@
     "genre": "スマートウォッチ",
     "price": 10980
   },
-  "B0GX8DRYCX": {
-    "first_seen": "2026-09-03",
-    "first_seen_at": "2026-09-03T12:14:47+09:00",
-    "last_seen": "2026-11-27",
-    "title": "HUAWEI WATCH FIT 5 スマートウォッチ 薄型軽量 大画面 GPS内蔵 10日間ロングバッテリー 通知 健康管理 心拍数 睡眠 ブラック | iPhone対応 android対応 1.82インチ画面 2500nits高輝度 ワークアウト 転倒検知 情緒測定 生理周期管理 64GBストレージ 録音機能 ランニング 防水",
-    "percent_off": 21,
-    "brand": "HUAWEI(ファーウェイ)",
-    "genre": "スマートウォッチ",
-    "price": 21470
-  },
   "B09B2T3QBN": {
     "first_seen": "2026-11-27",
     "first_seen_at": "2026-11-27T00:13:28+09:00",
@@ -4426,27 +4467,6 @@
       }
     ]
   },
-  "B08LMK3L5C": {
-    "first_seen": "2026-11-27",
-    "first_seen_at": "2026-11-27T01:13:10+09:00",
-    "last_seen": "2026-11-27",
-    "title": "エレコム ワイヤレスマウス Bluetooth Slint 薄型 静音 4ボタン プレゼンモード機能付 Windows Mac Android iOS iPadOS FireOS対応 ブラック M-TM10BBBK/EC",
-    "percent_off": 20,
-    "brand": "エレコム(ELECOM)",
-    "genre": "キーボード・マウス",
-    "price": 1277,
-    "past": [
-      {
-        "first_seen": "2026-10-06",
-        "last_seen": "2026-11-02",
-        "title": "エレコム ワイヤレスマウス Bluetooth Slint 薄型 静音 4ボタン プレゼンモード機能付 Windows Mac Android iOS iPadOS FireOS対応 ブラック M-TM10BBBK/EC",
-        "brand": null,
-        "genre": null,
-        "price": null,
-        "percent_off": null
-      }
-    ]
-  },
   "B09MQ9KK6P": {
     "first_seen": "2026-11-27",
     "first_seen_at": "2026-11-27T21:13:23+09:00",
@@ -4477,26 +4497,6 @@
     "brand": "REALFORCE",
     "genre": "キーボード・マウス",
     "price": 21879
-  },
-  "B08PTPTMH5": {
-    "first_seen": "2026-10-13",
-    "first_seen_at": "2026-10-13T09:15:04+09:00",
-    "last_seen": "2026-11-27",
-    "title": "KIOXIA(キオクシア) 旧東芝メモリ microSD 128GB UHS-I Class10 (最大読出速度100MB/s) Nintendo Switch動作確認済 国内サポート正規品 メーカー保証5年 KLMEA128G",
-    "percent_off": 27,
-    "brand": "KIOXIA",
-    "genre": "SSD・メモリーカード",
-    "price": 1945
-  },
-  "B09KCF5Z79": {
-    "first_seen": "2026-11-27",
-    "first_seen_at": "2026-11-27T13:13:36+09:00",
-    "last_seen": "2026-11-27",
-    "title": "SwitchBot LED電球 スマートライト Alexa スマートホーム - スマート電球 E26 スイッチボット 調光調色 広配光 800lm 60W形相当 電球色・昼白色対応 RGBCWマルチカラー 1600万色 間接照明 Google Home IFTTT イフト Siri SmartThings に対応(2個パック)",
-    "percent_off": 20,
-    "brand": "スイッチボット(SwitchBot)",
-    "genre": "スマートホーム",
-    "price": 3024
   },
   "B0GX8BVR4L": {
     "first_seen": "2026-11-01",
