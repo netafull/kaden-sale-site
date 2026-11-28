@@ -219,16 +219,6 @@
     "genre": "Apple製品",
     "price": 61000
   },
-  "B0HJB28XVR": {
-    "first_seen": "2026-11-27",
-    "first_seen_at": "2026-11-27T04:13:46+09:00",
-    "last_seen": "2026-11-28",
-    "title": "Apple Watch Series 12（GPSモデル） | 42mmライトゴールドアルミニウムケースとサンドスポーツバンド - M/L。健康 + フィットネス + 睡眠記録、心拍数、安全",
-    "percent_off": 15,
-    "brand": "Apple(アップル)",
-    "genre": "Apple製品",
-    "price": 61000
-  },
   "B0HJB2C5KR": {
     "first_seen": "2026-11-21",
     "first_seen_at": "2026-11-21T05:13:10+09:00",
@@ -2376,16 +2366,6 @@
     "genre": "XR・ARグラス",
     "price": 37380
   },
-  "B0HKS1C2MZ": {
-    "first_seen": "2026-11-27",
-    "first_seen_at": "2026-11-27T00:13:28+09:00",
-    "last_seen": "2026-11-28",
-    "title": "RayNeo GT MAX ARグラス 267インチ大画面・59°広視野角・ネイティブ3DoF対応(IPD 64-67mm) | Dolby Vision対応・B&Oサウンド搭載。3D映像、Vision 4000＋Zone 360に対応。iPhone、Android、iPad、Mac/PC、Nintendo Switch、PS5で楽しめる。",
-    "percent_off": 15,
-    "brand": "RayNeo",
-    "genre": "XR・ARグラス",
-    "price": 57783
-  },
   "B0GLYFHF71": {
     "first_seen": "2026-11-27",
     "first_seen_at": "2026-11-27T01:13:10+09:00",
@@ -2395,6 +2375,16 @@
     "brand": "XREAL",
     "genre": "XR・ARグラス",
     "price": 57780
+  },
+  "B0HKS1C2MZ": {
+    "first_seen": "2026-11-27",
+    "first_seen_at": "2026-11-27T00:13:28+09:00",
+    "last_seen": "2026-11-28",
+    "title": "RayNeo GT MAX ARグラス 267インチ大画面・59°広視野角・ネイティブ3DoF対応(IPD 64-67mm) | Dolby Vision対応・B&Oサウンド搭載。3D映像、Vision 4000＋Zone 360に対応。iPhone、Android、iPad、Mac/PC、Nintendo Switch、PS5で楽しめる。",
+    "percent_off": 15,
+    "brand": "RayNeo",
+    "genre": "XR・ARグラス",
+    "price": 57783
   },
   "B0G3YCRJKX": {
     "first_seen": "2026-11-27",
@@ -3266,6 +3256,16 @@
     "brand": "Cosori",
     "genre": "エアフライヤー",
     "price": 17270
+  },
+  "B0HJB28XVR": {
+    "first_seen": "2026-11-27",
+    "first_seen_at": "2026-11-27T04:13:46+09:00",
+    "last_seen": "2026-11-28",
+    "title": "Apple Watch Series 12（GPSモデル） | 42mmライトゴールドアルミニウムケースとサンドスポーツバンド - M/L。健康 + フィットネス + 睡眠記録、心拍数、安全",
+    "percent_off": 15,
+    "brand": "Apple(アップル)",
+    "genre": "Apple製品",
+    "price": 61000
   },
   "B0FQG9KV7F": {
     "first_seen": "2026-10-01",
