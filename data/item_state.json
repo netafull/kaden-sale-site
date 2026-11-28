@@ -1032,6 +1032,27 @@
     "genre": "Apple製品",
     "price": 89800
   },
+  "B0DZ7WF87P": {
+    "first_seen": "2026-11-22",
+    "first_seen_at": "2026-11-22T04:14:23+09:00",
+    "last_seen": "2026-11-29",
+    "title": "Apple 11 インチ iPad (A16): 11 インチモデル、Liquid Retina ディスプレイ、128GB、Wi-Fi 6、12MP フロント/12MP バックカメラ、Touch ID、一日中使えるバ ッテリー - シルバー",
+    "percent_off": 5,
+    "brand": "Apple(アップル)",
+    "genre": "Apple製品",
+    "price": 71082,
+    "past": [
+      {
+        "first_seen": "2026-10-30",
+        "last_seen": "2026-10-31",
+        "title": "Apple 11 インチ iPad (A16): 11 インチモデル、Liquid Retina ディスプレイ、128GB、Wi-Fi 6、12MP フロント/12MP バックカメラ、Touch ID、一日中使えるバ ッテリー - シルバー",
+        "brand": null,
+        "genre": null,
+        "price": null,
+        "percent_off": 5
+      }
+    ]
+  },
   "B0HJ9VNBZ8": {
     "first_seen": "2026-11-27",
     "first_seen_at": "2026-11-27T00:13:28+09:00",
@@ -1087,10 +1108,10 @@
     "first_seen_at": "2026-11-09T22:14:55+09:00",
     "last_seen": "2026-11-29",
     "title": "JBL LIVE BEAM 3 ワイヤレスイヤホン スマート充電ケース/LDAC対応ハイレゾ/マルチポイント/ハイブリッド ノイズキャンセリング/IP55防水/ワイヤレス充電対応/ブラック/JBLLIVEBEAM3BLK",
-    "percent_off": 64,
+    "percent_off": 54,
     "brand": "JBL",
     "genre": "ワイヤレスイヤホン",
-    "price": 9990
+    "price": 12780
   },
   "B0DPX7W84T": {
     "first_seen": "2026-10-20",
@@ -1554,16 +1575,6 @@
     "brand": "Belkin",
     "genre": "充電器",
     "price": 2182
-  },
-  "B0C3ZC4QWG": {
-    "first_seen": "2026-11-27",
-    "first_seen_at": "2026-11-27T01:13:10+09:00",
-    "last_seen": "2026-11-29",
-    "title": "Belkin USB充電器 (30W + 30W) 2ポート iPhone17,16～12 PD急速充電対応 WCB010dqWHJP",
-    "percent_off": 51,
-    "brand": "Belkin",
-    "genre": "充電器",
-    "price": 1692
   },
   "B09CH44769": {
     "first_seen": "2026-11-04",
@@ -2120,6 +2131,16 @@
     "genre": "充電器",
     "price": 1850
   },
+  "B0B1KKRLTG": {
+    "first_seen": "2026-11-27",
+    "first_seen_at": "2026-11-27T06:13:27+09:00",
+    "last_seen": "2026-11-29",
+    "title": "Belkin 充電器 USB-C 30W PD3.0急速充電 PPS対応 折りたたみ式プラグ iPhone15 / MacBook Air/iPad/iPhone17,16～12/Galaxy Note/Galaxy/Google Pixel対応 BOOST↑CHARGE WCA005dqWH",
+    "percent_off": 15,
+    "brand": "Belkin",
+    "genre": "充電器",
+    "price": 2020
+  },
   "B08P45YTTL": {
     "first_seen": "2026-11-04",
     "first_seen_at": "2026-11-04T09:15:07+09:00",
@@ -2302,16 +2323,6 @@
       }
     ]
   },
-  "B0CL4R54X4": {
-    "first_seen": "2026-11-04",
-    "first_seen_at": "2026-11-04T00:15:51+09:00",
-    "last_seen": "2026-11-29",
-    "title": "SwitchBot 気化式加湿器 Alexa 大容量 4.5L 21畳対応 省エネ 上から給水 18dB静音 抗菌 フィルター洗濯機可 スマートホーム | フィルター自動乾燥・加湿量750ml/h・最大22.5時間稼働・Google Home / Siri対応",
-    "percent_off": 30,
-    "brand": "スイッチボット(SwitchBot)",
-    "genre": "スマートホーム",
-    "price": 13860
-  },
   "B0FB3LPDBQ": {
     "first_seen": "2026-11-27",
     "first_seen_at": "2026-11-27T00:13:28+09:00",
@@ -2461,6 +2472,16 @@
     "brand": "ガーミン(GARMIN)",
     "genre": "スマートウォッチ",
     "price": 65000
+  },
+  "B0HPSZYZ46": {
+    "first_seen": "2026-11-28",
+    "first_seen_at": "2026-11-28T21:13:19+09:00",
+    "last_seen": "2026-11-29",
+    "title": "HUAWEI WATCH FIT 5 Pro NEW スマートウォッチ 薄型軽量 大画面 GPS内蔵 10日間ロングバッテリー ゴルフ 心電図 睡眠 ブラック",
+    "percent_off": 22,
+    "brand": "HUAWEI(ファーウェイ)",
+    "genre": "スマートウォッチ",
+    "price": 30430
   },
   "B0BWF35J1G": {
     "first_seen": "2026-10-15",
@@ -2662,16 +2683,6 @@
     "brand": "XREAL",
     "genre": "XR・ARグラス",
     "price": 57780
-  },
-  "B0H4KF6WPW": {
-    "first_seen": "2026-11-27",
-    "first_seen_at": "2026-11-27T01:13:10+09:00",
-    "last_seen": "2026-11-29",
-    "title": "INMO GO3 AIスマートグラス リアルタイム翻訳を眼前に表示 127言語対応 AIアシスタント カメラ搭載ARグラス 軽量設計 会議/スピーチ/海外旅行/ナビゲーション",
-    "percent_off": 16,
-    "brand": "inmo",
-    "genre": "XR・ARグラス",
-    "price": 83900
   },
   "B0HKS1C2MZ": {
     "first_seen": "2026-11-27",
@@ -3679,6 +3690,36 @@
     "genre": "エアフライヤー",
     "price": 17270
   },
+  "B0C3ZC4QWG": {
+    "first_seen": "2026-11-27",
+    "first_seen_at": "2026-11-27T01:13:10+09:00",
+    "last_seen": "2026-11-29",
+    "title": "Belkin USB充電器 (30W + 30W) 2ポート iPhone17,16～12 PD急速充電対応 WCB010dqWHJP",
+    "percent_off": 51,
+    "brand": "Belkin",
+    "genre": "充電器",
+    "price": 1692
+  },
+  "B0CL4R54X4": {
+    "first_seen": "2026-11-04",
+    "first_seen_at": "2026-11-04T00:15:51+09:00",
+    "last_seen": "2026-11-29",
+    "title": "SwitchBot 気化式加湿器 Alexa 大容量 4.5L 21畳対応 省エネ 上から給水 18dB静音 抗菌 フィルター洗濯機可 スマートホーム | フィルター自動乾燥・加湿量750ml/h・最大22.5時間稼働・Google Home / Siri対応",
+    "percent_off": 30,
+    "brand": "スイッチボット(SwitchBot)",
+    "genre": "スマートホーム",
+    "price": 13860
+  },
+  "B0H4KF6WPW": {
+    "first_seen": "2026-11-27",
+    "first_seen_at": "2026-11-27T01:13:10+09:00",
+    "last_seen": "2026-11-29",
+    "title": "INMO GO3 AIスマートグラス リアルタイム翻訳を眼前に表示 127言語対応 AIアシスタント カメラ搭載ARグラス 軽量設計 会議/スピーチ/海外旅行/ナビゲーション",
+    "percent_off": 16,
+    "brand": "inmo",
+    "genre": "XR・ARグラス",
+    "price": 83900
+  },
   "B0FQJ1LWCQ": {
     "first_seen": "2026-11-29",
     "first_seen_at": "2026-11-29T01:13:21+09:00",
@@ -3778,16 +3819,6 @@
     "brand": "CIO",
     "genre": "充電器",
     "price": 4980
-  },
-  "B0HPSZYZ46": {
-    "first_seen": "2026-11-28",
-    "first_seen_at": "2026-11-28T21:13:19+09:00",
-    "last_seen": "2026-11-29",
-    "title": "HUAWEI WATCH FIT 5 Pro NEW スマートウォッチ 薄型軽量 大画面 GPS内蔵 10日間ロングバッテリー ゴルフ 心電図 睡眠 ブラック",
-    "percent_off": 22,
-    "brand": "HUAWEI(ファーウェイ)",
-    "genre": "スマートウォッチ",
-    "price": 30430
   },
   "B0DYC5NRM7": {
     "first_seen": "2026-11-27",
@@ -4456,27 +4487,6 @@
     "brand": "Apple(アップル)",
     "genre": "Apple製品",
     "price": 138819
-  },
-  "B0DZ7WF87P": {
-    "first_seen": "2026-11-22",
-    "first_seen_at": "2026-11-22T04:14:23+09:00",
-    "last_seen": "2026-11-28",
-    "title": "Apple 11 インチ iPad (A16): 11 インチモデル、Liquid Retina ディスプレイ、128GB、Wi-Fi 6、12MP フロント/12MP バックカメラ、Touch ID、一日中使えるバ ッテリー - シルバー",
-    "percent_off": 5,
-    "brand": "Apple(アップル)",
-    "genre": "Apple製品",
-    "price": 71082,
-    "past": [
-      {
-        "first_seen": "2026-10-30",
-        "last_seen": "2026-10-31",
-        "title": "Apple 11 インチ iPad (A16): 11 インチモデル、Liquid Retina ディスプレイ、128GB、Wi-Fi 6、12MP フロント/12MP バックカメラ、Touch ID、一日中使えるバ ッテリー - シルバー",
-        "brand": null,
-        "genre": null,
-        "price": null,
-        "percent_off": 5
-      }
-    ]
   },
   "B0DRVDC63C": {
     "first_seen": "2026-11-28",
@@ -5850,16 +5860,6 @@
     "brand": "Apple(アップル)",
     "genre": "Apple製品",
     "price": 429415
-  },
-  "B0B1KKRLTG": {
-    "first_seen": "2026-11-27",
-    "first_seen_at": "2026-11-27T06:13:27+09:00",
-    "last_seen": "2026-11-27",
-    "title": "Belkin 充電器 USB-C 30W PD3.0急速充電 PPS対応 折りたたみ式プラグ iPhone15 / MacBook Air/iPad/iPhone17,16～12/Galaxy Note/Galaxy/Google Pixel対応 BOOST↑CHARGE WCA005dqWH",
-    "percent_off": 15,
-    "brand": "Belkin",
-    "genre": "充電器",
-    "price": 2020
   },
   "B0FMDBYSQ9": {
     "first_seen": "2026-10-17",
