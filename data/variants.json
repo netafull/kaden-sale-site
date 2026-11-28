@@ -692,7 +692,7 @@
    },
    "genre": "Apple製品",
    "label": "Apple 2024 iMac 8 コア CPU、8 コア GPU の M4 チ",
-   "last_sweep_at": "2026-11-28T02:07:21+09:00",
+   "last_sweep_at": "2026-11-28T09:07:20+09:00",
    "members": {
     "B0DL6MTB5K": {
      "last_seen": "2026-11-28",
@@ -990,7 +990,7 @@
    "aliases": {},
    "genre": "Apple製品",
    "label": "Apple 13インチiPad Air (M4) 用Magic Keyboard",
-   "last_sweep_at": "2026-11-28T02:07:21+09:00",
+   "last_sweep_at": "2026-11-28T09:07:20+09:00",
    "members": {
     "B0DZ7YJC17": {
      "last_seen": "2026-11-28",
@@ -1503,7 +1503,7 @@
    },
    "genre": "Apple製品",
    "label": "Apple iPhone 17 Pro Max 512GB (SIMフリー)：P",
-   "last_sweep_at": "2026-11-28T02:07:21+09:00",
+   "last_sweep_at": "2026-11-28T09:07:20+09:00",
    "members": {
     "B0FQFJN864": {
      "last_seen": "2026-11-28",
@@ -2541,7 +2541,7 @@
     },
     "B0FQG9KV7F": {
      "last_seen": "2026-11-28",
-     "pct": 16,
+     "pct": 24,
      "points_pct": 1
     },
     "B0FQGHYWRH": {
@@ -2571,7 +2571,7 @@
     },
     "B0FRZ34RQL": {
      "last_seen": "2026-11-28",
-     "pct": 14,
+     "pct": 22,
      "points_pct": 0
     },
     "B0FRZ35PL3": {

@@ -19,6 +19,16 @@
     "genre": "Apple製品",
     "price": 107879
   },
+  "B0FQG9KV7F": {
+    "first_seen": "2026-10-01",
+    "first_seen_at": "2026-10-01T23:14:55+09:00",
+    "last_seen": "2026-11-28",
+    "title": "Apple Watch Ultra 3(GPS + Cellularモデル)- 49mmブラックチタニウムケースとブラックチタニウムミラネーゼループ - S",
+    "percent_off": 24,
+    "brand": "Apple(アップル)",
+    "genre": "Apple製品",
+    "price": 122020
+  },
   "B0FQFLWSWZ": {
     "first_seen": "2026-11-27",
     "first_seen_at": "2026-11-27T04:13:46+09:00",
@@ -99,6 +109,16 @@
     "genre": "Apple製品",
     "price": 124678
   },
+  "B0FRZ34RQL": {
+    "first_seen": "2026-10-01",
+    "first_seen_at": "2026-10-01T23:14:55+09:00",
+    "last_seen": "2026-11-28",
+    "title": "[アップル] Watch Ultra 3(GPS + Cellularモデル)- 49mmブラックチタニウムケースとブラックチタニウムミラネーゼループ - S + 2年延長 AppleCare+ for Apple Watch Ultra 3",
+    "percent_off": 22,
+    "brand": "Apple(アップル)",
+    "genre": "Apple製品",
+    "price": 138819
+  },
   "B0CL7Z6M4J": {
     "first_seen": "2026-11-27",
     "first_seen_at": "2026-11-27T02:14:47+09:00",
@@ -148,16 +168,6 @@
     "brand": "Apple(アップル)",
     "genre": "Apple製品",
     "price": 119800
-  },
-  "B0FQG9KV7F": {
-    "first_seen": "2026-10-01",
-    "first_seen_at": "2026-10-01T23:14:55+09:00",
-    "last_seen": "2026-11-28",
-    "title": "Apple Watch Ultra 3(GPS + Cellularモデル)- 49mmブラックチタニウムケースとブラックチタニウムミラネーゼループ - S",
-    "percent_off": 16,
-    "brand": "Apple(アップル)",
-    "genre": "Apple製品",
-    "price": 134800
   },
   "B0FQGHYWRH": {
     "first_seen": "2026-10-01",
@@ -398,16 +408,6 @@
     "brand": "Apple(アップル)",
     "genre": "Apple製品",
     "price": 222680
-  },
-  "B0FRZ34RQL": {
-    "first_seen": "2026-10-01",
-    "first_seen_at": "2026-10-01T23:14:55+09:00",
-    "last_seen": "2026-11-28",
-    "title": "[アップル] Watch Ultra 3(GPS + Cellularモデル)- 49mmブラックチタニウムケースとブラックチタニウムミラネーゼループ - S + 2年延長 AppleCare+ for Apple Watch Ultra 3",
-    "percent_off": 14,
-    "brand": "Apple(アップル)",
-    "genre": "Apple製品",
-    "price": 151599
   },
   "B0GR1PZQ8G": {
     "first_seen": "2026-11-27",
@@ -1072,6 +1072,27 @@
     "genre": "Apple製品",
     "price": 231380
   },
+  "B0DZ7WF87P": {
+    "first_seen": "2026-11-22",
+    "first_seen_at": "2026-11-22T04:14:23+09:00",
+    "last_seen": "2026-11-28",
+    "title": "Apple 11 インチ iPad (A16): 11 インチモデル、Liquid Retina ディスプレイ、128GB、Wi-Fi 6、12MP フロント/12MP バックカメラ、Touch ID、一日中使えるバ ッテリー - シルバー",
+    "percent_off": 5,
+    "brand": "Apple(アップル)",
+    "genre": "Apple製品",
+    "price": 71082,
+    "past": [
+      {
+        "first_seen": "2026-10-30",
+        "last_seen": "2026-10-31",
+        "title": "Apple 11 インチ iPad (A16): 11 インチモデル、Liquid Retina ディスプレイ、128GB、Wi-Fi 6、12MP フロント/12MP バックカメラ、Touch ID、一日中使えるバ ッテリー - シルバー",
+        "brand": null,
+        "genre": null,
+        "price": null,
+        "percent_off": 5
+      }
+    ]
+  },
   "B0HJ9VNBZ8": {
     "first_seen": "2026-11-27",
     "first_seen_at": "2026-11-27T00:13:28+09:00",
@@ -1137,10 +1158,10 @@
     "first_seen_at": "2026-11-01T02:15:45+09:00",
     "last_seen": "2026-11-28",
     "title": "ソニー(SONY) WF-C710N ブラック ワイヤレスイヤホン 高性能ノイズキャンセリング Bluetoothロングバッテリー 外音取り込み IPX4防滴性能 軽量 コンパクト マルチポイント接続",
-    "percent_off": 27,
+    "percent_off": 30,
     "brand": "Sony",
     "genre": "ワイヤレスイヤホン",
-    "price": 12800
+    "price": 12300
   },
   "B0FNRS5WB2": {
     "first_seen": "2026-11-04",
@@ -1543,16 +1564,6 @@
     "genre": "充電器",
     "price": 2990
   },
-  "B09CH44769": {
-    "first_seen": "2026-11-04",
-    "first_seen_at": "2026-11-04T01:15:06+09:00",
-    "last_seen": "2026-11-28",
-    "title": "Anker PowerPort III 3-Port 65W Pod ブラック - 最大65W出力の充電器 / USB-C×2 USB-A×1 | 65W USB-C/Type-C 急速充電器 ノートPCとスマホを3台同時充電。USB-C/Type-C 2ポートとUSB-A1ポート搭載。Anker GaN II採用。MacBook Pro MacBook Air iPad iPhone対応",
-    "percent_off": 46,
-    "brand": "Anker",
-    "genre": "充電器",
-    "price": 2990
-  },
   "B0CMQK8CMJ": {
     "first_seen": "2026-08-05",
     "first_seen_at": "2026-08-05T21:15:31+09:00",
@@ -1603,11 +1614,11 @@
     "genre": "充電器",
     "price": 2690
   },
-  "B0D53Z4WX3": {
-    "first_seen": "2026-10-25",
-    "first_seen_at": "2026-10-25T22:14:38+09:00",
+  "B0D53VJJ7F": {
+    "first_seen": "2026-07-28",
+    "first_seen_at": "2026-07-28T12:00:00+09:00",
     "last_seen": "2026-11-28",
-    "title": "CIO NovaPort TRIOⅡ 65W 3C PD急速充電器 USB-C×3 3台同時充電 軽量 世界最小級 (ブラック) | ノートPC対応, MacBook対応, iPhone対応, iPad対応, Android対応, 電力を自動最適配分",
+    "title": "CIO NovaPort TRIOⅡ 65W 2C1A PD急速充電器 USB-C×2+USB-A×1 3台同時充電 世界最小級 (ブラック) | ノートPC対応, MacBook対応, iPhone対応, iPad対応, Android対応, 電力を自動最適配分",
     "percent_off": 40,
     "brand": "CIO",
     "genre": "充電器",
@@ -1946,11 +1957,11 @@
     "genre": "充電器",
     "price": 1790
   },
-  "B0H329XGNF": {
+  "B0H3281V2P": {
     "first_seen": "2026-11-27",
-    "first_seen_at": "2026-11-27T01:13:10+09:00",
+    "first_seen_at": "2026-11-27T07:13:41+09:00",
     "last_seen": "2026-11-28",
-    "title": "CIO NovaPort SLIM DUOII 65W2C PD急速充電器 USB-C×2 180°スイングプラグ 薄型軽量90g (ブラック) | 急速充電 2ポート 薄型 軽量 PD PPS NovaIntelligence ノートPC iPhone Switch2向け",
+    "title": "CIO NovaPort SLIM DUOII 65W2C PD急速充電器 USB-C×2 180°スイングプラグ 薄型軽90g (ホワイト) | 急速充電 2ポート 薄型 軽量 PD PPS NovaIntelligence ノートPC iPhone Switch2向け",
     "percent_off": 17,
     "brand": "CIO",
     "genre": "充電器",
@@ -1965,6 +1976,16 @@
     "brand": "エレコム(ELECOM)",
     "genre": "充電器",
     "price": 723
+  },
+  "B0CTJDLWV4": {
+    "first_seen": "2026-11-04",
+    "first_seen_at": "2026-11-04T22:14:46+09:00",
+    "last_seen": "2026-11-28",
+    "title": "エレコム 充電器 65W USB PD対応 小型 Type-C 1ポート PPS対応 GaN II採用 PSE認証 ブラック 【iPhone 16 15 iPad Macbook 等対応】 EC-AC8565BK",
+    "percent_off": 16,
+    "brand": "エレコム(ELECOM)",
+    "genre": "充電器",
+    "price": 2090
   },
   "B0FB2F95HY": {
     "first_seen": "2026-11-27",
@@ -2257,6 +2278,16 @@
     "genre": "スマートウォッチ",
     "price": 33120
   },
+  "B0CJB9C81Z": {
+    "first_seen": "2026-11-27",
+    "first_seen_at": "2026-11-27T04:13:46+09:00",
+    "last_seen": "2026-11-28",
+    "title": "【Suica対応】Fitbit Charge 6 トラッカー ポーセレン／シルバー スマートウォッチ/防水/iPhone対応/アンドロイド対応/最大7日間のバッテリー/GPS搭載/心拍計/睡眠スコア [日本正規品]",
+    "percent_off": 29,
+    "brand": "Fitbit",
+    "genre": "スマートウォッチ",
+    "price": 16800
+  },
   "B0HF4K8JBT": {
     "first_seen": "2026-11-27",
     "first_seen_at": "2026-11-27T01:13:10+09:00",
@@ -2539,6 +2570,16 @@
     "genre": "Amazonデバイス",
     "price": 8980
   },
+  "B09B2PF8S4": {
+    "first_seen": "2026-11-27",
+    "first_seen_at": "2026-11-27T13:13:36+09:00",
+    "last_seen": "2026-11-28",
+    "title": "Amazon Echo Show 5 (エコーショー5) 第3世代 - スマートディスプレイ、2メガピクセルカメラ付き、Alexa+ 早期アクセス対象 | チャコール",
+    "percent_off": 50,
+    "brand": "Amazon",
+    "genre": "Amazonデバイス",
+    "price": 8980
+  },
   "B0GSHC4PWG": {
     "first_seen": "2026-11-27",
     "first_seen_at": "2026-11-27T00:13:28+09:00",
@@ -2580,67 +2621,25 @@
       }
     ]
   },
-  "B0H262HBX2": {
+  "B0DYC5NRM7": {
     "first_seen": "2026-11-27",
-    "first_seen_at": "2026-11-27T00:13:28+09:00",
+    "first_seen_at": "2026-11-27T01:13:10+09:00",
     "last_seen": "2026-11-28",
-    "title": "【セット買い】Amazon Fire TV Stick 4K Max + Amazon Fire TV Soundbar Plus",
-    "percent_off": 45,
+    "title": "【2026年度グッドデザイン賞受賞】Amazon Echo Show 8 (エコーショー8) 最新モデル (2025年発売) - シームレスな新デザイン、8.7インチHDディスプレイ、空間オーディオ、Alexa+のための設計 | グレーシャーホワイト",
+    "percent_off": 40,
     "brand": "Amazon",
     "genre": "Amazonデバイス",
-    "price": 25780,
-    "past": [
-      {
-        "first_seen": "2026-11-04",
-        "last_seen": "2026-11-11",
-        "title": "【セット買い】Amazon Fire TV Stick 4K Max + Amazon Fire TV Soundbar Plus",
-        "brand": null,
-        "genre": null,
-        "price": null,
-        "percent_off": 15
-      }
-    ]
+    "price": 23980
   },
-  "B0F2FLXTZD": {
+  "B0C2S4K41G": {
     "first_seen": "2026-11-27",
-    "first_seen_at": "2026-11-27T22:13:32+09:00",
+    "first_seen_at": "2026-11-27T01:13:10+09:00",
     "last_seen": "2026-11-28",
-    "title": "【セット買い】Echo Show 5 (第3世代) グレーシャーホワイト + SwitchBot スマートリモコン Hub Mini (温湿度センサー搭載・Matter対応版)",
-    "percent_off": 43,
+    "title": "Amazon Echo Spot（2024年発売） - スマートアラームクロック、鮮やかなサウンド、Alexa+ 早期アクセス対象 | ブラック",
+    "percent_off": 35,
     "brand": "Amazon",
     "genre": "Amazonデバイス",
-    "price": 13730
-  },
-  "B0H25V3WSP": {
-    "first_seen": "2026-11-28",
-    "first_seen_at": "2026-11-28T01:13:45+09:00",
-    "last_seen": "2026-11-28",
-    "title": "【セット買い】Amazon Fire TV Stick 4K Select + Amazon Fire TV Soundbar Plus",
-    "percent_off": 39,
-    "brand": "Amazon",
-    "genre": "Amazonデバイス",
-    "price": 27780,
-    "past": [
-      {
-        "first_seen": "2026-11-04",
-        "last_seen": "2026-11-12",
-        "title": "【セット買い】Amazon Fire TV Stick 4K Select + Amazon Fire TV Soundbar Plus",
-        "brand": null,
-        "genre": null,
-        "price": null,
-        "percent_off": 27
-      }
-    ]
-  },
-  "B0F2FNYCRD": {
-    "first_seen": "2026-11-27",
-    "first_seen_at": "2026-11-27T23:14:25+09:00",
-    "last_seen": "2026-11-28",
-    "title": "【セット買い】Echo Spot グレーシャーホワイト + SwitchBot スマートリモコン Hub Mini (温湿度センサー搭載・Matter対応版)",
-    "percent_off": 31,
-    "brand": "Amazon",
-    "genre": "Amazonデバイス",
-    "price": 12230
+    "price": 7480
   },
   "B0CX8MT2M2": {
     "first_seen": "2026-11-04",
@@ -2661,6 +2660,16 @@
     "brand": "Amazon",
     "genre": "Amazonデバイス",
     "price": 5480
+  },
+  "B0G2TXBSWJ": {
+    "first_seen": "2026-11-13",
+    "first_seen_at": "2026-11-13T00:15:52+09:00",
+    "last_seen": "2026-11-28",
+    "title": "Amazon Fire TV Stick 4K Max(マックス) | Fire TV Stick史上最もパワフル | ストリーミングメディアプレイヤー",
+    "percent_off": 27,
+    "brand": "Amazon",
+    "genre": "Amazonデバイス",
+    "price": 8980
   },
   "B0GMKC5ZST": {
     "first_seen": "2026-11-27",
@@ -2903,6 +2912,27 @@
     "brand": "Logicool(ロジクール)",
     "genre": "キーボード・マウス",
     "price": 4063
+  },
+  "B0FGCDSH1J": {
+    "first_seen": "2026-11-27",
+    "first_seen_at": "2026-11-27T01:13:10+09:00",
+    "last_seen": "2026-11-28",
+    "title": "【Amazon.co.jp限定】Logicool G ラピッドトリガー G515 RAPID ゲーミングキーボード G515-TKL-RTBKd | 薄型 アクチュエーションポイント 調整可能 日本語配列 押下圧 35g 有線 テンキーレス 磁気式アナログスイッチ ロープロファイル LIGHTSYNC RGB ブラック ゲーミング キーボード 壁紙ダウンロード付き 国内正規品",
+    "percent_off": 23,
+    "brand": "Logicool G(ロジクール G)",
+    "genre": "キーボード・マウス",
+    "price": 17980,
+    "past": [
+      {
+        "first_seen": "2026-11-03",
+        "last_seen": "2026-11-12",
+        "title": "【Amazon.co.jp限定】Logicool G ラピッドトリガー G515 RAPID ゲーミングキーボード G515-TKL-RTBKd | 薄型 アクチュエーションポイント 調整可能 日本語配列 押下圧 35g 有線 テンキーレス 磁気式アナログスイッチ ロープロファイル LIGHTSYNC RGB ブラック ゲーミング キーボード 壁紙ダウンロード付き 国内正規品",
+        "brand": null,
+        "genre": null,
+        "price": null,
+        "percent_off": 19
+      }
+    ]
   },
   "B0F1FD99K8": {
     "first_seen": "2026-09-25",
@@ -3316,6 +3346,98 @@
     "genre": "エアフライヤー",
     "price": 17270
   },
+  "B09CH44769": {
+    "first_seen": "2026-11-04",
+    "first_seen_at": "2026-11-04T01:15:06+09:00",
+    "last_seen": "2026-11-28",
+    "title": "Anker PowerPort III 3-Port 65W Pod ブラック - 最大65W出力の充電器 / USB-C×2 USB-A×1 | 65W USB-C/Type-C 急速充電器 ノートPCとスマホを3台同時充電。USB-C/Type-C 2ポートとUSB-A1ポート搭載。Anker GaN II採用。MacBook Pro MacBook Air iPad iPhone対応",
+    "percent_off": 46,
+    "brand": "Anker",
+    "genre": "充電器",
+    "price": 2990
+  },
+  "B0D53Z4WX3": {
+    "first_seen": "2026-10-25",
+    "first_seen_at": "2026-10-25T22:14:38+09:00",
+    "last_seen": "2026-11-28",
+    "title": "CIO NovaPort TRIOⅡ 65W 3C PD急速充電器 USB-C×3 3台同時充電 軽量 世界最小級 (ブラック) | ノートPC対応, MacBook対応, iPhone対応, iPad対応, Android対応, 電力を自動最適配分",
+    "percent_off": 40,
+    "brand": "CIO",
+    "genre": "充電器",
+    "price": 3980
+  },
+  "B0H329XGNF": {
+    "first_seen": "2026-11-27",
+    "first_seen_at": "2026-11-27T01:13:10+09:00",
+    "last_seen": "2026-11-28",
+    "title": "CIO NovaPort SLIM DUOII 65W2C PD急速充電器 USB-C×2 180°スイングプラグ 薄型軽量90g (ブラック) | 急速充電 2ポート 薄型 軽量 PD PPS NovaIntelligence ノートPC iPhone Switch2向け",
+    "percent_off": 17,
+    "brand": "CIO",
+    "genre": "充電器",
+    "price": 4980
+  },
+  "B0H262HBX2": {
+    "first_seen": "2026-11-27",
+    "first_seen_at": "2026-11-27T00:13:28+09:00",
+    "last_seen": "2026-11-28",
+    "title": "【セット買い】Amazon Fire TV Stick 4K Max + Amazon Fire TV Soundbar Plus",
+    "percent_off": 45,
+    "brand": "Amazon",
+    "genre": "Amazonデバイス",
+    "price": 25780,
+    "past": [
+      {
+        "first_seen": "2026-11-04",
+        "last_seen": "2026-11-11",
+        "title": "【セット買い】Amazon Fire TV Stick 4K Max + Amazon Fire TV Soundbar Plus",
+        "brand": null,
+        "genre": null,
+        "price": null,
+        "percent_off": 15
+      }
+    ]
+  },
+  "B0F2FLXTZD": {
+    "first_seen": "2026-11-27",
+    "first_seen_at": "2026-11-27T22:13:32+09:00",
+    "last_seen": "2026-11-28",
+    "title": "【セット買い】Echo Show 5 (第3世代) グレーシャーホワイト + SwitchBot スマートリモコン Hub Mini (温湿度センサー搭載・Matter対応版)",
+    "percent_off": 43,
+    "brand": "Amazon",
+    "genre": "Amazonデバイス",
+    "price": 13730
+  },
+  "B0H25V3WSP": {
+    "first_seen": "2026-11-28",
+    "first_seen_at": "2026-11-28T01:13:45+09:00",
+    "last_seen": "2026-11-28",
+    "title": "【セット買い】Amazon Fire TV Stick 4K Select + Amazon Fire TV Soundbar Plus",
+    "percent_off": 39,
+    "brand": "Amazon",
+    "genre": "Amazonデバイス",
+    "price": 27780,
+    "past": [
+      {
+        "first_seen": "2026-11-04",
+        "last_seen": "2026-11-12",
+        "title": "【セット買い】Amazon Fire TV Stick 4K Select + Amazon Fire TV Soundbar Plus",
+        "brand": null,
+        "genre": null,
+        "price": null,
+        "percent_off": 27
+      }
+    ]
+  },
+  "B0F2FNYCRD": {
+    "first_seen": "2026-11-27",
+    "first_seen_at": "2026-11-27T23:14:25+09:00",
+    "last_seen": "2026-11-28",
+    "title": "【セット買い】Echo Spot グレーシャーホワイト + SwitchBot スマートリモコン Hub Mini (温湿度センサー搭載・Matter対応版)",
+    "percent_off": 31,
+    "brand": "Amazon",
+    "genre": "Amazonデバイス",
+    "price": 12230
+  },
   "B0FK4L4ZRV": {
     "first_seen": "2026-11-27",
     "first_seen_at": "2026-11-27T21:13:23+09:00",
@@ -3325,47 +3447,6 @@
     "brand": "Belkin",
     "genre": "充電器",
     "price": 10585
-  },
-  "B0D53VJJ7F": {
-    "first_seen": "2026-07-28",
-    "first_seen_at": "2026-07-28T12:00:00+09:00",
-    "last_seen": "2026-11-28",
-    "title": "CIO NovaPort TRIOⅡ 65W 2C1A PD急速充電器 USB-C×2+USB-A×1 3台同時充電 世界最小級 (ブラック) | ノートPC対応, MacBook対応, iPhone対応, iPad対応, Android対応, 電力を自動最適配分",
-    "percent_off": 40,
-    "brand": "CIO",
-    "genre": "充電器",
-    "price": 3980
-  },
-  "B0H3281V2P": {
-    "first_seen": "2026-11-27",
-    "first_seen_at": "2026-11-27T07:13:41+09:00",
-    "last_seen": "2026-11-28",
-    "title": "CIO NovaPort SLIM DUOII 65W2C PD急速充電器 USB-C×2 180°スイングプラグ 薄型軽90g (ホワイト) | 急速充電 2ポート 薄型 軽量 PD PPS NovaIntelligence ノートPC iPhone Switch2向け",
-    "percent_off": 17,
-    "brand": "CIO",
-    "genre": "充電器",
-    "price": 4980
-  },
-  "B0DZ7WF87P": {
-    "first_seen": "2026-11-22",
-    "first_seen_at": "2026-11-22T04:14:23+09:00",
-    "last_seen": "2026-11-28",
-    "title": "Apple 11 インチ iPad (A16): 11 インチモデル、Liquid Retina ディスプレイ、128GB、Wi-Fi 6、12MP フロント/12MP バックカメラ、Touch ID、一日中使えるバ ッテリー - シルバー",
-    "percent_off": 5,
-    "brand": "Apple(アップル)",
-    "genre": "Apple製品",
-    "price": 71082,
-    "past": [
-      {
-        "first_seen": "2026-10-30",
-        "last_seen": "2026-10-31",
-        "title": "Apple 11 インチ iPad (A16): 11 インチモデル、Liquid Retina ディスプレイ、128GB、Wi-Fi 6、12MP フロント/12MP バックカメラ、Touch ID、一日中使えるバ ッテリー - シルバー",
-        "brand": null,
-        "genre": null,
-        "price": null,
-        "percent_off": 5
-      }
-    ]
   },
   "B0BF9ZYCQ5": {
     "first_seen": "2026-07-31",
@@ -3997,16 +4078,6 @@
     "genre": "スマートホーム",
     "price": 6783
   },
-  "B0DYC5NRM7": {
-    "first_seen": "2026-11-27",
-    "first_seen_at": "2026-11-27T01:13:10+09:00",
-    "last_seen": "2026-11-27",
-    "title": "【2026年度グッドデザイン賞受賞】Amazon Echo Show 8 (エコーショー8) 最新モデル (2025年発売) - シームレスな新デザイン、8.7インチHDディスプレイ、空間オーディオ、Alexa+のための設計 | グレーシャーホワイト",
-    "percent_off": 40,
-    "brand": "Amazon",
-    "genre": "Amazonデバイス",
-    "price": 23980
-  },
   "B0C2RZWV9B": {
     "first_seen": "2026-11-27",
     "first_seen_at": "2026-11-27T13:13:36+09:00",
@@ -4076,27 +4147,6 @@
         "genre": null,
         "price": null,
         "percent_off": 18
-      }
-    ]
-  },
-  "B0FGCDSH1J": {
-    "first_seen": "2026-11-27",
-    "first_seen_at": "2026-11-27T01:13:10+09:00",
-    "last_seen": "2026-11-27",
-    "title": "【Amazon.co.jp限定】Logicool G ラピッドトリガー G515 RAPID ゲーミングキーボード G515-TKL-RTBKd | 薄型 アクチュエーションポイント 調整可能 日本語配列 押下圧 35g 有線 テンキーレス 磁気式アナログスイッチ ロープロファイル LIGHTSYNC RGB ブラック ゲーミング キーボード 壁紙ダウンロード付き 国内正規品",
-    "percent_off": 23,
-    "brand": "Logicool G(ロジクール G)",
-    "genre": "キーボード・マウス",
-    "price": 17980,
-    "past": [
-      {
-        "first_seen": "2026-11-03",
-        "last_seen": "2026-11-12",
-        "title": "【Amazon.co.jp限定】Logicool G ラピッドトリガー G515 RAPID ゲーミングキーボード G515-TKL-RTBKd | 薄型 アクチュエーションポイント 調整可能 日本語配列 押下圧 35g 有線 テンキーレス 磁気式アナログスイッチ ロープロファイル LIGHTSYNC RGB ブラック ゲーミング キーボード 壁紙ダウンロード付き 国内正規品",
-        "brand": null,
-        "genre": null,
-        "price": null,
-        "percent_off": 19
       }
     ]
   },
@@ -4242,16 +4292,6 @@
     "genre": "充電器",
     "price": 8390
   },
-  "B0CTJDLWV4": {
-    "first_seen": "2026-11-04",
-    "first_seen_at": "2026-11-04T22:14:46+09:00",
-    "last_seen": "2026-11-27",
-    "title": "エレコム 充電器 65W USB PD対応 小型 Type-C 1ポート PPS対応 GaN II採用 PSE認証 ブラック 【iPhone 16 15 iPad Macbook 等対応】 EC-AC8565BK",
-    "percent_off": 16,
-    "brand": "エレコム(ELECOM)",
-    "genre": "充電器",
-    "price": 2090
-  },
   "B08PTQMZY3": {
     "first_seen": "2026-10-27",
     "first_seen_at": "2026-10-27T21:14:38+09:00",
@@ -4340,26 +4380,6 @@
     "last_seen": "2026-11-27",
     "title": "Amazon Echo Show 5 (エコーショー5) 第3世代 - スマートディスプレイ、2メガピクセルカメラ付き、Alexa+ 早期アクセス対象 | クラウドブルー",
     "percent_off": 50,
-    "brand": "Amazon",
-    "genre": "Amazonデバイス",
-    "price": 8980
-  },
-  "B0C2S4K41G": {
-    "first_seen": "2026-11-27",
-    "first_seen_at": "2026-11-27T01:13:10+09:00",
-    "last_seen": "2026-11-27",
-    "title": "Amazon Echo Spot（2024年発売） - スマートアラームクロック、鮮やかなサウンド、Alexa+ 早期アクセス対象 | ブラック",
-    "percent_off": 35,
-    "brand": "Amazon",
-    "genre": "Amazonデバイス",
-    "price": 7480
-  },
-  "B0G2TXBSWJ": {
-    "first_seen": "2026-11-13",
-    "first_seen_at": "2026-11-13T00:15:52+09:00",
-    "last_seen": "2026-11-27",
-    "title": "Amazon Fire TV Stick 4K Max(マックス) | Fire TV Stick史上最もパワフル | ストリーミングメディアプレイヤー",
-    "percent_off": 27,
     "brand": "Amazon",
     "genre": "Amazonデバイス",
     "price": 8980
@@ -4487,16 +4507,6 @@
     "brand": "HUAWEI(ファーウェイ)",
     "genre": "スマートウォッチ",
     "price": 21470
-  },
-  "B09B2PF8S4": {
-    "first_seen": "2026-11-27",
-    "first_seen_at": "2026-11-27T13:13:36+09:00",
-    "last_seen": "2026-11-27",
-    "title": "Amazon Echo Show 5 (エコーショー5) 第3世代 - スマートディスプレイ、2メガピクセルカメラ付き、Alexa+ 早期アクセス対象 | チャコール",
-    "percent_off": 50,
-    "brand": "Amazon",
-    "genre": "Amazonデバイス",
-    "price": 8980
   },
   "B0956X785M": {
     "first_seen": "2026-11-27",
@@ -4821,16 +4831,6 @@
     "brand": "スイッチボット(SwitchBot)",
     "genre": "スマートホーム",
     "price": 4650
-  },
-  "B0CJB9C81Z": {
-    "first_seen": "2026-11-27",
-    "first_seen_at": "2026-11-27T04:13:46+09:00",
-    "last_seen": "2026-11-27",
-    "title": "【Suica対応】Fitbit Charge 6 トラッカー ポーセレン／シルバー スマートウォッチ/防水/iPhone対応/アンドロイド対応/最大7日間のバッテリー/GPS搭載/心拍計/睡眠スコア [日本正規品]",
-    "percent_off": 29,
-    "brand": "Fitbit",
-    "genre": "スマートウォッチ",
-    "price": 16800
   },
   "B0B1KKRLTG": {
     "first_seen": "2026-11-27",
