@@ -239,16 +239,6 @@
     "genre": "Apple製品",
     "price": 61000
   },
-  "B0HJB2C5KR": {
-    "first_seen": "2026-11-21",
-    "first_seen_at": "2026-11-21T05:13:10+09:00",
-    "last_seen": "2026-11-29",
-    "title": "Apple Watch Series 12（GPSモデル） | 42mmスペースグレイアルミニウムケースとネイビーブルースポーツバンド - S/M。健康 + フィットネス + 睡眠記録、心拍数、安全",
-    "percent_off": 15,
-    "brand": "Apple(アップル)",
-    "genre": "Apple製品",
-    "price": 61000
-  },
   "B0HJB2SJHN": {
     "first_seen": "2026-11-20",
     "first_seen_at": "2026-11-20T13:15:25+09:00",
@@ -1100,28 +1090,7 @@
     "percent_off": 54,
     "brand": "JBL",
     "genre": "ワイヤレスイヤホン",
-    "price": 12800
-  },
-  "B0BRXQYJFN": {
-    "first_seen": "2026-11-28",
-    "first_seen_at": "2026-11-28T22:14:17+09:00",
-    "last_seen": "2026-11-29",
-    "title": "ゼンハイザー（Sennheiser）イヤホン 有線 IE 200 ブラック ダイナミック カナル型 オーディオファイル ゲーミング TrueResponseトランスデューサー ブレードケーブル イヤーフック イヤフォン デュアルチューニングシステム 【国内正規品】",
-    "percent_off": 46,
-    "brand": "ゼンハイザー(Sennheiser)",
-    "genre": "ワイヤレスイヤホン",
-    "price": 12800,
-    "past": [
-      {
-        "first_seen": "2026-10-17",
-        "last_seen": "2026-11-09",
-        "title": "ゼンハイザー（Sennheiser）イヤホン 有線 IE 200 ブラック ダイナミック カナル型 オーディオファイル ゲーミング TrueResponseトランスデューサー ブレードケーブル イヤーフック イヤフォン デュアルチューニングシステム 【国内正規品】",
-        "brand": null,
-        "genre": null,
-        "price": null,
-        "percent_off": 37
-      }
-    ]
+    "price": 12780
   },
   "B0DPX7W84T": {
     "first_seen": "2026-10-20",
@@ -1264,16 +1233,6 @@
     "genre": "モバイルバッテリー",
     "price": 2276
   },
-  "B0FB9JHXTX": {
-    "first_seen": "2026-11-10",
-    "first_seen_at": "2026-11-10T14:14:58+09:00",
-    "last_seen": "2026-11-29",
-    "title": "CIO SMARTCOBY TRIO 35W モバイルバッテリー PD USB-C×2 USB-A×1 大容量20000mAh (ホワイト) | MacBook対応, WindowsノートPC対応, iPhone対応, パススルー充電対応, 3ポート同時給電",
-    "percent_off": 43,
-    "brand": "CIO",
-    "genre": "モバイルバッテリー",
-    "price": 3980
-  },
   "B0CTLQRSFX": {
     "first_seen": "2026-11-27",
     "first_seen_at": "2026-11-27T00:13:28+09:00",
@@ -1323,6 +1282,26 @@
     "brand": "Anker",
     "genre": "モバイルバッテリー",
     "price": 5190
+  },
+  "B0FQJ1LWCQ": {
+    "first_seen": "2026-11-29",
+    "first_seen_at": "2026-11-29T01:13:21+09:00",
+    "last_seen": "2026-11-29",
+    "title": "CIO SMARTCOBY SLIM 5K 薄型 モバイルバッテリー Qi2 ワイヤレス 5000mAh PD20W (シルバー, セーフティモデル) | 厚さ8.7mmの超薄型, iPhone12〜17対応, Pixel10対応, 発熱抑制優先, USB-C PD入出力",
+    "percent_off": 34,
+    "brand": "CIO",
+    "genre": "モバイルバッテリー",
+    "price": 3940
+  },
+  "B0FQJ21XS8": {
+    "first_seen": "2026-11-29",
+    "first_seen_at": "2026-11-29T01:13:21+09:00",
+    "last_seen": "2026-11-29",
+    "title": "CIO 薄型 モバイルバッテリー Qi2 ワイヤレス PD20W 5000mAh SMARTCOBY SLIM 5K(ブラック, セーフティモデル) | 厚さ8.7mmの超薄型, iPhone12〜18対応, Pixel10対応, 発熱抑制優先, USB-C PD入出力",
+    "percent_off": 34,
+    "brand": "CIO",
+    "genre": "モバイルバッテリー",
+    "price": 3940
   },
   "B0CX4C1TVK": {
     "first_seen": "2026-07-27",
@@ -1385,16 +1364,6 @@
     "genre": "モバイルバッテリー",
     "price": 2790
   },
-  "B0DB17C63X": {
-    "first_seen": "2026-09-26",
-    "first_seen_at": "2026-09-26T00:14:56+09:00",
-    "last_seen": "2026-11-29",
-    "title": "Anker MagGo Power Bank (10000mAh, Slim) ブラック Qi2認証 薄型 | モバイルバッテリー 10000mAh Qi2認証 ワイヤレス充電 最大出力15W マグセーフ対応 マグネット式ワイヤレス充電対応 コンパクト 薄型 小型 magsafe iPhone 18 / 17 / 16 / 15 シリーズ対応",
-    "percent_off": 30,
-    "brand": "Anker",
-    "genre": "モバイルバッテリー",
-    "price": 6990
-  },
   "B0CV9XG1FJ": {
     "first_seen": "2026-11-13",
     "first_seen_at": "2026-11-13T01:15:04+09:00",
@@ -1455,6 +1424,16 @@
     "genre": "モバイルバッテリー",
     "price": 2790
   },
+  "B0H1G5LYR8": {
+    "first_seen": "2026-11-27",
+    "first_seen_at": "2026-11-27T00:13:28+09:00",
+    "last_seen": "2026-11-29",
+    "title": "Anker Nano Power Bank (MagGo, Plus) ブラック 【釘を刺しても燃えないモバイルバッテリー】 | 10000mAh MagSafeモバイルバッテリー PSE 3C認証 安全 Qi2 最大出力15W マグセーフ マグネット式ワイヤレス充電対応 薄型 大容量 iPhone 18 / 17 / 16 / 15 シリーズ対応",
+    "percent_off": 20,
+    "brand": "Anker",
+    "genre": "モバイルバッテリー",
+    "price": 9590
+  },
   "B0DRFQNPDQ": {
     "first_seen": "2026-11-27",
     "first_seen_at": "2026-11-27T13:13:36+09:00",
@@ -1465,15 +1444,36 @@
     "genre": "モバイルバッテリー",
     "price": 3990
   },
-  "B0H389Q5ZB": {
-    "first_seen": "2026-11-28",
-    "first_seen_at": "2026-11-28T13:13:37+09:00",
+  "B0GMWT4SML": {
+    "first_seen": "2026-11-29",
+    "first_seen_at": "2026-11-29T01:13:21+09:00",
     "last_seen": "2026-11-29",
-    "title": "エレコム モバイルバッテリー 5000mAh 22.5W USB-C 直挿し プラグ一体型 ケーブル不要 急速充電 コンパクト 軽量 130g iPhone対応 パススルー充電 PSE認証 スイング式コネクタ Type-C ブルー EC-C28LBU",
+    "title": "CIO SMARTCOBY SLIM Ⅱ Wireless 2.2 SS5K モバイルバッテリー 半固体 ワイヤレス充電 5000mAh (ブラック) | iPhone17対応, Pixel10対応, ワイヤレス25W急速, USB-C20W対応, 超薄型で携帯",
     "percent_off": 18,
-    "brand": "エレコム(ELECOM)",
+    "brand": "CIO",
     "genre": "モバイルバッテリー",
-    "price": 2136
+    "price": 5980,
+    "past": [
+      {
+        "first_seen": "2026-11-07",
+        "last_seen": "2026-11-07",
+        "title": "CIO SMARTCOBY SLIM Ⅱ Wireless 2.2 SS5K モバイルバッテリー 半固体 ワイヤレス充電 5000mAh (ブラック) | iPhone17対応, Pixel10対応, ワイヤレス25W急速, USB-C20W対応, 超薄型で携帯",
+        "brand": null,
+        "genre": null,
+        "price": null,
+        "percent_off": 14
+      }
+    ]
+  },
+  "B0GMWW1GFR": {
+    "first_seen": "2026-11-09",
+    "first_seen_at": "2026-11-09T22:14:55+09:00",
+    "last_seen": "2026-11-29",
+    "title": "CIO 半固体 モバイルバッテリー ワイヤレス充電 5000mAh SMARTCOBY SLIM Ⅱ Wireless 2.2 SS5K(シルバー) | iPhone18 Pro対応, Pixel10対応, ワイヤレス25W急速, USB-C20W対応, 超薄型で携帯",
+    "percent_off": 18,
+    "brand": "CIO",
+    "genre": "モバイルバッテリー",
+    "price": 5980
   },
   "B0H1BYKWRV": {
     "first_seen": "2026-11-27",
@@ -1504,6 +1504,16 @@
     "brand": "CIO",
     "genre": "モバイルバッテリー",
     "price": 7480
+  },
+  "B0H389CB56": {
+    "first_seen": "2026-11-27",
+    "first_seen_at": "2026-11-27T01:13:10+09:00",
+    "last_seen": "2026-11-29",
+    "title": "エレコム モバイルバッテリー 5000mAh 22.5W USB-C 直挿し プラグ一体型 ケーブル不要 急速充電 コンパクト 軽量 130g iPhone対応 パススルー充電 PSE認証 スイング式コネクタ Type-C ピンク EC-C28LPN",
+    "percent_off": 16,
+    "brand": "エレコム(ELECOM)",
+    "genre": "モバイルバッテリー",
+    "price": 2168
   },
   "B0GR9HWYZ8": {
     "first_seen": "2026-11-27",
@@ -1540,6 +1550,16 @@
     "first_seen_at": "2026-11-28T22:14:17+09:00",
     "last_seen": "2026-11-29",
     "title": "CIO SMARTCOBY SLIM Ⅱ Wireless 2.0 SS5K 半固体モバイルバッテリー ワイヤレス充電 5000mAh (シルバー) | MagSafe対応,Qi2,マグネット式,iPhone12〜17対応, Pixel10対応, 8.7mmの超薄型, 発熱抑制, USB-C PD20W",
+    "percent_off": 14,
+    "brand": "CIO",
+    "genre": "モバイルバッテリー",
+    "price": 5980
+  },
+  "B0FTZ4M256": {
+    "first_seen": "2026-11-28",
+    "first_seen_at": "2026-11-28T21:13:19+09:00",
+    "last_seen": "2026-11-29",
+    "title": "CIO SMARTCOBY SLIM Ⅱ Wireless 2.0 SS5K 半固体モバイルバッテリー ワイヤレス充電 5000mAh (ブラック) | iPhone12〜17対応, Pixel10対応, 8.7mmの超薄型, 発熱抑制, USB-C PD20W",
     "percent_off": 14,
     "brand": "CIO",
     "genre": "モバイルバッテリー",
@@ -1787,6 +1807,16 @@
     "genre": "充電器",
     "price": 2670
   },
+  "B0B2QR8HN9": {
+    "first_seen": "2026-08-09",
+    "first_seen_at": "2026-08-09T19:54:50+09:00",
+    "last_seen": "2026-11-29",
+    "title": "Anker 511 Charger (Nano 3, 30W) ホワイト | 30W USB-C急速充電器 手のひらサイズでノートPCにも給電。GaN採用で折りたたみ式プラグ搭載。PD PPS対応 MacBook Air iPhone iPad Galaxy Pixel対応 PSE技術基準適合",
+    "percent_off": null,
+    "brand": "Anker",
+    "genre": "充電器",
+    "price": 2790
+  },
   "B0DBKTPD26": {
     "first_seen": "2026-11-04",
     "first_seen_at": "2026-11-04T00:15:51+09:00",
@@ -1796,6 +1826,16 @@
     "brand": "Anker",
     "genre": "充電器",
     "price": 1490
+  },
+  "B08NVDHCD8": {
+    "first_seen": "2026-10-21",
+    "first_seen_at": "2026-10-21T00:15:48+09:00",
+    "last_seen": "2026-11-29",
+    "title": "Anker PowerPort mini 2個セット ブラック | （USB充電器 12W 2ポート）【PSE技術基準適合/折りたたみ式プラグ/PowerIQ/超コンパクトサイズ 】iPhone iPad Android各種対応 ホワイト",
+    "percent_off": 32,
+    "brand": "Anker",
+    "genre": "充電器",
+    "price": 1690
   },
   "B0CTC7KYZF": {
     "first_seen": "2026-09-26",
@@ -1990,11 +2030,11 @@
     "genre": "充電器",
     "price": 1583
   },
-  "B0F43NCQ25": {
+  "B0F43RNTYH": {
     "first_seen": "2026-11-27",
-    "first_seen_at": "2026-11-27T00:13:28+09:00",
+    "first_seen_at": "2026-11-27T13:13:36+09:00",
     "last_seen": "2026-11-29",
-    "title": "エレコム 充電器 100W 3ポート Type-C USB-A USB PD対応 スイング式プラグ採用 ブラック EC-AC104100BK",
+    "title": "エレコム 充電器 100W 3ポート Type-C USB PD対応 スイング式プラグ採用 ブラック EC-AC113100BK",
     "percent_off": 19,
     "brand": "エレコム(ELECOM)",
     "genre": "充電器",
@@ -2050,6 +2090,16 @@
     "genre": "充電器",
     "price": 1790
   },
+  "B0H3281V2P": {
+    "first_seen": "2026-11-27",
+    "first_seen_at": "2026-11-27T07:13:41+09:00",
+    "last_seen": "2026-11-29",
+    "title": "CIO NovaPort SLIM DUOII 65W2C PD急速充電器 USB-C×2 180°スイングプラグ 薄型軽90g (ホワイト) | 急速充電 2ポート 薄型 軽量 PD PPS NovaIntelligence ノートPC iPhone Switch2向け",
+    "percent_off": 17,
+    "brand": "CIO",
+    "genre": "充電器",
+    "price": 4980
+  },
   "B0CZN9XSDM": {
     "first_seen": "2026-11-27",
     "first_seen_at": "2026-11-27T00:13:28+09:00",
@@ -2059,6 +2109,16 @@
     "brand": "エレコム(ELECOM)",
     "genre": "充電器",
     "price": 723
+  },
+  "B0CTJDLWV4": {
+    "first_seen": "2026-11-04",
+    "first_seen_at": "2026-11-04T22:14:46+09:00",
+    "last_seen": "2026-11-29",
+    "title": "エレコム 充電器 65W USB PD対応 小型 Type-C 1ポート PPS対応 GaN II採用 PSE認証 ブラック 【iPhone 16 15 iPad Macbook 等対応】 EC-AC8565BK",
+    "percent_off": 16,
+    "brand": "エレコム(ELECOM)",
+    "genre": "充電器",
+    "price": 2090
   },
   "B0FB2F95HY": {
     "first_seen": "2026-11-27",
@@ -2079,16 +2139,6 @@
     "brand": "Belkin",
     "genre": "充電器",
     "price": 7564
-  },
-  "B0CWN59C9H": {
-    "first_seen": "2026-11-04",
-    "first_seen_at": "2026-11-04T09:15:07+09:00",
-    "last_seen": "2026-11-29",
-    "title": "Belkin カーチャージャー 30W USB-C 車載充電器 PD/PPS対応 急速充電 ブラック | USB-C最大30W出力、PD/PPS対応、急速充電対応、iPhone 18シリーズ以下・iPad・Android対応、USB-IF認証、2年保証・最大2,500米ドルCEW",
-    "percent_off": 15,
-    "brand": "Belkin",
-    "genre": "充電器",
-    "price": 1850
   },
   "B08P45YTTL": {
     "first_seen": "2026-11-04",
@@ -2755,6 +2805,27 @@
     "genre": "Amazonデバイス",
     "price": 23980
   },
+  "B0H25V3WSP": {
+    "first_seen": "2026-11-28",
+    "first_seen_at": "2026-11-28T01:13:45+09:00",
+    "last_seen": "2026-11-29",
+    "title": "【セット買い】Amazon Fire TV Stick 4K Select + Amazon Fire TV Soundbar Plus",
+    "percent_off": 39,
+    "brand": "Amazon",
+    "genre": "Amazonデバイス",
+    "price": 27780,
+    "past": [
+      {
+        "first_seen": "2026-11-04",
+        "last_seen": "2026-11-12",
+        "title": "【セット買い】Amazon Fire TV Stick 4K Select + Amazon Fire TV Soundbar Plus",
+        "brand": null,
+        "genre": null,
+        "price": null,
+        "percent_off": 27
+      }
+    ]
+  },
   "B0C7K814LB": {
     "first_seen": "2026-11-28",
     "first_seen_at": "2026-11-28T22:14:17+09:00",
@@ -2846,16 +2917,6 @@
     "brand": "Amazon",
     "genre": "Amazonデバイス",
     "price": 8980
-  },
-  "B0CFPHTMDX": {
-    "first_seen": "2026-11-29",
-    "first_seen_at": "2026-11-29T00:14:42+09:00",
-    "last_seen": "2026-11-29",
-    "title": "Kindle Paperwhite シグニチャーエディション (32GB) 7インチディスプレイ、明るさ自動調整、色調調節ライト、12週間持続バッテリー、広告なし、メタリックブラック",
-    "percent_off": 27,
-    "brand": "Amazon",
-    "genre": "Amazonデバイス",
-    "price": 23980
   },
   "B0GFY8RKJL": {
     "first_seen": "2026-11-27",
@@ -3648,6 +3709,97 @@
     "genre": "エアフライヤー",
     "price": 17270
   },
+  "B0HJB2C5KR": {
+    "first_seen": "2026-11-21",
+    "first_seen_at": "2026-11-21T05:13:10+09:00",
+    "last_seen": "2026-11-29",
+    "title": "Apple Watch Series 12（GPSモデル） | 42mmスペースグレイアルミニウムケースとネイビーブルースポーツバンド - S/M。健康 + フィットネス + 睡眠記録、心拍数、安全",
+    "percent_off": 15,
+    "brand": "Apple(アップル)",
+    "genre": "Apple製品",
+    "price": 61000
+  },
+  "B0BRXQYJFN": {
+    "first_seen": "2026-11-28",
+    "first_seen_at": "2026-11-28T22:14:17+09:00",
+    "last_seen": "2026-11-29",
+    "title": "ゼンハイザー（Sennheiser）イヤホン 有線 IE 200 ブラック ダイナミック カナル型 オーディオファイル ゲーミング TrueResponseトランスデューサー ブレードケーブル イヤーフック イヤフォン デュアルチューニングシステム 【国内正規品】",
+    "percent_off": 46,
+    "brand": "ゼンハイザー(Sennheiser)",
+    "genre": "ワイヤレスイヤホン",
+    "price": 12800,
+    "past": [
+      {
+        "first_seen": "2026-10-17",
+        "last_seen": "2026-11-09",
+        "title": "ゼンハイザー（Sennheiser）イヤホン 有線 IE 200 ブラック ダイナミック カナル型 オーディオファイル ゲーミング TrueResponseトランスデューサー ブレードケーブル イヤーフック イヤフォン デュアルチューニングシステム 【国内正規品】",
+        "brand": null,
+        "genre": null,
+        "price": null,
+        "percent_off": 37
+      }
+    ]
+  },
+  "B0FB9JHXTX": {
+    "first_seen": "2026-11-10",
+    "first_seen_at": "2026-11-10T14:14:58+09:00",
+    "last_seen": "2026-11-29",
+    "title": "CIO SMARTCOBY TRIO 35W モバイルバッテリー PD USB-C×2 USB-A×1 大容量20000mAh (ホワイト) | MacBook対応, WindowsノートPC対応, iPhone対応, パススルー充電対応, 3ポート同時給電",
+    "percent_off": 43,
+    "brand": "CIO",
+    "genre": "モバイルバッテリー",
+    "price": 3980
+  },
+  "B0DB17C63X": {
+    "first_seen": "2026-09-26",
+    "first_seen_at": "2026-09-26T00:14:56+09:00",
+    "last_seen": "2026-11-29",
+    "title": "Anker MagGo Power Bank (10000mAh, Slim) ブラック Qi2認証 薄型 | モバイルバッテリー 10000mAh Qi2認証 ワイヤレス充電 最大出力15W マグセーフ対応 マグネット式ワイヤレス充電対応 コンパクト 薄型 小型 magsafe iPhone 18 / 17 / 16 / 15 シリーズ対応",
+    "percent_off": 30,
+    "brand": "Anker",
+    "genre": "モバイルバッテリー",
+    "price": 6990
+  },
+  "B0H389Q5ZB": {
+    "first_seen": "2026-11-28",
+    "first_seen_at": "2026-11-28T13:13:37+09:00",
+    "last_seen": "2026-11-29",
+    "title": "エレコム モバイルバッテリー 5000mAh 22.5W USB-C 直挿し プラグ一体型 ケーブル不要 急速充電 コンパクト 軽量 130g iPhone対応 パススルー充電 PSE認証 スイング式コネクタ Type-C ブルー EC-C28LBU",
+    "percent_off": 18,
+    "brand": "エレコム(ELECOM)",
+    "genre": "モバイルバッテリー",
+    "price": 2136
+  },
+  "B0F43NCQ25": {
+    "first_seen": "2026-11-27",
+    "first_seen_at": "2026-11-27T00:13:28+09:00",
+    "last_seen": "2026-11-29",
+    "title": "エレコム 充電器 100W 3ポート Type-C USB-A USB PD対応 スイング式プラグ採用 ブラック EC-AC104100BK",
+    "percent_off": 19,
+    "brand": "エレコム(ELECOM)",
+    "genre": "充電器",
+    "price": 4445
+  },
+  "B0CWN59C9H": {
+    "first_seen": "2026-11-04",
+    "first_seen_at": "2026-11-04T09:15:07+09:00",
+    "last_seen": "2026-11-29",
+    "title": "Belkin カーチャージャー 30W USB-C 車載充電器 PD/PPS対応 急速充電 ブラック | USB-C最大30W出力、PD/PPS対応、急速充電対応、iPhone 18シリーズ以下・iPad・Android対応、USB-IF認証、2年保証・最大2,500米ドルCEW",
+    "percent_off": 15,
+    "brand": "Belkin",
+    "genre": "充電器",
+    "price": 1850
+  },
+  "B0CFPHTMDX": {
+    "first_seen": "2026-11-29",
+    "first_seen_at": "2026-11-29T00:14:42+09:00",
+    "last_seen": "2026-11-29",
+    "title": "Kindle Paperwhite シグニチャーエディション (32GB) 7インチディスプレイ、明るさ自動調整、色調調節ライト、12週間持続バッテリー、広告なし、メタリックブラック",
+    "percent_off": 27,
+    "brand": "Amazon",
+    "genre": "Amazonデバイス",
+    "price": 23980
+  },
   "B0GK1R3NZ4": {
     "first_seen": "2026-11-28",
     "first_seen_at": "2026-11-28T23:13:36+09:00",
@@ -3677,16 +3829,6 @@
     "brand": "Anker",
     "genre": "モバイルバッテリー",
     "price": 2890
-  },
-  "B08NVDHCD8": {
-    "first_seen": "2026-10-21",
-    "first_seen_at": "2026-10-21T00:15:48+09:00",
-    "last_seen": "2026-11-28",
-    "title": "Anker PowerPort mini 2個セット ブラック | （USB充電器 12W 2ポート）【PSE技術基準適合/折りたたみ式プラグ/PowerIQ/超コンパクトサイズ 】iPhone iPad Android各種対応 ホワイト",
-    "percent_off": 32,
-    "brand": "Anker",
-    "genre": "充電器",
-    "price": 1690
   },
   "B0B57H4FD3": {
     "first_seen": "2026-11-11",
@@ -3821,16 +3963,6 @@
     "genre": "充電器",
     "price": 1178
   },
-  "B0H3281V2P": {
-    "first_seen": "2026-11-27",
-    "first_seen_at": "2026-11-27T07:13:41+09:00",
-    "last_seen": "2026-11-28",
-    "title": "CIO NovaPort SLIM DUOII 65W2C PD急速充電器 USB-C×2 180°スイングプラグ 薄型軽90g (ホワイト) | 急速充電 2ポート 薄型 軽量 PD PPS NovaIntelligence ノートPC iPhone Switch2向け",
-    "percent_off": 17,
-    "brand": "CIO",
-    "genre": "充電器",
-    "price": 4980
-  },
   "B0H4LGQM6H": {
     "first_seen": "2026-11-28",
     "first_seen_at": "2026-11-28T22:14:17+09:00",
@@ -3963,16 +4095,6 @@
     "genre": "モバイルバッテリー",
     "price": 2039
   },
-  "B0FTZ4M256": {
-    "first_seen": "2026-11-28",
-    "first_seen_at": "2026-11-28T21:13:19+09:00",
-    "last_seen": "2026-11-28",
-    "title": "CIO SMARTCOBY SLIM Ⅱ Wireless 2.0 SS5K 半固体モバイルバッテリー ワイヤレス充電 5000mAh (ブラック) | iPhone12〜17対応, Pixel10対応, 8.7mmの超薄型, 発熱抑制, USB-C PD20W",
-    "percent_off": 14,
-    "brand": "CIO",
-    "genre": "モバイルバッテリー",
-    "price": 5980
-  },
   "B0D53WHQD6": {
     "first_seen": "2026-09-01",
     "first_seen_at": "2026-09-01T22:14:34+09:00",
@@ -3982,16 +4104,6 @@
     "brand": "CIO",
     "genre": "充電器",
     "price": 3980
-  },
-  "B0B2QR8HN9": {
-    "first_seen": "2026-08-09",
-    "first_seen_at": "2026-08-09T19:54:50+09:00",
-    "last_seen": "2026-11-28",
-    "title": "Anker 511 Charger (Nano 3, 30W) ホワイト | 30W USB-C急速充電器 手のひらサイズでノートPCにも給電。GaN採用で折りたたみ式プラグ搭載。PD PPS対応 MacBook Air iPhone iPad Galaxy Pixel対応 PSE技術基準適合",
-    "percent_off": null,
-    "brand": "Anker",
-    "genre": "充電器",
-    "price": 2790
   },
   "B0FH29S7QN": {
     "first_seen": "2026-11-27",
@@ -4204,16 +4316,6 @@
     "genre": "充電器",
     "price": 4980
   },
-  "B0CTJDLWV4": {
-    "first_seen": "2026-11-04",
-    "first_seen_at": "2026-11-04T22:14:46+09:00",
-    "last_seen": "2026-11-28",
-    "title": "エレコム 充電器 65W USB PD対応 小型 Type-C 1ポート PPS対応 GaN II採用 PSE認証 ブラック 【iPhone 16 15 iPad Macbook 等対応】 EC-AC8565BK",
-    "percent_off": 16,
-    "brand": "エレコム(ELECOM)",
-    "genre": "充電器",
-    "price": 2090
-  },
   "B0F5WNVHH7": {
     "first_seen": "2026-07-30",
     "first_seen_at": "2026-07-30T12:00:00+09:00",
@@ -4263,16 +4365,6 @@
     "brand": "エレコム(ELECOM)",
     "genre": "キーボード・マウス",
     "price": 3090
-  },
-  "B0F43RNTYH": {
-    "first_seen": "2026-11-27",
-    "first_seen_at": "2026-11-27T13:13:36+09:00",
-    "last_seen": "2026-11-28",
-    "title": "エレコム 充電器 100W 3ポート Type-C USB PD対応 スイング式プラグ採用 ブラック EC-AC113100BK",
-    "percent_off": 19,
-    "brand": "エレコム(ELECOM)",
-    "genre": "充電器",
-    "price": 4445
   },
   "B0CFKJP1WX": {
     "first_seen": "2026-11-28",
@@ -4507,16 +4599,6 @@
     "genre": "ワイヤレスイヤホン",
     "price": 2781
   },
-  "B0H1G5LYR8": {
-    "first_seen": "2026-11-27",
-    "first_seen_at": "2026-11-27T00:13:28+09:00",
-    "last_seen": "2026-11-28",
-    "title": "Anker Nano Power Bank (MagGo, Plus) ブラック 【釘を刺しても燃えないモバイルバッテリー】 | 10000mAh MagSafeモバイルバッテリー PSE 3C認証 安全 Qi2 最大出力15W マグセーフ マグネット式ワイヤレス充電対応 薄型 大容量 iPhone 18 / 17 / 16 / 15 シリーズ対応",
-    "percent_off": 20,
-    "brand": "Anker",
-    "genre": "モバイルバッテリー",
-    "price": 9590
-  },
   "B0FHK6F5G1": {
     "first_seen": "2026-11-27",
     "first_seen_at": "2026-11-27T13:13:36+09:00",
@@ -4739,27 +4821,6 @@
     "brand": "Amazon",
     "genre": "Amazonデバイス",
     "price": 13730
-  },
-  "B0H25V3WSP": {
-    "first_seen": "2026-11-28",
-    "first_seen_at": "2026-11-28T01:13:45+09:00",
-    "last_seen": "2026-11-28",
-    "title": "【セット買い】Amazon Fire TV Stick 4K Select + Amazon Fire TV Soundbar Plus",
-    "percent_off": 39,
-    "brand": "Amazon",
-    "genre": "Amazonデバイス",
-    "price": 27780,
-    "past": [
-      {
-        "first_seen": "2026-11-04",
-        "last_seen": "2026-11-12",
-        "title": "【セット買い】Amazon Fire TV Stick 4K Select + Amazon Fire TV Soundbar Plus",
-        "brand": null,
-        "genre": null,
-        "price": null,
-        "percent_off": 27
-      }
-    ]
   },
   "B0F2FNYCRD": {
     "first_seen": "2026-11-27",
@@ -5740,16 +5801,6 @@
       }
     ]
   },
-  "B0H389CB56": {
-    "first_seen": "2026-11-27",
-    "first_seen_at": "2026-11-27T01:13:10+09:00",
-    "last_seen": "2026-11-27",
-    "title": "エレコム モバイルバッテリー 5000mAh 22.5W USB-C 直挿し プラグ一体型 ケーブル不要 急速充電 コンパクト 軽量 130g iPhone対応 パススルー充電 PSE認証 スイング式コネクタ Type-C ピンク EC-C28LPN",
-    "percent_off": 16,
-    "brand": "エレコム(ELECOM)",
-    "genre": "モバイルバッテリー",
-    "price": 2168
-  },
   "B0HH8XVZPG": {
     "first_seen": "2026-11-27",
     "first_seen_at": "2026-11-27T07:13:41+09:00",
@@ -6604,16 +6655,6 @@
     "brand": "Anker",
     "genre": "モバイルバッテリー",
     "price": 9990
-  },
-  "B0GMWW1GFR": {
-    "first_seen": "2026-11-09",
-    "first_seen_at": "2026-11-09T22:14:55+09:00",
-    "last_seen": "2026-11-21",
-    "title": "CIO 半固体 モバイルバッテリー ワイヤレス充電 5000mAh SMARTCOBY SLIM Ⅱ Wireless 2.2 SS5K(シルバー) | iPhone18 Pro対応, Pixel10対応, ワイヤレス25W急速, USB-C20W対応, 超薄型で携帯",
-    "percent_off": null,
-    "brand": "CIO",
-    "genre": "モバイルバッテリー",
-    "price": 7280
   },
   "B07K13Z1Q4": {
     "first_seen": "2026-10-17",
@@ -8370,14 +8411,6 @@
     "last_seen": "2026-11-07",
     "title": "Anker Nano Power Bank (12W, Built-In Lightning Connector) ブルー | モバイルバッテリー 5K 5000mAh 小型 軽量 コンパクト lightning【MFi認証済/PowerIQ搭載/ライトニング端子一体型】 iPhone 14 シリーズ",
     "percent_off": null,
-    "archived": true
-  },
-  "B0GMWT4SML": {
-    "first_seen": "2026-11-07",
-    "first_seen_at": "2026-11-07T23:14:37+09:00",
-    "last_seen": "2026-11-07",
-    "title": "CIO SMARTCOBY SLIM Ⅱ Wireless 2.2 SS5K モバイルバッテリー 半固体 ワイヤレス充電 5000mAh (ブラック) | iPhone17対応, Pixel10対応, ワイヤレス25W急速, USB-C20W対応, 超薄型で携帯",
-    "percent_off": 14,
     "archived": true
   },
   "B0FR8KBS5K": {
